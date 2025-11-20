@@ -1,0 +1,294 @@
+[x] DeepMind (Custom Scraper)
+[x] nvidia
+[x] openai (Custom Scraper)
+[ ] Anthropic
+[ ] deepai
+[ ] perplexity
+[ ] Google
+[x] microsoft
+[ ] bing
+[ ] Meta AI
+[x] IBM AI (IBM Research)
+[ ] Stanford AI Lab
+[x] MIT CSAIL
+[x] Allen Institute for AI (AI2)
+[x] Amazon Science
+[ ] Baidu Research
+[x] Hugging Face
+[x] Scale AI
+[-] Runway (No RSS found)
+[x] Deepgram
+[x] Tabnine
+[ ] Synthesia
+[ ] Arthur AI
+[x] Cohere
+[x] MindsDB
+[x] Databricks
+[x] Weights & Biases
+[x] KDnuggets
+[x] The Gradient
+[x] Distill.pub
+[x] Berkeley AI Research (BAIR)
+[x] CMU Machine Learning
+[x] Apple Machine Learning Research
+[x] Uber Engineering (AI)
+[x] Netflix Tech Blog (AI/ML)
+[x] Pinterest Engineering (AI/ML)
+[ ] Salesforce AI Research
+[ ] Adobe Research
+[x] EleutherAI
+[x] Stability AI
+[ ] Midjourney
+[ ] Character.ai
+[ ] MosaicML
+[ ] Adept AI
+[ ] Inflection AI
+[-] Cerebras (RSS 404)
+[x] Graphcore
+[ ] SambaNova
+[-] Groq (No RSS found)
+[x] Together AI
+[-] Mistral AI (No RSS found)
+[ ] 01.ai
+[ ] Sakana AI
+[ ] Imbue
+[ ] Contextual AI
+[ ] Essential AI
+[ ] Liquid AI
+[ ] Physical Intelligence
+[ ] Covariant
+[ ] Vicarious
+[ ] Numenta
+[ ] Geometric Intelligence
+[ ] Kyutai
+[ ] Helsinki-NLP
+[ ] BigScience
+[ ] LAION
+[ ] ML Collective
+[ ] Masakhane
+[-] Cohere For AI (No RSS found)
+[x] Google Research
+[x] Google Cloud Blog (AI & ML)
+[x] AWS Machine Learning Blog
+[ ] Azure AI Blog
+[ ] TensorFlow Blog
+[x] PyTorch Blog
+[-] Keras Blog (No RSS found)
+[-] JAX Blog (No RSS found)
+[x] LangChain Blog
+[x] LlamaIndex Blog
+[-] Haystack Blog (No RSS found)
+[x] Weaviate Blog
+[-] Pinecone Blog (No RSS found)
+[x] Qdrant Blog
+[-] Chroma Blog (No RSS found)
+[-] Milvus Blog (No RSS found)
+[-] Zilliz Blog (No RSS found)
+[-] Vespa Blog (No RSS found)
+[-] Redis AI Blog (No RSS found)
+[x] Neo4j Graph Data Science
+[-] TigerGraph AI (No RSS found)
+[-] Snowflake Data Science (No RSS found)
+[-] Dataiku Blog (No RSS found)
+[ ] Domino Data Lab Blog
+[ ] H2O.ai Blog
+[ ] DataRobot Blog
+[ ] RapidMiner Blog
+[ ] KNIME Blog
+[ ] Alteryx Data Science
+[ ] Anaconda Blog
+[ ] RStudio (Posit) Blog (Added as Posit AI)
+[-] Fast.ai (Redirect loop/404)
+[-] Papers with Code (Shut down/Redirects)
+[ ] ArXiv Daily
+[ ] Short Science
+[x] Machine Learning Mastery
+[x] Towards Data Science
+[x] Analytics Vidhya
+[x] Kaggle Blog
+[-] DrivenData
+[-] Zindi
+[-] Topcoder Data Science
+[-] OpenDataScience
+[-] Data Science Central
+[-] O'Reilly AI
+[x] VentureBeat AI
+[x] TechCrunch AI
+[x] The Verge AI
+[x] Wired AI
+[x] MIT Technology Review (AI)
+[-] IEEE Spectrum (AI) (403 Forbidden)
+[-] ACM TechNews (AI) (403 Forbidden)
+[ ] Science Daily (AI)
+[ ] Nature Machine Intelligence
+[ ] Springer AI
+[ ] Elsevier AI
+[ ] Wiley AI
+[ ] SAGE AI
+[ ] Taylor & Francis AI
+[ ] PLOS AI
+[ ] Frontiers in AI
+[ ] MDPI AI
+[ ] Hindawi AI
+[ ] Cambridge AI
+[ ] Oxford AI
+[ ] Harvard Data Science Review
+[x] Posit AI Blog
+[-] Vector Institute (No RSS found)
+[-] Alan Turing Institute (No RSS found)
+[-] Domino Data Lab (404)
+[ ] Stanford AI Lab Blog
+[-] Berkeley AI Research (BAIR) Blog (Already added)
+[x] MIT CSAIL News
+[x] CMU Machine Learning Blog
+[ ] Georgia Tech Machine Learning Center
+[-] UW CSE News (Added as UW CSE)
+[ ] UT Austin Computer Science Blog
+[ ] UIUC Computer Science News
+[ ] Cornell Computer Science News
+[ ] Princeton Computer Science News
+[ ] Columbia Engineering News (AI)
+[x] Harvard SEAS News (CS/AI)
+[ ] Caltech IST News
+[ ] Oxford Computer Science News
+[x] Cambridge Computer Science News
+[ ] ETH Zurich AI Center News
+[ ] EPFL IC School News
+[ ] University of Toronto CS News
+[ ] McGill CS News
+[ ] Mila News (Quebec AI Institute)
+[ ] Vector Institute Blog
+[ ] Alan Turing Institute Blog
+[x] MIT Schwarzman College of Computing
+[x] CMU School of Computer Science
+[x] UW CSE
+[-] Stanford AI Lab (No RSS found)
+[-] Berkeley CDSS (No RSS found)
+[-] Georgia Tech ML (No RSS found)
+[-] UT Austin CS (No RSS found)
+[-] UIUC CS (No RSS found)
+[-] Cornell CS (No RSS found)
+[-] Princeton CS (No RSS found)
+[-] Columbia Engineering (No RSS found)
+[-] Caltech IST (No RSS found)
+[-] Oxford CS (No RSS found)
+[-] ETH Zurich AI Center (No RSS found)
+[-] EPFL IC School (No RSS found)
+[-] UofT CS (No RSS found)
+[-] McGill CS (No RSS found)
+[-] Mila (No RSS found)CS (AI)
+[ ] Vanderbilt CS (AI)
+[x] Notre Dame CS (AI)
+[-] WUSTL CS (AI) (404 during ingestion)
+[ ] Emory CS (AI)
+[ ] Georgetown CS (AI)
+[ ] Tufts CS (AI)
+[ ] BU CS (AI)
+[ ] BC CS (AI)
+[x] Northeastern CS (AI)
+[ ] UMass CS (AI)
+[ ] Rutgers CS (AI)
+[ ] Stony Brook CS (AI)
+[ ] Buffalo CS (AI)
+[ ] RPI CS (AI)
+[ ] RIT CS (AI)
+[ ] Syracuse CS (AI)
+[ ] Pitt CS (AI)
+[ ] Penn State CS (AI)
+[ ] Temple CS (AI)
+[ ] Drexel CS (AI)
+[ ] Delaware CS (AI)
+[ ] Virginia Tech CS (AI)
+[ ] UVA CS (AI)
+[ ] UNC CS (AI)
+[ ] NC State CS (AI)
+[ ] Clemson CS (AI)
+[ ] Georgia State CS (AI)
+[ ] Florida CS (AI)
+[ ] FSU CS (AI)
+[ ] Miami CS (AI)
+[ ] Alabama CS (AI)
+[ ] Auburn CS (AI)
+[ ] LSU CS (AI)
+[ ] Tulane CS (AI)
+[ ] Texas A&M CS (AI)
+[ ] Houston CS (AI)
+[ ] Dallas CS (AI)
+[ ] Arlington CS (AI)
+[ ] El Paso CS (AI)
+[ ] San Antonio CS (AI)
+[ ] Oklahoma CS (AI)
+[ ] Kansas CS (AI)
+[ ] Missouri CS (AI)
+[ ] Iowa CS (AI)
+[ ] Minnesota CS (AI)
+[ ] Wisconsin CS (AI)
+[ ] Illinois Chicago CS (AI)
+[ ] Indiana CS (AI)
+[ ] Purdue CS (AI)
+[ ] Ohio State CS (AI)
+[ ] Cincinnati CS (AI)
+[ ] Case Western CS (AI)
+[ ] Michigan State CS (AI)
+[ ] Wayne State CS (AI)
+[ ] Kentucky CS (AI)
+[ ] Tennessee CS (AI)
+[ ] Arizona CS (AI)
+[ ] Arizona State CS (AI)
+[ ] Utah CS (AI)
+[ ] Colorado CS (AI)
+[ ] Colorado State CS (AI)
+[ ] New Mexico CS (AI)
+[ ] Nevada CS (AI)
+[ ] UNLV CS (AI)
+[ ] Washington State CS (AI)
+[ ] Oregon CS (AI)
+[ ] Oregon State CS (AI)
+[ ] Idaho CS (AI)
+[ ] Montana CS (AI)
+[ ] Wyoming CS (AI)
+[ ] Hawaii CS (AI)
+[ ] Alaska CS (AI)
+[ ] Toronto CS (AI)
+[ ] McGill CS (AI)
+[ ] UBC CS (AI)
+[x] Waterloo CS (AI)
+[ ] Alberta CS (AI)
+[ ] Montreal CS (AI)
+[ ] Simon Fraser CS (AI)
+[ ] Victoria CS (AI)
+[ ] Ottawa CS (AI)
+[ ] Carleton CS (AI)
+[ ] Queen's CS (AI)
+[ ] Western CS (AI)
+[ ] McMaster CS (AI)
+[ ] York CS (AI)
+[ ] Concordia CS (AI)
+[ ] Dalhousie CS (AI)
+[ ] Manitoba CS (AI)
+[ ] Saskatchewan CS (AI)
+[ ] Calgary CS (AI)
+[ ] Laval CS (AI)
+[ ] Sherbrooke CS (AI)
+[ ] UQAM CS (AI)
+[ ] ETS CS (AI)
+[ ] Polytechnique Montreal CS (AI)
+[ ] INRS CS (AI)
+[ ] Téluq CS (AI)
+[ ] Bishop's CS (AI)
+[ ] Acadia CS (AI)
+[ ] StFX CS (AI)
+[ ] SMU CS (AI)
+[ ] CBU CS (AI)
+[ ] UPEI CS (AI)
+[ ] MUN CS (AI)
+[ ] UNB CS (AI)
+[ ] Moncton CS (AI)
+[ ] Mount Allison CS (AI)
+[ ] St. Thomas CS (AI)
+
+[x] Airbnb Engineering (Added)
+[x] Lyft Engineering (Added)
+[x] Spotify Engineering (Added)
+[x] Discord Engineering (Added)
+[x] TimTech4U (Added)

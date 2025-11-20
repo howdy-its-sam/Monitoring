@@ -1,0 +1,47 @@
+# Credentials and secrets
+reddit_credentials.txt
+oracle_cloud_key
+oracle_cloud_key.pub
+*.key
+*.pem
+.env
+.env.local
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# All collected data (excluded from repository)
+data/
+*.zip
+*.log
+reports/**/*.log
+reports/**/scraped_data/
+fix16_12h_test/
+tucked_away/raw_posts/
+tucked_away/merged_posts/
+

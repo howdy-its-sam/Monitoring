@@ -1,0 +1,69 @@
+# Subreddit Priority List
+# 
+# Format: One subreddit per line, ordered by priority (highest priority at top)
+# Lines starting with # are ignored
+# Empty lines are ignored
+# 
+# Higher priority subreddits:
+#   - Sampled more frequently
+#   - Keep more posts in tracking
+#   - Less aggressive retirement
+# 
+# Lower priority subreddits:
+#   - Sampled less frequently  
+#   - Drop posts more aggressively (flex zone)
+#   - Faster retirement when dormant
+#
+# Example:
+#   news
+#   worldnews
+#   politics
+#   technology
+#
+# ============================================================================
+# PASTE YOUR PRIORITIZED SUBREDDIT LIST BELOW (one per line, highest first)
+# ============================================================================
+
+r/AI_Agents
+r/AgentsOfAI
+r/AutoGPT
+r/LangChain
+r/RAG
+r/PromptEngineering
+r/PromptDesign
+r/LocalLLaMA
+r/LargeLanguageModels
+r/LanguageTechnology
+
+r/MachineLearning
+r/DeepLearning
+r/ArtificialIntelligence
+r/OpenAI
+r/ChatGPT
+r/GenerativeAI
+r/GPT3
+r/HumanAIDiscourse
+r/AIethics
+r/Futurology
+
+r/LLMDevs
+r/MachineLearningNews
+r/MLQuestions
+r/learnmachinelearning
+r/ChatGPTCoding
+r/ChatGPTPro
+r/compling
+r/singularity
+r/Transhuman
+r/AI_developers
+
+r/marketing
+r/DigitalMarketing
+r/ContentMarketing
+r/artificial
+r/technology
+r/AInews
+r/HealthAI
+r/TechNews
+r/CyberSecurity
+r/Robotics

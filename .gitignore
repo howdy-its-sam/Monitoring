@@ -1,0 +1,32 @@
+# Dependencies
+node_modules/
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Environment Variables & Secrets
+.env
+*.env
+reddit_credentials.txt
+*_credentials.txt
+
+# Data Storage (Do not commit these!)
+data/
+temporal_test/
+raw_scrapes/
+merged_posts/
+raw_posts/
+raw_dumps/
+*.jsonl
+*.json
+!package.json
+!tsconfig.json
+!settings.json
+
+# Logs
+*.log
+*.pid
+
+# OS
+.DS_Store

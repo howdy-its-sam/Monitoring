@@ -1,0 +1,78 @@
+async function downloadSampleTarballs(credentials: ArxivCredentials): Promise<void> {
+  const category = SAMPLE_TARBALL_CATEGORY;
+  console.log(
+    `Downloading sample tarballs for category ${category} (count ${SAMPLE_TARBALL_COUNT})`
+  );
+
+  await mkdir(DATA_DIRECTORY, { recursive: true });
+  const url = new URL("https://export.arxiv.org/api/query");
+  url.searchParams.set("search_query", `cat:${category}`);
+  url.searchParams.set("sortBy", "submittedDate");
+  url.searchParams.set("sortOrder", "descending");
+  url.searchParams.set("max_results", String(SAMPLE_TARBALL_COUNT));
+
+  const response = await fetch(url, {
+    headers: {
+      "User-Agent": credentials.userAgent,
+      From: credentials.contactEmail,
+    },
+  });
+
+  if (!response.ok) {
+    const message = await response.text();
+    throw new Error(`arXiv request failed (${response.status}): ${message}`);
+  }
+
+  const body = await response.text();
+  const parser = new XMLParser({
+    ignoreAttributes: false,
+    attributeNamePrefix: "@_",
+    trimValues: true,
+  });
+
+  const parsed = parser.parse(body);
+  const rawEntries = parsed?.feed?.entry;
+
+  if (!rawEntries) {
+    console.log("No entries returned for sample download.");
+    return;
+  }
+
+  const entriesArray = Array.isArray(rawEntries) ? rawEntries : [rawEntries];
+  const entries = entriesArray
+    .map(normalizeEntry)
+    .filter((entry): entry is ArxivEntry => Boolean(entry));
+
+  let downloaded = 0;
+  const rateLimiter = new RateLimiter(credentials.minRequestIntervalMs);
+
+  for (const entry of entries) {
+    if (downloaded >= SAMPLE_TARBALL_COUNT) {
+      break;
+    }
+
+    const tarballLink = entry.links.find(
+      (link) =>
+        link.rel === "related" &&
+        (link.type === "application/x-eprint-tar" || link.href.endsWith(".tar.gz"))
+    );
+
+    if (!tarballLink) {
+      continue;
+    }
+
+    await rateLimiter.waitForTurn();
+
+    try {
+      const tarballPath = await downloadTarball(category, entry, tarballLink.href);
+      console.log(`Downloaded sample tarball -> ${tarballPath}`);
+      downloaded += 1;
+    } catch (error) {
+      const message = error instanceof Error ? error.message : String(error);
+      console.error(`Failed to download sample tarball for ${entry.id}: ${message}`);
+    }
+  }
+
+  console.log(`Sample tarball download finished. Total downloaded: ${downloaded}.`);
+}
+

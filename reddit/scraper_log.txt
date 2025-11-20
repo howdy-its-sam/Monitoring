@@ -1,0 +1,2 @@
+$ bun run src/index.ts
+error: script "start" was terminated by signal SIGHUP (Terminal hung up)

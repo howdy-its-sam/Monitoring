@@ -1,0 +1,260 @@
+🔍 Analyzing Consecutive Low-Score Comment Pruning Strategies
+
+================================================================================
+
+📁 Found 7903 JSON files to analyze
+✅ Processed 7903 files (4973 with comments)
+📊 Total comments analyzed: 657,747
+
+================================================================================
+
+📈 RESULTS (sorted by requests saved):
+
+
+────────────────────────────────────────────────────────────────────────────────
+Strategy: 2 consecutive score≤3 (any depth)
+────────────────────────────────────────────────────────────────────────────────
+  💾 Requests saved:     39,746 ( 6.04% of total)
+  🗑️  Comments pruned:    39,746 ( 6.04% of corpus)
+  ✂️  Pruning events:     65,681
+  📊 Avg pruned/event:      0.6 comments
+  📏 Pruning by depth:
+      Depth  1: 39446 events ( 60.1%)
+      Depth  2: 14611 events ( 22.2%)
+      Depth  3: 5872 events (  8.9%)
+      Depth  4: 3043 events (  4.6%)
+      Depth  5: 1292 events (  2.0%)
+      Depth  6:  727 events (  1.1%)
+      Depth  7:  406 events (  0.6%)
+      Depth  8:  166 events (  0.3%)
+      Depth  9:  118 events (  0.2%)
+
+────────────────────────────────────────────────────────────────────────────────
+Strategy: 2 consecutive score≤2 (any depth)
+────────────────────────────────────────────────────────────────────────────────
+  💾 Requests saved:     28,415 ( 4.32% of total)
+  🗑️  Comments pruned:    28,415 ( 4.32% of corpus)
+  ✂️  Pruning events:     45,097
+  📊 Avg pruned/event:      0.6 comments
+  📏 Pruning by depth:
+      Depth  1: 24425 events ( 54.2%)
+      Depth  2: 10191 events ( 22.6%)
+      Depth  3: 4987 events ( 11.1%)
+      Depth  4: 2638 events (  5.8%)
+      Depth  5: 1469 events (  3.3%)
+      Depth  6:  679 events (  1.5%)
+      Depth  7:  480 events (  1.1%)
+      Depth  8:  133 events (  0.3%)
+      Depth  9:   95 events (  0.2%)
+
+────────────────────────────────────────────────────────────────────────────────
+Strategy: 2 consecutive score=1 (any depth)
+────────────────────────────────────────────────────────────────────────────────
+  💾 Requests saved:     15,956 ( 2.43% of total)
+  🗑️  Comments pruned:    15,956 ( 2.43% of corpus)
+  ✂️  Pruning events:     23,282
+  📊 Avg pruned/event:      0.7 comments
+  📏 Pruning by depth:
+      Depth  1: 11183 events ( 48.0%)
+      Depth  2: 5163 events ( 22.2%)
+      Depth  3: 3116 events ( 13.4%)
+      Depth  4: 1824 events (  7.8%)
+      Depth  5:  938 events (  4.0%)
+      Depth  6:  467 events (  2.0%)
+      Depth  7:  404 events (  1.7%)
+      Depth  8:  110 events (  0.5%)
+      Depth  9:   77 events (  0.3%)
+
+────────────────────────────────────────────────────────────────────────────────
+Strategy: 2 consecutive score≤2 (depth ≥3)
+────────────────────────────────────────────────────────────────────────────────
+  💾 Requests saved:     14,171 ( 2.15% of total)
+  🗑️  Comments pruned:    14,171 ( 2.15% of corpus)
+  ✂️  Pruning events:     15,886
+  📊 Avg pruned/event:      0.9 comments
+  📏 Pruning by depth:
+      Depth  3: 10040 events ( 63.2%)
+      Depth  4: 2833 events ( 17.8%)
+      Depth  5: 1612 events ( 10.1%)
+      Depth  6:  691 events (  4.3%)
+      Depth  7:  482 events (  3.0%)
+      Depth  8:  133 events (  0.8%)
+      Depth  9:   95 events (  0.6%)
+
+────────────────────────────────────────────────────────────────────────────────
+Strategy: 2 consecutive score≤3 (depth ≥4)
+────────────────────────────────────────────────────────────────────────────────
+  💾 Requests saved:     11,953 ( 1.82% of total)
+  🗑️  Comments pruned:    11,953 ( 1.82% of corpus)
+  ✂️  Pruning events:     12,227
+  📊 Avg pruned/event:      1.0 comments
+  📏 Pruning by depth:
+      Depth  4: 9330 events ( 76.3%)
+      Depth  5: 1402 events ( 11.5%)
+      Depth  6:  800 events (  6.5%)
+      Depth  7:  411 events (  3.4%)
+      Depth  8:  166 events (  1.4%)
+      Depth  9:  118 events (  1.0%)
+
+────────────────────────────────────────────────────────────────────────────────
+Strategy: 2 consecutive score≤2 (depth ≥4)
+────────────────────────────────────────────────────────────────────────────────
+  💾 Requests saved:      9,373 ( 1.43% of total)
+  🗑️  Comments pruned:     9,373 ( 1.43% of corpus)
+  ✂️  Pruning events:     10,164
+  📊 Avg pruned/event:      0.9 comments
+  📏 Pruning by depth:
+      Depth  4: 7117 events ( 70.0%)
+      Depth  5: 1612 events ( 15.9%)
+      Depth  6:  725 events (  7.1%)
+      Depth  7:  482 events (  4.7%)
+      Depth  8:  133 events (  1.3%)
+      Depth  9:   95 events (  0.9%)
+
+────────────────────────────────────────────────────────────────────────────────
+Strategy: 2 consecutive score=1 (depth ≥3)
+────────────────────────────────────────────────────────────────────────────────
+  💾 Requests saved:      7,890 ( 1.20% of total)
+  🗑️  Comments pruned:     7,890 ( 1.20% of corpus)
+  ✂️  Pruning events:      9,244
+  📊 Avg pruned/event:      0.9 comments
+  📏 Pruning by depth:
+      Depth  3: 5063 events ( 54.8%)
+      Depth  4: 1988 events ( 21.5%)
+      Depth  5: 1077 events ( 11.7%)
+      Depth  6:  496 events (  5.4%)
+      Depth  7:  424 events (  4.6%)
+      Depth  8:  110 events (  1.2%)
+      Depth  9:   86 events (  0.9%)
+
+────────────────────────────────────────────────────────────────────────────────
+Strategy: 2 consecutive score≤3 (depth ≥5)
+────────────────────────────────────────────────────────────────────────────────
+  💾 Requests saved:      6,932 ( 1.05% of total)
+  🗑️  Comments pruned:     6,932 ( 1.05% of corpus)
+  ✂️  Pruning events:      7,492
+  📊 Avg pruned/event:      0.9 comments
+  📏 Pruning by depth:
+      Depth  5: 5886 events ( 78.6%)
+      Depth  6:  800 events ( 10.7%)
+      Depth  7:  513 events (  6.8%)
+      Depth  8:  167 events (  2.2%)
+      Depth  9:  126 events (  1.7%)
+
+────────────────────────────────────────────────────────────────────────────────
+Strategy: 3 consecutive score≤2 (depth ≥4)
+────────────────────────────────────────────────────────────────────────────────
+  💾 Requests saved:      6,170 ( 0.94% of total)
+  🗑️  Comments pruned:     6,170 ( 0.94% of corpus)
+  ✂️  Pruning events:      6,597
+  📊 Avg pruned/event:      0.9 comments
+  📏 Pruning by depth:
+      Depth  4: 4284 events ( 64.9%)
+      Depth  5: 1247 events ( 18.9%)
+      Depth  6:  571 events (  8.7%)
+      Depth  7:  240 events (  3.6%)
+      Depth  8:  160 events (  2.4%)
+      Depth  9:   95 events (  1.4%)
+
+────────────────────────────────────────────────────────────────────────────────
+Strategy: 2 consecutive score≤2 (depth ≥5)
+────────────────────────────────────────────────────────────────────────────────
+  💾 Requests saved:      5,335 ( 0.81% of total)
+  🗑️  Comments pruned:     5,335 ( 0.81% of corpus)
+  ✂️  Pruning events:      6,240
+  📊 Avg pruned/event:      0.9 comments
+  📏 Pruning by depth:
+      Depth  5: 4599 events ( 73.7%)
+      Depth  6:  725 events ( 11.6%)
+      Depth  7:  662 events ( 10.6%)
+      Depth  8:  139 events (  2.2%)
+      Depth  9:  115 events (  1.8%)
+
+────────────────────────────────────────────────────────────────────────────────
+Strategy: 2 consecutive score=1 (depth ≥4)
+────────────────────────────────────────────────────────────────────────────────
+  💾 Requests saved:      4,908 ( 0.75% of total)
+  🗑️  Comments pruned:     4,908 ( 0.75% of corpus)
+  ✂️  Pruning events:      6,222
+  📊 Avg pruned/event:      0.8 comments
+  📏 Pruning by depth:
+      Depth  4: 3937 events ( 63.3%)
+      Depth  5: 1077 events ( 17.3%)
+      Depth  6:  586 events (  9.4%)
+      Depth  7:  426 events (  6.8%)
+      Depth  8:  110 events (  1.8%)
+      Depth  9:   86 events (  1.4%)
+
+────────────────────────────────────────────────────────────────────────────────
+Strategy: 3 consecutive score≤2 (depth ≥5)
+────────────────────────────────────────────────────────────────────────────────
+  💾 Requests saved:      3,988 ( 0.61% of total)
+  🗑️  Comments pruned:     3,988 ( 0.61% of corpus)
+  ✂️  Pruning events:      4,069
+  📊 Avg pruned/event:      1.0 comments
+  📏 Pruning by depth:
+      Depth  5: 2987 events ( 73.4%)
+      Depth  6:  571 events ( 14.0%)
+      Depth  7:  240 events (  5.9%)
+      Depth  8:  174 events (  4.3%)
+      Depth  9:   97 events (  2.4%)
+
+────────────────────────────────────────────────────────────────────────────────
+Strategy: 3 consecutive score=1 (depth ≥4)
+────────────────────────────────────────────────────────────────────────────────
+  💾 Requests saved:      2,924 ( 0.44% of total)
+  🗑️  Comments pruned:     2,924 ( 0.44% of corpus)
+  ✂️  Pruning events:      3,223
+  📊 Avg pruned/event:      0.9 comments
+  📏 Pruning by depth:
+      Depth  4: 1949 events ( 60.5%)
+      Depth  5:  706 events ( 21.9%)
+      Depth  6:  276 events (  8.6%)
+      Depth  7:  125 events (  3.9%)
+      Depth  8:  130 events (  4.0%)
+      Depth  9:   37 events (  1.1%)
+
+────────────────────────────────────────────────────────────────────────────────
+Strategy: 2 consecutive score=1 (depth ≥5)
+────────────────────────────────────────────────────────────────────────────────
+  💾 Requests saved:      2,787 ( 0.42% of total)
+  🗑️  Comments pruned:     2,787 ( 0.42% of corpus)
+  ✂️  Pruning events:      3,788
+  📊 Avg pruned/event:      0.7 comments
+  📏 Pruning by depth:
+      Depth  5: 2537 events ( 67.0%)
+      Depth  6:  586 events ( 15.5%)
+      Depth  7:  469 events ( 12.4%)
+      Depth  8:  110 events (  2.9%)
+      Depth  9:   86 events (  2.3%)
+
+────────────────────────────────────────────────────────────────────────────────
+Strategy: 3 consecutive score=1 (depth ≥5)
+────────────────────────────────────────────────────────────────────────────────
+  💾 Requests saved:      1,905 ( 0.29% of total)
+  🗑️  Comments pruned:     1,905 ( 0.29% of corpus)
+  ✂️  Pruning events:      2,038
+  📊 Avg pruned/event:      0.9 comments
+  📏 Pruning by depth:
+      Depth  5: 1460 events ( 71.6%)
+      Depth  6:  276 events ( 13.5%)
+      Depth  7:  125 events (  6.1%)
+      Depth  8:  140 events (  6.9%)
+      Depth  9:   37 events (  1.8%)
+
+================================================================================
+
+💡 RECOMMENDATIONS:
+
+🎯 Best Conservative Strategy (<5% data loss):
+   2 consecutive score≤2 (any depth)
+   Saves: 28,415 requests (4.32% data loss)
+
+⚡ Best Aggressive Strategy (<15% data loss):
+   2 consecutive score≤3 (any depth)
+   Saves: 39,746 requests (6.04% data loss)
+
+================================================================================
+
+💾 Detailed results saved to: /Users/samwilliamson/cursor_projects/my-scraper/consecutive_score_pruning_analysis.json
+

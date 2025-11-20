@@ -1,0 +1,5 @@
+node_modules
+bun.lockb
+data/
+twitter_credentials.env
+
