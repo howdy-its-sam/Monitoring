@@ -1,11 +1,8 @@
 [phases.setup]
-nixPkgs = ["python39", "bun", "gcc"]
+nixPkgs = ["bun"]
 
 [phases.install]
-cmds = [
-    "cd reddit && bun install",
-    "cd reddit/reddit-adaptive-sampler && pip install -r requirements.txt"
-]
+cmds = ["cd reddit && bun install"]
 
 [start]
 cmd = "cd reddit && bun run src/server.ts"
