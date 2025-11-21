@@ -3,8 +3,7 @@ import { DAG } from "./dag";
 import { Discovery } from "./discovery";
 import { RateLimiter } from "./rate_limiter";
 import { Telemetry } from "./telemetry";
-import { existsSync, readFileSync, writeFileSync, mkdirSync } from "fs";
-import { join } from "path";
+import { StorageDriver } from "./storage";
 
 interface ThreadConfig {
   id: string;
@@ -18,11 +17,11 @@ export class Scraper {
   private discovery: Discovery;
   private rateLimiter: RateLimiter;
   private telemetry: Telemetry;
+  private storage: StorageDriver;
   private threads: Map<string, DAG>; // In-memory state
   private schedule: Map<string, ThreadConfig>;
   private subreddits: string[] = [];
   private isRunning: boolean = false;
-  private dataDir: string;
   private lastDiscoveryTime: number = 0;
 
   constructor(subreddits: string[] = []) {
@@ -30,11 +29,10 @@ export class Scraper {
     this.discovery = new Discovery();
     this.rateLimiter = new RateLimiter(60, 1); // Conservative: 1 RPS (60/min)
     this.telemetry = new Telemetry();
+    this.storage = new StorageDriver();
     this.threads = new Map();
     this.schedule = new Map();
     this.subreddits = subreddits;
-    this.dataDir = join(process.cwd(), "reddit/data");
-    if (!existsSync(this.dataDir)) mkdirSync(this.dataDir, { recursive: true });
   }
 
   public addThread(id: string, initialInterval = 60) {
@@ -77,27 +75,11 @@ export class Scraper {
         await this.processThread(nextTask);
       } else {
         // Nothing to do, sleep briefly
-        // Check isRunning periodically to allow clean exit during sleep
-        for (let i = 0; i < 10; i++) {
-            if (!this.isRunning) break;
-            await new Promise(r => setTimeout(r, 100));
-        }
+        await new Promise(r => setTimeout(r, 1000));
       }
     }
     
     console.log("🛑 Scraper loop stopped.");
-  }
-
-  public shutdown() {
-    console.log("\n⚠️  Shutting down... Saving all state.");
-    this.isRunning = false;
-    
-    let count = 0;
-    for (const id of this.threads.keys()) {
-        this.saveState(id);
-        count++;
-    }
-    console.log(`✅ Saved ${count} threads. Bye.`);
   }
 
   private async runDiscovery() {
@@ -149,13 +131,30 @@ export class Scraper {
       });
 
       // 5. Save Checkpoint
-      this.saveState(config.id);
+      await this.saveState(config.id);
 
-      // 6. Update Schedule
+      // 6. Update Schedule (Adaptive Backoff)
+      // Logic: Hot -> Faster, Cold -> Slower
+      let newInterval = config.interval;
+
+      if (stats.newNodes > 0) {
+          // HOT: Found new content. Speed up!
+          // Decay back down to 60s
+          newInterval = Math.max(60, Math.floor(newInterval / 2));
+      } else if (stats.scoreDelta > 0 || stats.updatedNodes > 0) {
+          // WARM: Score changing, but no new comments. Maintain pace.
+          // Maybe slight backoff if it was super fast
+          if (newInterval < 300) newInterval = 300; // Floor at 5m for score-only updates
+      } else {
+          // COLD: No changes at all. Backoff exponentially.
+          newInterval = Math.min(21600, newInterval * 2); // Cap at 6 hours
+      }
+
+      config.interval = newInterval;
       config.lastScrape = start;
       config.nextRun = Date.now() + (config.interval * 1000);
       
-      console.log(`   ✅ Merged ${nodes.length} nodes (+${stats.newNodes} new). Next run in ${config.interval}s`);
+      console.log(`   ✅ Merged ${nodes.length} nodes (+${stats.newNodes} new). Interval: ${config.interval}s -> ${newInterval}s`);
 
     } catch (e) {
       console.error(`   ❌ Error: ${e}`);
@@ -164,21 +163,31 @@ export class Scraper {
     }
   }
 
-  private saveState(id: string) {
+  private async saveState(id: string) {
     const dag = this.threads.get(id);
     if (!dag) return;
-    const path = join(this.dataDir, `merged_${id}.json`);
-    writeFileSync(path, JSON.stringify(dag.toJSON(), null, 2));
+    await this.storage.save(`merged_${id}.json`, JSON.stringify(dag.toJSON(), null, 2));
   }
 
-  private loadState(id: string) {
-    const path = join(this.dataDir, `merged_${id}.json`);
-    if (existsSync(path)) {
-      const raw = readFileSync(path, "utf-8");
+  private async loadState(id: string) {
+    const raw = await this.storage.load(`merged_${id}.json`);
+    if (raw) {
       const json = JSON.parse(raw);
       const dag = new DAG(json); // Hydrate
       this.threads.set(id, dag);
       console.log(`   📄 Loaded state for ${id}`);
     }
+  }
+
+  public async shutdown() {
+    console.log("\n⚠️  Shutting down... Saving all state.");
+    this.isRunning = false;
+    
+    let count = 0;
+    for (const id of this.threads.keys()) {
+        await this.saveState(id);
+        count++;
+    }
+    console.log(`✅ Saved ${count} threads. Bye.`);
   }
 }

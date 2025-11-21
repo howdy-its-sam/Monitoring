@@ -12,5 +12,8 @@
   "scripts": {
     "start": "bun run src/index.ts",
     "generate": "bun run src/generate_prompt.ts"
+  },
+  "dependencies": {
+    "@aws-sdk/client-s3": "^3.937.0"
   }
 }
