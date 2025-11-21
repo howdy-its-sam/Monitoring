@@ -10,7 +10,7 @@
     "typescript": "^5.0.0"
   },
   "scripts": {
-    "start": "bun run src/index.ts",
+    "start": "bun run src/server.ts",
     "generate": "bun run src/generate_prompt.ts"
   },
   "dependencies": {
