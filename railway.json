@@ -1,11 +1,11 @@
 {
   "$schema": "https://railway.app/railway.schema.json",
   "build": {
-    "rootDirectory": "/reddit",
-    "builder": "RAILPACK",
-    "watchPatterns": ["reddit/**"]
+    "rootDirectory": "/",
+    "builder": "NIXPACKS",
+    "watchPatterns": ["reddit/**", "nixpacks.toml"]
   },
   "deploy": {
-    "startCommand": "bun run src/server.ts"
+    "startCommand": "cd reddit && bun run src/server.ts"
   }
 }
