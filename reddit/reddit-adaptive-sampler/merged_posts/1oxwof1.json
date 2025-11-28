@@ -1,0 +1,155 @@
+{
+  "post": {
+    "id": "1oxwof1",
+    "title": "I was tired of guessing my RAG chunking strategy, so I built rag-chunk, a CLI to test it.",
+    "author": "InstanceSignal5153",
+    "score_history": [
+      [
+        18,
+        "2025-11-18T15:07:48.586066"
+      ],
+      [
+        19,
+        "2025-11-18T15:14:35.114236"
+      ],
+      [
+        17,
+        "2025-11-18T15:16:19.105238"
+      ],
+      [
+        18,
+        "2025-11-18T23:34:34.060994"
+      ],
+      [
+        19,
+        "2025-11-19T01:18:39.639424"
+      ],
+      [
+        18,
+        "2025-11-19T02:33:29.133017"
+      ]
+    ],
+    "created_utc": 1763225699.0,
+    "num_comments": 2,
+    "subreddit": "machinelearningnews",
+    "url": "https://github.com/messkan/rag-chunk",
+    "selftext": "Hi all,\n\nI'm sharing a small tool I just open-sourced for the Python / RAG community: `rag-chunk`.\n\nIt's a CLI that solves one problem: How do you *know* you've picked the best chunking strategy for your documents?\n\nInstead of guessing your chunk size, `rag-chunk` lets you measure it:\n\n* **Parse** your `.md` doc folder.\n* **Test** multiple strategies: `fixed-size` (with `--chunk-size` and `--overlap`) or `paragraph`.\n* **Evaluate** by providing a JSON file with ground-truth questions and answers.\n* **Get a Recall score** to see how many of your answers survived the chunking process intact.\n\nSuper simple to use. Contributions and feedback are very welcome!\n\n**GitHub:** [`https://github.com/messkan/rag-chunk`](https://github.com/messkan/rag-chunk)",
+    "permalink": "/r/machinelearningnews/comments/1oxwof1/i_was_tired_of_guessing_my_rag_chunking_strategy/"
+  },
+  "comments": [
+    {
+      "id": "np0q3im",
+      "parent_id": "t3_1oxwof1",
+      "author": "TheVibrantYonder",
+      "text_history": [
+        [
+          "This looks really interesting! I'll try to play with it this afternoon.",
+          "2025-11-18T15:07:48.586066"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T15:07:48.586066"
+        ],
+        [
+          1,
+          "2025-11-18T15:14:35.114236"
+        ],
+        [
+          1,
+          "2025-11-18T15:16:19.105238"
+        ],
+        [
+          1,
+          "2025-11-18T23:34:34.060994"
+        ],
+        [
+          1,
+          "2025-11-19T01:18:39.639424"
+        ],
+        [
+          1,
+          "2025-11-19T02:33:29.133017"
+        ]
+      ],
+      "created_utc": 1763232494.0,
+      "depth": 0,
+      "permalink": "/r/machinelearningnews/comments/1oxwof1/i_was_tired_of_guessing_my_rag_chunking_strategy/np0q3im/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "np0t13h",
+          "parent_id": "t1_np0q3im",
+          "author": "InstanceSignal5153",
+          "text_history": [
+            [
+              "Awesome, thanks! Really appreciate you checking it out.\n\nYou're jumping in at the perfect time. The v0.1 you see now is the \"manual\" test bench. **Support for** `tiktoken` **(for precise token-level chunking) is the top priority and coming very soon.**\n\nEager to hear your feedback on this first version!",
+              "2025-11-18T15:07:48.586066"
+            ]
+          ],
+          "score_history": [
+            [
+              3,
+              "2025-11-18T15:07:48.586066"
+            ],
+            [
+              3,
+              "2025-11-18T15:14:35.114236"
+            ],
+            [
+              3,
+              "2025-11-18T15:16:19.105238"
+            ],
+            [
+              3,
+              "2025-11-18T23:34:34.060994"
+            ],
+            [
+              3,
+              "2025-11-19T01:18:39.639424"
+            ],
+            [
+              3,
+              "2025-11-19T02:33:29.133017"
+            ]
+          ],
+          "created_utc": 1763233388.0,
+          "depth": 1,
+          "permalink": "/r/machinelearningnews/comments/1oxwof1/i_was_tired_of_guessing_my_rag_chunking_strategy/np0t13h/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T02:33:29.133017",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/machinelearningnews/comments/1oxwof1/i_was_tired_of_guessing_my_rag_chunking_strategy/",
+    "total_comments": 2,
+    "top_level_comments": 1,
+    "api_requests": 1,
+    "expected_comments": 2,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 6,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_150748.json",
+      "scrape_002_20251118_151434.json",
+      "scrape_003_20251118_151618.json",
+      "scrape_004_20251118_233433.json",
+      "scrape_005_20251119_011839.json",
+      "scrape_006_20251119_023328.json"
+    ]
+  }
+}

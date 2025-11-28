@@ -1,0 +1,44 @@
+{
+  "post": {
+    "id": "1oekh76",
+    "title": "AURA: Adaptive Universal Response Audit protocol",
+    "author": "Empty-Poetry8197",
+    "score_history": [
+      [
+        1,
+        "2025-11-19T03:41:51.110573"
+      ],
+      [
+        1,
+        "2025-11-19T03:48:47.685223"
+      ],
+      [
+        1,
+        "2025-11-19T03:50:19.077237"
+      ]
+    ],
+    "created_utc": 1761267736.0,
+    "num_comments": 0,
+    "subreddit": "AI_developers",
+    "url": "https://github.com/hendrixx-cnc/AURA",
+    "selftext": "It's an open source streaming compression protocol built bottom up for AI data. It's server-side auditable by design for compliance and alignment. fallback for reliability uses semantic binaries for template matching, special metadata side channel to fast path, allowing AI to work on uncompressed data. I know enough to be dangerous, so I'm down to sign a contract with anybody that has some free time or sees the potential and can get into the right circles patent in the repo. An AI audit layer built in for compliance, think medical government blockchain, financial services DB Lookup on compressed data with the side channel should be possible too. Regulation is coming as fast as you're developing, and for help if any of the big boys try to use the tech, they either gotta buy us out or get sued $$$",
+    "permalink": "/r/AI_developers/comments/1oekh76/aura_adaptive_universal_response_audit_protocol/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:50:19.077237",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/AI_developers/comments/1oekh76/aura_adaptive_universal_response_audit_protocol/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_034150.json",
+      "scrape_002_20251119_034847.json",
+      "scrape_003_20251119_035018.json"
+    ]
+  }
+}

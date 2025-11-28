@@ -1,0 +1,44 @@
+{
+  "post": {
+    "id": "1p0n43h",
+    "title": "I'm launching my series on bank cards: we start with the magnetic strip, real tests on TPE",
+    "author": "ProtoCard",
+    "score_history": [
+      [
+        0,
+        "2025-11-19T03:18:08.454134"
+      ],
+      [
+        0,
+        "2025-11-19T03:25:23.524336"
+      ],
+      [
+        0,
+        "2025-11-19T03:27:16.845552"
+      ]
+    ],
+    "created_utc": 1763498103.0,
+    "num_comments": 0,
+    "subreddit": "cybersecurity",
+    "url": "https://www.reddit.com/r/cybersecurity/comments/1p0n43h/im_launching_my_series_on_bank_cards_we_start/",
+    "selftext": "First video in the series: we attack bank cards from the ground up, with the magnetic strip.\n\nI explain all the theory, show how it really works, then create different cards to test on a real payment terminal.\n\n https://youtu.be/CZJi8zbB-Nc?si=u7CkuiMxiF\n\nThe rest is coming soon: we're going to explore smart cards, sniff transactions with a Proxmark, program JavaCards, and test all of that on several TPΕs.",
+    "permalink": "/r/cybersecurity/comments/1p0n43h/im_launching_my_series_on_bank_cards_we_start/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:27:16.845552",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/cybersecurity/comments/1p0n43h/im_launching_my_series_on_bank_cards_we_start/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_031808.json",
+      "scrape_002_20251119_032523.json",
+      "scrape_003_20251119_032716.json"
+    ]
+  }
+}

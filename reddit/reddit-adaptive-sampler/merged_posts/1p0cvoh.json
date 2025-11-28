@@ -1,0 +1,44 @@
+{
+  "post": {
+    "id": "1p0cvoh",
+    "title": "How often do you try new apps? I go through 100 of them every day, these are my top 5 picks for the day!",
+    "author": "Competitive_Act4656",
+    "score_history": [
+      [
+        0,
+        "2025-11-18T14:22:06.519641"
+      ],
+      [
+        0,
+        "2025-11-18T14:32:03.604842"
+      ],
+      [
+        0,
+        "2025-11-18T14:41:19.514443"
+      ]
+    ],
+    "created_utc": 1763474901.0,
+    "num_comments": 0,
+    "subreddit": "learnmachinelearning",
+    "url": "https://i.redd.it/o4xbj7x5t02g1.png",
+    "selftext": "",
+    "permalink": "/r/learnmachinelearning/comments/1p0cvoh/how_often_do_you_try_new_apps_i_go_through_100_of/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-18T14:41:19.514443",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/learnmachinelearning/comments/1p0cvoh/how_often_do_you_try_new_apps_i_go_through_100_of/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_142206.json",
+      "scrape_002_20251118_143203.json",
+      "scrape_003_20251118_144119.json"
+    ]
+  }
+}

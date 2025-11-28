@@ -1,0 +1,89 @@
+{
+  "post": {
+    "id": "1ozg18a",
+    "title": "To be able to entertain our friends better, I invented this Automatic Coffee Maker. The design is very human.",
+    "author": "wtfiwashacked",
+    "score_history": [
+      [
+        0,
+        "2025-11-18T15:16:40.390567"
+      ],
+      [
+        0,
+        "2025-11-18T23:03:43.136323"
+      ],
+      [
+        0,
+        "2025-11-19T00:57:55.804089"
+      ],
+      [
+        0,
+        "2025-11-19T02:32:55.091419"
+      ]
+    ],
+    "created_utc": 1763385478.0,
+    "num_comments": 1,
+    "subreddit": "robotics",
+    "url": "https://v.redd.it/iz5twglqbo1g1",
+    "selftext": "",
+    "permalink": "/r/robotics/comments/1ozg18a/to_be_able_to_entertain_our_friends_better_i/"
+  },
+  "comments": [
+    {
+      "id": "npb8z66",
+      "parent_id": "t3_1ozg18a",
+      "author": "binaryhellstorm",
+      "text_history": [
+        [
+          "Throwing scalding water at your friends is now \"entertainment\" I guess I need to up my game from cheese boards, wine, and music.\n\nTed, so happy you could come this evening (throws mug of boiling water at them)",
+          "2025-11-18T15:16:40.390567"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T15:16:40.390567"
+        ],
+        [
+          1,
+          "2025-11-18T23:03:43.136323"
+        ],
+        [
+          1,
+          "2025-11-19T00:57:55.804089"
+        ],
+        [
+          1,
+          "2025-11-19T02:32:55.091419"
+        ]
+      ],
+      "created_utc": 1763385702.0,
+      "depth": 0,
+      "permalink": "/r/robotics/comments/1ozg18a/to_be_able_to_entertain_our_friends_better_i/npb8z66/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T02:32:55.091419",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/robotics/comments/1ozg18a/to_be_able_to_entertain_our_friends_better_i/",
+    "total_comments": 1,
+    "top_level_comments": 1,
+    "api_requests": 1,
+    "expected_comments": 1,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 4,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_151640.json",
+      "scrape_002_20251118_230342.json",
+      "scrape_003_20251119_005755.json",
+      "scrape_004_20251119_023254.json"
+    ]
+  }
+}

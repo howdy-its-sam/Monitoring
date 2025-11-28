@@ -1,0 +1,80 @@
+{
+  "post": {
+    "id": "1p0ydcu",
+    "title": "What would you love in an autoRAG tool?",
+    "author": "Signal-Run7450",
+    "score_history": [
+      [
+        1,
+        "2025-11-19T02:55:49.933452"
+      ],
+      [
+        1,
+        "2025-11-19T03:03:38.648933"
+      ],
+      [
+        1,
+        "2025-11-19T03:06:53.416556"
+      ]
+    ],
+    "created_utc": 1763527583.0,
+    "num_comments": 1,
+    "subreddit": "Rag",
+    "url": "https://www.reddit.com/r/Rag/comments/1p0ydcu/what_would_you_love_in_an_autorag_tool/",
+    "selftext": "Some context- I am a founder and we have built a vertical AI company which processed 10 million pages of finance documents. In the process we experimented and invented a lot of techniques. And we feel that this is a bigger problem in which AI Engineers need to worry about a lot of stuff and go to market of a production RAG solution is quite long. And for most of the business RAG is just a part of bigger puzzle of automating workflows.\n\nWe have identified few areas which we feel we can abstract away because of the experience we gained-\n1. Vector DB infra- this is becoming less and less important. Based in requirements(cost, on-prem, performance etc) we know what works best\n2. Parsing/OCR- We have worked and benchmarked a lot of open source models as well as closed source on different type of documents(tables, forms, charts, etc)\n3. Chunking- Hierarchical &amp; summary based indexing. These we know work really well and want to abstract away\n\nMost important stuff for search\n4. DB Schema- This becomes very critical especially for metadata and filters. We have developed a technique which goes through documents to identify common patterns and build a schema. This is closed source model now but we plan to build proprietary model\n5. Agentic Search- This boosted our retrieval accuracy by a lot and we want to abstract away this as well. So by default devs get immediate performance increase\n6. Citations &amp; Verifier- Our entire platform was citation first, each citation is re-verified as well.\n\nIs there any area which is missing which is a pain point?\nAnd this would be a paid tool. Would you be ready to pay if these problems are solved?",
+    "permalink": "/r/Rag/comments/1p0ydcu/what_would_you_love_in_an_autorag_tool/"
+  },
+  "comments": [
+    {
+      "id": "npnazg5",
+      "parent_id": "t3_1p0ydcu",
+      "author": "Broad_Shoulder_749",
+      "text_history": [
+        [
+          "Engineering documents are quite different from finance documents. They have charts, graphs, equations, etc. so i had to first capture them as graphics (png) then use an LLM to create a narrative description, for equations, create a sample calculation etc. These need to be prepared in parallel to the main content, then reinserted into the hierarchy before chunking.",
+          "2025-11-19T02:55:49.933452"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:55:49.933452"
+        ],
+        [
+          1,
+          "2025-11-19T03:03:38.648933"
+        ],
+        [
+          1,
+          "2025-11-19T03:06:53.416556"
+        ]
+      ],
+      "created_utc": 1763547610.0,
+      "depth": 0,
+      "permalink": "/r/Rag/comments/1p0ydcu/what_would_you_love_in_an_autorag_tool/npnazg5/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:06:53.416556",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/Rag/comments/1p0ydcu/what_would_you_love_in_an_autorag_tool/",
+    "total_comments": 1,
+    "top_level_comments": 1,
+    "api_requests": 1,
+    "expected_comments": 1,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_025549.json",
+      "scrape_002_20251119_030338.json",
+      "scrape_003_20251119_030653.json"
+    ]
+  }
+}

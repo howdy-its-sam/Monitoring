@@ -1,0 +1,1543 @@
+{
+  "post": {
+    "id": "1p0iqf9",
+    "title": "Why do people care so much about speed of coding agents?",
+    "author": "davevr",
+    "score_history": [
+      [
+        4,
+        "2025-11-18T13:49:39.367993"
+      ],
+      [
+        4,
+        "2025-11-18T14:00:41.054153"
+      ],
+      [
+        4,
+        "2025-11-18T14:12:09.754124"
+      ],
+      [
+        6,
+        "2025-11-18T21:39:25.320009"
+      ],
+      [
+        7,
+        "2025-11-18T23:34:33.773362"
+      ],
+      [
+        10,
+        "2025-11-19T01:08:33.801678"
+      ],
+      [
+        11,
+        "2025-11-19T02:33:03.208301"
+      ],
+      [
+        10,
+        "2025-11-19T02:35:04.269884"
+      ],
+      [
+        10,
+        "2025-11-19T02:44:21.517466"
+      ]
+    ],
+    "created_utc": 1763488295.0,
+    "num_comments": 30,
+    "subreddit": "ChatGPTCoding",
+    "url": "https://www.reddit.com/r/ChatGPTCoding/comments/1p0iqf9/why_do_people_care_so_much_about_speed_of_coding/",
+    "selftext": "I have been at a lot of Vibe coding and AI-assisted coding conferences and hackathons in the last few months, and representatives from the makers of these tools are always talking about how they are trying to improve the speed of the agents.  Why?  It seems much more important to improve the quality.\n\nIf I gave a task to one of my mid-level devs, it might take them a week to get it done, tested, PR'd, and into the build.  It really isn't necessary for the AI to do it in 5 minutes.  Even it takes 3 days instead of 5, that is HUGE!   \n\nIf I could get an AI coder that was just as accurate as a human but 2x faster and 1/2 the price, that would be a no-brainer.    Humans are slow and expensive, so this doesn't seem like THAT high of bar.  But instead we have agents that spit out hundreds of lines per second that are full of basic errors.",
+    "permalink": "/r/ChatGPTCoding/comments/1p0iqf9/why_do_people_care_so_much_about_speed_of_coding/"
+  },
+  "comments": [
+    {
+      "id": "npj5d1f",
+      "parent_id": "t3_1p0iqf9",
+      "author": "Inside_Anxiety6143",
+      "text_history": [
+        [
+          "There are many tasks where you want rapid iteration. Things like UI design for example. You want to quickly test out a lot of different tweaks to a design. There, accuracy isn't such a big deal--its easy for the AI to move some fields to a header and change the size of some elements. It will get it right. But time you sit waiting around for it to do it is just wasted time.\n\nPlus, time is often a proxy for computational efficiency and that also has an indirect effect on accuracy as you can afford to alot your AI more thinking iterations for the same cost if it can do each iteration more efficiently.",
+          "2025-11-18T13:49:39.367993"
+        ]
+      ],
+      "score_history": [
+        [
+          6,
+          "2025-11-18T13:49:39.367993"
+        ],
+        [
+          5,
+          "2025-11-18T14:00:41.054153"
+        ],
+        [
+          6,
+          "2025-11-18T14:12:09.754124"
+        ],
+        [
+          12,
+          "2025-11-18T21:39:25.320009"
+        ],
+        [
+          13,
+          "2025-11-18T23:34:33.773362"
+        ],
+        [
+          13,
+          "2025-11-19T01:08:33.801678"
+        ],
+        [
+          13,
+          "2025-11-19T02:33:03.208301"
+        ],
+        [
+          14,
+          "2025-11-19T02:35:04.269884"
+        ],
+        [
+          12,
+          "2025-11-19T02:44:21.517466"
+        ]
+      ],
+      "created_utc": 1763489260.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTCoding/comments/1p0iqf9/why_do_people_care_so_much_about_speed_of_coding/npj5d1f/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": 1763489583.0,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npksbxf",
+          "parent_id": "t1_npj5d1f",
+          "author": "puppymaster123",
+          "text_history": [
+            [
+              "Yep. And voice coding.",
+              "2025-11-18T21:39:25.320009"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T21:39:25.320009"
+            ],
+            [
+              1,
+              "2025-11-18T23:34:33.773362"
+            ],
+            [
+              1,
+              "2025-11-19T01:08:33.801678"
+            ],
+            [
+              1,
+              "2025-11-19T02:33:03.208301"
+            ],
+            [
+              1,
+              "2025-11-19T02:35:04.269884"
+            ],
+            [
+              1,
+              "2025-11-19T02:44:21.517466"
+            ]
+          ],
+          "created_utc": 1763507127.0,
+          "depth": 1,
+          "permalink": "/r/ChatGPTCoding/comments/1p0iqf9/why_do_people_care_so_much_about_speed_of_coding/npksbxf/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npj5dea",
+      "parent_id": "t3_1p0iqf9",
+      "author": "mannsion",
+      "text_history": [
+        [
+          "I can think faster and parallelize faster than it can work, so im always waiting on it.  I want it to work faster than I can think so I can iterate as fast as I can think.",
+          "2025-11-18T13:49:39.367993"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-18T13:49:39.367993"
+        ],
+        [
+          3,
+          "2025-11-18T14:00:41.054153"
+        ],
+        [
+          3,
+          "2025-11-18T14:12:09.754124"
+        ],
+        [
+          9,
+          "2025-11-18T21:39:25.320009"
+        ],
+        [
+          10,
+          "2025-11-18T23:34:33.773362"
+        ],
+        [
+          11,
+          "2025-11-19T01:08:33.801678"
+        ],
+        [
+          9,
+          "2025-11-19T02:33:03.208301"
+        ],
+        [
+          10,
+          "2025-11-19T02:35:04.269884"
+        ],
+        [
+          10,
+          "2025-11-19T02:44:21.517466"
+        ]
+      ],
+      "created_utc": 1763489263.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTCoding/comments/1p0iqf9/why_do_people_care_so_much_about_speed_of_coding/npj5dea/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npkm710",
+          "parent_id": "t1_npj5dea",
+          "author": "maigpy",
+          "text_history": [
+            [
+              "open another session / work on another branch for a separate ticket?",
+              "2025-11-18T21:39:25.320009"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T21:39:25.320009"
+            ],
+            [
+              1,
+              "2025-11-18T23:34:33.773362"
+            ],
+            [
+              1,
+              "2025-11-19T01:08:33.801678"
+            ],
+            [
+              1,
+              "2025-11-19T02:33:03.208301"
+            ],
+            [
+              1,
+              "2025-11-19T02:35:04.269884"
+            ],
+            [
+              1,
+              "2025-11-19T02:44:21.517466"
+            ]
+          ],
+          "created_utc": 1763505075.0,
+          "depth": 1,
+          "permalink": "/r/ChatGPTCoding/comments/1p0iqf9/why_do_people_care_so_much_about_speed_of_coding/npkm710/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npknw85",
+              "parent_id": "t1_npkm710",
+              "author": "mannsion",
+              "text_history": [
+                [
+                  "Lol, not everything is a small task where that works well.   Im buulding a complex etl workflow, I want it to grok 50 million tokens and be fast.",
+                  "2025-11-18T21:39:25.320009"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-18T21:39:25.320009"
+                ],
+                [
+                  1,
+                  "2025-11-18T23:34:33.773362"
+                ],
+                [
+                  1,
+                  "2025-11-19T01:08:33.801678"
+                ],
+                [
+                  1,
+                  "2025-11-19T02:33:03.208301"
+                ],
+                [
+                  1,
+                  "2025-11-19T02:35:04.269884"
+                ],
+                [
+                  1,
+                  "2025-11-19T02:44:21.517466"
+                ]
+              ],
+              "created_utc": 1763505637.0,
+              "depth": 2,
+              "permalink": "/r/ChatGPTCoding/comments/1p0iqf9/why_do_people_care_so_much_about_speed_of_coding/npknw85/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": [
+                {
+                  "id": "npls9g9",
+                  "parent_id": "t1_npknw85",
+                  "author": "pete_68",
+                  "text_history": [
+                    [
+                      "Not to mention the whole efficiency loss to task-switching",
+                      "2025-11-18T21:39:25.320009"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      2,
+                      "2025-11-18T21:39:25.320009"
+                    ],
+                    [
+                      3,
+                      "2025-11-18T23:34:33.773362"
+                    ],
+                    [
+                      3,
+                      "2025-11-19T01:08:33.801678"
+                    ],
+                    [
+                      3,
+                      "2025-11-19T02:33:03.208301"
+                    ],
+                    [
+                      3,
+                      "2025-11-19T02:35:04.269884"
+                    ],
+                    [
+                      3,
+                      "2025-11-19T02:44:21.517466"
+                    ]
+                  ],
+                  "created_utc": 1763519905.0,
+                  "depth": 3,
+                  "permalink": "/r/ChatGPTCoding/comments/1p0iqf9/why_do_people_care_so_much_about_speed_of_coding/npls9g9/",
+                  "is_submitter": false,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "npmp9r6",
+          "parent_id": "t1_npj5dea",
+          "author": "AppealSame4367",
+          "text_history": [
+            [
+              "The trick is to always work on 6 projects in parallel",
+              "2025-11-18T23:34:33.773362"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T23:34:33.773362"
+            ],
+            [
+              1,
+              "2025-11-19T01:08:33.801678"
+            ],
+            [
+              1,
+              "2025-11-19T02:33:03.208301"
+            ],
+            [
+              1,
+              "2025-11-19T02:35:04.269884"
+            ],
+            [
+              1,
+              "2025-11-19T02:44:21.517466"
+            ]
+          ],
+          "created_utc": 1763534402.0,
+          "depth": 1,
+          "permalink": "/r/ChatGPTCoding/comments/1p0iqf9/why_do_people_care_so_much_about_speed_of_coding/npmp9r6/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npmqye4",
+              "parent_id": "t1_npmp9r6",
+              "author": "mannsion",
+              "text_history": [
+                [
+                  "I don't have a project for a small tasks that fit inside of a context window that I'm not waiting on, even if there's six of them going in parallel. \n\nThe current technology is acceptable if you're doing small things in small chunks. \n\nIf you're doing something massive like building the entire of chromium and cross-compiling it on Android it's pretty freaking useless. \n\n\nIt might work on a project with 10,000 lines of code but it chokes on something with a million.\n\nThe minute you try to pull down a repo that's literally gigabytes in size just in source code you find out real quick how useless it is. \n\nYou spend more time trying to get it to scope down or work in a tiny folder then you would if you just did it. \n\nIt strives at small micro repos, and is horrible at huge mono repos.\n\nOne of the projects I have I can't even ask it a single question where it requires it to analyze the entire repo that runs out of context on that one question.  And that's with co-pilot pro Plus on the best model.  I can literally ask it one question and it immediately starts summarizing the conversation and I haven't even had a conversation yet...",
+                  "2025-11-18T23:34:33.773362"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-18T23:34:33.773362"
+                ],
+                [
+                  1,
+                  "2025-11-19T01:08:33.801678"
+                ],
+                [
+                  1,
+                  "2025-11-19T02:33:03.208301"
+                ],
+                [
+                  1,
+                  "2025-11-19T02:35:04.269884"
+                ],
+                [
+                  1,
+                  "2025-11-19T02:44:21.517466"
+                ]
+              ],
+              "created_utc": 1763535339.0,
+              "depth": 2,
+              "permalink": "/r/ChatGPTCoding/comments/1p0iqf9/why_do_people_care_so_much_about_speed_of_coding/npmqye4/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": [
+                {
+                  "id": "npmrifa",
+                  "parent_id": "t1_npmqye4",
+                  "author": "AppealSame4367",
+                  "text_history": [
+                    [
+                      "Which coding agents or IDEs do you use?\n\nYou probably want to customize the build process and to understand how, the agent would need a lot of context. maybe something like windsurfs codemaps can help you, the fast mode seems to be able to churn a lot of content in a short time to generate a context tree",
+                      "2025-11-18T23:34:33.773362"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      1,
+                      "2025-11-18T23:34:33.773362"
+                    ],
+                    [
+                      1,
+                      "2025-11-19T01:08:33.801678"
+                    ],
+                    [
+                      1,
+                      "2025-11-19T02:33:03.208301"
+                    ],
+                    [
+                      1,
+                      "2025-11-19T02:35:04.269884"
+                    ],
+                    [
+                      1,
+                      "2025-11-19T02:44:21.517466"
+                    ]
+                  ],
+                  "created_utc": 1763535657.0,
+                  "depth": 3,
+                  "permalink": "/r/ChatGPTCoding/comments/1p0iqf9/why_do_people_care_so_much_about_speed_of_coding/npmrifa/",
+                  "is_submitter": false,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": [
+                    {
+                      "id": "npmwvxg",
+                      "parent_id": "t1_npmrifa",
+                      "author": "mannsion",
+                      "text_history": [
+                        [
+                          "VSCode + Github Copilot Pro Plus subscription + LOTS of MCP tools + Copilot CLI.",
+                          "2025-11-19T01:08:33.801678"
+                        ]
+                      ],
+                      "score_history": [
+                        [
+                          1,
+                          "2025-11-19T01:08:33.801678"
+                        ],
+                        [
+                          1,
+                          "2025-11-19T02:33:03.208301"
+                        ],
+                        [
+                          1,
+                          "2025-11-19T02:35:04.269884"
+                        ],
+                        [
+                          1,
+                          "2025-11-19T02:44:21.517466"
+                        ]
+                      ],
+                      "created_utc": 1763538842.0,
+                      "depth": 4,
+                      "permalink": "/r/ChatGPTCoding/comments/1p0iqf9/why_do_people_care_so_much_about_speed_of_coding/npmwvxg/",
+                      "is_submitter": false,
+                      "controversiality": 0,
+                      "gilded": 0,
+                      "edited": false,
+                      "deleted": false,
+                      "deleted_at": null,
+                      "replies": [
+                        {
+                          "id": "npn5i2k",
+                          "parent_id": "t1_npmwvxg",
+                          "author": "AppealSame4367",
+                          "text_history": [
+                            [
+                              "I'd suggest you try:  \n1. Windsurf  \n1.1. it's cheap, you can get full functionality and 500 credits for 15$ and their credit pricing for the models is realistic. codemaps / deepwiki should help you, you got many different models to choose from, for example gpt-5.1 free  \n2. Gemini CLI  \n2.1. Get a paid Vertex AI key and use Gemini 3 or just use Gemini 2.5 Pro, 2.5 is not  good at coding, but good at understanding and planning over big context",
+                              "2025-11-19T02:33:03.208301"
+                            ]
+                          ],
+                          "score_history": [
+                            [
+                              1,
+                              "2025-11-19T02:33:03.208301"
+                            ],
+                            [
+                              1,
+                              "2025-11-19T02:35:04.269884"
+                            ],
+                            [
+                              1,
+                              "2025-11-19T02:44:21.517466"
+                            ]
+                          ],
+                          "created_utc": 1763544222.0,
+                          "depth": 5,
+                          "permalink": "/r/ChatGPTCoding/comments/1p0iqf9/why_do_people_care_so_much_about_speed_of_coding/npn5i2k/",
+                          "is_submitter": false,
+                          "controversiality": 0,
+                          "gilded": 0,
+                          "edited": false,
+                          "deleted": false,
+                          "deleted_at": null,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "npj3ch1",
+      "parent_id": "t3_1p0iqf9",
+      "author": "Signal_Ad657",
+      "text_history": [
+        [
+          "A lot of uses of these agents are for troubleshooting with quick patches of code going back and forth testing stuff.  So it’s nice to be able to do that dance quickly.  Try this, nope?  Try that.  Accuracy matters always.  I don’t think anyone said they’d like to make things less accurate.  I guess the real question is, would slower actually be more accurate?  Or just slower?",
+          "2025-11-18T13:49:39.367993"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-18T13:49:39.367993"
+        ],
+        [
+          2,
+          "2025-11-18T14:00:41.054153"
+        ],
+        [
+          2,
+          "2025-11-18T14:12:09.754124"
+        ],
+        [
+          4,
+          "2025-11-18T21:39:25.320009"
+        ],
+        [
+          5,
+          "2025-11-18T23:34:33.773362"
+        ],
+        [
+          5,
+          "2025-11-19T01:08:33.801678"
+        ],
+        [
+          4,
+          "2025-11-19T02:33:03.208301"
+        ],
+        [
+          5,
+          "2025-11-19T02:35:04.269884"
+        ],
+        [
+          5,
+          "2025-11-19T02:44:21.517466"
+        ]
+      ],
+      "created_utc": 1763488677.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTCoding/comments/1p0iqf9/why_do_people_care_so_much_about_speed_of_coding/npj3ch1/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npjqxqh",
+      "parent_id": "t3_1p0iqf9",
+      "author": "Suspicious_Yak2485",
+      "text_history": [
+        [
+          "Faster is obviously better for so many reasons. Shorter feedback loop = more productivity, less chance of being distracted and exiting \"the zone\".\n\nBut, yes, intelligence/correctness/cleanness is definitely way more important than speed. I'll always take a model that's much slower but more likely to correctly do what I request on the first try.",
+          "2025-11-18T13:49:39.367993"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-18T13:49:39.367993"
+        ],
+        [
+          2,
+          "2025-11-18T14:00:41.054153"
+        ],
+        [
+          2,
+          "2025-11-18T14:12:09.754124"
+        ],
+        [
+          4,
+          "2025-11-18T21:39:25.320009"
+        ],
+        [
+          4,
+          "2025-11-18T23:34:33.773362"
+        ],
+        [
+          4,
+          "2025-11-19T01:08:33.801678"
+        ],
+        [
+          3,
+          "2025-11-19T02:33:03.208301"
+        ],
+        [
+          5,
+          "2025-11-19T02:35:04.269884"
+        ],
+        [
+          5,
+          "2025-11-19T02:44:21.517466"
+        ]
+      ],
+      "created_utc": 1763495575.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTCoding/comments/1p0iqf9/why_do_people_care_so_much_about_speed_of_coding/npjqxqh/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npkmfug",
+          "parent_id": "t1_npjqxqh",
+          "author": "maigpy",
+          "text_history": [
+            [
+              "cleanliness but good comment  \nit's horses for courses really, it should take the \"right\" amount of time, depending on the complexity of the task.",
+              "2025-11-18T21:39:25.320009"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T21:39:25.320009"
+            ],
+            [
+              1,
+              "2025-11-18T23:34:33.773362"
+            ],
+            [
+              1,
+              "2025-11-19T01:08:33.801678"
+            ],
+            [
+              1,
+              "2025-11-19T02:33:03.208301"
+            ],
+            [
+              1,
+              "2025-11-19T02:35:04.269884"
+            ],
+            [
+              1,
+              "2025-11-19T02:44:21.517466"
+            ]
+          ],
+          "created_utc": 1763505156.0,
+          "depth": 1,
+          "permalink": "/r/ChatGPTCoding/comments/1p0iqf9/why_do_people_care_so_much_about_speed_of_coding/npkmfug/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npjvoz6",
+      "parent_id": "t3_1p0iqf9",
+      "author": "mjakl",
+      "text_history": [
+        [
+          "Fully agree. Quality is also my first priority, if the model makes a mistake and I need to intervene or fix it myself any speed advantage is likely gone anyways. I've been using GPT 5.x Codex with high reasoning for the past few weeks and it's fine. Great code, good design/architecture, very few mistakes it doesn't fix by itself using linters/tests. Yet, I've been experimenting with GPT as architect and Sonnet as implementer lately and it felt much smoother. I got faster feedback, and the code was good too. Plus, since I've got two subscriptions (ChatGPT and Claude), I won't run into limits that quickly too.\n\nSo what I do now is: Plan with GPT, code with Sonnet, review with GPT\n\nI use OpenCode to switch the models, and beads to manage the plan/tasks. Works well, but I wished that GPT would be as fast as Sonnet - juggling two models is actually quite stupid (but the best I got).",
+          "2025-11-18T13:49:39.367993"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-18T13:49:39.367993"
+        ],
+        [
+          2,
+          "2025-11-18T14:00:41.054153"
+        ],
+        [
+          2,
+          "2025-11-18T14:12:09.754124"
+        ],
+        [
+          3,
+          "2025-11-18T21:39:25.320009"
+        ],
+        [
+          3,
+          "2025-11-18T23:34:33.773362"
+        ],
+        [
+          3,
+          "2025-11-19T01:08:33.801678"
+        ],
+        [
+          3,
+          "2025-11-19T02:33:03.208301"
+        ],
+        [
+          3,
+          "2025-11-19T02:35:04.269884"
+        ],
+        [
+          3,
+          "2025-11-19T02:44:21.517466"
+        ]
+      ],
+      "created_utc": 1763497013.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTCoding/comments/1p0iqf9/why_do_people_care_so_much_about_speed_of_coding/npjvoz6/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npj3nm6",
+      "parent_id": "t3_1p0iqf9",
+      "author": "bendgame",
+      "text_history": [
+        [
+          "Because time is money... Yes it's that simple",
+          "2025-11-18T13:49:39.367993"
+        ]
+      ],
+      "score_history": [
+        [
+          3,
+          "2025-11-18T13:49:39.367993"
+        ],
+        [
+          2,
+          "2025-11-18T14:00:41.054153"
+        ],
+        [
+          3,
+          "2025-11-18T14:12:09.754124"
+        ],
+        [
+          3,
+          "2025-11-18T21:39:25.320009"
+        ],
+        [
+          3,
+          "2025-11-18T23:34:33.773362"
+        ],
+        [
+          3,
+          "2025-11-19T01:08:33.801678"
+        ],
+        [
+          3,
+          "2025-11-19T02:33:03.208301"
+        ],
+        [
+          2,
+          "2025-11-19T02:35:04.269884"
+        ],
+        [
+          2,
+          "2025-11-19T02:44:21.517466"
+        ]
+      ],
+      "created_utc": 1763488765.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTCoding/comments/1p0iqf9/why_do_people_care_so_much_about_speed_of_coding/npj3nm6/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npjiy3u",
+      "parent_id": "t3_1p0iqf9",
+      "author": "holyknight00",
+      "text_history": [
+        [
+          "well, depends on what you are doing. Both are different sides of the same coin, If the agent is capable enough to work on its own then it's fine if it takes 10 minutes to give you an answer. But if you need to be constantly reviewing and correcting it, waiting 30s or 1m  minute through each input is extremely time consuming and cumbersome to use.",
+          "2025-11-18T13:49:39.367993"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T13:49:39.367993"
+        ],
+        [
+          1,
+          "2025-11-18T14:00:41.054153"
+        ],
+        [
+          1,
+          "2025-11-18T14:12:09.754124"
+        ],
+        [
+          1,
+          "2025-11-18T21:39:25.320009"
+        ],
+        [
+          1,
+          "2025-11-18T23:34:33.773362"
+        ],
+        [
+          1,
+          "2025-11-19T01:08:33.801678"
+        ],
+        [
+          1,
+          "2025-11-19T02:33:03.208301"
+        ],
+        [
+          1,
+          "2025-11-19T02:35:04.269884"
+        ],
+        [
+          1,
+          "2025-11-19T02:44:21.517466"
+        ]
+      ],
+      "created_utc": 1763493184.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTCoding/comments/1p0iqf9/why_do_people_care_so_much_about_speed_of_coding/npjiy3u/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npk0ojk",
+      "parent_id": "t3_1p0iqf9",
+      "author": "No-Consequence-1779",
+      "text_history": [
+        [
+          "If you get paid for your work, time is money. Especially with genAI, llms-often many iterations are required. Waiting 30 minutes per iteration is infuriating. ",
+          "2025-11-18T13:49:39.367993"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T13:49:39.367993"
+        ],
+        [
+          1,
+          "2025-11-18T14:00:41.054153"
+        ],
+        [
+          1,
+          "2025-11-18T14:12:09.754124"
+        ],
+        [
+          1,
+          "2025-11-18T21:39:25.320009"
+        ],
+        [
+          1,
+          "2025-11-18T23:34:33.773362"
+        ],
+        [
+          1,
+          "2025-11-19T01:08:33.801678"
+        ],
+        [
+          1,
+          "2025-11-19T02:33:03.208301"
+        ],
+        [
+          1,
+          "2025-11-19T02:35:04.269884"
+        ],
+        [
+          1,
+          "2025-11-19T02:44:21.517466"
+        ]
+      ],
+      "created_utc": 1763498541.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTCoding/comments/1p0iqf9/why_do_people_care_so_much_about_speed_of_coding/npk0ojk/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npklc3a",
+      "parent_id": "t3_1p0iqf9",
+      "author": "trout_dawg",
+      "text_history": [
+        [
+          "Totally with you. Then again I started with technology using a 1200 baud modem. Everything is magic now.",
+          "2025-11-18T21:39:25.320009"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T21:39:25.320009"
+        ],
+        [
+          1,
+          "2025-11-18T23:34:33.773362"
+        ],
+        [
+          1,
+          "2025-11-19T01:08:33.801678"
+        ],
+        [
+          1,
+          "2025-11-19T02:33:03.208301"
+        ],
+        [
+          1,
+          "2025-11-19T02:35:04.269884"
+        ],
+        [
+          1,
+          "2025-11-19T02:44:21.517466"
+        ]
+      ],
+      "created_utc": 1763504796.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTCoding/comments/1p0iqf9/why_do_people_care_so_much_about_speed_of_coding/npklc3a/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npklyyl",
+      "parent_id": "t3_1p0iqf9",
+      "author": "SunriseSurprise",
+      "text_history": [
+        [
+          "The mantra of \"fail faster\". Taking hours, days, weeks or longer to build a garbage heap feels like a more significant waste of time than taking just minutes to build it.\n\nObviously getting 100% accuracy would be far more important, but we're not there yet with AI, so speed is heavily looked at.",
+          "2025-11-18T21:39:25.320009"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T21:39:25.320009"
+        ],
+        [
+          1,
+          "2025-11-18T23:34:33.773362"
+        ],
+        [
+          1,
+          "2025-11-19T01:08:33.801678"
+        ],
+        [
+          1,
+          "2025-11-19T02:33:03.208301"
+        ],
+        [
+          1,
+          "2025-11-19T02:35:04.269884"
+        ],
+        [
+          1,
+          "2025-11-19T02:44:21.517466"
+        ]
+      ],
+      "created_utc": 1763505001.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTCoding/comments/1p0iqf9/why_do_people_care_so_much_about_speed_of_coding/npklyyl/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npkn6wl",
+      "parent_id": "t3_1p0iqf9",
+      "author": "MacrosInHisSleep",
+      "text_history": [
+        [
+          "Because I have a ton of ideas that I want to explore and not enough time to explore them all?",
+          "2025-11-18T21:39:25.320009"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T21:39:25.320009"
+        ],
+        [
+          1,
+          "2025-11-18T23:34:33.773362"
+        ],
+        [
+          1,
+          "2025-11-19T01:08:33.801678"
+        ],
+        [
+          1,
+          "2025-11-19T02:33:03.208301"
+        ],
+        [
+          1,
+          "2025-11-19T02:35:04.269884"
+        ],
+        [
+          1,
+          "2025-11-19T02:44:21.517466"
+        ]
+      ],
+      "created_utc": 1763505405.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTCoding/comments/1p0iqf9/why_do_people_care_so_much_about_speed_of_coding/npkn6wl/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npkoc06",
+      "parent_id": "t3_1p0iqf9",
+      "author": "TyPoPoPo",
+      "text_history": [
+        [
+          "People want a lot of things from coding agents that are not delivered. \nThe real question is why is this one of the priorities?\n\nThe answer you might assume is because consumers need or want it, but the real reason is the dopamine window, how fast something happens after you perform some action..Especially in troubleshooting. \n\nNicotine is so addictive because it is such an immediate change in chemistry, this is the same reason vibe coding feels good.",
+          "2025-11-18T21:39:25.320009"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T21:39:25.320009"
+        ],
+        [
+          1,
+          "2025-11-18T23:34:33.773362"
+        ],
+        [
+          1,
+          "2025-11-19T01:08:33.801678"
+        ],
+        [
+          1,
+          "2025-11-19T02:33:03.208301"
+        ],
+        [
+          1,
+          "2025-11-19T02:35:04.269884"
+        ],
+        [
+          1,
+          "2025-11-19T02:44:21.517466"
+        ]
+      ],
+      "created_utc": 1763505781.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTCoding/comments/1p0iqf9/why_do_people_care_so_much_about_speed_of_coding/npkoc06/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npl65od",
+      "parent_id": "t3_1p0iqf9",
+      "author": "[deleted]",
+      "text_history": [
+        [
+          "[removed]",
+          "2025-11-18T21:39:25.320009"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T21:39:25.320009"
+        ],
+        [
+          1,
+          "2025-11-18T23:34:33.773362"
+        ],
+        [
+          1,
+          "2025-11-19T01:08:33.801678"
+        ],
+        [
+          1,
+          "2025-11-19T02:33:03.208301"
+        ],
+        [
+          1,
+          "2025-11-19T02:35:04.269884"
+        ],
+        [
+          1,
+          "2025-11-19T02:44:21.517466"
+        ]
+      ],
+      "created_utc": 1763512003.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTCoding/comments/1p0iqf9/why_do_people_care_so_much_about_speed_of_coding/npl65od/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npl65qa",
+          "parent_id": "t1_npl65od",
+          "author": "AutoModerator",
+          "text_history": [
+            [
+              "Sorry, your submission has been removed due to inadequate account karma.\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/ChatGPTCoding) if you have any questions or concerns.*",
+              "2025-11-18T21:39:25.320009"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T21:39:25.320009"
+            ],
+            [
+              1,
+              "2025-11-18T23:34:33.773362"
+            ],
+            [
+              1,
+              "2025-11-19T01:08:33.801678"
+            ],
+            [
+              1,
+              "2025-11-19T02:33:03.208301"
+            ],
+            [
+              1,
+              "2025-11-19T02:35:04.269884"
+            ],
+            [
+              1,
+              "2025-11-19T02:44:21.517466"
+            ]
+          ],
+          "created_utc": 1763512003.0,
+          "depth": 1,
+          "permalink": "/r/ChatGPTCoding/comments/1p0iqf9/why_do_people_care_so_much_about_speed_of_coding/npl65qa/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npl7wl5",
+      "parent_id": "t3_1p0iqf9",
+      "author": "fasti-au",
+      "text_history": [
+        [
+          "Because when your making things is better to fail faster and learn than wait to understand your doing it wrong \n\nPs I don’t vibe code but it’s nicer to have parralel then 1 Fast if you do things different ways",
+          "2025-11-18T21:39:25.320009"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T21:39:25.320009"
+        ],
+        [
+          1,
+          "2025-11-18T23:34:33.773362"
+        ],
+        [
+          1,
+          "2025-11-19T01:08:33.801678"
+        ],
+        [
+          1,
+          "2025-11-19T02:33:03.208301"
+        ],
+        [
+          1,
+          "2025-11-19T02:35:04.269884"
+        ],
+        [
+          1,
+          "2025-11-19T02:44:21.517466"
+        ]
+      ],
+      "created_utc": 1763512616.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTCoding/comments/1p0iqf9/why_do_people_care_so_much_about_speed_of_coding/npl7wl5/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npln5rq",
+      "parent_id": "t3_1p0iqf9",
+      "author": "International_Ad7390",
+      "text_history": [
+        [
+          "Cause fast",
+          "2025-11-18T21:39:25.320009"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T21:39:25.320009"
+        ],
+        [
+          1,
+          "2025-11-18T23:34:33.773362"
+        ],
+        [
+          1,
+          "2025-11-19T01:08:33.801678"
+        ],
+        [
+          1,
+          "2025-11-19T02:33:03.208301"
+        ],
+        [
+          1,
+          "2025-11-19T02:35:04.269884"
+        ],
+        [
+          1,
+          "2025-11-19T02:44:21.517466"
+        ]
+      ],
+      "created_utc": 1763518072.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTCoding/comments/1p0iqf9/why_do_people_care_so_much_about_speed_of_coding/npln5rq/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nplo6if",
+      "parent_id": "t3_1p0iqf9",
+      "author": "m3kw",
+      "text_history": [
+        [
+          "So iterate faster",
+          "2025-11-18T21:39:25.320009"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T21:39:25.320009"
+        ],
+        [
+          1,
+          "2025-11-18T23:34:33.773362"
+        ],
+        [
+          1,
+          "2025-11-19T01:08:33.801678"
+        ],
+        [
+          1,
+          "2025-11-19T02:33:03.208301"
+        ],
+        [
+          1,
+          "2025-11-19T02:35:04.269884"
+        ],
+        [
+          1,
+          "2025-11-19T02:44:21.517466"
+        ]
+      ],
+      "created_utc": 1763518432.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTCoding/comments/1p0iqf9/why_do_people_care_so_much_about_speed_of_coding/nplo6if/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nplqgc3",
+      "parent_id": "t3_1p0iqf9",
+      "author": "Western_Building_880",
+      "text_history": [
+        [
+          "Because it is not intelligence.  Is a slot machine",
+          "2025-11-18T21:39:25.320009"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T21:39:25.320009"
+        ],
+        [
+          1,
+          "2025-11-18T23:34:33.773362"
+        ],
+        [
+          1,
+          "2025-11-19T01:08:33.801678"
+        ],
+        [
+          1,
+          "2025-11-19T02:33:03.208301"
+        ],
+        [
+          1,
+          "2025-11-19T02:35:04.269884"
+        ],
+        [
+          1,
+          "2025-11-19T02:44:21.517466"
+        ]
+      ],
+      "created_utc": 1763519254.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTCoding/comments/1p0iqf9/why_do_people_care_so_much_about_speed_of_coding/nplqgc3/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npmvn82",
+      "parent_id": "t3_1p0iqf9",
+      "author": "Vymir_IT",
+      "text_history": [
+        [
+          "Because the AIs business model is dependence, not business value. It's much closer to selling drugs or bets than B2B services. And hundreds of lines being generated in second with flashy lights and cool CLI is way more addictive, even if shit code is the output. And the faster it happens, the more you're gonna be stuck in loops, and the more you're gonna be stuck in loops - the more tokens you'll spend - and the more money AI company will make.",
+          "2025-11-19T01:08:33.801678"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T01:08:33.801678"
+        ],
+        [
+          1,
+          "2025-11-19T02:33:03.208301"
+        ],
+        [
+          1,
+          "2025-11-19T02:35:04.269884"
+        ],
+        [
+          1,
+          "2025-11-19T02:44:21.517466"
+        ]
+      ],
+      "created_utc": 1763538098.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTCoding/comments/1p0iqf9/why_do_people_care_so_much_about_speed_of_coding/npmvn82/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npmvzha",
+      "parent_id": "t3_1p0iqf9",
+      "author": "No-Midnight-242",
+      "text_history": [
+        [
+          "most of web dev nowadays especially frontend need rapid changes reflected. the lower level you go the more careful you need to be so more time investment if it means solid improvements is worth it. \n\npeople really need to stop thinking about ai coding as if all coding is one same homogenous blob of activities.",
+          "2025-11-19T01:08:33.801678"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T01:08:33.801678"
+        ],
+        [
+          1,
+          "2025-11-19T02:33:03.208301"
+        ],
+        [
+          1,
+          "2025-11-19T02:35:04.269884"
+        ],
+        [
+          1,
+          "2025-11-19T02:44:21.517466"
+        ]
+      ],
+      "created_utc": 1763538303.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTCoding/comments/1p0iqf9/why_do_people_care_so_much_about_speed_of_coding/npmvzha/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T02:44:21.517466",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/ChatGPTCoding/comments/1p0iqf9/why_do_people_care_so_much_about_speed_of_coding/",
+    "total_comments": 30,
+    "top_level_comments": 19,
+    "api_requests": 1,
+    "expected_comments": 30,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 9,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_134939.json",
+      "scrape_002_20251118_140040.json",
+      "scrape_003_20251118_141209.json",
+      "scrape_004_20251118_213924.json",
+      "scrape_005_20251118_233433.json",
+      "scrape_006_20251119_010833.json",
+      "scrape_007_20251119_023302.json",
+      "scrape_008_20251119_023503.json",
+      "scrape_009_20251119_024421.json"
+    ]
+  }
+}

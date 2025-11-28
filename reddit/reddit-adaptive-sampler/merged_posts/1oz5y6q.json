@@ -1,0 +1,44 @@
+{
+  "post": {
+    "id": "1oz5y6q",
+    "title": "Can AUC of ROC Curve ever be greater than TSS in binary classification?",
+    "author": "Ajnatajnat",
+    "score_history": [
+      [
+        2,
+        "2025-11-19T02:35:05.810021"
+      ],
+      [
+        2,
+        "2025-11-19T02:44:22.010753"
+      ],
+      [
+        2,
+        "2025-11-19T02:52:26.298600"
+      ]
+    ],
+    "created_utc": 1763350550.0,
+    "num_comments": 1,
+    "subreddit": "MLQuestions",
+    "url": "https://www.reddit.com/r/MLQuestions/comments/1oz5y6q/can_auc_of_roc_curve_ever_be_greater_than_tss_in/",
+    "selftext": "My question is simple: Can Area Under Curve (AUC) of Receiver Operator Characteristics (ROC) Curve Ever be Greater than True Skill Statistics (TSS) in a binary classification developed by a same model?\n\nI've done binary classification quite a few times and I've never experienced that. One of my friends recently published an article where TSS is 0.94 but AUC is just 0.86. I have a feeling of suspicion regarding this result. The study is related to species distribution modeling using MaxEnt Model. \n\nCan anyone explain this?",
+    "permalink": "/r/MLQuestions/comments/1oz5y6q/can_auc_of_roc_curve_ever_be_greater_than_tss_in/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T02:52:26.298600",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/MLQuestions/comments/1oz5y6q/can_auc_of_roc_curve_ever_be_greater_than_tss_in/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 1,
+    "coverage_percent": 0.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_023505.json",
+      "scrape_002_20251119_024421.json",
+      "scrape_003_20251119_025226.json"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "post": {
+    "id": "1oltd8w",
+    "title": "AI prompt management and automation extension for ChatGPT, Gemini, Claude, Grok, AI Studio etc",
+    "author": "WinBuzzer",
+    "score_history": [
+      [
+        2,
+        "2025-11-19T03:18:09.406234"
+      ],
+      [
+        2,
+        "2025-11-19T03:25:39.892778"
+      ],
+      [
+        2,
+        "2025-11-19T03:28:31.664195"
+      ]
+    ],
+    "created_utc": 1762017401.0,
+    "num_comments": 0,
+    "subreddit": "AutoGPT",
+    "url": "https://i.redd.it/59p180ndioyf1.png",
+    "selftext": "We just released our [Prompt Station extension](https://winbuzzer.com/2025/10/21/release-prompt-station-brings-prompt-management-and-automation-to-the-next-level-xcxwbn/) for AI chatbot automation. It can handle very large libraries of prompts and offer automation of ChatGPT, Gemini, AI Studio, Claude, Grok, Mistral. We will be adding Openrouter soon and also more advanced features.\n\nBesides the supported AI providers, it can be used with all websites via quick pasting into chat bars or any other input field. \n\nWe have focused on ease of use, offering many trigger options like context menu actions, browser bookmarks, hotkeys, and a top bar.\n\nThe extension works particularly well for running long prompt chains, offering stop sequences, manual input prompts (for additional context) , and manual/paste/auto modes. A JSON import/export manager, advanced search and tags are also integrated.\n\nPlease let us know what you think and how we can improve it further. This is just the initial release and more features/improvements are already in the pipeline.",
+    "permalink": "/r/AutoGPT/comments/1oltd8w/ai_prompt_management_and_automation_extension_for/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:28:31.664195",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/AutoGPT/comments/1oltd8w/ai_prompt_management_and_automation_extension_for/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_031809.json",
+      "scrape_002_20251119_032539.json",
+      "scrape_003_20251119_032831.json"
+    ]
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "post": {
+    "id": "1p186dx",
+    "title": "\"Fast and Easy Whole-Brain Network Model Parameter Estimation with Automatic Differentiation\"",
+    "author": "AngleAccomplished865",
+    "score_history": [
+      [
+        1,
+        "2025-11-19T05:50:26.362853"
+      ],
+      [
+        1,
+        "2025-11-19T05:50:26.582420"
+      ],
+      [
+        1,
+        "2025-11-19T05:50:26.810732"
+      ],
+      [
+        1,
+        "2025-11-19T05:50:27.020562"
+      ],
+      [
+        1,
+        "2025-11-19T05:50:27.261410"
+      ],
+      [
+        1,
+        "2025-11-19T05:50:27.471052"
+      ],
+      [
+        1,
+        "2025-11-19T05:50:27.689181"
+      ],
+      [
+        1,
+        "2025-11-19T05:50:27.915024"
+      ],
+      [
+        1,
+        "2025-11-19T05:50:28.151013"
+      ],
+      [
+        1,
+        "2025-11-19T05:50:28.370592"
+      ],
+      [
+        1,
+        "2025-11-19T05:50:28.601630"
+      ],
+      [
+        1,
+        "2025-11-19T05:50:28.822778"
+      ],
+      [
+        1,
+        "2025-11-19T05:50:29.065470"
+      ],
+      [
+        1,
+        "2025-11-19T05:50:29.295248"
+      ],
+      [
+        1,
+        "2025-11-19T05:50:29.543704"
+      ],
+      [
+        1,
+        "2025-11-19T05:50:29.774782"
+      ],
+      [
+        1,
+        "2025-11-19T05:50:30.028379"
+      ],
+      [
+        1,
+        "2025-11-19T05:50:30.236726"
+      ],
+      [
+        1,
+        "2025-11-19T05:50:30.500792"
+      ],
+      [
+        1,
+        "2025-11-19T05:50:30.740772"
+      ]
+    ],
+    "created_utc": 1763560186.0,
+    "num_comments": 0,
+    "subreddit": "singularity",
+    "url": "https://www.reddit.com/r/singularity/comments/1p186dx/fast_and_easy_wholebrain_network_model_parameter/",
+    "selftext": "[https://www.biorxiv.org/content/10.1101/2025.11.18.689003v1?utm](https://www.biorxiv.org/content/10.1101/2025.11.18.689003v1?utm) \n\n\"Personalized brain modeling at clinically relevant scales requires integrating biophysical models with empirical neuroimaging data, yet high-dimensional parameter estimation in whole-brain network models remains computationally prohibitive. We present TVB-Optim, an open-source Python library providing a general and extensible framework for gradient-based optimization of brain network models build on JAX. Leveraging automatic differentiation, we demonstrate direct optimization of thousands of parameters, from global coupling (N=2) to regional dynamics (N=168) to full structural connectivity matrices (N=14,028), across functional MRI and magnetoencephalography data. Forward simulations achieve 10x CPU speedup over reference implementations and scale efficiently to GPU and multi-device configurations. We establish best practices through documented workflows that combine coarse parameter space exploration with gradient refinement, often yielding superior solutions faster than gradient methods alone. By bridging mechanistic neuroscience with modern machine learning infrastructure, TVB-Optim enables large-scale personalized brain models, bringing computational neuroscience closer to clinical translation.\"",
+    "permalink": "/r/singularity/comments/1p186dx/fast_and_easy_wholebrain_network_model_parameter/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T05:50:30.740772",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/singularity/comments/1p186dx/fast_and_easy_wholebrain_network_model_parameter/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 20,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_055026.json",
+      "scrape_002_20251119_055026.json",
+      "scrape_003_20251119_055026.json",
+      "scrape_004_20251119_055026.json",
+      "scrape_005_20251119_055027.json",
+      "scrape_006_20251119_055027.json",
+      "scrape_007_20251119_055027.json",
+      "scrape_008_20251119_055027.json",
+      "scrape_009_20251119_055027.json",
+      "scrape_010_20251119_055028.json",
+      "scrape_011_20251119_055028.json",
+      "scrape_012_20251119_055028.json",
+      "scrape_013_20251119_055028.json",
+      "scrape_014_20251119_055029.json",
+      "scrape_015_20251119_055029.json",
+      "scrape_016_20251119_055029.json",
+      "scrape_017_20251119_055029.json",
+      "scrape_018_20251119_055030.json",
+      "scrape_019_20251119_055030.json",
+      "scrape_020_20251119_055030.json"
+    ]
+  }
+}

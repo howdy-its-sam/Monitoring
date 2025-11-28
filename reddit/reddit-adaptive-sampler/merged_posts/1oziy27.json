@@ -1,0 +1,44 @@
+{
+  "post": {
+    "id": "1oziy27",
+    "title": "Class-based matrix autograd system for a minimal from-scratch GNN implementation",
+    "author": "Brilliant-Cat-3381",
+    "score_history": [
+      [
+        2,
+        "2025-11-18T14:53:20.968762"
+      ],
+      [
+        2,
+        "2025-11-18T14:56:06.930391"
+      ],
+      [
+        2,
+        "2025-11-18T15:04:21.451606"
+      ]
+    ],
+    "created_utc": 1763392652.0,
+    "num_comments": 0,
+    "subreddit": "MLQuestions",
+    "url": "https://www.reddit.com/r/MLQuestions/comments/1oziy27/classbased_matrix_autograd_system_for_a_minimal/",
+    "selftext": "This post describes a small educational experiment: a Graph Neural Network implemented entirely from scratch in pure Python, including a custom autograd engine and a class-based matrix multiplication system that makes gradient tracking transparent.\n\nThe framework demonstrates the internal mechanics of GNNs without relying on PyTorch, TensorFlow, or PyG. It includes:\n\nadjacency construction\n\nmessage passing using a clean class-based matrix system\n\ntanh + softmax nonlinearities\n\nmanual backward pass (no external autograd)\n\nsimple training loop\n\nsample dataset + example script\n\nThe goal is to provide a minimal, readable reference for understanding how gradients propagate through graph structures, especially for students and researchers who want to explore GNN internals rather than high-level abstractions.\n\nCode link: [https://github.com/Samanvith1404/MicroGNN](https://github.com/Samanvith1404/MicroGNN)\n\nFeedback on correctness, structure, and potential extensions (e.g., GAT, GraphSAGE, MPNN) is very welcome.",
+    "permalink": "/r/MLQuestions/comments/1oziy27/classbased_matrix_autograd_system_for_a_minimal/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-18T15:04:21.451606",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/MLQuestions/comments/1oziy27/classbased_matrix_autograd_system_for_a_minimal/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_145320.json",
+      "scrape_002_20251118_145606.json",
+      "scrape_003_20251118_150421.json"
+    ]
+  }
+}

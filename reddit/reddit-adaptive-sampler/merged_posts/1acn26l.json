@@ -1,0 +1,44 @@
+{
+  "post": {
+    "id": "1acn26l",
+    "title": "UCL MSc Language Sciences: Technology of Language and Speech",
+    "author": "kayakwtfgo",
+    "score_history": [
+      [
+        4,
+        "2025-11-19T02:55:40.819063"
+      ],
+      [
+        5,
+        "2025-11-19T03:03:44.760990"
+      ],
+      [
+        5,
+        "2025-11-19T03:14:06.532547"
+      ]
+    ],
+    "created_utc": 1706395118.0,
+    "num_comments": 0,
+    "subreddit": "compling",
+    "url": "https://www.reddit.com/r/compling/comments/1acn26l/ucl_msc_language_sciences_technology_of_language/",
+    "selftext": "I recently got accepted into this program (yay!!) but I honestly don’t know too much about it. I wanted to apply to a grad school in London and this one seemed to align with my interests. For reference, my top choice is Edinburgh’s Speech and Language Processing program (which I still haven’t heard back from) because I want to go into speech processing or synthesis since my main linguistic interest has always been phonology. Based on the course description and curriculum, it seems like a good program and has what I want, but I don’t know anything about its prospects or reputations. If you have any thoughts or are in the program yourself, let me know!",
+    "permalink": "/r/compling/comments/1acn26l/ucl_msc_language_sciences_technology_of_language/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:14:06.532547",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/compling/comments/1acn26l/ucl_msc_language_sciences_technology_of_language/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_025540.json",
+      "scrape_002_20251119_030344.json",
+      "scrape_003_20251119_031406.json"
+    ]
+  }
+}

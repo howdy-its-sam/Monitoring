@@ -1,0 +1,44 @@
+{
+  "post": {
+    "id": "1oyoph4",
+    "title": "international internship goal",
+    "author": "Try_Hard_007",
+    "score_history": [
+      [
+        2,
+        "2025-11-19T03:28:48.400556"
+      ],
+      [
+        3,
+        "2025-11-19T03:36:23.054154"
+      ],
+      [
+        2,
+        "2025-11-19T03:39:35.372118"
+      ]
+    ],
+    "created_utc": 1763307313.0,
+    "num_comments": 0,
+    "subreddit": "MLQuestions",
+    "url": "https://www.reddit.com/r/MLQuestions/comments/1oyoph4/international_internship_goal/",
+    "selftext": "hi Reddit,\nI am currently enrolled in a computer science course in a university in India. my uni isn't very big it's more like a community college ig. my cgpa isnt too good it's a little below 7 out of 10, i am working on pushing it up to atleast 8. I also have a back/failed subject in dsa in my 2nd semester. although I think because of my slacking in one field I think I have done better than my peers in the other. I have worked on a geo mapping python code where I would just type in a location and it would locate it on a map(not world changing or smthn ik) and a stock market trend predictor where my ml code would just try to predict if the market would go up the next day or down(sounds revolutionary but it was really just a basic ml project with the code's prediction being right about 50% of the times). I like ml and python. I am in my 3rd semester, starting 4th. I wish to get an international internship during my 4th year as well as the summer of 2027 in the financial field. what should I do and what project should i work on to achieve this goal. ",
+    "permalink": "/r/MLQuestions/comments/1oyoph4/international_internship_goal/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:39:35.372118",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/MLQuestions/comments/1oyoph4/international_internship_goal/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_032848.json",
+      "scrape_002_20251119_033622.json",
+      "scrape_003_20251119_033935.json"
+    ]
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "post": {
+    "id": "12uva65",
+    "title": "Microsoft, Nuance bring ChatGPT successor to healthcare",
+    "author": "TEOLAYKI",
+    "score_history": [
+      [
+        8,
+        "2025-11-18T13:48:41.558822"
+      ],
+      [
+        8,
+        "2025-11-18T13:59:48.171317"
+      ],
+      [
+        8,
+        "2025-11-18T14:10:57.822511"
+      ]
+    ],
+    "created_utc": 1682139657.0,
+    "num_comments": 1,
+    "subreddit": "HealthAI",
+    "url": "https://digitalhealth.modernhealthcare.com/digital-health/nuance-microsoft-chatgpt-gpt4-EHR",
+    "selftext": "",
+    "permalink": "/r/HealthAI/comments/12uva65/microsoft_nuance_bring_chatgpt_successor_to/"
+  },
+  "comments": [
+    {
+      "id": "ml5u883",
+      "parent_id": "t3_12uva65",
+      "author": "Exciting-Interest820",
+      "text_history": [
+        [
+          "Big moves like this are definitely pushing AI deeper into healthcare.  \nThe real test will be whether these tools can actually reduce workload without overwhelming staff or compromising patient trust.  \nCurious how smaller clinics will keep up if this becomes the norm.",
+          "2025-11-18T13:48:41.558822"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T13:48:41.558822"
+        ],
+        [
+          1,
+          "2025-11-18T13:59:48.171317"
+        ],
+        [
+          1,
+          "2025-11-18T14:10:57.822511"
+        ]
+      ],
+      "created_utc": 1743663539.0,
+      "depth": 0,
+      "permalink": "/r/HealthAI/comments/12uva65/microsoft_nuance_bring_chatgpt_successor_to/ml5u883/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-18T14:10:57.822511",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/HealthAI/comments/12uva65/microsoft_nuance_bring_chatgpt_successor_to/",
+    "total_comments": 1,
+    "top_level_comments": 1,
+    "api_requests": 1,
+    "expected_comments": 1,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_134841.json",
+      "scrape_002_20251118_135947.json",
+      "scrape_003_20251118_141057.json"
+    ]
+  }
+}

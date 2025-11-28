@@ -1,0 +1,59 @@
+{
+  "post": {
+    "id": "1p09qnh",
+    "title": "[ Removed by moderator ]",
+    "author": "epasou",
+    "score_history": [
+      [
+        0,
+        "2025-11-18T13:48:43.178493"
+      ],
+      [
+        0,
+        "2025-11-18T13:59:54.822232"
+      ],
+      [
+        0,
+        "2025-11-18T14:11:20.597024"
+      ],
+      [
+        0,
+        "2025-11-18T21:59:56.244662"
+      ],
+      [
+        0,
+        "2025-11-19T07:12:20.733167"
+      ],
+      [
+        0,
+        "2025-11-19T07:22:51.428390"
+      ]
+    ],
+    "created_utc": 1763466120.0,
+    "num_comments": 1,
+    "subreddit": "ContentMarketing",
+    "url": "https://i.redd.it/2yo6i1d4602g1.jpeg",
+    "selftext": "[removed]",
+    "permalink": "/r/ContentMarketing/comments/1p09qnh/using_multiple_ai_models_to_streamline_content/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T07:22:51.428390",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/ContentMarketing/comments/1p09qnh/using_multiple_ai_models_to_streamline_content/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 1,
+    "coverage_percent": 0.0,
+    "merged_snapshot_count": 6,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_134842.json",
+      "scrape_002_20251118_135954.json",
+      "scrape_003_20251118_141120.json",
+      "scrape_004_20251118_215956.json",
+      "scrape_005_20251119_071220.json",
+      "scrape_006_20251119_072251.json"
+    ]
+  }
+}

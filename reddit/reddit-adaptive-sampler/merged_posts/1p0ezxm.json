@@ -1,0 +1,44 @@
+{
+  "post": {
+    "id": "1p0ezxm",
+    "title": "[D] Requesting arXiv endorsement for a new sequence modeling paper (cs.CL)",
+    "author": "enzoescipy",
+    "score_history": [
+      [
+        1,
+        "2025-11-18T14:22:06.774923"
+      ],
+      [
+        1,
+        "2025-11-18T14:32:08.908473"
+      ],
+      [
+        1,
+        "2025-11-18T14:42:44.613845"
+      ]
+    ],
+    "created_utc": 1763479988.0,
+    "num_comments": 0,
+    "subreddit": "learnmachinelearning",
+    "url": "https://www.reddit.com/r/learnmachinelearning/comments/1p0ezxm/d_requesting_arxiv_endorsement_for_a_new_sequence/",
+    "selftext": "Hello, researchers.\n\nI'm an independent researcher and I'm looking for an arXiv endorsement in the cs.CL category.\n\nI've recently completed a paper titled **\"vBERT: Vector Sequence Merger for Limited Embedding Context Extension\"**, which proposes a novel, non-recursive method to extend the effective context of Transformer-based models by merging embedding sequences.\n\nThe full paper is already available on Zenodo, and you can review it here: [**https://doi.org/10.5281/zenodo.17641562**]()\n\nIf you find the work interesting and believe it's a suitable contribution for the arXiv community, I would be deeply grateful for your endorsement.\n\nAlso, I prepared some [interesting article](https://www.winter-sci-dev.com/posts/embed-sequence-merger-vbert-ppe-article/) about the thesis, and the huggingface model([Malgeum80M](https://huggingface.co/enzoescipy/sequence-merger-malgeum), [Sarang270M](https://huggingface.co/enzoescipy/sequence-merger-sarang)), also the RSS [RAG benchmark space](https://huggingface.co/spaces/enzoescipy/finesse-benchmark-space).\n\nThank you for your time and consideration.\n\n  \ncontact : [enzoescipy@gmail.com](mailto:enzoescipy@gmail.com)",
+    "permalink": "/r/learnmachinelearning/comments/1p0ezxm/d_requesting_arxiv_endorsement_for_a_new_sequence/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-18T14:42:44.613845",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/learnmachinelearning/comments/1p0ezxm/d_requesting_arxiv_endorsement_for_a_new_sequence/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_142206.json",
+      "scrape_002_20251118_143208.json",
+      "scrape_003_20251118_144244.json"
+    ]
+  }
+}

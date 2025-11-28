@@ -1,0 +1,44 @@
+{
+  "post": {
+    "id": "192sj1y",
+    "title": "Msc 100% Online in EU?",
+    "author": "Extension_Design_739",
+    "score_history": [
+      [
+        8,
+        "2025-11-18T15:15:06.136436"
+      ],
+      [
+        7,
+        "2025-11-18T22:53:16.001943"
+      ],
+      [
+        8,
+        "2025-11-19T00:47:47.178609"
+      ]
+    ],
+    "created_utc": 1704841319.0,
+    "num_comments": 0,
+    "subreddit": "compling",
+    "url": "https://www.reddit.com/r/compling/comments/192sj1y/msc_100_online_in_eu/",
+    "selftext": "The only fully online master's in compling I've found is the UW one but it is extremely expensive for me, is there any more affordable option preferably EU based?\n\nI have a background in both data analytics (mostly business analytics) and linguistics but I'd like to develop a better understanding of NLP and ML application in the field. \n\nThanks!",
+    "permalink": "/r/compling/comments/192sj1y/msc_100_online_in_eu/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T00:47:47.178609",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/compling/comments/192sj1y/msc_100_online_in_eu/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_151505.json",
+      "scrape_002_20251118_225315.json",
+      "scrape_003_20251119_004746.json"
+    ]
+  }
+}

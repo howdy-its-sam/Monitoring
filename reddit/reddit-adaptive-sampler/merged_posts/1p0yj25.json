@@ -1,0 +1,80 @@
+{
+  "post": {
+    "id": "1p0yj25",
+    "title": "[ Removed by moderator ]",
+    "author": "leandros-kaito",
+    "score_history": [
+      [
+        0,
+        "2025-11-19T03:39:38.445187"
+      ],
+      [
+        0,
+        "2025-11-19T03:47:26.556501"
+      ],
+      [
+        0,
+        "2025-11-19T03:50:29.252461"
+      ]
+    ],
+    "created_utc": 1763528094.0,
+    "num_comments": 1,
+    "subreddit": "technology",
+    "url": "https://www.theguardian.com/technology/2025/nov/18/cloudflare-outage-causes-error-messages-across-the-internet",
+    "selftext": "",
+    "permalink": "/r/technology/comments/1p0yj25/cloudflare_outage_causes_error_messages_across/"
+  },
+  "comments": [
+    {
+      "id": "npmde42",
+      "parent_id": "t3_1p0yj25",
+      "author": "wonder_weird1",
+      "text_history": [
+        [
+          "Just stop. We all know about it now.",
+          "2025-11-19T03:39:38.445187"
+        ]
+      ],
+      "score_history": [
+        [
+          3,
+          "2025-11-19T03:39:38.445187"
+        ],
+        [
+          3,
+          "2025-11-19T03:47:26.556501"
+        ],
+        [
+          3,
+          "2025-11-19T03:50:29.252461"
+        ]
+      ],
+      "created_utc": 1763528379.0,
+      "depth": 0,
+      "permalink": "/r/technology/comments/1p0yj25/cloudflare_outage_causes_error_messages_across/npmde42/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:50:29.252461",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/technology/comments/1p0yj25/cloudflare_outage_causes_error_messages_across/",
+    "total_comments": 1,
+    "top_level_comments": 1,
+    "api_requests": 1,
+    "expected_comments": 1,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_033938.json",
+      "scrape_002_20251119_034726.json",
+      "scrape_003_20251119_035028.json"
+    ]
+  }
+}

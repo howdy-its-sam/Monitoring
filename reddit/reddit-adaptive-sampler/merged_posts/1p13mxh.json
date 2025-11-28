@@ -1,0 +1,322 @@
+{
+  "post": {
+    "id": "1p13mxh",
+    "title": "Would a suspended PC be \"more secure\"?",
+    "author": "fedesoundsystem",
+    "score_history": [
+      [
+        1,
+        "2025-11-19T02:55:58.866777"
+      ],
+      [
+        1,
+        "2025-11-19T03:08:51.507435"
+      ],
+      [
+        1,
+        "2025-11-19T03:17:36.307974"
+      ],
+      [
+        1,
+        "2025-11-19T03:19:47.148056"
+      ]
+    ],
+    "created_utc": 1763546538.0,
+    "num_comments": 7,
+    "subreddit": "cybersecurity",
+    "url": "https://www.reddit.com/r/cybersecurity/comments/1p13mxh/would_a_suspended_pc_be_more_secure/",
+    "selftext": "Hi!\n\nI work at a security company that handles sensitive customer data and all, and I think we have a pretty good baseline hardening. We comply with most modern standards. Now some person thought that having our PCs (running Windows) suspended after a while would be more secure, but I'm not sure. Is there any extra benefit for that?\n\nSure it will be a benefit if they were not hardened and left alone to be abused, but if that were not the case and the hardening would be good, is there any point of that?\n\nThanks!",
+    "permalink": "/r/cybersecurity/comments/1p13mxh/would_a_suspended_pc_be_more_secure/"
+  },
+  "comments": [
+    {
+      "id": "npnc4xk",
+      "parent_id": "t3_1p13mxh",
+      "author": "NiiWiiCamo",
+      "text_history": [
+        [
+          "Compared to what? Shut down? Active and logged in?",
+          "2025-11-19T02:55:58.866777"
+        ]
+      ],
+      "score_history": [
+        [
+          3,
+          "2025-11-19T02:55:58.866777"
+        ],
+        [
+          3,
+          "2025-11-19T03:08:51.507435"
+        ],
+        [
+          3,
+          "2025-11-19T03:17:36.307974"
+        ],
+        [
+          3,
+          "2025-11-19T03:19:47.148056"
+        ]
+      ],
+      "created_utc": 1763548302.0,
+      "depth": 0,
+      "permalink": "/r/cybersecurity/comments/1p13mxh/would_a_suspended_pc_be_more_secure/npnc4xk/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npnec9x",
+          "parent_id": "t1_npnc4xk",
+          "author": "fedesoundsystem",
+          "text_history": [
+            [
+              "Oh, I forgot to clarify. Yes, comparing suspended vs active, logged in and with a lockscreen",
+              "2025-11-19T02:55:58.866777"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-19T02:55:58.866777"
+            ],
+            [
+              1,
+              "2025-11-19T03:08:51.507435"
+            ],
+            [
+              1,
+              "2025-11-19T03:17:36.307974"
+            ],
+            [
+              1,
+              "2025-11-19T03:19:47.148056"
+            ]
+          ],
+          "created_utc": 1763549582.0,
+          "depth": 1,
+          "permalink": "/r/cybersecurity/comments/1p13mxh/would_a_suspended_pc_be_more_secure/npnec9x/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npnfru7",
+              "parent_id": "t1_npnec9x",
+              "author": "NiiWiiCamo",
+              "text_history": [
+                [
+                  "Meh, just shut it down after 5 minutes of inactivity. Suspending just dumps the RAM to disk, no benefit imho.\n\nThe question you should ask yourself is why having a locked system is in any way an attack vector. Do your staff regularly leave their systems locked overnight? Do you fear anyone coming in and dumping the RAM while it is running? In that case you have a policy issue, not a technical one.\n\nBut seriously, just get your users to shut down when leaving for the day.",
+                  "2025-11-19T03:08:51.507435"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-19T03:08:51.507435"
+                ],
+                [
+                  1,
+                  "2025-11-19T03:17:36.307974"
+                ],
+                [
+                  1,
+                  "2025-11-19T03:19:47.148056"
+                ]
+              ],
+              "created_utc": 1763550389.0,
+              "depth": 2,
+              "permalink": "/r/cybersecurity/comments/1p13mxh/would_a_suspended_pc_be_more_secure/npnfru7/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "npn9rcs",
+      "parent_id": "t3_1p13mxh",
+      "author": "sinnedslip",
+      "text_history": [
+        [
+          "It's like second condom and no sex is the safest option?",
+          "2025-11-19T02:55:58.866777"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:55:58.866777"
+        ],
+        [
+          1,
+          "2025-11-19T03:08:51.507435"
+        ],
+        [
+          1,
+          "2025-11-19T03:17:36.307974"
+        ],
+        [
+          1,
+          "2025-11-19T03:19:47.148056"
+        ]
+      ],
+      "created_utc": 1763546867.0,
+      "depth": 0,
+      "permalink": "/r/cybersecurity/comments/1p13mxh/would_a_suspended_pc_be_more_secure/npn9rcs/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npnbewx",
+      "parent_id": "t3_1p13mxh",
+      "author": "Zulishk",
+      "text_history": [
+        [
+          "More secure from what specifically?  Many (if not most) NICs can be used to wake a PC from sleep.",
+          "2025-11-19T02:55:58.866777"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:55:58.866777"
+        ],
+        [
+          1,
+          "2025-11-19T03:08:51.507435"
+        ],
+        [
+          1,
+          "2025-11-19T03:17:36.307974"
+        ],
+        [
+          1,
+          "2025-11-19T03:19:47.148056"
+        ]
+      ],
+      "created_utc": 1763547868.0,
+      "depth": 0,
+      "permalink": "/r/cybersecurity/comments/1p13mxh/would_a_suspended_pc_be_more_secure/npnbewx/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npndd94",
+          "parent_id": "t1_npnbewx",
+          "author": "T0ysWAr",
+          "text_history": [
+            [
+              "Well it is easy to configure so it does not… if this is what you want.",
+              "2025-11-19T02:55:58.866777"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-19T02:55:58.866777"
+            ],
+            [
+              1,
+              "2025-11-19T03:08:51.507435"
+            ],
+            [
+              1,
+              "2025-11-19T03:17:36.307974"
+            ],
+            [
+              1,
+              "2025-11-19T03:19:47.148056"
+            ]
+          ],
+          "created_utc": 1763549030.0,
+          "depth": 1,
+          "permalink": "/r/cybersecurity/comments/1p13mxh/would_a_suspended_pc_be_more_secure/npndd94/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npndlhc",
+      "parent_id": "t3_1p13mxh",
+      "author": "T0ysWAr",
+      "text_history": [
+        [
+          "As long as it does not hinder remote mgmt (patching, etc…). It is more secure in the sense that it is not available on the network at certain time (as long as you don’t have wake up on lan).\n\nIf there is a vulnerability, it can only be abused when it is up and running. So yes it is more secure…",
+          "2025-11-19T02:55:58.866777"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:55:58.866777"
+        ],
+        [
+          1,
+          "2025-11-19T03:08:51.507435"
+        ],
+        [
+          1,
+          "2025-11-19T03:17:36.307974"
+        ],
+        [
+          1,
+          "2025-11-19T03:19:47.148056"
+        ]
+      ],
+      "created_utc": 1763549161.0,
+      "depth": 0,
+      "permalink": "/r/cybersecurity/comments/1p13mxh/would_a_suspended_pc_be_more_secure/npndlhc/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:19:47.148056",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/cybersecurity/comments/1p13mxh/would_a_suspended_pc_be_more_secure/",
+    "total_comments": 7,
+    "top_level_comments": 4,
+    "api_requests": 1,
+    "expected_comments": 7,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 4,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_025558.json",
+      "scrape_002_20251119_030851.json",
+      "scrape_003_20251119_031736.json",
+      "scrape_004_20251119_031946.json"
+    ]
+  }
+}

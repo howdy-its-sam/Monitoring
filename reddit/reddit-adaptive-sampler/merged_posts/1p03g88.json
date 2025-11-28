@@ -1,0 +1,54 @@
+{
+  "post": {
+    "id": "1p03g88",
+    "title": "I built a tool for improving real user metrics with my AI agents",
+    "author": "RTSx1",
+    "score_history": [
+      [
+        2,
+        "2025-11-18T13:48:42.298786"
+      ],
+      [
+        2,
+        "2025-11-18T13:59:47.984372"
+      ],
+      [
+        2,
+        "2025-11-18T14:11:20.185239"
+      ],
+      [
+        2,
+        "2025-11-18T21:49:54.714126"
+      ],
+      [
+        2,
+        "2025-11-19T07:12:21.008084"
+      ]
+    ],
+    "created_utc": 1763442885.0,
+    "num_comments": 0,
+    "subreddit": "PromptEngineering",
+    "url": "https://www.reddit.com/r/PromptEngineering/comments/1p03g88/i_built_a_tool_for_improving_real_user_metrics/",
+    "selftext": "Hey everyone! Lately I’ve been working on an AI agent that creates a gallery of images based on a single prompt. I kept tweaking the system prompt (the part that takes the user’s input and generates multiple individual image prompts) to see if I could improve the final images and give users a better experience. \n\nBut I couldn’t verify whether my changes were actually making my users happier without manually interviewing people before and after every tweak. “More descriptive prompts” vs. “shorter prompts” was essentially guesswork.\n\nI was frustrated with this and wanted something that would let me quickly experiment with my changes in production to see real user behavior. But I couldn’t find anything, so I built Switchport. \n\nWith Switchport, I can now:\n\n* Define my own metrics (e.g. button clicks, engagement, etc.)\n* Version my prompts\n* A/B test my prompt versions with just a few clicks\n* See exactly how each prompt affects each metric\n\nIn my case, I can now verify that my changes to my prompt reduce the number of  “try again” clicks and actually lead to better images without just relying on gut feeling.\n\n[Here’s a demo](https://streamable.com/pkmgwb) showing how it works for a pharmacy support agent.\n\nIf you’re building an AI product, agent, chatbot, or workflow where prompts affect user outcomes, Switchport might save you a lot of time and improve your user metrics. \n\nIf you want to try it, have questions, or want me to help set it up for your agent feel free to send a DM. You can also set it up on your own at [https://switchport.ai/](https://switchport.ai/) at no cost.\n\nAbove all else, I’m really looking for some feedback. If you’ve had similar problems, get to try out Switchport, or anything else really, I’d love to hear your thoughts!",
+    "permalink": "/r/PromptEngineering/comments/1p03g88/i_built_a_tool_for_improving_real_user_metrics/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T07:12:21.008084",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/PromptEngineering/comments/1p03g88/i_built_a_tool_for_improving_real_user_metrics/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 5,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_134842.json",
+      "scrape_002_20251118_135947.json",
+      "scrape_003_20251118_141119.json",
+      "scrape_004_20251118_214954.json",
+      "scrape_005_20251119_071220.json"
+    ]
+  }
+}

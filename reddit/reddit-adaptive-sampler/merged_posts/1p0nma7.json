@@ -1,0 +1,44 @@
+{
+  "post": {
+    "id": "1p0nma7",
+    "title": "Vulnerable WebApp",
+    "author": "high0nXTC",
+    "score_history": [
+      [
+        5,
+        "2025-11-18T14:23:41.103808"
+      ],
+      [
+        4,
+        "2025-11-18T14:33:40.456322"
+      ],
+      [
+        4,
+        "2025-11-18T14:43:37.036583"
+      ]
+    ],
+    "created_utc": 1763499278.0,
+    "num_comments": 0,
+    "subreddit": "cybersecurity",
+    "url": "https://www.reddit.com/r/cybersecurity/comments/1p0nma7/vulnerable_webapp/",
+    "selftext": "heyo! I tried to make a vulnerable webapp using nodejs , It's weakness is intentionally aligned with OWASP Top 10 to mimic real world vulnerabilities.\n\nLink: https://github.com/Debang5hu/VulnTour\n\nContributions are appreciated a lot &lt;3",
+    "permalink": "/r/cybersecurity/comments/1p0nma7/vulnerable_webapp/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-18T14:43:37.036583",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/cybersecurity/comments/1p0nma7/vulnerable_webapp/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_142340.json",
+      "scrape_002_20251118_143340.json",
+      "scrape_003_20251118_144336.json"
+    ]
+  }
+}

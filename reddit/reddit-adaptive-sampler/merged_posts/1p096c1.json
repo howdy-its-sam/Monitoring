@@ -1,0 +1,354 @@
+{
+  "post": {
+    "id": "1p096c1",
+    "title": "AI firms must be clear on risks or repeat tobacco’s mistakes, says Anthropic chief | “You could end up in the world of the cigarette companies, or the opioid companies, where they knew there were dangers, and they didn’t talk about them, and certainly did not prevent them.”",
+    "author": "MetaKnowing",
+    "score_history": [
+      [
+        5,
+        "2025-11-18T14:53:19.623808"
+      ],
+      [
+        5,
+        "2025-11-18T15:03:43.909220"
+      ],
+      [
+        4,
+        "2025-11-18T15:05:32.480011"
+      ],
+      [
+        11,
+        "2025-11-18T22:32:20.592489"
+      ],
+      [
+        10,
+        "2025-11-19T00:26:20.357417"
+      ],
+      [
+        10,
+        "2025-11-19T02:01:30.769720"
+      ]
+    ],
+    "created_utc": 1763464182.0,
+    "num_comments": 7,
+    "subreddit": "artificial",
+    "url": "https://www.theguardian.com/technology/2025/nov/17/ai-firms-risks-tobacco-anthropic-artificial-intelligence-dario-amodei",
+    "selftext": "",
+    "permalink": "/r/artificial/comments/1p096c1/ai_firms_must_be_clear_on_risks_or_repeat/"
+  },
+  "comments": [
+    {
+      "id": "nph4qog",
+      "parent_id": "t3_1p096c1",
+      "author": "BB_InnovateDesign",
+      "text_history": [
+        [
+          "Worse still, the tobacco companies flat-out lied about the dangers when knowing full well about the potential harms. Surely with such honourable billionaires at the helm, the AI world won't repeat that.",
+          "2025-11-18T14:53:19.623808"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-18T14:53:19.623808"
+        ],
+        [
+          2,
+          "2025-11-18T15:03:43.909220"
+        ],
+        [
+          2,
+          "2025-11-18T15:05:32.480011"
+        ],
+        [
+          2,
+          "2025-11-18T22:32:20.592489"
+        ],
+        [
+          2,
+          "2025-11-19T00:26:20.357417"
+        ],
+        [
+          2,
+          "2025-11-19T02:01:30.769720"
+        ]
+      ],
+      "created_utc": 1763465337.0,
+      "depth": 0,
+      "permalink": "/r/artificial/comments/1p096c1/ai_firms_must_be_clear_on_risks_or_repeat/nph4qog/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npirc2c",
+      "parent_id": "t3_1p096c1",
+      "author": "Mandoman61",
+      "text_history": [
+        [
+          "Talk is cheap.\n\nEveryone who pays attention to the current status is aware that alignment is still a huge problem, fakes are a problem, AI delusion is a problem, hallucination is still a problem, etc..\n\nThe question is what if anything are you doing to fix these problems?",
+          "2025-11-18T14:53:19.623808"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:53:19.623808"
+        ],
+        [
+          1,
+          "2025-11-18T15:03:43.909220"
+        ],
+        [
+          1,
+          "2025-11-18T15:05:32.480011"
+        ],
+        [
+          1,
+          "2025-11-18T22:32:20.592489"
+        ],
+        [
+          1,
+          "2025-11-19T00:26:20.357417"
+        ],
+        [
+          1,
+          "2025-11-19T02:01:30.769720"
+        ]
+      ],
+      "created_utc": 1763485143.0,
+      "depth": 0,
+      "permalink": "/r/artificial/comments/1p096c1/ai_firms_must_be_clear_on_risks_or_repeat/npirc2c/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "nplc173",
+          "parent_id": "t1_npirc2c",
+          "author": "Fit-Programmer-3391",
+          "text_history": [
+            [
+              "I'm sure they'll do the right thing no matter how much pressure investors put on them.......................",
+              "2025-11-18T22:32:20.592489"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T22:32:20.592489"
+            ],
+            [
+              1,
+              "2025-11-19T00:26:20.357417"
+            ],
+            [
+              1,
+              "2025-11-19T02:01:30.769720"
+            ]
+          ],
+          "created_utc": 1763514061.0,
+          "depth": 1,
+          "permalink": "/r/artificial/comments/1p096c1/ai_firms_must_be_clear_on_risks_or_repeat/nplc173/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npjzr0f",
+      "parent_id": "t3_1p096c1",
+      "author": "peternn2412",
+      "text_history": [
+        [
+          "If Dario keeps radiating hysterical nonsense in all directions, he'll become the Greta Thunberg of AI.",
+          "2025-11-18T14:53:19.623808"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:53:19.623808"
+        ],
+        [
+          1,
+          "2025-11-18T15:03:43.909220"
+        ],
+        [
+          1,
+          "2025-11-18T15:05:32.480011"
+        ],
+        [
+          1,
+          "2025-11-18T22:32:20.592489"
+        ],
+        [
+          1,
+          "2025-11-19T00:26:20.357417"
+        ],
+        [
+          1,
+          "2025-11-19T02:01:30.769720"
+        ]
+      ],
+      "created_utc": 1763498257.0,
+      "depth": 0,
+      "permalink": "/r/artificial/comments/1p096c1/ai_firms_must_be_clear_on_risks_or_repeat/npjzr0f/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npl56nt",
+      "parent_id": "t3_1p096c1",
+      "author": "Meleoffs",
+      "text_history": [
+        [
+          "Funny Dario. This sounds like security theater to cover your ass for what's coming. It's your fault. You started this.",
+          "2025-11-18T22:32:20.592489"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T22:32:20.592489"
+        ],
+        [
+          1,
+          "2025-11-19T00:26:20.357417"
+        ],
+        [
+          1,
+          "2025-11-19T02:01:30.769720"
+        ]
+      ],
+      "created_utc": 1763511662.0,
+      "depth": 0,
+      "permalink": "/r/artificial/comments/1p096c1/ai_firms_must_be_clear_on_risks_or_repeat/npl56nt/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nplbqtv",
+      "parent_id": "t3_1p096c1",
+      "author": "Fit-Programmer-3391",
+      "text_history": [
+        [
+          "[gets on private jet back to HQ to continue working on said dangerous technology before competitors take market share.]",
+          "2025-11-18T22:32:20.592489"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T22:32:20.592489"
+        ],
+        [
+          1,
+          "2025-11-19T00:26:20.357417"
+        ],
+        [
+          1,
+          "2025-11-19T02:01:30.769720"
+        ]
+      ],
+      "created_utc": 1763513957.0,
+      "depth": 0,
+      "permalink": "/r/artificial/comments/1p096c1/ai_firms_must_be_clear_on_risks_or_repeat/nplbqtv/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nphv85c",
+      "parent_id": "t3_1p096c1",
+      "author": "Schmilsson1",
+      "text_history": [
+        [
+          "this guy is high on his own supply and it's sad",
+          "2025-11-18T14:53:19.623808"
+        ]
+      ],
+      "score_history": [
+        [
+          0,
+          "2025-11-18T14:53:19.623808"
+        ],
+        [
+          0,
+          "2025-11-18T15:03:43.909220"
+        ],
+        [
+          0,
+          "2025-11-18T15:05:32.480011"
+        ],
+        [
+          0,
+          "2025-11-18T22:32:20.592489"
+        ],
+        [
+          0,
+          "2025-11-19T00:26:20.357417"
+        ],
+        [
+          0,
+          "2025-11-19T02:01:30.769720"
+        ]
+      ],
+      "created_utc": 1763475454.0,
+      "depth": 0,
+      "permalink": "/r/artificial/comments/1p096c1/ai_firms_must_be_clear_on_risks_or_repeat/nphv85c/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T02:01:30.769720",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/artificial/comments/1p096c1/ai_firms_must_be_clear_on_risks_or_repeat/",
+    "total_comments": 7,
+    "top_level_comments": 6,
+    "api_requests": 1,
+    "expected_comments": 7,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 6,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_145319.json",
+      "scrape_002_20251118_150343.json",
+      "scrape_003_20251118_150532.json",
+      "scrape_004_20251118_223220.json",
+      "scrape_005_20251119_002620.json",
+      "scrape_006_20251119_020130.json"
+    ]
+  }
+}

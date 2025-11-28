@@ -1,0 +1,44 @@
+{
+  "post": {
+    "id": "1p0dxhe",
+    "title": "The cloudflare outage and the importance of 'being human' and saving prompts",
+    "author": "Public-Price-7815",
+    "score_history": [
+      [
+        1,
+        "2025-11-18T14:22:06.978830"
+      ],
+      [
+        1,
+        "2025-11-18T14:32:07.073350"
+      ],
+      [
+        1,
+        "2025-11-18T14:42:45.682122"
+      ]
+    ],
+    "created_utc": 1763477498.0,
+    "num_comments": 1,
+    "subreddit": "PromptEngineering",
+    "url": "https://www.reddit.com/r/PromptEngineering/comments/1p0dxhe/the_cloudflare_outage_and_the_importance_of_being/",
+    "selftext": "For a long time, we have been asking the question - what makes us human? And answering with - clicking traffic lights and bikes on a grid. Cloudflare owns that spiel, and right now it's tech gatekeeping tech from humans! Silicon is winning over its cousin Carbon, and the irony seems to be lost somewhere!\n\nGot \"cloudflared\" today, mid-prompt. Lost about 20mins of iteration on something that was shaping up quite well. I could continue the work by switching from ChatGPT to Claude as it seems to be working, but my nagging frustration is that I won't be able to chain prompts the same way again from memory, and get the same results. If that doesn't make me human, I don't know what does! \n\nPrompt storage/retrieval has been an issue anyway for a while now, and it's quite annoying that the problem is as yet unsolved. If you have any tools or workarounds for the same in mind, please help me in the comments. One that I just came across is https://promptup.ai/ whose promise looks good, but I guess it will take some time to solve this.\n\nPosting it here for others to check out, and hoping that you guys RSVP with other tools, techniques or strategies for the same.\n",
+    "permalink": "/r/PromptEngineering/comments/1p0dxhe/the_cloudflare_outage_and_the_importance_of_being/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-18T14:42:45.682122",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/PromptEngineering/comments/1p0dxhe/the_cloudflare_outage_and_the_importance_of_being/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 1,
+    "coverage_percent": 0.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_142206.json",
+      "scrape_002_20251118_143206.json",
+      "scrape_003_20251118_144245.json"
+    ]
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "post": {
+    "id": "1p0o4go",
+    "title": "I want to create an AI interveiwer by using all the transcripts that I have",
+    "author": "Critical-Pen-6382",
+    "score_history": [
+      [
+        0,
+        "2025-11-18T13:49:39.797350"
+      ],
+      [
+        0,
+        "2025-11-18T14:00:43.943960"
+      ],
+      [
+        0,
+        "2025-11-18T14:12:07.729942"
+      ],
+      [
+        0,
+        "2025-11-18T21:39:16.114646"
+      ],
+      [
+        0,
+        "2025-11-18T23:22:54.489441"
+      ],
+      [
+        0,
+        "2025-11-19T01:08:22.702438"
+      ]
+    ],
+    "created_utc": 1763500388.0,
+    "num_comments": 1,
+    "subreddit": "AI_Agents",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1p0o4go/i_want_to_create_an_ai_interveiwer_by_using_all/",
+    "selftext": "I have. An interveiw in a bschool in the coming months luckily I have 400-500 interveiw transcripts of various students with diverse profiles being interveiwed by professors of differenr b schools .Can anyone tell me how to use it to teach an AI of the different way an interview goes .So thar I could me it interveiw me ",
+    "permalink": "/r/AI_Agents/comments/1p0o4go/i_want_to_create_an_ai_interveiwer_by_using_all/"
+  },
+  "comments": [
+    {
+      "id": "npk6wvu",
+      "parent_id": "t3_1p0o4go",
+      "author": "AutoModerator",
+      "text_history": [
+        [
+          "Thank you for your submission, for any questions regarding AI, please check out our wiki at https://www.reddit.com/r/ai_agents/wiki (this is currently in test and we are actively adding to the wiki)\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/AI_Agents) if you have any questions or concerns.*",
+          "2025-11-18T13:49:39.797350"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T13:49:39.797350"
+        ],
+        [
+          1,
+          "2025-11-18T14:00:43.943960"
+        ],
+        [
+          1,
+          "2025-11-18T14:12:07.729942"
+        ],
+        [
+          1,
+          "2025-11-18T21:39:16.114646"
+        ],
+        [
+          1,
+          "2025-11-18T23:22:54.489441"
+        ],
+        [
+          1,
+          "2025-11-19T01:08:22.702438"
+        ]
+      ],
+      "created_utc": 1763500389.0,
+      "depth": 0,
+      "permalink": "/r/AI_Agents/comments/1p0o4go/i_want_to_create_an_ai_interveiwer_by_using_all/npk6wvu/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T01:08:22.702438",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/AI_Agents/comments/1p0o4go/i_want_to_create_an_ai_interveiwer_by_using_all/",
+    "total_comments": 1,
+    "top_level_comments": 1,
+    "api_requests": 1,
+    "expected_comments": 1,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 6,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_134939.json",
+      "scrape_002_20251118_140043.json",
+      "scrape_003_20251118_141207.json",
+      "scrape_004_20251118_213915.json",
+      "scrape_005_20251118_232254.json",
+      "scrape_006_20251119_010822.json"
+    ]
+  }
+}

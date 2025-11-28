@@ -1,0 +1,44 @@
+{
+  "post": {
+    "id": "1h53hg7",
+    "title": "World Labs just released an AI system to generate 3D worlds from a single image",
+    "author": "kavehkamali",
+    "score_history": [
+      [
+        1,
+        "2025-11-18T14:23:42.420288"
+      ],
+      [
+        1,
+        "2025-11-18T14:33:19.506361"
+      ],
+      [
+        1,
+        "2025-11-18T14:43:35.535616"
+      ]
+    ],
+    "created_utc": 1733167947.0,
+    "num_comments": 0,
+    "subreddit": "ainews",
+    "url": "https://x.com/AlphaSigma2024/status/1863653822695969097",
+    "selftext": "",
+    "permalink": "/r/ainews/comments/1h53hg7/world_labs_just_released_an_ai_system_to_generate/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-18T14:43:35.535616",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/ainews/comments/1h53hg7/world_labs_just_released_an_ai_system_to_generate/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_142342.json",
+      "scrape_002_20251118_143319.json",
+      "scrape_003_20251118_144335.json"
+    ]
+  }
+}

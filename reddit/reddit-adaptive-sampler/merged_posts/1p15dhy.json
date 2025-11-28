@@ -1,0 +1,115 @@
+{
+  "post": {
+    "id": "1p15dhy",
+    "title": "Training artificial intelligence with PDF",
+    "author": "International_Cap365",
+    "score_history": [
+      [
+        1,
+        "2025-11-19T03:50:47.993068"
+      ],
+      [
+        1,
+        "2025-11-19T03:59:40.869377"
+      ],
+      [
+        1,
+        "2025-11-19T04:01:45.838949"
+      ]
+    ],
+    "created_utc": 1763552291.0,
+    "num_comments": 2,
+    "subreddit": "ChatGPTPro",
+    "url": "https://www.reddit.com/r/ChatGPTPro/comments/1p15dhy/training_artificial_intelligence_with_pdf/",
+    "selftext": "I have 18 text-based, information-rich PDF files totaling approximately 3,000 pages. How can I train an AI tool using these files? Or, if I purchase a Pro/Plus subscription on platforms like ChatGPT, Gemini, or Grok, would this process become easier? Because the free versions start giving errors after a certain point. What is the most reasonable method for this?",
+    "permalink": "/r/ChatGPTPro/comments/1p15dhy/training_artificial_intelligence_with_pdf/"
+  },
+  "comments": [
+    {
+      "id": "npnjc7m",
+      "parent_id": "t3_1p15dhy",
+      "author": "qualityvote2",
+      "text_history": [
+        [
+          "Hello u/International_Cap365 👋 Welcome to r/ChatGPTPro!  \nThis is a community for advanced ChatGPT, AI tools, and prompt engineering discussions.  \nOther members will now vote on whether your post fits our community guidelines.\n\n\n---\n\nFor other users, does this post fit the subreddit?\n\nIf so, **upvote this comment!**\n\nOtherwise, **downvote this comment!**\n\nAnd if it does break the rules, **downvote this comment and report this post!**",
+          "2025-11-19T03:50:47.993068"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T03:50:47.993068"
+        ],
+        [
+          1,
+          "2025-11-19T03:59:40.869377"
+        ],
+        [
+          1,
+          "2025-11-19T04:01:45.838949"
+        ]
+      ],
+      "created_utc": 1763552292.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTPro/comments/1p15dhy/training_artificial_intelligence_with_pdf/npnjc7m/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npnjszi",
+      "parent_id": "t3_1p15dhy",
+      "author": "Tall-Region8329",
+      "text_history": [
+        [
+          "3,000 pages don’t fit in free AI. chunk, embed in a vector DB, and use retrieval, or your model will keep puking errors.",
+          "2025-11-19T03:50:47.993068"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T03:50:47.993068"
+        ],
+        [
+          1,
+          "2025-11-19T03:59:40.869377"
+        ],
+        [
+          1,
+          "2025-11-19T04:01:45.838949"
+        ]
+      ],
+      "created_utc": 1763552528.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTPro/comments/1p15dhy/training_artificial_intelligence_with_pdf/npnjszi/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T04:01:45.838949",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/ChatGPTPro/comments/1p15dhy/training_artificial_intelligence_with_pdf/",
+    "total_comments": 2,
+    "top_level_comments": 2,
+    "api_requests": 1,
+    "expected_comments": 2,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_035047.json",
+      "scrape_002_20251119_035940.json",
+      "scrape_003_20251119_040145.json"
+    ]
+  }
+}

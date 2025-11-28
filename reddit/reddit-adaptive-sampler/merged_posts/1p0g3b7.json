@@ -1,0 +1,107 @@
+{
+  "post": {
+    "id": "1p0g3b7",
+    "title": "Anyone WANTS to Live Coding &amp; Learn Together? (beginners friendly)",
+    "author": "CaptainGK_",
+    "score_history": [
+      [
+        1,
+        "2025-11-18T13:48:58.441426"
+      ],
+      [
+        1,
+        "2025-11-18T14:00:13.981601"
+      ],
+      [
+        1,
+        "2025-11-18T14:11:21.611589"
+      ],
+      [
+        1,
+        "2025-11-18T21:49:47.516877"
+      ],
+      [
+        1,
+        "2025-11-18T23:34:35.346967"
+      ],
+      [
+        1,
+        "2025-11-19T01:29:01.956199"
+      ]
+    ],
+    "created_utc": 1763482468.0,
+    "num_comments": 1,
+    "subreddit": "MLQuestions",
+    "url": "https://www.reddit.com/r/MLQuestions/comments/1p0g3b7/anyone_wants_to_live_coding_learn_together/",
+    "selftext": "Hey...\n\nWith all the AI SLOOP in here lately, I figured it would be nice to do something real and actually helpful and ffs humaaane.\n\nHow about we all hop on a Google Meet, cameras on, and learn while building things together?\n\nHere is what I have in mind for the gathering:\n\nGoogle Meet call (cams and mics open)\n\n* Everyone can ask questions about building AI\n* tech, selling, project delivery, anything that comes up\n\nBeginner friendly, completely FREE, zero signups.\n\n\\&gt;&gt;&gt; WANT TO JOIN?\n\n\\- Drop a comment saying interested and I will reach out.\n\nWe are gathering right now so we can choose the best time and day for the session.\n\nMuch love &lt;3\n\nTalk soon...\n\nGG",
+    "permalink": "/r/MLQuestions/comments/1p0g3b7/anyone_wants_to_live_coding_learn_together/"
+  },
+  "comments": [
+    {
+      "id": "npj2tji",
+      "parent_id": "t3_1p0g3b7",
+      "author": "guest_1870",
+      "text_history": [
+        [
+          "hi",
+          "2025-11-18T13:48:58.441426"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T13:48:58.441426"
+        ],
+        [
+          1,
+          "2025-11-18T14:00:13.981601"
+        ],
+        [
+          1,
+          "2025-11-18T14:11:21.611589"
+        ],
+        [
+          1,
+          "2025-11-18T21:49:47.516877"
+        ],
+        [
+          1,
+          "2025-11-18T23:34:35.346967"
+        ],
+        [
+          1,
+          "2025-11-19T01:29:01.956199"
+        ]
+      ],
+      "created_utc": 1763488525.0,
+      "depth": 0,
+      "permalink": "/r/MLQuestions/comments/1p0g3b7/anyone_wants_to_live_coding_learn_together/npj2tji/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T01:29:01.956199",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/MLQuestions/comments/1p0g3b7/anyone_wants_to_live_coding_learn_together/",
+    "total_comments": 1,
+    "top_level_comments": 1,
+    "api_requests": 1,
+    "expected_comments": 1,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 6,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_134858.json",
+      "scrape_002_20251118_140013.json",
+      "scrape_003_20251118_141121.json",
+      "scrape_004_20251118_214947.json",
+      "scrape_005_20251118_233435.json",
+      "scrape_006_20251119_012901.json"
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "post": {
+    "id": "1p07qqu",
+    "title": "The Reasoning Agent: A Different Architecture for AI Systems (Part 1)",
+    "author": "nicoloboschi",
+    "score_history": [
+      [
+        5,
+        "2025-11-18T14:22:11.055760"
+      ],
+      [
+        4,
+        "2025-11-18T14:32:05.717214"
+      ],
+      [
+        6,
+        "2025-11-18T14:42:14.403862"
+      ],
+      [
+        5,
+        "2025-11-18T22:10:31.575279"
+      ]
+    ],
+    "created_utc": 1763458869.0,
+    "num_comments": 0,
+    "subreddit": "LangChain",
+    "url": "/r/Rag/comments/1p07oc0/the_reasoning_agent_a_different_architecture_for/",
+    "selftext": "",
+    "permalink": "/r/LangChain/comments/1p07qqu/the_reasoning_agent_a_different_architecture_for/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-18T22:10:31.575279",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/LangChain/comments/1p07qqu/the_reasoning_agent_a_different_architecture_for/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 4,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_142210.json",
+      "scrape_002_20251118_143205.json",
+      "scrape_003_20251118_144214.json",
+      "scrape_004_20251118_221031.json"
+    ]
+  }
+}

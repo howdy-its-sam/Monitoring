@@ -1,0 +1,49 @@
+{
+  "post": {
+    "id": "1odbccs",
+    "title": "Web Scrapping",
+    "author": "rahulmirji",
+    "score_history": [
+      [
+        1,
+        "2025-11-18T15:15:03.557656"
+      ],
+      [
+        1,
+        "2025-11-18T15:18:39.922939"
+      ],
+      [
+        1,
+        "2025-11-18T23:03:42.863493"
+      ],
+      [
+        1,
+        "2025-11-19T00:47:52.510231"
+      ]
+    ],
+    "created_utc": 1761146744.0,
+    "num_comments": 0,
+    "subreddit": "AI_developers",
+    "url": "https://www.reddit.com/r/AI_developers/comments/1odbccs/web_scrapping/",
+    "selftext": "I'm unable differentiate between a static market place (getty images, shutter stock and etc) and AI Image Generation platform(mid journey, imagine.art and etc) Can Any body help here? I want to scap images from these two platforms.",
+    "permalink": "/r/AI_developers/comments/1odbccs/web_scrapping/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T00:47:52.510231",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/AI_developers/comments/1odbccs/web_scrapping/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 4,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_151503.json",
+      "scrape_002_20251118_151839.json",
+      "scrape_003_20251118_230342.json",
+      "scrape_004_20251119_004752.json"
+    ]
+  }
+}

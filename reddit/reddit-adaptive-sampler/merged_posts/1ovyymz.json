@@ -1,0 +1,44 @@
+{
+  "post": {
+    "id": "1ovyymz",
+    "title": "How I Finally Started Growing My Facebook Page After Months of Trying (What Actually Worked)",
+    "author": "amy_7894",
+    "score_history": [
+      [
+        12,
+        "2025-11-18T15:07:41.369232"
+      ],
+      [
+        13,
+        "2025-11-18T15:14:30.754076"
+      ],
+      [
+        11,
+        "2025-11-18T15:16:37.887028"
+      ]
+    ],
+    "created_utc": 1763034371.0,
+    "num_comments": 1,
+    "subreddit": "ContentMarketing",
+    "url": "https://www.reddit.com/r/ContentMarketing/comments/1ovyymz/how_i_finally_started_growing_my_facebook_page/",
+    "selftext": "I have been running a few Facebook pages for my small business, and honestly, for the longest time, nothing seemed to work.  \n  \nI was posting regularly, joining groups, testing different post times, even boosting a few posts, but the growth was slow and inconsistent.\n\n**I was juggling so many tools:**\n\n* Canva for designs\n* Notion for planning captions\n* Meta Business Suite for scheduling\n* Metricool for analytics\n* and sometimes Indzu Social when I wanted everything in one dashboard\n\nIt worked, but it was chaos. I’d spend hours switching tabs, checking insights, and trying to keep track of what I’d already posted.\n\nA few months ago, I simplified everything. I started batching my content, scheduling posts weekly instead of daily, and focusing on engagement over reach.  \n  \nOnce things got organised, growth finally started from a few likes here and there to consistent comments and shares.\n\n**What helped most:**\n\n* Planning a week’s content visually (seeing how the feed would look).\n* Checking analytics to see when followers were most active.\n* Keeping all my captions and post ideas in one place.\n\nNo overnight success, just better organization and less burnout. Now I spend more time creating, not managing.\n\nWhat tools or systems are you using to stay consistent with Facebook or Instagram content?\n\n",
+    "permalink": "/r/ContentMarketing/comments/1ovyymz/how_i_finally_started_growing_my_facebook_page/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-18T15:16:37.887028",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/ContentMarketing/comments/1ovyymz/how_i_finally_started_growing_my_facebook_page/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 1,
+    "coverage_percent": 0.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_150741.json",
+      "scrape_002_20251118_151430.json",
+      "scrape_003_20251118_151637.json"
+    ]
+  }
+}

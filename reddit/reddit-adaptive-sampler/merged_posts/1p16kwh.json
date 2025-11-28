@@ -1,0 +1,129 @@
+{
+  "post": {
+    "id": "1p16kwh",
+    "title": "Improving RAG -  what actually matters?",
+    "author": "Dapper-Turn-3021",
+    "score_history": [
+      [
+        1,
+        "2025-11-19T04:39:44.673350"
+      ],
+      [
+        1,
+        "2025-11-19T04:39:44.914379"
+      ],
+      [
+        1,
+        "2025-11-19T04:39:45.154864"
+      ],
+      [
+        1,
+        "2025-11-19T04:39:45.366574"
+      ],
+      [
+        1,
+        "2025-11-19T04:39:45.592643"
+      ],
+      [
+        1,
+        "2025-11-19T04:39:45.804003"
+      ],
+      [
+        1,
+        "2025-11-19T04:39:46.062605"
+      ],
+      [
+        1,
+        "2025-11-19T04:39:46.284170"
+      ],
+      [
+        1,
+        "2025-11-19T04:39:46.522644"
+      ],
+      [
+        1,
+        "2025-11-19T04:39:46.727712"
+      ],
+      [
+        1,
+        "2025-11-19T04:39:46.970217"
+      ],
+      [
+        1,
+        "2025-11-19T04:39:47.187607"
+      ],
+      [
+        1,
+        "2025-11-19T04:39:47.409481"
+      ],
+      [
+        1,
+        "2025-11-19T04:39:47.623198"
+      ],
+      [
+        1,
+        "2025-11-19T04:39:47.868980"
+      ],
+      [
+        1,
+        "2025-11-19T04:39:48.122424"
+      ],
+      [
+        1,
+        "2025-11-19T04:39:48.365457"
+      ],
+      [
+        1,
+        "2025-11-19T04:39:48.564558"
+      ],
+      [
+        1,
+        "2025-11-19T04:39:48.787305"
+      ],
+      [
+        1,
+        "2025-11-19T04:39:49.002945"
+      ]
+    ],
+    "created_utc": 1763555875.0,
+    "num_comments": 0,
+    "subreddit": "Rag",
+    "url": "https://www.reddit.com/r/Rag/comments/1p16kwh/improving_rag_what_actually_matters/",
+    "selftext": "Spent today tweaking a RAG setup for a support chatbot and ran into a few interesting things that might help someone else (or maybe you all can tell me better ways to do this).\n\n\nChunk size mattered way more than I expected.\n\nSmaller, clean chunks gave way better retrieval than the big “semantic” ones I thought were smart.\n\n\nRanking logic made a huge difference.\n\nPure similarity wasn’t enough.\nAdding some basic boosts like FAQ priority + metadata scoring suddenly made results more stable. Using the whole conversation (or a summary) for retrieval worked way better than just looking at the last message.\nHelps pull context that actually matches the intent.\n\n\nBasic guardrails in the prompt helped a ton.\n\nStuff like “If you don’t see the answer in the context, ask a question instead of guessing.”\n\n\nOld documents kept showing up, so adding a small recency weight actually fixed that problem.\n\n\nAfter all this, the LLM outputs got way more consistent without touching the model at all.",
+    "permalink": "/r/Rag/comments/1p16kwh/improving_rag_what_actually_matters/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T04:39:49.002945",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/Rag/comments/1p16kwh/improving_rag_what_actually_matters/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 20,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_043944.json",
+      "scrape_002_20251119_043944.json",
+      "scrape_003_20251119_043944.json",
+      "scrape_004_20251119_043945.json",
+      "scrape_005_20251119_043945.json",
+      "scrape_006_20251119_043945.json",
+      "scrape_007_20251119_043945.json",
+      "scrape_008_20251119_043946.json",
+      "scrape_009_20251119_043946.json",
+      "scrape_010_20251119_043946.json",
+      "scrape_011_20251119_043946.json",
+      "scrape_012_20251119_043946.json",
+      "scrape_013_20251119_043947.json",
+      "scrape_014_20251119_043947.json",
+      "scrape_015_20251119_043947.json",
+      "scrape_016_20251119_043947.json",
+      "scrape_017_20251119_043948.json",
+      "scrape_018_20251119_043948.json",
+      "scrape_019_20251119_043948.json",
+      "scrape_020_20251119_043948.json"
+    ]
+  }
+}

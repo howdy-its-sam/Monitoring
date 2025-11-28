@@ -1,0 +1,54 @@
+{
+  "post": {
+    "id": "1opgfgt",
+    "title": "$5k weekend from a 60-person audience",
+    "author": "Honeysyedseo",
+    "score_history": [
+      [
+        1,
+        "2025-11-18T13:49:40.573832"
+      ],
+      [
+        1,
+        "2025-11-18T14:00:53.281996"
+      ],
+      [
+        1,
+        "2025-11-18T14:12:18.653211"
+      ],
+      [
+        1,
+        "2025-11-18T21:59:57.010119"
+      ],
+      [
+        1,
+        "2025-11-19T07:22:38.813173"
+      ]
+    ],
+    "created_utc": 1762379466.0,
+    "num_comments": 0,
+    "subreddit": "ContentMarketing",
+    "url": "/r/SkoolStories/comments/1opge9y/5k_weekend_from_a_60member_skool_community/",
+    "selftext": "",
+    "permalink": "/r/ContentMarketing/comments/1opgfgt/5k_weekend_from_a_60person_audience/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T07:22:38.813173",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/ContentMarketing/comments/1opgfgt/5k_weekend_from_a_60person_audience/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 5,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_134940.json",
+      "scrape_002_20251118_140053.json",
+      "scrape_003_20251118_141218.json",
+      "scrape_004_20251118_215956.json",
+      "scrape_005_20251119_072238.json"
+    ]
+  }
+}

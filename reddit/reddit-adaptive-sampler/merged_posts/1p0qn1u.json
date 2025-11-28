@@ -1,0 +1,116 @@
+{
+  "post": {
+    "id": "1p0qn1u",
+    "title": "Microsoft Purview DLP for emails",
+    "author": "Opposite-Climate-783",
+    "score_history": [
+      [
+        1,
+        "2025-11-19T02:55:38.747117"
+      ],
+      [
+        1,
+        "2025-11-19T03:03:41.192207"
+      ],
+      [
+        1,
+        "2025-11-19T03:08:47.762280"
+      ]
+    ],
+    "created_utc": 1763506240.0,
+    "num_comments": 2,
+    "subreddit": "cybersecurity",
+    "url": "https://www.reddit.com/r/cybersecurity/comments/1p0qn1u/microsoft_purview_dlp_for_emails/",
+    "selftext": "Hi all! We implemented a Microsoft purview DLP policy to alert when certain SITs are included in emails sent externally. The problem is that it alerts on email threads. So if someone receives an inbound email containing SIT and replies that email, it flags it. Is there anyway around this?",
+    "permalink": "/r/cybersecurity/comments/1p0qn1u/microsoft_purview_dlp_for_emails/"
+  },
+  "comments": [
+    {
+      "id": "nplngsn",
+      "parent_id": "t3_1p0qn1u",
+      "author": "spoils__princess",
+      "text_history": [
+        [
+          "No, because the SIT is still present in the email.",
+          "2025-11-19T02:55:38.747117"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:55:38.747117"
+        ],
+        [
+          1,
+          "2025-11-19T03:03:41.192207"
+        ],
+        [
+          1,
+          "2025-11-19T03:08:47.762280"
+        ]
+      ],
+      "created_utc": 1763518177.0,
+      "depth": 0,
+      "permalink": "/r/cybersecurity/comments/1p0qn1u/microsoft_purview_dlp_for_emails/nplngsn/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npluiy1",
+          "parent_id": "t1_nplngsn",
+          "author": "Opposite-Climate-783",
+          "text_history": [
+            [
+              "Yeah. I can't think of a way around it.",
+              "2025-11-19T02:55:38.747117"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-19T02:55:38.747117"
+            ],
+            [
+              1,
+              "2025-11-19T03:03:41.192207"
+            ],
+            [
+              1,
+              "2025-11-19T03:08:47.762280"
+            ]
+          ],
+          "created_utc": 1763520710.0,
+          "depth": 1,
+          "permalink": "/r/cybersecurity/comments/1p0qn1u/microsoft_purview_dlp_for_emails/npluiy1/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:08:47.762280",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/cybersecurity/comments/1p0qn1u/microsoft_purview_dlp_for_emails/",
+    "total_comments": 2,
+    "top_level_comments": 1,
+    "api_requests": 1,
+    "expected_comments": 2,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_025538.json",
+      "scrape_002_20251119_030340.json",
+      "scrape_003_20251119_030847.json"
+    ]
+  }
+}

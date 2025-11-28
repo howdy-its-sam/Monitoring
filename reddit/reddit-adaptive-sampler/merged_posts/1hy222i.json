@@ -1,0 +1,44 @@
+{
+  "post": {
+    "id": "1hy222i",
+    "title": "41% of Companies Plan AI-Driven Layoffs by 2030",
+    "author": "No-Debt-6397",
+    "score_history": [
+      [
+        1,
+        "2025-11-18T14:21:53.688947"
+      ],
+      [
+        1,
+        "2025-11-18T14:32:03.281355"
+      ],
+      [
+        1,
+        "2025-11-18T14:41:20.131624"
+      ]
+    ],
+    "created_utc": 1736507213.0,
+    "num_comments": 0,
+    "subreddit": "ainews",
+    "url": "https://www.themilitaryreporter.net/2025/01/41-of-companies-plan-ai-driven-layoffs.html",
+    "selftext": "",
+    "permalink": "/r/ainews/comments/1hy222i/41_of_companies_plan_aidriven_layoffs_by_2030/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-18T14:41:20.131624",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/ainews/comments/1hy222i/41_of_companies_plan_aidriven_layoffs_by_2030/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_142153.json",
+      "scrape_002_20251118_143203.json",
+      "scrape_003_20251118_144119.json"
+    ]
+  }
+}

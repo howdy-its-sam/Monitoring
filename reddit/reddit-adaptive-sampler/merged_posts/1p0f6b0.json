@@ -1,0 +1,188 @@
+{
+  "post": {
+    "id": "1p0f6b0",
+    "title": "How do you track down every service when implementing DMARC?",
+    "author": "Usual_Highway_6154",
+    "score_history": [
+      [
+        1,
+        "2025-11-19T03:19:48.994784"
+      ],
+      [
+        1,
+        "2025-11-19T03:25:40.386004"
+      ],
+      [
+        1,
+        "2025-11-19T03:27:15.441786"
+      ]
+    ],
+    "created_utc": 1763480408.0,
+    "num_comments": 4,
+    "subreddit": "cybersecurity",
+    "url": "https://www.reddit.com/r/cybersecurity/comments/1p0f6b0/how_do_you_track_down_every_service_when/",
+    "selftext": "\nI have been working with different clients recently and I am coming across the same issue hidden services that NO ONE knows about from the clients end until they stop sending. \n\nSometimes it’s an ancient on-premise server, a webform sometimes services they didn’t even known they are paying for! \n\nI would love to know what everyone else here is doing when implementing DMARC. Are you relying only on DMARC report or are you using other techniques before enforcing DMARC. \n",
+    "permalink": "/r/cybersecurity/comments/1p0f6b0/how_do_you_track_down_every_service_when/"
+  },
+  "comments": [
+    {
+      "id": "npissee",
+      "parent_id": "t3_1p0f6b0",
+      "author": "Twist_of_luck",
+      "text_history": [
+        [
+          "So, generally, you can't protect what you can't see - as with all security services, the owner needs to approach us to secure his services (since that's in owner's interest). \n\nFrom the business process standpoint, your problem is solved through setting up accountability for the security division to protect only the assets they were told about and/or assist business with asset discovery within pre-negotiated scopes. We can never be sure that we've found everything, after all.\n\nFrom purely technical standpoint, though?\nI would add up all known email servers to the record, set up the policy to none for a couple of weeks and then monitored rua/ruf to catch up \"false positives\" - genuine emails within the org that we were not informed about.",
+          "2025-11-19T03:19:48.994784"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T03:19:48.994784"
+        ],
+        [
+          1,
+          "2025-11-19T03:25:40.386004"
+        ],
+        [
+          1,
+          "2025-11-19T03:27:15.441786"
+        ]
+      ],
+      "created_utc": 1763485575.0,
+      "depth": 0,
+      "permalink": "/r/cybersecurity/comments/1p0f6b0/how_do_you_track_down_every_service_when/npissee/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npjbv63",
+          "parent_id": "t1_npissee",
+          "author": "Usual_Highway_6154",
+          "text_history": [
+            [
+              "What you said about visibility I completely agree most businesses I work with don’t have a complete picture either so the wait and discover phase with RUA reports ends up doing most of the discovery for us.",
+              "2025-11-19T03:19:48.994784"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-19T03:19:48.994784"
+            ],
+            [
+              1,
+              "2025-11-19T03:25:40.386004"
+            ],
+            [
+              1,
+              "2025-11-19T03:27:15.441786"
+            ]
+          ],
+          "created_utc": 1763491121.0,
+          "depth": 1,
+          "permalink": "/r/cybersecurity/comments/1p0f6b0/how_do_you_track_down_every_service_when/npjbv63/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npjfmvc",
+              "parent_id": "t1_npjbv63",
+              "author": "Twist_of_luck",
+              "text_history": [
+                [
+                  "And then you find out that the business owns several more domains it forgot to tell you about, lol.",
+                  "2025-11-19T03:19:48.994784"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-19T03:19:48.994784"
+                ],
+                [
+                  1,
+                  "2025-11-19T03:25:40.386004"
+                ],
+                [
+                  1,
+                  "2025-11-19T03:27:15.441786"
+                ]
+              ],
+              "created_utc": 1763492203.0,
+              "depth": 2,
+              "permalink": "/r/cybersecurity/comments/1p0f6b0/how_do_you_track_down_every_service_when/npjfmvc/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": [
+                {
+                  "id": "npjgely",
+                  "parent_id": "t1_npjfmvc",
+                  "author": "Usual_Highway_6154",
+                  "text_history": [
+                    [
+                      "Lol and they’re never the parked domains either 😂",
+                      "2025-11-19T03:19:48.994784"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      1,
+                      "2025-11-19T03:19:48.994784"
+                    ],
+                    [
+                      1,
+                      "2025-11-19T03:25:40.386004"
+                    ],
+                    [
+                      1,
+                      "2025-11-19T03:27:15.441786"
+                    ]
+                  ],
+                  "created_utc": 1763492428.0,
+                  "depth": 3,
+                  "permalink": "/r/cybersecurity/comments/1p0f6b0/how_do_you_track_down_every_service_when/npjgely/",
+                  "is_submitter": true,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:27:15.441786",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/cybersecurity/comments/1p0f6b0/how_do_you_track_down_every_service_when/",
+    "total_comments": 4,
+    "top_level_comments": 1,
+    "api_requests": 1,
+    "expected_comments": 4,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_031948.json",
+      "scrape_002_20251119_032540.json",
+      "scrape_003_20251119_032715.json"
+    ]
+  }
+}

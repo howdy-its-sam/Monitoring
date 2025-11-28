@@ -1,0 +1,107 @@
+{
+  "post": {
+    "id": "wey6ad",
+    "title": "Cardiac Comorbidity Risk Score: Zero‐Burden Machine Learning to Improve Prediction of Postoperative Major Adverse Cardiac Events in Hip and Knee Arthroplasty",
+    "author": "Longjumping_Can_5692",
+    "score_history": [
+      [
+        4,
+        "2025-11-18T15:07:46.079237"
+      ],
+      [
+        5,
+        "2025-11-18T15:14:34.809654"
+      ],
+      [
+        5,
+        "2025-11-18T15:16:19.699022"
+      ],
+      [
+        4,
+        "2025-11-18T23:02:13.342995"
+      ],
+      [
+        5,
+        "2025-11-19T00:36:52.629556"
+      ],
+      [
+        4,
+        "2025-11-19T02:11:55.591385"
+      ]
+    ],
+    "created_utc": 1659505110.0,
+    "num_comments": 2,
+    "subreddit": "HealthAI",
+    "url": "https://www.reddit.com/r/HealthAI/comments/wey6ad/cardiac_comorbidity_risk_score_zeroburden_machine/",
+    "selftext": "The authors analyze patient data already in file, with no new laboratory or blood tests, to assess the risk of a major cardiac event after an elective hip/knee replacement surgery. Beats existing state of teh art risk measures. Open source article at the Journal of the American Heart Association. \n\n[https://www.ahajournals.org/cms/asset/86a4a39b-f5ee-4cb5-9b90-6d3d5a3435be/jah37630-fig-0001.png](https://www.ahajournals.org/cms/asset/86a4a39b-f5ee-4cb5-9b90-6d3d5a3435be/jah37630-fig-0001.png)\n\n[https://www.ahajournals.org/doi/full/10.1161/JAHA.121.023745](https://www.ahajournals.org/doi/full/10.1161/JAHA.121.023745)",
+    "permalink": "/r/HealthAI/comments/wey6ad/cardiac_comorbidity_risk_score_zeroburden_machine/"
+  },
+  "comments": [
+    {
+      "id": "no9n5bz",
+      "parent_id": "t3_wey6ad",
+      "author": "IduScore",
+      "text_history": [
+        [
+          "THe paper is from 2022, correct?",
+          "2025-11-18T15:07:46.079237"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T15:07:46.079237"
+        ],
+        [
+          1,
+          "2025-11-18T15:14:34.809654"
+        ],
+        [
+          1,
+          "2025-11-18T15:16:19.699022"
+        ],
+        [
+          1,
+          "2025-11-18T23:02:13.342995"
+        ],
+        [
+          1,
+          "2025-11-19T00:36:52.629556"
+        ],
+        [
+          1,
+          "2025-11-19T02:11:55.591385"
+        ]
+      ],
+      "created_utc": 1762862186.0,
+      "depth": 0,
+      "permalink": "/r/HealthAI/comments/wey6ad/cardiac_comorbidity_risk_score_zeroburden_machine/no9n5bz/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T02:11:55.591385",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/HealthAI/comments/wey6ad/cardiac_comorbidity_risk_score_zeroburden_machine/",
+    "total_comments": 1,
+    "top_level_comments": 1,
+    "api_requests": 1,
+    "expected_comments": 2,
+    "coverage_percent": 50.0,
+    "merged_snapshot_count": 6,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_150745.json",
+      "scrape_002_20251118_151434.json",
+      "scrape_003_20251118_151619.json",
+      "scrape_004_20251118_230213.json",
+      "scrape_005_20251119_003652.json",
+      "scrape_006_20251119_021155.json"
+    ]
+  }
+}

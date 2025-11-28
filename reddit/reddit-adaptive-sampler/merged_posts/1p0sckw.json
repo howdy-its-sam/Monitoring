@@ -1,0 +1,44 @@
+{
+  "post": {
+    "id": "1p0sckw",
+    "title": "Stop guessing RAG chunk sizes",
+    "author": "InstanceSignal5153",
+    "score_history": [
+      [
+        2,
+        "2025-11-19T02:58:02.349339"
+      ],
+      [
+        2,
+        "2025-11-19T03:06:41.605456"
+      ],
+      [
+        2,
+        "2025-11-19T03:16:14.109193"
+      ]
+    ],
+    "created_utc": 1763510523.0,
+    "num_comments": 0,
+    "subreddit": "machinelearningnews",
+    "url": "/r/learnmachinelearning/comments/1p0s3cd/stop_guessing_rag_chunk_sizes/",
+    "selftext": "",
+    "permalink": "/r/machinelearningnews/comments/1p0sckw/stop_guessing_rag_chunk_sizes/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:16:14.109193",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/machinelearningnews/comments/1p0sckw/stop_guessing_rag_chunk_sizes/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_025802.json",
+      "scrape_002_20251119_030641.json",
+      "scrape_003_20251119_031613.json"
+    ]
+  }
+}

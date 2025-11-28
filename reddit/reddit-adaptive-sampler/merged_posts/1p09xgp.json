@@ -1,0 +1,167 @@
+{
+  "post": {
+    "id": "1p09xgp",
+    "title": "I Leaked User Tokens Into an LLM Context… Here’s How to Make Sure You Don’t",
+    "author": "Huge_Tea3259",
+    "score_history": [
+      [
+        2,
+        "2025-11-18T12:51:34.249431"
+      ],
+      [
+        2,
+        "2025-11-18T13:03:57.435893"
+      ],
+      [
+        2,
+        "2025-11-18T13:15:50.380019"
+      ],
+      [
+        2,
+        "2025-11-18T13:46:28.384864"
+      ],
+      [
+        2,
+        "2025-11-18T13:49:37.901179"
+      ],
+      [
+        2,
+        "2025-11-18T13:59:26.148215"
+      ],
+      [
+        2,
+        "2025-11-18T14:10:43.756380"
+      ]
+    ],
+    "created_utc": 1763466758.0,
+    "num_comments": 2,
+    "subreddit": "AI_Agents",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1p09xgp/i_leaked_user_tokens_into_an_llm_context_heres/",
+    "selftext": "I learned the hard way that it only takes one slip for user tokens to end up where they shouldn’t—inside your LLM’s context.\n\nIf you’re integrating tools with LangGraph and LLMs, you really need to lock down your approach to authorization. This guide breaks it down with real-world steps:\n\n* Keep all auth logic inside your tool wrappers (never in prompts or agent code).\n* Use role-based decorators to strictly check permissions on every call.\n* Store tokens securely—tools fetch what they need only when required.\n* Pass opaque user or session IDs, never raw tokens, through your pipeline.\n* Audit, monitor, and actually test your controls with both expected and ‘malicious’ flows.\n\nThe article shares actual Python code and tackles mistakes you don’t want to make—like prompt injection or token leaks—before they happen to you.\n\nIf you’re working with LLM agents (or plan to), check out the full walkthrough in the comments section before deploying anything production-facing.\n\nGive it a read and rethink how you secure your agent’s tool access.",
+    "permalink": "/r/AI_Agents/comments/1p09xgp/i_leaked_user_tokens_into_an_llm_context_heres/"
+  },
+  "comments": [
+    {
+      "id": "nph7on2",
+      "parent_id": "t3_1p09xgp",
+      "author": "Huge_Tea3259",
+      "text_history": [
+        [
+          "Link to the blog: [https://www.langoedge.com/blogs/how-to-implement-secure-llm-tool-calling-with-langgraph-rbac-tokens-and-best-practices](https://www.langoedge.com/blogs/how-to-implement-secure-llm-tool-calling-with-langgraph-rbac-tokens-and-best-practices)",
+          "2025-11-18T12:51:34.249431"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-18T12:51:34.249431"
+        ],
+        [
+          2,
+          "2025-11-18T13:03:57.435893"
+        ],
+        [
+          2,
+          "2025-11-18T13:15:50.380019"
+        ],
+        [
+          2,
+          "2025-11-18T13:46:28.384864"
+        ],
+        [
+          2,
+          "2025-11-18T13:49:37.901179"
+        ],
+        [
+          2,
+          "2025-11-18T13:59:26.148215"
+        ],
+        [
+          2,
+          "2025-11-18T14:10:43.756380"
+        ]
+      ],
+      "created_utc": 1763466784.0,
+      "depth": 0,
+      "permalink": "/r/AI_Agents/comments/1p09xgp/i_leaked_user_tokens_into_an_llm_context_heres/nph7on2/",
+      "is_submitter": true,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nph7mor",
+      "parent_id": "t3_1p09xgp",
+      "author": "AutoModerator",
+      "text_history": [
+        [
+          "Thank you for your submission, for any questions regarding AI, please check out our wiki at https://www.reddit.com/r/ai_agents/wiki (this is currently in test and we are actively adding to the wiki)\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/AI_Agents) if you have any questions or concerns.*",
+          "2025-11-18T12:51:34.249431"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T12:51:34.249431"
+        ],
+        [
+          1,
+          "2025-11-18T13:03:57.435893"
+        ],
+        [
+          1,
+          "2025-11-18T13:15:50.380019"
+        ],
+        [
+          1,
+          "2025-11-18T13:46:28.384864"
+        ],
+        [
+          1,
+          "2025-11-18T13:49:37.901179"
+        ],
+        [
+          1,
+          "2025-11-18T13:59:26.148215"
+        ],
+        [
+          1,
+          "2025-11-18T14:10:43.756380"
+        ]
+      ],
+      "created_utc": 1763466758.0,
+      "depth": 0,
+      "permalink": "/r/AI_Agents/comments/1p09xgp/i_leaked_user_tokens_into_an_llm_context_heres/nph7mor/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-18T14:10:43.756380",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/AI_Agents/comments/1p09xgp/i_leaked_user_tokens_into_an_llm_context_heres/",
+    "total_comments": 2,
+    "top_level_comments": 2,
+    "api_requests": 1,
+    "expected_comments": 2,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 7,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_125134.json",
+      "scrape_002_20251118_130357.json",
+      "scrape_003_20251118_131550.json",
+      "scrape_004_20251118_134628.json",
+      "scrape_005_20251118_134937.json",
+      "scrape_006_20251118_135925.json",
+      "scrape_007_20251118_141043.json"
+    ]
+  }
+}

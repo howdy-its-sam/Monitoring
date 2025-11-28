@@ -1,0 +1,424 @@
+{
+  "post": {
+    "id": "1p0dwat",
+    "title": "Have you seen those leaked prompts on GitHub? They're massive — how do they manage context windows?",
+    "author": "aeum3893",
+    "score_history": [
+      [
+        3,
+        "2025-11-18T12:51:33.288759"
+      ],
+      [
+        4,
+        "2025-11-18T13:03:53.119395"
+      ],
+      [
+        6,
+        "2025-11-18T13:15:44.443083"
+      ],
+      [
+        4,
+        "2025-11-18T13:46:25.309324"
+      ],
+      [
+        5,
+        "2025-11-18T13:49:26.330295"
+      ],
+      [
+        6,
+        "2025-11-18T13:59:18.439399"
+      ],
+      [
+        7,
+        "2025-11-18T14:10:37.985007"
+      ]
+    ],
+    "created_utc": 1763477422.0,
+    "num_comments": 7,
+    "subreddit": "AI_Agents",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1p0dwat/have_you_seen_those_leaked_prompts_on_github/",
+    "selftext": "I’ve been working on a system prompt for an AI customer service chatbot. The problem is: I can’t get it to behave in a reliable way.\n\nSometimes it follows the instructions really well, and other times it completely ignores them (even when the user asks the same things)\n\nI found some GitHub repos with leaked prompts from companies like Vercel, CodeRabbit, Claude, and others. Their system prompts are HUGE.\n\nSo now I’m wondering: how are they fitting all of that into the context window? If I tried to use a prompt that big in my chatbot, the conversation would break after a couple of messages.",
+    "permalink": "/r/AI_Agents/comments/1p0dwat/have_you_seen_those_leaked_prompts_on_github/"
+  },
+  "comments": [
+    {
+      "id": "npiu72i",
+      "parent_id": "t3_1p0dwat",
+      "author": "dxdementia",
+      "text_history": [
+        [
+          "If the ai is unreliable somewhere then code might be better. I tried to use deepseek to classify docs, but it was doing a poor job. I ended up using fuzzy matching instead which worked significantly better.",
+          "2025-11-18T12:51:33.288759"
+        ]
+      ],
+      "score_history": [
+        [
+          3,
+          "2025-11-18T12:51:33.288759"
+        ],
+        [
+          3,
+          "2025-11-18T13:03:53.119395"
+        ],
+        [
+          3,
+          "2025-11-18T13:15:44.443083"
+        ],
+        [
+          3,
+          "2025-11-18T13:46:25.309324"
+        ],
+        [
+          3,
+          "2025-11-18T13:49:26.330295"
+        ],
+        [
+          3,
+          "2025-11-18T13:59:18.439399"
+        ],
+        [
+          3,
+          "2025-11-18T14:10:37.985007"
+        ]
+      ],
+      "created_utc": 1763485990.0,
+      "depth": 0,
+      "permalink": "/r/AI_Agents/comments/1p0dwat/have_you_seen_those_leaked_prompts_on_github/npiu72i/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npk2dc8",
+      "parent_id": "t3_1p0dwat",
+      "author": "doker0",
+      "text_history": [
+        [
+          "I found a repo... please share the link...",
+          "2025-11-18T12:51:33.288759"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T12:51:33.288759"
+        ],
+        [
+          2,
+          "2025-11-18T13:03:53.119395"
+        ],
+        [
+          2,
+          "2025-11-18T13:15:44.443083"
+        ],
+        [
+          2,
+          "2025-11-18T13:46:25.309324"
+        ],
+        [
+          2,
+          "2025-11-18T13:49:26.330295"
+        ],
+        [
+          2,
+          "2025-11-18T13:59:18.439399"
+        ],
+        [
+          2,
+          "2025-11-18T14:10:37.985007"
+        ]
+      ],
+      "created_utc": 1763499045.0,
+      "depth": 0,
+      "permalink": "/r/AI_Agents/comments/1p0dwat/have_you_seen_those_leaked_prompts_on_github/npk2dc8/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npi1fdg",
+      "parent_id": "t3_1p0dwat",
+      "author": "AutoModerator",
+      "text_history": [
+        [
+          "Thank you for your submission, for any questions regarding AI, please check out our wiki at https://www.reddit.com/r/ai_agents/wiki (this is currently in test and we are actively adding to the wiki)\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/AI_Agents) if you have any questions or concerns.*",
+          "2025-11-18T12:51:33.288759"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T12:51:33.288759"
+        ],
+        [
+          1,
+          "2025-11-18T13:03:53.119395"
+        ],
+        [
+          1,
+          "2025-11-18T13:15:44.443083"
+        ],
+        [
+          1,
+          "2025-11-18T13:46:25.309324"
+        ],
+        [
+          1,
+          "2025-11-18T13:49:26.330295"
+        ],
+        [
+          1,
+          "2025-11-18T13:59:18.439399"
+        ],
+        [
+          1,
+          "2025-11-18T14:10:37.985007"
+        ]
+      ],
+      "created_utc": 1763477423.0,
+      "depth": 0,
+      "permalink": "/r/AI_Agents/comments/1p0dwat/have_you_seen_those_leaked_prompts_on_github/npi1fdg/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npjak9w",
+      "parent_id": "t3_1p0dwat",
+      "author": "odnxe",
+      "text_history": [
+        [
+          "You assume agents can be controlled.",
+          "2025-11-18T12:51:33.288759"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T12:51:33.288759"
+        ],
+        [
+          1,
+          "2025-11-18T13:03:53.119395"
+        ],
+        [
+          1,
+          "2025-11-18T13:15:44.443083"
+        ],
+        [
+          1,
+          "2025-11-18T13:46:25.309324"
+        ],
+        [
+          1,
+          "2025-11-18T13:49:26.330295"
+        ],
+        [
+          0,
+          "2025-11-18T13:59:18.439399"
+        ],
+        [
+          0,
+          "2025-11-18T14:10:37.985007"
+        ]
+      ],
+      "created_utc": 1763490748.0,
+      "depth": 0,
+      "permalink": "/r/AI_Agents/comments/1p0dwat/have_you_seen_those_leaked_prompts_on_github/npjak9w/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npjgndo",
+          "parent_id": "t1_npjak9w",
+          "author": "aeum3893",
+          "text_history": [
+            [
+              "Well, somewhat controlled — Would you hire someone that *can't* be controlled?",
+              "2025-11-18T12:51:33.288759"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T12:51:33.288759"
+            ],
+            [
+              1,
+              "2025-11-18T13:03:53.119395"
+            ],
+            [
+              1,
+              "2025-11-18T13:15:44.443083"
+            ],
+            [
+              1,
+              "2025-11-18T13:46:25.309324"
+            ],
+            [
+              1,
+              "2025-11-18T13:49:26.330295"
+            ],
+            [
+              1,
+              "2025-11-18T13:59:18.439399"
+            ],
+            [
+              1,
+              "2025-11-18T14:10:37.985007"
+            ]
+          ],
+          "created_utc": 1763492501.0,
+          "depth": 1,
+          "permalink": "/r/AI_Agents/comments/1p0dwat/have_you_seen_those_leaked_prompts_on_github/npjgndo/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npi1vhm",
+      "parent_id": "t3_1p0dwat",
+      "author": "ai-agents-qa-bot",
+      "text_history": [
+        [
+          "Managing context windows in AI applications, especially with large prompts, can be quite challenging. Here are some strategies that might help:\n\n- **Sliding Window Technique**: This approach retains only the most recent messages, discarding older ones to maintain a fixed context size. It helps keep the context relevant while staying within model limits.\n\n- **Summarization**: Instead of including all past messages, you can summarize previous interactions to capture essential information without exceeding the context window. This can help maintain continuity without overwhelming the model.\n\n- **Tiered Memory**: Prioritize what information to retain based on its importance. For instance, critical user inputs can be stored longer, while less relevant data can be discarded sooner.\n\n- **Dynamic Context Management**: Implementing smart read and write strategies can help. For example, actively managing what data is included in the context based on the current interaction can optimize performance.\n\n- **External Memory Storage**: For applications needing long-term context, consider using external databases or vector stores to persist information across sessions. This allows the model to access relevant data without cluttering the immediate context.\n\nThese strategies can help you design a more effective system prompt for your AI customer service chatbot, ensuring it behaves reliably across interactions. For more insights on managing memory and state in LLM applications, you might find this resource helpful: [Memory and State in LLM Applications](https://tinyurl.com/bdc8h9td).",
+          "2025-11-18T12:51:33.288759"
+        ]
+      ],
+      "score_history": [
+        [
+          -4,
+          "2025-11-18T12:51:33.288759"
+        ],
+        [
+          -4,
+          "2025-11-18T13:03:53.119395"
+        ],
+        [
+          -6,
+          "2025-11-18T13:15:44.443083"
+        ],
+        [
+          -7,
+          "2025-11-18T13:46:25.309324"
+        ],
+        [
+          -7,
+          "2025-11-18T13:49:26.330295"
+        ],
+        [
+          -5,
+          "2025-11-18T13:59:18.439399"
+        ],
+        [
+          -6,
+          "2025-11-18T14:10:37.985007"
+        ]
+      ],
+      "created_utc": 1763477565.0,
+      "depth": 0,
+      "permalink": "/r/AI_Agents/comments/1p0dwat/have_you_seen_those_leaked_prompts_on_github/npi1vhm/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npif515",
+          "parent_id": "t1_npi1vhm",
+          "author": "rco8786",
+          "text_history": [
+            [
+              "Slop",
+              "2025-11-18T12:51:33.288759"
+            ]
+          ],
+          "score_history": [
+            [
+              2,
+              "2025-11-18T12:51:33.288759"
+            ],
+            [
+              1,
+              "2025-11-18T13:03:53.119395"
+            ],
+            [
+              0,
+              "2025-11-18T13:15:44.443083"
+            ],
+            [
+              0,
+              "2025-11-18T13:46:25.309324"
+            ],
+            [
+              1,
+              "2025-11-18T13:49:26.330295"
+            ],
+            [
+              1,
+              "2025-11-18T13:59:18.439399"
+            ],
+            [
+              1,
+              "2025-11-18T14:10:37.985007"
+            ]
+          ],
+          "created_utc": 1763481588.0,
+          "depth": 1,
+          "permalink": "/r/AI_Agents/comments/1p0dwat/have_you_seen_those_leaked_prompts_on_github/npif515/",
+          "is_submitter": false,
+          "controversiality": 1,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-18T14:10:37.985007",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/AI_Agents/comments/1p0dwat/have_you_seen_those_leaked_prompts_on_github/",
+    "total_comments": 7,
+    "top_level_comments": 5,
+    "api_requests": 1,
+    "expected_comments": 7,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 7,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_125133.json",
+      "scrape_002_20251118_130352.json",
+      "scrape_003_20251118_131544.json",
+      "scrape_004_20251118_134625.json",
+      "scrape_005_20251118_134926.json",
+      "scrape_006_20251118_135918.json",
+      "scrape_007_20251118_141037.json"
+    ]
+  }
+}

@@ -1,0 +1,2026 @@
+{
+  "post": {
+    "id": "1p0owr5",
+    "title": "I have 3 months to learn about Cyber Security and I don’t have to work during any of it.",
+    "author": "SectorZed",
+    "score_history": [
+      [
+        1,
+        "2025-11-18T14:21:53.230678"
+      ],
+      [
+        0,
+        "2025-11-18T14:32:05.436268"
+      ],
+      [
+        0,
+        "2025-11-18T14:34:58.880500"
+      ],
+      [
+        0,
+        "2025-11-18T14:43:23.728888"
+      ],
+      [
+        0,
+        "2025-11-18T14:45:17.133460"
+      ],
+      [
+        0,
+        "2025-11-18T14:52:57.904445"
+      ],
+      [
+        0,
+        "2025-11-18T14:53:42.079769"
+      ],
+      [
+        0,
+        "2025-11-18T14:55:52.917272"
+      ],
+      [
+        0,
+        "2025-11-18T22:32:20.997611"
+      ],
+      [
+        0,
+        "2025-11-18T23:54:50.695478"
+      ],
+      [
+        0,
+        "2025-11-19T01:39:59.831566"
+      ],
+      [
+        0,
+        "2025-11-19T07:22:41.513162"
+      ]
+    ],
+    "created_utc": 1763502197.0,
+    "num_comments": 31,
+    "subreddit": "cybersecurity",
+    "url": "https://www.reddit.com/r/cybersecurity/comments/1p0owr5/i_have_3_months_to_learn_about_cyber_security_and/",
+    "selftext": "I have 3 months of recovery ahead of me post surgery. I want to change career paths, cyber security seems interesting. \n\nI have experience with computers from a hardware perspective but no formal education in the field. \n\nWith all this time ahead of me, how can I accomplish the most in that 3 month time frame? Realistically, I think I can apply probably 20-25 hours a week to it so I don’t burn out. \n\nEdit : obviously not going to learn everything in 3 months… this is just a great opportunity to start",
+    "permalink": "/r/cybersecurity/comments/1p0owr5/i_have_3_months_to_learn_about_cyber_security_and/"
+  },
+  "comments": [
+    {
+      "id": "npkebyt",
+      "parent_id": "t3_1p0owr5",
+      "author": "fistraisedhigh",
+      "text_history": [
+        [
+          "Tryhackme is probably your best bet",
+          "2025-11-18T14:21:53.230678"
+        ]
+      ],
+      "score_history": [
+        [
+          9,
+          "2025-11-18T14:21:53.230678"
+        ],
+        [
+          10,
+          "2025-11-18T14:32:05.436268"
+        ],
+        [
+          11,
+          "2025-11-18T14:34:58.880500"
+        ],
+        [
+          11,
+          "2025-11-18T14:43:23.728888"
+        ],
+        [
+          11,
+          "2025-11-18T14:45:17.133460"
+        ],
+        [
+          11,
+          "2025-11-18T14:52:57.904445"
+        ],
+        [
+          11,
+          "2025-11-18T14:53:42.079769"
+        ],
+        [
+          11,
+          "2025-11-18T14:55:52.917272"
+        ],
+        [
+          18,
+          "2025-11-18T22:32:20.997611"
+        ],
+        [
+          16,
+          "2025-11-18T23:54:50.695478"
+        ],
+        [
+          18,
+          "2025-11-19T01:39:59.831566"
+        ],
+        [
+          17,
+          "2025-11-19T07:22:41.513162"
+        ]
+      ],
+      "created_utc": 1763502608.0,
+      "depth": 0,
+      "permalink": "/r/cybersecurity/comments/1p0owr5/i_have_3_months_to_learn_about_cyber_security_and/npkebyt/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "nplfom1",
+          "parent_id": "t1_npkebyt",
+          "author": "Background-Rabbit676",
+          "text_history": [
+            [
+              "Currently in the field as an engineer just rolling out new programs for the company such as DLP, ITAM, etc \n\ntryhackme actually seems pretty cool and cost effective, I just started their security engineering stuff. I knew a lot, but also learned a lot already especially about stuff I don’t do at work like testing, scripting, etc",
+              "2025-11-18T22:32:20.997611"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T22:32:20.997611"
+            ],
+            [
+              1,
+              "2025-11-18T23:54:50.695478"
+            ],
+            [
+              1,
+              "2025-11-19T01:39:59.831566"
+            ],
+            [
+              1,
+              "2025-11-19T07:22:41.513162"
+            ]
+          ],
+          "created_utc": 1763515391.0,
+          "depth": 1,
+          "permalink": "/r/cybersecurity/comments/1p0owr5/i_have_3_months_to_learn_about_cyber_security_and/nplfom1/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npkfgn2",
+      "parent_id": "t3_1p0owr5",
+      "author": "Latter-Effective4542",
+      "text_history": [
+        [
+          "Saying you’re going into “cybersecurity” is like saying you’re going into “science” or “sports”. They are many types of careers within cybersecurity. I would find YouTube videos that can help, such as UnixGuy. Professor Messor has some introductory playlists for the CompTIA A+ exam (don’t need the exam - the contents of the videos give a good start). Pick a niche quickly and focus on that.",
+          "2025-11-18T14:21:53.230678"
+        ]
+      ],
+      "score_history": [
+        [
+          9,
+          "2025-11-18T14:21:53.230678"
+        ],
+        [
+          12,
+          "2025-11-18T14:32:05.436268"
+        ],
+        [
+          11,
+          "2025-11-18T14:34:58.880500"
+        ],
+        [
+          12,
+          "2025-11-18T14:43:23.728888"
+        ],
+        [
+          12,
+          "2025-11-18T14:45:17.133460"
+        ],
+        [
+          12,
+          "2025-11-18T14:52:57.904445"
+        ],
+        [
+          12,
+          "2025-11-18T14:53:42.079769"
+        ],
+        [
+          12,
+          "2025-11-18T14:55:52.917272"
+        ],
+        [
+          17,
+          "2025-11-18T22:32:20.997611"
+        ],
+        [
+          17,
+          "2025-11-18T23:54:50.695478"
+        ],
+        [
+          18,
+          "2025-11-19T01:39:59.831566"
+        ],
+        [
+          17,
+          "2025-11-19T07:22:41.513162"
+        ]
+      ],
+      "created_utc": 1763502948.0,
+      "depth": 0,
+      "permalink": "/r/cybersecurity/comments/1p0owr5/i_have_3_months_to_learn_about_cyber_security_and/npkfgn2/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npkmudz",
+          "parent_id": "t1_npkfgn2",
+          "author": "Redemptions",
+          "text_history": [
+            [
+              "Going into cyber security would be more like saying to play football.  OP needs start with \"I'm going to play sports\" (IT), then move into Cybersecurity (Football), then specify their position \"I'm going to be on special teams.\" (Incident Response).",
+              "2025-11-18T14:43:23.728888"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T14:43:23.728888"
+            ],
+            [
+              1,
+              "2025-11-18T14:45:17.133460"
+            ],
+            [
+              1,
+              "2025-11-18T14:52:57.904445"
+            ],
+            [
+              1,
+              "2025-11-18T14:53:42.079769"
+            ],
+            [
+              1,
+              "2025-11-18T14:55:52.917272"
+            ],
+            [
+              0,
+              "2025-11-18T22:32:20.997611"
+            ],
+            [
+              1,
+              "2025-11-18T23:54:50.695478"
+            ],
+            [
+              1,
+              "2025-11-19T01:39:59.831566"
+            ],
+            [
+              1,
+              "2025-11-19T07:22:41.513162"
+            ]
+          ],
+          "created_utc": 1763505289.0,
+          "depth": 1,
+          "permalink": "/r/cybersecurity/comments/1p0owr5/i_have_3_months_to_learn_about_cyber_security_and/npkmudz/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npkea14",
+      "parent_id": "t3_1p0owr5",
+      "author": "Low_Air_876",
+      "text_history": [
+        [
+          "You wont “ learn cyber” in 3 months but you can use the 3 months to get you started. Research careers within cyber and get started",
+          "2025-11-18T14:21:53.230678"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-18T14:21:53.230678"
+        ],
+        [
+          4,
+          "2025-11-18T14:32:05.436268"
+        ],
+        [
+          4,
+          "2025-11-18T14:34:58.880500"
+        ],
+        [
+          5,
+          "2025-11-18T14:43:23.728888"
+        ],
+        [
+          5,
+          "2025-11-18T14:45:17.133460"
+        ],
+        [
+          5,
+          "2025-11-18T14:52:57.904445"
+        ],
+        [
+          5,
+          "2025-11-18T14:53:42.079769"
+        ],
+        [
+          5,
+          "2025-11-18T14:55:52.917272"
+        ],
+        [
+          6,
+          "2025-11-18T22:32:20.997611"
+        ],
+        [
+          6,
+          "2025-11-18T23:54:50.695478"
+        ],
+        [
+          7,
+          "2025-11-19T01:39:59.831566"
+        ],
+        [
+          6,
+          "2025-11-19T07:22:41.513162"
+        ]
+      ],
+      "created_utc": 1763502593.0,
+      "depth": 0,
+      "permalink": "/r/cybersecurity/comments/1p0owr5/i_have_3_months_to_learn_about_cyber_security_and/npkea14/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npkfzbj",
+      "parent_id": "t3_1p0owr5",
+      "author": "GhostlyBoi33",
+      "text_history": [
+        [
+          "hackthebox is good! tryhackme is good too etc!",
+          "2025-11-18T14:21:53.230678"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-18T14:21:53.230678"
+        ],
+        [
+          2,
+          "2025-11-18T14:32:05.436268"
+        ],
+        [
+          2,
+          "2025-11-18T14:34:58.880500"
+        ],
+        [
+          2,
+          "2025-11-18T14:43:23.728888"
+        ],
+        [
+          2,
+          "2025-11-18T14:45:17.133460"
+        ],
+        [
+          2,
+          "2025-11-18T14:52:57.904445"
+        ],
+        [
+          2,
+          "2025-11-18T14:53:42.079769"
+        ],
+        [
+          2,
+          "2025-11-18T14:55:52.917272"
+        ],
+        [
+          3,
+          "2025-11-18T22:32:20.997611"
+        ],
+        [
+          3,
+          "2025-11-18T23:54:50.695478"
+        ],
+        [
+          3,
+          "2025-11-19T01:39:59.831566"
+        ],
+        [
+          3,
+          "2025-11-19T07:22:41.513162"
+        ]
+      ],
+      "created_utc": 1763503103.0,
+      "depth": 0,
+      "permalink": "/r/cybersecurity/comments/1p0owr5/i_have_3_months_to_learn_about_cyber_security_and/npkfzbj/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npkhdjt",
+      "parent_id": "t3_1p0owr5",
+      "author": "OkOutside4975",
+      "text_history": [
+        [
+          "Hack this site - go there and play\n\nYou can use AI and Google if you get stuck. This will help you see things like a hacker. A good start to identifying how to protect.",
+          "2025-11-18T14:21:53.230678"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:21:53.230678"
+        ],
+        [
+          2,
+          "2025-11-18T14:32:05.436268"
+        ],
+        [
+          2,
+          "2025-11-18T14:34:58.880500"
+        ],
+        [
+          2,
+          "2025-11-18T14:43:23.728888"
+        ],
+        [
+          2,
+          "2025-11-18T14:45:17.133460"
+        ],
+        [
+          2,
+          "2025-11-18T14:52:57.904445"
+        ],
+        [
+          2,
+          "2025-11-18T14:53:42.079769"
+        ],
+        [
+          2,
+          "2025-11-18T14:55:52.917272"
+        ],
+        [
+          2,
+          "2025-11-18T22:32:20.997611"
+        ],
+        [
+          2,
+          "2025-11-18T23:54:50.695478"
+        ],
+        [
+          2,
+          "2025-11-19T01:39:59.831566"
+        ],
+        [
+          2,
+          "2025-11-19T07:22:41.513162"
+        ]
+      ],
+      "created_utc": 1763503532.0,
+      "depth": 0,
+      "permalink": "/r/cybersecurity/comments/1p0owr5/i_have_3_months_to_learn_about_cyber_security_and/npkhdjt/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npkibod",
+      "parent_id": "t3_1p0owr5",
+      "author": "Time_Faithlessness45",
+      "text_history": [
+        [
+          "Cybersecurity isn't really entry level. Its really going to depend on what your previous role/experience was. Assuming you worked in some IT related field, you could potentially make the switch, but only if that is the case. \n\nAssuming your previous work experience is IT related: your best bet is to grind the necessary pre requisite certs, and grind for experience. I'd reccomend Network+ and Security+ at a minimum (just google Comptia Security+). Then for the practical learning, maybe \"Try Hack Me\", \"Hack The Box\", or \"Blue Team Labs\". \n\nIf IT wasn't your previous role, you need to try to get an IT role. Thats the gateway into InfoSec these days. The days of people going straight into InfoSec are mostly over. The job market is oversaturated at the entry level, so experience + education (not just one or the other, but BOTH) is the only thing that sets people apart with how cutthroat everything is.",
+          "2025-11-18T14:21:53.230678"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:21:53.230678"
+        ],
+        [
+          1,
+          "2025-11-18T14:32:05.436268"
+        ],
+        [
+          1,
+          "2025-11-18T14:34:58.880500"
+        ],
+        [
+          1,
+          "2025-11-18T14:43:23.728888"
+        ],
+        [
+          1,
+          "2025-11-18T14:45:17.133460"
+        ],
+        [
+          1,
+          "2025-11-18T14:52:57.904445"
+        ],
+        [
+          1,
+          "2025-11-18T14:53:42.079769"
+        ],
+        [
+          1,
+          "2025-11-18T14:55:52.917272"
+        ],
+        [
+          2,
+          "2025-11-18T22:32:20.997611"
+        ],
+        [
+          2,
+          "2025-11-18T23:54:50.695478"
+        ],
+        [
+          2,
+          "2025-11-19T01:39:59.831566"
+        ],
+        [
+          2,
+          "2025-11-19T07:22:41.513162"
+        ]
+      ],
+      "created_utc": 1763503831.0,
+      "depth": 0,
+      "permalink": "/r/cybersecurity/comments/1p0owr5/i_have_3_months_to_learn_about_cyber_security_and/npkibod/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npkevr3",
+      "parent_id": "t3_1p0owr5",
+      "author": "Qresh1",
+      "text_history": [
+        [
+          "It will be a steep learning curve, you need software basics too. Knowledge on routers, what they do, why they do it, switches, firewalls, VLAN config, this that bla bla bla. I have only a few years in IT and for me cyber security feels like a negative learning curve. It also feels like a non existent thing. Gotta unlearn some habits I have. Humbling! 3 months is gonna be TOUGH. Can you put more than 25 hours in?",
+          "2025-11-18T14:21:53.230678"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-18T14:21:53.230678"
+        ],
+        [
+          2,
+          "2025-11-18T14:32:05.436268"
+        ],
+        [
+          2,
+          "2025-11-18T14:34:58.880500"
+        ],
+        [
+          3,
+          "2025-11-18T14:43:23.728888"
+        ],
+        [
+          3,
+          "2025-11-18T14:45:17.133460"
+        ],
+        [
+          3,
+          "2025-11-18T14:52:57.904445"
+        ],
+        [
+          3,
+          "2025-11-18T14:53:42.079769"
+        ],
+        [
+          3,
+          "2025-11-18T14:55:52.917272"
+        ],
+        [
+          2,
+          "2025-11-18T22:32:20.997611"
+        ],
+        [
+          2,
+          "2025-11-18T23:54:50.695478"
+        ],
+        [
+          2,
+          "2025-11-19T01:39:59.831566"
+        ],
+        [
+          2,
+          "2025-11-19T07:22:41.513162"
+        ]
+      ],
+      "created_utc": 1763502772.0,
+      "depth": 0,
+      "permalink": "/r/cybersecurity/comments/1p0owr5/i_have_3_months_to_learn_about_cyber_security_and/npkevr3/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npkfjsj",
+          "parent_id": "t1_npkevr3",
+          "author": "SectorZed",
+          "text_history": [
+            [
+              "I more meant a great opportunity to start learning haha",
+              "2025-11-18T14:21:53.230678"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T14:21:53.230678"
+            ],
+            [
+              0,
+              "2025-11-18T14:32:05.436268"
+            ],
+            [
+              0,
+              "2025-11-18T14:34:58.880500"
+            ],
+            [
+              0,
+              "2025-11-18T14:43:23.728888"
+            ],
+            [
+              0,
+              "2025-11-18T14:45:17.133460"
+            ],
+            [
+              0,
+              "2025-11-18T14:52:57.904445"
+            ],
+            [
+              0,
+              "2025-11-18T14:53:42.079769"
+            ],
+            [
+              0,
+              "2025-11-18T14:55:52.917272"
+            ],
+            [
+              2,
+              "2025-11-18T22:32:20.997611"
+            ],
+            [
+              2,
+              "2025-11-18T23:54:50.695478"
+            ],
+            [
+              2,
+              "2025-11-19T01:39:59.831566"
+            ],
+            [
+              2,
+              "2025-11-19T07:22:41.513162"
+            ]
+          ],
+          "created_utc": 1763502974.0,
+          "depth": 1,
+          "permalink": "/r/cybersecurity/comments/1p0owr5/i_have_3_months_to_learn_about_cyber_security_and/npkfjsj/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npkimd1",
+              "parent_id": "t1_npkfjsj",
+              "author": "disciplineneverfails",
+              "text_history": [
+                [
+                  "You mentioned hardware experience but how much and what is the scope? I would start with general IT and networking then go from there.\n\nGetting into cyber without a foundational knowledge of the underlying tech just won’t happen in 2025. \n\nNot to discourage you but it’ll make things absolutely easier for you when you learn about things like (example) Active Directory now and what that entails instead of taking a cyber course or cert then having to go back and learn it.",
+                  "2025-11-18T14:21:53.230678"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-18T14:21:53.230678"
+                ],
+                [
+                  1,
+                  "2025-11-18T14:32:05.436268"
+                ],
+                [
+                  2,
+                  "2025-11-18T14:34:58.880500"
+                ],
+                [
+                  2,
+                  "2025-11-18T14:43:23.728888"
+                ],
+                [
+                  2,
+                  "2025-11-18T14:45:17.133460"
+                ],
+                [
+                  2,
+                  "2025-11-18T14:52:57.904445"
+                ],
+                [
+                  2,
+                  "2025-11-18T14:53:42.079769"
+                ],
+                [
+                  2,
+                  "2025-11-18T14:55:52.917272"
+                ],
+                [
+                  3,
+                  "2025-11-18T22:32:20.997611"
+                ],
+                [
+                  3,
+                  "2025-11-18T23:54:50.695478"
+                ],
+                [
+                  3,
+                  "2025-11-19T01:39:59.831566"
+                ],
+                [
+                  3,
+                  "2025-11-19T07:22:41.513162"
+                ]
+              ],
+              "created_utc": 1763503924.0,
+              "depth": 2,
+              "permalink": "/r/cybersecurity/comments/1p0owr5/i_have_3_months_to_learn_about_cyber_security_and/npkimd1/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "npkelr0",
+      "parent_id": "t3_1p0owr5",
+      "author": "LookMomImLearning",
+      "text_history": [
+        [
+          "You started 3 years ago",
+          "2025-11-18T14:21:53.230678"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:21:53.230678"
+        ],
+        [
+          1,
+          "2025-11-18T14:32:05.436268"
+        ],
+        [
+          1,
+          "2025-11-18T14:34:58.880500"
+        ],
+        [
+          1,
+          "2025-11-18T14:43:23.728888"
+        ],
+        [
+          1,
+          "2025-11-18T14:45:17.133460"
+        ],
+        [
+          1,
+          "2025-11-18T14:52:57.904445"
+        ],
+        [
+          1,
+          "2025-11-18T14:53:42.079769"
+        ],
+        [
+          1,
+          "2025-11-18T14:55:52.917272"
+        ],
+        [
+          1,
+          "2025-11-18T22:32:20.997611"
+        ],
+        [
+          1,
+          "2025-11-18T23:54:50.695478"
+        ],
+        [
+          1,
+          "2025-11-19T01:39:59.831566"
+        ],
+        [
+          1,
+          "2025-11-19T07:22:41.513162"
+        ]
+      ],
+      "created_utc": 1763502689.0,
+      "depth": 0,
+      "permalink": "/r/cybersecurity/comments/1p0owr5/i_have_3_months_to_learn_about_cyber_security_and/npkelr0/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npkghiy",
+      "parent_id": "t3_1p0owr5",
+      "author": "Hot_Ease_4895",
+      "text_history": [
+        [
+          "No. \nBut you can get some insight. \n\nExperience with hardware is outstanding and helpful. \nBut a lotta stuff you’re gonna see if application level. \n\nSo, brush up on Portswigger and HTB boxes.",
+          "2025-11-18T14:21:53.230678"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:21:53.230678"
+        ],
+        [
+          1,
+          "2025-11-18T14:32:05.436268"
+        ],
+        [
+          1,
+          "2025-11-18T14:34:58.880500"
+        ],
+        [
+          1,
+          "2025-11-18T14:43:23.728888"
+        ],
+        [
+          1,
+          "2025-11-18T14:45:17.133460"
+        ],
+        [
+          1,
+          "2025-11-18T14:52:57.904445"
+        ],
+        [
+          1,
+          "2025-11-18T14:53:42.079769"
+        ],
+        [
+          1,
+          "2025-11-18T14:55:52.917272"
+        ],
+        [
+          1,
+          "2025-11-18T22:32:20.997611"
+        ],
+        [
+          1,
+          "2025-11-18T23:54:50.695478"
+        ],
+        [
+          1,
+          "2025-11-19T01:39:59.831566"
+        ],
+        [
+          1,
+          "2025-11-19T07:22:41.513162"
+        ]
+      ],
+      "created_utc": 1763503255.0,
+      "depth": 0,
+      "permalink": "/r/cybersecurity/comments/1p0owr5/i_have_3_months_to_learn_about_cyber_security_and/npkghiy/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npkieqs",
+      "parent_id": "t3_1p0owr5",
+      "author": "Karbonatom",
+      "text_history": [
+        [
+          "Do you have your A+? no? get it, if yes do you have your network+ No? work on that. If you have both what about linux+ get all that first to form a foundation and while working on that look into the various job types within cyber security. Being new don't focus on pentesting/red team work there just aren't that many jobs. Threat intel, Identity, endpoint security, and the SOC are your best bets. And if you can get setup with these peeps [https://apprenticareers.org/](https://apprenticareers.org/) do so, our company hires starting position from this place and I bet others do too. Your next goal should be networking find out about cyber conferences and local groups in your area and get to know people. There are jobs that show up just because of who you know not what you know. Doesn't happen all the time but this is just my opinion on things.",
+          "2025-11-18T14:21:53.230678"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:21:53.230678"
+        ],
+        [
+          1,
+          "2025-11-18T14:32:05.436268"
+        ],
+        [
+          1,
+          "2025-11-18T14:34:58.880500"
+        ],
+        [
+          1,
+          "2025-11-18T14:43:23.728888"
+        ],
+        [
+          1,
+          "2025-11-18T14:45:17.133460"
+        ],
+        [
+          1,
+          "2025-11-18T14:52:57.904445"
+        ],
+        [
+          1,
+          "2025-11-18T14:53:42.079769"
+        ],
+        [
+          1,
+          "2025-11-18T14:55:52.917272"
+        ],
+        [
+          1,
+          "2025-11-18T22:32:20.997611"
+        ],
+        [
+          1,
+          "2025-11-18T23:54:50.695478"
+        ],
+        [
+          1,
+          "2025-11-19T01:39:59.831566"
+        ],
+        [
+          1,
+          "2025-11-19T07:22:41.513162"
+        ]
+      ],
+      "created_utc": 1763503858.0,
+      "depth": 0,
+      "permalink": "/r/cybersecurity/comments/1p0owr5/i_have_3_months_to_learn_about_cyber_security_and/npkieqs/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npkifcp",
+      "parent_id": "t3_1p0owr5",
+      "author": "braywarshawsky",
+      "text_history": [
+        [
+          "OP,\n\nYou need to do it to learn it.\n\nGo on YouTube, and put what you typed in their search engine. See what it comes up with.\n\nEverything you see will be viable, but it'll be a lot to take in.\n\nInstead, ask yourself what \"cybersecurity\" is to you? On a day to day basis, in your ideal role... what would you be doing? Answer that, and then people here might be able to give you better direction or advice.\n\n3 months at 20-25 hrs/week is a good start. Don't get lost in the weeds. Focus on that specific role you want, the go after it.",
+          "2025-11-18T14:21:53.230678"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:21:53.230678"
+        ],
+        [
+          1,
+          "2025-11-18T14:32:05.436268"
+        ],
+        [
+          1,
+          "2025-11-18T14:34:58.880500"
+        ],
+        [
+          1,
+          "2025-11-18T14:43:23.728888"
+        ],
+        [
+          1,
+          "2025-11-18T14:45:17.133460"
+        ],
+        [
+          1,
+          "2025-11-18T14:52:57.904445"
+        ],
+        [
+          1,
+          "2025-11-18T14:53:42.079769"
+        ],
+        [
+          1,
+          "2025-11-18T14:55:52.917272"
+        ],
+        [
+          1,
+          "2025-11-18T22:32:20.997611"
+        ],
+        [
+          1,
+          "2025-11-18T23:54:50.695478"
+        ],
+        [
+          1,
+          "2025-11-19T01:39:59.831566"
+        ],
+        [
+          1,
+          "2025-11-19T07:22:41.513162"
+        ]
+      ],
+      "created_utc": 1763503863.0,
+      "depth": 0,
+      "permalink": "/r/cybersecurity/comments/1p0owr5/i_have_3_months_to_learn_about_cyber_security_and/npkifcp/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npkjudx",
+      "parent_id": "t3_1p0owr5",
+      "author": "Stock-Ad-7601",
+      "text_history": [
+        [
+          "I got Sec+, CEH and CISSP all in 3 months through Intellectual Point (VA had a program a couple years ago).  It was easy, but I've been doing cyber stuff over 25 years.",
+          "2025-11-18T14:21:53.230678"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:21:53.230678"
+        ],
+        [
+          1,
+          "2025-11-18T14:32:05.436268"
+        ],
+        [
+          1,
+          "2025-11-18T14:34:58.880500"
+        ],
+        [
+          1,
+          "2025-11-18T14:43:23.728888"
+        ],
+        [
+          1,
+          "2025-11-18T14:45:17.133460"
+        ],
+        [
+          1,
+          "2025-11-18T14:52:57.904445"
+        ],
+        [
+          1,
+          "2025-11-18T14:53:42.079769"
+        ],
+        [
+          1,
+          "2025-11-18T14:55:52.917272"
+        ],
+        [
+          1,
+          "2025-11-18T22:32:20.997611"
+        ],
+        [
+          1,
+          "2025-11-18T23:54:50.695478"
+        ],
+        [
+          1,
+          "2025-11-19T01:39:59.831566"
+        ],
+        [
+          1,
+          "2025-11-19T07:22:41.513162"
+        ]
+      ],
+      "created_utc": 1763504315.0,
+      "depth": 0,
+      "permalink": "/r/cybersecurity/comments/1p0owr5/i_have_3_months_to_learn_about_cyber_security_and/npkjudx/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npkk4lk",
+      "parent_id": "t3_1p0owr5",
+      "author": "TheCyberThor",
+      "text_history": [
+        [
+          "This is probably one of those things where you should just ask an LLM and refine the output into a realistic plan.\n\nIt would have been trained on everyone that has asked this question.",
+          "2025-11-18T14:21:53.230678"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:21:53.230678"
+        ],
+        [
+          1,
+          "2025-11-18T14:32:05.436268"
+        ],
+        [
+          1,
+          "2025-11-18T14:34:58.880500"
+        ],
+        [
+          1,
+          "2025-11-18T14:43:23.728888"
+        ],
+        [
+          1,
+          "2025-11-18T14:45:17.133460"
+        ],
+        [
+          1,
+          "2025-11-18T14:52:57.904445"
+        ],
+        [
+          1,
+          "2025-11-18T14:53:42.079769"
+        ],
+        [
+          1,
+          "2025-11-18T14:55:52.917272"
+        ],
+        [
+          1,
+          "2025-11-18T22:32:20.997611"
+        ],
+        [
+          1,
+          "2025-11-18T23:54:50.695478"
+        ],
+        [
+          1,
+          "2025-11-19T01:39:59.831566"
+        ],
+        [
+          1,
+          "2025-11-19T07:22:41.513162"
+        ]
+      ],
+      "created_utc": 1763504405.0,
+      "depth": 0,
+      "permalink": "/r/cybersecurity/comments/1p0owr5/i_have_3_months_to_learn_about_cyber_security_and/npkk4lk/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npkm0xo",
+      "parent_id": "t3_1p0owr5",
+      "author": "Mysterious-Status-44",
+      "text_history": [
+        [
+          "Watch YouTube: Professor Messer (probably best for beginners), NetworkChuck, LiveOverflow, John Hammond, The Cyber Mentor, and plenty others. Learn fundamentals using Try Hack Me, Hack the Box, OvertheWire. Build a VM lab, use Kali Linux. Try CTF challenges. \n\nYou will eventually start leaning towards a direction to go within cybersecurity and dive into the details of whatever path you pick. For instance, not every path will need to learn a computer language. Some need to know multiple languages. But focus on the fundamentals and be willing to always learn more because it’s a field that requires constant learning with the speed of technology changing.",
+          "2025-11-18T14:32:05.436268"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:32:05.436268"
+        ],
+        [
+          1,
+          "2025-11-18T14:34:58.880500"
+        ],
+        [
+          1,
+          "2025-11-18T14:43:23.728888"
+        ],
+        [
+          1,
+          "2025-11-18T14:45:17.133460"
+        ],
+        [
+          1,
+          "2025-11-18T14:52:57.904445"
+        ],
+        [
+          1,
+          "2025-11-18T14:53:42.079769"
+        ],
+        [
+          1,
+          "2025-11-18T14:55:52.917272"
+        ],
+        [
+          1,
+          "2025-11-18T22:32:20.997611"
+        ],
+        [
+          1,
+          "2025-11-18T23:54:50.695478"
+        ],
+        [
+          1,
+          "2025-11-19T01:39:59.831566"
+        ],
+        [
+          1,
+          "2025-11-19T07:22:41.513162"
+        ]
+      ],
+      "created_utc": 1763505019.0,
+      "depth": 0,
+      "permalink": "/r/cybersecurity/comments/1p0owr5/i_have_3_months_to_learn_about_cyber_security_and/npkm0xo/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npko1xk",
+      "parent_id": "t3_1p0owr5",
+      "author": "bonebrah",
+      "text_history": [
+        [
+          "Is your experience in \"hardware\" building gaming PC's? Cuz you might as well throw that out the window.\n\nGo through Professor messers A+, Net+ and Sec+ videos in their entirety, take notes, know it all in and out, like enough that you would be ready to take the certs. Check out some home labs you can do too. Also check out the training and free tier labs for AWS Cloud Practitioner and Azure AZ-900. to get your introduction to cloud stuff They often do free cert events as well, research that.   \n  \nAll those above will lay out some good foundations to move into TryHackMe learning paths. For $75 a year (i think, might be slightly off) can get you started with a lot of the basics in THM by following the learning paths starting at Pre-Security, going into Cybersecurity 101 then working through the SOC Analyst, Jr Pentester and Sec Engineering paths. Do all of them, all the way through. For Cloud Security, go read through all the well architected framework documentation from AWS and Azure (not familiar with GCP so unsure there) as well as checking out the related labs (I think there's free tiers for boths IIRC). Then read through all the CIS benchmarks and NIST framework stuff.\n\nWill this get you a job in Cyber? Probably not. But you'll be able to talk the talk and maybe get lucky.",
+          "2025-11-18T14:43:23.728888"
+        ],
+        [
+          "Is your experience in \"hardware\" building gaming PC's? Cuz you might as well throw that out the window.\n\nGo through Professor messers A+, Net+ and Sec+ videos in their entirety, take notes, know it all in and out, like enough that you would be ready to take the certs. Check out some home labs you can do too. Also check out the training and free tier labs for AWS Cloud Practitioner and Azure AZ-900. to get your introduction to cloud stuff They often do free cert events as well, research that.\n\nAll those above will lay out some good foundations to move into TryHackMe learning paths. For $75 a year (i think, might be slightly off) can get you started with a lot of the basics in THM by following the learning paths starting at Pre-Security, going into Cybersecurity 101 then working through the SOC Analyst, Jr Pentester and Sec Engineering paths. Do all of them, all the way through. For Cloud Security, go read through all the well architected framework documentation from AWS and Azure (not familiar with GCP so unsure there) as well as checking out the related labs (I think there's free tiers for boths IIRC). Then read through all the CIS benchmarks and NIST framework stuff.\n\nWill this get you a job in Cyber? Probably not. But you'll be able to talk the talk and maybe get lucky.",
+          "2025-11-18T22:32:20.997611"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:43:23.728888"
+        ],
+        [
+          1,
+          "2025-11-18T14:45:17.133460"
+        ],
+        [
+          1,
+          "2025-11-18T14:52:57.904445"
+        ],
+        [
+          1,
+          "2025-11-18T14:53:42.079769"
+        ],
+        [
+          1,
+          "2025-11-18T14:55:52.917272"
+        ],
+        [
+          1,
+          "2025-11-18T22:32:20.997611"
+        ],
+        [
+          1,
+          "2025-11-18T23:54:50.695478"
+        ],
+        [
+          1,
+          "2025-11-19T01:39:59.831566"
+        ],
+        [
+          1,
+          "2025-11-19T07:22:41.513162"
+        ]
+      ],
+      "created_utc": 1763505689.0,
+      "depth": 0,
+      "permalink": "/r/cybersecurity/comments/1p0owr5/i_have_3_months_to_learn_about_cyber_security_and/npko1xk/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": 1763507713.0,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npl5qc0",
+      "parent_id": "t3_1p0owr5",
+      "author": "HODL_Bandit",
+      "text_history": [
+        [
+          "They wont hire people without experiences. Not an entry job",
+          "2025-11-18T22:32:20.997611"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T22:32:20.997611"
+        ],
+        [
+          1,
+          "2025-11-18T23:54:50.695478"
+        ],
+        [
+          1,
+          "2025-11-19T01:39:59.831566"
+        ],
+        [
+          1,
+          "2025-11-19T07:22:41.513162"
+        ]
+      ],
+      "created_utc": 1763511854.0,
+      "depth": 0,
+      "permalink": "/r/cybersecurity/comments/1p0owr5/i_have_3_months_to_learn_about_cyber_security_and/npl5qc0/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npl73eu",
+      "parent_id": "t3_1p0owr5",
+      "author": "Far-Low7610",
+      "text_history": [
+        [
+          "Do you have experience with Networking and Systems administrations? If not, there's your starting point. Understand the entire OSI Model / TCP-IP stack. You'll want a solid understanding of Linux on the terminal level. You'll want a solid understanding of windows as both a workstation and server. \n\n  \nThis is going to be your first few years. Then start looking at security.",
+          "2025-11-18T22:32:20.997611"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T22:32:20.997611"
+        ],
+        [
+          1,
+          "2025-11-18T23:54:50.695478"
+        ],
+        [
+          1,
+          "2025-11-19T01:39:59.831566"
+        ],
+        [
+          1,
+          "2025-11-19T07:22:41.513162"
+        ]
+      ],
+      "created_utc": 1763512333.0,
+      "depth": 0,
+      "permalink": "/r/cybersecurity/comments/1p0owr5/i_have_3_months_to_learn_about_cyber_security_and/npl73eu/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npmahxv",
+      "parent_id": "t3_1p0owr5",
+      "author": "dr0xb14nry",
+      "text_history": [
+        [
+          "Hii I am a security analyst and teach cybersecurity in part time to students who are interested If you are interested DM me we can figure out this.",
+          "2025-11-18T22:32:20.997611"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T22:32:20.997611"
+        ],
+        [
+          1,
+          "2025-11-18T23:54:50.695478"
+        ],
+        [
+          1,
+          "2025-11-19T01:39:59.831566"
+        ],
+        [
+          1,
+          "2025-11-19T07:22:41.513162"
+        ]
+      ],
+      "created_utc": 1763527082.0,
+      "depth": 0,
+      "permalink": "/r/cybersecurity/comments/1p0owr5/i_have_3_months_to_learn_about_cyber_security_and/npmahxv/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npkfirv",
+      "parent_id": "t3_1p0owr5",
+      "author": "lasair7",
+      "text_history": [
+        [
+          "Sure thing \n\nFirst, go on to the nist prepare site and learn about their framework going through their slideshow presentations \n\nNext conduct a home lab using a personally stig server and a vulnerability scanner that lab can be found out here:\nhttps://youtu.be/p0I8tr1MNVw?si=bpNYri2pReBmtLK4 \n\nHe used to offer this free and clear but now he kind of has a nerfed out version that appears free for the most part.  It should still work but it's very different from the lab I did a long time ago \n\n\nAfter that, I would recommend downloading STIG viewer from cyberexchange.com and going through a couple of STIGs for different types of hardware and softer that you would expect to see in a system \n\nGetting Cyber security certs are a must\nSince examples are: security+, Network+, cism or GRC \n\nHave you got any questions? Feel free to drop them here. I'm a full-time RMF instructor (I don't sell courses. I'm just on here for fun)",
+          "2025-11-18T14:21:53.230678"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:21:53.230678"
+        ],
+        [
+          1,
+          "2025-11-18T14:32:05.436268"
+        ],
+        [
+          1,
+          "2025-11-18T14:34:58.880500"
+        ],
+        [
+          1,
+          "2025-11-18T14:43:23.728888"
+        ],
+        [
+          1,
+          "2025-11-18T14:45:17.133460"
+        ],
+        [
+          1,
+          "2025-11-18T14:52:57.904445"
+        ],
+        [
+          1,
+          "2025-11-18T14:53:42.079769"
+        ],
+        [
+          1,
+          "2025-11-18T14:55:52.917272"
+        ],
+        [
+          1,
+          "2025-11-18T22:32:20.997611"
+        ],
+        [
+          1,
+          "2025-11-18T23:54:50.695478"
+        ],
+        [
+          1,
+          "2025-11-19T01:39:59.831566"
+        ],
+        [
+          1,
+          "2025-11-19T07:22:41.513162"
+        ]
+      ],
+      "created_utc": 1763502965.0,
+      "depth": 0,
+      "permalink": "/r/cybersecurity/comments/1p0owr5/i_have_3_months_to_learn_about_cyber_security_and/npkfirv/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npke89w",
+      "parent_id": "t3_1p0owr5",
+      "author": "cyberguy2369",
+      "text_history": [
+        [
+          "if you're in the US, the answer is \"not going to happen\"\n\nthe days of the wild west of cyber are over. the market has consolidated, the entry level remote work has all gone over seas for a fraction of the cost.. that leaves more advanced work that takes yrs of experience and more than likely a formal education these days. \n\nyou've got a ton of college educated or military educated folks with experience out there you'd be competing against. \n\n3 months at 20-25 hours a week just isnt going to put you in a place to really compete even for entry level positions. 3 months even at 40-50 hours a week really wouldnt cut it. you need a really strong foundation (formal education) you're just not going to have.",
+          "2025-11-18T14:21:53.230678"
+        ]
+      ],
+      "score_history": [
+        [
+          0,
+          "2025-11-18T14:21:53.230678"
+        ],
+        [
+          0,
+          "2025-11-18T14:32:05.436268"
+        ],
+        [
+          0,
+          "2025-11-18T14:34:58.880500"
+        ],
+        [
+          0,
+          "2025-11-18T14:43:23.728888"
+        ],
+        [
+          0,
+          "2025-11-18T14:45:17.133460"
+        ],
+        [
+          0,
+          "2025-11-18T14:52:57.904445"
+        ],
+        [
+          0,
+          "2025-11-18T14:53:42.079769"
+        ],
+        [
+          0,
+          "2025-11-18T14:55:52.917272"
+        ],
+        [
+          0,
+          "2025-11-18T22:32:20.997611"
+        ],
+        [
+          -1,
+          "2025-11-18T23:54:50.695478"
+        ],
+        [
+          1,
+          "2025-11-19T01:39:59.831566"
+        ],
+        [
+          0,
+          "2025-11-19T07:22:41.513162"
+        ]
+      ],
+      "created_utc": 1763502578.0,
+      "depth": 0,
+      "permalink": "/r/cybersecurity/comments/1p0owr5/i_have_3_months_to_learn_about_cyber_security_and/npke89w/",
+      "is_submitter": false,
+      "controversiality": 1,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npkh32q",
+          "parent_id": "t1_npke89w",
+          "author": "tomzephy",
+          "text_history": [
+            [
+              "Half of what you said is total utter bullshit. Formal education will do absolutely nothing for developing actual skills in cyber, nor make you an attractive candidate for anyone that has a clue. To this day, an undergraduate or postgraduate is going to offer absolutely nothing that a realistic employer (i.e., non-research companies) actually want.\n\n\nVocational still wins, hands down - far and away. OffSec, GIAC, Cisco etc certs will give you the foothold you need. If OP pursues a respectable cert in the next 3 months and takes an active and enthusiastic interest in learning the different domains of security and tinkering with lab environments, he will be a more attractive candidate than someone who only has a degree.",
+              "2025-11-18T14:21:53.230678"
+            ]
+          ],
+          "score_history": [
+            [
+              0,
+              "2025-11-18T14:21:53.230678"
+            ],
+            [
+              0,
+              "2025-11-18T14:32:05.436268"
+            ],
+            [
+              0,
+              "2025-11-18T14:34:58.880500"
+            ],
+            [
+              0,
+              "2025-11-18T14:43:23.728888"
+            ],
+            [
+              0,
+              "2025-11-18T14:45:17.133460"
+            ],
+            [
+              0,
+              "2025-11-18T14:52:57.904445"
+            ],
+            [
+              0,
+              "2025-11-18T14:53:42.079769"
+            ],
+            [
+              0,
+              "2025-11-18T14:55:52.917272"
+            ],
+            [
+              -2,
+              "2025-11-18T22:32:20.997611"
+            ],
+            [
+              -2,
+              "2025-11-18T23:54:50.695478"
+            ],
+            [
+              -1,
+              "2025-11-19T01:39:59.831566"
+            ],
+            [
+              -3,
+              "2025-11-19T07:22:41.513162"
+            ]
+          ],
+          "created_utc": 1763503442.0,
+          "depth": 1,
+          "permalink": "/r/cybersecurity/comments/1p0owr5/i_have_3_months_to_learn_about_cyber_security_and/npkh32q/",
+          "is_submitter": false,
+          "controversiality": 1,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npkjl7e",
+              "parent_id": "t1_npkh32q",
+              "author": "cyberguy2369",
+              "text_history": [
+                [
+                  "I hear that argument all day long, and it just doesn’t line up with reality.\n\nWalk down the halls at Mandiant, Google, Meta, Netflix, Microsoft, or even solid mid-size security teams. Even small to medium MSP/It contractors.. Talk to their younger analysts and engineers (not the 40+ crowd who came up in the Wild West days). You’ll find far more people who went the formal education route than people who only have a few certs and a home lab.\n\nSpeaking as a director who actually hires: if I have an opportunity to bring someone onto my team, I’m looking for someone with a foundation. I can teach the cyber tools, the workflows, the IR process, attacker TTPs, that part is easy. What’s hard to teach is how to be human in a professional environment:\n\n\\- how to communicate with difficult clients  \n\\- how to write reports that matter  \n\\- how to brief executives  \n\\- how to work on a team under pressure  \n\\- how to navigate conflict and handle responsibility\n\nin a  good university program you'll learn those things alongside networking, scripting, systems, and cyber fundamentals. That combination matters way more in the real world than just checking the “cert” box.. and it's absolutely noticeable during the interview process. those 4 yrs of education and maturity show. (Expecially with in person degree programs)\n\nCompetition is not hypothetical. When I post an entry-level role, I get 300+ applicants. Out of those, maybe 50 are genuinely qualified. Someone who studied 20–25 hours a week for three months, got one cert, and tinkered in a home lab is simply not going to compete against people with internships, actual project experience, formal training, and broader skillsets.\n\nI’m not hiring for a 6-month SOC rotation. I’m hiring for someone I can invest in, someone who can grow with me for 5–10 years, take on bigger responsibilities, and eventually lead projects or people. You don’t build that on three months of Pre-Security labs.\n\nCerts absolutely have value, I require some of them. But saying “formal education does nothing” just isn’t true in the environments where the best jobs are. In those environments, certs + experience + education beats certs + homelab every single time.",
+                  "2025-11-18T14:21:53.230678"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-18T14:21:53.230678"
+                ],
+                [
+                  1,
+                  "2025-11-18T14:32:05.436268"
+                ],
+                [
+                  1,
+                  "2025-11-18T14:34:58.880500"
+                ],
+                [
+                  1,
+                  "2025-11-18T14:43:23.728888"
+                ],
+                [
+                  1,
+                  "2025-11-18T14:45:17.133460"
+                ],
+                [
+                  1,
+                  "2025-11-18T14:52:57.904445"
+                ],
+                [
+                  1,
+                  "2025-11-18T14:53:42.079769"
+                ],
+                [
+                  1,
+                  "2025-11-18T14:55:52.917272"
+                ],
+                [
+                  5,
+                  "2025-11-18T22:32:20.997611"
+                ],
+                [
+                  5,
+                  "2025-11-18T23:54:50.695478"
+                ],
+                [
+                  3,
+                  "2025-11-19T01:39:59.831566"
+                ],
+                [
+                  5,
+                  "2025-11-19T07:22:41.513162"
+                ]
+              ],
+              "created_utc": 1763504233.0,
+              "depth": 2,
+              "permalink": "/r/cybersecurity/comments/1p0owr5/i_have_3_months_to_learn_about_cyber_security_and/npkjl7e/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": [
+                {
+                  "id": "npkmdfw",
+                  "parent_id": "t1_npkjl7e",
+                  "author": "hyunchris",
+                  "text_history": [
+                    [
+                      "I am confused,  you hire kids with a cybersecurity degree because they learned soft skills? What Bachelors in Cybersecurity has a class in \"how to brief executives?\" That stuff comes from work experience not degrees. Those things are learned on the job.",
+                      "2025-11-18T14:34:58.880500"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      1,
+                      "2025-11-18T14:34:58.880500"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T14:43:23.728888"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T14:45:17.133460"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T14:52:57.904445"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T14:53:42.079769"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T14:55:52.917272"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T22:32:20.997611"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T23:54:50.695478"
+                    ],
+                    [
+                      1,
+                      "2025-11-19T01:39:59.831566"
+                    ],
+                    [
+                      1,
+                      "2025-11-19T07:22:41.513162"
+                    ]
+                  ],
+                  "created_utc": 1763505133.0,
+                  "depth": 3,
+                  "permalink": "/r/cybersecurity/comments/1p0owr5/i_have_3_months_to_learn_about_cyber_security_and/npkmdfw/",
+                  "is_submitter": false,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": [
+                    {
+                      "id": "npkp6sa",
+                      "parent_id": "t1_npkmdfw",
+                      "author": "cyberguy2369",
+                      "text_history": [
+                        [
+                          "No, I’m not hiring CS/cyber grads because they magically learned “how to brief executives” in a class. I’m hiring them because a 4-year program builds the foundational skills that eventually make someone capable of briefing executives.\n\nPeople underestimate what college actually develops:\n\n\\- You learn to work with all kinds of people, group projects, labs, presentations.  \n\\- learn to push through assignments you think are pointless but are required, every job has a ton of that.  \n\\-  learn to show up prepared, on time, and deliver something you’ve been accountable for.  \n\\-  learn how to research, write, organize thoughts, and present ideas clearly.  \n\\- learn long-term discipline, sticking with something hard for four years.  \n\\- get exposure to networking, scripting, OS concepts, systems, security fundamentals, the stuff real cyber actually sits on top of.\n\nNone of that comes from rushing through certs at home. A cert is a slice of knowledge. A degree provides the structure and depth that lets someone grow.\n\nYou’re right that “how to brief executives” isn’t a course. But the underlying skills, communication, writing, presenting, collaborating, thinking critically under pressure, are learned in everything from English to biology labs to group projects to the presentations students have to give throughout a degree program. That experience stacks up.\n\nAnd yes, some of those skills come from work experience. But here’s the actual hiring reality:\n\nIf I have a stack of 300 applicants and only one slot, why would I pick the person with less training, less breadth, and less proven discipline over someone with more?\n\nI’m not just hiring for an entry-level SOC seat. (most of those jobs are over seas now, the ones here competition is really tough)  \n  \nI’m hiring someone I can invest in for 3–5 years (minimum), hopefully 5-8yrs, someone who can grow, lead, communicate, present, and eventually take on real responsibility.   \n  \nA three-month sprint of home labs and certs doesn’t demonstrate that. A solid degree + relevant certs + internships or projects absolutely does.\n\nPretending formal education adds nothing is just not how hiring works in the environments where the strongest teams operate.. or in a highly competitive market like we're in now.",
+                          "2025-11-18T14:52:57.904445"
+                        ]
+                      ],
+                      "score_history": [
+                        [
+                          1,
+                          "2025-11-18T14:52:57.904445"
+                        ],
+                        [
+                          1,
+                          "2025-11-18T14:53:42.079769"
+                        ],
+                        [
+                          1,
+                          "2025-11-18T14:55:52.917272"
+                        ],
+                        [
+                          5,
+                          "2025-11-18T22:32:20.997611"
+                        ],
+                        [
+                          4,
+                          "2025-11-18T23:54:50.695478"
+                        ],
+                        [
+                          5,
+                          "2025-11-19T01:39:59.831566"
+                        ],
+                        [
+                          6,
+                          "2025-11-19T07:22:41.513162"
+                        ]
+                      ],
+                      "created_utc": 1763506063.0,
+                      "depth": 4,
+                      "permalink": "/r/cybersecurity/comments/1p0owr5/i_have_3_months_to_learn_about_cyber_security_and/npkp6sa/",
+                      "is_submitter": false,
+                      "controversiality": 0,
+                      "gilded": 0,
+                      "edited": false,
+                      "deleted": false,
+                      "deleted_at": null,
+                      "replies": [
+                        {
+                          "id": "npkx4r5",
+                          "parent_id": "t1_npkp6sa",
+                          "author": "hyunchris",
+                          "text_history": [
+                            [
+                              "Understandable, for clarification,  what about someone with formal education in another discipline and IT knowledge through certs?. I ask this because I have a bachelor of arts and two masters degrees, all outside of the IT realm. However, I do have my CompTIA trifecta, which got me working IT help desk for the last 2 years, and am technically on the security team. I oversee our Rapid7 products, for example if a report needs to be pulled from insughtVM thats my job, we have a mssp watching over as our SOC,  but am sometimes frustrated that 95% of my workload is general helpdesk, fixing computers, printers, etc. I want to pivot to real security work because now it's just trying to fit time in between tickets to learn security (also my title is helpdesk and i get paid like it). Just wondering if having my formal education outside cybersecurity is a strike against me if I ever attempt to leave to grow elsewhere (don't want to, but noone really knows what the future holds.)\n\nThanks for conversing with me about this.",
+                              "2025-11-18T22:32:20.997611"
+                            ]
+                          ],
+                          "score_history": [
+                            [
+                              1,
+                              "2025-11-18T22:32:20.997611"
+                            ],
+                            [
+                              1,
+                              "2025-11-18T23:54:50.695478"
+                            ],
+                            [
+                              1,
+                              "2025-11-19T01:39:59.831566"
+                            ],
+                            [
+                              1,
+                              "2025-11-19T07:22:41.513162"
+                            ]
+                          ],
+                          "created_utc": 1763508813.0,
+                          "depth": 5,
+                          "permalink": "/r/cybersecurity/comments/1p0owr5/i_have_3_months_to_learn_about_cyber_security_and/npkx4r5/",
+                          "is_submitter": false,
+                          "controversiality": 0,
+                          "gilded": 0,
+                          "edited": false,
+                          "deleted": false,
+                          "deleted_at": null,
+                          "replies": [
+                            {
+                              "id": "npl0oln",
+                              "parent_id": "t1_npkx4r5",
+                              "author": "cyberguy2369",
+                              "text_history": [
+                                [
+                                  "youve got your foot in the door.. so thats a good start. you do have a degree and learned the soft skills.. with help desk work you are in a place to learn more. This could have been done 3-5 yrs ago.. these days it's harder to do or take your approach.. not impossible but harder to get your foot in the door. \n\nnow that you're there you want to move up. (perfectly reasonable)\n\na few things:  \n\\- have you spoken to your management about your career path? what do they think? what do they suggest?   \n\\- do you spend any of your free time learning anything new or doing anything technical? does any of that build skills that could help you move up? have you spoken to management about what skills would benefit your career advancement?   \n\\- do you do any networking at all in the tech world in your community?",
+                                  "2025-11-18T22:32:20.997611"
+                                ]
+                              ],
+                              "score_history": [
+                                [
+                                  1,
+                                  "2025-11-18T22:32:20.997611"
+                                ],
+                                [
+                                  1,
+                                  "2025-11-18T23:54:50.695478"
+                                ],
+                                [
+                                  1,
+                                  "2025-11-19T01:39:59.831566"
+                                ],
+                                [
+                                  1,
+                                  "2025-11-19T07:22:41.513162"
+                                ]
+                              ],
+                              "created_utc": 1763510083.0,
+                              "depth": 6,
+                              "permalink": "/r/cybersecurity/comments/1p0owr5/i_have_3_months_to_learn_about_cyber_security_and/npl0oln/",
+                              "is_submitter": false,
+                              "controversiality": 0,
+                              "gilded": 0,
+                              "edited": false,
+                              "deleted": false,
+                              "deleted_at": null,
+                              "replies": [
+                                {
+                                  "id": "npl5shi",
+                                  "parent_id": "t1_npl0oln",
+                                  "author": "hyunchris",
+                                  "text_history": [
+                                    [
+                                      "I have spoken to mgmt, which is why I have some small security duties. I plan on bringing it up again during reviews, which should be any day now.\n\nI built a homelab with security onion, Metasploit, etc.\n\nNetworking is not my strong suit, I am on the asd spectrum (formally diagnosed, not self diagnosed) but I love people and am willing to stretch myself and learn. Despite my diagnosis I have strong people skills and was actually in sales before.  Any auggestions on how to start finding people in my area to network would be very welcome. I don't really know where to start.",
+                                      "2025-11-18T22:32:20.997611"
+                                    ]
+                                  ],
+                                  "score_history": [
+                                    [
+                                      1,
+                                      "2025-11-18T22:32:20.997611"
+                                    ],
+                                    [
+                                      1,
+                                      "2025-11-18T23:54:50.695478"
+                                    ],
+                                    [
+                                      1,
+                                      "2025-11-19T01:39:59.831566"
+                                    ],
+                                    [
+                                      1,
+                                      "2025-11-19T07:22:41.513162"
+                                    ]
+                                  ],
+                                  "created_utc": 1763511876.0,
+                                  "depth": 7,
+                                  "permalink": "/r/cybersecurity/comments/1p0owr5/i_have_3_months_to_learn_about_cyber_security_and/npl5shi/",
+                                  "is_submitter": false,
+                                  "controversiality": 0,
+                                  "gilded": 0,
+                                  "edited": false,
+                                  "deleted": false,
+                                  "deleted_at": null,
+                                  "replies": []
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T07:22:41.513162",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/cybersecurity/comments/1p0owr5/i_have_3_months_to_learn_about_cyber_security_and/",
+    "total_comments": 31,
+    "top_level_comments": 20,
+    "api_requests": 1,
+    "expected_comments": 31,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 12,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_142152.json",
+      "scrape_002_20251118_143205.json",
+      "scrape_003_20251118_143458.json",
+      "scrape_004_20251118_144323.json",
+      "scrape_005_20251118_144516.json",
+      "scrape_006_20251118_145257.json",
+      "scrape_007_20251118_145341.json",
+      "scrape_008_20251118_145552.json",
+      "scrape_009_20251118_223220.json",
+      "scrape_010_20251118_235450.json",
+      "scrape_011_20251119_013959.json",
+      "scrape_012_20251119_072241.json"
+    ]
+  }
+}

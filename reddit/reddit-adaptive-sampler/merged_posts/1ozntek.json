@@ -1,0 +1,187 @@
+{
+  "post": {
+    "id": "1ozntek",
+    "title": "I have been working as a tinyML/EdgeAI engineer and I am feeling very demotivated. Lot of use cases, but also lot of challenges and no real value. Do you have the same feelings?",
+    "author": "sigrilfords",
+    "score_history": [
+      [
+        6,
+        "2025-11-18T13:48:40.234671"
+      ],
+      [
+        4,
+        "2025-11-18T13:59:39.131628"
+      ],
+      [
+        6,
+        "2025-11-18T14:10:51.625437"
+      ]
+    ],
+    "created_utc": 1763403502.0,
+    "num_comments": 4,
+    "subreddit": "MLQuestions",
+    "url": "https://www.reddit.com/r/MLQuestions/comments/1ozntek/i_have_been_working_as_a_tinymledgeai_engineer/",
+    "selftext": "\nHi everyone, I am writing this post to gather some feedback from the community and share my experience, hoping that you can give me some hope or at least a little morale boost.\n\nI have been working as a tinyML engineer for a couple of years now. I mainly target small ARM based microcontrollers (with and without NPUs) and provide basic consultancy to customers on how to implement tinyML models and solutions. Customers I work with are in general producers of consumer goods or industrial machinery, so no automotive or military customers. \n\nI was hired by my company to support tinyML activities with such customers, given a rise in interest also boosted by the hype around AI. Being a small company we don’t have a structured team fully dedicated to machine learning, since the core focus of the company is mainly on hardware design, and at the moment the tinyML team is made just by me and another guy. We take care of building proof of concepts and supporting customers during the actual model development/deployment phases.\n\nDuring my experience on the field I came  across a lot of different use cases, and when I say a lot, I mean really a lot possibilities involving all the sensors you might think of. What is more common on the field is the need for models that can process in real time the data coming from several sensors, both for classification and for regression problems. Almost every project is backed up by the right premises and great ideas. \n\nHowever, there is a huge bottleneck where almost all projects stops at: the lack of data. Since tinyML projects are often extremely specific, there is almost never some data available, so it must be collected directly. Data collection is long and frustrating, and most importantly it costs money. Everyone would like to add a microphone inside their machine to detect anomalies and indicate which mechanical part is failing, but nobody wants to collect hundreds of hours of data, just to implement a feature which, at the end of the day, is considered a nice-to-have.\n\nIn other words, tinyML models would be great if they didn’t come with the effort they require. \n\nAnd I am not even mentioning unrealistic expectations like customers asking for models which never fail, or customers asking us to train neural networks with 50 samples collected who knows how.\n\nMoreover, even when there is data, fitting such small models is complex and performance is a big question mark. I have seen models failing for unknown reasons, together with countless nice demos which are practically impossible to bring to real products because the data collection is not feasible or because reliability can not be assessed.\n\nI am feeling very demotivated right now, and I am seriously considering switching to classical software engineering.\n\nDo you have the same feelings? Have you ever seen some concrete, real-world examples of very specific custom tinyML projects working? And do you have any advice on how to approach the challenges? Maybe I am doing it wrong. Any comment is appreciated!\n\n\n\n\n",
+    "permalink": "/r/MLQuestions/comments/1ozntek/i_have_been_working_as_a_tinymledgeai_engineer/"
+  },
+  "comments": [
+    {
+      "id": "npdgbjv",
+      "parent_id": "t3_1ozntek",
+      "author": "rolyantrauts",
+      "text_history": [
+        [
+          "On device training and data capture, as yes data is a big catch-22 but its very possible to ship with models that through data acquisition gain accuracy of time.  \nI have been banging on about this with the HomeAssistant Voice team who seem to ignore the data captured by the device of use is always the most accurate.  \nThat is why on-device data capture is so important and initial datasets are merely initial dev work tools.",
+          "2025-11-18T13:48:40.234671"
+        ]
+      ],
+      "score_history": [
+        [
+          3,
+          "2025-11-18T13:48:40.234671"
+        ],
+        [
+          3,
+          "2025-11-18T13:59:39.131628"
+        ],
+        [
+          3,
+          "2025-11-18T14:10:51.625437"
+        ]
+      ],
+      "created_utc": 1763410072.0,
+      "depth": 0,
+      "permalink": "/r/MLQuestions/comments/1ozntek/i_have_been_working_as_a_tinymledgeai_engineer/npdgbjv/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npdpg1v",
+          "parent_id": "t1_npdgbjv",
+          "author": "sigrilfords",
+          "text_history": [
+            [
+              "Collecting realistic on-device data is often the only way to get something viable for building an effective model, I totally agree with you. \nHowever, a big issue i found in automated on-device data collection is data labeling, especially if difficult sensors are involved (like radar, its signal can’t be interpreted by humans and it’s very difficult to label data collected from it afterwards). In general, especially in consumer devices, manufacturers work to save every cent, and asking them to spend money and include a sensor on their product just to let end users collect data (how?) in the hope of getting an effective ML model is unrealistic… \nMaybe with sensors like cameras and microphones is easier since humans can be used to process data afterwards and label it, but there are a lot of use cases where this is not feasible due to the nature of data itself. In my experience this is a very open problem without an effective solution yet.",
+              "2025-11-18T13:48:40.234671"
+            ]
+          ],
+          "score_history": [
+            [
+              3,
+              "2025-11-18T13:48:40.234671"
+            ],
+            [
+              3,
+              "2025-11-18T13:59:39.131628"
+            ],
+            [
+              3,
+              "2025-11-18T14:10:51.625437"
+            ]
+          ],
+          "created_utc": 1763412848.0,
+          "depth": 1,
+          "permalink": "/r/MLQuestions/comments/1ozntek/i_have_been_working_as_a_tinymledgeai_engineer/npdpg1v/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npgk406",
+      "parent_id": "t3_1ozntek",
+      "author": "niyete-deusa",
+      "text_history": [
+        [
+          "What we do in my company is use physics simulation models to create virtual sensors to generate data. Of course the simulated data are very curated so that creates some other problems when deploying to the actual field but in most cases you are able to generate months worth of data in a few hours or days. \n\nThis is especially useful for anomaly / fault detection where you cannot break your machine/sensor or whatever multiple times to get real data.\n\nJust some food for thought",
+          "2025-11-18T13:48:40.234671"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T13:48:40.234671"
+        ],
+        [
+          1,
+          "2025-11-18T13:59:39.131628"
+        ],
+        [
+          1,
+          "2025-11-18T14:10:51.625437"
+        ]
+      ],
+      "created_utc": 1763452763.0,
+      "depth": 0,
+      "permalink": "/r/MLQuestions/comments/1ozntek/i_have_been_working_as_a_tinymledgeai_engineer/npgk406/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npgp1tw",
+          "parent_id": "t1_npgk406",
+          "author": "smarkman19",
+          "text_history": [
+            [
+              "Sim data can work for anomaly detection if you treat the sim-to-real gap as the main project. Build a simple digital twin, seed it with a small real “healthy” set, and tune until PSD, crest factor, and SNR match; then domain‑randomize load, temp, mounting, and inject sensor issues (clipping, DC offset, drift, jitter, quantization). Generate fault modes via parameter sweeps (imbalance, misalignment, bearing spalls with sidebands). \n\nTrain a self‑supervised rep or one‑class model on healthy sim, fine‑tune with a few minutes of real. On‑device, stick to band energies/MFCCs + tiny 1D‑CNN or EWMA z‑score, do QAT, and run HIL before rollout; ship “logger mode” first to gather field data. We’ve used MATLAB/Simulink and ROS2 for HIL with TimescaleDB, and DreamFactory to expose read‑only RBAC APIs for downstream teams.",
+              "2025-11-18T13:48:40.234671"
+            ]
+          ],
+          "score_history": [
+            [
+              2,
+              "2025-11-18T13:48:40.234671"
+            ],
+            [
+              2,
+              "2025-11-18T13:59:39.131628"
+            ],
+            [
+              2,
+              "2025-11-18T14:10:51.625437"
+            ]
+          ],
+          "created_utc": 1763455859.0,
+          "depth": 1,
+          "permalink": "/r/MLQuestions/comments/1ozntek/i_have_been_working_as_a_tinymledgeai_engineer/npgp1tw/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-18T14:10:51.625437",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/MLQuestions/comments/1ozntek/i_have_been_working_as_a_tinymledgeai_engineer/",
+    "total_comments": 4,
+    "top_level_comments": 2,
+    "api_requests": 1,
+    "expected_comments": 4,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_134839.json",
+      "scrape_002_20251118_135938.json",
+      "scrape_003_20251118_141051.json"
+    ]
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "post": {
+    "id": "1oz1cck",
+    "title": "[11/17] How might the advancement of human enhancement technologies influence our perceptions of community and shared identity in the future?",
+    "author": "RealJoshUniverse",
+    "score_history": [
+      [
+        1,
+        "2025-11-19T03:30:39.168644"
+      ],
+      [
+        1,
+        "2025-11-19T03:37:44.433032"
+      ],
+      [
+        1,
+        "2025-11-19T03:39:18.769813"
+      ]
+    ],
+    "created_utc": 1763337642.0,
+    "num_comments": 2,
+    "subreddit": "Transhuman",
+    "url": "https://discord.gg/jrpH2qyjJk",
+    "selftext": "",
+    "permalink": "/r/Transhuman/comments/1oz1cck/1117_how_might_the_advancement_of_human/"
+  },
+  "comments": [
+    {
+      "id": "np8e8c7",
+      "parent_id": "t3_1oz1cck",
+      "author": "AutoModerator",
+      "text_history": [
+        [
+          "Thanks for posting in /r/Transhuman! This post is automatically generated for all posts. Remember to upvote this post if you think it is relevant and suitable content for this sub and to downvote if it is not. Only report posts if they violate community guidelines - Let's democratize our moderation.\nIf you would like to get involved in project groups and upcoming opportunities, fill out our onboarding form here: https://uo5nnx2m4l0.typeform.com/to/cA1KinKJ Let's democratize our moderation. You can join our forums here: https://biohacking.forum/invites/1wQPgxwHkw, our Mastodon server here: https://science.social/ and our Discord server here: https://discord.gg/jrpH2qyjJk\n~ Josh Universe\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Transhuman) if you have any questions or concerns.*",
+          "2025-11-19T03:30:39.168644"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T03:30:39.168644"
+        ],
+        [
+          1,
+          "2025-11-19T03:37:44.433032"
+        ],
+        [
+          1,
+          "2025-11-19T03:39:18.769813"
+        ]
+      ],
+      "created_utc": 1763337642.0,
+      "depth": 0,
+      "permalink": "/r/Transhuman/comments/1oz1cck/1117_how_might_the_advancement_of_human/np8e8c7/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:39:18.769813",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/Transhuman/comments/1oz1cck/1117_how_might_the_advancement_of_human/",
+    "total_comments": 1,
+    "top_level_comments": 1,
+    "api_requests": 1,
+    "expected_comments": 2,
+    "coverage_percent": 50.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_033037.json",
+      "scrape_002_20251119_033742.json",
+      "scrape_003_20251119_033916.json"
+    ]
+  }
+}

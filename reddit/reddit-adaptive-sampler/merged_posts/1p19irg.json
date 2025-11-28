@@ -1,0 +1,129 @@
+{
+  "post": {
+    "id": "1p19irg",
+    "title": "What is an AI-native/AI-First app ?",
+    "author": "reddit-newbie-2023",
+    "score_history": [
+      [
+        1,
+        "2025-11-19T06:44:48.507543"
+      ],
+      [
+        1,
+        "2025-11-19T06:44:48.725593"
+      ],
+      [
+        1,
+        "2025-11-19T06:44:48.956585"
+      ],
+      [
+        1,
+        "2025-11-19T06:44:49.149176"
+      ],
+      [
+        1,
+        "2025-11-19T06:44:49.376884"
+      ],
+      [
+        1,
+        "2025-11-19T06:44:49.600921"
+      ],
+      [
+        1,
+        "2025-11-19T06:44:49.821369"
+      ],
+      [
+        1,
+        "2025-11-19T06:44:50.031025"
+      ],
+      [
+        1,
+        "2025-11-19T06:44:50.293486"
+      ],
+      [
+        1,
+        "2025-11-19T06:44:50.514291"
+      ],
+      [
+        1,
+        "2025-11-19T06:44:50.769341"
+      ],
+      [
+        1,
+        "2025-11-19T06:44:50.976669"
+      ],
+      [
+        1,
+        "2025-11-19T06:44:51.209235"
+      ],
+      [
+        1,
+        "2025-11-19T06:44:51.417966"
+      ],
+      [
+        1,
+        "2025-11-19T06:44:51.662462"
+      ],
+      [
+        1,
+        "2025-11-19T06:44:51.863839"
+      ],
+      [
+        1,
+        "2025-11-19T06:44:52.109714"
+      ],
+      [
+        1,
+        "2025-11-19T06:44:52.310173"
+      ],
+      [
+        1,
+        "2025-11-19T06:44:52.553518"
+      ],
+      [
+        1,
+        "2025-11-19T06:44:52.758632"
+      ]
+    ],
+    "created_utc": 1763563466.0,
+    "num_comments": 0,
+    "subreddit": "Rag",
+    "url": "https://www.reddit.com/r/Rag/comments/1p19irg/what_is_an_ainativeaifirst_app/",
+    "selftext": "Hi Folks -\n\nI am a looking for some clarity on what an \"AI-Native\" or \"AI-First\" application really means.\n\nI see founders and enterprises building wrappers around LLMs and calling themselves AI Products . \n\nHas anyone here had a chance to think deeply about this topic - how do you assess whether a product is worthy of an \"AI-first\" label ? What should be the metrics to judge this ? \n\nJust having a chatbot or AI filling out emails/item descriptions/forms are all features that are essentially LLM wrappers. \n\nPlease share your thoughts or perhaps better examples of what you consider an AI-first product.",
+    "permalink": "/r/Rag/comments/1p19irg/what_is_an_ainativeaifirst_app/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T06:44:52.758632",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/Rag/comments/1p19irg/what_is_an_ainativeaifirst_app/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 20,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_064448.json",
+      "scrape_002_20251119_064448.json",
+      "scrape_003_20251119_064448.json",
+      "scrape_004_20251119_064448.json",
+      "scrape_005_20251119_064449.json",
+      "scrape_006_20251119_064449.json",
+      "scrape_007_20251119_064449.json",
+      "scrape_008_20251119_064449.json",
+      "scrape_009_20251119_064450.json",
+      "scrape_010_20251119_064450.json",
+      "scrape_011_20251119_064450.json",
+      "scrape_012_20251119_064450.json",
+      "scrape_013_20251119_064451.json",
+      "scrape_014_20251119_064451.json",
+      "scrape_015_20251119_064451.json",
+      "scrape_016_20251119_064451.json",
+      "scrape_017_20251119_064451.json",
+      "scrape_018_20251119_064452.json",
+      "scrape_019_20251119_064452.json",
+      "scrape_020_20251119_064452.json"
+    ]
+  }
+}

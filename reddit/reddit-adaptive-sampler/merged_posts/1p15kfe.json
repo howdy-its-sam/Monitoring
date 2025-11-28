@@ -1,0 +1,44 @@
+{
+  "post": {
+    "id": "1p15kfe",
+    "title": "6 Prompting Frameworks I Use for Different Use Cases",
+    "author": "EQ4C",
+    "score_history": [
+      [
+        1,
+        "2025-11-19T03:50:48.955102"
+      ],
+      [
+        1,
+        "2025-11-19T03:59:44.257907"
+      ],
+      [
+        1,
+        "2025-11-19T04:01:57.183858"
+      ]
+    ],
+    "created_utc": 1763552843.0,
+    "num_comments": 0,
+    "subreddit": "PromptEngineering",
+    "url": "https://www.reddit.com/r/PromptEngineering/comments/1p15kfe/6_prompting_frameworks_i_use_for_different_use/",
+    "selftext": "Hey everyone! I've been experimenting with different prompting frameworks and wanted to share what I've learned. These are not just marketing buzzwords, but they genuinely help structure your prompts for better AI outputs.\n\n---\n\n**1. P.A.S. – Problem, Agitate, Solution**\n\n**What it is:** Start by identifying the problem, dig into why it hurts, then present your solution.\n\n**When to use it:** Perfect for persuasive content, sales copy, marketing emails, or any time you need to convince someone to take action. Works great when you want emotional, compelling content.\n\n**Example prompt:**\n\n&gt; I need a landing page headline and subheading for a productivity app. Problem: Professionals waste 2+ hours daily on disorganized tasks. Agitate: This leads to missed deadlines, working late nights, and constant stress that affects their personal life. Solution: Our app uses AI to automatically prioritize and organize tasks in under 5 minutes daily.\n\n---\n\n**2. A.I.D.A. – Attention, Interest, Desire, Action**\n\n**What it is:** The classic marketing funnel – grab attention, build interest, create desire, then push for action.\n\n**When to use it:** Advertisements, product descriptions, email campaigns, or social media posts. Basically anywhere you need to guide someone through a decision-making journey.\n\n**Example prompt:**\n\n&gt; Write a Facebook ad for noise-canceling headphones. Attention: Hook them with \"Still working from your noisy living room?\" Interest: Explain how active noise cancellation creates a private workspace anywhere. Desire: Paint a picture of them in complete focus, productivity soaring, stress melting away. Action: End with a limited-time 30% discount code and \"Shop Now\" CTA.\n\n---\n\n**3. F.A.B. – Features, Advantages, Benefits**\n\n**What it is:** Connect the dots from what something IS (features), to what it DOES (advantages), to what it MEANS for the user (benefits).\n\n**When to use it:** Product descriptions, technical documentation that needs to be user-friendly, comparison content, or when you need to translate specs into real-world value.\n\n**Example prompt:**\n\n&gt; Create a product description for a smartphone. Features: 108MP camera, 5000mAh battery, 120Hz display. Advantages: Takes professional-quality photos in low light, lasts two full days on one charge, scrolling is buttery smooth with no lag. Benefits: Capture perfect memories without carrying extra gear, stop worrying about finding outlets during long days, enjoy a frustration-free experience that makes your phone a joy to use.\n\n---\n\n**4. R.E.A.D. – Research, Extract, Apply, Deliver**\n\n**What it is:** A systematic approach where you gather info, pull out key insights, apply them to your specific context, then present the results.\n\n**When to use it:** Research summaries, competitive analysis, learning new topics, creating reports, or any time you need to synthesize information from multiple sources into actionable insights.\n\n**Example prompt:**\n\n&gt; Help me understand competitor strategies in the meal kit delivery space. Research: Analyze the top 3 competitors' pricing models, target audiences, and unique selling points. Extract: Identify the common patterns and key differentiators. Apply: Suggest how a new entrant focused on keto diets could position themselves. Deliver: Provide a one-page strategic summary with three specific recommendations.\n\n---\n\n**5. G.O.A.T. – Goal, Obstacle, Action, Transformation**\n\n**What it is:** Define where you want to go, identify what's blocking you, outline the steps to overcome it, and describe the end result.\n\n**When to use it:** Personal development content, case studies, storytelling, coaching scenarios, or project planning. Great for narrative-driven content that shows a journey.\n\n**Example prompt:**\n\n&gt; Write a case study about a small business digital transformation. Goal: A local bakery wanted to increase online orders by 300%. Obstacle: They had zero digital presence and the owner was tech-phobic. Action: We implemented a simple Instagram strategy, added online ordering through a no-code platform, and trained staff over 3 months. Transformation: Show how they now get 50+ daily online orders, hired 2 new employees, and the owner confidently manages their digital presence.\n\n---\n\n**6. C.A.R.E. – Content, Action, Result, Emotion**\n\n**What it is:** Present the content/situation, specify the action taken, show the measurable result, and connect it to the emotional impact.\n\n**When to use it:** Testimonials, success stories, before-and-after scenarios, impact reports, or any content where you want to balance data with human connection.\n\n**Example prompt:**\n\n&gt; Create a customer testimonial for a fitness coaching program. Content: Sandra, a 45-year-old who hadn't exercised in 10 years and felt invisible. Action: She joined our 90-day program, worked out 4x weekly, and followed our meal plans. Result: Lost 35 pounds, ran her first 5K, reduced her blood pressure medication. Emotion: End with how she feels confident in her body again, has energy to play with her grandkids, and finally feels like herself.\n\n---\n\n**My take:**\n\nDon't feel like you need to use these rigidly. Sometimes I'll combine them or just use them as a mental checklist. The real value is they force you to think through what you're actually asking for instead of vague \"write me a thing about X\" prompts.\n\nWhat frameworks do you use? Any I'm missing?\n\nFor more free prompts for personal and professional use cases, visit our [prompt collection](https://tools.eq4c.com/).",
+    "permalink": "/r/PromptEngineering/comments/1p15kfe/6_prompting_frameworks_i_use_for_different_use/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T04:01:57.183858",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/PromptEngineering/comments/1p15kfe/6_prompting_frameworks_i_use_for_different_use/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_035048.json",
+      "scrape_002_20251119_035944.json",
+      "scrape_003_20251119_040156.json"
+    ]
+  }
+}

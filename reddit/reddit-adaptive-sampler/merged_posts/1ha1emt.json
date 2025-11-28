@@ -1,0 +1,80 @@
+{
+  "post": {
+    "id": "1ha1emt",
+    "title": "Weekly AI news from 12/2-12/8",
+    "author": "Danny-Reid871",
+    "score_history": [
+      [
+        2,
+        "2025-11-19T02:35:05.339364"
+      ],
+      [
+        2,
+        "2025-11-19T02:44:25.610271"
+      ],
+      [
+        2,
+        "2025-11-19T02:45:45.127857"
+      ]
+    ],
+    "created_utc": 1733717653.0,
+    "num_comments": 1,
+    "subreddit": "ainews",
+    "url": "https://www.reddit.com/r/ainews/comments/1ha1emt/weekly_ai_news_from_122128/",
+    "selftext": "Hey everyone!\n\nThis week has been buzzing with exciting tech news, so here’s a quick roundup:\n\n\n\n* **Amazon &amp; Anthropic's Project Rainier**: Amazon is collaborating with Anthropic to create Project Rainier, a massive AI supercomputer using hundreds of thousands of Trainium chips to enhance AI model training and challenge Nvidia’s dominance.\n* **OpenAI's o1 Model**: OpenAI launched the o1 model, improving reasoning capabilities with faster responses and fewer errors, along with a new $200/month ChatGPT Pro subscription for advanced features.\n* **Clone Robotics' Android**: Clone Robotics unveiled its new \"Android,\" powered by Myofiber artificial muscles for human-level strength and fast contractions, designed for natural interaction.\n* **Microsoft's Copilot Vision**: Microsoft introduced Copilot Vision in Edge, an AI feature that provides context-aware insights and recommendations while browsing, focusing on privacy and security.\n* **Cohere's Rerank 3.5**: Cohere launched Rerank 3.5, enhancing AI search with better reasoning and multilingual support for accurate enterprise data retrieval.\n* **Humane's CosmOS Pivot**: After pivoting from their AI pin, Humane is now focusing on CosmOS, an AI operating system for connected devices, though past software issues raise concerns.\n* **AWS Data Center Redesign**: Amazon Web Services announced a redesign of its data centers to improve efficiency and support generative AI, featuring liquid cooling and renewable energy solutions.\n\nPlus, here are three must-have tools for startups and developers:\n\n\n\n* **Hume.ai 's EVI 2**: A customizable voice intelligence model for real-time, empathic conversations with diverse personalities and accents.\n* **Superads.ai** : A free ad reporting tool that offers quick insights and visual reports to enhance ad performance.\n* **RenderNet**: A tool for creating character-driven images and videos with features like pose control and lip-synced narration in over 25 languages.\n\nI found these updates in various newsletters. like The Rundown, [Linkt.ai](http://Linkt.ai), and more. I’ll be sharing my top picks weekly, so see you next Monday!\n\nP.S. Drop any other news you find in the comments—let’s discuss!",
+    "permalink": "/r/ainews/comments/1ha1emt/weekly_ai_news_from_122128/"
+  },
+  "comments": [
+    {
+      "id": "m17yvip",
+      "parent_id": "t3_1ha1emt",
+      "author": "Jisamaniac",
+      "text_history": [
+        [
+          "Always look forward to these.",
+          "2025-11-19T02:35:05.339364"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:35:05.339364"
+        ],
+        [
+          1,
+          "2025-11-19T02:44:25.610271"
+        ],
+        [
+          1,
+          "2025-11-19T02:45:45.127857"
+        ]
+      ],
+      "created_utc": 1733764778.0,
+      "depth": 0,
+      "permalink": "/r/ainews/comments/1ha1emt/weekly_ai_news_from_122128/m17yvip/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T02:45:45.127857",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/ainews/comments/1ha1emt/weekly_ai_news_from_122128/",
+    "total_comments": 1,
+    "top_level_comments": 1,
+    "api_requests": 1,
+    "expected_comments": 1,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_023505.json",
+      "scrape_002_20251119_024425.json",
+      "scrape_003_20251119_024544.json"
+    ]
+  }
+}

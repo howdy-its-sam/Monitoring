@@ -1,0 +1,2381 @@
+{
+  "post": {
+    "id": "1p0iayb",
+    "title": "Google Antigravity is a cursor clone",
+    "author": "Terminator857",
+    "score_history": [
+      [
+        74,
+        "2025-11-18T13:49:47.611998"
+      ],
+      [
+        77,
+        "2025-11-18T14:00:55.734023"
+      ],
+      [
+        81,
+        "2025-11-18T14:11:26.000577"
+      ],
+      [
+        81,
+        "2025-11-18T14:12:37.507046"
+      ],
+      [
+        84,
+        "2025-11-18T14:21:13.004949"
+      ],
+      [
+        82,
+        "2025-11-18T14:21:50.758302"
+      ],
+      [
+        84,
+        "2025-11-18T14:22:36.353236"
+      ]
+    ],
+    "created_utc": 1763487363.0,
+    "num_comments": 47,
+    "subreddit": "LocalLLaMA",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1p0iayb/google_antigravity_is_a_cursor_clone/",
+    "selftext": "If you love vibe coding: [https://antigravity.google/](https://antigravity.google/)\n\nSupports models other than gemini such as GPT-OSS.  Hopefully we will get instructions for running local models soon.",
+    "permalink": "/r/LocalLLaMA/comments/1p0iayb/google_antigravity_is_a_cursor_clone/"
+  },
+  "comments": [
+    {
+      "id": "npj1aeu",
+      "parent_id": "t3_1p0iayb",
+      "author": "false79",
+      "text_history": [
+        [
+          "https://preview.redd.it/38lzev8fz12g1.png?width=516&amp;format=png&amp;auto=webp&amp;s=97ae6602dd96f0ca724a0b5b5f8e04e3f37701ae\n\nSo far MacOS first impressions = not great.\n\nBeen stuck here, even after a restart + re-authentication.",
+          "2025-11-18T13:49:47.611998"
+        ]
+      ],
+      "score_history": [
+        [
+          37,
+          "2025-11-18T13:49:47.611998"
+        ],
+        [
+          34,
+          "2025-11-18T14:00:55.734023"
+        ],
+        [
+          36,
+          "2025-11-18T14:11:26.000577"
+        ],
+        [
+          33,
+          "2025-11-18T14:12:37.507046"
+        ],
+        [
+          38,
+          "2025-11-18T14:21:13.004949"
+        ],
+        [
+          34,
+          "2025-11-18T14:21:50.758302"
+        ],
+        [
+          39,
+          "2025-11-18T14:22:36.353236"
+        ]
+      ],
+      "created_utc": 1763488087.0,
+      "depth": 0,
+      "permalink": "/r/LocalLLaMA/comments/1p0iayb/google_antigravity_is_a_cursor_clone/npj1aeu/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npj9wwt",
+          "parent_id": "t1_npj1aeu",
+          "author": "Reasonable-Rope-8074",
+          "text_history": [
+            [
+              "There was a problem with authenticating using Workspace accounts.  The problem has been patched and is rolling out.  Worst case, delete app, re-download, re-install, try again.",
+              "2025-11-18T13:49:47.611998"
+            ]
+          ],
+          "score_history": [
+            [
+              14,
+              "2025-11-18T13:49:47.611998"
+            ],
+            [
+              16,
+              "2025-11-18T14:00:55.734023"
+            ],
+            [
+              15,
+              "2025-11-18T14:11:26.000577"
+            ],
+            [
+              15,
+              "2025-11-18T14:12:37.507046"
+            ],
+            [
+              14,
+              "2025-11-18T14:21:13.004949"
+            ],
+            [
+              14,
+              "2025-11-18T14:21:50.758302"
+            ],
+            [
+              13,
+              "2025-11-18T14:22:36.353236"
+            ]
+          ],
+          "created_utc": 1763490561.0,
+          "depth": 1,
+          "permalink": "/r/LocalLLaMA/comments/1p0iayb/google_antigravity_is_a_cursor_clone/npj9wwt/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        },
+        {
+          "id": "npj1jna",
+          "parent_id": "t1_npj1aeu",
+          "author": "Terminator857",
+          "text_history": [
+            [
+              "I've seen other people have same issue.  Worked for me.  I'm on debian linux.",
+              "2025-11-18T13:49:47.611998"
+            ]
+          ],
+          "score_history": [
+            [
+              5,
+              "2025-11-18T13:49:47.611998"
+            ],
+            [
+              5,
+              "2025-11-18T14:00:55.734023"
+            ],
+            [
+              4,
+              "2025-11-18T14:11:26.000577"
+            ],
+            [
+              5,
+              "2025-11-18T14:12:37.507046"
+            ],
+            [
+              4,
+              "2025-11-18T14:21:13.004949"
+            ],
+            [
+              5,
+              "2025-11-18T14:21:50.758302"
+            ],
+            [
+              4,
+              "2025-11-18T14:22:36.353236"
+            ]
+          ],
+          "created_utc": 1763488162.0,
+          "depth": 1,
+          "permalink": "/r/LocalLLaMA/comments/1p0iayb/google_antigravity_is_a_cursor_clone/npj1jna/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npj22rl",
+              "parent_id": "t1_npj1jna",
+              "author": "false79",
+              "text_history": [
+                [
+                  "https://preview.redd.it/phi8e113022g1.png?width=517&amp;format=png&amp;auto=webp&amp;s=c3d8f94d2b0c142185df6b32b3760982c3287626\n\nAhh - I guess I wasn't patient enough after so many minutes this shows up. I guess they are downloading Day 0 Updates (lol)",
+                  "2025-11-18T13:49:47.611998"
+                ]
+              ],
+              "score_history": [
+                [
+                  8,
+                  "2025-11-18T13:49:47.611998"
+                ],
+                [
+                  11,
+                  "2025-11-18T14:00:55.734023"
+                ],
+                [
+                  10,
+                  "2025-11-18T14:11:26.000577"
+                ],
+                [
+                  9,
+                  "2025-11-18T14:12:37.507046"
+                ],
+                [
+                  9,
+                  "2025-11-18T14:21:13.004949"
+                ],
+                [
+                  11,
+                  "2025-11-18T14:21:50.758302"
+                ],
+                [
+                  10,
+                  "2025-11-18T14:22:36.353236"
+                ]
+              ],
+              "created_utc": 1763488314.0,
+              "depth": 2,
+              "permalink": "/r/LocalLLaMA/comments/1p0iayb/google_antigravity_is_a_cursor_clone/npj22rl/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "npkctmn",
+          "parent_id": "t1_npj1aeu",
+          "author": "jesus359_",
+          "text_history": [
+            [
+              "First time as a beta tester?",
+              "2025-11-18T13:49:47.611998"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T13:49:47.611998"
+            ],
+            [
+              1,
+              "2025-11-18T14:00:55.734023"
+            ],
+            [
+              2,
+              "2025-11-18T14:11:26.000577"
+            ],
+            [
+              2,
+              "2025-11-18T14:12:37.507046"
+            ],
+            [
+              2,
+              "2025-11-18T14:21:13.004949"
+            ],
+            [
+              2,
+              "2025-11-18T14:21:50.758302"
+            ],
+            [
+              2,
+              "2025-11-18T14:22:36.353236"
+            ]
+          ],
+          "created_utc": 1763502160.0,
+          "depth": 1,
+          "permalink": "/r/LocalLLaMA/comments/1p0iayb/google_antigravity_is_a_cursor_clone/npkctmn/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npkexk7",
+              "parent_id": "t1_npkctmn",
+              "author": "false79",
+              "text_history": [
+                [
+                  "I'm a long time Google user of all their products. Sometimes you just want to see them hit a home run...\n\n...and I've been waiting for a looooong time.\n\nWhenever they make these announcements, which has been many, they get on first base. And that's the end of that.",
+                  "2025-11-18T14:00:55.734023"
+                ]
+              ],
+              "score_history": [
+                [
+                  2,
+                  "2025-11-18T14:00:55.734023"
+                ],
+                [
+                  3,
+                  "2025-11-18T14:11:26.000577"
+                ],
+                [
+                  3,
+                  "2025-11-18T14:12:37.507046"
+                ],
+                [
+                  3,
+                  "2025-11-18T14:21:13.004949"
+                ],
+                [
+                  3,
+                  "2025-11-18T14:21:50.758302"
+                ],
+                [
+                  3,
+                  "2025-11-18T14:22:36.353236"
+                ]
+              ],
+              "created_utc": 1763502787.0,
+              "depth": 2,
+              "permalink": "/r/LocalLLaMA/comments/1p0iayb/google_antigravity_is_a_cursor_clone/npkexk7/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": [
+                {
+                  "id": "npkg2kn",
+                  "parent_id": "t1_npkexk7",
+                  "author": "jesus359_",
+                  "text_history": [
+                    [
+                      "Honestly, same. \n\nI learned to stop holding my breath. Innovation is not a thing anymore sadly. Monopolies won.",
+                      "2025-11-18T14:00:55.734023"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      2,
+                      "2025-11-18T14:00:55.734023"
+                    ],
+                    [
+                      3,
+                      "2025-11-18T14:11:26.000577"
+                    ],
+                    [
+                      3,
+                      "2025-11-18T14:12:37.507046"
+                    ],
+                    [
+                      3,
+                      "2025-11-18T14:21:13.004949"
+                    ],
+                    [
+                      3,
+                      "2025-11-18T14:21:50.758302"
+                    ],
+                    [
+                      3,
+                      "2025-11-18T14:22:36.353236"
+                    ]
+                  ],
+                  "created_utc": 1763503130.0,
+                  "depth": 3,
+                  "permalink": "/r/LocalLLaMA/comments/1p0iayb/google_antigravity_is_a_cursor_clone/npkg2kn/",
+                  "is_submitter": false,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "npkax4s",
+          "parent_id": "t1_npj1aeu",
+          "author": "Interesting-Type3153",
+          "text_history": [
+            [
+              "got the same bug. close out and this time don’t select “use themes from vscode settings.” If that doesn’t work, just don’t select “use vscode settings” at all.",
+              "2025-11-18T13:49:47.611998"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T13:49:47.611998"
+            ],
+            [
+              1,
+              "2025-11-18T14:00:55.734023"
+            ],
+            [
+              1,
+              "2025-11-18T14:11:26.000577"
+            ],
+            [
+              1,
+              "2025-11-18T14:12:37.507046"
+            ],
+            [
+              1,
+              "2025-11-18T14:21:13.004949"
+            ],
+            [
+              1,
+              "2025-11-18T14:21:50.758302"
+            ],
+            [
+              1,
+              "2025-11-18T14:22:36.353236"
+            ]
+          ],
+          "created_utc": 1763501579.0,
+          "depth": 1,
+          "permalink": "/r/LocalLLaMA/comments/1p0iayb/google_antigravity_is_a_cursor_clone/npkax4s/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npj5u70",
+      "parent_id": "t3_1p0iayb",
+      "author": "false79",
+      "text_history": [
+        [
+          "Like how Google customized IntelliJ IDE, looks like they customzied VS Code\n\nhttps://preview.redd.it/mga6wgl7322g1.png?width=640&amp;format=png&amp;auto=webp&amp;s=b976df2fa2752d03ac9ee20f67857327d7432d73\n\nPretty disappointing though that we are not able to point to a different model (like one I am hosting) other than the ones in the list:",
+          "2025-11-18T13:49:47.611998"
+        ]
+      ],
+      "score_history": [
+        [
+          16,
+          "2025-11-18T13:49:47.611998"
+        ],
+        [
+          17,
+          "2025-11-18T14:00:55.734023"
+        ],
+        [
+          17,
+          "2025-11-18T14:11:26.000577"
+        ],
+        [
+          16,
+          "2025-11-18T14:12:37.507046"
+        ],
+        [
+          18,
+          "2025-11-18T14:21:13.004949"
+        ],
+        [
+          15,
+          "2025-11-18T14:21:50.758302"
+        ],
+        [
+          18,
+          "2025-11-18T14:22:36.353236"
+        ]
+      ],
+      "created_utc": 1763489397.0,
+      "depth": 0,
+      "permalink": "/r/LocalLLaMA/comments/1p0iayb/google_antigravity_is_a_cursor_clone/npj5u70/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npj6l74",
+          "parent_id": "t1_npj5u70",
+          "author": "ResidentPositive4122",
+          "text_history": [
+            [
+              "This is clearly (and assumed with clear ToS) a way for them to collect data (prompts, completions, acceptance rate, etc). They have no reason to allow 3rd party models. They are not trying to build a better IDE, they're trying to collect data. If you're working on public stuff or things that you don't mind getting trained on, it's a win-win.",
+              "2025-11-18T13:49:47.611998"
+            ]
+          ],
+          "score_history": [
+            [
+              28,
+              "2025-11-18T13:49:47.611998"
+            ],
+            [
+              28,
+              "2025-11-18T14:00:55.734023"
+            ],
+            [
+              27,
+              "2025-11-18T14:11:26.000577"
+            ],
+            [
+              33,
+              "2025-11-18T14:12:37.507046"
+            ],
+            [
+              32,
+              "2025-11-18T14:21:13.004949"
+            ],
+            [
+              31,
+              "2025-11-18T14:21:50.758302"
+            ],
+            [
+              30,
+              "2025-11-18T14:22:36.353236"
+            ]
+          ],
+          "created_utc": 1763489613.0,
+          "depth": 1,
+          "permalink": "/r/LocalLLaMA/comments/1p0iayb/google_antigravity_is_a_cursor_clone/npj6l74/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npj813j",
+              "parent_id": "t1_npj6l74",
+              "author": "Terminator857",
+              "text_history": [
+                [
+                  "Yeah, better to use windsurf  / cursor if you want local llm.  I wouldn't be surprised if we get custom API endpoints in a future release.  But honestly if you are vibe coding cli is so much better.",
+                  "2025-11-18T13:49:47.611998"
+                ]
+              ],
+              "score_history": [
+                [
+                  2,
+                  "2025-11-18T13:49:47.611998"
+                ],
+                [
+                  2,
+                  "2025-11-18T14:00:55.734023"
+                ],
+                [
+                  5,
+                  "2025-11-18T14:11:26.000577"
+                ],
+                [
+                  5,
+                  "2025-11-18T14:12:37.507046"
+                ],
+                [
+                  4,
+                  "2025-11-18T14:21:13.004949"
+                ],
+                [
+                  4,
+                  "2025-11-18T14:21:50.758302"
+                ],
+                [
+                  6,
+                  "2025-11-18T14:22:36.353236"
+                ]
+              ],
+              "created_utc": 1763490022.0,
+              "depth": 2,
+              "permalink": "/r/LocalLLaMA/comments/1p0iayb/google_antigravity_is_a_cursor_clone/npj813j/",
+              "is_submitter": true,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": [
+                {
+                  "id": "npjfvo0",
+                  "parent_id": "t1_npj813j",
+                  "author": "x0wl",
+                  "text_history": [
+                    [
+                      "Can you use local LLM with cursor?",
+                      "2025-11-18T13:49:47.611998"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      5,
+                      "2025-11-18T13:49:47.611998"
+                    ],
+                    [
+                      6,
+                      "2025-11-18T14:00:55.734023"
+                    ],
+                    [
+                      5,
+                      "2025-11-18T14:11:26.000577"
+                    ],
+                    [
+                      5,
+                      "2025-11-18T14:12:37.507046"
+                    ],
+                    [
+                      4,
+                      "2025-11-18T14:21:13.004949"
+                    ],
+                    [
+                      4,
+                      "2025-11-18T14:21:50.758302"
+                    ],
+                    [
+                      4,
+                      "2025-11-18T14:22:36.353236"
+                    ]
+                  ],
+                  "created_utc": 1763492274.0,
+                  "depth": 3,
+                  "permalink": "/r/LocalLLaMA/comments/1p0iayb/google_antigravity_is_a_cursor_clone/npjfvo0/",
+                  "is_submitter": false,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": [
+                    {
+                      "id": "npjkdpv",
+                      "parent_id": "t1_npjfvo0",
+                      "author": "Terminator857",
+                      "text_history": [
+                        [
+                          "Yes, but not easy.  [https://www.google.com/search?q=Can+I+use+cursor+with+local+llm](https://www.google.com/search?q=Can+I+use+cursor+with+local+llm)  \n\n[https://youtu.be/BjwPHdBiYbE?si=QF56RoboQ-wSTeTc&amp;t=108](https://youtu.be/BjwPHdBiYbE?si=QF56RoboQ-wSTeTc&amp;t=108)",
+                          "2025-11-18T13:49:47.611998"
+                        ]
+                      ],
+                      "score_history": [
+                        [
+                          3,
+                          "2025-11-18T13:49:47.611998"
+                        ],
+                        [
+                          3,
+                          "2025-11-18T14:00:55.734023"
+                        ],
+                        [
+                          3,
+                          "2025-11-18T14:11:26.000577"
+                        ],
+                        [
+                          3,
+                          "2025-11-18T14:12:37.507046"
+                        ],
+                        [
+                          3,
+                          "2025-11-18T14:21:13.004949"
+                        ],
+                        [
+                          3,
+                          "2025-11-18T14:21:50.758302"
+                        ],
+                        [
+                          3,
+                          "2025-11-18T14:22:36.353236"
+                        ]
+                      ],
+                      "created_utc": 1763493613.0,
+                      "depth": 4,
+                      "permalink": "/r/LocalLLaMA/comments/1p0iayb/google_antigravity_is_a_cursor_clone/npjkdpv/",
+                      "is_submitter": true,
+                      "controversiality": 0,
+                      "gilded": 0,
+                      "edited": false,
+                      "deleted": false,
+                      "deleted_at": null,
+                      "replies": []
+                    },
+                    {
+                      "id": "npjjbwj",
+                      "parent_id": "t1_npjfvo0",
+                      "author": "emsiem22",
+                      "text_history": [
+                        [
+                          "You can, but still through their servers. So yes, but without privacy.",
+                          "2025-11-18T13:49:47.611998"
+                        ]
+                      ],
+                      "score_history": [
+                        [
+                          2,
+                          "2025-11-18T13:49:47.611998"
+                        ],
+                        [
+                          2,
+                          "2025-11-18T14:00:55.734023"
+                        ],
+                        [
+                          2,
+                          "2025-11-18T14:11:26.000577"
+                        ],
+                        [
+                          2,
+                          "2025-11-18T14:12:37.507046"
+                        ],
+                        [
+                          2,
+                          "2025-11-18T14:21:13.004949"
+                        ],
+                        [
+                          2,
+                          "2025-11-18T14:21:50.758302"
+                        ],
+                        [
+                          2,
+                          "2025-11-18T14:22:36.353236"
+                        ]
+                      ],
+                      "created_utc": 1763493298.0,
+                      "depth": 4,
+                      "permalink": "/r/LocalLLaMA/comments/1p0iayb/google_antigravity_is_a_cursor_clone/npjjbwj/",
+                      "is_submitter": false,
+                      "controversiality": 0,
+                      "gilded": 0,
+                      "edited": false,
+                      "deleted": false,
+                      "deleted_at": null,
+                      "replies": [
+                        {
+                          "id": "npk8qdj",
+                          "parent_id": "t1_npjjbwj",
+                          "author": "Caffdy",
+                          "text_history": [
+                            [
+                              "what's the private alternative to these?",
+                              "2025-11-18T13:49:47.611998"
+                            ]
+                          ],
+                          "score_history": [
+                            [
+                              1,
+                              "2025-11-18T13:49:47.611998"
+                            ],
+                            [
+                              1,
+                              "2025-11-18T14:00:55.734023"
+                            ],
+                            [
+                              1,
+                              "2025-11-18T14:11:26.000577"
+                            ],
+                            [
+                              1,
+                              "2025-11-18T14:12:37.507046"
+                            ],
+                            [
+                              1,
+                              "2025-11-18T14:21:13.004949"
+                            ],
+                            [
+                              1,
+                              "2025-11-18T14:21:50.758302"
+                            ],
+                            [
+                              1,
+                              "2025-11-18T14:22:36.353236"
+                            ]
+                          ],
+                          "created_utc": 1763500929.0,
+                          "depth": 5,
+                          "permalink": "/r/LocalLLaMA/comments/1p0iayb/google_antigravity_is_a_cursor_clone/npk8qdj/",
+                          "is_submitter": false,
+                          "controversiality": 0,
+                          "gilded": 0,
+                          "edited": false,
+                          "deleted": false,
+                          "deleted_at": null,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "npjnxjj",
+              "parent_id": "t1_npj6l74",
+              "author": "shaman-warrior",
+              "text_history": [
+                [
+                  "And yet you can choose sonnet 4.5 from their model selector list?",
+                  "2025-11-18T13:49:47.611998"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-18T13:49:47.611998"
+                ],
+                [
+                  1,
+                  "2025-11-18T14:00:55.734023"
+                ],
+                [
+                  1,
+                  "2025-11-18T14:11:26.000577"
+                ],
+                [
+                  1,
+                  "2025-11-18T14:12:37.507046"
+                ],
+                [
+                  1,
+                  "2025-11-18T14:21:13.004949"
+                ],
+                [
+                  1,
+                  "2025-11-18T14:21:50.758302"
+                ],
+                [
+                  1,
+                  "2025-11-18T14:22:36.353236"
+                ]
+              ],
+              "created_utc": 1763494677.0,
+              "depth": 2,
+              "permalink": "/r/LocalLLaMA/comments/1p0iayb/google_antigravity_is_a_cursor_clone/npjnxjj/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "npj5uri",
+          "parent_id": "t1_npj5u70",
+          "author": "false79",
+          "text_history": [
+            [
+              "https://preview.redd.it/iu1f7g4e322g1.png?width=407&amp;format=png&amp;auto=webp&amp;s=dd44e10af45a91d9fab2b045e6650046036f7645",
+              "2025-11-18T13:49:47.611998"
+            ]
+          ],
+          "score_history": [
+            [
+              4,
+              "2025-11-18T13:49:47.611998"
+            ],
+            [
+              4,
+              "2025-11-18T14:00:55.734023"
+            ],
+            [
+              5,
+              "2025-11-18T14:11:26.000577"
+            ],
+            [
+              6,
+              "2025-11-18T14:12:37.507046"
+            ],
+            [
+              5,
+              "2025-11-18T14:21:13.004949"
+            ],
+            [
+              5,
+              "2025-11-18T14:21:50.758302"
+            ],
+            [
+              4,
+              "2025-11-18T14:22:36.353236"
+            ]
+          ],
+          "created_utc": 1763489402.0,
+          "depth": 1,
+          "permalink": "/r/LocalLLaMA/comments/1p0iayb/google_antigravity_is_a_cursor_clone/npj5uri/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        },
+        {
+          "id": "npjhtks",
+          "parent_id": "t1_npj5u70",
+          "author": "Elibroftw",
+          "text_history": [
+            [
+              "They put so much effort into saying how they built this AI first and then added all these components and it just seems like they took a jenga tower down and rebuilt the jenga tower.",
+              "2025-11-18T13:49:47.611998"
+            ]
+          ],
+          "score_history": [
+            [
+              4,
+              "2025-11-18T13:49:47.611998"
+            ],
+            [
+              5,
+              "2025-11-18T14:00:55.734023"
+            ],
+            [
+              4,
+              "2025-11-18T14:11:26.000577"
+            ],
+            [
+              2,
+              "2025-11-18T14:12:37.507046"
+            ],
+            [
+              4,
+              "2025-11-18T14:21:13.004949"
+            ],
+            [
+              4,
+              "2025-11-18T14:21:50.758302"
+            ],
+            [
+              5,
+              "2025-11-18T14:22:36.353236"
+            ]
+          ],
+          "created_utc": 1763492849.0,
+          "depth": 1,
+          "permalink": "/r/LocalLLaMA/comments/1p0iayb/google_antigravity_is_a_cursor_clone/npjhtks/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npjbss3",
+      "parent_id": "t3_1p0iayb",
+      "author": "usernameplshere",
+      "text_history": [
+        [
+          "Isn't this just another VS Code Wrapper with built-in copilot to grab market share for their models/name/IDE? I sometimes wonder why they even launched \"Jules\", never used it, because I never got what I should use it for - but it seems weird to have like 10 different places for coders to work at just from one company.",
+          "2025-11-18T13:49:47.611998"
+        ]
+      ],
+      "score_history": [
+        [
+          13,
+          "2025-11-18T13:49:47.611998"
+        ],
+        [
+          13,
+          "2025-11-18T14:00:55.734023"
+        ],
+        [
+          13,
+          "2025-11-18T14:11:26.000577"
+        ],
+        [
+          13,
+          "2025-11-18T14:12:37.507046"
+        ],
+        [
+          14,
+          "2025-11-18T14:21:13.004949"
+        ],
+        [
+          13,
+          "2025-11-18T14:21:50.758302"
+        ],
+        [
+          14,
+          "2025-11-18T14:22:36.353236"
+        ]
+      ],
+      "created_utc": 1763491102.0,
+      "depth": 0,
+      "permalink": "/r/LocalLLaMA/comments/1p0iayb/google_antigravity_is_a_cursor_clone/npjbss3/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npjp8lo",
+          "parent_id": "t1_npjbss3",
+          "author": "1ncehost",
+          "text_history": [
+            [
+              "Jules is their best agent product. It uses a different orchestrator than gemini cli which is better. It can make new features, push them as PRs to github, and then you act as a code reviewer instead of as a dev. I've used it a fair bit and it is good overall.",
+              "2025-11-18T13:49:47.611998"
+            ]
+          ],
+          "score_history": [
+            [
+              9,
+              "2025-11-18T13:49:47.611998"
+            ],
+            [
+              9,
+              "2025-11-18T14:00:55.734023"
+            ],
+            [
+              8,
+              "2025-11-18T14:11:26.000577"
+            ],
+            [
+              8,
+              "2025-11-18T14:12:37.507046"
+            ],
+            [
+              10,
+              "2025-11-18T14:21:13.004949"
+            ],
+            [
+              8,
+              "2025-11-18T14:21:50.758302"
+            ],
+            [
+              11,
+              "2025-11-18T14:22:36.353236"
+            ]
+          ],
+          "created_utc": 1763495070.0,
+          "depth": 1,
+          "permalink": "/r/LocalLLaMA/comments/1p0iayb/google_antigravity_is_a_cursor_clone/npjp8lo/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npjtscb",
+              "parent_id": "t1_npjp8lo",
+              "author": "usernameplshere",
+              "text_history": [
+                [
+                  "Interesting! Will try it out then, sounds interesting.",
+                  "2025-11-18T13:49:47.611998"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-18T13:49:47.611998"
+                ],
+                [
+                  1,
+                  "2025-11-18T14:00:55.734023"
+                ],
+                [
+                  1,
+                  "2025-11-18T14:11:26.000577"
+                ],
+                [
+                  1,
+                  "2025-11-18T14:12:37.507046"
+                ],
+                [
+                  1,
+                  "2025-11-18T14:21:13.004949"
+                ],
+                [
+                  1,
+                  "2025-11-18T14:21:50.758302"
+                ],
+                [
+                  1,
+                  "2025-11-18T14:22:36.353236"
+                ]
+              ],
+              "created_utc": 1763496432.0,
+              "depth": 2,
+              "permalink": "/r/LocalLLaMA/comments/1p0iayb/google_antigravity_is_a_cursor_clone/npjtscb/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "npjciv3",
+          "parent_id": "t1_npjbss3",
+          "author": "314kabinet",
+          "text_history": [
+            [
+              "It’s literally a vscode fork. DOA.",
+              "2025-11-18T13:49:47.611998"
+            ]
+          ],
+          "score_history": [
+            [
+              -8,
+              "2025-11-18T13:49:47.611998"
+            ],
+            [
+              -8,
+              "2025-11-18T14:00:55.734023"
+            ],
+            [
+              -8,
+              "2025-11-18T14:11:26.000577"
+            ],
+            [
+              -8,
+              "2025-11-18T14:12:37.507046"
+            ],
+            [
+              -9,
+              "2025-11-18T14:21:13.004949"
+            ],
+            [
+              -8,
+              "2025-11-18T14:21:50.758302"
+            ],
+            [
+              -7,
+              "2025-11-18T14:22:36.353236"
+            ]
+          ],
+          "created_utc": 1763491307.0,
+          "depth": 1,
+          "permalink": "/r/LocalLLaMA/comments/1p0iayb/google_antigravity_is_a_cursor_clone/npjciv3/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npjhfb7",
+              "parent_id": "t1_npjciv3",
+              "author": "pm_me_github_repos",
+              "text_history": [
+                [
+                  "You could say the same about Cursor/Windsurf",
+                  "2025-11-18T13:49:47.611998"
+                ]
+              ],
+              "score_history": [
+                [
+                  8,
+                  "2025-11-18T13:49:47.611998"
+                ],
+                [
+                  9,
+                  "2025-11-18T14:00:55.734023"
+                ],
+                [
+                  8,
+                  "2025-11-18T14:11:26.000577"
+                ],
+                [
+                  9,
+                  "2025-11-18T14:12:37.507046"
+                ],
+                [
+                  8,
+                  "2025-11-18T14:21:13.004949"
+                ],
+                [
+                  9,
+                  "2025-11-18T14:21:50.758302"
+                ],
+                [
+                  9,
+                  "2025-11-18T14:22:36.353236"
+                ]
+              ],
+              "created_utc": 1763492732.0,
+              "depth": 2,
+              "permalink": "/r/LocalLLaMA/comments/1p0iayb/google_antigravity_is_a_cursor_clone/npjhfb7/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": [
+                {
+                  "id": "npjhky5",
+                  "parent_id": "t1_npjhfb7",
+                  "author": "314kabinet",
+                  "text_history": [
+                    [
+                      "I do. Anything they can deliver MS can do better in VSCode with how much money they’re pouring into it",
+                      "2025-11-18T13:49:47.611998"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      -3,
+                      "2025-11-18T13:49:47.611998"
+                    ],
+                    [
+                      -3,
+                      "2025-11-18T14:00:55.734023"
+                    ],
+                    [
+                      -3,
+                      "2025-11-18T14:11:26.000577"
+                    ],
+                    [
+                      -3,
+                      "2025-11-18T14:12:37.507046"
+                    ],
+                    [
+                      -3,
+                      "2025-11-18T14:21:13.004949"
+                    ],
+                    [
+                      -3,
+                      "2025-11-18T14:21:50.758302"
+                    ],
+                    [
+                      -3,
+                      "2025-11-18T14:22:36.353236"
+                    ]
+                  ],
+                  "created_utc": 1763492778.0,
+                  "depth": 3,
+                  "permalink": "/r/LocalLLaMA/comments/1p0iayb/google_antigravity_is_a_cursor_clone/npjhky5/",
+                  "is_submitter": false,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": [
+                    {
+                      "id": "npjpa00",
+                      "parent_id": "t1_npjhky5",
+                      "author": "Munkie50",
+                      "text_history": [
+                        [
+                          "The agent mode in VSCode was noticably worse for me compared to Cursor even when using the exact same models.",
+                          "2025-11-18T13:49:47.611998"
+                        ]
+                      ],
+                      "score_history": [
+                        [
+                          1,
+                          "2025-11-18T13:49:47.611998"
+                        ],
+                        [
+                          1,
+                          "2025-11-18T14:00:55.734023"
+                        ],
+                        [
+                          1,
+                          "2025-11-18T14:11:26.000577"
+                        ],
+                        [
+                          1,
+                          "2025-11-18T14:12:37.507046"
+                        ],
+                        [
+                          1,
+                          "2025-11-18T14:21:13.004949"
+                        ],
+                        [
+                          1,
+                          "2025-11-18T14:21:50.758302"
+                        ],
+                        [
+                          1,
+                          "2025-11-18T14:22:36.353236"
+                        ]
+                      ],
+                      "created_utc": 1763495082.0,
+                      "depth": 4,
+                      "permalink": "/r/LocalLLaMA/comments/1p0iayb/google_antigravity_is_a_cursor_clone/npjpa00/",
+                      "is_submitter": false,
+                      "controversiality": 0,
+                      "gilded": 0,
+                      "edited": false,
+                      "deleted": false,
+                      "deleted_at": null,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "npj5qoo",
+      "parent_id": "t3_1p0iayb",
+      "author": "RBozydar",
+      "text_history": [
+        [
+          "It’s rebranded Windsurf",
+          "2025-11-18T13:49:47.611998"
+        ]
+      ],
+      "score_history": [
+        [
+          22,
+          "2025-11-18T13:49:47.611998"
+        ],
+        [
+          23,
+          "2025-11-18T14:00:55.734023"
+        ],
+        [
+          22,
+          "2025-11-18T14:11:26.000577"
+        ],
+        [
+          20,
+          "2025-11-18T14:12:37.507046"
+        ],
+        [
+          21,
+          "2025-11-18T14:21:13.004949"
+        ],
+        [
+          22,
+          "2025-11-18T14:21:50.758302"
+        ],
+        [
+          23,
+          "2025-11-18T14:22:36.353236"
+        ]
+      ],
+      "created_utc": 1763489369.0,
+      "depth": 0,
+      "permalink": "/r/LocalLLaMA/comments/1p0iayb/google_antigravity_is_a_cursor_clone/npj5qoo/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npj7gwy",
+          "parent_id": "t1_npj5qoo",
+          "author": "Terminator857",
+          "text_history": [
+            [
+              "Thanks I should have said windsurf / cursor clone.  I'm not able to edit the subject / title.",
+              "2025-11-18T13:49:47.611998"
+            ]
+          ],
+          "score_history": [
+            [
+              13,
+              "2025-11-18T13:49:47.611998"
+            ],
+            [
+              12,
+              "2025-11-18T14:00:55.734023"
+            ],
+            [
+              9,
+              "2025-11-18T14:11:26.000577"
+            ],
+            [
+              10,
+              "2025-11-18T14:12:37.507046"
+            ],
+            [
+              9,
+              "2025-11-18T14:21:13.004949"
+            ],
+            [
+              11,
+              "2025-11-18T14:21:50.758302"
+            ],
+            [
+              10,
+              "2025-11-18T14:22:36.353236"
+            ]
+          ],
+          "created_utc": 1763489861.0,
+          "depth": 1,
+          "permalink": "/r/LocalLLaMA/comments/1p0iayb/google_antigravity_is_a_cursor_clone/npj7gwy/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npjdat3",
+      "parent_id": "t3_1p0iayb",
+      "author": "lazazael",
+      "text_history": [
+        [
+          "jules projectidx or this?",
+          "2025-11-18T13:49:47.611998"
+        ]
+      ],
+      "score_history": [
+        [
+          3,
+          "2025-11-18T13:49:47.611998"
+        ],
+        [
+          3,
+          "2025-11-18T14:00:55.734023"
+        ],
+        [
+          3,
+          "2025-11-18T14:11:26.000577"
+        ],
+        [
+          3,
+          "2025-11-18T14:12:37.507046"
+        ],
+        [
+          3,
+          "2025-11-18T14:21:13.004949"
+        ],
+        [
+          3,
+          "2025-11-18T14:21:50.758302"
+        ],
+        [
+          3,
+          "2025-11-18T14:22:36.353236"
+        ]
+      ],
+      "created_utc": 1763491530.0,
+      "depth": 0,
+      "permalink": "/r/LocalLLaMA/comments/1p0iayb/google_antigravity_is_a_cursor_clone/npjdat3/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npjisx8",
+          "parent_id": "t1_npjdat3",
+          "author": "Sudden-Lingonberry-8",
+          "text_history": [
+            [
+              "jules still uses old gemini 2.5 unless you pay 125 dolla",
+              "2025-11-18T13:49:47.611998"
+            ]
+          ],
+          "score_history": [
+            [
+              5,
+              "2025-11-18T13:49:47.611998"
+            ],
+            [
+              6,
+              "2025-11-18T14:00:55.734023"
+            ],
+            [
+              6,
+              "2025-11-18T14:11:26.000577"
+            ],
+            [
+              3,
+              "2025-11-18T14:12:37.507046"
+            ],
+            [
+              5,
+              "2025-11-18T14:21:13.004949"
+            ],
+            [
+              5,
+              "2025-11-18T14:21:50.758302"
+            ],
+            [
+              3,
+              "2025-11-18T14:22:36.353236"
+            ]
+          ],
+          "created_utc": 1763493142.0,
+          "depth": 1,
+          "permalink": "/r/LocalLLaMA/comments/1p0iayb/google_antigravity_is_a_cursor_clone/npjisx8/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npjymer",
+      "parent_id": "t3_1p0iayb",
+      "author": "Fuzzy-Scene1592",
+      "text_history": [
+        [
+          "and its horrible. cant even sign in",
+          "2025-11-18T13:49:47.611998"
+        ]
+      ],
+      "score_history": [
+        [
+          4,
+          "2025-11-18T13:49:47.611998"
+        ],
+        [
+          3,
+          "2025-11-18T14:00:55.734023"
+        ],
+        [
+          3,
+          "2025-11-18T14:11:26.000577"
+        ],
+        [
+          3,
+          "2025-11-18T14:12:37.507046"
+        ],
+        [
+          3,
+          "2025-11-18T14:21:13.004949"
+        ],
+        [
+          3,
+          "2025-11-18T14:21:50.758302"
+        ],
+        [
+          3,
+          "2025-11-18T14:22:36.353236"
+        ]
+      ],
+      "created_utc": 1763497910.0,
+      "depth": 0,
+      "permalink": "/r/LocalLLaMA/comments/1p0iayb/google_antigravity_is_a_cursor_clone/npjymer/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npk6r6l",
+      "parent_id": "t3_1p0iayb",
+      "author": "Intelligent-Sorbet30",
+      "text_history": [
+        [
+          "I was stuck on the login screen, but disabling the installation of plugins Antigravity launched imediately.",
+          "2025-11-18T13:49:47.611998"
+        ]
+      ],
+      "score_history": [
+        [
+          3,
+          "2025-11-18T13:49:47.611998"
+        ],
+        [
+          3,
+          "2025-11-18T14:00:55.734023"
+        ],
+        [
+          3,
+          "2025-11-18T14:11:26.000577"
+        ],
+        [
+          3,
+          "2025-11-18T14:12:37.507046"
+        ],
+        [
+          3,
+          "2025-11-18T14:21:13.004949"
+        ],
+        [
+          3,
+          "2025-11-18T14:21:50.758302"
+        ],
+        [
+          3,
+          "2025-11-18T14:22:36.353236"
+        ]
+      ],
+      "created_utc": 1763500342.0,
+      "depth": 0,
+      "permalink": "/r/LocalLLaMA/comments/1p0iayb/google_antigravity_is_a_cursor_clone/npk6r6l/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npk3mpt",
+      "parent_id": "t3_1p0iayb",
+      "author": "Future_Extreme",
+      "text_history": [
+        [
+          "How is privacy policy? All data collected is used to train model? Is there any option to opt out?",
+          "2025-11-18T13:49:47.611998"
+        ]
+      ],
+      "score_history": [
+        [
+          3,
+          "2025-11-18T13:49:47.611998"
+        ],
+        [
+          3,
+          "2025-11-18T14:00:55.734023"
+        ],
+        [
+          3,
+          "2025-11-18T14:11:26.000577"
+        ],
+        [
+          3,
+          "2025-11-18T14:12:37.507046"
+        ],
+        [
+          2,
+          "2025-11-18T14:21:13.004949"
+        ],
+        [
+          2,
+          "2025-11-18T14:21:50.758302"
+        ],
+        [
+          2,
+          "2025-11-18T14:22:36.353236"
+        ]
+      ],
+      "created_utc": 1763499418.0,
+      "depth": 0,
+      "permalink": "/r/LocalLLaMA/comments/1p0iayb/google_antigravity_is_a_cursor_clone/npk3mpt/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": 1763501761.0,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npk9y6x",
+      "parent_id": "t3_1p0iayb",
+      "author": "cac2573",
+      "text_history": [
+        [
+          "Why would you fall for this? They’re just going to add it to the google graveyard",
+          "2025-11-18T13:49:47.611998"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T13:49:47.611998"
+        ],
+        [
+          2,
+          "2025-11-18T14:00:55.734023"
+        ],
+        [
+          2,
+          "2025-11-18T14:11:26.000577"
+        ],
+        [
+          2,
+          "2025-11-18T14:12:37.507046"
+        ],
+        [
+          2,
+          "2025-11-18T14:21:13.004949"
+        ],
+        [
+          2,
+          "2025-11-18T14:21:50.758302"
+        ],
+        [
+          2,
+          "2025-11-18T14:22:36.353236"
+        ]
+      ],
+      "created_utc": 1763501288.0,
+      "depth": 0,
+      "permalink": "/r/LocalLLaMA/comments/1p0iayb/google_antigravity_is_a_cursor_clone/npk9y6x/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npjimfc",
+      "parent_id": "t3_1p0iayb",
+      "author": "Sudden-Lingonberry-8",
+      "text_history": [
+        [
+          "I cannot even authenticate??????\nneither linux mint nor arch works..\nseeing https://antigravity.google/auth-success\nlinux doesn´t understand `antigravity://oauth-success`",
+          "2025-11-18T13:49:47.611998"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T13:49:47.611998"
+        ],
+        [
+          1,
+          "2025-11-18T14:00:55.734023"
+        ],
+        [
+          1,
+          "2025-11-18T14:11:26.000577"
+        ],
+        [
+          1,
+          "2025-11-18T14:12:37.507046"
+        ],
+        [
+          1,
+          "2025-11-18T14:21:13.004949"
+        ],
+        [
+          1,
+          "2025-11-18T14:21:50.758302"
+        ],
+        [
+          1,
+          "2025-11-18T14:22:36.353236"
+        ]
+      ],
+      "created_utc": 1763493088.0,
+      "depth": 0,
+      "permalink": "/r/LocalLLaMA/comments/1p0iayb/google_antigravity_is_a_cursor_clone/npjimfc/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npjjikd",
+          "parent_id": "t1_npjimfc",
+          "author": "Terminator857",
+          "text_history": [
+            [
+              "Are you trying with a personal gmail account or work account?",
+              "2025-11-18T13:49:47.611998"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T13:49:47.611998"
+            ],
+            [
+              1,
+              "2025-11-18T14:00:55.734023"
+            ],
+            [
+              1,
+              "2025-11-18T14:11:26.000577"
+            ],
+            [
+              1,
+              "2025-11-18T14:12:37.507046"
+            ],
+            [
+              1,
+              "2025-11-18T14:21:13.004949"
+            ],
+            [
+              1,
+              "2025-11-18T14:21:50.758302"
+            ],
+            [
+              1,
+              "2025-11-18T14:22:36.353236"
+            ]
+          ],
+          "created_utc": 1763493353.0,
+          "depth": 1,
+          "permalink": "/r/LocalLLaMA/comments/1p0iayb/google_antigravity_is_a_cursor_clone/npjjikd/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": 1763493777.0,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npjjmgb",
+              "parent_id": "t1_npjjikd",
+              "author": "Sudden-Lingonberry-8",
+              "text_history": [
+                [
+                  "personal?",
+                  "2025-11-18T13:49:47.611998"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-18T13:49:47.611998"
+                ],
+                [
+                  1,
+                  "2025-11-18T14:00:55.734023"
+                ],
+                [
+                  1,
+                  "2025-11-18T14:11:26.000577"
+                ],
+                [
+                  1,
+                  "2025-11-18T14:12:37.507046"
+                ],
+                [
+                  1,
+                  "2025-11-18T14:21:13.004949"
+                ],
+                [
+                  1,
+                  "2025-11-18T14:21:50.758302"
+                ],
+                [
+                  1,
+                  "2025-11-18T14:22:36.353236"
+                ]
+              ],
+              "created_utc": 1763493386.0,
+              "depth": 2,
+              "permalink": "/r/LocalLLaMA/comments/1p0iayb/google_antigravity_is_a_cursor_clone/npjjmgb/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": [
+                {
+                  "id": "npjkypn",
+                  "parent_id": "t1_npjjmgb",
+                  "author": "Terminator857",
+                  "text_history": [
+                    [
+                      "personal gmail account",
+                      "2025-11-18T13:49:47.611998"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      1,
+                      "2025-11-18T13:49:47.611998"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T14:00:55.734023"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T14:11:26.000577"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T14:12:37.507046"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T14:21:13.004949"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T14:21:50.758302"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T14:22:36.353236"
+                    ]
+                  ],
+                  "created_utc": 1763493788.0,
+                  "depth": 3,
+                  "permalink": "/r/LocalLLaMA/comments/1p0iayb/google_antigravity_is_a_cursor_clone/npjkypn/",
+                  "is_submitter": true,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": [
+                    {
+                      "id": "npjl2bz",
+                      "parent_id": "t1_npjkypn",
+                      "author": "Sudden-Lingonberry-8",
+                      "text_history": [
+                        [
+                          "yes?",
+                          "2025-11-18T13:49:47.611998"
+                        ]
+                      ],
+                      "score_history": [
+                        [
+                          1,
+                          "2025-11-18T13:49:47.611998"
+                        ],
+                        [
+                          1,
+                          "2025-11-18T14:00:55.734023"
+                        ],
+                        [
+                          1,
+                          "2025-11-18T14:11:26.000577"
+                        ],
+                        [
+                          1,
+                          "2025-11-18T14:12:37.507046"
+                        ],
+                        [
+                          1,
+                          "2025-11-18T14:21:13.004949"
+                        ],
+                        [
+                          1,
+                          "2025-11-18T14:21:50.758302"
+                        ],
+                        [
+                          1,
+                          "2025-11-18T14:22:36.353236"
+                        ]
+                      ],
+                      "created_utc": 1763493818.0,
+                      "depth": 4,
+                      "permalink": "/r/LocalLLaMA/comments/1p0iayb/google_antigravity_is_a_cursor_clone/npjl2bz/",
+                      "is_submitter": false,
+                      "controversiality": 0,
+                      "gilded": 0,
+                      "edited": false,
+                      "deleted": false,
+                      "deleted_at": null,
+                      "replies": []
+                    },
+                    {
+                      "id": "npjljvw",
+                      "parent_id": "t1_npjkypn",
+                      "author": "Sudden-Lingonberry-8",
+                      "text_history": [
+                        [
+                          "Error confirming user for service: Error: HTTP error: 429",
+                          "2025-11-18T13:49:47.611998"
+                        ]
+                      ],
+                      "score_history": [
+                        [
+                          1,
+                          "2025-11-18T13:49:47.611998"
+                        ],
+                        [
+                          1,
+                          "2025-11-18T14:00:55.734023"
+                        ],
+                        [
+                          1,
+                          "2025-11-18T14:11:26.000577"
+                        ],
+                        [
+                          1,
+                          "2025-11-18T14:12:37.507046"
+                        ],
+                        [
+                          1,
+                          "2025-11-18T14:21:13.004949"
+                        ],
+                        [
+                          1,
+                          "2025-11-18T14:21:50.758302"
+                        ],
+                        [
+                          1,
+                          "2025-11-18T14:22:36.353236"
+                        ]
+                      ],
+                      "created_utc": 1763493964.0,
+                      "depth": 4,
+                      "permalink": "/r/LocalLLaMA/comments/1p0iayb/google_antigravity_is_a_cursor_clone/npjljvw/",
+                      "is_submitter": false,
+                      "controversiality": 0,
+                      "gilded": 0,
+                      "edited": false,
+                      "deleted": false,
+                      "deleted_at": null,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "npkfq8k",
+      "parent_id": "t3_1p0iayb",
+      "author": "Careless_Computer112",
+      "text_history": [
+        [
+          "2 requests to the thinking Gemini 3 and already the quota",
+          "2025-11-18T14:00:55.734023"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:00:55.734023"
+        ],
+        [
+          1,
+          "2025-11-18T14:11:26.000577"
+        ],
+        [
+          1,
+          "2025-11-18T14:12:37.507046"
+        ],
+        [
+          1,
+          "2025-11-18T14:21:13.004949"
+        ],
+        [
+          1,
+          "2025-11-18T14:21:50.758302"
+        ],
+        [
+          1,
+          "2025-11-18T14:22:36.353236"
+        ]
+      ],
+      "created_utc": 1763503027.0,
+      "depth": 0,
+      "permalink": "/r/LocalLLaMA/comments/1p0iayb/google_antigravity_is_a_cursor_clone/npkfq8k/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npkhbfv",
+          "parent_id": "t1_npkfq8k",
+          "author": "OGRITHIK",
+          "text_history": [
+            [
+              "Just enter \"continue\" again",
+              "2025-11-18T14:11:26.000577"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T14:11:26.000577"
+            ],
+            [
+              1,
+              "2025-11-18T14:12:37.507046"
+            ],
+            [
+              1,
+              "2025-11-18T14:21:13.004949"
+            ],
+            [
+              1,
+              "2025-11-18T14:21:50.758302"
+            ],
+            [
+              1,
+              "2025-11-18T14:22:36.353236"
+            ]
+          ],
+          "created_utc": 1763503514.0,
+          "depth": 1,
+          "permalink": "/r/LocalLLaMA/comments/1p0iayb/google_antigravity_is_a_cursor_clone/npkhbfv/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npkh9gi",
+      "parent_id": "t3_1p0iayb",
+      "author": "cafedude",
+      "text_history": [
+        [
+          "So they won't let you run Gemini 3 in gemini cli, but they will let you run it in antigravity (without paying)? What's the reasoning there?",
+          "2025-11-18T14:11:26.000577"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:11:26.000577"
+        ],
+        [
+          1,
+          "2025-11-18T14:12:37.507046"
+        ],
+        [
+          1,
+          "2025-11-18T14:21:13.004949"
+        ],
+        [
+          1,
+          "2025-11-18T14:21:50.758302"
+        ],
+        [
+          1,
+          "2025-11-18T14:22:36.353236"
+        ]
+      ],
+      "created_utc": 1763503497.0,
+      "depth": 0,
+      "permalink": "/r/LocalLLaMA/comments/1p0iayb/google_antigravity_is_a_cursor_clone/npkh9gi/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npki2oa",
+      "parent_id": "t3_1p0iayb",
+      "author": "cafedude",
+      "text_history": [
+        [
+          "I keep getting: \"Antigravity server crashed unexpectedly. Please restart to fully restore AI features.\"",
+          "2025-11-18T14:11:26.000577"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:11:26.000577"
+        ],
+        [
+          1,
+          "2025-11-18T14:12:37.507046"
+        ],
+        [
+          1,
+          "2025-11-18T14:21:13.004949"
+        ],
+        [
+          1,
+          "2025-11-18T14:21:50.758302"
+        ],
+        [
+          1,
+          "2025-11-18T14:22:36.353236"
+        ]
+      ],
+      "created_utc": 1763503752.0,
+      "depth": 0,
+      "permalink": "/r/LocalLLaMA/comments/1p0iayb/google_antigravity_is_a_cursor_clone/npki2oa/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npkir8s",
+      "parent_id": "t3_1p0iayb",
+      "author": "CacheConqueror",
+      "text_history": [
+        [
+          "And Cursor is a VS Clone. However, unlike their competitors, their available models perform worse due to their cost-optimizing layer, and limits often change.",
+          "2025-11-18T14:21:13.004949"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:21:13.004949"
+        ],
+        [
+          1,
+          "2025-11-18T14:21:50.758302"
+        ],
+        [
+          1,
+          "2025-11-18T14:22:36.353236"
+        ]
+      ],
+      "created_utc": 1763503967.0,
+      "depth": 0,
+      "permalink": "/r/LocalLLaMA/comments/1p0iayb/google_antigravity_is_a_cursor_clone/npkir8s/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npk203o",
+      "parent_id": "t3_1p0iayb",
+      "author": "Mission_Biscotti3962",
+      "text_history": [
+        [
+          "Maybe a little off-topic, but I wonder if all these cheap vscode clones trying to eat away at vscode itself isn't going to destroy any corporate incentive to open source software moving forward.  \nMicrosoft did an amazing thing with vscode and lsp, and now it's being shamelessly used by commercial competitors.  \nIf I was Microsoft, I would be watching all these clones with raised eyebrows",
+          "2025-11-18T13:49:47.611998"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-18T13:49:47.611998"
+        ],
+        [
+          1,
+          "2025-11-18T14:00:55.734023"
+        ],
+        [
+          1,
+          "2025-11-18T14:11:26.000577"
+        ],
+        [
+          0,
+          "2025-11-18T14:12:37.507046"
+        ],
+        [
+          0,
+          "2025-11-18T14:21:13.004949"
+        ],
+        [
+          0,
+          "2025-11-18T14:21:50.758302"
+        ],
+        [
+          0,
+          "2025-11-18T14:22:36.353236"
+        ]
+      ],
+      "created_utc": 1763498936.0,
+      "depth": 0,
+      "permalink": "/r/LocalLLaMA/comments/1p0iayb/google_antigravity_is_a_cursor_clone/npk203o/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npk2hyo",
+          "parent_id": "t1_npk203o",
+          "author": "Mission_Biscotti3962",
+          "text_history": [
+            [
+              "On the other hand, if Microsoft was against this, they should have picked a different license or something. Anyways, seems like it's the usual people being scummy when money is involved",
+              "2025-11-18T13:49:47.611998"
+            ]
+          ],
+          "score_history": [
+            [
+              2,
+              "2025-11-18T13:49:47.611998"
+            ],
+            [
+              2,
+              "2025-11-18T14:00:55.734023"
+            ],
+            [
+              2,
+              "2025-11-18T14:11:26.000577"
+            ],
+            [
+              2,
+              "2025-11-18T14:12:37.507046"
+            ],
+            [
+              1,
+              "2025-11-18T14:21:13.004949"
+            ],
+            [
+              1,
+              "2025-11-18T14:21:50.758302"
+            ],
+            [
+              1,
+              "2025-11-18T14:22:36.353236"
+            ]
+          ],
+          "created_utc": 1763499084.0,
+          "depth": 1,
+          "permalink": "/r/LocalLLaMA/comments/1p0iayb/google_antigravity_is_a_cursor_clone/npk2hyo/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-18T14:22:36.353236",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/LocalLLaMA/comments/1p0iayb/google_antigravity_is_a_cursor_clone/",
+    "total_comments": 46,
+    "top_level_comments": 15,
+    "api_requests": 1,
+    "expected_comments": 47,
+    "coverage_percent": 97.87,
+    "merged_snapshot_count": 7,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_134947.json",
+      "scrape_002_20251118_140055.json",
+      "scrape_003_20251118_141125.json",
+      "scrape_004_20251118_141237.json",
+      "scrape_005_20251118_142112.json",
+      "scrape_006_20251118_142150.json",
+      "scrape_007_20251118_142235.json"
+    ]
+  }
+}

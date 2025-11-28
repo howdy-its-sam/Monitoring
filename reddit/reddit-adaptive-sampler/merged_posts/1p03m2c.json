@@ -1,0 +1,115 @@
+{
+  "post": {
+    "id": "1p03m2c",
+    "title": "The Hidden Trap of Vibe Coding?",
+    "author": "Spirited-Gold9629",
+    "score_history": [
+      [
+        0,
+        "2025-11-19T03:41:48.429907"
+      ],
+      [
+        0,
+        "2025-11-19T03:48:45.871532"
+      ],
+      [
+        0,
+        "2025-11-19T03:50:18.124998"
+      ]
+    ],
+    "created_utc": 1763443414.0,
+    "num_comments": 2,
+    "subreddit": "ChatGPTCoding",
+    "url": "/r/AIMain/comments/1p03l6i/the_hidden_trap_of_vibe_coding/",
+    "selftext": "",
+    "permalink": "/r/ChatGPTCoding/comments/1p03m2c/the_hidden_trap_of_vibe_coding/"
+  },
+  "comments": [
+    {
+      "id": "npgo100",
+      "parent_id": "t3_1p03m2c",
+      "author": "MarkoMarjamaa",
+      "text_history": [
+        [
+          "Easy. Don't ask it to code something you don't understand. \n\nOr better. Learn it.",
+          "2025-11-19T03:41:48.429907"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T03:41:48.429907"
+        ],
+        [
+          1,
+          "2025-11-19T03:48:45.871532"
+        ],
+        [
+          1,
+          "2025-11-19T03:50:18.124998"
+        ]
+      ],
+      "created_utc": 1763455211.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTCoding/comments/1p03m2c/the_hidden_trap_of_vibe_coding/npgo100/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npj70tl",
+      "parent_id": "t3_1p03m2c",
+      "author": "Inside_Anxiety6143",
+      "text_history": [
+        [
+          "1. How is that a hidden trap? Everyone knows the dangers of using code you don't understand. This equally applies to copy/pasting of Stack Overflow, or even just editing/reusing someone elses code from your same codebase.\n2. AI is actually a great tool for deciphering code you don't understand. You can ask it what each function is doing. You can ask it to give you an overview of the architecture. You can run your changes by it and ask it to review them for you. It gives you a really easy way of getting your feet wet in a codebase you don't understand.",
+          "2025-11-19T03:41:48.429907"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T03:41:48.429907"
+        ],
+        [
+          1,
+          "2025-11-19T03:48:45.871532"
+        ],
+        [
+          1,
+          "2025-11-19T03:50:18.124998"
+        ]
+      ],
+      "created_utc": 1763489736.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTCoding/comments/1p03m2c/the_hidden_trap_of_vibe_coding/npj70tl/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:50:18.124998",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/ChatGPTCoding/comments/1p03m2c/the_hidden_trap_of_vibe_coding/",
+    "total_comments": 2,
+    "top_level_comments": 2,
+    "api_requests": 1,
+    "expected_comments": 2,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_034147.json",
+      "scrape_002_20251119_034845.json",
+      "scrape_003_20251119_035017.json"
+    ]
+  }
+}

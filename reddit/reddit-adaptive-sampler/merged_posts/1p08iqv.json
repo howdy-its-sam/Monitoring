@@ -1,0 +1,293 @@
+{
+  "post": {
+    "id": "1p08iqv",
+    "title": "Resources For Rag Tutorial",
+    "author": "ankitjha20",
+    "score_history": [
+      [
+        5,
+        "2025-11-19T02:55:41.741362"
+      ],
+      [
+        7,
+        "2025-11-19T03:03:39.579492"
+      ],
+      [
+        6,
+        "2025-11-19T03:08:50.986696"
+      ]
+    ],
+    "created_utc": 1763461813.0,
+    "num_comments": 7,
+    "subreddit": "Rag",
+    "url": "https://www.reddit.com/r/Rag/comments/1p08iqv/resources_for_rag_tutorial/",
+    "selftext": "I want to learn RAG in detail with coding examples. So suggest me some free and code courses with free / paid courses where I can learn and switch my job . And also suggest some roadmap and path or GitHub repo that will help me in achieving my goal.\n\nThanks you all...........",
+    "permalink": "/r/Rag/comments/1p08iqv/resources_for_rag_tutorial/"
+  },
+  "comments": [
+    {
+      "id": "npilmqf",
+      "parent_id": "t3_1p08iqv",
+      "author": "CapitalShake3085",
+      "text_history": [
+        [
+          "Hi! 👋\n\nHere’s a GitHub repo that can help you get started with RAG (Retrieval-Augmented Generation) in a practical way:\n\nhttps://github.com/GiovanniPasq/agentic-rag-for-dummies\n\nIt contains useful examples and explanations for beginners. 🙂",
+          "2025-11-19T02:55:41.741362"
+        ]
+      ],
+      "score_history": [
+        [
+          3,
+          "2025-11-19T02:55:41.741362"
+        ],
+        [
+          3,
+          "2025-11-19T03:03:39.579492"
+        ],
+        [
+          3,
+          "2025-11-19T03:08:50.986696"
+        ]
+      ],
+      "created_utc": 1763483476.0,
+      "depth": 0,
+      "permalink": "/r/Rag/comments/1p08iqv/resources_for_rag_tutorial/npilmqf/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": 1763500349.0,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npim7j5",
+          "parent_id": "t1_npilmqf",
+          "author": "ankitjha20",
+          "text_history": [
+            [
+              "Thanks a lot 😊",
+              "2025-11-19T02:55:41.741362"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-19T02:55:41.741362"
+            ],
+            [
+              1,
+              "2025-11-19T03:03:39.579492"
+            ],
+            [
+              1,
+              "2025-11-19T03:08:50.986696"
+            ]
+          ],
+          "created_utc": 1763483648.0,
+          "depth": 1,
+          "permalink": "/r/Rag/comments/1p08iqv/resources_for_rag_tutorial/npim7j5/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npjxpsd",
+      "parent_id": "t3_1p08iqv",
+      "author": "sam7263",
+      "text_history": [
+        [
+          "You could also begin creating your own RAG systems with no code using Kiln AI (https://kiln.tech)",
+          "2025-11-19T02:55:41.741362"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:55:41.741362"
+        ],
+        [
+          1,
+          "2025-11-19T03:03:39.579492"
+        ],
+        [
+          1,
+          "2025-11-19T03:08:50.986696"
+        ]
+      ],
+      "created_utc": 1763497630.0,
+      "depth": 0,
+      "permalink": "/r/Rag/comments/1p08iqv/resources_for_rag_tutorial/npjxpsd/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nph83z9",
+      "parent_id": "t3_1p08iqv",
+      "author": "reddit-newbie-2023",
+      "text_history": [
+        [
+          "Pls go ahead and explore https://ragyfied.com . I am building it so that I can add my study notes and test code here for others to learn as well.",
+          "2025-11-19T02:55:41.741362"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:55:41.741362"
+        ],
+        [
+          1,
+          "2025-11-19T03:03:39.579492"
+        ],
+        [
+          1,
+          "2025-11-19T03:08:50.986696"
+        ]
+      ],
+      "created_utc": 1763466977.0,
+      "depth": 0,
+      "permalink": "/r/Rag/comments/1p08iqv/resources_for_rag_tutorial/nph83z9/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npim5cb",
+          "parent_id": "t1_nph83z9",
+          "author": "ankitjha20",
+          "text_history": [
+            [
+              "Thanks 🙏",
+              "2025-11-19T02:55:41.741362"
+            ]
+          ],
+          "score_history": [
+            [
+              2,
+              "2025-11-19T02:55:41.741362"
+            ],
+            [
+              2,
+              "2025-11-19T03:03:39.579492"
+            ],
+            [
+              2,
+              "2025-11-19T03:08:50.986696"
+            ]
+          ],
+          "created_utc": 1763483629.0,
+          "depth": 1,
+          "permalink": "/r/Rag/comments/1p08iqv/resources_for_rag_tutorial/npim5cb/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        },
+        {
+          "id": "npj011b",
+          "parent_id": "t1_nph83z9",
+          "author": "OkHowMuchIsIt",
+          "text_history": [
+            [
+              "can it fit more ads?",
+              "2025-11-19T02:55:41.741362"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-19T02:55:41.741362"
+            ],
+            [
+              1,
+              "2025-11-19T03:03:39.579492"
+            ],
+            [
+              1,
+              "2025-11-19T03:08:50.986696"
+            ]
+          ],
+          "created_utc": 1763487718.0,
+          "depth": 1,
+          "permalink": "/r/Rag/comments/1p08iqv/resources_for_rag_tutorial/npj011b/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npmjade",
+              "parent_id": "t1_npj011b",
+              "author": "reddit-newbie-2023",
+              "text_history": [
+                [
+                  "feedback taken, have adjusted some of the google auto-ads settings.",
+                  "2025-11-19T02:55:41.741362"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-19T02:55:41.741362"
+                ],
+                [
+                  1,
+                  "2025-11-19T03:03:39.579492"
+                ],
+                [
+                  1,
+                  "2025-11-19T03:08:50.986696"
+                ]
+              ],
+              "created_utc": 1763531209.0,
+              "depth": 2,
+              "permalink": "/r/Rag/comments/1p08iqv/resources_for_rag_tutorial/npmjade/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:08:50.986696",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/Rag/comments/1p08iqv/resources_for_rag_tutorial/",
+    "total_comments": 7,
+    "top_level_comments": 3,
+    "api_requests": 1,
+    "expected_comments": 7,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_025541.json",
+      "scrape_002_20251119_030339.json",
+      "scrape_003_20251119_030850.json"
+    ]
+  }
+}

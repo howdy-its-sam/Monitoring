@@ -1,0 +1,431 @@
+{
+  "post": {
+    "id": "1ou6mjc",
+    "title": "I visualized 8,000+ LLM papers using t-SNE — the earliest “LLM-like” one dates back to 2011",
+    "author": "sjm213",
+    "score_history": [
+      [
+        31,
+        "2025-11-19T02:57:43.288298"
+      ],
+      [
+        32,
+        "2025-11-19T03:06:40.978205"
+      ],
+      [
+        31,
+        "2025-11-19T03:16:12.933860"
+      ]
+    ],
+    "created_utc": 1762859012.0,
+    "num_comments": 13,
+    "subreddit": "LanguageTechnology",
+    "url": "https://www.reddit.com/r/LanguageTechnology/comments/1ou6mjc/i_visualized_8000_llm_papers_using_tsne_the/",
+    "selftext": "I’ve been exploring how research on large language models has evolved over time.\n\nTo do that, I collected around 8,000 papers from arXiv, Hugging Face, and OpenAlex, generated text embeddings from their abstracts, and projected them using t-SNE to visualize topic clusters and trends.\n\nThe visualization (on *awesome-llm-papers.github.io/tsne.html*) shows each paper as a point, with clusters emerging for instruction-tuning, retrieval-augmented generation, agents, evaluation, and other areas.\n\nOne fun detail — the earliest paper that lands near the “LLM” cluster is *“Natural Language Processing (almost) From Scratch”* (2011), which already experiments with multitask learning and shared representations.\n\nI’d love feedback on what else could be visualized — maybe color by year, model type, or region of authorship?",
+    "permalink": "/r/LanguageTechnology/comments/1ou6mjc/i_visualized_8000_llm_papers_using_tsne_the/"
+  },
+  "comments": [
+    {
+      "id": "nob50ai",
+      "parent_id": "t3_1ou6mjc",
+      "author": "sjm213",
+      "text_history": [
+        [
+          "Thank you for feedback! Link: [https://awesome-llm-papers.github.io/tsne-viz.html](https://awesome-llm-papers.github.io/tsne-viz.html)",
+          "2025-11-19T02:57:43.288298"
+        ]
+      ],
+      "score_history": [
+        [
+          7,
+          "2025-11-19T02:57:43.288298"
+        ],
+        [
+          7,
+          "2025-11-19T03:06:40.978205"
+        ],
+        [
+          9,
+          "2025-11-19T03:16:12.933860"
+        ]
+      ],
+      "created_utc": 1762880634.0,
+      "depth": 0,
+      "permalink": "/r/LanguageTechnology/comments/1ou6mjc/i_visualized_8000_llm_papers_using_tsne_the/nob50ai/",
+      "is_submitter": true,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "noeiox1",
+      "parent_id": "t3_1ou6mjc",
+      "author": "LordKemono",
+      "text_history": [
+        [
+          "This is pretty awesome man, specially that mapping feature. But I would have to ask: what do you mean by \"LLM-like\"? Isn't natural language processing way older than 2011? Do you mean like, NLP applied to chatbots?",
+          "2025-11-19T02:57:43.288298"
+        ]
+      ],
+      "score_history": [
+        [
+          6,
+          "2025-11-19T02:57:43.288298"
+        ],
+        [
+          7,
+          "2025-11-19T03:06:40.978205"
+        ],
+        [
+          7,
+          "2025-11-19T03:16:12.933860"
+        ]
+      ],
+      "created_utc": 1762920731.0,
+      "depth": 0,
+      "permalink": "/r/LanguageTechnology/comments/1ou6mjc/i_visualized_8000_llm_papers_using_tsne_the/noeiox1/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "noah5hw",
+      "parent_id": "t3_1ou6mjc",
+      "author": "Grumlyly",
+      "text_history": [
+        [
+          "Very interesting. Can you post the link in comment (for smartphones)?",
+          "2025-11-19T02:57:43.288298"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-19T02:57:43.288298"
+        ],
+        [
+          2,
+          "2025-11-19T03:06:40.978205"
+        ],
+        [
+          2,
+          "2025-11-19T03:16:12.933860"
+        ]
+      ],
+      "created_utc": 1762873580.0,
+      "depth": 0,
+      "permalink": "/r/LanguageTechnology/comments/1ou6mjc/i_visualized_8000_llm_papers_using_tsne_the/noah5hw/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nocexi4",
+      "parent_id": "t3_1ou6mjc",
+      "author": "BeginnerDragon",
+      "text_history": [
+        [
+          "Very fun idea - thanks for sharing!",
+          "2025-11-19T02:57:43.288298"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-19T02:57:43.288298"
+        ],
+        [
+          2,
+          "2025-11-19T03:06:40.978205"
+        ],
+        [
+          2,
+          "2025-11-19T03:16:12.933860"
+        ]
+      ],
+      "created_utc": 1762894385.0,
+      "depth": 0,
+      "permalink": "/r/LanguageTechnology/comments/1ou6mjc/i_visualized_8000_llm_papers_using_tsne_the/nocexi4/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "no9sia9",
+      "parent_id": "t3_1ou6mjc",
+      "author": "HyenaFeisty5823",
+      "text_history": [
+        [
+          "Nice",
+          "2025-11-19T02:57:43.288298"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:57:43.288298"
+        ],
+        [
+          1,
+          "2025-11-19T03:06:40.978205"
+        ],
+        [
+          1,
+          "2025-11-19T03:16:12.933860"
+        ]
+      ],
+      "created_utc": 1762864667.0,
+      "depth": 0,
+      "permalink": "/r/LanguageTechnology/comments/1ou6mjc/i_visualized_8000_llm_papers_using_tsne_the/no9sia9/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "noaqb8d",
+      "parent_id": "t3_1ou6mjc",
+      "author": "Late_Huckleberry850",
+      "text_history": [
+        [
+          "I would love a link!",
+          "2025-11-19T02:57:43.288298"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:57:43.288298"
+        ],
+        [
+          1,
+          "2025-11-19T03:06:40.978205"
+        ],
+        [
+          1,
+          "2025-11-19T03:16:12.933860"
+        ]
+      ],
+      "created_utc": 1762876351.0,
+      "depth": 0,
+      "permalink": "/r/LanguageTechnology/comments/1ou6mjc/i_visualized_8000_llm_papers_using_tsne_the/noaqb8d/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "noh4m92",
+      "parent_id": "t3_1ou6mjc",
+      "author": "natedogg83",
+      "text_history": [
+        [
+          "Very nice idea! But you might want to double check at least one paper. The one that appears to be dated \"1964\" looks like it is actually from 2025 (including paper link and github repo, which I'm pretty sure didn't exist in 1964).",
+          "2025-11-19T02:57:43.288298"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:57:43.288298"
+        ],
+        [
+          1,
+          "2025-11-19T03:06:40.978205"
+        ],
+        [
+          1,
+          "2025-11-19T03:16:12.933860"
+        ]
+      ],
+      "created_utc": 1762963750.0,
+      "depth": 0,
+      "permalink": "/r/LanguageTechnology/comments/1ou6mjc/i_visualized_8000_llm_papers_using_tsne_the/noh4m92/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nojsen1",
+      "parent_id": "t3_1ou6mjc",
+      "author": "Worried_Concept_1353",
+      "text_history": [
+        [
+          "Thanks for sharing awesome work related to LLM",
+          "2025-11-19T02:57:43.288298"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:57:43.288298"
+        ],
+        [
+          1,
+          "2025-11-19T03:06:40.978205"
+        ],
+        [
+          1,
+          "2025-11-19T03:16:12.933860"
+        ]
+      ],
+      "created_utc": 1762993089.0,
+      "depth": 0,
+      "permalink": "/r/LanguageTechnology/comments/1ou6mjc/i_visualized_8000_llm_papers_using_tsne_the/nojsen1/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "noluo08",
+      "parent_id": "t3_1ou6mjc",
+      "author": "Muted_Ad6114",
+      "text_history": [
+        [
+          "I like the idea but one paper is mislabeled as from 1964 when it is 2025",
+          "2025-11-19T02:57:43.288298"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:57:43.288298"
+        ],
+        [
+          1,
+          "2025-11-19T03:06:40.978205"
+        ],
+        [
+          1,
+          "2025-11-19T03:16:12.933860"
+        ]
+      ],
+      "created_utc": 1763026627.0,
+      "depth": 0,
+      "permalink": "/r/LanguageTechnology/comments/1ou6mjc/i_visualized_8000_llm_papers_using_tsne_the/noluo08/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": 1763028393.0,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "nolxhih",
+          "parent_id": "t1_noluo08",
+          "author": "sjm213",
+          "text_history": [
+            [
+              "Good catch! That's the power of visualisation, finding outliers quickly :-) This should be rectified today.",
+              "2025-11-19T02:57:43.288298"
+            ]
+          ],
+          "score_history": [
+            [
+              2,
+              "2025-11-19T02:57:43.288298"
+            ],
+            [
+              2,
+              "2025-11-19T03:06:40.978205"
+            ],
+            [
+              2,
+              "2025-11-19T03:16:12.933860"
+            ]
+          ],
+          "created_utc": 1763028354.0,
+          "depth": 1,
+          "permalink": "/r/LanguageTechnology/comments/1ou6mjc/i_visualized_8000_llm_papers_using_tsne_the/nolxhih/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "np11coa",
+      "parent_id": "t3_1ou6mjc",
+      "author": "drc1728",
+      "text_history": [
+        [
+          "This is an impressive visualization! It really shows the evolution of LLM research and how different threads like instruction-tuning, RAG, and evaluation emerged over time. Coloring by year, model type, or region would definitely add more context and highlight trends. From an enterprise perspective, visualizations like this are also useful for identifying gaps or overlaps in evaluation and agentic AI research, which is something we focus on at CoAgent (coa.dev) when assessing model capabilities and research impact.",
+          "2025-11-19T02:57:43.288298"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:57:43.288298"
+        ],
+        [
+          1,
+          "2025-11-19T03:06:40.978205"
+        ],
+        [
+          1,
+          "2025-11-19T03:16:12.933860"
+        ]
+      ],
+      "created_utc": 1763236048.0,
+      "depth": 0,
+      "permalink": "/r/LanguageTechnology/comments/1ou6mjc/i_visualized_8000_llm_papers_using_tsne_the/np11coa/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:16:12.933860",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/LanguageTechnology/comments/1ou6mjc/i_visualized_8000_llm_papers_using_tsne_the/",
+    "total_comments": 11,
+    "top_level_comments": 10,
+    "api_requests": 1,
+    "expected_comments": 13,
+    "coverage_percent": 84.62,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_025742.json",
+      "scrape_002_20251119_030640.json",
+      "scrape_003_20251119_031612.json"
+    ]
+  }
+}

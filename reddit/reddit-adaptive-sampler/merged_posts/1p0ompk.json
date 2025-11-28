@@ -1,0 +1,316 @@
+{
+  "post": {
+    "id": "1p0ompk",
+    "title": "What’s the real blocker for your company to move to passkeys/FIDO2?",
+    "author": "Kiss-cyber",
+    "score_history": [
+      [
+        1,
+        "2025-11-18T13:48:34.169812"
+      ],
+      [
+        2,
+        "2025-11-18T13:59:57.091325"
+      ],
+      [
+        3,
+        "2025-11-18T14:10:52.120667"
+      ],
+      [
+        3,
+        "2025-11-18T14:12:37.027448"
+      ],
+      [
+        10,
+        "2025-11-18T22:00:01.339506"
+      ],
+      [
+        11,
+        "2025-11-18T23:54:46.619858"
+      ],
+      [
+        11,
+        "2025-11-19T01:18:54.547479"
+      ],
+      [
+        10,
+        "2025-11-19T02:22:50.195865"
+      ]
+    ],
+    "created_utc": 1763501554.0,
+    "num_comments": 6,
+    "subreddit": "cybersecurity",
+    "url": "https://www.reddit.com/r/cybersecurity/comments/1p0ompk/whats_the_real_blocker_for_your_company_to_move/",
+    "selftext": "I noticed a lot of discussions this week around passkeys, but the real question for most companies isn’t the technology, it’s everything around it.\n\nFor those of you working in IAM, SOC or SecEng: what is actually preventing your organisation from adopting phishing-resistant authentication?\n\nIs it:\n- legacy apps?\n- BYOD governance?\n- lack of device trust posture?\n- user onboarding flows?\n- conditional access complexity?\n- pure organisational inertia?\n\nCurious to hear what the real obstacles look like in the field.",
+    "permalink": "/r/cybersecurity/comments/1p0ompk/whats_the_real_blocker_for_your_company_to_move/"
+  },
+  "comments": [
+    {
+      "id": "npkr1xm",
+      "parent_id": "t3_1p0ompk",
+      "author": "xavier19691",
+      "text_history": [
+        [
+          "People",
+          "2025-11-18T22:00:01.339506"
+        ]
+      ],
+      "score_history": [
+        [
+          6,
+          "2025-11-18T22:00:01.339506"
+        ],
+        [
+          8,
+          "2025-11-18T23:54:46.619858"
+        ],
+        [
+          14,
+          "2025-11-19T01:18:54.547479"
+        ],
+        [
+          16,
+          "2025-11-19T02:22:50.195865"
+        ]
+      ],
+      "created_utc": 1763506691.0,
+      "depth": 0,
+      "permalink": "/r/cybersecurity/comments/1p0ompk/whats_the_real_blocker_for_your_company_to_move/npkr1xm/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nplhq5n",
+      "parent_id": "t3_1p0ompk",
+      "author": "Efficient-Mec",
+      "text_history": [
+        [
+          "Internally it’s on my roadmap but when you change the workflow of a 1000 engineers you have to communicate that out well in advance. ",
+          "2025-11-18T22:00:01.339506"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-18T22:00:01.339506"
+        ],
+        [
+          2,
+          "2025-11-18T23:54:46.619858"
+        ],
+        [
+          2,
+          "2025-11-19T01:18:54.547479"
+        ],
+        [
+          2,
+          "2025-11-19T02:22:50.195865"
+        ]
+      ],
+      "created_utc": 1763516138.0,
+      "depth": 0,
+      "permalink": "/r/cybersecurity/comments/1p0ompk/whats_the_real_blocker_for_your_company_to_move/nplhq5n/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npmkh94",
+      "parent_id": "t3_1p0ompk",
+      "author": "128G",
+      "text_history": [
+        [
+          "The higher ups at my former company don’t think they’d ever get breached.",
+          "2025-11-18T22:00:01.339506"
+        ],
+        [
+          "The higher ups at my former company didn’t think they’ll ever get breached.",
+          "2025-11-18T23:54:46.619858"
+        ],
+        [
+          "The higher ups at my former company didn’t believe they’ll ever get breached. They’re too unimportant to be targeted.\n\nTo be fair, they didn’t get breached while I was employed there.",
+          "2025-11-19T02:22:50.195865"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T22:00:01.339506"
+        ],
+        [
+          1,
+          "2025-11-18T23:54:46.619858"
+        ],
+        [
+          2,
+          "2025-11-19T01:18:54.547479"
+        ],
+        [
+          2,
+          "2025-11-19T02:22:50.195865"
+        ]
+      ],
+      "created_utc": 1763531816.0,
+      "depth": 0,
+      "permalink": "/r/cybersecurity/comments/1p0ompk/whats_the_real_blocker_for_your_company_to_move/npmkh94/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": 1763547743.0,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npkeblb",
+      "parent_id": "t3_1p0ompk",
+      "author": "Alduin175",
+      "text_history": [
+        [
+          "This is a great question, Kiss-Cyber.\n\n\nMost of the time it's not the technology, but the people OR the red tape that locks everything down so much, that bringing a new solution in and deploying it requires a lot of, well, lead time.\n\n\nBut if I had to choose from your list, \n* *pure organizational inertia*\n\n\nSometimes it's more complicated and justified, but the truth is underlying infrastructures are too dated to be \"upgraded\" in the conventional sense. \n\n\nJust \"dropping it\" and restarting isn't feasible for orgs at scale. Smaller ones could do it.",
+          "2025-11-18T13:59:57.091325"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T13:59:57.091325"
+        ],
+        [
+          1,
+          "2025-11-18T14:10:52.120667"
+        ],
+        [
+          1,
+          "2025-11-18T14:12:37.027448"
+        ],
+        [
+          2,
+          "2025-11-18T22:00:01.339506"
+        ],
+        [
+          2,
+          "2025-11-18T23:54:46.619858"
+        ],
+        [
+          2,
+          "2025-11-19T01:18:54.547479"
+        ],
+        [
+          2,
+          "2025-11-19T02:22:50.195865"
+        ]
+      ],
+      "created_utc": 1763502605.0,
+      "depth": 0,
+      "permalink": "/r/cybersecurity/comments/1p0ompk/whats_the_real_blocker_for_your_company_to_move/npkeblb/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npmu64h",
+      "parent_id": "t3_1p0ompk",
+      "author": "ForeverYonge",
+      "text_history": [
+        [
+          "We had Yubikeys back in 2016. It’s usually budgets by this point; most corporate auth is now app based with matches/challenges so it’s already decently phishing resistant.",
+          "2025-11-18T23:54:46.619858"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T23:54:46.619858"
+        ],
+        [
+          1,
+          "2025-11-19T01:18:54.547479"
+        ],
+        [
+          1,
+          "2025-11-19T02:22:50.195865"
+        ]
+      ],
+      "created_utc": 1763537208.0,
+      "depth": 0,
+      "permalink": "/r/cybersecurity/comments/1p0ompk/whats_the_real_blocker_for_your_company_to_move/npmu64h/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npmvleh",
+      "parent_id": "t3_1p0ompk",
+      "author": "mapbits",
+      "text_history": [
+        [
+          "Entra shop. User onboarding.100%\n\nWHfB was dead easy, done over a year ago, users love it.\n\nYubikeys... some effort but shaping up to be not too bad with YubiEnroll / Entra pre-provisioning, and worth it for those who need them.\n\nWhat drives me nuts is the user-initiated action required for Authenticator Passkey same device registration - Authenticator needs an ability to seamlessly upgrade users from passwordless / push auth. Registration could and should be as easily enforceable as WHfB enrollment.\n\nNot interested in enabling synchronized passkeys, which requires turning off attestation and AAGUID management - these controls feel like they'll become more important over time...",
+          "2025-11-18T23:54:46.619858"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T23:54:46.619858"
+        ],
+        [
+          1,
+          "2025-11-19T01:18:54.547479"
+        ],
+        [
+          0,
+          "2025-11-19T02:22:50.195865"
+        ]
+      ],
+      "created_utc": 1763538067.0,
+      "depth": 0,
+      "permalink": "/r/cybersecurity/comments/1p0ompk/whats_the_real_blocker_for_your_company_to_move/npmvleh/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T02:22:50.195865",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/cybersecurity/comments/1p0ompk/whats_the_real_blocker_for_your_company_to_move/",
+    "total_comments": 6,
+    "top_level_comments": 6,
+    "api_requests": 1,
+    "expected_comments": 6,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 8,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_134833.json",
+      "scrape_002_20251118_135956.json",
+      "scrape_003_20251118_141051.json",
+      "scrape_004_20251118_141236.json",
+      "scrape_005_20251118_220001.json",
+      "scrape_006_20251118_235446.json",
+      "scrape_007_20251119_011854.json",
+      "scrape_008_20251119_022249.json"
+    ]
+  }
+}

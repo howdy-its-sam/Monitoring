@@ -1,0 +1,44 @@
+{
+  "post": {
+    "id": "1ozhc32",
+    "title": "Last Week in Multimodal RAG",
+    "author": "Vast_Yak_4147",
+    "score_history": [
+      [
+        8,
+        "2025-11-18T14:22:39.267948"
+      ],
+      [
+        6,
+        "2025-11-18T14:32:50.636766"
+      ],
+      [
+        6,
+        "2025-11-18T14:43:15.112561"
+      ]
+    ],
+    "created_utc": 1763388795.0,
+    "num_comments": 0,
+    "subreddit": "Rag",
+    "url": "https://www.reddit.com/r/Rag/comments/1ozhc32/last_week_in_multimodal_rag/",
+    "selftext": "I curate a weekly newsletter on multimodal AI. Here are the RAG-related highlights from this week:\n\n**Meta Omnilingual ASR - Universal Transcription for RAG**  \n• Speech recognition for 1,600+ languages enables universal audio-to-text pipelines.  \n• Open-source model perfect for building multilingual RAG systems.  \n• [Blog Post](https://ai.meta.com/blog/omnilingual-asr-advancing-automatic-speech-recognition/) | [GitHub](https://github.com/facebookresearch/omnilingual-asr)\n\n**Llama-Embed-Nemotron-8B - Universal Text Embeddings**  \n• NVIDIA's embedding model handles multilingual and cross-lingual retrieval tasks.  \n• Optimized for production RAG systems across 100+ languages.  \n• [Paper](https://arxiv.org/abs/2511.07025) | [Hugging Face](https://huggingface.co/nvidia/llama-embed-nemotron-8b)\n\n**OmniVinci - Multimodal Understanding for RAG**  \n• Unifies vision, audio, and language in one embedding space for cross-modal retrieval.  \n• Open-source model enables RAG across mixed media documents.  \n• [GitHub](https://github.com/NVlabs/OmniVinci) | [Paper](https://arxiv.org/abs/2510.15870) | [Model](https://huggingface.co/nvidia/omnivinci)\n\nCheckout the [full newsletter](https://thelivingedge.substack.com/p/multimodal-monday-33-physical-ai?r=12l7fk) for more demos, papers, and resources.",
+    "permalink": "/r/Rag/comments/1ozhc32/last_week_in_multimodal_rag/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-18T14:43:15.112561",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/Rag/comments/1ozhc32/last_week_in_multimodal_rag/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_142239.json",
+      "scrape_002_20251118_143250.json",
+      "scrape_003_20251118_144314.json"
+    ]
+  }
+}

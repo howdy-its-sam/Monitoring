@@ -1,0 +1,129 @@
+{
+  "post": {
+    "id": "1p0f40l",
+    "title": "Is ChatGPT functioning properly for everyone?",
+    "author": "dmitche3",
+    "score_history": [
+      [
+        0,
+        "2025-11-19T02:55:58.324585"
+      ],
+      [
+        0,
+        "2025-11-19T03:06:56.188740"
+      ],
+      [
+        0,
+        "2025-11-19T03:16:13.233744"
+      ],
+      [
+        0,
+        "2025-11-19T07:22:52.058106"
+      ]
+    ],
+    "created_utc": 1763480257.0,
+    "num_comments": 2,
+    "subreddit": "ChatGPTCoding",
+    "url": "https://www.reddit.com/r/ChatGPTCoding/comments/1p0f40l/is_chatgpt_functioning_properly_for_everyone/",
+    "selftext": "I finally got connected after 15+ minutes of suffering the Cloudfare issues. I had finished generating a project last night and I went to test it out. First, there were really bad logic errors, such as references to nonexistent classes. As I kept trying to have it fix the code it started to forget my previous prompts that i had given it yesterday and this morning thus making a total mess out of the project. Finally, it asked me if I wanted XYZ ( it stated my intended objective) word it as I had never stated it and that it was going to make the changes, only to end up with another mess. I told it to regenerate the entire project for the fifth or sixth time and it sent back to asking me what I wanted to generate. It’s crazy. It even showed me prior chats that I hadn’t used in weeks as if it hadn’t a clue of what we had been doing. ",
+    "permalink": "/r/ChatGPTCoding/comments/1p0f40l/is_chatgpt_functioning_properly_for_everyone/"
+  },
+  "comments": [
+    {
+      "id": "npibthq",
+      "parent_id": "t3_1p0f40l",
+      "author": "k2ui",
+      "text_history": [
+        [
+          "It’s due to the cloudflare issues…as you mentioned in your first sentence",
+          "2025-11-19T02:55:58.324585"
+        ]
+      ],
+      "score_history": [
+        [
+          3,
+          "2025-11-19T02:55:58.324585"
+        ],
+        [
+          3,
+          "2025-11-19T03:06:56.188740"
+        ],
+        [
+          3,
+          "2025-11-19T03:16:13.233744"
+        ],
+        [
+          3,
+          "2025-11-19T07:22:52.058106"
+        ]
+      ],
+      "created_utc": 1763480612.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTCoding/comments/1p0f40l/is_chatgpt_functioning_properly_for_everyone/npibthq/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npigme9",
+          "parent_id": "t1_npibthq",
+          "author": "dmitche3",
+          "text_history": [
+            [
+              "I was thinking that so I even asked ChatGPT that. It emphatically denied it. LOL. Obviously, there is no internal self monitoring or self healing in ChatGPT.",
+              "2025-11-19T02:55:58.324585"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-19T02:55:58.324585"
+            ],
+            [
+              1,
+              "2025-11-19T03:06:56.188740"
+            ],
+            [
+              1,
+              "2025-11-19T03:16:13.233744"
+            ],
+            [
+              1,
+              "2025-11-19T07:22:52.058106"
+            ]
+          ],
+          "created_utc": 1763482019.0,
+          "depth": 1,
+          "permalink": "/r/ChatGPTCoding/comments/1p0f40l/is_chatgpt_functioning_properly_for_everyone/npigme9/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T07:22:52.058106",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/ChatGPTCoding/comments/1p0f40l/is_chatgpt_functioning_properly_for_everyone/",
+    "total_comments": 2,
+    "top_level_comments": 1,
+    "api_requests": 1,
+    "expected_comments": 2,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 4,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_025558.json",
+      "scrape_002_20251119_030655.json",
+      "scrape_003_20251119_031612.json",
+      "scrape_004_20251119_072251.json"
+    ]
+  }
+}

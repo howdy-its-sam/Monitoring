@@ -1,0 +1,294 @@
+{
+  "post": {
+    "id": "1p0u9ds",
+    "title": "What does \"7B\" parameters really mean for a model ? Dive deeper.",
+    "author": "reddit-newbie-2023",
+    "score_history": [
+      [
+        13,
+        "2025-11-19T02:55:51.980617"
+      ],
+      [
+        12,
+        "2025-11-19T03:04:58.062969"
+      ],
+      [
+        13,
+        "2025-11-19T03:07:00.917852"
+      ]
+    ],
+    "created_utc": 1763515683.0,
+    "num_comments": 7,
+    "subreddit": "Rag",
+    "url": "https://www.reddit.com/r/Rag/comments/1p0u9ds/what_does_7b_parameters_really_mean_for_a_model/",
+    "selftext": "What does the '7B' on an LLM really mean? This article provides a rigorous breakdown of the Transformer architecture, showing exactly where those billions of parameters come from and how they directly impact VRAM, latency, cost, and concurrency in real-world deployments.\n\n[https://ragyfied.com/articles/what-is-transformer-architecture](https://ragyfied.com/articles/what-is-transformer-architecture)",
+    "permalink": "/r/Rag/comments/1p0u9ds/what_does_7b_parameters_really_mean_for_a_model/"
+  },
+  "comments": [
+    {
+      "id": "nplixfw",
+      "parent_id": "t3_1p0u9ds",
+      "author": "stingraycharles",
+      "text_history": [
+        [
+          "It’s the amount of weights/connections between neurons in a neural network. Saved you a click.\n\nEDIT: for clarity",
+          "2025-11-19T02:55:51.980617"
+        ]
+      ],
+      "score_history": [
+        [
+          13,
+          "2025-11-19T02:55:51.980617"
+        ],
+        [
+          13,
+          "2025-11-19T03:04:58.062969"
+        ],
+        [
+          13,
+          "2025-11-19T03:07:00.917852"
+        ]
+      ],
+      "created_utc": 1763516570.0,
+      "depth": 0,
+      "permalink": "/r/Rag/comments/1p0u9ds/what_does_7b_parameters_really_mean_for_a_model/nplixfw/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": 1763532852.0,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npltmjc",
+          "parent_id": "t1_nplixfw",
+          "author": "DnD_DMK",
+          "text_history": [
+            [
+              "Closer to synapses, no?",
+              "2025-11-19T02:55:51.980617"
+            ]
+          ],
+          "score_history": [
+            [
+              2,
+              "2025-11-19T02:55:51.980617"
+            ],
+            [
+              2,
+              "2025-11-19T03:04:58.062969"
+            ],
+            [
+              2,
+              "2025-11-19T03:07:00.917852"
+            ]
+          ],
+          "created_utc": 1763520394.0,
+          "depth": 1,
+          "permalink": "/r/Rag/comments/1p0u9ds/what_does_7b_parameters_really_mean_for_a_model/npltmjc/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npltz8t",
+              "parent_id": "t1_npltmjc",
+              "author": "stingraycharles",
+              "text_history": [
+                [
+                  "Yes that’s true, it’s the weights not the individual nodes.",
+                  "2025-11-19T02:55:51.980617"
+                ]
+              ],
+              "score_history": [
+                [
+                  5,
+                  "2025-11-19T02:55:51.980617"
+                ],
+                [
+                  5,
+                  "2025-11-19T03:04:58.062969"
+                ],
+                [
+                  4,
+                  "2025-11-19T03:07:00.917852"
+                ]
+              ],
+              "created_utc": 1763520519.0,
+              "depth": 2,
+              "permalink": "/r/Rag/comments/1p0u9ds/what_does_7b_parameters_really_mean_for_a_model/npltz8t/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "npmjcef",
+          "parent_id": "t1_nplixfw",
+          "author": "durable-racoon",
+          "text_history": [
+            [
+              "neurons can have more than 1 parameter though right? like a single feedforward calculation.",
+              "2025-11-19T02:55:51.980617"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-19T02:55:51.980617"
+            ],
+            [
+              1,
+              "2025-11-19T03:04:58.062969"
+            ],
+            [
+              1,
+              "2025-11-19T03:07:00.917852"
+            ]
+          ],
+          "created_utc": 1763531238.0,
+          "depth": 1,
+          "permalink": "/r/Rag/comments/1p0u9ds/what_does_7b_parameters_really_mean_for_a_model/npmjcef/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npmklsw",
+              "parent_id": "t1_npmjcef",
+              "author": "stingraycharles",
+              "text_history": [
+                [
+                  "yes it’s actually the weights between the neurons",
+                  "2025-11-19T02:55:51.980617"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-19T02:55:51.980617"
+                ],
+                [
+                  1,
+                  "2025-11-19T03:04:58.062969"
+                ],
+                [
+                  1,
+                  "2025-11-19T03:07:00.917852"
+                ]
+              ],
+              "created_utc": 1763531880.0,
+              "depth": 2,
+              "permalink": "/r/Rag/comments/1p0u9ds/what_does_7b_parameters_really_mean_for_a_model/npmklsw/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "npmg0zu",
+      "parent_id": "t3_1p0u9ds",
+      "author": "notsoslimshaddy91",
+      "text_history": [
+        [
+          "thank you so much for writing this. i learnt couple of things. please write more. i have bookmarked your site and will read more in future",
+          "2025-11-19T02:55:51.980617"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-19T02:55:51.980617"
+        ],
+        [
+          2,
+          "2025-11-19T03:04:58.062969"
+        ],
+        [
+          2,
+          "2025-11-19T03:07:00.917852"
+        ]
+      ],
+      "created_utc": 1763529614.0,
+      "depth": 0,
+      "permalink": "/r/Rag/comments/1p0u9ds/what_does_7b_parameters_really_mean_for_a_model/npmg0zu/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npmj08g",
+          "parent_id": "t1_npmg0zu",
+          "author": "reddit-newbie-2023",
+          "text_history": [
+            [
+              "I am glad you found it useful. I am learning a lot about GenAI/LLM space as well , so this is just my open notebook. I will be posting more for sure.",
+              "2025-11-19T02:55:51.980617"
+            ]
+          ],
+          "score_history": [
+            [
+              2,
+              "2025-11-19T02:55:51.980617"
+            ],
+            [
+              2,
+              "2025-11-19T03:04:58.062969"
+            ],
+            [
+              2,
+              "2025-11-19T03:07:00.917852"
+            ]
+          ],
+          "created_utc": 1763531067.0,
+          "depth": 1,
+          "permalink": "/r/Rag/comments/1p0u9ds/what_does_7b_parameters_really_mean_for_a_model/npmj08g/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:07:00.917852",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/Rag/comments/1p0u9ds/what_does_7b_parameters_really_mean_for_a_model/",
+    "total_comments": 7,
+    "top_level_comments": 2,
+    "api_requests": 1,
+    "expected_comments": 7,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_025551.json",
+      "scrape_002_20251119_030457.json",
+      "scrape_003_20251119_030700.json"
+    ]
+  }
+}

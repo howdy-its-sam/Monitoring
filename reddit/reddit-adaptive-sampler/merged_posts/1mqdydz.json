@@ -1,0 +1,293 @@
+{
+  "post": {
+    "id": "1mqdydz",
+    "title": "Anyone know how to make useable agents for free? Everything I tried was bad.",
+    "author": "Superb_Awareness_928",
+    "score_history": [
+      [
+        1,
+        "2025-11-18T14:22:38.602207"
+      ],
+      [
+        1,
+        "2025-11-18T14:32:46.474998"
+      ],
+      [
+        1,
+        "2025-11-18T14:42:47.940086"
+      ]
+    ],
+    "created_utc": 1755207118.0,
+    "num_comments": 7,
+    "subreddit": "AutoGPT",
+    "url": "https://www.reddit.com/r/AutoGPT/comments/1mqdydz/anyone_know_how_to_make_useable_agents_for_free/",
+    "selftext": "",
+    "permalink": "/r/AutoGPT/comments/1mqdydz/anyone_know_how_to_make_useable_agents_for_free/"
+  },
+  "comments": [
+    {
+      "id": "n8w8v97",
+      "parent_id": "t3_1mqdydz",
+      "author": "m4g33k",
+      "text_history": [
+        [
+          "n8n has now option to build agents",
+          "2025-11-18T14:22:38.602207"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:22:38.602207"
+        ],
+        [
+          1,
+          "2025-11-18T14:32:46.474998"
+        ],
+        [
+          1,
+          "2025-11-18T14:42:47.940086"
+        ]
+      ],
+      "created_utc": 1755289802.0,
+      "depth": 0,
+      "permalink": "/r/AutoGPT/comments/1mqdydz/anyone_know_how_to_make_useable_agents_for_free/n8w8v97/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "n9n2sli",
+      "parent_id": "t3_1mqdydz",
+      "author": "ntindle",
+      "text_history": [
+        [
+          "You can do it with the AutoGPT platform and ollama",
+          "2025-11-18T14:22:38.602207"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:22:38.602207"
+        ],
+        [
+          1,
+          "2025-11-18T14:32:46.474998"
+        ],
+        [
+          1,
+          "2025-11-18T14:42:47.940086"
+        ]
+      ],
+      "created_utc": 1755655283.0,
+      "depth": 0,
+      "permalink": "/r/AutoGPT/comments/1mqdydz/anyone_know_how_to_make_useable_agents_for_free/n9n2sli/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "n9n2vjq",
+          "parent_id": "t1_n9n2sli",
+          "author": "ntindle",
+          "text_history": [
+            [
+              "You can also pull from the marketplace and get agent from there as inspo and starters",
+              "2025-11-18T14:22:38.602207"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T14:22:38.602207"
+            ],
+            [
+              1,
+              "2025-11-18T14:32:46.474998"
+            ],
+            [
+              1,
+              "2025-11-18T14:42:47.940086"
+            ]
+          ],
+          "created_utc": 1755655311.0,
+          "depth": 1,
+          "permalink": "/r/AutoGPT/comments/1mqdydz/anyone_know_how_to_make_useable_agents_for_free/n9n2vjq/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        },
+        {
+          "id": "nasgr2p",
+          "parent_id": "t1_n9n2sli",
+          "author": "juicel0rdy",
+          "text_history": [
+            [
+              "Show me the way!",
+              "2025-11-18T14:22:38.602207"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T14:22:38.602207"
+            ],
+            [
+              1,
+              "2025-11-18T14:32:46.474998"
+            ],
+            [
+              1,
+              "2025-11-18T14:42:47.940086"
+            ]
+          ],
+          "created_utc": 1756225972.0,
+          "depth": 1,
+          "permalink": "/r/AutoGPT/comments/1mqdydz/anyone_know_how_to_make_useable_agents_for_free/nasgr2p/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "ndhz43o",
+              "parent_id": "t1_nasgr2p",
+              "author": "ntindle",
+              "text_history": [
+                [
+                  "https://docs.agpt.co/platform/getting-started/#running-the-autogpt-platform then \n\nhttps://docs.agpt.co/platform/create-basic-agent/#overview",
+                  "2025-11-18T14:22:38.602207"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-18T14:22:38.602207"
+                ],
+                [
+                  1,
+                  "2025-11-18T14:32:46.474998"
+                ],
+                [
+                  1,
+                  "2025-11-18T14:42:47.940086"
+                ]
+              ],
+              "created_utc": 1757531207.0,
+              "depth": 2,
+              "permalink": "/r/AutoGPT/comments/1mqdydz/anyone_know_how_to_make_useable_agents_for_free/ndhz43o/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": [
+                {
+                  "id": "ndhzbwb",
+                  "parent_id": "t1_ndhz43o",
+                  "author": "juicel0rdy",
+                  "text_history": [
+                    [
+                      "I appreciate you, oh holy DEV of glory",
+                      "2025-11-18T14:22:38.602207"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      1,
+                      "2025-11-18T14:22:38.602207"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T14:32:46.474998"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T14:42:47.940086"
+                    ]
+                  ],
+                  "created_utc": 1757531266.0,
+                  "depth": 3,
+                  "permalink": "/r/AutoGPT/comments/1mqdydz/anyone_know_how_to_make_useable_agents_for_free/ndhzbwb/",
+                  "is_submitter": false,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "nbiof9g",
+      "parent_id": "t3_1mqdydz",
+      "author": "immortalsRv",
+      "text_history": [
+        [
+          "awesome question. here’s a crisp, practical blueprint you can follow—\nthe game plan\n\t1.\tdefine the job\n\t•\twhat should the agent do? (e.g., “research a topic and return a 5-bullet summary”)\n\t•\tconstraints: time, cost, tools it’s allowed to use\n\t•\tsuccess metric: what does “good” look like?\n\t2.\tpick an approach\n\t•\tsingle-shot assistant (simple prompt → answer). great for narrow tasks.\n\t•\ttool-using agent (LLM + functions/APIs). most useful in practice.\n\t•\tmulti-step planner (LLM plans → calls tools → reflects → final answer). use for complex tasks.\n\t3.\tchoose core building blocks\n\t•\tmodel: hosted (e.g., GPTs/Claude) or local (e.g., Llama via Ollama/Transformers).\n\t•\ttools: functions the agent can call (web search, db query, calculator, Slack, etc.).\n\t•\tmemory:\n\t•\tshort-term: the running “scratchpad” within a session.\n\t•\tlong-term: vector DB (FAISS, Chroma, PGVector) for retrieval.\n\t•\tcontrol loop: how the agent decides the next step (reason, pick a tool, stop).\n\t•\tguardrails: allow/deny lists, rate limits, budget, content filters, sandboxing.\n\t4.\timplement the loop (minimal but solid)\n\t•\tsystem prompt = role + rules.\n\t•\tgive the model a JSON schema for your tools (names, args).\n\t•\tparse the model’s “call” and execute the right function.\n\t•\tappend the tool result back into context; repeat until “final”.\n\t5.\ttest + harden\n\t•\tgolden prompts &amp; expected outputs\n\t•\tadversarial inputs (tricky instructions, missing info)\n\t•\ttimeouts, retries with backoff, cost caps, logging/tracing\n\t•\tevaluate with simple checks: correctness, latency, tool success rate\n\t6.\tdeploy\n\t•\twrap as an API (FastAPI), containerize, add auth keys &amp; RBAC\n\t•\tkeep telemetry (requests, tool calls, spend) and a kill-switch\n\t•\tadd human-in-the-loop for risky actions (send email, spend money)",
+          "2025-11-18T14:22:38.602207"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:22:38.602207"
+        ],
+        [
+          1,
+          "2025-11-18T14:32:46.474998"
+        ],
+        [
+          1,
+          "2025-11-18T14:42:47.940086"
+        ]
+      ],
+      "created_utc": 1756572738.0,
+      "depth": 0,
+      "permalink": "/r/AutoGPT/comments/1mqdydz/anyone_know_how_to_make_useable_agents_for_free/nbiof9g/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-18T14:42:47.940086",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/AutoGPT/comments/1mqdydz/anyone_know_how_to_make_useable_agents_for_free/",
+    "total_comments": 7,
+    "top_level_comments": 3,
+    "api_requests": 1,
+    "expected_comments": 7,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_142238.json",
+      "scrape_002_20251118_143246.json",
+      "scrape_003_20251118_144247.json"
+    ]
+  }
+}

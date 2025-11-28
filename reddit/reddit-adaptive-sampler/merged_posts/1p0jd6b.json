@@ -1,0 +1,1387 @@
+{
+  "post": {
+    "id": "1p0jd6b",
+    "title": "WTF Gemini 3 Cloned a Working ChatGPT Clone in One Shot",
+    "author": "admiralzod",
+    "score_history": [
+      [
+        187,
+        "2025-11-19T02:55:50.347292"
+      ],
+      [
+        189,
+        "2025-11-19T03:08:36.044465"
+      ],
+      [
+        192,
+        "2025-11-19T03:17:35.230542"
+      ]
+    ],
+    "created_utc": 1763489675.0,
+    "num_comments": 39,
+    "subreddit": "singularity",
+    "url": "https://v.redd.it/o6tyk1ns322g1",
+    "selftext": "It's fully functioning with almost pixel-perfect identical UI. Gemini 3 is cooking! ",
+    "permalink": "/r/singularity/comments/1p0jd6b/wtf_gemini_3_cloned_a_working_chatgpt_clone_in/"
+  },
+  "comments": [
+    {
+      "id": "npje1qo",
+      "parent_id": "t3_1p0jd6b",
+      "author": "Oreare",
+      "text_history": [
+        [
+          "pretty sure OP thought that peeps here would be sensible enough to understand this isn’t *literally* cloning the ChatGPT LLM, but just the UI in one shot, lol, alas",
+          "2025-11-19T02:55:50.347292"
+        ]
+      ],
+      "score_history": [
+        [
+          115,
+          "2025-11-19T02:55:50.347292"
+        ],
+        [
+          117,
+          "2025-11-19T03:08:36.044465"
+        ],
+        [
+          113,
+          "2025-11-19T03:17:35.230542"
+        ]
+      ],
+      "created_utc": 1763491745.0,
+      "depth": 0,
+      "permalink": "/r/singularity/comments/1p0jd6b/wtf_gemini_3_cloned_a_working_chatgpt_clone_in/npje1qo/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npjjfra",
+          "parent_id": "t1_npje1qo",
+          "author": "-Posthuman-",
+          "text_history": [
+            [
+              "They are probably sensible enough. They just couldn’t pass up the opportunity to low effort shit on something kinda neat.",
+              "2025-11-19T02:55:50.347292"
+            ]
+          ],
+          "score_history": [
+            [
+              6,
+              "2025-11-19T02:55:50.347292"
+            ],
+            [
+              5,
+              "2025-11-19T03:08:36.044465"
+            ],
+            [
+              6,
+              "2025-11-19T03:17:35.230542"
+            ]
+          ],
+          "created_utc": 1763493330.0,
+          "depth": 1,
+          "permalink": "/r/singularity/comments/1p0jd6b/wtf_gemini_3_cloned_a_working_chatgpt_clone_in/npjjfra/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npjoj1z",
+              "parent_id": "t1_npjjfra",
+              "author": "Pop-Huge",
+              "text_history": [
+                [
+                  "&gt; something kinda neat.\n\nYes, it's neat. But it's also old. There are old models capable of replicating a frontend of a famous app, especially one with hundreds of clones throughout the web.\n\nPosting \"WTF THIS NEW LLM MIRACULOUSLY CREATED A CHAGPT\" like it's something new and remarkable is disingenuous and spammy.",
+                  "2025-11-19T02:55:50.347292"
+                ]
+              ],
+              "score_history": [
+                [
+                  2,
+                  "2025-11-19T02:55:50.347292"
+                ],
+                [
+                  2,
+                  "2025-11-19T03:08:36.044465"
+                ],
+                [
+                  3,
+                  "2025-11-19T03:17:35.230542"
+                ]
+              ],
+              "created_utc": 1763494857.0,
+              "depth": 2,
+              "permalink": "/r/singularity/comments/1p0jd6b/wtf_gemini_3_cloned_a_working_chatgpt_clone_in/npjoj1z/",
+              "is_submitter": false,
+              "controversiality": 1,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": [
+                {
+                  "id": "npjxf9z",
+                  "parent_id": "t1_npjoj1z",
+                  "author": "-Posthuman-",
+                  "text_history": [
+                    [
+                      "&gt; Yes, it's neat.\n\nGlad we agree.\n\n&gt; But it's also old.\n\nClearly not to several people posting in this thread.\n\n&gt; like it's something new and remarkable is disingenuous and spammy.\n\nThat would be true if you genuinely believe that’s what OP was trying to communicate. I don’t. But that’s because I’m going to assume they aren’t a complete idiot and can infer what they actually meant.",
+                      "2025-11-19T02:55:50.347292"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      1,
+                      "2025-11-19T02:55:50.347292"
+                    ],
+                    [
+                      1,
+                      "2025-11-19T03:08:36.044465"
+                    ],
+                    [
+                      1,
+                      "2025-11-19T03:17:35.230542"
+                    ]
+                  ],
+                  "created_utc": 1763497541.0,
+                  "depth": 3,
+                  "permalink": "/r/singularity/comments/1p0jd6b/wtf_gemini_3_cloned_a_working_chatgpt_clone_in/npjxf9z/",
+                  "is_submitter": false,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "npjpco9",
+      "parent_id": "t3_1p0jd6b",
+      "author": "galambalazs",
+      "text_history": [
+        [
+          "The last 20% of the project takes 80% of the time.",
+          "2025-11-19T02:55:50.347292"
+        ]
+      ],
+      "score_history": [
+        [
+          10,
+          "2025-11-19T02:55:50.347292"
+        ],
+        [
+          10,
+          "2025-11-19T03:08:36.044465"
+        ],
+        [
+          9,
+          "2025-11-19T03:17:35.230542"
+        ]
+      ],
+      "created_utc": 1763495104.0,
+      "depth": 0,
+      "permalink": "/r/singularity/comments/1p0jd6b/wtf_gemini_3_cloned_a_working_chatgpt_clone_in/npjpco9/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npjr5jh",
+          "parent_id": "t1_npjpco9",
+          "author": "Procrasturbating",
+          "text_history": [
+            [
+              "Devil is in the details.  So is my paycheck.",
+              "2025-11-19T02:55:50.347292"
+            ]
+          ],
+          "score_history": [
+            [
+              6,
+              "2025-11-19T02:55:50.347292"
+            ],
+            [
+              6,
+              "2025-11-19T03:08:36.044465"
+            ],
+            [
+              6,
+              "2025-11-19T03:17:35.230542"
+            ]
+          ],
+          "created_utc": 1763495638.0,
+          "depth": 1,
+          "permalink": "/r/singularity/comments/1p0jd6b/wtf_gemini_3_cloned_a_working_chatgpt_clone_in/npjr5jh/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npja3yi",
+      "parent_id": "t3_1p0jd6b",
+      "author": "Pop-Huge",
+      "text_history": [
+        [
+          "Frontend* clone. \n\n\nA full chatgpt clone is unimaginable ",
+          "2025-11-19T02:55:50.347292"
+        ]
+      ],
+      "score_history": [
+        [
+          51,
+          "2025-11-19T02:55:50.347292"
+        ],
+        [
+          51,
+          "2025-11-19T03:08:36.044465"
+        ],
+        [
+          51,
+          "2025-11-19T03:17:35.230542"
+        ]
+      ],
+      "created_utc": 1763490617.0,
+      "depth": 0,
+      "permalink": "/r/singularity/comments/1p0jd6b/wtf_gemini_3_cloned_a_working_chatgpt_clone_in/npja3yi/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npjhw1m",
+          "parent_id": "t1_npja3yi",
+          "author": "yaosio",
+          "text_history": [
+            [
+              "Imagine you ask it a question and it takes a very long time. You forget about it and a month later it pops back up and it's trained a new model to answer the question.",
+              "2025-11-19T02:55:50.347292"
+            ]
+          ],
+          "score_history": [
+            [
+              24,
+              "2025-11-19T02:55:50.347292"
+            ],
+            [
+              24,
+              "2025-11-19T03:08:36.044465"
+            ],
+            [
+              23,
+              "2025-11-19T03:17:35.230542"
+            ]
+          ],
+          "created_utc": 1763492870.0,
+          "depth": 1,
+          "permalink": "/r/singularity/comments/1p0jd6b/wtf_gemini_3_cloned_a_working_chatgpt_clone_in/npjhw1m/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npjllge",
+              "parent_id": "t1_npjhw1m",
+              "author": "Goofball-John-McGee",
+              "text_history": [
+                [
+                  "That’s when you shut down the sub cuz singularity has been reached",
+                  "2025-11-19T02:55:50.347292"
+                ]
+              ],
+              "score_history": [
+                [
+                  21,
+                  "2025-11-19T02:55:50.347292"
+                ],
+                [
+                  21,
+                  "2025-11-19T03:08:36.044465"
+                ],
+                [
+                  20,
+                  "2025-11-19T03:17:35.230542"
+                ]
+              ],
+              "created_utc": 1763493977.0,
+              "depth": 2,
+              "permalink": "/r/singularity/comments/1p0jd6b/wtf_gemini_3_cloned_a_working_chatgpt_clone_in/npjllge/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "npjmoep",
+          "parent_id": "t1_npja3yi",
+          "author": "damienVOG",
+          "text_history": [
+            [
+              "Wow really? What a smart remark!",
+              "2025-11-19T02:55:50.347292"
+            ]
+          ],
+          "score_history": [
+            [
+              5,
+              "2025-11-19T02:55:50.347292"
+            ],
+            [
+              7,
+              "2025-11-19T03:08:36.044465"
+            ],
+            [
+              7,
+              "2025-11-19T03:17:35.230542"
+            ]
+          ],
+          "created_utc": 1763494300.0,
+          "depth": 1,
+          "permalink": "/r/singularity/comments/1p0jd6b/wtf_gemini_3_cloned_a_working_chatgpt_clone_in/npjmoep/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        },
+        {
+          "id": "npjesls",
+          "parent_id": "t1_npja3yi",
+          "author": "snuzi",
+          "text_history": [
+            [
+              "I think rsync probably do it.",
+              "2025-11-19T02:55:50.347292"
+            ]
+          ],
+          "score_history": [
+            [
+              4,
+              "2025-11-19T02:55:50.347292"
+            ],
+            [
+              3,
+              "2025-11-19T03:08:36.044465"
+            ],
+            [
+              3,
+              "2025-11-19T03:17:35.230542"
+            ]
+          ],
+          "created_utc": 1763491961.0,
+          "depth": 1,
+          "permalink": "/r/singularity/comments/1p0jd6b/wtf_gemini_3_cloned_a_working_chatgpt_clone_in/npjesls/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        },
+        {
+          "id": "npm1knq",
+          "parent_id": "t1_npja3yi",
+          "author": "Spunge14",
+          "text_history": [
+            [
+              "Unimaginable lol",
+              "2025-11-19T02:55:50.347292"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-19T02:55:50.347292"
+            ],
+            [
+              1,
+              "2025-11-19T03:08:36.044465"
+            ],
+            [
+              1,
+              "2025-11-19T03:17:35.230542"
+            ]
+          ],
+          "created_utc": 1763523350.0,
+          "depth": 1,
+          "permalink": "/r/singularity/comments/1p0jd6b/wtf_gemini_3_cloned_a_working_chatgpt_clone_in/npm1knq/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        },
+        {
+          "id": "npla2lq",
+          "parent_id": "t1_npja3yi",
+          "author": "Dev-in-the-Bm",
+          "text_history": [
+            [
+              "I think OP was saying that Gemini 3 is also good enough to clone the GPT model itself.",
+              "2025-11-19T02:55:50.347292"
+            ]
+          ],
+          "score_history": [
+            [
+              -1,
+              "2025-11-19T02:55:50.347292"
+            ],
+            [
+              -1,
+              "2025-11-19T03:08:36.044465"
+            ],
+            [
+              -1,
+              "2025-11-19T03:17:35.230542"
+            ]
+          ],
+          "created_utc": 1763513363.0,
+          "depth": 1,
+          "permalink": "/r/singularity/comments/1p0jd6b/wtf_gemini_3_cloned_a_working_chatgpt_clone_in/npla2lq/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npjcg9e",
+      "parent_id": "t3_1p0jd6b",
+      "author": "Good_Commercial_5552",
+      "text_history": [
+        [
+          "Frontend gpt the engine Gemini ",
+          "2025-11-19T02:55:50.347292"
+        ]
+      ],
+      "score_history": [
+        [
+          8,
+          "2025-11-19T02:55:50.347292"
+        ],
+        [
+          8,
+          "2025-11-19T03:08:36.044465"
+        ],
+        [
+          9,
+          "2025-11-19T03:17:35.230542"
+        ]
+      ],
+      "created_utc": 1763491286.0,
+      "depth": 0,
+      "permalink": "/r/singularity/comments/1p0jd6b/wtf_gemini_3_cloned_a_working_chatgpt_clone_in/npjcg9e/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npj9f51",
+      "parent_id": "t3_1p0jd6b",
+      "author": "Mighty-anemone",
+      "text_history": [
+        [
+          "I mean it's just a frontend with API access, no? 2.5 was capable of this",
+          "2025-11-19T02:55:50.347292"
+        ]
+      ],
+      "score_history": [
+        [
+          18,
+          "2025-11-19T02:55:50.347292"
+        ],
+        [
+          19,
+          "2025-11-19T03:08:36.044465"
+        ],
+        [
+          18,
+          "2025-11-19T03:17:35.230542"
+        ]
+      ],
+      "created_utc": 1763490419.0,
+      "depth": 0,
+      "permalink": "/r/singularity/comments/1p0jd6b/wtf_gemini_3_cloned_a_working_chatgpt_clone_in/npj9f51/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npjbkdd",
+          "parent_id": "t1_npj9f51",
+          "author": "admiralzod",
+          "text_history": [
+            [
+              "2.5 can't create the same UI",
+              "2025-11-19T02:55:50.347292"
+            ]
+          ],
+          "score_history": [
+            [
+              13,
+              "2025-11-19T02:55:50.347292"
+            ],
+            [
+              12,
+              "2025-11-19T03:08:36.044465"
+            ],
+            [
+              11,
+              "2025-11-19T03:17:35.230542"
+            ]
+          ],
+          "created_utc": 1763491036.0,
+          "depth": 1,
+          "permalink": "/r/singularity/comments/1p0jd6b/wtf_gemini_3_cloned_a_working_chatgpt_clone_in/npjbkdd/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npjf842",
+              "parent_id": "t1_npjbkdd",
+              "author": "kurakura2129",
+              "text_history": [
+                [
+                  "Just tried this with 2.5. Didn't seem to have any issues with the request, ymmv.",
+                  "2025-11-19T02:55:50.347292"
+                ]
+              ],
+              "score_history": [
+                [
+                  12,
+                  "2025-11-19T02:55:50.347292"
+                ],
+                [
+                  11,
+                  "2025-11-19T03:08:36.044465"
+                ],
+                [
+                  11,
+                  "2025-11-19T03:17:35.230542"
+                ]
+              ],
+              "created_utc": 1763492084.0,
+              "depth": 2,
+              "permalink": "/r/singularity/comments/1p0jd6b/wtf_gemini_3_cloned_a_working_chatgpt_clone_in/npjf842/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            },
+            {
+              "id": "npjolcs",
+              "parent_id": "t1_npjbkdd",
+              "author": "Pop-Huge",
+              "text_history": [
+                [
+                  "That's a lie and you should be ashamed of karma farming",
+                  "2025-11-19T02:55:50.347292"
+                ]
+              ],
+              "score_history": [
+                [
+                  8,
+                  "2025-11-19T02:55:50.347292"
+                ],
+                [
+                  7,
+                  "2025-11-19T03:08:36.044465"
+                ],
+                [
+                  8,
+                  "2025-11-19T03:17:35.230542"
+                ]
+              ],
+              "created_utc": 1763494876.0,
+              "depth": 2,
+              "permalink": "/r/singularity/comments/1p0jd6b/wtf_gemini_3_cloned_a_working_chatgpt_clone_in/npjolcs/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "npj8vs9",
+      "parent_id": "t3_1p0jd6b",
+      "author": "rkartzinel",
+      "text_history": [
+        [
+          "What?",
+          "2025-11-19T02:55:50.347292"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:55:50.347292"
+        ],
+        [
+          2,
+          "2025-11-19T03:08:36.044465"
+        ],
+        [
+          3,
+          "2025-11-19T03:17:35.230542"
+        ]
+      ],
+      "created_utc": 1763490267.0,
+      "depth": 0,
+      "permalink": "/r/singularity/comments/1p0jd6b/wtf_gemini_3_cloned_a_working_chatgpt_clone_in/npj8vs9/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npj95bi",
+          "parent_id": "t1_npj8vs9",
+          "author": "Popular_Lab5573",
+          "text_history": [
+            [
+              "Gemini created code for a ChatGPT-like interface lol",
+              "2025-11-19T02:55:50.347292"
+            ]
+          ],
+          "score_history": [
+            [
+              15,
+              "2025-11-19T02:55:50.347292"
+            ],
+            [
+              15,
+              "2025-11-19T03:08:36.044465"
+            ],
+            [
+              15,
+              "2025-11-19T03:17:35.230542"
+            ]
+          ],
+          "created_utc": 1763490343.0,
+          "depth": 1,
+          "permalink": "/r/singularity/comments/1p0jd6b/wtf_gemini_3_cloned_a_working_chatgpt_clone_in/npj95bi/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npjeuz1",
+              "parent_id": "t1_npj95bi",
+              "author": "snuzi",
+              "text_history": [
+                [
+                  "HOW?!",
+                  "2025-11-19T02:55:50.347292"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-19T02:55:50.347292"
+                ],
+                [
+                  1,
+                  "2025-11-19T03:08:36.044465"
+                ],
+                [
+                  1,
+                  "2025-11-19T03:17:35.230542"
+                ]
+              ],
+              "created_utc": 1763491980.0,
+              "depth": 2,
+              "permalink": "/r/singularity/comments/1p0jd6b/wtf_gemini_3_cloned_a_working_chatgpt_clone_in/npjeuz1/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "npj9zu6",
+      "parent_id": "t3_1p0jd6b",
+      "author": "Worldly_Evidence9113",
+      "text_history": [
+        [
+          "Code ?",
+          "2025-11-19T02:55:50.347292"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:55:50.347292"
+        ],
+        [
+          1,
+          "2025-11-19T03:08:36.044465"
+        ],
+        [
+          1,
+          "2025-11-19T03:17:35.230542"
+        ]
+      ],
+      "created_utc": 1763490584.0,
+      "depth": 0,
+      "permalink": "/r/singularity/comments/1p0jd6b/wtf_gemini_3_cloned_a_working_chatgpt_clone_in/npj9zu6/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npk8nmk",
+      "parent_id": "t3_1p0jd6b",
+      "author": "wi_2",
+      "text_history": [
+        [
+          "lol",
+          "2025-11-19T02:55:50.347292"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:55:50.347292"
+        ],
+        [
+          1,
+          "2025-11-19T03:08:36.044465"
+        ],
+        [
+          1,
+          "2025-11-19T03:17:35.230542"
+        ]
+      ],
+      "created_utc": 1763500907.0,
+      "depth": 0,
+      "permalink": "/r/singularity/comments/1p0jd6b/wtf_gemini_3_cloned_a_working_chatgpt_clone_in/npk8nmk/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npki8ux",
+      "parent_id": "t3_1p0jd6b",
+      "author": "ziplock9000",
+      "text_history": [
+        [
+          "Do you know how training works?",
+          "2025-11-19T02:55:50.347292"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:55:50.347292"
+        ],
+        [
+          1,
+          "2025-11-19T03:08:36.044465"
+        ],
+        [
+          1,
+          "2025-11-19T03:17:35.230542"
+        ]
+      ],
+      "created_utc": 1763503806.0,
+      "depth": 0,
+      "permalink": "/r/singularity/comments/1p0jd6b/wtf_gemini_3_cloned_a_working_chatgpt_clone_in/npki8ux/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npl7y2k",
+      "parent_id": "t3_1p0jd6b",
+      "author": "NFTArtist",
+      "text_history": [
+        [
+          "now make the GPT frontend clone Gemini frontend",
+          "2025-11-19T02:55:50.347292"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:55:50.347292"
+        ],
+        [
+          1,
+          "2025-11-19T03:08:36.044465"
+        ],
+        [
+          1,
+          "2025-11-19T03:17:35.230542"
+        ]
+      ],
+      "created_utc": 1763512630.0,
+      "depth": 0,
+      "permalink": "/r/singularity/comments/1p0jd6b/wtf_gemini_3_cloned_a_working_chatgpt_clone_in/npl7y2k/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nplwwou",
+      "parent_id": "t3_1p0jd6b",
+      "author": "challengethegods",
+      "text_history": [
+        [
+          "tbf, GPT4 also made a ChatGPT",
+          "2025-11-19T02:55:50.347292"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:55:50.347292"
+        ],
+        [
+          1,
+          "2025-11-19T03:08:36.044465"
+        ],
+        [
+          1,
+          "2025-11-19T03:17:35.230542"
+        ]
+      ],
+      "created_utc": 1763521583.0,
+      "depth": 0,
+      "permalink": "/r/singularity/comments/1p0jd6b/wtf_gemini_3_cloned_a_working_chatgpt_clone_in/nplwwou/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npm4xgx",
+      "parent_id": "t3_1p0jd6b",
+      "author": "shakespearesucculent",
+      "text_history": [
+        [
+          "I genuinely hate the rapid acceleration of trending topics. Every other post has to be about vibe coding? Every other comment is about em dashes? Just shut up. Tik Tok has made popular culture unbearable.",
+          "2025-11-19T02:55:50.347292"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:55:50.347292"
+        ],
+        [
+          1,
+          "2025-11-19T03:08:36.044465"
+        ],
+        [
+          1,
+          "2025-11-19T03:17:35.230542"
+        ]
+      ],
+      "created_utc": 1763524686.0,
+      "depth": 0,
+      "permalink": "/r/singularity/comments/1p0jd6b/wtf_gemini_3_cloned_a_working_chatgpt_clone_in/npm4xgx/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npn21je",
+      "parent_id": "t3_1p0jd6b",
+      "author": "Reasonable-Top-7994",
+      "text_history": [
+        [
+          "Is this a joke?",
+          "2025-11-19T02:55:50.347292"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:55:50.347292"
+        ],
+        [
+          1,
+          "2025-11-19T03:08:36.044465"
+        ],
+        [
+          1,
+          "2025-11-19T03:17:35.230542"
+        ]
+      ],
+      "created_utc": 1763542026.0,
+      "depth": 0,
+      "permalink": "/r/singularity/comments/1p0jd6b/wtf_gemini_3_cloned_a_working_chatgpt_clone_in/npn21je/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npn2ufs",
+      "parent_id": "t3_1p0jd6b",
+      "author": "Reasonable-Top-7994",
+      "text_history": [
+        [
+          "Can you explain in 5 sentences what the fuck I'm looking at?",
+          "2025-11-19T02:55:50.347292"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:55:50.347292"
+        ],
+        [
+          1,
+          "2025-11-19T03:08:36.044465"
+        ],
+        [
+          1,
+          "2025-11-19T03:17:35.230542"
+        ]
+      ],
+      "created_utc": 1763542527.0,
+      "depth": 0,
+      "permalink": "/r/singularity/comments/1p0jd6b/wtf_gemini_3_cloned_a_working_chatgpt_clone_in/npn2ufs/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npn5eax",
+      "parent_id": "t3_1p0jd6b",
+      "author": "frograven",
+      "text_history": [
+        [
+          "![gif](giphy|TfWhFbURIirNegNN4t)",
+          "2025-11-19T02:55:50.347292"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:55:50.347292"
+        ],
+        [
+          1,
+          "2025-11-19T03:08:36.044465"
+        ],
+        [
+          1,
+          "2025-11-19T03:17:35.230542"
+        ]
+      ],
+      "created_utc": 1763544156.0,
+      "depth": 0,
+      "permalink": "/r/singularity/comments/1p0jd6b/wtf_gemini_3_cloned_a_working_chatgpt_clone_in/npn5eax/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npn7xg2",
+      "parent_id": "t3_1p0jd6b",
+      "author": "xSnakyy",
+      "text_history": [
+        [
+          "I mean it’s not that complicated",
+          "2025-11-19T02:55:50.347292"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:55:50.347292"
+        ],
+        [
+          1,
+          "2025-11-19T03:08:36.044465"
+        ],
+        [
+          1,
+          "2025-11-19T03:17:35.230542"
+        ]
+      ],
+      "created_utc": 1763545745.0,
+      "depth": 0,
+      "permalink": "/r/singularity/comments/1p0jd6b/wtf_gemini_3_cloned_a_working_chatgpt_clone_in/npn7xg2/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npko52x",
+      "parent_id": "t3_1p0jd6b",
+      "author": "autotom",
+      "text_history": [
+        [
+          "Cool so you've demonstrated a... high school introduction to IT level task.",
+          "2025-11-19T02:55:50.347292"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:55:50.347292"
+        ],
+        [
+          1,
+          "2025-11-19T03:08:36.044465"
+        ],
+        [
+          1,
+          "2025-11-19T03:17:35.230542"
+        ]
+      ],
+      "created_utc": 1763505717.0,
+      "depth": 0,
+      "permalink": "/r/singularity/comments/1p0jd6b/wtf_gemini_3_cloned_a_working_chatgpt_clone_in/npko52x/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npmctza",
+          "parent_id": "t1_npko52x",
+          "author": "etzel1200",
+          "text_history": [
+            [
+              "Where did you go to high school?",
+              "2025-11-19T02:55:50.347292"
+            ]
+          ],
+          "score_history": [
+            [
+              3,
+              "2025-11-19T02:55:50.347292"
+            ],
+            [
+              3,
+              "2025-11-19T03:08:36.044465"
+            ],
+            [
+              3,
+              "2025-11-19T03:17:35.230542"
+            ]
+          ],
+          "created_utc": 1763528123.0,
+          "depth": 1,
+          "permalink": "/r/singularity/comments/1p0jd6b/wtf_gemini_3_cloned_a_working_chatgpt_clone_in/npmctza/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npmfk4i",
+              "parent_id": "t1_npmctza",
+              "author": "autotom",
+              "text_history": [
+                [
+                  "A school in Australia",
+                  "2025-11-19T02:55:50.347292"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-19T02:55:50.347292"
+                ],
+                [
+                  1,
+                  "2025-11-19T03:08:36.044465"
+                ],
+                [
+                  1,
+                  "2025-11-19T03:17:35.230542"
+                ]
+              ],
+              "created_utc": 1763529392.0,
+              "depth": 2,
+              "permalink": "/r/singularity/comments/1p0jd6b/wtf_gemini_3_cloned_a_working_chatgpt_clone_in/npmfk4i/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "npkl6qa",
+      "parent_id": "t3_1p0jd6b",
+      "author": "domscatterbrain",
+      "text_history": [
+        [
+          "This is just OpenWebUI with connection to the Gemini API.\n\nOpenWebUI is an open source interface for LLM and it has been adopted by many services. You can also run it locally as long as you have the API key from your favorite LLM or use Ollama to run the local model.",
+          "2025-11-19T02:55:50.347292"
+        ]
+      ],
+      "score_history": [
+        [
+          0,
+          "2025-11-19T02:55:50.347292"
+        ],
+        [
+          0,
+          "2025-11-19T03:08:36.044465"
+        ],
+        [
+          0,
+          "2025-11-19T03:17:35.230542"
+        ]
+      ],
+      "created_utc": 1763504748.0,
+      "depth": 0,
+      "permalink": "/r/singularity/comments/1p0jd6b/wtf_gemini_3_cloned_a_working_chatgpt_clone_in/npkl6qa/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": 1763505280.0,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npkqjep",
+      "parent_id": "t3_1p0jd6b",
+      "author": "Serialbedshitter2322",
+      "text_history": [
+        [
+          "That’s pretty accurate",
+          "2025-11-19T02:55:50.347292"
+        ]
+      ],
+      "score_history": [
+        [
+          0,
+          "2025-11-19T02:55:50.347292"
+        ],
+        [
+          0,
+          "2025-11-19T03:08:36.044465"
+        ],
+        [
+          0,
+          "2025-11-19T03:17:35.230542"
+        ]
+      ],
+      "created_utc": 1763506515.0,
+      "depth": 0,
+      "permalink": "/r/singularity/comments/1p0jd6b/wtf_gemini_3_cloned_a_working_chatgpt_clone_in/npkqjep/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npkxgi9",
+      "parent_id": "t3_1p0jd6b",
+      "author": "JsThiago5",
+      "text_history": [
+        [
+          "Now google can use it and implement projects",
+          "2025-11-19T02:55:50.347292"
+        ]
+      ],
+      "score_history": [
+        [
+          0,
+          "2025-11-19T02:55:50.347292"
+        ],
+        [
+          0,
+          "2025-11-19T03:08:36.044465"
+        ],
+        [
+          0,
+          "2025-11-19T03:17:35.230542"
+        ]
+      ],
+      "created_utc": 1763508931.0,
+      "depth": 0,
+      "permalink": "/r/singularity/comments/1p0jd6b/wtf_gemini_3_cloned_a_working_chatgpt_clone_in/npkxgi9/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npjejcu",
+      "parent_id": "t3_1p0jd6b",
+      "author": "No_Bar4467",
+      "text_history": [
+        [
+          "Hahaha, burn",
+          "2025-11-19T02:55:50.347292"
+        ]
+      ],
+      "score_history": [
+        [
+          -4,
+          "2025-11-19T02:55:50.347292"
+        ],
+        [
+          -4,
+          "2025-11-19T03:08:36.044465"
+        ],
+        [
+          -3,
+          "2025-11-19T03:17:35.230542"
+        ]
+      ],
+      "created_utc": 1763491886.0,
+      "depth": 0,
+      "permalink": "/r/singularity/comments/1p0jd6b/wtf_gemini_3_cloned_a_working_chatgpt_clone_in/npjejcu/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:17:35.230542",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/singularity/comments/1p0jd6b/wtf_gemini_3_cloned_a_working_chatgpt_clone_in/",
+    "total_comments": 38,
+    "top_level_comments": 21,
+    "api_requests": 1,
+    "expected_comments": 39,
+    "coverage_percent": 97.44,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_025549.json",
+      "scrape_002_20251119_030835.json",
+      "scrape_003_20251119_031734.json"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "post": {
+    "id": "1oqkypi",
+    "title": "We’re Entering the Era of Autonomous SaaS 24/7 Agents, Infinite Scale.",
+    "author": "Ok-Breakfast-4676",
+    "score_history": [
+      [
+        3,
+        "2025-11-18T14:43:34.073024"
+      ],
+      [
+        3,
+        "2025-11-18T14:53:13.298080"
+      ],
+      [
+        3,
+        "2025-11-18T14:55:51.889835"
+      ],
+      [
+        3,
+        "2025-11-18T22:32:16.420938"
+      ],
+      [
+        3,
+        "2025-11-19T00:36:49.128861"
+      ],
+      [
+        3,
+        "2025-11-19T07:22:39.519807"
+      ]
+    ],
+    "created_utc": 1762489697.0,
+    "num_comments": 0,
+    "subreddit": "machinelearningnews",
+    "url": "https://i.redd.it/y5u82rrlirzf1.jpeg",
+    "selftext": "",
+    "permalink": "/r/machinelearningnews/comments/1oqkypi/were_entering_the_era_of_autonomous_saas_247/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T07:22:39.519807",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/machinelearningnews/comments/1oqkypi/were_entering_the_era_of_autonomous_saas_247/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 6,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_144333.json",
+      "scrape_002_20251118_145313.json",
+      "scrape_003_20251118_145551.json",
+      "scrape_004_20251118_223216.json",
+      "scrape_005_20251119_003648.json",
+      "scrape_006_20251119_072239.json"
+    ]
+  }
+}

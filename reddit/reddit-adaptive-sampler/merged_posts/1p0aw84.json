@@ -1,0 +1,59 @@
+{
+  "post": {
+    "id": "1p0aw84",
+    "title": "I updated my RAG chunking CLI based on your feedback (Added tiktoken support)",
+    "author": "[deleted]",
+    "score_history": [
+      [
+        2,
+        "2025-11-18T13:15:57.596149"
+      ],
+      [
+        2,
+        "2025-11-18T13:48:25.172281"
+      ],
+      [
+        2,
+        "2025-11-18T13:59:46.731838"
+      ],
+      [
+        2,
+        "2025-11-18T14:11:17.629155"
+      ],
+      [
+        2,
+        "2025-11-18T21:49:55.419253"
+      ],
+      [
+        2,
+        "2025-11-19T07:12:19.551986"
+      ]
+    ],
+    "created_utc": 1763469701.0,
+    "num_comments": 0,
+    "subreddit": "machinelearningnews",
+    "url": "",
+    "selftext": "[deleted]",
+    "permalink": "/r/machinelearningnews/comments/1p0aw84/i_updated_my_rag_chunking_cli_based_on_your/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T07:12:19.551986",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/machinelearningnews/comments/1p0aw84/i_updated_my_rag_chunking_cli_based_on_your/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 6,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_131557.json",
+      "scrape_002_20251118_134824.json",
+      "scrape_003_20251118_135946.json",
+      "scrape_004_20251118_141117.json",
+      "scrape_005_20251118_214955.json",
+      "scrape_006_20251119_071219.json"
+    ]
+  }
+}

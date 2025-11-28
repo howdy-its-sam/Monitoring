@@ -1,0 +1,80 @@
+{
+  "post": {
+    "id": "1ozrf3q",
+    "title": "Need help with enriching employee data",
+    "author": "Moonknight_shank",
+    "score_history": [
+      [
+        22,
+        "2025-11-18T14:23:40.881400"
+      ],
+      [
+        22,
+        "2025-11-18T14:33:19.268418"
+      ],
+      [
+        22,
+        "2025-11-18T14:43:11.771364"
+      ]
+    ],
+    "created_utc": 1763411422.0,
+    "num_comments": 1,
+    "subreddit": "AgentsOfAI",
+    "url": "https://www.reddit.com/r/AgentsOfAI/comments/1ozrf3q/need_help_with_enriching_employee_data/",
+    "selftext": "Anyone here dealing with employee enrichment at scale? Trying to build a clean dataset with role, seniority, department, verified (!) work email. Most tools get the first name right and everything else wrong so I have about 10% bounce rate. Help",
+    "permalink": "/r/AgentsOfAI/comments/1ozrf3q/need_help_with_enriching_employee_data/"
+  },
+  "comments": [
+    {
+      "id": "npejkne",
+      "parent_id": "t3_1ozrf3q",
+      "author": "chasingeuphoria13",
+      "text_history": [
+        [
+          "Export the Active Directory?",
+          "2025-11-18T14:23:40.881400"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:23:40.881400"
+        ],
+        [
+          1,
+          "2025-11-18T14:33:19.268418"
+        ],
+        [
+          1,
+          "2025-11-18T14:43:11.771364"
+        ]
+      ],
+      "created_utc": 1763422455.0,
+      "depth": 0,
+      "permalink": "/r/AgentsOfAI/comments/1ozrf3q/need_help_with_enriching_employee_data/npejkne/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-18T14:43:11.771364",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/AgentsOfAI/comments/1ozrf3q/need_help_with_enriching_employee_data/",
+    "total_comments": 1,
+    "top_level_comments": 1,
+    "api_requests": 1,
+    "expected_comments": 1,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_142340.json",
+      "scrape_002_20251118_143319.json",
+      "scrape_003_20251118_144311.json"
+    ]
+  }
+}

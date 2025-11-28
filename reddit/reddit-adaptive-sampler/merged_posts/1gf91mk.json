@@ -1,0 +1,44 @@
+{
+  "post": {
+    "id": "1gf91mk",
+    "title": "“I trained it ethically using all of my own music” Meet LoopMagic, the AI sound generator by producer !llmind that lets you create copyright-free loops and melodies from scratch",
+    "author": "InternationalForm3",
+    "score_history": [
+      [
+        2,
+        "2025-11-19T02:57:32.331283"
+      ],
+      [
+        2,
+        "2025-11-19T03:05:47.130543"
+      ],
+      [
+        2,
+        "2025-11-19T03:14:30.595352"
+      ]
+    ],
+    "created_utc": 1730245416.0,
+    "num_comments": 1,
+    "subreddit": "ainews",
+    "url": "https://musictech.com/news/gear/loopmagic-ai-sound-generator/",
+    "selftext": "",
+    "permalink": "/r/ainews/comments/1gf91mk/i_trained_it_ethically_using_all_of_my_own_music/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:14:30.595352",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/ainews/comments/1gf91mk/i_trained_it_ethically_using_all_of_my_own_music/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 1,
+    "coverage_percent": 0.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_025731.json",
+      "scrape_002_20251119_030546.json",
+      "scrape_003_20251119_031429.json"
+    ]
+  }
+}

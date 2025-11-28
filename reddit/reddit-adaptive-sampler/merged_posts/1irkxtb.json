@@ -1,0 +1,362 @@
+{
+  "post": {
+    "id": "1irkxtb",
+    "title": "Privacy vs accuracy: which one do you prefer?",
+    "author": "elchiapp",
+    "score_history": [
+      [
+        4,
+        "2025-11-19T03:28:54.132279"
+      ],
+      [
+        5,
+        "2025-11-19T03:36:22.614985"
+      ],
+      [
+        5,
+        "2025-11-19T03:39:34.478466"
+      ]
+    ],
+    "created_utc": 1739802172.0,
+    "num_comments": 11,
+    "subreddit": "HealthAI",
+    "url": "https://www.reddit.com/r/HealthAI/comments/1irkxtb/privacy_vs_accuracy_which_one_do_you_prefer/",
+    "selftext": "A few months ago ChatGPT and Claude helped me diagnose a health issue that was misdiagnosed by 4 different cardiologists. Afterwards I felt weird knowing that all of my medical data was now permanently stored in OpenAI and Anthropic's databases. On the other hand I'm grateful that they built the tech that helped me figure things out and maybe my data will contribute to training which, in turn, will help more people.\n\nI'm curious to know how this community feels about privacy. Would you rely on models that are less accurate (e.g. 80%) but can run directly on your device or would you always use a more accurate model (e.g. 95%) on \"the cloud\", no matter what their privacy policy is (and whether they really execute it)? Accuracy values are kind of made up but you get the point.\n\nFeel free to elaborate.\n\n[View Poll](https://www.reddit.com/poll/1irkxtb)",
+    "permalink": "/r/HealthAI/comments/1irkxtb/privacy_vs_accuracy_which_one_do_you_prefer/"
+  },
+  "comments": [
+    {
+      "id": "mzf81zo",
+      "parent_id": "t3_1irkxtb",
+      "author": "GBM_AI_MyAly",
+      "text_history": [
+        [
+          "Honestly, I trust OpenAI more than I trust most hospital systems. With MyChart, half the clinic staff can read your records. At least here, the AI helps me think, problem-solve, and stay present when things get overwhelming.\n\nI get the privacy concerns — and yeah, owning a local version would be great. But real talk? My issue isn’t the AI remembering. My issue is that no human doctor ever did.\n\nUntil we build something private and smart enough to help, I’ll choose the one that shows up and helps me survive.",
+          "2025-11-19T03:28:54.132279"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-19T03:28:54.132279"
+        ],
+        [
+          2,
+          "2025-11-19T03:36:22.614985"
+        ],
+        [
+          2,
+          "2025-11-19T03:39:34.478466"
+        ]
+      ],
+      "created_utc": 1750722300.0,
+      "depth": 0,
+      "permalink": "/r/HealthAI/comments/1irkxtb/privacy_vs_accuracy_which_one_do_you_prefer/mzf81zo/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "n0amhd7",
+          "parent_id": "t1_mzf81zo",
+          "author": "elchiapp",
+          "text_history": [
+            [
+              "Thank you for the candid response.",
+              "2025-11-19T03:28:54.132279"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-19T03:28:54.132279"
+            ],
+            [
+              1,
+              "2025-11-19T03:36:22.614985"
+            ],
+            [
+              1,
+              "2025-11-19T03:39:34.478466"
+            ]
+          ],
+          "created_utc": 1751140865.0,
+          "depth": 1,
+          "permalink": "/r/HealthAI/comments/1irkxtb/privacy_vs_accuracy_which_one_do_you_prefer/n0amhd7/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "md9j7ie",
+      "parent_id": "t3_1irkxtb",
+      "author": "trnka",
+      "text_history": [
+        [
+          "Interesting question! I couldn't really pick one because I don't think of privacy as a yes or no thing. OpenAI and Anthropic are private enough for me right now, based on my current understanding. If one of them has a data breach or similar privacy incident then I'd stop using them for most things. Also, if it looks like a less reputable company is going to buy one of them, I'd stop using that one.\n\nIt might depend on the medical situation too. There are some things I just don't want to take a chance with.\n\nAll that said, the I hope that LLMs will be better integrated into medical software like MyChart. I expect that we can have something both more accurate with good privacy if it's patient + LLM + healthcare provider.",
+          "2025-11-19T03:28:54.132279"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T03:28:54.132279"
+        ],
+        [
+          1,
+          "2025-11-19T03:36:22.614985"
+        ],
+        [
+          1,
+          "2025-11-19T03:39:34.478466"
+        ]
+      ],
+      "created_utc": 1739807783.0,
+      "depth": 0,
+      "permalink": "/r/HealthAI/comments/1irkxtb/privacy_vs_accuracy_which_one_do_you_prefer/md9j7ie/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "mdbt945",
+          "parent_id": "t1_md9j7ie",
+          "author": "elchiapp",
+          "text_history": [
+            [
+              "&gt;OpenAI and Anthropic are private enough for me right now\n\nThat's an interesting perspective. I guess most people perceive Google the same way. Privacy is more seen as \"I trust that you handle my data safely\" rather than \"I don't want my data to be there in the first place\".\n\nThanks for mentioning MyChart, I didn't know it. But yeah, privacy is going to be a big concern the more AI enters healthcare (and it will).",
+              "2025-11-19T03:28:54.132279"
+            ]
+          ],
+          "score_history": [
+            [
+              2,
+              "2025-11-19T03:28:54.132279"
+            ],
+            [
+              2,
+              "2025-11-19T03:36:22.614985"
+            ],
+            [
+              2,
+              "2025-11-19T03:39:34.478466"
+            ]
+          ],
+          "created_utc": 1739830849.0,
+          "depth": 1,
+          "permalink": "/r/HealthAI/comments/1irkxtb/privacy_vs_accuracy_which_one_do_you_prefer/mdbt945/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mgj1avy",
+      "parent_id": "t3_1irkxtb",
+      "author": "Lost-Werewolf9046",
+      "text_history": [
+        [
+          "This is an interesting question. I think the infrastructure will improve to protect privacy better.\n\n  \nAnd I suspect that healthcare specific foundational models will outperform things like Chat Gpt and Claude for this kind of work (but that could be wishful thinking).",
+          "2025-11-19T03:28:54.132279"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T03:28:54.132279"
+        ],
+        [
+          1,
+          "2025-11-19T03:36:22.614985"
+        ],
+        [
+          1,
+          "2025-11-19T03:39:34.478466"
+        ]
+      ],
+      "created_utc": 1741363219.0,
+      "depth": 0,
+      "permalink": "/r/HealthAI/comments/1irkxtb/privacy_vs_accuracy_which_one_do_you_prefer/mgj1avy/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "ml5u2t5",
+      "parent_id": "t3_1irkxtb",
+      "author": "Exciting-Interest820",
+      "text_history": [
+        [
+          "I’ve worked with AI tools in healthcare, and honestly it’s always a trade-off.  \nWhat worked well was separating personal data from everything the AI touched directly.  \nThat way, we kept accuracy high for general tasks, while still protecting patient identity. Not perfect, but practical.",
+          "2025-11-19T03:28:54.132279"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T03:28:54.132279"
+        ],
+        [
+          1,
+          "2025-11-19T03:36:22.614985"
+        ],
+        [
+          1,
+          "2025-11-19T03:39:34.478466"
+        ]
+      ],
+      "created_utc": 1743663446.0,
+      "depth": 0,
+      "permalink": "/r/HealthAI/comments/1irkxtb/privacy_vs_accuracy_which_one_do_you_prefer/ml5u2t5/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "mvkare0",
+      "parent_id": "t3_1irkxtb",
+      "author": "SocialNoel",
+      "text_history": [
+        [
+          "Really appreciate your honest reflection—this is the core dilemma in AI-powered healthcare. As patients and practitioners, we want the highest possible accuracy, but we also want to know our most sensitive data is safe.\n\nThe reality is, accuracy in diagnosis can be life-changing or even life-saving, especially in complex or rare cases where traditional care has fallen short. The fact that AI helped you after four misdiagnoses highlights its potential. \n\nBut as Dr. Eric Topol, a leading voice in digital medicine, puts it:\n\n&gt;\n\nFor many, the willingness to trade privacy for accuracy depends on context—life-or-death situations versus routine care. But as AI adoption grows, we need both: robust privacy standards and models that deliver high accuracy. Regulations like GDPR and India’s Digital Personal Data Protection Act are steps in the right direction, but enforcement and transparency will be key.\n\nUltimately, the real win will come when we can have both—on-device AI that’s accurate and private. Until then, it’s a personal and ethical decision, and conversations like this are exactly what we need to shape the future.",
+          "2025-11-19T03:28:54.132279"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T03:28:54.132279"
+        ],
+        [
+          1,
+          "2025-11-19T03:36:22.614985"
+        ],
+        [
+          1,
+          "2025-11-19T03:39:34.478466"
+        ]
+      ],
+      "created_utc": 1748859015.0,
+      "depth": 0,
+      "permalink": "/r/HealthAI/comments/1irkxtb/privacy_vs_accuracy_which_one_do_you_prefer/mvkare0/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "n4aus9i",
+      "parent_id": "t3_1irkxtb",
+      "author": "Willing-Asparagus-28",
+      "text_history": [
+        [
+          "It’s a tough tradeoff, but I’d probably lean toward on-device models when it comes to sensitive health data  peace of mind matters almost as much as accuracy.",
+          "2025-11-19T03:28:54.132279"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T03:28:54.132279"
+        ],
+        [
+          1,
+          "2025-11-19T03:36:22.614985"
+        ],
+        [
+          1,
+          "2025-11-19T03:39:34.478466"
+        ]
+      ],
+      "created_utc": 1753081912.0,
+      "depth": 0,
+      "permalink": "/r/HealthAI/comments/1irkxtb/privacy_vs_accuracy_which_one_do_you_prefer/n4aus9i/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "n4b1635",
+      "parent_id": "t3_1irkxtb",
+      "author": "Equivalent_Cover4542",
+      "text_history": [
+        [
+          "Generally, larger, cloud-based models have access to vast datasets and more computational power, allowing them to achieve higher accuracy in complex tasks like medical diagnosis. They can learn from a much wider range of cases and identify subtle patterns that smaller, on-device models might miss...",
+          "2025-11-19T03:28:54.132279"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T03:28:54.132279"
+        ],
+        [
+          1,
+          "2025-11-19T03:36:22.614985"
+        ],
+        [
+          1,
+          "2025-11-19T03:39:34.478466"
+        ]
+      ],
+      "created_utc": 1753085571.0,
+      "depth": 0,
+      "permalink": "/r/HealthAI/comments/1irkxtb/privacy_vs_accuracy_which_one_do_you_prefer/n4b1635/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:39:34.478466",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/HealthAI/comments/1irkxtb/privacy_vs_accuracy_which_one_do_you_prefer/",
+    "total_comments": 9,
+    "top_level_comments": 7,
+    "api_requests": 1,
+    "expected_comments": 11,
+    "coverage_percent": 81.82,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_032853.json",
+      "scrape_002_20251119_033622.json",
+      "scrape_003_20251119_033934.json"
+    ]
+  }
+}

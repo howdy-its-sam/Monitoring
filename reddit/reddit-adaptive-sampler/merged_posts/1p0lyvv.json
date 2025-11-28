@@ -1,0 +1,44 @@
+{
+  "post": {
+    "id": "1p0lyvv",
+    "title": "Has anyone tested the new Gemini 3 Pro on Svelte 5 code?",
+    "author": "Suspicious_Yak2485",
+    "score_history": [
+      [
+        1,
+        "2025-11-19T03:41:35.585708"
+      ],
+      [
+        1,
+        "2025-11-19T03:47:09.602809"
+      ],
+      [
+        1,
+        "2025-11-19T03:48:46.723531"
+      ]
+    ],
+    "created_utc": 1763495487.0,
+    "num_comments": 0,
+    "subreddit": "ChatGPTCoding",
+    "url": "/r/sveltejs/comments/1p0igeh/has_anyone_tested_the_new_gemini_3_pro_on_svelte/",
+    "selftext": "",
+    "permalink": "/r/ChatGPTCoding/comments/1p0lyvv/has_anyone_tested_the_new_gemini_3_pro_on_svelte/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:48:46.723531",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/ChatGPTCoding/comments/1p0lyvv/has_anyone_tested_the_new_gemini_3_pro_on_svelte/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_034135.json",
+      "scrape_002_20251119_034709.json",
+      "scrape_003_20251119_034846.json"
+    ]
+  }
+}

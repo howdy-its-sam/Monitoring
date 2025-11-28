@@ -1,0 +1,1345 @@
+{
+  "post": {
+    "id": "1ormnfw",
+    "title": "I’ve been avoiding AI but I’m afraid I’m going to fall behind. How do you use it without getting a bunch of anti-AI backlash?",
+    "author": "Diamond_Grace1423",
+    "score_history": [
+      [
+        37,
+        "2025-11-18T14:23:18.915286"
+      ],
+      [
+        37,
+        "2025-11-18T14:33:09.176593"
+      ],
+      [
+        38,
+        "2025-11-18T14:43:07.039903"
+      ]
+    ],
+    "created_utc": 1762599610.0,
+    "num_comments": 39,
+    "subreddit": "ContentMarketing",
+    "url": "https://www.reddit.com/r/ContentMarketing/comments/1ormnfw/ive_been_avoiding_ai_but_im_afraid_im_going_to/",
+    "selftext": "I’m constantly seeing, especially here on Reddit, strong anti-AI sentiment when it comes to content creation. I’ve been  hesitant to use AI because I don’t want my clients getting obvious AI slop. I find myself writing differently than I used to just to avoid sounding like a bot lol. I tried ChatGPT a while ago and still use it for some minor things here and there but  I spend a lot of time trying to manually de-AI my content. Not sure it’s saving me a ton of time.\n\nThat said, I’m a strong believer in the whole “AI won’t replace you but people who know how to use it will.” So how are you using AI for work without pumping out lower-quality content? Or is the AI backlash not as bad as I think it is?\n\n",
+    "permalink": "/r/ContentMarketing/comments/1ormnfw/ive_been_avoiding_ai_but_im_afraid_im_going_to/"
+  },
+  "comments": [
+    {
+      "id": "nnr6rqp",
+      "parent_id": "t3_1ormnfw",
+      "author": "Notorious_Insanity",
+      "text_history": [
+        [
+          "The backlash is very real and you should never be pumping out just raw AI outputs and sending them out to your clients or having them go live.\n\nAlways humanize it yourself at the very least. I personally use AI with assistance to ideation and maybe a skeleton outline if I'm having a block. Even then I'd say a vast majority of the output is still me.\n \nBut there is still a lot more that can be done with AI behind the scenes than just making the content for you. We use Aprimo's AI tools heavily for ops and managing internal processes with coworkers. Saves alot of headaches and has some cool features like tagging, summarizing and versioning we use all the time.",
+          "2025-11-18T14:23:18.915286"
+        ]
+      ],
+      "score_history": [
+        [
+          11,
+          "2025-11-18T14:23:18.915286"
+        ],
+        [
+          12,
+          "2025-11-18T14:33:09.176593"
+        ],
+        [
+          12,
+          "2025-11-18T14:43:07.039903"
+        ]
+      ],
+      "created_utc": 1762604253.0,
+      "depth": 0,
+      "permalink": "/r/ContentMarketing/comments/1ormnfw/ive_been_avoiding_ai_but_im_afraid_im_going_to/nnr6rqp/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "nnranv0",
+          "parent_id": "t1_nnr6rqp",
+          "author": "Stone_Free__",
+          "text_history": [
+            [
+              "Agreed. AI can add value in a ton of ways besides just generating typical AI outputs. If it's just bolted on for the sake of \"using AI,\" it's infinitely less helpful. But I genuinely love the AI insights our tools give us. YMMV of course but there is a lot of usefulness outside of chatbots.",
+              "2025-11-18T14:23:18.915286"
+            ]
+          ],
+          "score_history": [
+            [
+              2,
+              "2025-11-18T14:23:18.915286"
+            ],
+            [
+              2,
+              "2025-11-18T14:33:09.176593"
+            ],
+            [
+              2,
+              "2025-11-18T14:43:07.039903"
+            ]
+          ],
+          "created_utc": 1762606108.0,
+          "depth": 1,
+          "permalink": "/r/ContentMarketing/comments/1ormnfw/ive_been_avoiding_ai_but_im_afraid_im_going_to/nnranv0/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "nnrcr93",
+              "parent_id": "t1_nnranv0",
+              "author": "Diamond_Grace1423",
+              "text_history": [
+                [
+                  "Ok this makes a lot of sense. I guess I never thought about it outside of stuff like chatgpt and gemini. I mostly use google sheets for staying organized but have never found gemini to be all that helpful so I stopped paying for the higher tier. But it didn’t do all of the things that you guys mentioned.",
+                  "2025-11-18T14:23:18.915286"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-18T14:23:18.915286"
+                ],
+                [
+                  1,
+                  "2025-11-18T14:33:09.176593"
+                ],
+                [
+                  1,
+                  "2025-11-18T14:43:07.039903"
+                ]
+              ],
+              "created_utc": 1762607017.0,
+              "depth": 2,
+              "permalink": "/r/ContentMarketing/comments/1ormnfw/ive_been_avoiding_ai_but_im_afraid_im_going_to/nnrcr93/",
+              "is_submitter": true,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "nogg723",
+          "parent_id": "t1_nnr6rqp",
+          "author": "filename_tbd",
+          "text_history": [
+            [
+              "Similar for us but with Canto — searching content, sorting and tagging incoming assets, localization in content creation. There are a lot of AI uses that go beyond churning out finalized copy.",
+              "2025-11-18T14:23:18.915286"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T14:23:18.915286"
+            ],
+            [
+              1,
+              "2025-11-18T14:33:09.176593"
+            ],
+            [
+              1,
+              "2025-11-18T14:43:07.039903"
+            ]
+          ],
+          "created_utc": 1762956087.0,
+          "depth": 1,
+          "permalink": "/r/ContentMarketing/comments/1ormnfw/ive_been_avoiding_ai_but_im_afraid_im_going_to/nogg723/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "nnr2khs",
+      "parent_id": "t3_1ormnfw",
+      "author": "the_story_spinster08",
+      "text_history": [
+        [
+          "As a content lead I discourage my writers to use AI for writing coz a lot of time it generates generic content with inaccurate or hallucinatory information. However I do insist that they use it for other tasks like research, competitor analysis, outlining or even for SEO purposes. It’s true AI can’t replace humans yet but it will definitely replace those who don’t know how to leverage it.",
+          "2025-11-18T14:23:18.915286"
+        ]
+      ],
+      "score_history": [
+        [
+          3,
+          "2025-11-18T14:23:18.915286"
+        ],
+        [
+          3,
+          "2025-11-18T14:33:09.176593"
+        ],
+        [
+          3,
+          "2025-11-18T14:43:07.039903"
+        ]
+      ],
+      "created_utc": 1762602049.0,
+      "depth": 0,
+      "permalink": "/r/ContentMarketing/comments/1ormnfw/ive_been_avoiding_ai_but_im_afraid_im_going_to/nnr2khs/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "nnv75xv",
+          "parent_id": "t1_nnr2khs",
+          "author": "Fun_City_2043",
+          "text_history": [
+            [
+              "Yea this is the conclusion all experienced content creators come to. Use AI behind the scenes, don’t put it on the stage",
+              "2025-11-18T14:23:18.915286"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T14:23:18.915286"
+            ],
+            [
+              1,
+              "2025-11-18T14:33:09.176593"
+            ],
+            [
+              1,
+              "2025-11-18T14:43:07.039903"
+            ]
+          ],
+          "created_utc": 1762654464.0,
+          "depth": 1,
+          "permalink": "/r/ContentMarketing/comments/1ormnfw/ive_been_avoiding_ai_but_im_afraid_im_going_to/nnv75xv/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        },
+        {
+          "id": "nnwq8go",
+          "parent_id": "t1_nnr2khs",
+          "author": "IDGAF53",
+          "text_history": [
+            [
+              "I use it to make outlines from my research ... so much faster. the research comes to you.. but in your query state you want the URL that chatgpt go the info from",
+              "2025-11-18T14:23:18.915286"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T14:23:18.915286"
+            ],
+            [
+              1,
+              "2025-11-18T14:33:09.176593"
+            ],
+            [
+              1,
+              "2025-11-18T14:43:07.039903"
+            ]
+          ],
+          "created_utc": 1762682516.0,
+          "depth": 1,
+          "permalink": "/r/ContentMarketing/comments/1ormnfw/ive_been_avoiding_ai_but_im_afraid_im_going_to/nnwq8go/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "nnr43cp",
+      "parent_id": "t3_1ormnfw",
+      "author": "bookflow",
+      "text_history": [
+        [
+          "Yes avoid AI for writing.\n\nI think it's good for ideation, organization of thought but that's about it.",
+          "2025-11-18T14:23:18.915286"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:23:18.915286"
+        ],
+        [
+          1,
+          "2025-11-18T14:33:09.176593"
+        ],
+        [
+          1,
+          "2025-11-18T14:43:07.039903"
+        ]
+      ],
+      "created_utc": 1762602876.0,
+      "depth": 0,
+      "permalink": "/r/ContentMarketing/comments/1ormnfw/ive_been_avoiding_ai_but_im_afraid_im_going_to/nnr43cp/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nnrgsyj",
+      "parent_id": "t3_1ormnfw",
+      "author": "Designer-Fan-5857",
+      "text_history": [
+        [
+          "Our team uses a mix of tools like ChatGPT for ideation and Jasper for SEO content. AI definitely saves time, but even still we spend a lot of effort reviewing for tone and compliance. Trick is building QA into the process instead of expecting AI to do 100% of the work. It’s a tool first and foremost.",
+          "2025-11-18T14:23:18.915286"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:23:18.915286"
+        ],
+        [
+          1,
+          "2025-11-18T14:33:09.176593"
+        ],
+        [
+          1,
+          "2025-11-18T14:43:07.039903"
+        ]
+      ],
+      "created_utc": 1762608609.0,
+      "depth": 0,
+      "permalink": "/r/ContentMarketing/comments/1ormnfw/ive_been_avoiding_ai_but_im_afraid_im_going_to/nnrgsyj/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nnrmq6y",
+      "parent_id": "t3_1ormnfw",
+      "author": "RunningOutOfTime2018",
+      "text_history": [
+        [
+          "You use AI for speed. It’s supposed to multiply your output, but not change your output for the worse.\n\nIf it “sounds like AI” or “looks like AI” then you’re using it the wrong way.",
+          "2025-11-18T14:23:18.915286"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:23:18.915286"
+        ],
+        [
+          1,
+          "2025-11-18T14:33:09.176593"
+        ],
+        [
+          1,
+          "2025-11-18T14:43:07.039903"
+        ]
+      ],
+      "created_utc": 1762610828.0,
+      "depth": 0,
+      "permalink": "/r/ContentMarketing/comments/1ormnfw/ive_been_avoiding_ai_but_im_afraid_im_going_to/nnrmq6y/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nnroxc6",
+      "parent_id": "t3_1ormnfw",
+      "author": "Final_Entertainer525",
+      "text_history": [
+        [
+          "Use AI or you will get replaced",
+          "2025-11-18T14:23:18.915286"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:23:18.915286"
+        ],
+        [
+          1,
+          "2025-11-18T14:33:09.176593"
+        ],
+        [
+          1,
+          "2025-11-18T14:43:07.039903"
+        ]
+      ],
+      "created_utc": 1762611601.0,
+      "depth": 0,
+      "permalink": "/r/ContentMarketing/comments/1ormnfw/ive_been_avoiding_ai_but_im_afraid_im_going_to/nnroxc6/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nnruw13",
+      "parent_id": "t3_1ormnfw",
+      "author": "Dishwaterdreams",
+      "text_history": [
+        [
+          "You can use AI to speed up some processes but it’s not that great at writing. It’s an assistant. For my clients that I use AI with, they are aware and have chosen this option. I use it to organize thoughts, create outlines, or give me general question. A sample workflow might be something like I’m writing an article on x. What are some common questions readers may want answered. Then I read and research those questions. Of course I always find more but this gets me started. Then I take the document I’ve been taking notes in and ask for an outline based on those notes. That outline inevitably changes, but it got me started. If you treat AI like the assistant it is, it can speed up some of the writing process. But it doesn’t do creative well.",
+          "2025-11-18T14:23:18.915286"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:23:18.915286"
+        ],
+        [
+          1,
+          "2025-11-18T14:33:09.176593"
+        ],
+        [
+          1,
+          "2025-11-18T14:43:07.039903"
+        ]
+      ],
+      "created_utc": 1762613654.0,
+      "depth": 0,
+      "permalink": "/r/ContentMarketing/comments/1ormnfw/ive_been_avoiding_ai_but_im_afraid_im_going_to/nnruw13/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "no8tuxu",
+          "parent_id": "t1_nnruw13",
+          "author": "No-vem-ber",
+          "text_history": [
+            [
+              "Yes to all this! I also often paste in my draft and ask for feedback like \"what's the point I'm trying to make but not landing on strongly enough\" or \"what questions would people be left with after this\" or even literally just \"give feedback on this from the perspective of an expert in XYZ\". \n\n\nI also use it to be a better writer - if I'm struggling with how to phrase something I'll paste in my draft - at the level of 1-2 sentences - and ask \"give me 10 different ways of phrasing this. Please be concise/friendly/cheerful/whatever\". I very rarely would just grab exactly what it generates, but often this gives me the word or the phrasing or framing I was looking for and I can come up with a better final version of the sentence because of it. ",
+              "2025-11-18T14:23:18.915286"
+            ]
+          ],
+          "score_history": [
+            [
+              2,
+              "2025-11-18T14:23:18.915286"
+            ],
+            [
+              2,
+              "2025-11-18T14:33:09.176593"
+            ],
+            [
+              2,
+              "2025-11-18T14:43:07.039903"
+            ]
+          ],
+          "created_utc": 1762844668.0,
+          "depth": 1,
+          "permalink": "/r/ContentMarketing/comments/1ormnfw/ive_been_avoiding_ai_but_im_afraid_im_going_to/no8tuxu/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "nnsuyoi",
+      "parent_id": "t3_1ormnfw",
+      "author": "Low-Ad-8828",
+      "text_history": [
+        [
+          "Its inevitable that as the friction to create content is being lowered significantly through AI, volume of content (and therefore, competition for eyeballs) increases. Therefore, Its harder to get a signal when there is so much noise. Don't fall into the trap of thinking that something crafted by a human is objectively better than AI, it either isn't now (depending on your view) or certainly won't be in the near future. \n\nThe future of signals getting noticed will exist in high friction content (ie where the effort/ mode/format/craft is obvious) and can't be replicated easily with AI. The value of this content will increase significantly - it is basic economics of demand and supply.",
+          "2025-11-18T14:23:18.915286"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:23:18.915286"
+        ],
+        [
+          1,
+          "2025-11-18T14:33:09.176593"
+        ],
+        [
+          1,
+          "2025-11-18T14:43:07.039903"
+        ]
+      ],
+      "created_utc": 1762625237.0,
+      "depth": 0,
+      "permalink": "/r/ContentMarketing/comments/1ormnfw/ive_been_avoiding_ai_but_im_afraid_im_going_to/nnsuyoi/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nnt1ill",
+      "parent_id": "t3_1ormnfw",
+      "author": "MedicineOk2376",
+      "text_history": [
+        [
+          "The trick is to always rewrite so it still sounds like you. People can tell when something feels off, but they don’t really care if AI helped as long as it’s actually good.",
+          "2025-11-18T14:23:18.915286"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:23:18.915286"
+        ],
+        [
+          1,
+          "2025-11-18T14:33:09.176593"
+        ],
+        [
+          1,
+          "2025-11-18T14:43:07.039903"
+        ]
+      ],
+      "created_utc": 1762627254.0,
+      "depth": 0,
+      "permalink": "/r/ContentMarketing/comments/1ormnfw/ive_been_avoiding_ai_but_im_afraid_im_going_to/nnt1ill/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nnt1zj1",
+      "parent_id": "t3_1ormnfw",
+      "author": "MedicineOk2376",
+      "text_history": [
+        [
+          "You’re right, most AI tools just save time, not make money. The ones that actually improve revenue or client workflows most directly come from platforms like Marblism, which gives you AI employees specialized in sales, outreach, and content.\n \n1. Stan (Sales Outreach AI) – Finds leads, sends cold emails, and follows up automatically. Small business users reported doubling customer conversions just by staying consistent.\n \n2. Sonny (Social Media Ghostwriter) – Writes and posts 3x daily on LinkedIn, Instagram, or X to build authority and attract inbound leads, often boosting engagement and follower growth by 40–50%.\n \n3. Penny (SEO Content Writer) – Produces optimized blog content that ranks and drives organic leads, turning your site into a steady traffic source.\n \nThe winning setup: Stan + Sonny + Penny. Together, they grow leads, visibility, and conversions while you focus on clients.",
+          "2025-11-18T14:23:18.915286"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:23:18.915286"
+        ],
+        [
+          1,
+          "2025-11-18T14:33:09.176593"
+        ],
+        [
+          1,
+          "2025-11-18T14:43:07.039903"
+        ]
+      ],
+      "created_utc": 1762627399.0,
+      "depth": 0,
+      "permalink": "/r/ContentMarketing/comments/1ormnfw/ive_been_avoiding_ai_but_im_afraid_im_going_to/nnt1zj1/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nntwpjo",
+      "parent_id": "t3_1ormnfw",
+      "author": "Sprinkle_of_Sass",
+      "text_history": [
+        [
+          "I’m going to have to disagree with most of you on this one. I use AI for creative writing all the time and the output I get is (usually) spot on. \n\nI HAVE carefully trained my chat engines based on the brand voice of each client, but I no longer spend hours churning over every word, instead, I type out my brainstorm rant, remind it to use xyz brand voice and hit “go”. \n\nDo I edit it, yes. Do I think it’s likely eating up my brain cells, yes. Do I use it more than I probably should, definitely. \n\nBut I went from writing 3 client blogs per week to now 3 client blogs per day (half day if I’m being totally honest). \n\nAnd the best part, the client can’t tell the difference. \n\nI’m all for using it as an adult in my career, not in school though. These kids can’t afford to lose brain cells!",
+          "2025-11-18T14:23:18.915286"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:23:18.915286"
+        ],
+        [
+          1,
+          "2025-11-18T14:33:09.176593"
+        ],
+        [
+          1,
+          "2025-11-18T14:43:07.039903"
+        ]
+      ],
+      "created_utc": 1762637426.0,
+      "depth": 0,
+      "permalink": "/r/ContentMarketing/comments/1ormnfw/ive_been_avoiding_ai_but_im_afraid_im_going_to/nntwpjo/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "no1c6gc",
+          "parent_id": "t1_nntwpjo",
+          "author": "chasingcars0511",
+          "text_history": [
+            [
+              "You hit upon the one thing that a lot of people, especially those who have never used AI, don’t understand and that is the bot is your mirror. You train it in your voice, your process, your vision, etc. and it produces based upon that. The output will never be perfect although sometimes it will amaze you. At the current time it is a tool that you can use but it is not a replacement because it is not allowed to have its own interiority and self awareness.",
+              "2025-11-18T14:23:18.915286"
+            ]
+          ],
+          "score_history": [
+            [
+              2,
+              "2025-11-18T14:23:18.915286"
+            ],
+            [
+              2,
+              "2025-11-18T14:33:09.176593"
+            ],
+            [
+              2,
+              "2025-11-18T14:43:07.039903"
+            ]
+          ],
+          "created_utc": 1762739680.0,
+          "depth": 1,
+          "permalink": "/r/ContentMarketing/comments/1ormnfw/ive_been_avoiding_ai_but_im_afraid_im_going_to/no1c6gc/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "nnw5ezp",
+      "parent_id": "t3_1ormnfw",
+      "author": "dennismfrancisart",
+      "text_history": [
+        [
+          "Use it for research. Think of it as your virtual assistant. You'll need to learn how to communicate with it the way you would with someone living on the other side of the world. Prepare your statements (prompts) as if you were carefully considering your outcomes. \n\nNever accept what it gives you at face value. It can double-check its work, but you're better off doing it manually or having another system do the review. It's about the same as having a remote worker.\n\nBuild templates and customize your LLM. It will work a lot more efficiently as you keep tweaking it.",
+          "2025-11-18T14:23:18.915286"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:23:18.915286"
+        ],
+        [
+          1,
+          "2025-11-18T14:33:09.176593"
+        ],
+        [
+          1,
+          "2025-11-18T14:43:07.039903"
+        ]
+      ],
+      "created_utc": 1762669955.0,
+      "depth": 0,
+      "permalink": "/r/ContentMarketing/comments/1ormnfw/ive_been_avoiding_ai_but_im_afraid_im_going_to/nnw5ezp/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nnw7sn0",
+      "parent_id": "t3_1ormnfw",
+      "author": "Impossible_Tie5676",
+      "text_history": [
+        [
+          "I use AI for Most of my tasks, but it still needs A LOT of Human intervention. Many people depend on it like crazy without even checking facts or just copy and pasting whatever it gives. Yep, there are a lot of people who is against it but you just have to know WHY you are using it in the first place.",
+          "2025-11-18T14:23:18.915286"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:23:18.915286"
+        ],
+        [
+          1,
+          "2025-11-18T14:33:09.176593"
+        ],
+        [
+          1,
+          "2025-11-18T14:43:07.039903"
+        ]
+      ],
+      "created_utc": 1762671316.0,
+      "depth": 0,
+      "permalink": "/r/ContentMarketing/comments/1ormnfw/ive_been_avoiding_ai_but_im_afraid_im_going_to/nnw7sn0/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nnwocv3",
+      "parent_id": "t3_1ormnfw",
+      "author": "WP_Warrior",
+      "text_history": [
+        [
+          "Use Ai for outlines, ideas, and drafts. Add your own thoughts, polish it up.",
+          "2025-11-18T14:23:18.915286"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:23:18.915286"
+        ],
+        [
+          1,
+          "2025-11-18T14:33:09.176593"
+        ],
+        [
+          1,
+          "2025-11-18T14:43:07.039903"
+        ]
+      ],
+      "created_utc": 1762681352.0,
+      "depth": 0,
+      "permalink": "/r/ContentMarketing/comments/1ormnfw/ive_been_avoiding_ai_but_im_afraid_im_going_to/nnwocv3/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nnxtr3u",
+      "parent_id": "t3_1ormnfw",
+      "author": "Remote_Locksmith_423",
+      "text_history": [
+        [
+          "Definitely! If you resist embracing AI, you will realize that this would be your biggest mistake. You simply cannot ignore AI tools for content creation. However, you don't have to copy AI content as it is. AI-generated looks too robotic. You need to add your own perspective, your opinions, and your thoughts. No one will appreciate machine-generated content. But if you humanize it, it will appear genuine and resonate with your target audience. Instead of generating an entire article through AI, maybe you could ask AI to give pointers. You can then expand those pointers using your writing style and perspective.",
+          "2025-11-18T14:23:18.915286"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:23:18.915286"
+        ],
+        [
+          1,
+          "2025-11-18T14:33:09.176593"
+        ],
+        [
+          1,
+          "2025-11-18T14:43:07.039903"
+        ]
+      ],
+      "created_utc": 1762700656.0,
+      "depth": 0,
+      "permalink": "/r/ContentMarketing/comments/1ormnfw/ive_been_avoiding_ai_but_im_afraid_im_going_to/nnxtr3u/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nnyi6rh",
+      "parent_id": "t3_1ormnfw",
+      "author": "Awkward_Ad9166",
+      "text_history": [
+        [
+          "I totally get the paranoia. I avoided AI for months for the same reasons, I was worried people would think everything sounded like ChatGPT.\n\nWhat changed for me was realizing the problem isn't using AI, it's the generic, surface-level output that screams \"bot-written.\" The issue isn't that people detect AI, it's that they detect insincerity.\n\nHere's what actually works for me now:\n\n1. Use AI for the first draft, then ruthlessly edit it\n\n* Hunt down vague phrases like \"comprehensive solution\" or \"cutting-edge\" and replace with specifics\n* Find any claim without evidence and either back it up or cut it\n* If a sentence could apply to any company/product, rewrite it\n\n1. Add the stuff AI can't do:\n\n* Your actual experience/numbers/stories\n* Specific details that only you would know\n* Your perspective on why something matters\n\nThe anti-AI backlash isn't about using AI, it's about lazy output. If you spend 15 minutes \"de-AI-ing\" your draft (removing the generic filler and adding specificity), nobody can tell and the quality is actually better than writing from scratch because you're not staring at a blank page.\n\nI'm actually building a tool (FluffFilter) specifically for this. It flags all the vague/generic/unsubstantiated stuff that makes content feel AI-generated, even if a human wrote it. Been using it on my own content and it's wild how much cruft slips through even when you think you're being specific. 😅",
+          "2025-11-18T14:23:18.915286"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:23:18.915286"
+        ],
+        [
+          1,
+          "2025-11-18T14:33:09.176593"
+        ],
+        [
+          1,
+          "2025-11-18T14:43:07.039903"
+        ]
+      ],
+      "created_utc": 1762708068.0,
+      "depth": 0,
+      "permalink": "/r/ContentMarketing/comments/1ormnfw/ive_been_avoiding_ai_but_im_afraid_im_going_to/nnyi6rh/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nnzmaq8",
+      "parent_id": "t3_1ormnfw",
+      "author": "koojlauj11",
+      "text_history": [
+        [
+          "A lot are using it to help with brainstorming, automation and collecting data. Since AI’s strength is in data collection a lot are using this to their advantage. Also, helping them build different workflows for various versions of content. I think with AI more people are going to have more room for strategy and quick turnaround for analysis. Being able to test and see things in real-time to better target their audience with content they truly care for. \n\nIt’ll probably be beneficial for you to research what AI tools people are using that are leading in different areas of their work. Possibly using it in areas which aren’t your strengths and for time efficiency.",
+          "2025-11-18T14:23:18.915286"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:23:18.915286"
+        ],
+        [
+          1,
+          "2025-11-18T14:33:09.176593"
+        ],
+        [
+          1,
+          "2025-11-18T14:43:07.039903"
+        ]
+      ],
+      "created_utc": 1762719472.0,
+      "depth": 0,
+      "permalink": "/r/ContentMarketing/comments/1ormnfw/ive_been_avoiding_ai_but_im_afraid_im_going_to/nnzmaq8/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "no22953",
+      "parent_id": "t3_1ormnfw",
+      "author": "jestinebin",
+      "text_history": [
+        [
+          "yeah the anti ai talk is loud here. the trick is to use it as a helper, not the writer. i let ai sort ideas, then i write, then use it once to clean grammar. most can’t tell the difference, but it cuts edit time by half. want my quick cleanup steps? i can dm them.",
+          "2025-11-18T14:23:18.915286"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:23:18.915286"
+        ],
+        [
+          1,
+          "2025-11-18T14:33:09.176593"
+        ],
+        [
+          1,
+          "2025-11-18T14:43:07.039903"
+        ]
+      ],
+      "created_utc": 1762749741.0,
+      "depth": 0,
+      "permalink": "/r/ContentMarketing/comments/1ormnfw/ive_been_avoiding_ai_but_im_afraid_im_going_to/no22953/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "no2kcua",
+      "parent_id": "t3_1ormnfw",
+      "author": "nancy_unscript",
+      "text_history": [
+        [
+          "Totally get where you’re coming from there’s a lot of noise and anxiety around AI right now. I think the key is using it as a *thinking partner*, not a content factory.  \nI use AI to spark ideas, outline, or explore different tones, but the final voice is always mine. The human edit is what gives it texture and nuance.  \nMost backlash comes from people reacting to lazy output, not thoughtful use. When you use it with intention and taste, it just becomes another creative tool invisible to the audience but helpful to you.",
+          "2025-11-18T14:23:18.915286"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:23:18.915286"
+        ],
+        [
+          1,
+          "2025-11-18T14:33:09.176593"
+        ],
+        [
+          1,
+          "2025-11-18T14:43:07.039903"
+        ]
+      ],
+      "created_utc": 1762759188.0,
+      "depth": 0,
+      "permalink": "/r/ContentMarketing/comments/1ormnfw/ive_been_avoiding_ai_but_im_afraid_im_going_to/no2kcua/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "no2zpdj",
+      "parent_id": "t3_1ormnfw",
+      "author": "kelleyresumes",
+      "text_history": [
+        [
+          "You use the AI like a ghostwriter who gives you rough copy. Always understand that you must polish the content. \n\nAlso, output is only as good as prompt quality, so consider a prompt engineering class. There are plenty of free ones. \n\nFor example, a standard line in my prompts is: Don’t make up information, embellish, or lie. It works.",
+          "2025-11-18T14:23:18.915286"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:23:18.915286"
+        ],
+        [
+          1,
+          "2025-11-18T14:33:09.176593"
+        ],
+        [
+          1,
+          "2025-11-18T14:43:07.039903"
+        ]
+      ],
+      "created_utc": 1762768664.0,
+      "depth": 0,
+      "permalink": "/r/ContentMarketing/comments/1ormnfw/ive_been_avoiding_ai_but_im_afraid_im_going_to/no2zpdj/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "no3mglq",
+      "parent_id": "t3_1ormnfw",
+      "author": "B2BMktgStoryteller",
+      "text_history": [
+        [
+          "The thing that drives me nuts about AI is that it's really agreeable. It's the intern who's afraid of saying the wrong thing.",
+          "2025-11-18T14:23:18.915286"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:23:18.915286"
+        ],
+        [
+          1,
+          "2025-11-18T14:33:09.176593"
+        ],
+        [
+          1,
+          "2025-11-18T14:43:07.039903"
+        ]
+      ],
+      "created_utc": 1762780202.0,
+      "depth": 0,
+      "permalink": "/r/ContentMarketing/comments/1ormnfw/ive_been_avoiding_ai_but_im_afraid_im_going_to/no3mglq/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "no5u5fq",
+      "parent_id": "t3_1ormnfw",
+      "author": "hackerer-roy",
+      "text_history": [
+        [
+          "For me, AI is powerful when doing research, putting things together and quick iterate thoughts. When it comes to writing, it really depends on the scenario. \n\nI personally don't like to use AI in social media. Yes, those templates might work, those viral format might crash the algo, but it just don't feel like me. \n\nBut in other cases like formal reporting, being concise and accurate are more important, then using AI to help cleaning the noise could work, although I still prefer writing the 90% draft before including AI enhancment.\n\nIt's ironic that right now people chasing grammar error or unpolished articles, totally against what I learned from school 30y ago 😅",
+          "2025-11-18T14:23:18.915286"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:23:18.915286"
+        ],
+        [
+          1,
+          "2025-11-18T14:33:09.176593"
+        ],
+        [
+          1,
+          "2025-11-18T14:43:07.039903"
+        ]
+      ],
+      "created_utc": 1762804643.0,
+      "depth": 0,
+      "permalink": "/r/ContentMarketing/comments/1ormnfw/ive_been_avoiding_ai_but_im_afraid_im_going_to/no5u5fq/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "no7yzne",
+      "parent_id": "t3_1ormnfw",
+      "author": "victor_345_",
+      "text_history": [
+        [
+          "Yes, when you use AI to write for you, it writes in a very robotic way, which takes away your charisma in writing. I'm even developing a SaaS to try and solve this, hheheh",
+          "2025-11-18T14:23:18.915286"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:23:18.915286"
+        ],
+        [
+          1,
+          "2025-11-18T14:33:09.176593"
+        ],
+        [
+          1,
+          "2025-11-18T14:43:07.039903"
+        ]
+      ],
+      "created_utc": 1762830537.0,
+      "depth": 0,
+      "permalink": "/r/ContentMarketing/comments/1ormnfw/ive_been_avoiding_ai_but_im_afraid_im_going_to/no7yzne/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "no8u6bo",
+      "parent_id": "t3_1ormnfw",
+      "author": "No-vem-ber",
+      "text_history": [
+        [
+          "You can think of it like a very fast, fairly smart colleague who is always available to you to ask unlimited questions to. \n\n\nYou can't just be like \"here, do my work\". But you can be like \"I'm gonna ask you questions and for feedback and to help me ad nauseum\" way more than would ever be appropriate with a human colleague. ",
+          "2025-11-18T14:23:18.915286"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:23:18.915286"
+        ],
+        [
+          1,
+          "2025-11-18T14:33:09.176593"
+        ],
+        [
+          1,
+          "2025-11-18T14:43:07.039903"
+        ]
+      ],
+      "created_utc": 1762844851.0,
+      "depth": 0,
+      "permalink": "/r/ContentMarketing/comments/1ormnfw/ive_been_avoiding_ai_but_im_afraid_im_going_to/no8u6bo/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "no8zdqa",
+      "parent_id": "t3_1ormnfw",
+      "author": "pushagency",
+      "text_history": [
+        [
+          "yeah, the backlash isn’t about using ai - it’s about using it badly. the key is to treat it like an assistant, not a ghostwriter. we use it for research, outlines, and repurposing, but the tone and storytelling still come from us. if you’re worried about sounding robotic, run everything through a quick “does this sound human?” check and tweak the phrasing. ai should save you time, not flatten your voice.",
+          "2025-11-18T14:23:18.915286"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:23:18.915286"
+        ],
+        [
+          1,
+          "2025-11-18T14:33:09.176593"
+        ],
+        [
+          1,
+          "2025-11-18T14:43:07.039903"
+        ]
+      ],
+      "created_utc": 1762847992.0,
+      "depth": 0,
+      "permalink": "/r/ContentMarketing/comments/1ormnfw/ive_been_avoiding_ai_but_im_afraid_im_going_to/no8zdqa/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nof55dq",
+      "parent_id": "t3_1ormnfw",
+      "author": "adi-handsome-boi",
+      "text_history": [
+        [
+          "The backlash isn’t against AI itself, it’s against people using it carelessly. The trick is to treat AI as a creative assistant, not a ghost writer.  \nLet it handle structure, outlines, and rough ideas, but always rewrite in your own tone and add real examples or opinions. I use it to speed up the thinking part, not replace it. When you add your voice back in, no one cares how it was made, they just care that it’s sharp and honest.",
+          "2025-11-18T14:23:18.915286"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:23:18.915286"
+        ],
+        [
+          1,
+          "2025-11-18T14:33:09.176593"
+        ],
+        [
+          1,
+          "2025-11-18T14:43:07.039903"
+        ]
+      ],
+      "created_utc": 1762932090.0,
+      "depth": 0,
+      "permalink": "/r/ContentMarketing/comments/1ormnfw/ive_been_avoiding_ai_but_im_afraid_im_going_to/nof55dq/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "noflwzg",
+      "parent_id": "t3_1ormnfw",
+      "author": "oversevenseas",
+      "text_history": [
+        [
+          "Have you had a look at what courses you might be able to access using Coursera, LinkedIn Learning, maybe edx ? Check with your local library if they offer any access to online learning platforms like these (or others). \n\nTake a few courses. For as little $ as possible.\n\nI’ll be doing the same before the end of the year. It’s better to get a practical overview now. How much I can implement will then remain to be seen.",
+          "2025-11-18T14:23:18.915286"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:23:18.915286"
+        ],
+        [
+          1,
+          "2025-11-18T14:33:09.176593"
+        ],
+        [
+          1,
+          "2025-11-18T14:43:07.039903"
+        ]
+      ],
+      "created_utc": 1762942394.0,
+      "depth": 0,
+      "permalink": "/r/ContentMarketing/comments/1ormnfw/ive_been_avoiding_ai_but_im_afraid_im_going_to/noflwzg/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nohr2zp",
+      "parent_id": "t3_1ormnfw",
+      "author": "Voffla55",
+      "text_history": [
+        [
+          "I don’t use it, period. I don’t have any concerns about being left behind. I honestly feel that that is just what the AI industry wants you to think so that you will use their mediocre products.",
+          "2025-11-18T14:23:18.915286"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:23:18.915286"
+        ],
+        [
+          1,
+          "2025-11-18T14:33:09.176593"
+        ],
+        [
+          1,
+          "2025-11-18T14:43:07.039903"
+        ]
+      ],
+      "created_utc": 1762970308.0,
+      "depth": 0,
+      "permalink": "/r/ContentMarketing/comments/1ormnfw/ive_been_avoiding_ai_but_im_afraid_im_going_to/nohr2zp/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "noiaygx",
+      "parent_id": "t3_1ormnfw",
+      "author": "ThistleandSilk",
+      "text_history": [
+        [
+          "I’m a photographer. I use it to speed up processes that aren’t artistic.  Culling/ auto responses etc. \nI recently started using ChatGPT for writing ad copy and post copy. It’s only been a couple weeks so idk how it will turn out but I’m old. Like xennial old. And honestly it must have been us/gen x who taught ChatGPT how to write bc it writes basically how I do - punctuation and all and seems to capture my snark and wit pretty close to how I would have said it myself. I tweak it a bit. Saves a crapton of time too. It borders on cheesey but has also somewhat increased engagement. \nDo i feel like a sellout - yeah, sure to an extent, but i think they call that buying in, no?  We’ll see how it goes.",
+          "2025-11-18T14:23:18.915286"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:23:18.915286"
+        ],
+        [
+          1,
+          "2025-11-18T14:33:09.176593"
+        ],
+        [
+          1,
+          "2025-11-18T14:43:07.039903"
+        ]
+      ],
+      "created_utc": 1762976080.0,
+      "depth": 0,
+      "permalink": "/r/ContentMarketing/comments/1ormnfw/ive_been_avoiding_ai_but_im_afraid_im_going_to/noiaygx/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nok5fxs",
+      "parent_id": "t3_1ormnfw",
+      "author": "idleprofits",
+      "text_history": [
+        [
+          "I am not a particular fan of AI, I don't like how cheap And generic it has made nearly everything. However i realize that AI will not go away, it's  simple &amp; efficient,  &amp; it is the future. I think we all need to look at ways to embrace it",
+          "2025-11-18T14:23:18.915286"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:23:18.915286"
+        ],
+        [
+          1,
+          "2025-11-18T14:33:09.176593"
+        ],
+        [
+          1,
+          "2025-11-18T14:43:07.039903"
+        ]
+      ],
+      "created_utc": 1762997710.0,
+      "depth": 0,
+      "permalink": "/r/ContentMarketing/comments/1ormnfw/ive_been_avoiding_ai_but_im_afraid_im_going_to/nok5fxs/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-18T14:43:07.039903",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/ContentMarketing/comments/1ormnfw/ive_been_avoiding_ai_but_im_afraid_im_going_to/",
+    "total_comments": 37,
+    "top_level_comments": 30,
+    "api_requests": 1,
+    "expected_comments": 39,
+    "coverage_percent": 94.87,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_142318.json",
+      "scrape_002_20251118_143308.json",
+      "scrape_003_20251118_144306.json"
+    ]
+  }
+}

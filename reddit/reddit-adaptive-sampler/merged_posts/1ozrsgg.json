@@ -1,0 +1,54 @@
+{
+  "post": {
+    "id": "1ozrsgg",
+    "title": "Google DeepMind’s WeatherNext 2 Uses Functional Generative Networks For 8x Faster Probabilistic Weather Forecasts",
+    "author": "ai-lover",
+    "score_history": [
+      [
+        15,
+        "2025-11-18T13:49:01.617924"
+      ],
+      [
+        14,
+        "2025-11-18T14:00:08.438011"
+      ],
+      [
+        15,
+        "2025-11-18T14:12:09.254697"
+      ],
+      [
+        15,
+        "2025-11-18T21:59:56.683514"
+      ],
+      [
+        14,
+        "2025-11-19T07:12:22.239608"
+      ]
+    ],
+    "created_utc": 1763412264.0,
+    "num_comments": 0,
+    "subreddit": "machinelearningnews",
+    "url": "https://www.marktechpost.com/2025/11/17/google-deepminds-weathernext-2-uses-functional-generative-networks-for-8x-faster-probabilistic-weather-forecasts/",
+    "selftext": "WeatherNext 2 is Google new AI based medium range weather system that uses a Functional Generative Network to generate joint probabilistic 15 day global forecasts. The model runs on a 0.25 degree grid at a 6 hour timestep, modeling 6 atmospheric variables at 13 pressure levels plus 6 surface variables, and uses 4 independent FGN seeds and a 32 dimensional functional noise input to capture both epistemic and aleatoric uncertainty. Trained with CRPS on per location marginals, WeatherNext 2 improves over the previous GenCast based WeatherNext model on 99.9 percent of variable, level and lead time combinations and delivers about 6.5 percent average CRPS gains, while producing full 15 day ensembles in under 1 minute per member on a single TPU v5p. The system now powers upgraded forecasts in Google Search, Gemini, Pixel Weather and Google Maps Platform’s Weather API and is exposed as a dataset in Earth Engine and BigQuery and as an early access model on Vertex AI.....\n\nFull analysis: [https://www.marktechpost.com/2025/11/17/google-deepminds-weathernext-2-uses-functional-generative-networks-for-8x-faster-probabilistic-weather-forecasts/](https://www.marktechpost.com/2025/11/17/google-deepminds-weathernext-2-uses-functional-generative-networks-for-8x-faster-probabilistic-weather-forecasts/)\n\nPaper: [https://arxiv.org/abs/2506.10772](https://arxiv.org/abs/2506.10772)\n\nTechnical details: [https://blog.google/technology/google-deepmind/weathernext-2/](https://blog.google/technology/google-deepmind/weathernext-2/)\n\nProject: [https://ai.google/earth-ai/](https://ai.google/earth-ai/)",
+    "permalink": "/r/machinelearningnews/comments/1ozrsgg/google_deepminds_weathernext_2_uses_functional/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T07:12:22.239608",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/machinelearningnews/comments/1ozrsgg/google_deepminds_weathernext_2_uses_functional/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 5,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_134901.json",
+      "scrape_002_20251118_140008.json",
+      "scrape_003_20251118_141209.json",
+      "scrape_004_20251118_215956.json",
+      "scrape_005_20251119_071221.json"
+    ]
+  }
+}

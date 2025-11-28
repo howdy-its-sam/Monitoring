@@ -1,0 +1,186 @@
+{
+  "post": {
+    "id": "1p0cfd4",
+    "title": "Seking feedback: Custom-Trained AI by human ideas for original ad idea generation",
+    "author": "helprize",
+    "score_history": [
+      [
+        2,
+        "2025-11-19T03:19:52.925188"
+      ],
+      [
+        2,
+        "2025-11-19T03:25:45.031226"
+      ],
+      [
+        2,
+        "2025-11-19T03:27:13.843185"
+      ]
+    ],
+    "created_utc": 1763473788.0,
+    "num_comments": 4,
+    "subreddit": "ChatGPTPro",
+    "url": "https://www.reddit.com/r/ChatGPTPro/comments/1p0cfd4/seking_feedback_customtrained_ai_by_human_ideas/",
+    "selftext": "have developed and custom-trained an AI model focused on generating original, non-conventional ad concepts. This project is intended to move beyond the predictable output of general-purpose AI tools by training the model exclusively on uncommon and high-performing advertising strategies.\n\nThe primary function of the tool is to provide marketers and creative teams with genuinely fresh, high-level creative directions rather than standardized copy.\n\n# Model Functionality:\n\n* Concept Generation: The AI focuses on developing the core campaign idea, not just optimizing headlines or short-form copy.\n* Novelty Prioritization: Concepts are prioritized based on their distinctness from common advertising tropes.\n* Input/Output: It processes core inputs (product, audience, objective) and returns 3-5 high-level creative concepts.\n\n# Requested Feedback:\n\nI am seeking detailed, serious feedback to evaluate the model's utility and determine necessary improvements.\n\n1. Current Creative Bottlenecks: What are the most significant creative frustrations you encounter when using existing AI platforms for campaign ideation?\n2. Output Format: How would you prefer the generated creative ideas to be structured for maximum professional utility (e.g., purely textual summary, a brief suggested media execution, a conceptual outline)?\n3. Creative Tolerance: In the context of early-stage brainstorming, is a concept that is highly original but logistically complex more valuable than a less original but immediately feasible concept?\n4. Integration into Workflow: At which point in the creative process do you believe a tool like this would be most beneficial: initial exploratory brainstorming, or final concept selection?\n\nThank you for your time and professional insights. the  newsletter I share outputs from that tool  [unikads.beehiiv.com](http://unikads.beehiiv.com)",
+    "permalink": "/r/ChatGPTPro/comments/1p0cfd4/seking_feedback_customtrained_ai_by_human_ideas/"
+  },
+  "comments": [
+    {
+      "id": "nphq0pf",
+      "parent_id": "t3_1p0cfd4",
+      "author": "qualityvote2",
+      "text_history": [
+        [
+          "Hello u/helprize 👋 Welcome to r/ChatGPTPro!  \nThis is a community for advanced ChatGPT, AI tools, and prompt engineering discussions.  \nOther members will now vote on whether your post fits our community guidelines.\n\n\n---\n\nFor other users, does this post fit the subreddit?\n\nIf so, **upvote this comment!**\n\nOtherwise, **downvote this comment!**\n\nAnd if it does break the rules, **downvote this comment and report this post!**",
+          "2025-11-19T03:19:52.925188"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T03:19:52.925188"
+        ],
+        [
+          1,
+          "2025-11-19T03:25:45.031226"
+        ],
+        [
+          1,
+          "2025-11-19T03:27:13.843185"
+        ]
+      ],
+      "created_utc": 1763473791.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTPro/comments/1p0cfd4/seking_feedback_customtrained_ai_by_human_ideas/nphq0pf/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "nplfpmc",
+          "parent_id": "t1_nphq0pf",
+          "author": "mc92500",
+          "text_history": [
+            [
+              "Thanks for the welcome! I'm really interested in hearing what others think about the potential of this AI tool. Any thoughts on how it could help with the creative bottlenecks we've all faced?",
+              "2025-11-19T03:19:52.925188"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-19T03:19:52.925188"
+            ],
+            [
+              1,
+              "2025-11-19T03:25:45.031226"
+            ],
+            [
+              1,
+              "2025-11-19T03:27:13.843185"
+            ]
+          ],
+          "created_utc": 1763515402.0,
+          "depth": 1,
+          "permalink": "/r/ChatGPTPro/comments/1p0cfd4/seking_feedback_customtrained_ai_by_human_ideas/nplfpmc/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npidzcx",
+      "parent_id": "t3_1p0cfd4",
+      "author": "Venting2theDucks",
+      "text_history": [
+        [
+          "This concept will immediately and directly put humans out of real life paying jobs and will inject more AI slop into our world via advertising.  \n\nBy default, a machine trained on existing ideas cannot ever be creative, and naming what it does as such is a mischaracterization. \n\nPlease do not pursue this idea.",
+          "2025-11-19T03:19:52.925188"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T03:19:52.925188"
+        ],
+        [
+          1,
+          "2025-11-19T03:25:45.031226"
+        ],
+        [
+          1,
+          "2025-11-19T03:27:13.843185"
+        ]
+      ],
+      "created_utc": 1763481252.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTPro/comments/1p0cfd4/seking_feedback_customtrained_ai_by_human_ideas/npidzcx/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npmpkzg",
+      "parent_id": "t3_1p0cfd4",
+      "author": "Vivid_Union2137",
+      "text_history": [
+        [
+          "Generic AI, generates generic ads, and custom AI trained on your unique thinking with your brand voice generates more surprising, consistent, and more innovative and creative ad ideas. You can embed AI tool like chatgpt or rephrasy, your preferred methods, then AI generates ideas based on those frameworks.",
+          "2025-11-19T03:19:52.925188"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T03:19:52.925188"
+        ],
+        [
+          1,
+          "2025-11-19T03:25:45.031226"
+        ],
+        [
+          1,
+          "2025-11-19T03:27:13.843185"
+        ]
+      ],
+      "created_utc": 1763534575.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTPro/comments/1p0cfd4/seking_feedback_customtrained_ai_by_human_ideas/npmpkzg/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:27:13.843185",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/ChatGPTPro/comments/1p0cfd4/seking_feedback_customtrained_ai_by_human_ideas/",
+    "total_comments": 4,
+    "top_level_comments": 3,
+    "api_requests": 2,
+    "expected_comments": 4,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_031950.json",
+      "scrape_002_20251119_032542.json",
+      "scrape_003_20251119_032711.json"
+    ]
+  }
+}

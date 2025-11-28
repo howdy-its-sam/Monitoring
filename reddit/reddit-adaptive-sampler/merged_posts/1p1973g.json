@@ -1,0 +1,336 @@
+{
+  "post": {
+    "id": "1p1973g",
+    "title": "Attribution when user interacts with AI bot but buys a subscription elsewhere on website",
+    "author": "AlternativePumpkin36",
+    "score_history": [
+      [
+        1,
+        "2025-11-19T06:32:08.745398"
+      ],
+      [
+        1,
+        "2025-11-19T06:32:08.986673"
+      ],
+      [
+        1,
+        "2025-11-19T06:32:09.245252"
+      ],
+      [
+        1,
+        "2025-11-19T06:32:09.452784"
+      ],
+      [
+        1,
+        "2025-11-19T06:32:09.708483"
+      ],
+      [
+        1,
+        "2025-11-19T06:32:09.919524"
+      ],
+      [
+        1,
+        "2025-11-19T06:32:10.164888"
+      ],
+      [
+        1,
+        "2025-11-19T06:32:10.387805"
+      ],
+      [
+        1,
+        "2025-11-19T06:32:10.628852"
+      ],
+      [
+        1,
+        "2025-11-19T06:32:10.843229"
+      ],
+      [
+        1,
+        "2025-11-19T06:32:11.071238"
+      ],
+      [
+        1,
+        "2025-11-19T06:32:11.305669"
+      ],
+      [
+        1,
+        "2025-11-19T06:32:11.545400"
+      ],
+      [
+        1,
+        "2025-11-19T06:32:11.754466"
+      ],
+      [
+        1,
+        "2025-11-19T06:32:12.029190"
+      ],
+      [
+        1,
+        "2025-11-19T06:32:12.254330"
+      ],
+      [
+        1,
+        "2025-11-19T06:32:12.478764"
+      ],
+      [
+        1,
+        "2025-11-19T06:32:12.704121"
+      ],
+      [
+        1,
+        "2025-11-19T06:32:12.934301"
+      ],
+      [
+        1,
+        "2025-11-19T06:32:13.133055"
+      ]
+    ],
+    "created_utc": 1763562696.0,
+    "num_comments": 2,
+    "subreddit": "DigitalMarketing",
+    "url": "https://www.reddit.com/r/DigitalMarketing/comments/1p1973g/attribution_when_user_interacts_with_ai_bot_but/",
+    "selftext": "What are industry standards for recording registration and conversion for the below scenario ?  \nUser converses with AI product but doesn't register. However, the same day the user comes back and registers on the website.  \nCan we attribute the registration to the AI Product ?",
+    "permalink": "/r/DigitalMarketing/comments/1p1973g/attribution_when_user_interacts_with_ai_bot_but/"
+  },
+  "comments": [
+    {
+      "id": "npo9jfz",
+      "parent_id": "t3_1p1973g",
+      "author": "AutoModerator",
+      "text_history": [
+        [
+          "[If this post doesn't follow the rules report it to the mods](https://www.reddit.com/r/DigitalMarketing/about/rules/). Have more questions? [Join our community Discord!](https://discord.gg/looking-for-marketing-discussion-811236647760298024)\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/DigitalMarketing) if you have any questions or concerns.*",
+          "2025-11-19T06:32:08.745398"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T06:32:08.745398"
+        ],
+        [
+          1,
+          "2025-11-19T06:32:08.986673"
+        ],
+        [
+          1,
+          "2025-11-19T06:32:09.245252"
+        ],
+        [
+          1,
+          "2025-11-19T06:32:09.452784"
+        ],
+        [
+          1,
+          "2025-11-19T06:32:09.708483"
+        ],
+        [
+          1,
+          "2025-11-19T06:32:09.919524"
+        ],
+        [
+          1,
+          "2025-11-19T06:32:10.164888"
+        ],
+        [
+          1,
+          "2025-11-19T06:32:10.387805"
+        ],
+        [
+          1,
+          "2025-11-19T06:32:10.628852"
+        ],
+        [
+          1,
+          "2025-11-19T06:32:10.843229"
+        ],
+        [
+          1,
+          "2025-11-19T06:32:11.071238"
+        ],
+        [
+          1,
+          "2025-11-19T06:32:11.305669"
+        ],
+        [
+          1,
+          "2025-11-19T06:32:11.545400"
+        ],
+        [
+          1,
+          "2025-11-19T06:32:11.754466"
+        ],
+        [
+          1,
+          "2025-11-19T06:32:12.029190"
+        ],
+        [
+          1,
+          "2025-11-19T06:32:12.254330"
+        ],
+        [
+          1,
+          "2025-11-19T06:32:12.478764"
+        ],
+        [
+          1,
+          "2025-11-19T06:32:12.704121"
+        ],
+        [
+          1,
+          "2025-11-19T06:32:12.934301"
+        ],
+        [
+          1,
+          "2025-11-19T06:32:13.133055"
+        ]
+      ],
+      "created_utc": 1763562699.0,
+      "depth": 0,
+      "permalink": "/r/DigitalMarketing/comments/1p1973g/attribution_when_user_interacts_with_ai_bot_but/npo9jfz/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npo9jh3",
+      "parent_id": "t3_1p1973g",
+      "author": "AutoModerator",
+      "text_history": [
+        [
+          "Are you a marketing professional and have 15 minutes to share your insights? [Take our 2025 State of Marketing Survey](https://lookingformarketing.com/survey?utm_source=reddit&amp;utm_medium=social&amp;utm_campaign=survey&amp;utm_content=r_digitalmarketing).\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/DigitalMarketing) if you have any questions or concerns.*",
+          "2025-11-19T06:32:08.745398"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T06:32:08.745398"
+        ],
+        [
+          1,
+          "2025-11-19T06:32:08.986673"
+        ],
+        [
+          1,
+          "2025-11-19T06:32:09.245252"
+        ],
+        [
+          1,
+          "2025-11-19T06:32:09.452784"
+        ],
+        [
+          1,
+          "2025-11-19T06:32:09.708483"
+        ],
+        [
+          1,
+          "2025-11-19T06:32:09.919524"
+        ],
+        [
+          1,
+          "2025-11-19T06:32:10.164888"
+        ],
+        [
+          1,
+          "2025-11-19T06:32:10.387805"
+        ],
+        [
+          1,
+          "2025-11-19T06:32:10.628852"
+        ],
+        [
+          1,
+          "2025-11-19T06:32:10.843229"
+        ],
+        [
+          1,
+          "2025-11-19T06:32:11.071238"
+        ],
+        [
+          1,
+          "2025-11-19T06:32:11.305669"
+        ],
+        [
+          1,
+          "2025-11-19T06:32:11.545400"
+        ],
+        [
+          1,
+          "2025-11-19T06:32:11.754466"
+        ],
+        [
+          1,
+          "2025-11-19T06:32:12.029190"
+        ],
+        [
+          1,
+          "2025-11-19T06:32:12.254330"
+        ],
+        [
+          1,
+          "2025-11-19T06:32:12.478764"
+        ],
+        [
+          1,
+          "2025-11-19T06:32:12.704121"
+        ],
+        [
+          1,
+          "2025-11-19T06:32:12.934301"
+        ],
+        [
+          1,
+          "2025-11-19T06:32:13.133055"
+        ]
+      ],
+      "created_utc": 1763562699.0,
+      "depth": 0,
+      "permalink": "/r/DigitalMarketing/comments/1p1973g/attribution_when_user_interacts_with_ai_bot_but/npo9jh3/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T06:32:13.133055",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/DigitalMarketing/comments/1p1973g/attribution_when_user_interacts_with_ai_bot_but/",
+    "total_comments": 2,
+    "top_level_comments": 2,
+    "api_requests": 1,
+    "expected_comments": 2,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 20,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_063208.json",
+      "scrape_002_20251119_063208.json",
+      "scrape_003_20251119_063209.json",
+      "scrape_004_20251119_063209.json",
+      "scrape_005_20251119_063209.json",
+      "scrape_006_20251119_063209.json",
+      "scrape_007_20251119_063209.json",
+      "scrape_008_20251119_063210.json",
+      "scrape_009_20251119_063210.json",
+      "scrape_010_20251119_063210.json",
+      "scrape_011_20251119_063210.json",
+      "scrape_012_20251119_063211.json",
+      "scrape_013_20251119_063211.json",
+      "scrape_014_20251119_063211.json",
+      "scrape_015_20251119_063211.json",
+      "scrape_016_20251119_063212.json",
+      "scrape_017_20251119_063212.json",
+      "scrape_018_20251119_063212.json",
+      "scrape_019_20251119_063212.json",
+      "scrape_020_20251119_063212.json"
+    ]
+  }
+}

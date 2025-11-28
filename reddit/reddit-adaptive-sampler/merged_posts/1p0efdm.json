@@ -1,0 +1,3529 @@
+{
+  "post": {
+    "id": "1p0efdm",
+    "title": "Internet backbone failure raises questions about centralized cloud infrastructure",
+    "author": "zvone187",
+    "score_history": [
+      [
+        596,
+        "2025-11-18T13:49:31.838832"
+      ],
+      [
+        611,
+        "2025-11-18T14:00:41.708959"
+      ],
+      [
+        621,
+        "2025-11-18T14:11:23.632765"
+      ],
+      [
+        634,
+        "2025-11-18T14:20:57.294796"
+      ],
+      [
+        633,
+        "2025-11-18T14:22:02.876089"
+      ],
+      [
+        978,
+        "2025-11-18T22:21:53.586266"
+      ],
+      [
+        1022,
+        "2025-11-19T00:15:31.727580"
+      ],
+      [
+        1054,
+        "2025-11-19T01:51:04.661328"
+      ],
+      [
+        1065,
+        "2025-11-19T02:33:02.778689"
+      ],
+      [
+        1066,
+        "2025-11-19T02:36:35.792873"
+      ],
+      [
+        1141,
+        "2025-11-19T07:22:42.065129"
+      ]
+    ],
+    "created_utc": 1763478670.0,
+    "num_comments": 65,
+    "subreddit": "Futurology",
+    "url": "https://www.theguardian.com/technology/2025/nov/18/cloudflare-outage-causes-error-messages-across-the-internet?utm_source=chatgpt.com",
+    "selftext": "",
+    "permalink": "/r/Futurology/comments/1p0efdm/internet_backbone_failure_raises_questions_about/"
+  },
+  "comments": [
+    {
+      "id": "npiboob",
+      "parent_id": "t3_1p0efdm",
+      "author": "FuturologyBot",
+      "text_history": [
+        [
+          "The following submission statement was provided by /u/zvone187:\n\n---\n\nI mean this outage raises an important question about the future of the internet. As more AI systems, communication platforms, and critical services rely on centralized infrastructure like Cloudflare, the risks of single points of failure continue to grow. If one company’s failure can take down major parts of the web, we may need a new approach to resilience, decentralization, and redundancy. What does a more fault-tolerant internet look like in an AI-driven world??....\n\n---\n\n Please reply to OP's comment here: https://old.reddit.com/r/Futurology/comments/1p0efdm/internet_backbone_failure_raises_questions_about/npi5xtt/",
+          "2025-11-18T13:49:31.838832"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T13:49:31.838832"
+        ],
+        [
+          1,
+          "2025-11-18T14:00:41.708959"
+        ],
+        [
+          1,
+          "2025-11-18T14:11:23.632765"
+        ],
+        [
+          1,
+          "2025-11-18T14:20:57.294796"
+        ],
+        [
+          1,
+          "2025-11-18T14:22:02.876089"
+        ],
+        [
+          1,
+          "2025-11-18T22:21:53.586266"
+        ],
+        [
+          1,
+          "2025-11-19T00:15:31.727580"
+        ],
+        [
+          1,
+          "2025-11-19T01:51:04.661328"
+        ],
+        [
+          1,
+          "2025-11-19T02:33:02.778689"
+        ],
+        [
+          1,
+          "2025-11-19T02:36:35.792873"
+        ],
+        [
+          1,
+          "2025-11-19T07:22:42.065129"
+        ]
+      ],
+      "created_utc": 1763480572.0,
+      "depth": 0,
+      "permalink": "/r/Futurology/comments/1p0efdm/internet_backbone_failure_raises_questions_about/npiboob/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npicdrm",
+      "parent_id": "t3_1p0efdm",
+      "author": "tofu_ink",
+      "text_history": [
+        [
+          "When cloud flare took our a lot of the internet last time, someone posted details about the original plan for internet specs.\n\nThe main take away was any domain names you setup should be routed through TWO separate disconnected DNS services, so when one goes down the other is still functional.... seems like a lot of people didn't think cloud flare would down 'again'",
+          "2025-11-18T13:49:31.838832"
+        ]
+      ],
+      "score_history": [
+        [
+          106,
+          "2025-11-18T13:49:31.838832"
+        ],
+        [
+          108,
+          "2025-11-18T14:00:41.708959"
+        ],
+        [
+          115,
+          "2025-11-18T14:11:23.632765"
+        ],
+        [
+          117,
+          "2025-11-18T14:20:57.294796"
+        ],
+        [
+          117,
+          "2025-11-18T14:22:02.876089"
+        ],
+        [
+          201,
+          "2025-11-18T22:21:53.586266"
+        ],
+        [
+          212,
+          "2025-11-19T00:15:31.727580"
+        ],
+        [
+          215,
+          "2025-11-19T01:51:04.661328"
+        ],
+        [
+          219,
+          "2025-11-19T02:33:02.778689"
+        ],
+        [
+          218,
+          "2025-11-19T02:36:35.792873"
+        ],
+        [
+          235,
+          "2025-11-19T07:22:42.065129"
+        ]
+      ],
+      "created_utc": 1763480780.0,
+      "depth": 0,
+      "permalink": "/r/Futurology/comments/1p0efdm/internet_backbone_failure_raises_questions_about/npicdrm/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npimo31",
+          "parent_id": "t1_npicdrm",
+          "author": "Kermit_the_hog",
+          "text_history": [
+            [
+              "This is such a classic “cloning” problem in Biology you’d think engineers would be more wary of it. \n\nJust takes that one lucky bug every copy is by definition going to be equally susceptible to and 😵 ",
+              "2025-11-18T13:49:31.838832"
+            ]
+          ],
+          "score_history": [
+            [
+              35,
+              "2025-11-18T13:49:31.838832"
+            ],
+            [
+              35,
+              "2025-11-18T14:00:41.708959"
+            ],
+            [
+              35,
+              "2025-11-18T14:11:23.632765"
+            ],
+            [
+              34,
+              "2025-11-18T14:20:57.294796"
+            ],
+            [
+              32,
+              "2025-11-18T14:22:02.876089"
+            ],
+            [
+              56,
+              "2025-11-18T22:21:53.586266"
+            ],
+            [
+              60,
+              "2025-11-19T00:15:31.727580"
+            ],
+            [
+              60,
+              "2025-11-19T01:51:04.661328"
+            ],
+            [
+              64,
+              "2025-11-19T02:33:02.778689"
+            ],
+            [
+              63,
+              "2025-11-19T02:36:35.792873"
+            ],
+            [
+              65,
+              "2025-11-19T07:22:42.065129"
+            ]
+          ],
+          "created_utc": 1763483782.0,
+          "depth": 1,
+          "permalink": "/r/Futurology/comments/1p0efdm/internet_backbone_failure_raises_questions_about/npimo31/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npisuir",
+              "parent_id": "t1_npimo31",
+              "author": "rfc2549-withQOS",
+              "text_history": [
+                [
+                  "Software engineers, i assume? I guess that was an old part of the code that was not updated and worked when CF had a tenth of current traffic... one could blame the sweng from a decade ago to not have proper error handling, tho",
+                  "2025-11-18T13:49:31.838832"
+                ]
+              ],
+              "score_history": [
+                [
+                  3,
+                  "2025-11-18T13:49:31.838832"
+                ],
+                [
+                  1,
+                  "2025-11-18T14:00:41.708959"
+                ],
+                [
+                  2,
+                  "2025-11-18T14:11:23.632765"
+                ],
+                [
+                  1,
+                  "2025-11-18T14:20:57.294796"
+                ],
+                [
+                  1,
+                  "2025-11-18T14:22:02.876089"
+                ],
+                [
+                  4,
+                  "2025-11-18T22:21:53.586266"
+                ],
+                [
+                  5,
+                  "2025-11-19T00:15:31.727580"
+                ],
+                [
+                  5,
+                  "2025-11-19T01:51:04.661328"
+                ],
+                [
+                  6,
+                  "2025-11-19T02:33:02.778689"
+                ],
+                [
+                  5,
+                  "2025-11-19T02:36:35.792873"
+                ],
+                [
+                  8,
+                  "2025-11-19T07:22:42.065129"
+                ]
+              ],
+              "created_utc": 1763485593.0,
+              "depth": 2,
+              "permalink": "/r/Futurology/comments/1p0efdm/internet_backbone_failure_raises_questions_about/npisuir/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": [
+                {
+                  "id": "nplt3p9",
+                  "parent_id": "t1_npisuir",
+                  "author": "GeminiKoil",
+                  "text_history": [
+                    [
+                      "Probably agronomist also or whoever does crop work. If you breed a food crop to get an awesome version of it without realizing it's susceptible to something you could have a very large problem on your hands. Let's say over 10 years every form of that food crop ends up being that same genome or whatever the term is, and a new bug or virus comes in, oops you just lost the entire crop. Hope you didn't need that to, you know, not starve.",
+                      "2025-11-18T22:21:53.586266"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      1,
+                      "2025-11-18T22:21:53.586266"
+                    ],
+                    [
+                      2,
+                      "2025-11-19T00:15:31.727580"
+                    ],
+                    [
+                      2,
+                      "2025-11-19T01:51:04.661328"
+                    ],
+                    [
+                      3,
+                      "2025-11-19T02:33:02.778689"
+                    ],
+                    [
+                      3,
+                      "2025-11-19T02:36:35.792873"
+                    ],
+                    [
+                      3,
+                      "2025-11-19T07:22:42.065129"
+                    ]
+                  ],
+                  "created_utc": 1763520206.0,
+                  "depth": 3,
+                  "permalink": "/r/Futurology/comments/1p0efdm/internet_backbone_failure_raises_questions_about/nplt3p9/",
+                  "is_submitter": false,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": [
+                    {
+                      "id": "npm46pp",
+                      "parent_id": "t1_nplt3p9",
+                      "author": "JMS_jr",
+                      "text_history": [
+                        [
+                          "This has already happened with bananas.  There's no reason to expect it won't happen again with bananas.",
+                          "2025-11-18T22:21:53.586266"
+                        ]
+                      ],
+                      "score_history": [
+                        [
+                          2,
+                          "2025-11-18T22:21:53.586266"
+                        ],
+                        [
+                          2,
+                          "2025-11-19T00:15:31.727580"
+                        ],
+                        [
+                          2,
+                          "2025-11-19T01:51:04.661328"
+                        ],
+                        [
+                          2,
+                          "2025-11-19T02:33:02.778689"
+                        ],
+                        [
+                          2,
+                          "2025-11-19T02:36:35.792873"
+                        ],
+                        [
+                          2,
+                          "2025-11-19T07:22:42.065129"
+                        ]
+                      ],
+                      "created_utc": 1763524384.0,
+                      "depth": 4,
+                      "permalink": "/r/Futurology/comments/1p0efdm/internet_backbone_failure_raises_questions_about/npm46pp/",
+                      "is_submitter": false,
+                      "controversiality": 0,
+                      "gilded": 0,
+                      "edited": false,
+                      "deleted": false,
+                      "deleted_at": null,
+                      "replies": [
+                        {
+                          "id": "npm4cjt",
+                          "parent_id": "t1_npm46pp",
+                          "author": "GeminiKoil",
+                          "text_history": [
+                            [
+                              "Yeah I remembered a story where I got this idea from but couldn't remember if it was a different fruit or the Irish potato famine.",
+                              "2025-11-18T22:21:53.586266"
+                            ]
+                          ],
+                          "score_history": [
+                            [
+                              1,
+                              "2025-11-18T22:21:53.586266"
+                            ],
+                            [
+                              1,
+                              "2025-11-19T00:15:31.727580"
+                            ],
+                            [
+                              1,
+                              "2025-11-19T01:51:04.661328"
+                            ],
+                            [
+                              1,
+                              "2025-11-19T02:33:02.778689"
+                            ],
+                            [
+                              1,
+                              "2025-11-19T02:36:35.792873"
+                            ],
+                            [
+                              1,
+                              "2025-11-19T07:22:42.065129"
+                            ]
+                          ],
+                          "created_utc": 1763524449.0,
+                          "depth": 5,
+                          "permalink": "/r/Futurology/comments/1p0efdm/internet_backbone_failure_raises_questions_about/npm4cjt/",
+                          "is_submitter": false,
+                          "controversiality": 0,
+                          "gilded": 0,
+                          "edited": false,
+                          "deleted": false,
+                          "deleted_at": null,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "npks7pi",
+          "parent_id": "t1_npicdrm",
+          "author": "rtangxps9",
+          "text_history": [
+            [
+              "$$$ is the answer that people don't route through 2 separate. Suffering an outage of several hours for every x amount of years might be okay versus paying for two separate dns services for the same time span.\n\nYou'll have to look at your web application and see how much money you may have lost over the outage versus the cost of maintaining two separate dns services.",
+              "2025-11-18T22:21:53.586266"
+            ]
+          ],
+          "score_history": [
+            [
+              13,
+              "2025-11-18T22:21:53.586266"
+            ],
+            [
+              13,
+              "2025-11-19T00:15:31.727580"
+            ],
+            [
+              13,
+              "2025-11-19T01:51:04.661328"
+            ],
+            [
+              14,
+              "2025-11-19T02:33:02.778689"
+            ],
+            [
+              14,
+              "2025-11-19T02:36:35.792873"
+            ],
+            [
+              15,
+              "2025-11-19T07:22:42.065129"
+            ]
+          ],
+          "created_utc": 1763507087.0,
+          "depth": 1,
+          "permalink": "/r/Futurology/comments/1p0efdm/internet_backbone_failure_raises_questions_about/npks7pi/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npkvfk2",
+              "parent_id": "t1_npks7pi",
+              "author": "whoknows234",
+              "text_history": [
+                [
+                  "Even if there were 2 separate DNS servers, its still might impact operations, eg sites will load slower as they try via cloudflare DNS and then time out and use their secondary.",
+                  "2025-11-18T22:21:53.586266"
+                ]
+              ],
+              "score_history": [
+                [
+                  3,
+                  "2025-11-18T22:21:53.586266"
+                ],
+                [
+                  3,
+                  "2025-11-19T00:15:31.727580"
+                ],
+                [
+                  3,
+                  "2025-11-19T01:51:04.661328"
+                ],
+                [
+                  3,
+                  "2025-11-19T02:33:02.778689"
+                ],
+                [
+                  3,
+                  "2025-11-19T02:36:35.792873"
+                ],
+                [
+                  3,
+                  "2025-11-19T07:22:42.065129"
+                ]
+              ],
+              "created_utc": 1763508206.0,
+              "depth": 2,
+              "permalink": "/r/Futurology/comments/1p0efdm/internet_backbone_failure_raises_questions_about/npkvfk2/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            },
+            {
+              "id": "nplx9k7",
+              "parent_id": "t1_npks7pi",
+              "author": "19olo",
+              "text_history": [
+                [
+                  "Different websites should adopt different solutions. ChatGPT or X is way too important to be down even for just a few hours in a year, than compared to your average game wiki.",
+                  "2025-11-18T22:21:53.586266"
+                ]
+              ],
+              "score_history": [
+                [
+                  0,
+                  "2025-11-18T22:21:53.586266"
+                ],
+                [
+                  -2,
+                  "2025-11-19T00:15:31.727580"
+                ],
+                [
+                  -2,
+                  "2025-11-19T01:51:04.661328"
+                ],
+                [
+                  -2,
+                  "2025-11-19T02:33:02.778689"
+                ],
+                [
+                  -2,
+                  "2025-11-19T02:36:35.792873"
+                ],
+                [
+                  -6,
+                  "2025-11-19T07:22:42.065129"
+                ]
+              ],
+              "created_utc": 1763521708.0,
+              "depth": 2,
+              "permalink": "/r/Futurology/comments/1p0efdm/internet_backbone_failure_raises_questions_about/nplx9k7/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": [
+                {
+                  "id": "npmj762",
+                  "parent_id": "t1_nplx9k7",
+                  "author": "ItsYume",
+                  "text_history": [
+                    [
+                      "Nothing of value was lost with X being down.",
+                      "2025-11-18T22:21:53.586266"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      1,
+                      "2025-11-18T22:21:53.586266"
+                    ],
+                    [
+                      3,
+                      "2025-11-19T00:15:31.727580"
+                    ],
+                    [
+                      3,
+                      "2025-11-19T01:51:04.661328"
+                    ],
+                    [
+                      3,
+                      "2025-11-19T02:33:02.778689"
+                    ],
+                    [
+                      3,
+                      "2025-11-19T02:36:35.792873"
+                    ],
+                    [
+                      5,
+                      "2025-11-19T07:22:42.065129"
+                    ]
+                  ],
+                  "created_utc": 1763531163.0,
+                  "depth": 3,
+                  "permalink": "/r/Futurology/comments/1p0efdm/internet_backbone_failure_raises_questions_about/npmj762/",
+                  "is_submitter": false,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "npkn1fo",
+          "parent_id": "t1_npicdrm",
+          "author": "duderguy91",
+          "text_history": [
+            [
+              "The entire white paper for DNS reads like an indictment of today’s internet infrastructure.",
+              "2025-11-18T22:21:53.586266"
+            ]
+          ],
+          "score_history": [
+            [
+              11,
+              "2025-11-18T22:21:53.586266"
+            ],
+            [
+              10,
+              "2025-11-19T00:15:31.727580"
+            ],
+            [
+              12,
+              "2025-11-19T01:51:04.661328"
+            ],
+            [
+              13,
+              "2025-11-19T02:33:02.778689"
+            ],
+            [
+              13,
+              "2025-11-19T02:36:35.792873"
+            ],
+            [
+              13,
+              "2025-11-19T07:22:42.065129"
+            ]
+          ],
+          "created_utc": 1763505355.0,
+          "depth": 1,
+          "permalink": "/r/Futurology/comments/1p0efdm/internet_backbone_failure_raises_questions_about/npkn1fo/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npnx23l",
+              "parent_id": "t1_npkn1fo",
+              "author": "Z3r0sama2017",
+              "text_history": [
+                [
+                  "Society in general. Zero redundancy in favour of penny pinching.",
+                  "2025-11-19T07:22:42.065129"
+                ]
+              ],
+              "score_history": [
+                [
+                  0,
+                  "2025-11-19T07:22:42.065129"
+                ]
+              ],
+              "created_utc": 1763558291.0,
+              "depth": 2,
+              "permalink": "/r/Futurology/comments/1p0efdm/internet_backbone_failure_raises_questions_about/npnx23l/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "npkf7k1",
+          "parent_id": "t1_npicdrm",
+          "author": "demalo",
+          "text_history": [
+            [
+              "I think there’s a bunch of issues going.  One is likely that DNS settings are believed to be decentralized but in fact no longer are.  As internet DNS footprints have increased their ownership has decreased.  Ownership leads to consolidation.  Just because the dns ips still exist doesn’t mean they haven’t been forwarded to fewer and fewer actual dns.",
+              "2025-11-18T14:00:41.708959"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T14:00:41.708959"
+            ],
+            [
+              1,
+              "2025-11-18T14:11:23.632765"
+            ],
+            [
+              1,
+              "2025-11-18T14:20:57.294796"
+            ],
+            [
+              1,
+              "2025-11-18T14:22:02.876089"
+            ],
+            [
+              3,
+              "2025-11-18T22:21:53.586266"
+            ],
+            [
+              4,
+              "2025-11-19T00:15:31.727580"
+            ],
+            [
+              5,
+              "2025-11-19T01:51:04.661328"
+            ],
+            [
+              4,
+              "2025-11-19T02:33:02.778689"
+            ],
+            [
+              4,
+              "2025-11-19T02:36:35.792873"
+            ],
+            [
+              4,
+              "2025-11-19T07:22:42.065129"
+            ]
+          ],
+          "created_utc": 1763502872.0,
+          "depth": 1,
+          "permalink": "/r/Futurology/comments/1p0efdm/internet_backbone_failure_raises_questions_about/npkf7k1/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npihb7g",
+      "parent_id": "t3_1p0efdm",
+      "author": "Alexis_J_M",
+      "text_history": [
+        [
+          "Sears and AOL should have taught us that nobody is too big to fail.",
+          "2025-11-18T13:49:31.838832"
+        ]
+      ],
+      "score_history": [
+        [
+          22,
+          "2025-11-18T13:49:31.838832"
+        ],
+        [
+          23,
+          "2025-11-18T14:00:41.708959"
+        ],
+        [
+          24,
+          "2025-11-18T14:11:23.632765"
+        ],
+        [
+          25,
+          "2025-11-18T14:20:57.294796"
+        ],
+        [
+          26,
+          "2025-11-18T14:22:02.876089"
+        ],
+        [
+          38,
+          "2025-11-18T22:21:53.586266"
+        ],
+        [
+          40,
+          "2025-11-19T00:15:31.727580"
+        ],
+        [
+          44,
+          "2025-11-19T01:51:04.661328"
+        ],
+        [
+          44,
+          "2025-11-19T02:33:02.778689"
+        ],
+        [
+          43,
+          "2025-11-19T02:36:35.792873"
+        ],
+        [
+          43,
+          "2025-11-19T07:22:42.065129"
+        ]
+      ],
+      "created_utc": 1763482220.0,
+      "depth": 0,
+      "permalink": "/r/Futurology/comments/1p0efdm/internet_backbone_failure_raises_questions_about/npihb7g/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npin1c3",
+      "parent_id": "t3_1p0efdm",
+      "author": "va_wanderer",
+      "text_history": [
+        [
+          "A system originally designed to be robust via redundancy now has massive amounts of it's critical systems running through singular break points.\n\nWhat could *possibly* go wrong?",
+          "2025-11-18T13:49:31.838832"
+        ]
+      ],
+      "score_history": [
+        [
+          35,
+          "2025-11-18T13:49:31.838832"
+        ],
+        [
+          37,
+          "2025-11-18T14:00:41.708959"
+        ],
+        [
+          40,
+          "2025-11-18T14:11:23.632765"
+        ],
+        [
+          40,
+          "2025-11-18T14:20:57.294796"
+        ],
+        [
+          43,
+          "2025-11-18T14:22:02.876089"
+        ],
+        [
+          66,
+          "2025-11-18T22:21:53.586266"
+        ],
+        [
+          70,
+          "2025-11-19T00:15:31.727580"
+        ],
+        [
+          70,
+          "2025-11-19T01:51:04.661328"
+        ],
+        [
+          69,
+          "2025-11-19T02:33:02.778689"
+        ],
+        [
+          72,
+          "2025-11-19T02:36:35.792873"
+        ],
+        [
+          74,
+          "2025-11-19T07:22:42.065129"
+        ]
+      ],
+      "created_utc": 1763483890.0,
+      "depth": 0,
+      "permalink": "/r/Futurology/comments/1p0efdm/internet_backbone_failure_raises_questions_about/npin1c3/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npk6frn",
+          "parent_id": "t1_npin1c3",
+          "author": "El_Kikko",
+          "text_history": [
+            [
+              "I believe the term you are looking for is [The Jesus Nut](https://en.wikipedia.org/wiki/Jesus_nut)",
+              "2025-11-18T13:49:31.838832"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T13:49:31.838832"
+            ],
+            [
+              1,
+              "2025-11-18T14:00:41.708959"
+            ],
+            [
+              1,
+              "2025-11-18T14:11:23.632765"
+            ],
+            [
+              1,
+              "2025-11-18T14:20:57.294796"
+            ],
+            [
+              1,
+              "2025-11-18T14:22:02.876089"
+            ],
+            [
+              9,
+              "2025-11-18T22:21:53.586266"
+            ],
+            [
+              10,
+              "2025-11-19T00:15:31.727580"
+            ],
+            [
+              10,
+              "2025-11-19T01:51:04.661328"
+            ],
+            [
+              10,
+              "2025-11-19T02:33:02.778689"
+            ],
+            [
+              9,
+              "2025-11-19T02:36:35.792873"
+            ],
+            [
+              11,
+              "2025-11-19T07:22:42.065129"
+            ]
+          ],
+          "created_utc": 1763500249.0,
+          "depth": 1,
+          "permalink": "/r/Futurology/comments/1p0efdm/internet_backbone_failure_raises_questions_about/npk6frn/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npkdfso",
+              "parent_id": "t1_npk6frn",
+              "author": "va_wanderer",
+              "text_history": [
+                [
+                  "An excellent example. Especially as people are now going \"Jesus, GitHub dropped too?\"",
+                  "2025-11-18T13:49:31.838832"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-18T13:49:31.838832"
+                ],
+                [
+                  1,
+                  "2025-11-18T14:00:41.708959"
+                ],
+                [
+                  1,
+                  "2025-11-18T14:11:23.632765"
+                ],
+                [
+                  1,
+                  "2025-11-18T14:20:57.294796"
+                ],
+                [
+                  1,
+                  "2025-11-18T14:22:02.876089"
+                ],
+                [
+                  5,
+                  "2025-11-18T22:21:53.586266"
+                ],
+                [
+                  6,
+                  "2025-11-19T00:15:31.727580"
+                ],
+                [
+                  6,
+                  "2025-11-19T01:51:04.661328"
+                ],
+                [
+                  8,
+                  "2025-11-19T02:33:02.778689"
+                ],
+                [
+                  8,
+                  "2025-11-19T02:36:35.792873"
+                ],
+                [
+                  6,
+                  "2025-11-19T07:22:42.065129"
+                ]
+              ],
+              "created_utc": 1763502344.0,
+              "depth": 2,
+              "permalink": "/r/Futurology/comments/1p0efdm/internet_backbone_failure_raises_questions_about/npkdfso/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "npiesod",
+      "parent_id": "t3_1p0efdm",
+      "author": "adilly",
+      "text_history": [
+        [
+          "Crowd Strike, Azure/MS, AWS, and cloud flare. It’s like the four horsemen of the internet apocalypse and each one has either caused or been part of multi million if not billion dollar outages. There’s little to no recourse that I know of coming from each of these other than “whoopsie!”. \n\nThe scale of the problem is immense. These companies force AI on more platforms and fire workers all the while no one is learning basic coding anymore. Adding it all up and you can see where this system comes crashing down and no one will know how to fix it or make it better.",
+          "2025-11-18T13:49:31.838832"
+        ]
+      ],
+      "score_history": [
+        [
+          51,
+          "2025-11-18T13:49:31.838832"
+        ],
+        [
+          50,
+          "2025-11-18T14:00:41.708959"
+        ],
+        [
+          51,
+          "2025-11-18T14:11:23.632765"
+        ],
+        [
+          53,
+          "2025-11-18T14:20:57.294796"
+        ],
+        [
+          54,
+          "2025-11-18T14:22:02.876089"
+        ],
+        [
+          80,
+          "2025-11-18T22:21:53.586266"
+        ],
+        [
+          81,
+          "2025-11-19T00:15:31.727580"
+        ],
+        [
+          83,
+          "2025-11-19T01:51:04.661328"
+        ],
+        [
+          82,
+          "2025-11-19T02:33:02.778689"
+        ],
+        [
+          83,
+          "2025-11-19T02:36:35.792873"
+        ],
+        [
+          84,
+          "2025-11-19T07:22:42.065129"
+        ]
+      ],
+      "created_utc": 1763481488.0,
+      "depth": 0,
+      "permalink": "/r/Futurology/comments/1p0efdm/internet_backbone_failure_raises_questions_about/npiesod/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npkgv8f",
+          "parent_id": "t1_npiesod",
+          "author": "Fraerie",
+          "text_history": [
+            [
+              "There’s a reason a number of EU countries are starting to move off the US infrastructure platforms to federated distributed systems hosted in the EU instead.",
+              "2025-11-18T14:11:23.632765"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T14:11:23.632765"
+            ],
+            [
+              1,
+              "2025-11-18T14:20:57.294796"
+            ],
+            [
+              1,
+              "2025-11-18T14:22:02.876089"
+            ],
+            [
+              10,
+              "2025-11-18T22:21:53.586266"
+            ],
+            [
+              10,
+              "2025-11-19T00:15:31.727580"
+            ],
+            [
+              11,
+              "2025-11-19T01:51:04.661328"
+            ],
+            [
+              12,
+              "2025-11-19T02:33:02.778689"
+            ],
+            [
+              11,
+              "2025-11-19T02:36:35.792873"
+            ],
+            [
+              12,
+              "2025-11-19T07:22:42.065129"
+            ]
+          ],
+          "created_utc": 1763503375.0,
+          "depth": 1,
+          "permalink": "/r/Futurology/comments/1p0efdm/internet_backbone_failure_raises_questions_about/npkgv8f/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "nplfnl1",
+              "parent_id": "t1_npkgv8f",
+              "author": "Nimeroni",
+              "text_history": [
+                [
+                  "The EU is pulling off the US cloud infrastructure for purely geopolitical reasons (the EU can't trust the US, especially with the other idiot at the top trying a trade war with everyone).",
+                  "2025-11-18T22:21:53.586266"
+                ]
+              ],
+              "score_history": [
+                [
+                  5,
+                  "2025-11-18T22:21:53.586266"
+                ],
+                [
+                  6,
+                  "2025-11-19T00:15:31.727580"
+                ],
+                [
+                  7,
+                  "2025-11-19T01:51:04.661328"
+                ],
+                [
+                  7,
+                  "2025-11-19T02:33:02.778689"
+                ],
+                [
+                  6,
+                  "2025-11-19T02:36:35.792873"
+                ],
+                [
+                  7,
+                  "2025-11-19T07:22:42.065129"
+                ]
+              ],
+              "created_utc": 1763515380.0,
+              "depth": 2,
+              "permalink": "/r/Futurology/comments/1p0efdm/internet_backbone_failure_raises_questions_about/nplfnl1/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": [
+                {
+                  "id": "npn0m1c",
+                  "parent_id": "t1_nplfnl1",
+                  "author": "Ascarea",
+                  "text_history": [
+                    [
+                      "both reasons can be true at the same time",
+                      "2025-11-19T01:51:04.661328"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      1,
+                      "2025-11-19T01:51:04.661328"
+                    ],
+                    [
+                      1,
+                      "2025-11-19T02:33:02.778689"
+                    ],
+                    [
+                      1,
+                      "2025-11-19T02:36:35.792873"
+                    ],
+                    [
+                      1,
+                      "2025-11-19T07:22:42.065129"
+                    ]
+                  ],
+                  "created_utc": 1763541125.0,
+                  "depth": 3,
+                  "permalink": "/r/Futurology/comments/1p0efdm/internet_backbone_failure_raises_questions_about/npn0m1c/",
+                  "is_submitter": false,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "npjavlz",
+          "parent_id": "t1_npiesod",
+          "author": "Fantasy_masterMC",
+          "text_history": [
+            [
+              "Well, if people keep on not learning basic coding at least my apparent tendency to constantly reinvent the wheel may come in handy someday.\nSadly, my current 'expertise' is limited to javascript and python, still got a few more languages to go if I want to be able to maintain a backbone of anything.",
+              "2025-11-18T13:49:31.838832"
+            ]
+          ],
+          "score_history": [
+            [
+              5,
+              "2025-11-18T13:49:31.838832"
+            ],
+            [
+              7,
+              "2025-11-18T14:00:41.708959"
+            ],
+            [
+              6,
+              "2025-11-18T14:11:23.632765"
+            ],
+            [
+              4,
+              "2025-11-18T14:20:57.294796"
+            ],
+            [
+              4,
+              "2025-11-18T14:22:02.876089"
+            ],
+            [
+              7,
+              "2025-11-18T22:21:53.586266"
+            ],
+            [
+              7,
+              "2025-11-19T00:15:31.727580"
+            ],
+            [
+              8,
+              "2025-11-19T01:51:04.661328"
+            ],
+            [
+              7,
+              "2025-11-19T02:33:02.778689"
+            ],
+            [
+              7,
+              "2025-11-19T02:36:35.792873"
+            ],
+            [
+              10,
+              "2025-11-19T07:22:42.065129"
+            ]
+          ],
+          "created_utc": 1763490839.0,
+          "depth": 1,
+          "permalink": "/r/Futurology/comments/1p0efdm/internet_backbone_failure_raises_questions_about/npjavlz/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        },
+        {
+          "id": "npinb51",
+          "parent_id": "t1_npiesod",
+          "author": "Kermit_the_hog",
+          "text_history": [
+            [
+              "Having grown up in the Seattle area, I always wondered if Microsoft and Amazon would someday merge. \n\nLike, we occasionally make some truly boneheaded antitrust decision depending the prevailing politics and it’s not like it isn’t frankly a lot of the same people moving back and forth. ",
+              "2025-11-18T13:49:31.838832"
+            ]
+          ],
+          "score_history": [
+            [
+              14,
+              "2025-11-18T13:49:31.838832"
+            ],
+            [
+              13,
+              "2025-11-18T14:00:41.708959"
+            ],
+            [
+              12,
+              "2025-11-18T14:11:23.632765"
+            ],
+            [
+              12,
+              "2025-11-18T14:20:57.294796"
+            ],
+            [
+              13,
+              "2025-11-18T14:22:02.876089"
+            ],
+            [
+              17,
+              "2025-11-18T22:21:53.586266"
+            ],
+            [
+              16,
+              "2025-11-19T00:15:31.727580"
+            ],
+            [
+              17,
+              "2025-11-19T01:51:04.661328"
+            ],
+            [
+              17,
+              "2025-11-19T02:33:02.778689"
+            ],
+            [
+              18,
+              "2025-11-19T02:36:35.792873"
+            ],
+            [
+              17,
+              "2025-11-19T07:22:42.065129"
+            ]
+          ],
+          "created_utc": 1763483969.0,
+          "depth": 1,
+          "permalink": "/r/Futurology/comments/1p0efdm/internet_backbone_failure_raises_questions_about/npinb51/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        },
+        {
+          "id": "nplf2y8",
+          "parent_id": "t1_npiesod",
+          "author": "Nimeroni",
+          "text_history": [
+            [
+              "&gt; The scale of the problem is immense. These companies force AI on more platforms and fire workers all the while no one is learning basic coding anymore. Adding it all up and you can see where this system comes crashing down and no one will know how to fix it or make it better.\n\nAI bring a lot of problems, but it's not really relevant to the issue at hand. We would have the same outage if AI didn't exist at all. It's purely about infrastructures (and the cost of redundancy).",
+              "2025-11-18T22:21:53.586266"
+            ]
+          ],
+          "score_history": [
+            [
+              2,
+              "2025-11-18T22:21:53.586266"
+            ],
+            [
+              2,
+              "2025-11-19T00:15:31.727580"
+            ],
+            [
+              2,
+              "2025-11-19T01:51:04.661328"
+            ],
+            [
+              2,
+              "2025-11-19T02:33:02.778689"
+            ],
+            [
+              2,
+              "2025-11-19T02:36:35.792873"
+            ],
+            [
+              3,
+              "2025-11-19T07:22:42.065129"
+            ]
+          ],
+          "created_utc": 1763515174.0,
+          "depth": 1,
+          "permalink": "/r/Futurology/comments/1p0efdm/internet_backbone_failure_raises_questions_about/nplf2y8/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npk9zyg",
+      "parent_id": "t3_1p0efdm",
+      "author": "ramriot",
+      "text_history": [
+        [
+          "BTW I don't believe the word \"backbone\" appears in the article &amp; quite rightly because that is not what Cloudflare does &amp; The Guardian has good enough journalists to know that.",
+          "2025-11-18T13:49:31.838832"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T13:49:31.838832"
+        ],
+        [
+          1,
+          "2025-11-18T14:00:41.708959"
+        ],
+        [
+          1,
+          "2025-11-18T14:11:23.632765"
+        ],
+        [
+          1,
+          "2025-11-18T14:20:57.294796"
+        ],
+        [
+          1,
+          "2025-11-18T14:22:02.876089"
+        ],
+        [
+          9,
+          "2025-11-18T22:21:53.586266"
+        ],
+        [
+          9,
+          "2025-11-19T00:15:31.727580"
+        ],
+        [
+          10,
+          "2025-11-19T01:51:04.661328"
+        ],
+        [
+          10,
+          "2025-11-19T02:33:02.778689"
+        ],
+        [
+          10,
+          "2025-11-19T02:36:35.792873"
+        ],
+        [
+          12,
+          "2025-11-19T07:22:42.065129"
+        ]
+      ],
+      "created_utc": 1763501303.0,
+      "depth": 0,
+      "permalink": "/r/Futurology/comments/1p0efdm/internet_backbone_failure_raises_questions_about/npk9zyg/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "nplx2bx",
+          "parent_id": "t1_npk9zyg",
+          "author": "manicdee33",
+          "text_history": [
+            [
+              "CDNs are the backbone of the (commercial) internet. You don’t need that language to explicitly exist in the article for it to be true.",
+              "2025-11-18T22:21:53.586266"
+            ]
+          ],
+          "score_history": [
+            [
+              3,
+              "2025-11-18T22:21:53.586266"
+            ],
+            [
+              3,
+              "2025-11-19T00:15:31.727580"
+            ],
+            [
+              3,
+              "2025-11-19T01:51:04.661328"
+            ],
+            [
+              3,
+              "2025-11-19T02:33:02.778689"
+            ],
+            [
+              3,
+              "2025-11-19T02:36:35.792873"
+            ],
+            [
+              1,
+              "2025-11-19T07:22:42.065129"
+            ]
+          ],
+          "created_utc": 1763521637.0,
+          "depth": 1,
+          "permalink": "/r/Futurology/comments/1p0efdm/internet_backbone_failure_raises_questions_about/nplx2bx/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "nply4xm",
+              "parent_id": "t1_nplx2bx",
+              "author": "ramriot",
+              "text_history": [
+                [
+                  "You added \"commercial\" to fallaciously move the goalposts, but even so CDNs are an overlay network over the backbone of the actual distributed &amp; robust internet.\n\nClearly the current outage shows that such can be mismanaged in ways that make them a single point of failure.",
+                  "2025-11-18T22:21:53.586266"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-18T22:21:53.586266"
+                ],
+                [
+                  2,
+                  "2025-11-19T00:15:31.727580"
+                ],
+                [
+                  2,
+                  "2025-11-19T01:51:04.661328"
+                ],
+                [
+                  2,
+                  "2025-11-19T02:33:02.778689"
+                ],
+                [
+                  2,
+                  "2025-11-19T02:36:35.792873"
+                ],
+                [
+                  4,
+                  "2025-11-19T07:22:42.065129"
+                ]
+              ],
+              "created_utc": 1763522024.0,
+              "depth": 2,
+              "permalink": "/r/Futurology/comments/1p0efdm/internet_backbone_failure_raises_questions_about/nply4xm/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": [
+                {
+                  "id": "npmgk8v",
+                  "parent_id": "t1_nply4xm",
+                  "author": "manicdee33",
+                  "text_history": [
+                    [
+                      "I wasn't moving goalposts, I was simply pointing out that there is a commercially operated Internet which is distinct to various academic and military networks which are still part of \"the internet\" but very few people use those enough to care, compared to the number of people that unknowingly depend on Cloudflare and Amazon us-east-02.",
+                      "2025-11-18T22:21:53.586266"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      1,
+                      "2025-11-18T22:21:53.586266"
+                    ],
+                    [
+                      1,
+                      "2025-11-19T00:15:31.727580"
+                    ],
+                    [
+                      1,
+                      "2025-11-19T01:51:04.661328"
+                    ],
+                    [
+                      1,
+                      "2025-11-19T02:33:02.778689"
+                    ],
+                    [
+                      1,
+                      "2025-11-19T02:36:35.792873"
+                    ],
+                    [
+                      1,
+                      "2025-11-19T07:22:42.065129"
+                    ]
+                  ],
+                  "created_utc": 1763529874.0,
+                  "depth": 3,
+                  "permalink": "/r/Futurology/comments/1p0efdm/internet_backbone_failure_raises_questions_about/npmgk8v/",
+                  "is_submitter": false,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": [
+                    {
+                      "id": "npnsqfo",
+                      "parent_id": "t1_npmgk8v",
+                      "author": "Jobenben-tameyre",
+                      "text_history": [
+                        [
+                          "that's non sense.\n\nCloudflare is not the backbone of internet, it's just an host provider for other company\n\nthe backbone of internet is all the conjointed ISP infrastructure, Layer 2 and Layer 3 devices doted across the world creating the mesh of interconnectivity capable of actualy transporting and routing data between different location.",
+                          "2025-11-19T07:22:42.065129"
+                        ]
+                      ],
+                      "score_history": [
+                        [
+                          2,
+                          "2025-11-19T07:22:42.065129"
+                        ]
+                      ],
+                      "created_utc": 1763556583.0,
+                      "depth": 4,
+                      "permalink": "/r/Futurology/comments/1p0efdm/internet_backbone_failure_raises_questions_about/npnsqfo/",
+                      "is_submitter": false,
+                      "controversiality": 0,
+                      "gilded": 0,
+                      "edited": false,
+                      "deleted": false,
+                      "deleted_at": null,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "npkf0nd",
+      "parent_id": "t3_1p0efdm",
+      "author": "warehousedatawrangle",
+      "text_history": [
+        [
+          "The conundrum I see is that choosing Cloudflare is a very good decision most of the time for businesses. Choosing AWS is a very good business decision for individual businesses. Choosing Microsoft Office, or Outlook, or Windows is a very good decision from an individual company perspective.\n\nBut aggregate all of those very good decisions across the whole of society, and it is a very bad situation.",
+          "2025-11-18T14:00:41.708959"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:00:41.708959"
+        ],
+        [
+          1,
+          "2025-11-18T14:11:23.632765"
+        ],
+        [
+          1,
+          "2025-11-18T14:20:57.294796"
+        ],
+        [
+          1,
+          "2025-11-18T14:22:02.876089"
+        ],
+        [
+          8,
+          "2025-11-18T22:21:53.586266"
+        ],
+        [
+          10,
+          "2025-11-19T00:15:31.727580"
+        ],
+        [
+          10,
+          "2025-11-19T01:51:04.661328"
+        ],
+        [
+          9,
+          "2025-11-19T02:33:02.778689"
+        ],
+        [
+          10,
+          "2025-11-19T02:36:35.792873"
+        ],
+        [
+          9,
+          "2025-11-19T07:22:42.065129"
+        ]
+      ],
+      "created_utc": 1763502813.0,
+      "depth": 0,
+      "permalink": "/r/Futurology/comments/1p0efdm/internet_backbone_failure_raises_questions_about/npkf0nd/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npimy98",
+      "parent_id": "t3_1p0efdm",
+      "author": "Aanar",
+      "text_history": [
+        [
+          "Just have AI recode the entire internet to fix it.  What could go wrong?",
+          "2025-11-18T13:49:31.838832"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-18T13:49:31.838832"
+        ],
+        [
+          2,
+          "2025-11-18T14:00:41.708959"
+        ],
+        [
+          3,
+          "2025-11-18T14:11:23.632765"
+        ],
+        [
+          3,
+          "2025-11-18T14:20:57.294796"
+        ],
+        [
+          3,
+          "2025-11-18T14:22:02.876089"
+        ],
+        [
+          8,
+          "2025-11-18T22:21:53.586266"
+        ],
+        [
+          7,
+          "2025-11-19T00:15:31.727580"
+        ],
+        [
+          8,
+          "2025-11-19T01:51:04.661328"
+        ],
+        [
+          9,
+          "2025-11-19T02:33:02.778689"
+        ],
+        [
+          8,
+          "2025-11-19T02:36:35.792873"
+        ],
+        [
+          9,
+          "2025-11-19T07:22:42.065129"
+        ]
+      ],
+      "created_utc": 1763483865.0,
+      "depth": 0,
+      "permalink": "/r/Futurology/comments/1p0efdm/internet_backbone_failure_raises_questions_about/npimy98/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npi5xtt",
+      "parent_id": "t3_1p0efdm",
+      "author": "zvone187",
+      "text_history": [
+        [
+          "I mean this outage raises an important question about the future of the internet. As more AI systems, communication platforms, and critical services rely on centralized infrastructure like Cloudflare, the risks of single points of failure continue to grow. If one company’s failure can take down major parts of the web, we may need a new approach to resilience, decentralization, and redundancy. What does a more fault-tolerant internet look like in an AI-driven world??....",
+          "2025-11-18T13:49:31.838832"
+        ]
+      ],
+      "score_history": [
+        [
+          32,
+          "2025-11-18T13:49:31.838832"
+        ],
+        [
+          28,
+          "2025-11-18T14:00:41.708959"
+        ],
+        [
+          31,
+          "2025-11-18T14:11:23.632765"
+        ],
+        [
+          28,
+          "2025-11-18T14:20:57.294796"
+        ],
+        [
+          31,
+          "2025-11-18T14:22:02.876089"
+        ],
+        [
+          37,
+          "2025-11-18T22:21:53.586266"
+        ],
+        [
+          39,
+          "2025-11-19T00:15:31.727580"
+        ],
+        [
+          40,
+          "2025-11-19T01:51:04.661328"
+        ],
+        [
+          40,
+          "2025-11-19T02:33:02.778689"
+        ],
+        [
+          37,
+          "2025-11-19T02:36:35.792873"
+        ],
+        [
+          39,
+          "2025-11-19T07:22:42.065129"
+        ]
+      ],
+      "created_utc": 1763478846.0,
+      "depth": 0,
+      "permalink": "/r/Futurology/comments/1p0efdm/internet_backbone_failure_raises_questions_about/npi5xtt/",
+      "is_submitter": true,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npiisnq",
+          "parent_id": "t1_npi5xtt",
+          "author": "twtwtwtwtwtwtw",
+          "text_history": [
+            [
+              "But then how is Jeff Bezos going to hoard all the things?",
+              "2025-11-18T13:49:31.838832"
+            ]
+          ],
+          "score_history": [
+            [
+              16,
+              "2025-11-18T13:49:31.838832"
+            ],
+            [
+              14,
+              "2025-11-18T14:00:41.708959"
+            ],
+            [
+              16,
+              "2025-11-18T14:11:23.632765"
+            ],
+            [
+              13,
+              "2025-11-18T14:20:57.294796"
+            ],
+            [
+              14,
+              "2025-11-18T14:22:02.876089"
+            ],
+            [
+              22,
+              "2025-11-18T22:21:53.586266"
+            ],
+            [
+              20,
+              "2025-11-19T00:15:31.727580"
+            ],
+            [
+              20,
+              "2025-11-19T01:51:04.661328"
+            ],
+            [
+              23,
+              "2025-11-19T02:33:02.778689"
+            ],
+            [
+              23,
+              "2025-11-19T02:36:35.792873"
+            ],
+            [
+              23,
+              "2025-11-19T07:22:42.065129"
+            ]
+          ],
+          "created_utc": 1763482655.0,
+          "depth": 1,
+          "permalink": "/r/Futurology/comments/1p0efdm/internet_backbone_failure_raises_questions_about/npiisnq/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        },
+        {
+          "id": "npiw0px",
+          "parent_id": "t1_npi5xtt",
+          "author": "QwertzOne",
+          "text_history": [
+            [
+              "People used to use small, decentralized websites, forums, applications. However such structure of organization does not reflect centralization of power in capitalism, so it was matter of time, before it was monopolized by those with money and centralized into few products/services that dominate markets.\n\nEverything follows rules of capitalism as long as it's dominant ideology.",
+              "2025-11-18T13:49:31.838832"
+            ]
+          ],
+          "score_history": [
+            [
+              8,
+              "2025-11-18T13:49:31.838832"
+            ],
+            [
+              7,
+              "2025-11-18T14:00:41.708959"
+            ],
+            [
+              8,
+              "2025-11-18T14:11:23.632765"
+            ],
+            [
+              9,
+              "2025-11-18T14:20:57.294796"
+            ],
+            [
+              8,
+              "2025-11-18T14:22:02.876089"
+            ],
+            [
+              13,
+              "2025-11-18T22:21:53.586266"
+            ],
+            [
+              12,
+              "2025-11-19T00:15:31.727580"
+            ],
+            [
+              12,
+              "2025-11-19T01:51:04.661328"
+            ],
+            [
+              13,
+              "2025-11-19T02:33:02.778689"
+            ],
+            [
+              12,
+              "2025-11-19T02:36:35.792873"
+            ],
+            [
+              12,
+              "2025-11-19T07:22:42.065129"
+            ]
+          ],
+          "created_utc": 1763486530.0,
+          "depth": 1,
+          "permalink": "/r/Futurology/comments/1p0efdm/internet_backbone_failure_raises_questions_about/npiw0px/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npkln3x",
+              "parent_id": "t1_npiw0px",
+              "author": "apokrif1",
+              "text_history": [
+                [
+                  "Nobody prevents you from using the fediverse, Usenet, webforums or blogs.",
+                  "2025-11-18T22:21:53.586266"
+                ]
+              ],
+              "score_history": [
+                [
+                  0,
+                  "2025-11-18T22:21:53.586266"
+                ],
+                [
+                  0,
+                  "2025-11-19T00:15:31.727580"
+                ],
+                [
+                  0,
+                  "2025-11-19T01:51:04.661328"
+                ],
+                [
+                  0,
+                  "2025-11-19T02:33:02.778689"
+                ],
+                [
+                  0,
+                  "2025-11-19T02:36:35.792873"
+                ],
+                [
+                  0,
+                  "2025-11-19T07:22:42.065129"
+                ]
+              ],
+              "created_utc": 1763504894.0,
+              "depth": 2,
+              "permalink": "/r/Futurology/comments/1p0efdm/internet_backbone_failure_raises_questions_about/npkln3x/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": [
+                {
+                  "id": "npkqyb8",
+                  "parent_id": "t1_npkln3x",
+                  "author": "QwertzOne",
+                  "text_history": [
+                    [
+                      "Nobody technically prevents it. The problem is capitalism doesn't just prevent things directly. It makes alternatives harder and harder to use, until they become impractical for most people.\n\nSmall decentralized platforms still exist, but they're underfunded, harder to access and missing features people expect. Meanwhile, centralized platforms got billions in investment to make themselves convenient. Everyone has to be there, because everyone else is there.\n\nIt's about making the centralized option, so dominant that choosing anything else means cutting yourself off from most of the internet. Try convincing your friends to move to Mastodon, when everyone they know is on corporate platforms. Try running a business without using the big services.\n\nThe fediverse and small forums survive, but they're pushed to the margins. That's how capitalism works. It doesn't need to ban alternatives. It just needs to make them irrelevant by pouring resources into monopolies, until nothing else can compete.",
+                      "2025-11-18T22:21:53.586266"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      3,
+                      "2025-11-18T22:21:53.586266"
+                    ],
+                    [
+                      5,
+                      "2025-11-19T00:15:31.727580"
+                    ],
+                    [
+                      4,
+                      "2025-11-19T01:51:04.661328"
+                    ],
+                    [
+                      3,
+                      "2025-11-19T02:33:02.778689"
+                    ],
+                    [
+                      4,
+                      "2025-11-19T02:36:35.792873"
+                    ],
+                    [
+                      3,
+                      "2025-11-19T07:22:42.065129"
+                    ]
+                  ],
+                  "created_utc": 1763506656.0,
+                  "depth": 3,
+                  "permalink": "/r/Futurology/comments/1p0efdm/internet_backbone_failure_raises_questions_about/npkqyb8/",
+                  "is_submitter": false,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": [
+                    {
+                      "id": "npktgde",
+                      "parent_id": "t1_npkqyb8",
+                      "author": "apokrif1",
+                      "text_history": [
+                        [
+                          "&gt; Small decentralized platforms still exist, but they're underfunded, harder to access and missing features people expect.\n\n\nOr just less known. A webforum (with subforums, good search engine, RSS and e-mail notifications) is way more convenient than Facebook.",
+                          "2025-11-18T22:21:53.586266"
+                        ]
+                      ],
+                      "score_history": [
+                        [
+                          2,
+                          "2025-11-18T22:21:53.586266"
+                        ],
+                        [
+                          2,
+                          "2025-11-19T00:15:31.727580"
+                        ],
+                        [
+                          2,
+                          "2025-11-19T01:51:04.661328"
+                        ],
+                        [
+                          2,
+                          "2025-11-19T02:33:02.778689"
+                        ],
+                        [
+                          2,
+                          "2025-11-19T02:36:35.792873"
+                        ],
+                        [
+                          2,
+                          "2025-11-19T07:22:42.065129"
+                        ]
+                      ],
+                      "created_utc": 1763507517.0,
+                      "depth": 4,
+                      "permalink": "/r/Futurology/comments/1p0efdm/internet_backbone_failure_raises_questions_about/npktgde/",
+                      "is_submitter": false,
+                      "controversiality": 0,
+                      "gilded": 0,
+                      "edited": false,
+                      "deleted": false,
+                      "deleted_at": null,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "npkv2lq",
+                  "parent_id": "t1_npkln3x",
+                  "author": "LawsListens",
+                  "text_history": [
+                    [
+                      "Yes, but that's not their point. Their point was that our internet ecosystems are increasingly captured by fewer and larger entities, which route traffic through their services with such ubiquity that every day it becomes less possible to exist outside of them.",
+                      "2025-11-18T22:21:53.586266"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      2,
+                      "2025-11-18T22:21:53.586266"
+                    ],
+                    [
+                      2,
+                      "2025-11-19T00:15:31.727580"
+                    ],
+                    [
+                      2,
+                      "2025-11-19T01:51:04.661328"
+                    ],
+                    [
+                      4,
+                      "2025-11-19T02:33:02.778689"
+                    ],
+                    [
+                      3,
+                      "2025-11-19T02:36:35.792873"
+                    ],
+                    [
+                      2,
+                      "2025-11-19T07:22:42.065129"
+                    ]
+                  ],
+                  "created_utc": 1763508080.0,
+                  "depth": 3,
+                  "permalink": "/r/Futurology/comments/1p0efdm/internet_backbone_failure_raises_questions_about/npkv2lq/",
+                  "is_submitter": false,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "npjyxl9",
+          "parent_id": "t1_npi5xtt",
+          "author": "TapZorRTwice",
+          "text_history": [
+            [
+              "What's happening with the internet is exactly what happened with electricity being rolled out.\n\nWhen you rely on private companies that depend of having every increasing profits, you are eventually going to get to a situation where the services they provide are not going to be the best possible for the customer, because the company eventually has to cut costs in one way or another to maintain an ever increasing profit.",
+              "2025-11-18T13:49:31.838832"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T13:49:31.838832"
+            ],
+            [
+              1,
+              "2025-11-18T14:00:41.708959"
+            ],
+            [
+              1,
+              "2025-11-18T14:11:23.632765"
+            ],
+            [
+              1,
+              "2025-11-18T14:20:57.294796"
+            ],
+            [
+              1,
+              "2025-11-18T14:22:02.876089"
+            ],
+            [
+              3,
+              "2025-11-18T22:21:53.586266"
+            ],
+            [
+              3,
+              "2025-11-19T00:15:31.727580"
+            ],
+            [
+              4,
+              "2025-11-19T01:51:04.661328"
+            ],
+            [
+              3,
+              "2025-11-19T02:33:02.778689"
+            ],
+            [
+              4,
+              "2025-11-19T02:36:35.792873"
+            ],
+            [
+              3,
+              "2025-11-19T07:22:42.065129"
+            ]
+          ],
+          "created_utc": 1763498007.0,
+          "depth": 1,
+          "permalink": "/r/Futurology/comments/1p0efdm/internet_backbone_failure_raises_questions_about/npjyxl9/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npks4nt",
+              "parent_id": "t1_npjyxl9",
+              "author": "Kristkind",
+              "text_history": [
+                [
+                  "The good news there is that grids are starting to get more decentralized thanks to renewables.",
+                  "2025-11-18T22:21:53.586266"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-18T22:21:53.586266"
+                ],
+                [
+                  1,
+                  "2025-11-19T00:15:31.727580"
+                ],
+                [
+                  1,
+                  "2025-11-19T01:51:04.661328"
+                ],
+                [
+                  1,
+                  "2025-11-19T02:33:02.778689"
+                ],
+                [
+                  1,
+                  "2025-11-19T02:36:35.792873"
+                ],
+                [
+                  1,
+                  "2025-11-19T07:22:42.065129"
+                ]
+              ],
+              "created_utc": 1763507058.0,
+              "depth": 2,
+              "permalink": "/r/Futurology/comments/1p0efdm/internet_backbone_failure_raises_questions_about/npks4nt/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "npjxkxx",
+          "parent_id": "t1_npi5xtt",
+          "author": "Apprehensive-Box-8",
+          "text_history": [
+            [
+              "The internet, well yes, but also: this raises a lot of questions about the fact that everything is depending on a working internet connection. Imagine numerous selfdriving vehicles being stranded because the damned computer can’t connect to the gps running in the cloud.\n\nWe know what happens to airports if the infrastructure fails, now imagine what happens if card payments stopped working for a day.\n\nBoooya. I tell you, humanity won’t even be able to pee if that cloud infrastructure breaks (or is broken on purpose).",
+              "2025-11-18T13:49:31.838832"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T13:49:31.838832"
+            ],
+            [
+              1,
+              "2025-11-18T14:00:41.708959"
+            ],
+            [
+              1,
+              "2025-11-18T14:11:23.632765"
+            ],
+            [
+              1,
+              "2025-11-18T14:20:57.294796"
+            ],
+            [
+              1,
+              "2025-11-18T14:22:02.876089"
+            ],
+            [
+              4,
+              "2025-11-18T22:21:53.586266"
+            ],
+            [
+              3,
+              "2025-11-19T00:15:31.727580"
+            ],
+            [
+              3,
+              "2025-11-19T01:51:04.661328"
+            ],
+            [
+              3,
+              "2025-11-19T02:33:02.778689"
+            ],
+            [
+              2,
+              "2025-11-19T02:36:35.792873"
+            ],
+            [
+              3,
+              "2025-11-19T07:22:42.065129"
+            ]
+          ],
+          "created_utc": 1763497589.0,
+          "depth": 1,
+          "permalink": "/r/Futurology/comments/1p0efdm/internet_backbone_failure_raises_questions_about/npjxkxx/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npm0vqw",
+      "parent_id": "t3_1p0efdm",
+      "author": "Iron_Baron",
+      "text_history": [
+        [
+          "Amazing how every modern problem we're facing was theorized, discussed, and solved decades before the tech to actually create the problems existed.\n\nI'm so tired of tech bros and billionaires using sci-fi and philosophical cautionary tales as goals to speed run. We built society and civilization very wrong. \n\nTime for a do over.",
+          "2025-11-18T22:21:53.586266"
+        ]
+      ],
+      "score_history": [
+        [
+          4,
+          "2025-11-18T22:21:53.586266"
+        ],
+        [
+          5,
+          "2025-11-19T00:15:31.727580"
+        ],
+        [
+          7,
+          "2025-11-19T01:51:04.661328"
+        ],
+        [
+          6,
+          "2025-11-19T02:33:02.778689"
+        ],
+        [
+          6,
+          "2025-11-19T02:36:35.792873"
+        ],
+        [
+          8,
+          "2025-11-19T07:22:42.065129"
+        ]
+      ],
+      "created_utc": 1763523074.0,
+      "depth": 0,
+      "permalink": "/r/Futurology/comments/1p0efdm/internet_backbone_failure_raises_questions_about/npm0vqw/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npirxgc",
+      "parent_id": "t3_1p0efdm",
+      "author": "KofOaks",
+      "text_history": [
+        [
+          "&gt; No, the internet is not fully decentralized, but it was designed with decentralization in mind and has become increasingly centralized over time due to large corporations and governments dominating its infrastructure and platforms. \n\n\nhm....",
+          "2025-11-18T13:49:31.838832"
+        ]
+      ],
+      "score_history": [
+        [
+          5,
+          "2025-11-18T13:49:31.838832"
+        ],
+        [
+          3,
+          "2025-11-18T14:00:41.708959"
+        ],
+        [
+          6,
+          "2025-11-18T14:11:23.632765"
+        ],
+        [
+          4,
+          "2025-11-18T14:20:57.294796"
+        ],
+        [
+          4,
+          "2025-11-18T14:22:02.876089"
+        ],
+        [
+          9,
+          "2025-11-18T22:21:53.586266"
+        ],
+        [
+          10,
+          "2025-11-19T00:15:31.727580"
+        ],
+        [
+          8,
+          "2025-11-19T01:51:04.661328"
+        ],
+        [
+          9,
+          "2025-11-19T02:33:02.778689"
+        ],
+        [
+          9,
+          "2025-11-19T02:36:35.792873"
+        ],
+        [
+          9,
+          "2025-11-19T07:22:42.065129"
+        ]
+      ],
+      "created_utc": 1763485319.0,
+      "depth": 0,
+      "permalink": "/r/Futurology/comments/1p0efdm/internet_backbone_failure_raises_questions_about/npirxgc/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npiragn",
+      "parent_id": "t3_1p0efdm",
+      "author": "ya-reddit-acct",
+      "text_history": [
+        [
+          "From this point on it could only get worse: imagine front ending AWS US-EAST-1 with Cloudflare.",
+          "2025-11-18T13:49:31.838832"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T13:49:31.838832"
+        ],
+        [
+          1,
+          "2025-11-18T14:00:41.708959"
+        ],
+        [
+          1,
+          "2025-11-18T14:11:23.632765"
+        ],
+        [
+          1,
+          "2025-11-18T14:20:57.294796"
+        ],
+        [
+          1,
+          "2025-11-18T14:22:02.876089"
+        ],
+        [
+          4,
+          "2025-11-18T22:21:53.586266"
+        ],
+        [
+          4,
+          "2025-11-19T00:15:31.727580"
+        ],
+        [
+          4,
+          "2025-11-19T01:51:04.661328"
+        ],
+        [
+          5,
+          "2025-11-19T02:33:02.778689"
+        ],
+        [
+          3,
+          "2025-11-19T02:36:35.792873"
+        ],
+        [
+          3,
+          "2025-11-19T07:22:42.065129"
+        ]
+      ],
+      "created_utc": 1763485130.0,
+      "depth": 0,
+      "permalink": "/r/Futurology/comments/1p0efdm/internet_backbone_failure_raises_questions_about/npiragn/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npjlrwf",
+      "parent_id": "t3_1p0efdm",
+      "author": "Bullenenthusiast1312",
+      "text_history": [
+        [
+          "I like how reality really tries to tell us in every way how our economy is not sustainable",
+          "2025-11-18T13:49:31.838832"
+        ]
+      ],
+      "score_history": [
+        [
+          3,
+          "2025-11-18T13:49:31.838832"
+        ],
+        [
+          3,
+          "2025-11-18T14:00:41.708959"
+        ],
+        [
+          5,
+          "2025-11-18T14:11:23.632765"
+        ],
+        [
+          3,
+          "2025-11-18T14:20:57.294796"
+        ],
+        [
+          4,
+          "2025-11-18T14:22:02.876089"
+        ],
+        [
+          5,
+          "2025-11-18T22:21:53.586266"
+        ],
+        [
+          7,
+          "2025-11-19T00:15:31.727580"
+        ],
+        [
+          5,
+          "2025-11-19T01:51:04.661328"
+        ],
+        [
+          6,
+          "2025-11-19T02:33:02.778689"
+        ],
+        [
+          6,
+          "2025-11-19T02:36:35.792873"
+        ],
+        [
+          6,
+          "2025-11-19T07:22:42.065129"
+        ]
+      ],
+      "created_utc": 1763494031.0,
+      "depth": 0,
+      "permalink": "/r/Futurology/comments/1p0efdm/internet_backbone_failure_raises_questions_about/npjlrwf/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npiainj",
+      "parent_id": "t3_1p0efdm",
+      "author": "3dom",
+      "text_history": [
+        [
+          "Cloudflare isn't just a backbone, it's a protection against DDoS attacks. I'll take an hour of outage for my business over multi-day one + huge additional bandwidth and CPU load fees from server provider, any time.",
+          "2025-11-18T13:49:31.838832"
+        ]
+      ],
+      "score_history": [
+        [
+          11,
+          "2025-11-18T13:49:31.838832"
+        ],
+        [
+          10,
+          "2025-11-18T14:00:41.708959"
+        ],
+        [
+          9,
+          "2025-11-18T14:11:23.632765"
+        ],
+        [
+          10,
+          "2025-11-18T14:20:57.294796"
+        ],
+        [
+          8,
+          "2025-11-18T14:22:02.876089"
+        ],
+        [
+          11,
+          "2025-11-18T22:21:53.586266"
+        ],
+        [
+          11,
+          "2025-11-19T00:15:31.727580"
+        ],
+        [
+          11,
+          "2025-11-19T01:51:04.661328"
+        ],
+        [
+          12,
+          "2025-11-19T02:33:02.778689"
+        ],
+        [
+          11,
+          "2025-11-19T02:36:35.792873"
+        ],
+        [
+          11,
+          "2025-11-19T07:22:42.065129"
+        ]
+      ],
+      "created_utc": 1763480225.0,
+      "depth": 0,
+      "permalink": "/r/Futurology/comments/1p0efdm/internet_backbone_failure_raises_questions_about/npiainj/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npigyl9",
+          "parent_id": "t1_npiainj",
+          "author": "cbytes1001",
+          "text_history": [
+            [
+              "No one is saying that protection shouldn’t exist, just that it shouldn’t all be relying on 1 company do provide it.",
+              "2025-11-18T13:49:31.838832"
+            ]
+          ],
+          "score_history": [
+            [
+              10,
+              "2025-11-18T13:49:31.838832"
+            ],
+            [
+              9,
+              "2025-11-18T14:00:41.708959"
+            ],
+            [
+              11,
+              "2025-11-18T14:11:23.632765"
+            ],
+            [
+              10,
+              "2025-11-18T14:20:57.294796"
+            ],
+            [
+              11,
+              "2025-11-18T14:22:02.876089"
+            ],
+            [
+              13,
+              "2025-11-18T22:21:53.586266"
+            ],
+            [
+              14,
+              "2025-11-19T00:15:31.727580"
+            ],
+            [
+              14,
+              "2025-11-19T01:51:04.661328"
+            ],
+            [
+              13,
+              "2025-11-19T02:33:02.778689"
+            ],
+            [
+              12,
+              "2025-11-19T02:36:35.792873"
+            ],
+            [
+              12,
+              "2025-11-19T07:22:42.065129"
+            ]
+          ],
+          "created_utc": 1763482119.0,
+          "depth": 1,
+          "permalink": "/r/Futurology/comments/1p0efdm/internet_backbone_failure_raises_questions_about/npigyl9/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npimg4i",
+              "parent_id": "t1_npigyl9",
+              "author": "3dom",
+              "text_history": [
+                [
+                  "I've missed the part where there is something that does not allow us to create a Cloudflare alternative any time. I suppose it's just not economically viable thus there is no competition. Otherwise Google, Amazon, Microsoft, Tencent would be there for a long time.",
+                  "2025-11-18T13:49:31.838832"
+                ]
+              ],
+              "score_history": [
+                [
+                  3,
+                  "2025-11-18T13:49:31.838832"
+                ],
+                [
+                  3,
+                  "2025-11-18T14:00:41.708959"
+                ],
+                [
+                  3,
+                  "2025-11-18T14:11:23.632765"
+                ],
+                [
+                  1,
+                  "2025-11-18T14:20:57.294796"
+                ],
+                [
+                  2,
+                  "2025-11-18T14:22:02.876089"
+                ],
+                [
+                  3,
+                  "2025-11-18T22:21:53.586266"
+                ],
+                [
+                  1,
+                  "2025-11-19T00:15:31.727580"
+                ],
+                [
+                  2,
+                  "2025-11-19T01:51:04.661328"
+                ],
+                [
+                  2,
+                  "2025-11-19T02:33:02.778689"
+                ],
+                [
+                  2,
+                  "2025-11-19T02:36:35.792873"
+                ],
+                [
+                  2,
+                  "2025-11-19T07:22:42.065129"
+                ]
+              ],
+              "created_utc": 1763483717.0,
+              "depth": 2,
+              "permalink": "/r/Futurology/comments/1p0efdm/internet_backbone_failure_raises_questions_about/npimg4i/",
+              "is_submitter": false,
+              "controversiality": 1,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": [
+                {
+                  "id": "npjpqge",
+                  "parent_id": "t1_npimg4i",
+                  "author": "cbytes1001",
+                  "text_history": [
+                    [
+                      "I have not looked into it, but generally speaking, if there is only 1 major player in a space it is because they bought out their competitors.\n\nI know that AWS does have DDOS protection with their AWS Shield product though. Cloudflare isnt the only outage that can take out large parts of the internet. It should be noted though when large disruptions to the country are due to a single company failing for whatever reason. Don’t you agree?",
+                      "2025-11-18T13:49:31.838832"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      3,
+                      "2025-11-18T13:49:31.838832"
+                    ],
+                    [
+                      2,
+                      "2025-11-18T14:00:41.708959"
+                    ],
+                    [
+                      2,
+                      "2025-11-18T14:11:23.632765"
+                    ],
+                    [
+                      2,
+                      "2025-11-18T14:20:57.294796"
+                    ],
+                    [
+                      2,
+                      "2025-11-18T14:22:02.876089"
+                    ],
+                    [
+                      4,
+                      "2025-11-18T22:21:53.586266"
+                    ],
+                    [
+                      4,
+                      "2025-11-19T00:15:31.727580"
+                    ],
+                    [
+                      4,
+                      "2025-11-19T01:51:04.661328"
+                    ],
+                    [
+                      3,
+                      "2025-11-19T02:33:02.778689"
+                    ],
+                    [
+                      4,
+                      "2025-11-19T02:36:35.792873"
+                    ],
+                    [
+                      4,
+                      "2025-11-19T07:22:42.065129"
+                    ]
+                  ],
+                  "created_utc": 1763495218.0,
+                  "depth": 3,
+                  "permalink": "/r/Futurology/comments/1p0efdm/internet_backbone_failure_raises_questions_about/npjpqge/",
+                  "is_submitter": false,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": [
+                    {
+                      "id": "npjsp4g",
+                      "parent_id": "t1_npjpqge",
+                      "author": "3dom",
+                      "text_history": [
+                        [
+                          "If we'll replace the giant Cloudlfare with multiple smaller providers we'll get multiple smaller outages + likely there will be relatively more of them considering they'll have less experience and more fragile infrastructure.\n\nIn any case, this is a nothingburger considering it takes just couple minutes to switch DNS servers from Cloudflare to other provider.",
+                          "2025-11-18T13:49:31.838832"
+                        ]
+                      ],
+                      "score_history": [
+                        [
+                          1,
+                          "2025-11-18T13:49:31.838832"
+                        ],
+                        [
+                          1,
+                          "2025-11-18T14:00:41.708959"
+                        ],
+                        [
+                          3,
+                          "2025-11-18T14:11:23.632765"
+                        ],
+                        [
+                          4,
+                          "2025-11-18T14:20:57.294796"
+                        ],
+                        [
+                          4,
+                          "2025-11-18T14:22:02.876089"
+                        ],
+                        [
+                          1,
+                          "2025-11-18T22:21:53.586266"
+                        ],
+                        [
+                          1,
+                          "2025-11-19T00:15:31.727580"
+                        ],
+                        [
+                          2,
+                          "2025-11-19T01:51:04.661328"
+                        ],
+                        [
+                          2,
+                          "2025-11-19T02:33:02.778689"
+                        ],
+                        [
+                          1,
+                          "2025-11-19T02:36:35.792873"
+                        ],
+                        [
+                          2,
+                          "2025-11-19T07:22:42.065129"
+                        ]
+                      ],
+                      "created_utc": 1763496100.0,
+                      "depth": 4,
+                      "permalink": "/r/Futurology/comments/1p0efdm/internet_backbone_failure_raises_questions_about/npjsp4g/",
+                      "is_submitter": false,
+                      "controversiality": 0,
+                      "gilded": 0,
+                      "edited": false,
+                      "deleted": false,
+                      "deleted_at": null,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "npm3vw3",
+          "parent_id": "t1_npiainj",
+          "author": "JMS_jr",
+          "text_history": [
+            [
+              "[ Removed by Reddit ]",
+              "2025-11-18T22:21:53.586266"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T22:21:53.586266"
+            ],
+            [
+              1,
+              "2025-11-19T00:15:31.727580"
+            ],
+            [
+              1,
+              "2025-11-19T01:51:04.661328"
+            ],
+            [
+              1,
+              "2025-11-19T02:33:02.778689"
+            ],
+            [
+              1,
+              "2025-11-19T02:36:35.792873"
+            ],
+            [
+              1,
+              "2025-11-19T07:22:42.065129"
+            ]
+          ],
+          "created_utc": 1763524263.0,
+          "depth": 1,
+          "permalink": "/r/Futurology/comments/1p0efdm/internet_backbone_failure_raises_questions_about/npm3vw3/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npj4i2x",
+      "parent_id": "t3_1p0efdm",
+      "author": "isymic143",
+      "text_history": [
+        [
+          "\"Internet backbone\" has a specific meaning, and this is not it.",
+          "2025-11-18T13:49:31.838832"
+        ]
+      ],
+      "score_history": [
+        [
+          5,
+          "2025-11-18T13:49:31.838832"
+        ],
+        [
+          5,
+          "2025-11-18T14:00:41.708959"
+        ],
+        [
+          5,
+          "2025-11-18T14:11:23.632765"
+        ],
+        [
+          6,
+          "2025-11-18T14:20:57.294796"
+        ],
+        [
+          5,
+          "2025-11-18T14:22:02.876089"
+        ],
+        [
+          7,
+          "2025-11-18T22:21:53.586266"
+        ],
+        [
+          6,
+          "2025-11-19T00:15:31.727580"
+        ],
+        [
+          7,
+          "2025-11-19T01:51:04.661328"
+        ],
+        [
+          7,
+          "2025-11-19T02:33:02.778689"
+        ],
+        [
+          7,
+          "2025-11-19T02:36:35.792873"
+        ],
+        [
+          7,
+          "2025-11-19T07:22:42.065129"
+        ]
+      ],
+      "created_utc": 1763489008.0,
+      "depth": 0,
+      "permalink": "/r/Futurology/comments/1p0efdm/internet_backbone_failure_raises_questions_about/npj4i2x/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "nplxdcc",
+          "parent_id": "t1_npj4i2x",
+          "author": "manicdee33",
+          "text_history": [
+            [
+              "How are CDNs not backbone of the internet? Or are you using one specific definition revolving around T1 carriers?\n\nThere is more to the internet than data capacity.",
+              "2025-11-18T22:21:53.586266"
+            ]
+          ],
+          "score_history": [
+            [
+              2,
+              "2025-11-18T22:21:53.586266"
+            ],
+            [
+              1,
+              "2025-11-19T00:15:31.727580"
+            ],
+            [
+              1,
+              "2025-11-19T01:51:04.661328"
+            ],
+            [
+              1,
+              "2025-11-19T02:33:02.778689"
+            ],
+            [
+              1,
+              "2025-11-19T02:36:35.792873"
+            ],
+            [
+              1,
+              "2025-11-19T07:22:42.065129"
+            ]
+          ],
+          "created_utc": 1763521746.0,
+          "depth": 1,
+          "permalink": "/r/Futurology/comments/1p0efdm/internet_backbone_failure_raises_questions_about/nplxdcc/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npk8udl",
+      "parent_id": "t3_1p0efdm",
+      "author": "DeadlyGreed",
+      "text_history": [
+        [
+          "Suddenly the school performance dropped momentarely all around the world.",
+          "2025-11-18T13:49:31.838832"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T13:49:31.838832"
+        ],
+        [
+          1,
+          "2025-11-18T14:00:41.708959"
+        ],
+        [
+          1,
+          "2025-11-18T14:11:23.632765"
+        ],
+        [
+          1,
+          "2025-11-18T14:20:57.294796"
+        ],
+        [
+          1,
+          "2025-11-18T14:22:02.876089"
+        ],
+        [
+          1,
+          "2025-11-18T22:21:53.586266"
+        ],
+        [
+          2,
+          "2025-11-19T00:15:31.727580"
+        ],
+        [
+          2,
+          "2025-11-19T01:51:04.661328"
+        ],
+        [
+          2,
+          "2025-11-19T02:33:02.778689"
+        ],
+        [
+          2,
+          "2025-11-19T02:36:35.792873"
+        ],
+        [
+          2,
+          "2025-11-19T07:22:42.065129"
+        ]
+      ],
+      "created_utc": 1763500962.0,
+      "depth": 0,
+      "permalink": "/r/Futurology/comments/1p0efdm/internet_backbone_failure_raises_questions_about/npk8udl/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npij93p",
+      "parent_id": "t3_1p0efdm",
+      "author": "[deleted]",
+      "text_history": [
+        [
+          "[removed]",
+          "2025-11-18T13:49:31.838832"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-18T13:49:31.838832"
+        ],
+        [
+          3,
+          "2025-11-18T14:00:41.708959"
+        ],
+        [
+          4,
+          "2025-11-18T14:11:23.632765"
+        ],
+        [
+          2,
+          "2025-11-18T14:20:57.294796"
+        ],
+        [
+          3,
+          "2025-11-18T14:22:02.876089"
+        ],
+        [
+          3,
+          "2025-11-18T22:21:53.586266"
+        ],
+        [
+          2,
+          "2025-11-19T00:15:31.727580"
+        ],
+        [
+          3,
+          "2025-11-19T01:51:04.661328"
+        ],
+        [
+          4,
+          "2025-11-19T02:33:02.778689"
+        ],
+        [
+          3,
+          "2025-11-19T02:36:35.792873"
+        ],
+        [
+          3,
+          "2025-11-19T07:22:42.065129"
+        ]
+      ],
+      "created_utc": 1763482787.0,
+      "depth": 0,
+      "permalink": "/r/Futurology/comments/1p0efdm/internet_backbone_failure_raises_questions_about/npij93p/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npl3pux",
+      "parent_id": "t3_1p0efdm",
+      "author": "Few_Ear2579",
+      "text_history": [
+        [
+          "The other scary aspect of cloudflare is their positioning on being able to cut your home workstation from large, growing sections of the internet. Let's say someone with your IP does something bad. CloudFlare adds that to a database and heuristic to increase \"are you human\" puzzles. You are on a watchlist. Now they will start becoming more aggressive and if your IP/system fingerprint is blocked in one service, they can now block you on accessing sites or data from all of their customers. They are technically positioned to be the world police of the internet, without having any of the necessary supporting business and operational considerations.",
+          "2025-11-18T22:21:53.586266"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T22:21:53.586266"
+        ],
+        [
+          1,
+          "2025-11-19T00:15:31.727580"
+        ],
+        [
+          1,
+          "2025-11-19T01:51:04.661328"
+        ],
+        [
+          1,
+          "2025-11-19T02:33:02.778689"
+        ],
+        [
+          1,
+          "2025-11-19T02:36:35.792873"
+        ],
+        [
+          1,
+          "2025-11-19T07:22:42.065129"
+        ]
+      ],
+      "created_utc": 1763511150.0,
+      "depth": 0,
+      "permalink": "/r/Futurology/comments/1p0efdm/internet_backbone_failure_raises_questions_about/npl3pux/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nplenol",
+      "parent_id": "t3_1p0efdm",
+      "author": "wheelfoot",
+      "text_history": [
+        [
+          "This is just a stupid headline. It wasn't a backbone failure. It was a layer 7 failure of a particular company that happened to bork a lot of their customers. Really bad reporting by someone who doesn't understand what a backbone is, and that the Internet has a bunch of them.",
+          "2025-11-18T22:21:53.586266"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T22:21:53.586266"
+        ],
+        [
+          1,
+          "2025-11-19T00:15:31.727580"
+        ],
+        [
+          1,
+          "2025-11-19T01:51:04.661328"
+        ],
+        [
+          1,
+          "2025-11-19T02:33:02.778689"
+        ],
+        [
+          1,
+          "2025-11-19T02:36:35.792873"
+        ],
+        [
+          1,
+          "2025-11-19T07:22:42.065129"
+        ]
+      ],
+      "created_utc": 1763515018.0,
+      "depth": 0,
+      "permalink": "/r/Futurology/comments/1p0efdm/internet_backbone_failure_raises_questions_about/nplenol/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "nplxpu9",
+          "parent_id": "t1_nplenol",
+          "author": "manicdee33",
+          "text_history": [
+            [
+              "The internet has a bunch of backbones, DNS and CDN being two important backbones for the commercial internet. Cloudflare provides CDN, DNS, DDoS protection and more. It’s absolutely one of the backbone providers without whom the contemporary internet would not exist, as illustrated each time they temporarily cease to exist.",
+              "2025-11-18T22:21:53.586266"
+            ]
+          ],
+          "score_history": [
+            [
+              3,
+              "2025-11-18T22:21:53.586266"
+            ],
+            [
+              4,
+              "2025-11-19T00:15:31.727580"
+            ],
+            [
+              5,
+              "2025-11-19T01:51:04.661328"
+            ],
+            [
+              4,
+              "2025-11-19T02:33:02.778689"
+            ],
+            [
+              3,
+              "2025-11-19T02:36:35.792873"
+            ],
+            [
+              4,
+              "2025-11-19T07:22:42.065129"
+            ]
+          ],
+          "created_utc": 1763521871.0,
+          "depth": 1,
+          "permalink": "/r/Futurology/comments/1p0efdm/internet_backbone_failure_raises_questions_about/nplxpu9/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npk5220",
+      "parent_id": "t3_1p0efdm",
+      "author": "Sovchen",
+      "text_history": [
+        [
+          "Burn shitflare to the ground. There's ur fuckin solution",
+          "2025-11-18T13:49:31.838832"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T13:49:31.838832"
+        ],
+        [
+          1,
+          "2025-11-18T14:00:41.708959"
+        ],
+        [
+          1,
+          "2025-11-18T14:11:23.632765"
+        ],
+        [
+          1,
+          "2025-11-18T14:20:57.294796"
+        ],
+        [
+          1,
+          "2025-11-18T14:22:02.876089"
+        ],
+        [
+          -5,
+          "2025-11-18T22:21:53.586266"
+        ],
+        [
+          -4,
+          "2025-11-19T00:15:31.727580"
+        ],
+        [
+          -5,
+          "2025-11-19T01:51:04.661328"
+        ],
+        [
+          -6,
+          "2025-11-19T02:33:02.778689"
+        ],
+        [
+          -5,
+          "2025-11-19T02:36:35.792873"
+        ],
+        [
+          -6,
+          "2025-11-19T07:22:42.065129"
+        ]
+      ],
+      "created_utc": 1763499841.0,
+      "depth": 0,
+      "permalink": "/r/Futurology/comments/1p0efdm/internet_backbone_failure_raises_questions_about/npk5220/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T07:22:42.065129",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/Futurology/comments/1p0efdm/internet_backbone_failure_raises_questions_about/",
+    "total_comments": 60,
+    "top_level_comments": 20,
+    "api_requests": 1,
+    "expected_comments": 65,
+    "coverage_percent": 92.31,
+    "merged_snapshot_count": 11,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_134931.json",
+      "scrape_002_20251118_140041.json",
+      "scrape_003_20251118_141123.json",
+      "scrape_004_20251118_142056.json",
+      "scrape_005_20251118_142202.json",
+      "scrape_006_20251118_222153.json",
+      "scrape_007_20251119_001531.json",
+      "scrape_008_20251119_015104.json",
+      "scrape_009_20251119_023302.json",
+      "scrape_010_20251119_023635.json",
+      "scrape_011_20251119_072241.json"
+    ]
+  }
+}

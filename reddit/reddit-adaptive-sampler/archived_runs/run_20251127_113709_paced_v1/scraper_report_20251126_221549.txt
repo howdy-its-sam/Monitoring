@@ -1,0 +1,99 @@
+==========================================
+   Reddit Scraper Statistics Report
+==========================================
+
+Wed Nov 26 22:15:49 PST 2025
+
+=== DATA COLLECTION ===
+
+Total scrapes completed: 6647
+  - New discoveries (first scrapes): 1399
+  - Re-scrapes (temporal tracking): 5248
+
+Unique posts tracked: 2599
+  - Posts with scrapes: 1399
+  - Posts waiting to scrape: 1200
+
+Total JSON files: 10140
+Total data size: 217M
+
+=== TIME ALLOCATION ===
+
+21.0% - Discovery (finding new posts)
+78.9% - Re-scraping (tracking changes over time)
+
+=== RE-SCRAPE INTENSITY ===
+
+Average scrapes per post: 4.7x
+Posts in queue (not yet scraped): 46%
+
+=== SCRAPER STATUS ===
+
+Status: RUNNING (PID: 96095)
+Runtime: 02:38:25
+CPU time: 11:17.12
+Log file: scraper_48h_20251126_193726.log
+Log size: 5.0M
+Last updated: 2025-11-26 22:15:50
+
+Elapsed (from log): 2h 38m
+Remaining: 45h 22m
+Progress: 5.4%
+
+=== RATE LIMIT UTILIZATION ===
+
+Target Rate: 100 RPS (100 req/10min)
+
+Budget Status:
+  - Average tokens available: 40
+  - Range: 0 - 89 tokens
+  - Budget warnings: 140
+  - Sleep cycles triggered: 134
+
+Request Rate Performance:
+  - Target RPS: 100.00
+  - Actual RPS (avg last 20): 0.00
+  - EMA RPS: 2.0
+
+Efficiency Metrics:
+  - Average waste: 36%
+  - Effective utilization: 64%
+
+Refill Analysis (last 20 cycles):
+  - Total requests refilled: 54
+  - Total wait time: 600s
+  - Average refill rate: .09 req/s
+  - Average sleep duration: 30.0s
+
+Intensity Profile Distribution:
+  - Aggressive: .5% (82 scrapes)
+  - Balanced: .8% (133 scrapes)
+  - Conservative: 98.6% (16063 scrapes)
+
+=== RECENT ACTIVITY (last 5 scrapes) ===
+
+[158:2722] 🎯 84a9er r/llm_development (T=0.30, profile=conservative)...
+[158:2722] 🎯 84a9er r/llm_development (T=0.30, profile=conservative)...
+[158:2722] 🎯 84a9er r/llm_development (T=0.30, profile=conservative)...
+[158:2722] 🎯 84a9er r/llm_development (T=0.30, profile=conservative)...
+[158:2722] 🎯 84a9er r/llm_development (T=0.30, profile=conservative)...
+
+=== TOP SUBREDDITS (by post count) ===
+
+   53 posts - r/ChatGPT
+   50 posts - r/technology
+   48 posts - r/singularity
+   47 posts - r/LocalLLaMA
+   47 posts - r/DigitalMarketing
+   45 posts - r/AI_Agents
+   44 posts - r/cybersecurity
+   38 posts - r/learnmachinelearning
+   35 posts - r/Rag
+   35 posts - r/LangChain
+
+==========================================
+   End of Report
+==========================================
+
+NOTE: This report is from the OLD adaptive depth implementation (before continuous coverage_ratio).
+      Notice: 98.6% Conservative mode - this is the problem we're fixing.

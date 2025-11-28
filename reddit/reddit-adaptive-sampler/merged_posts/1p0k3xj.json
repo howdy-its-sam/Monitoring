@@ -1,0 +1,203 @@
+{
+  "post": {
+    "id": "1p0k3xj",
+    "title": "Most Accurate AI Humanizers for College",
+    "author": "Consistent-Market531",
+    "score_history": [
+      [
+        1,
+        "2025-11-18T15:07:44.829456"
+      ],
+      [
+        1,
+        "2025-11-18T15:14:31.402221"
+      ],
+      [
+        1,
+        "2025-11-18T15:16:22.671810"
+      ],
+      [
+        1,
+        "2025-11-18T23:34:35.140875"
+      ],
+      [
+        1,
+        "2025-11-19T01:08:32.719870"
+      ],
+      [
+        1,
+        "2025-11-19T02:33:24.344932"
+      ],
+      [
+        1,
+        "2025-11-19T02:35:05.597226"
+      ],
+      [
+        1,
+        "2025-11-19T02:44:21.186804"
+      ]
+    ],
+    "created_utc": 1763491318.0,
+    "num_comments": 4,
+    "subreddit": "PromptEngineering",
+    "url": "https://www.reddit.com/r/PromptEngineering/comments/1p0k3xj/most_accurate_ai_humanizers_for_college/",
+    "selftext": "Real talk: tools promising “undetectable” essays are a trap. Detectors are inconsistent, profs differ on policy, and trying to dodge them can cross academic-integrity lines fast. After a year of testing a bunch of “humanizers,” my takeaway isn’t a leaderboard—it’s a safer workflow.\n\n**What actually works (without getting you burned):**\n* \t\t**Write-first, AI-second.** Draft your outline/thesis yourself; use AI to clarify, reorder, tighten—not to generate the paper.\n* \t\t**Add real-class details.** Cite lecture points, readings, and your own examples. That’s what instructors look for.\n* \t\t**Keep receipts.** Save notes, outlines, drafts, and sources to show process if anything gets flagged.\n* \t\t**Follow your syllabus.** If AI assisted phrasing/structure, acknowledge per your course rules.\n* \t\t**Human edit pass.** Read aloud, vary sentence length, add nuance/hedging, and keep your voice.\n**Tools I actually use (for quality, not “bypass”):**\n* \t\t**Grubby AI** — handy for smoothing stiff phrasing so it sounds like me; I still do a final personal edit.\n* \t\tA grammar/style checker (Grammarly/LanguageTool) for polish—never one-click rewrites.\n* \t\tA readability pass (Hemingway-style) to catch robotic flow.\n* \t\t**Zotero/EndNote** for citations so I’m not “paraphrasing” blind.\n* \t\tSchool-provided originality checker (if available) to catch accidental overlap early.\n**My quick, safe workflow (7 steps):**\n* \t\tRead rubric → list required sources/sections\n* \t\tOutline + topic sentences (your own)\n* \t\tRough draft with quotes/citations placed\n* \t\tAsk AI for clarity only (“tighten this; keep claims/sources”)\n* \t\tInject course specifics + your analysis\n* \t\tReadability/grammar polish; fix generic wording\n* \t\tFinal academic voice + citation check → submit\n\n**TL;DR:** Don’t rely on “undetectable” humanizers. Draft yourself, use AI for clarity/polish, add class-specific details, follow your syllabus, and keep drafts as proof. Grubby AI is useful for smoothing tone, but your final human edit matters most.\n",
+    "permalink": "/r/PromptEngineering/comments/1p0k3xj/most_accurate_ai_humanizers_for_college/"
+  },
+  "comments": [
+    {
+      "id": "npjqkk1",
+      "parent_id": "t3_1p0k3xj",
+      "author": "FreshRadish2957",
+      "text_history": [
+        [
+          "A lot of people run into trouble because they ask AI to write the paper for them instead of using it as a clean thinking tool. One thing that has helped me keep the quality high is forcing the model to surface its assumptions before I use any of its suggestions.\n\nI usually ask something like:\n“List the assumptions you’re making about my argument and about the assignment. Tell me which ones come from my text and which ones you’re inferring.”\n\nIt slows the model down, exposes mistakes early, and keeps it from inventing sources. Handy when you’re tightening a draft or checking structure.\n\nYour workflow is solid. This little assumption check plugs the last gap most people miss.",
+          "2025-11-18T15:07:44.829456"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T15:07:44.829456"
+        ],
+        [
+          1,
+          "2025-11-18T15:14:31.402221"
+        ],
+        [
+          1,
+          "2025-11-18T15:16:22.671810"
+        ],
+        [
+          1,
+          "2025-11-18T23:34:35.140875"
+        ],
+        [
+          1,
+          "2025-11-19T01:08:32.719870"
+        ],
+        [
+          1,
+          "2025-11-19T02:33:24.344932"
+        ],
+        [
+          1,
+          "2025-11-19T02:35:05.597226"
+        ],
+        [
+          1,
+          "2025-11-19T02:44:21.186804"
+        ]
+      ],
+      "created_utc": 1763495468.0,
+      "depth": 0,
+      "permalink": "/r/PromptEngineering/comments/1p0k3xj/most_accurate_ai_humanizers_for_college/npjqkk1/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nplpse1",
+      "parent_id": "t3_1p0k3xj",
+      "author": "0LoveAnonymous0",
+      "text_history": [
+        [
+          "I like the way you broke it down. Focusing on a safe workflow makes way more sense than chasing ‘undetectable.’ I’ve tested a few tools too. Grubby AI is decent for tone but the word limits get old fast. For longer essays I usually run stuff through clever ai humanizer since it’s free and doesn’t cap you. They also added Formal and Academic modes recently, and the free version handles around 1,000 words a run, which is more generous than most.",
+          "2025-11-18T23:34:35.140875"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T23:34:35.140875"
+        ],
+        [
+          1,
+          "2025-11-19T01:08:32.719870"
+        ],
+        [
+          1,
+          "2025-11-19T02:33:24.344932"
+        ],
+        [
+          1,
+          "2025-11-19T02:35:05.597226"
+        ],
+        [
+          1,
+          "2025-11-19T02:44:21.186804"
+        ]
+      ],
+      "created_utc": 1763519009.0,
+      "depth": 0,
+      "permalink": "/r/PromptEngineering/comments/1p0k3xj/most_accurate_ai_humanizers_for_college/nplpse1/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npnbecj",
+      "parent_id": "t3_1p0k3xj",
+      "author": "Massspirit",
+      "text_history": [
+        [
+          "Works pretty well, but humanizers are more consistent from my experience. I use ai-text-humanizer com and sometimes tweak a few lines here and there but it does a good job overall and has a free trial with no signups.",
+          "2025-11-19T02:33:24.344932"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:33:24.344932"
+        ],
+        [
+          1,
+          "2025-11-19T02:35:05.597226"
+        ],
+        [
+          1,
+          "2025-11-19T02:44:21.186804"
+        ]
+      ],
+      "created_utc": 1763547859.0,
+      "depth": 0,
+      "permalink": "/r/PromptEngineering/comments/1p0k3xj/most_accurate_ai_humanizers_for_college/npnbecj/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T02:44:21.186804",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/PromptEngineering/comments/1p0k3xj/most_accurate_ai_humanizers_for_college/",
+    "total_comments": 3,
+    "top_level_comments": 3,
+    "api_requests": 1,
+    "expected_comments": 4,
+    "coverage_percent": 75.0,
+    "merged_snapshot_count": 8,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_150744.json",
+      "scrape_002_20251118_151431.json",
+      "scrape_003_20251118_151622.json",
+      "scrape_004_20251118_233434.json",
+      "scrape_005_20251119_010832.json",
+      "scrape_006_20251119_023324.json",
+      "scrape_007_20251119_023505.json",
+      "scrape_008_20251119_024420.json"
+    ]
+  }
+}

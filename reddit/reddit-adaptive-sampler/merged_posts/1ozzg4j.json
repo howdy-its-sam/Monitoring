@@ -1,0 +1,49 @@
+{
+  "post": {
+    "id": "1ozzg4j",
+    "title": "Made a web editor for .toon files — visual + code editing",
+    "author": "Single_Art5049",
+    "score_history": [
+      [
+        0,
+        "2025-11-18T14:22:06.166876"
+      ],
+      [
+        0,
+        "2025-11-18T14:32:12.911668"
+      ],
+      [
+        0,
+        "2025-11-18T14:42:15.639778"
+      ],
+      [
+        0,
+        "2025-11-18T22:20:27.237028"
+      ]
+    ],
+    "created_utc": 1763431183.0,
+    "num_comments": 0,
+    "subreddit": "Rag",
+    "url": "https://www.reddit.com/r/Rag/comments/1ozzg4j/made_a_web_editor_for_toon_files_visual_code/",
+    "selftext": "ey! Been working on this web editor for .toon files and thought I'd share it here: [https://tooneditor.es](https://tooneditor.es/)\n\nYou can edit and visualize .toon files as interactive node graphs right in your browser.\n\nThe visual editor lets you see your entire toon structure as nodes, edit values directly on the graph, add new elements, and basically do everything visually with live updates. Or if you prefer, you can dive into the raw code with syntax highlighting.\n\nAlso has token previews so you can see how much your file costs and compare JSON vs .toon token usage.\n\nStill adding stuff but it works pretty well. would appreciate any feedback if you give it a shot!\n\nThanks!!",
+    "permalink": "/r/Rag/comments/1ozzg4j/made_a_web_editor_for_toon_files_visual_code/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-18T22:20:27.237028",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/Rag/comments/1ozzg4j/made_a_web_editor_for_toon_files_visual_code/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 4,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_142205.json",
+      "scrape_002_20251118_143212.json",
+      "scrape_003_20251118_144215.json",
+      "scrape_004_20251118_222027.json"
+    ]
+  }
+}

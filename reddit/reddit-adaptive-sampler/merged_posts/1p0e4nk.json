@@ -1,0 +1,54 @@
+{
+  "post": {
+    "id": "1p0e4nk",
+    "title": "Long Term Memory - Mem0/Zep/LangMem - what made you choose it?",
+    "author": "nicoloboschi",
+    "score_history": [
+      [
+        3,
+        "2025-11-18T14:45:29.180731"
+      ],
+      [
+        3,
+        "2025-11-18T14:53:15.855511"
+      ],
+      [
+        4,
+        "2025-11-18T14:55:52.523164"
+      ],
+      [
+        4,
+        "2025-11-18T22:32:15.599295"
+      ],
+      [
+        5,
+        "2025-11-19T00:26:21.631754"
+      ]
+    ],
+    "created_utc": 1763477981.0,
+    "num_comments": 0,
+    "subreddit": "LangChain",
+    "url": "https://www.reddit.com/r/LangChain/comments/1p0e4nk/long_term_memory_mem0zeplangmem_what_made_you/",
+    "selftext": "I'm evaluating memory solutions for AI agents and curious about real-world experiences.\n\nFor those using Mem0, Zep, or similar tools:\n\n\\- What initially attracted you to it?\n\n\\- What's working well?\n\n\\- What pain points remain?\n\n\\- What would make you switch to something else?",
+    "permalink": "/r/LangChain/comments/1p0e4nk/long_term_memory_mem0zeplangmem_what_made_you/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T00:26:21.631754",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/LangChain/comments/1p0e4nk/long_term_memory_mem0zeplangmem_what_made_you/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 5,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_144529.json",
+      "scrape_002_20251118_145315.json",
+      "scrape_003_20251118_145552.json",
+      "scrape_004_20251118_223215.json",
+      "scrape_005_20251119_002621.json"
+    ]
+  }
+}

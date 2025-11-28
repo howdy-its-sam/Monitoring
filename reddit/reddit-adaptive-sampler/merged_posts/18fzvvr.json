@@ -1,0 +1,394 @@
+{
+  "post": {
+    "id": "18fzvvr",
+    "title": "best masters programs in europe in computational linguistics/digital humanities?",
+    "author": "Impressive-Care-9378",
+    "score_history": [
+      [
+        9,
+        "2025-11-18T14:45:24.766438"
+      ],
+      [
+        9,
+        "2025-11-18T14:53:13.052732"
+      ],
+      [
+        9,
+        "2025-11-18T14:54:19.530775"
+      ],
+      [
+        9,
+        "2025-11-18T22:30:50.984113"
+      ],
+      [
+        9,
+        "2025-11-19T00:26:26.009248"
+      ],
+      [
+        10,
+        "2025-11-19T02:11:44.115818"
+      ]
+    ],
+    "created_utc": 1702316259.0,
+    "num_comments": 7,
+    "subreddit": "compling",
+    "url": "https://www.reddit.com/r/compling/comments/18fzvvr/best_masters_programs_in_europe_in_computational/",
+    "selftext": "hello, i'm a linguistics bachelor who is finding interests in computational linguistics. i'm in my second year and i'm looking around to see which options could help my career and my professor told me about digital humanities and it sounded very interesting. anyone who pursued these type of programs? where? ",
+    "permalink": "/r/compling/comments/18fzvvr/best_masters_programs_in_europe_in_computational/"
+  },
+  "comments": [
+    {
+      "id": "kcxd4e5",
+      "parent_id": "t3_18fzvvr",
+      "author": "[deleted]",
+      "text_history": [
+        [
+          "Those are two distinct fields. The best relationship between the two is that word vectors and statistics are used in both. Which are you more interested in? DH or CL?",
+          "2025-11-18T14:45:24.766438"
+        ]
+      ],
+      "score_history": [
+        [
+          5,
+          "2025-11-18T14:45:24.766438"
+        ],
+        [
+          6,
+          "2025-11-18T14:53:13.052732"
+        ],
+        [
+          6,
+          "2025-11-18T14:54:19.530775"
+        ],
+        [
+          5,
+          "2025-11-18T22:30:50.984113"
+        ],
+        [
+          7,
+          "2025-11-19T00:26:26.009248"
+        ],
+        [
+          7,
+          "2025-11-19T02:11:44.115818"
+        ]
+      ],
+      "created_utc": 1702316615.0,
+      "depth": 0,
+      "permalink": "/r/compling/comments/18fzvvr/best_masters_programs_in_europe_in_computational/kcxd4e5/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "kcxdd9e",
+          "parent_id": "t1_kcxd4e5",
+          "author": "Impressive-Care-9378",
+          "text_history": [
+            [
+              "atm i'm collecting some information on both. \n\ncould computational linguistics probably help more in finding a job afterwards? of course i'm also considering this aspect. also, would my linguistics bachelor make me qualified for an eventual application to a master program of this type? \n\nmy priority would be studying in europe since i could never afford an american university fee lol.",
+              "2025-11-18T14:45:24.766438"
+            ]
+          ],
+          "score_history": [
+            [
+              5,
+              "2025-11-18T14:45:24.766438"
+            ],
+            [
+              4,
+              "2025-11-18T14:53:13.052732"
+            ],
+            [
+              5,
+              "2025-11-18T14:54:19.530775"
+            ],
+            [
+              4,
+              "2025-11-18T22:30:50.984113"
+            ],
+            [
+              5,
+              "2025-11-19T00:26:26.009248"
+            ],
+            [
+              4,
+              "2025-11-19T02:11:44.115818"
+            ]
+          ],
+          "created_utc": 1702317029.0,
+          "depth": 1,
+          "permalink": "/r/compling/comments/18fzvvr/best_masters_programs_in_europe_in_computational/kcxdd9e/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "kd1bnl7",
+              "parent_id": "t1_kcxdd9e",
+              "author": "spado",
+              "text_history": [
+                [
+                  "Researcher here at a university which has both a CompLing and a DH program.\n\nThese days, it's probably appropriate to think of CompLing master's programs as a computer science master with a specialization in modelling language. The focus is on leaning to analyze and develop computer models of language. This means that the program qualifies you for a technical job, but it also means that you might find the contents of the program challenging. It definitely helps if your undergrad program contains a lot of formal linguistics, and/or if you do self-study in statistics and related areas.\n\nIn contrast, DH programs typically assume a humanities background, and the focus is more on bringing existing computational models to bear on humanities questions: defining the interface, understanding how to best frame the research question, understanding the assumptions of the computational methods, etc. This means that the contents are (at the technical level, at any rate) less challenging, but you also gain less technical depth, so less direct employability *in industry*. \n\nFor reference, the web pages of the two programs:\nhttps://www.uni-stuttgart.de/en/study/study-programs/Computational-Linguistics-M.Sc-00003./\nhttps://www.uni-stuttgart.de/studium/studienangebot/Digital-Humanities-M.A./\n\nHope this helps -- you can also look at some research work (aclanthology.org for CompLing, academic.oup.com/dsh for DH) to get a concrete idea. PM me if you have questions.",
+                  "2025-11-18T14:45:24.766438"
+                ]
+              ],
+              "score_history": [
+                [
+                  3,
+                  "2025-11-18T14:45:24.766438"
+                ],
+                [
+                  3,
+                  "2025-11-18T14:53:13.052732"
+                ],
+                [
+                  3,
+                  "2025-11-18T14:54:19.530775"
+                ],
+                [
+                  3,
+                  "2025-11-18T22:30:50.984113"
+                ],
+                [
+                  3,
+                  "2025-11-19T00:26:26.009248"
+                ],
+                [
+                  3,
+                  "2025-11-19T02:11:44.115818"
+                ]
+              ],
+              "created_utc": 1702388949.0,
+              "depth": 2,
+              "permalink": "/r/compling/comments/18fzvvr/best_masters_programs_in_europe_in_computational/kd1bnl7/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": [
+                {
+                  "id": "kd1hisx",
+                  "parent_id": "t1_kd1bnl7",
+                  "author": "Impressive-Care-9378",
+                  "text_history": [
+                    [
+                      "thank you so much this helped a lot. i can pick a statistics exam in my bachelor program so i think i definitely should...and I'm self studying some python. hope this can help a bit lol. \nthank you for your availabillity also.:))",
+                      "2025-11-18T14:45:24.766438"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      1,
+                      "2025-11-18T14:45:24.766438"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T14:53:13.052732"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T14:54:19.530775"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T22:30:50.984113"
+                    ],
+                    [
+                      1,
+                      "2025-11-19T00:26:26.009248"
+                    ],
+                    [
+                      1,
+                      "2025-11-19T02:11:44.115818"
+                    ]
+                  ],
+                  "created_utc": 1702391585.0,
+                  "depth": 3,
+                  "permalink": "/r/compling/comments/18fzvvr/best_masters_programs_in_europe_in_computational/kd1hisx/",
+                  "is_submitter": true,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": []
+                },
+                {
+                  "id": "kd1hv2e",
+                  "parent_id": "t1_kd1bnl7",
+                  "author": "Impressive-Care-9378",
+                  "text_history": [
+                    [
+                      "also i looked into stuttgart, do you know if it is a good master program? i study german linguistics in uni so it would be great for me.",
+                      "2025-11-18T14:45:24.766438"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      1,
+                      "2025-11-18T14:45:24.766438"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T14:53:13.052732"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T14:54:19.530775"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T22:30:50.984113"
+                    ],
+                    [
+                      1,
+                      "2025-11-19T00:26:26.009248"
+                    ],
+                    [
+                      1,
+                      "2025-11-19T02:11:44.115818"
+                    ]
+                  ],
+                  "created_utc": 1702391734.0,
+                  "depth": 3,
+                  "permalink": "/r/compling/comments/18fzvvr/best_masters_programs_in_europe_in_computational/kd1hv2e/",
+                  "is_submitter": true,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": [
+                    {
+                      "id": "kd1m6k8",
+                      "parent_id": "t1_kd1hv2e",
+                      "author": "spado",
+                      "text_history": [
+                        [
+                          "Well you shouldn't ask me as teaching staff for an objective evaluation ;-). If you do a google search on reddit.com, you'll find a number of past conversations.",
+                          "2025-11-18T14:45:24.766438"
+                        ]
+                      ],
+                      "score_history": [
+                        [
+                          2,
+                          "2025-11-18T14:45:24.766438"
+                        ],
+                        [
+                          2,
+                          "2025-11-18T14:53:13.052732"
+                        ],
+                        [
+                          2,
+                          "2025-11-18T14:54:19.530775"
+                        ],
+                        [
+                          2,
+                          "2025-11-18T22:30:50.984113"
+                        ],
+                        [
+                          2,
+                          "2025-11-19T00:26:26.009248"
+                        ],
+                        [
+                          2,
+                          "2025-11-19T02:11:44.115818"
+                        ]
+                      ],
+                      "created_utc": 1702393543.0,
+                      "depth": 4,
+                      "permalink": "/r/compling/comments/18fzvvr/best_masters_programs_in_europe_in_computational/kd1m6k8/",
+                      "is_submitter": false,
+                      "controversiality": 0,
+                      "gilded": 0,
+                      "edited": false,
+                      "deleted": false,
+                      "deleted_at": null,
+                      "replies": [
+                        {
+                          "id": "kd1nfr3",
+                          "parent_id": "t1_kd1m6k8",
+                          "author": "Impressive-Care-9378",
+                          "text_history": [
+                            [
+                              "omg lol sorry, I didn't think you worked there. thanks a lot regardless.:))",
+                              "2025-11-18T14:45:24.766438"
+                            ]
+                          ],
+                          "score_history": [
+                            [
+                              1,
+                              "2025-11-18T14:45:24.766438"
+                            ],
+                            [
+                              1,
+                              "2025-11-18T14:53:13.052732"
+                            ],
+                            [
+                              1,
+                              "2025-11-18T14:54:19.530775"
+                            ],
+                            [
+                              1,
+                              "2025-11-18T22:30:50.984113"
+                            ],
+                            [
+                              1,
+                              "2025-11-19T00:26:26.009248"
+                            ],
+                            [
+                              1,
+                              "2025-11-19T02:11:44.115818"
+                            ]
+                          ],
+                          "created_utc": 1702394055.0,
+                          "depth": 5,
+                          "permalink": "/r/compling/comments/18fzvvr/best_masters_programs_in_europe_in_computational/kd1nfr3/",
+                          "is_submitter": true,
+                          "controversiality": 0,
+                          "gilded": 0,
+                          "edited": false,
+                          "deleted": false,
+                          "deleted_at": null,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T02:11:44.115818",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/compling/comments/18fzvvr/best_masters_programs_in_europe_in_computational/",
+    "total_comments": 7,
+    "top_level_comments": 1,
+    "api_requests": 1,
+    "expected_comments": 7,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 6,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_144524.json",
+      "scrape_002_20251118_145312.json",
+      "scrape_003_20251118_145419.json",
+      "scrape_004_20251118_223050.json",
+      "scrape_005_20251119_002625.json",
+      "scrape_006_20251119_021143.json"
+    ]
+  }
+}

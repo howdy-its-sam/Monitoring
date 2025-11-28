@@ -1,0 +1,129 @@
+{
+  "post": {
+    "id": "1p17p1k",
+    "title": "Gemini-3-Pro Hallucinates Twice About a Reddit Link on “ChatGPT Enshittification”",
+    "author": "dictionizzle",
+    "score_history": [
+      [
+        1,
+        "2025-11-19T05:29:48.760002"
+      ],
+      [
+        1,
+        "2025-11-19T05:29:48.969461"
+      ],
+      [
+        1,
+        "2025-11-19T05:29:49.220284"
+      ],
+      [
+        1,
+        "2025-11-19T05:29:49.425332"
+      ],
+      [
+        1,
+        "2025-11-19T05:29:49.654670"
+      ],
+      [
+        1,
+        "2025-11-19T05:29:49.842296"
+      ],
+      [
+        1,
+        "2025-11-19T05:29:50.085220"
+      ],
+      [
+        1,
+        "2025-11-19T05:29:50.347945"
+      ],
+      [
+        1,
+        "2025-11-19T05:29:50.595145"
+      ],
+      [
+        1,
+        "2025-11-19T05:29:50.800042"
+      ],
+      [
+        1,
+        "2025-11-19T05:29:51.037117"
+      ],
+      [
+        1,
+        "2025-11-19T05:29:51.232832"
+      ],
+      [
+        1,
+        "2025-11-19T05:29:51.478534"
+      ],
+      [
+        1,
+        "2025-11-19T05:29:51.685900"
+      ],
+      [
+        1,
+        "2025-11-19T05:29:51.928260"
+      ],
+      [
+        1,
+        "2025-11-19T05:29:52.141200"
+      ],
+      [
+        1,
+        "2025-11-19T05:29:52.383341"
+      ],
+      [
+        1,
+        "2025-11-19T05:29:52.593877"
+      ],
+      [
+        1,
+        "2025-11-19T05:29:52.831863"
+      ],
+      [
+        1,
+        "2025-11-19T05:29:53.041364"
+      ]
+    ],
+    "created_utc": 1763558940.0,
+    "num_comments": 0,
+    "subreddit": "artificial",
+    "url": "https://www.reddit.com/r/artificial/comments/1p17p1k/gemini3pro_hallucinates_twice_about_a_reddit_link/",
+    "selftext": "A user shared this Reddit post: https://www.reddit.com/r/enshittification/s/peYREg8QgG. The post is about “The start of ChatGPT enshittification” and shows a chart claiming GPT-5.1 spends less time “thinking” for most queries. It is a criticism of how the model budget is used, not about YouTube or Facebook.\n\nWhen I asked Gemini-3-Pro whether the post was real, Gemini-3-Pro first invented a long story about YouTube’s AI dubbing and titles, which has nothing to do with the link. After I said it was wrong, Gemini-3-Pro apologized but then made up a second, different story claiming the post was about dark-pattern design and refund issues in the Facebook app. At no point did it actually describe the real Reddit content.\n\nThis shows a clear, repeated hallucination: Gemini-3-Pro confidently describes what a linked page “says” without actually reflecting its contents, even after feedback. The full faulty exchange is here: https://g.co/gemini/share/80af7e638aa0, and the real Reddit thread it should have summarized is here: https://www.reddit.com/r/enshittification/s/peYREg8QgG.",
+    "permalink": "/r/artificial/comments/1p17p1k/gemini3pro_hallucinates_twice_about_a_reddit_link/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T05:29:53.041364",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/artificial/comments/1p17p1k/gemini3pro_hallucinates_twice_about_a_reddit_link/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 20,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_052948.json",
+      "scrape_002_20251119_052948.json",
+      "scrape_003_20251119_052949.json",
+      "scrape_004_20251119_052949.json",
+      "scrape_005_20251119_052949.json",
+      "scrape_006_20251119_052949.json",
+      "scrape_007_20251119_052949.json",
+      "scrape_008_20251119_052950.json",
+      "scrape_009_20251119_052950.json",
+      "scrape_010_20251119_052950.json",
+      "scrape_011_20251119_052950.json",
+      "scrape_012_20251119_052951.json",
+      "scrape_013_20251119_052951.json",
+      "scrape_014_20251119_052951.json",
+      "scrape_015_20251119_052951.json",
+      "scrape_016_20251119_052951.json",
+      "scrape_017_20251119_052952.json",
+      "scrape_018_20251119_052952.json",
+      "scrape_019_20251119_052952.json",
+      "scrape_020_20251119_052952.json"
+    ]
+  }
+}

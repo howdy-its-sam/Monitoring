@@ -1,0 +1,44 @@
+{
+  "post": {
+    "id": "1p0axcd",
+    "title": "My prompt expansion app to help users save on cost got 1k+ users",
+    "author": "felixchip",
+    "score_history": [
+      [
+        1,
+        "2025-11-19T03:28:42.593965"
+      ],
+      [
+        1,
+        "2025-11-19T03:36:16.722676"
+      ],
+      [
+        1,
+        "2025-11-19T03:39:12.969211"
+      ]
+    ],
+    "created_utc": 1763469793.0,
+    "num_comments": 0,
+    "subreddit": "PromptEngineering",
+    "url": "https://www.reddit.com/r/PromptEngineering/comments/1p0axcd/my_prompt_expansion_app_to_help_users_save_on/",
+    "selftext": "Got into a convo with someone on Linkedin on how expensive Vibe coding was. The argument was failry solid. people subscribe, get credit, try to build and hit roadblocks. Then spend 90% of their credit asking the agent to fix it. And when the agent eventually gets around to it, they're out of credit.\n\nThe other bunch start out with just one-liners, and then figure out along the way that there's a million and one things they didn't consider when they started out. Then spend their credit fixing, adding, and modifying the app until they're out of credits.\n\n  \nBoth scenarios create a barrier between idea to app for people who're just looking to explore vibe coding. For the fun of it, I built [vibekit.cc](http://dvibekit.cc). it helps users figure out waht they want to biuld, who they're building for, and what their definition of success for the app should be; and it compiles that and gives them a detailed brief to share with their preferred vibecoding app. \n\nDropped on Product Hunt today and would appreciate you checking it out and let me know what you think. [https://www.producthunt.com/products/vibekit-2](https://www.producthunt.com/products/vibekit-2) ",
+    "permalink": "/r/PromptEngineering/comments/1p0axcd/my_prompt_expansion_app_to_help_users_save_on/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:39:12.969211",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/PromptEngineering/comments/1p0axcd/my_prompt_expansion_app_to_help_users_save_on/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_032842.json",
+      "scrape_002_20251119_033616.json",
+      "scrape_003_20251119_033912.json"
+    ]
+  }
+}

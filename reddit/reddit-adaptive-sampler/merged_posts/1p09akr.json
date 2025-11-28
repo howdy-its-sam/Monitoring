@@ -1,0 +1,154 @@
+{
+  "post": {
+    "id": "1p09akr",
+    "title": "After many attempts, my child finally managed to get the VinciBot out of the maze.",
+    "author": "GOLFJOY",
+    "score_history": [
+      [
+        29,
+        "2025-11-18T13:49:00.205402"
+      ],
+      [
+        29,
+        "2025-11-18T14:00:16.652480"
+      ],
+      [
+        28,
+        "2025-11-18T14:11:19.675984"
+      ],
+      [
+        34,
+        "2025-11-18T21:39:17.485457"
+      ],
+      [
+        33,
+        "2025-11-18T23:24:19.153272"
+      ],
+      [
+        36,
+        "2025-11-19T01:18:39.891278"
+      ]
+    ],
+    "created_utc": 1763464601.0,
+    "num_comments": 4,
+    "subreddit": "robotics",
+    "url": "https://v.redd.it/r6ui4cu6102g1",
+    "selftext": "Maybe next time we can set up an even more challenging maze.",
+    "permalink": "/r/robotics/comments/1p09akr/after_many_attempts_my_child_finally_managed_to/"
+  },
+  "comments": [
+    {
+      "id": "nph54ht",
+      "parent_id": "t3_1p09akr",
+      "author": "radarsat1",
+      "text_history": [
+        [
+          "I've been looking for something like this to help teach a 9 year old. Price looks alright, do you have a good experience with it? Ideally something he can program with a textual language, rather than blocks-based language.",
+          "2025-11-18T13:49:00.205402"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T13:49:00.205402"
+        ],
+        [
+          1,
+          "2025-11-18T14:00:16.652480"
+        ],
+        [
+          1,
+          "2025-11-18T14:11:19.675984"
+        ],
+        [
+          2,
+          "2025-11-18T21:39:17.485457"
+        ],
+        [
+          3,
+          "2025-11-18T23:24:19.153272"
+        ],
+        [
+          3,
+          "2025-11-19T01:18:39.891278"
+        ]
+      ],
+      "created_utc": 1763465540.0,
+      "depth": 0,
+      "permalink": "/r/robotics/comments/1p09akr/after_many_attempts_my_child_finally_managed_to/nph54ht/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npins47",
+      "parent_id": "t3_1p09akr",
+      "author": "scimocdit",
+      "text_history": [
+        [
+          "On first glance it looks like the road signs on the maze walls are what commands the robot which way to turn, but I don't think this is actually the case because it doesn't look like every turn has the right sign. But such an idea seems like a cool way to make robotics accessible to really young kids without programming via computer!",
+          "2025-11-18T13:49:00.205402"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T13:49:00.205402"
+        ],
+        [
+          1,
+          "2025-11-18T14:00:16.652480"
+        ],
+        [
+          1,
+          "2025-11-18T14:11:19.675984"
+        ],
+        [
+          2,
+          "2025-11-18T21:39:17.485457"
+        ],
+        [
+          2,
+          "2025-11-18T23:24:19.153272"
+        ],
+        [
+          2,
+          "2025-11-19T01:18:39.891278"
+        ]
+      ],
+      "created_utc": 1763484106.0,
+      "depth": 0,
+      "permalink": "/r/robotics/comments/1p09akr/after_many_attempts_my_child_finally_managed_to/npins47/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T01:18:39.891278",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/robotics/comments/1p09akr/after_many_attempts_my_child_finally_managed_to/",
+    "total_comments": 2,
+    "top_level_comments": 2,
+    "api_requests": 1,
+    "expected_comments": 4,
+    "coverage_percent": 50.0,
+    "merged_snapshot_count": 6,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_134859.json",
+      "scrape_002_20251118_140016.json",
+      "scrape_003_20251118_141118.json",
+      "scrape_004_20251118_213917.json",
+      "scrape_005_20251118_232418.json",
+      "scrape_006_20251119_011839.json"
+    ]
+  }
+}

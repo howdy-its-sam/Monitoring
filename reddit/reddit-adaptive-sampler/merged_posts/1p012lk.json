@@ -1,0 +1,64 @@
+{
+  "post": {
+    "id": "1p012lk",
+    "title": "have you ever wasted hours/ days to installing ai agent? Missed one package, ended up in a 2 hours debug with ChatGPT a did you know letest/ tranding ai agent?.",
+    "author": "No_Structure7849",
+    "score_history": [
+      [
+        1,
+        "2025-11-18T13:04:01.782609"
+      ],
+      [
+        1,
+        "2025-11-18T13:15:47.608522"
+      ],
+      [
+        1,
+        "2025-11-18T13:48:29.481254"
+      ],
+      [
+        1,
+        "2025-11-18T14:00:03.175181"
+      ],
+      [
+        1,
+        "2025-11-18T14:12:15.588631"
+      ],
+      [
+        1,
+        "2025-11-18T22:00:02.059229"
+      ],
+      [
+        1,
+        "2025-11-19T07:12:21.818043"
+      ]
+    ],
+    "created_utc": 1763435657.0,
+    "num_comments": 0,
+    "subreddit": "AgentsOfAI",
+    "url": "https://www.reddit.com/r/AgentsOfAI/comments/1p012lk/have_you_ever_wasted_hours_days_to_installing_ai/",
+    "selftext": "the ai agent market is pretty fragmented. we don't know letest/ tranding ai agent , there installation guide.\n \ntrying to install some ai agent. some time miss packeges, dependency ect . you wasted days to install agent .\nI am trying to build platform for only ai agent .\n\nfeatures : \nevery type of agent : what ever could be open source, commercial, n8n\n\nagent builder edit there post any time any where.\n\nreal world demo + step by step guide . (with dependency checklists so you don’t hit missing-package errors). so user don't feel scam .\n\nai assistant support in chat . who only bound with that particular ai agent.\n\nClear tags: open-source vs commercial, n8n .\n\nCommunity upvotes, reviews, and “works / fails” reports.\nNo paywall for users or indie devs—builders can optionally buy promo slots later.\n\nGoal: turn days  of hunting into 20 min of pick-install-run.\nWould YOU bookmark and actually use a site like this?\nWhat’s the #1 thing that would make you trust/upvote a listing ? ",
+    "permalink": "/r/AgentsOfAI/comments/1p012lk/have_you_ever_wasted_hours_days_to_installing_ai/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T07:12:21.818043",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/AgentsOfAI/comments/1p012lk/have_you_ever_wasted_hours_days_to_installing_ai/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 7,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_130401.json",
+      "scrape_002_20251118_131547.json",
+      "scrape_003_20251118_134829.json",
+      "scrape_004_20251118_140003.json",
+      "scrape_005_20251118_141215.json",
+      "scrape_006_20251118_220001.json",
+      "scrape_007_20251119_071221.json"
+    ]
+  }
+}

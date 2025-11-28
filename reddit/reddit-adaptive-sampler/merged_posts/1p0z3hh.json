@@ -1,0 +1,291 @@
+{
+  "post": {
+    "id": "1p0z3hh",
+    "title": "Is it true that ChatGPT will start showing ads in 2026?",
+    "author": "Ok-Method-npo",
+    "score_history": [
+      [
+        0,
+        "2025-11-19T03:41:49.457891"
+      ],
+      [
+        0,
+        "2025-11-19T03:48:46.132063"
+      ],
+      [
+        0,
+        "2025-11-19T03:50:44.575290"
+      ]
+    ],
+    "created_utc": 1763529954.0,
+    "num_comments": 7,
+    "subreddit": "ChatGPTPro",
+    "url": "https://www.reddit.com/r/ChatGPTPro/comments/1p0z3hh/is_it_true_that_chatgpt_will_start_showing_ads_in/",
+    "selftext": "I’ve been hearing rumors that ChatGPT might launch ads starting in 2026. Has anyone else seen this, and how do you think it will impact the user experience?\n",
+    "permalink": "/r/ChatGPTPro/comments/1p0z3hh/is_it_true_that_chatgpt_will_start_showing_ads_in/"
+  },
+  "comments": [
+    {
+      "id": "npmgq8f",
+      "parent_id": "t3_1p0z3hh",
+      "author": "qualityvote2",
+      "text_history": [
+        [
+          "Hello u/Ok-Method-npo 👋 Welcome to r/ChatGPTPro!  \nThis is a community for advanced ChatGPT, AI tools, and prompt engineering discussions.  \nOther members will now vote on whether your post fits our community guidelines.\n\n\n---\n\nFor other users, does this post fit the subreddit?\n\nIf so, **upvote this comment!**\n\nOtherwise, **downvote this comment!**\n\nAnd if it does break the rules, **downvote this comment and report this post!**",
+          "2025-11-19T03:41:49.457891"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T03:41:49.457891"
+        ],
+        [
+          1,
+          "2025-11-19T03:48:46.132063"
+        ],
+        [
+          1,
+          "2025-11-19T03:50:44.575290"
+        ]
+      ],
+      "created_utc": 1763529955.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTPro/comments/1p0z3hh/is_it_true_that_chatgpt_will_start_showing_ads_in/npmgq8f/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npmhrry",
+      "parent_id": "t3_1p0z3hh",
+      "author": "AdDry7344",
+      "text_history": [
+        [
+          "If true, it’s very likely only for free users, no?",
+          "2025-11-19T03:41:49.457891"
+        ]
+      ],
+      "score_history": [
+        [
+          3,
+          "2025-11-19T03:41:49.457891"
+        ],
+        [
+          3,
+          "2025-11-19T03:48:46.132063"
+        ],
+        [
+          3,
+          "2025-11-19T03:50:44.575290"
+        ]
+      ],
+      "created_utc": 1763530459.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTPro/comments/1p0z3hh/is_it_true_that_chatgpt_will_start_showing_ads_in/npmhrry/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npmi6u7",
+      "parent_id": "t3_1p0z3hh",
+      "author": "Singaporeinsight",
+      "text_history": [
+        [
+          "But it can't beat Google Ads.....",
+          "2025-11-19T03:41:49.457891"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T03:41:49.457891"
+        ],
+        [
+          1,
+          "2025-11-19T03:48:46.132063"
+        ],
+        [
+          1,
+          "2025-11-19T03:50:44.575290"
+        ]
+      ],
+      "created_utc": 1763530667.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTPro/comments/1p0z3hh/is_it_true_that_chatgpt_will_start_showing_ads_in/npmi6u7/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npmx6os",
+      "parent_id": "t3_1p0z3hh",
+      "author": "PeltonChicago",
+      "text_history": [
+        [
+          "I haven't seen any evidence that they've figured out how to do this. It's not exactly clear that this is something you could do with an LLM, nor is it clear that you could provide advertisers the control they require over the context in which their ads would appear. For example, would the ads be tied to keywords? Would Coca-Cola be comfortable with triggering their ads any time the word 'coke' appeared? Their guardrails don't exactly demonstrate the level of context control that advertisers likely require.",
+          "2025-11-19T03:41:49.457891"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T03:41:49.457891"
+        ],
+        [
+          1,
+          "2025-11-19T03:48:46.132063"
+        ],
+        [
+          1,
+          "2025-11-19T03:50:44.575290"
+        ]
+      ],
+      "created_utc": 1763539019.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTPro/comments/1p0z3hh/is_it_true_that_chatgpt_will_start_showing_ads_in/npmx6os/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npn0f81",
+          "parent_id": "t1_npmx6os",
+          "author": "Maximum_Sport4941",
+          "text_history": [
+            [
+              "For the coke example, just do a relevance classifier to soft drinks.\n\nChatGPT is most definitely not just triggering Slack connectors everytime anyone talks about slacking off at work.",
+              "2025-11-19T03:41:49.457891"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-19T03:41:49.457891"
+            ],
+            [
+              1,
+              "2025-11-19T03:48:46.132063"
+            ],
+            [
+              1,
+              "2025-11-19T03:50:44.575290"
+            ]
+          ],
+          "created_utc": 1763541004.0,
+          "depth": 1,
+          "permalink": "/r/ChatGPTPro/comments/1p0z3hh/is_it_true_that_chatgpt_will_start_showing_ads_in/npn0f81/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npn0ypm",
+      "parent_id": "t3_1p0z3hh",
+      "author": "Inevitable-Mood9798",
+      "text_history": [
+        [
+          "Maybe it’ll integrate the ads into the responses. Eg. Your business plan for expansion in 2026 looks good! Just like coca colas expansion in 1985 when they offered cool refreshing drinks to…",
+          "2025-11-19T03:41:49.457891"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T03:41:49.457891"
+        ],
+        [
+          1,
+          "2025-11-19T03:48:46.132063"
+        ],
+        [
+          1,
+          "2025-11-19T03:50:44.575290"
+        ]
+      ],
+      "created_utc": 1763541349.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTPro/comments/1p0z3hh/is_it_true_that_chatgpt_will_start_showing_ads_in/npn0ypm/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npn5nnv",
+      "parent_id": "t3_1p0z3hh",
+      "author": "pinksunsetflower",
+      "text_history": [
+        [
+          "You can hear what Sam Altman says about monetizing ChatGPT here.\n\nhttps://youtu.be/cuSDy0Rmdks?si=PCgFxzfzyHFwXwHb&amp;t=809\n\nIt's likely that ads will be added, but he knows that if ads are done in a poor way, they'll lose the trust of the people who use ChatGPT.  But ads may still be a way of monetizing, but unlike some other services, they have other ideas for monetizing ChatGPT.",
+          "2025-11-19T03:41:49.457891"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T03:41:49.457891"
+        ],
+        [
+          1,
+          "2025-11-19T03:48:46.132063"
+        ],
+        [
+          1,
+          "2025-11-19T03:50:44.575290"
+        ]
+      ],
+      "created_utc": 1763544321.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTPro/comments/1p0z3hh/is_it_true_that_chatgpt_will_start_showing_ads_in/npn5nnv/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:50:44.575290",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/ChatGPTPro/comments/1p0z3hh/is_it_true_that_chatgpt_will_start_showing_ads_in/",
+    "total_comments": 7,
+    "top_level_comments": 6,
+    "api_requests": 1,
+    "expected_comments": 7,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_034148.json",
+      "scrape_002_20251119_034845.json",
+      "scrape_003_20251119_035044.json"
+    ]
+  }
+}

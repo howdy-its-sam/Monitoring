@@ -1,0 +1,80 @@
+{
+  "post": {
+    "id": "1p0o0u5",
+    "title": "AI assisted coding tools for langchain",
+    "author": "liftingg",
+    "score_history": [
+      [
+        2,
+        "2025-11-19T02:55:39.277529"
+      ],
+      [
+        2,
+        "2025-11-19T03:03:38.891859"
+      ],
+      [
+        2,
+        "2025-11-19T03:08:48.886090"
+      ]
+    ],
+    "created_utc": 1763500158.0,
+    "num_comments": 1,
+    "subreddit": "LangChain",
+    "url": "https://www.reddit.com/r/LangChain/comments/1p0o0u5/ai_assisted_coding_tools_for_langchain/",
+    "selftext": "I’ve been a Claude code user for the past few months - not for absolutely everything - I still feel the need to get in and understand how things work and I find starting out by doing the basics by hand before moving into some feature dev with AI assistance. \n\nI’m in that phase with langchain tools at the moment but as I build up the mental model of how things work, I’ll hand off to AI from time to time. I’ve heard from a colleague that the current coding tools aren’t all that good at assisting in building out agents. \n\nI’m curious as to whether this is the experience of others too or if this is a case of the LLM not being given the right prompts/context. If you’re having joy with them, what’s working for you in terms of tools and context?",
+    "permalink": "/r/LangChain/comments/1p0o0u5/ai_assisted_coding_tools_for_langchain/"
+  },
+  "comments": [
+    {
+      "id": "npm50vj",
+      "parent_id": "t3_1p0o0u5",
+      "author": "tifa_cloud0",
+      "text_history": [
+        [
+          "langchain is a big framework. the thing is what you want to build ? there are also many github repo’s which simplifies and demonstrates on how to do things.",
+          "2025-11-19T02:55:39.277529"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:55:39.277529"
+        ],
+        [
+          1,
+          "2025-11-19T03:03:38.891859"
+        ],
+        [
+          1,
+          "2025-11-19T03:08:48.886090"
+        ]
+      ],
+      "created_utc": 1763524725.0,
+      "depth": 0,
+      "permalink": "/r/LangChain/comments/1p0o0u5/ai_assisted_coding_tools_for_langchain/npm50vj/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:08:48.886090",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/LangChain/comments/1p0o0u5/ai_assisted_coding_tools_for_langchain/",
+    "total_comments": 1,
+    "top_level_comments": 1,
+    "api_requests": 1,
+    "expected_comments": 1,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_025539.json",
+      "scrape_002_20251119_030338.json",
+      "scrape_003_20251119_030848.json"
+    ]
+  }
+}

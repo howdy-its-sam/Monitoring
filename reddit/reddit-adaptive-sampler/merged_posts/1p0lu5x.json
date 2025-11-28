@@ -1,0 +1,44 @@
+{
+  "post": {
+    "id": "1p0lu5x",
+    "title": "Kazakh Teen Engineer Designs Robot That Solves Rubik’s Cube in 60 Seconds",
+    "author": "ubcstaffer123",
+    "score_history": [
+      [
+        0,
+        "2025-11-18T14:22:14.811045"
+      ],
+      [
+        0,
+        "2025-11-18T14:32:47.478218"
+      ],
+      [
+        0,
+        "2025-11-18T14:43:07.965177"
+      ]
+    ],
+    "created_utc": 1763495192.0,
+    "num_comments": 0,
+    "subreddit": "technology",
+    "url": "https://astanatimes.com/2025/11/kazakh-teen-engineer-designs-robot-that-solves-rubiks-cube-in-60-seconds/",
+    "selftext": "",
+    "permalink": "/r/technology/comments/1p0lu5x/kazakh_teen_engineer_designs_robot_that_solves/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-18T14:43:07.965177",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/technology/comments/1p0lu5x/kazakh_teen_engineer_designs_robot_that_solves/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_142214.json",
+      "scrape_002_20251118_143247.json",
+      "scrape_003_20251118_144307.json"
+    ]
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "post": {
+    "id": "1p0bmth",
+    "title": "i want to sell courses online Just 200 rupees Are you interested ?",
+    "author": "No-Marionberry-851",
+    "score_history": [
+      [
+        0,
+        "2025-11-18T14:22:11.300089"
+      ],
+      [
+        0,
+        "2025-11-18T14:32:10.422977"
+      ],
+      [
+        0,
+        "2025-11-18T14:35:06.712287"
+      ]
+    ],
+    "created_utc": 1763471736.0,
+    "num_comments": 4,
+    "subreddit": "PromptEngineering",
+    "url": "https://www.reddit.com/r/PromptEngineering/comments/1p0bmth/i_want_to_sell_courses_online_just_200_rupees_are/",
+    "selftext": "Are you interested ? ",
+    "permalink": "/r/PromptEngineering/comments/1p0bmth/i_want_to_sell_courses_online_just_200_rupees_are/"
+  },
+  "comments": [
+    {
+      "id": "nphk4xu",
+      "parent_id": "t3_1p0bmth",
+      "author": "domussua",
+      "text_history": [
+        [
+          "absolutely not",
+          "2025-11-18T14:22:11.300089"
+        ]
+      ],
+      "score_history": [
+        [
+          4,
+          "2025-11-18T14:22:11.300089"
+        ],
+        [
+          5,
+          "2025-11-18T14:32:10.422977"
+        ],
+        [
+          4,
+          "2025-11-18T14:35:06.712287"
+        ]
+      ],
+      "created_utc": 1763471848.0,
+      "depth": 0,
+      "permalink": "/r/PromptEngineering/comments/1p0bmth/i_want_to_sell_courses_online_just_200_rupees_are/nphk4xu/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "nphltty",
+          "parent_id": "t1_nphk4xu",
+          "author": "No-Marionberry-851",
+          "text_history": [
+            [
+              "No problem Fucking Buddy",
+              "2025-11-18T14:22:11.300089"
+            ]
+          ],
+          "score_history": [
+            [
+              -2,
+              "2025-11-18T14:22:11.300089"
+            ],
+            [
+              -3,
+              "2025-11-18T14:32:10.422977"
+            ],
+            [
+              -1,
+              "2025-11-18T14:35:06.712287"
+            ]
+          ],
+          "created_utc": 1763472419.0,
+          "depth": 1,
+          "permalink": "/r/PromptEngineering/comments/1p0bmth/i_want_to_sell_courses_online_just_200_rupees_are/nphltty/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "nphrbrz",
+      "parent_id": "t3_1p0bmth",
+      "author": "smoking_pepper",
+      "text_history": [
+        [
+          "What is this BS... This is a low value low effort post.",
+          "2025-11-18T14:22:11.300089"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-18T14:22:11.300089"
+        ],
+        [
+          2,
+          "2025-11-18T14:32:10.422977"
+        ],
+        [
+          2,
+          "2025-11-18T14:35:06.712287"
+        ]
+      ],
+      "created_utc": 1763474206.0,
+      "depth": 0,
+      "permalink": "/r/PromptEngineering/comments/1p0bmth/i_want_to_sell_courses_online_just_200_rupees_are/nphrbrz/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nphnkxg",
+      "parent_id": "t3_1p0bmth",
+      "author": "Long_Lettuce_4946",
+      "text_history": [
+        [
+          "Generally, people dont want to pay for something they can get free of charges",
+          "2025-11-18T14:22:11.300089"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:22:11.300089"
+        ],
+        [
+          1,
+          "2025-11-18T14:32:10.422977"
+        ],
+        [
+          1,
+          "2025-11-18T14:35:06.712287"
+        ]
+      ],
+      "created_utc": 1763473002.0,
+      "depth": 0,
+      "permalink": "/r/PromptEngineering/comments/1p0bmth/i_want_to_sell_courses_online_just_200_rupees_are/nphnkxg/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-18T14:35:06.712287",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/PromptEngineering/comments/1p0bmth/i_want_to_sell_courses_online_just_200_rupees_are/",
+    "total_comments": 4,
+    "top_level_comments": 3,
+    "api_requests": 1,
+    "expected_comments": 4,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_142211.json",
+      "scrape_002_20251118_143210.json",
+      "scrape_003_20251118_143506.json"
+    ]
+  }
+}

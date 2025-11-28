@@ -1,0 +1,440 @@
+{
+  "post": {
+    "id": "1ozrwhg",
+    "title": "Best Approach for Multi-User RAG Ingestion: Backend vs. Worker Separation",
+    "author": "RecommendationDry178",
+    "score_history": [
+      [
+        5,
+        "2025-11-18T15:07:39.942773"
+      ],
+      [
+        4,
+        "2025-11-18T15:14:32.074055"
+      ],
+      [
+        4,
+        "2025-11-18T15:16:19.981083"
+      ],
+      [
+        3,
+        "2025-11-18T23:12:41.030025"
+      ],
+      [
+        3,
+        "2025-11-19T00:57:56.663352"
+      ],
+      [
+        4,
+        "2025-11-19T02:22:50.485906"
+      ]
+    ],
+    "created_utc": 1763412509.0,
+    "num_comments": 9,
+    "subreddit": "Rag",
+    "url": "https://www.reddit.com/r/Rag/comments/1ozrwhg/best_approach_for_multiuser_rag_ingestion_backend/",
+    "selftext": "Hi everyone,\n\nI’m building a multi-user multi-modal RAG application for my university final year project, and I’m trying to figure out the most scalable way to structure my backend and ingestion pipeline of the RAG. My use case involves students uploading documents (PDFs, PPTs, DOCX, etc.) and then chatting with an LLM using a RAG setup.\n\nHere’s what I’m thinking:\n\n* The **main backend** will handle file uploads, user authentication and chat endpoints.\n* When a file is uploaded, the backend stores it in **AWS S3** and then creates a **job in an SQS queue**.\n* **Separate ingestion workers** (deployed on EC2 or containers) continuously poll the queue, download files from S3, parse/chunk/embed them, and store the vectors in **Pinecone's** namespace of that particular user .\n* The backend will also handle **retrieval queries**, querying Pinecone and sending the results to the LLM for answer generation.\n\nMy reasoning: the ingestion process can be heavy and time-consuming, so I want to decouple it from the main backend to keep the chat/retrieval responsive for multiple users. The queue ensures jobs aren’t lost and allows multiple workers to process document ingestion from multiple users concurrently.\n\nMy questions for the community:\n\n1. Is this separation between ingestion workers and main backend a reasonable approach for a university-level production-like project as scalability will be evaluated?\n2. Are there pitfalls I might face with using SQS + workers for ingestion at this scale?\n3. Any alternative strategies you would recommend for handling both ingestion and retrieval efficiently for multiple users uploading multiple files?\n\nYour help will be appreciated, thanks in advance!",
+    "permalink": "/r/Rag/comments/1ozrwhg/best_approach_for_multiuser_rag_ingestion_backend/"
+  },
+  "comments": [
+    {
+      "id": "npdy137",
+      "parent_id": "t3_1ozrwhg",
+      "author": "Longjumping-Sun-5832",
+      "text_history": [
+        [
+          "Respectfully, why wouldn't you decouple ingest from control plane?",
+          "2025-11-18T15:07:39.942773"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-18T15:07:39.942773"
+        ],
+        [
+          2,
+          "2025-11-18T15:14:32.074055"
+        ],
+        [
+          2,
+          "2025-11-18T15:16:19.981083"
+        ],
+        [
+          2,
+          "2025-11-18T23:12:41.030025"
+        ],
+        [
+          2,
+          "2025-11-19T00:57:56.663352"
+        ],
+        [
+          2,
+          "2025-11-19T02:22:50.485906"
+        ]
+      ],
+      "created_utc": 1763415449.0,
+      "depth": 0,
+      "permalink": "/r/Rag/comments/1ozrwhg/best_approach_for_multiuser_rag_ingestion_backend/npdy137/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npe5xl8",
+          "parent_id": "t1_npdy137",
+          "author": "RecommendationDry178",
+          "text_history": [
+            [
+              "That’s actually what I’m doing. The FastAPI backend acts as the control plane, handling uploads, authentication and retrieval queries. When a user uploads a file, it’s stored in S3 and a job is created in an SQS queue. Separate EC2 workers handle the heavy ingestion—parsing, chunking, embedding, and storing vectors in Pinecone. This keeps the backend responsive, allows horizontal scaling, and separates orchestration from computation.",
+              "2025-11-18T15:07:39.942773"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T15:07:39.942773"
+            ],
+            [
+              1,
+              "2025-11-18T15:14:32.074055"
+            ],
+            [
+              1,
+              "2025-11-18T15:16:19.981083"
+            ],
+            [
+              1,
+              "2025-11-18T23:12:41.030025"
+            ],
+            [
+              1,
+              "2025-11-19T00:57:56.663352"
+            ],
+            [
+              1,
+              "2025-11-19T02:22:50.485906"
+            ]
+          ],
+          "created_utc": 1763417870.0,
+          "depth": 1,
+          "permalink": "/r/Rag/comments/1ozrwhg/best_approach_for_multiuser_rag_ingestion_backend/npe5xl8/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npknxrk",
+              "parent_id": "t1_npe5xl8",
+              "author": "Longjumping-Sun-5832",
+              "text_history": [
+                [
+                  "Nice, hard to tell but is ingestion parallelized? That would be my only suggestion for your current scenario to scale. I just built out our scenario in GCP using Cloud Run for ingest, where I can crawl a data source and fire off batched ingestion (e.g., 100 non-blocking calls at a time to ingest 100 files in parallel at a time).",
+                  "2025-11-18T15:07:39.942773"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-18T15:07:39.942773"
+                ],
+                [
+                  1,
+                  "2025-11-18T15:14:32.074055"
+                ],
+                [
+                  1,
+                  "2025-11-18T15:16:19.981083"
+                ],
+                [
+                  1,
+                  "2025-11-18T23:12:41.030025"
+                ],
+                [
+                  1,
+                  "2025-11-19T00:57:56.663352"
+                ],
+                [
+                  1,
+                  "2025-11-19T02:22:50.485906"
+                ]
+              ],
+              "created_utc": 1763505651.0,
+              "depth": 2,
+              "permalink": "/r/Rag/comments/1ozrwhg/best_approach_for_multiuser_rag_ingestion_backend/npknxrk/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "npfi30t",
+      "parent_id": "t3_1ozrwhg",
+      "author": "dash_bro",
+      "text_history": [
+        [
+          "You need a multi user setup for a uni project? \n\nWhat is this, MIT?\n\nSuggestions: \n- don't have jobs or queues, ingest on demand to a vector db (in memory) coupled with session ids and chat history. \n- user auth isn't required : if you need it, create a dummy table with permission enums and tag your vectors with it to show access control\n- make embedding, reranking, ingestion as your endpoints. Yes, these should be decoupled as processes. Build a react UI with streaming enabled to call these endpoints (makes it easier to develop front end decoupled from back-end)\n- if scalability is questioned, bs your way through the sqs stuff, don't actually build it out for just a project : it's over engineering for a stack that hasn't seen concurrent use yet. Good in theory to know, not ideal in practice.\n\nUse chroma or pinecone. Don't over complicate it. Talk more about what it is meant to achieve, less about the tech\n\nNever met any uni prof who truly understood enterprise grade production design, you can get by with a client-server arch + some tests. Should be okay",
+          "2025-11-18T15:07:39.942773"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-18T15:07:39.942773"
+        ],
+        [
+          2,
+          "2025-11-18T15:14:32.074055"
+        ],
+        [
+          2,
+          "2025-11-18T15:16:19.981083"
+        ],
+        [
+          2,
+          "2025-11-18T23:12:41.030025"
+        ],
+        [
+          2,
+          "2025-11-19T00:57:56.663352"
+        ],
+        [
+          2,
+          "2025-11-19T02:22:50.485906"
+        ]
+      ],
+      "created_utc": 1763434653.0,
+      "depth": 0,
+      "permalink": "/r/Rag/comments/1ozrwhg/best_approach_for_multiuser_rag_ingestion_backend/npfi30t/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": 1763434861.0,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npfralh",
+          "parent_id": "t1_npfi30t",
+          "author": "RecommendationDry178",
+          "text_history": [
+            [
+              "Bro that’s final year project, where evaluation committee evaluate based on some criteria and scalability is one of it. And handling multi user is the core requirement for our project. So what you are saying is we should ditch the queue and worker? And decouple and deploy the services like ingestion which is compute heavy?",
+              "2025-11-18T15:07:39.942773"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T15:07:39.942773"
+            ],
+            [
+              1,
+              "2025-11-18T15:14:32.074055"
+            ],
+            [
+              1,
+              "2025-11-18T15:16:19.981083"
+            ],
+            [
+              1,
+              "2025-11-18T23:12:41.030025"
+            ],
+            [
+              1,
+              "2025-11-19T00:57:56.663352"
+            ],
+            [
+              1,
+              "2025-11-19T02:22:50.485906"
+            ]
+          ],
+          "created_utc": 1763438137.0,
+          "depth": 1,
+          "permalink": "/r/Rag/comments/1ozrwhg/best_approach_for_multiuser_rag_ingestion_backend/npfralh/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npft3b9",
+              "parent_id": "t1_npfralh",
+              "author": "dash_bro",
+              "text_history": [
+                [
+                  "Go with what you've got, it's a solid approach -- just way too over engineered imo\n\nI'm trying to cut scope of what you really need for the uni project, but if the criteria for it are defined: your design holds. Go with it",
+                  "2025-11-18T15:07:39.942773"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-18T15:07:39.942773"
+                ],
+                [
+                  1,
+                  "2025-11-18T15:14:32.074055"
+                ],
+                [
+                  1,
+                  "2025-11-18T15:16:19.981083"
+                ],
+                [
+                  1,
+                  "2025-11-18T23:12:41.030025"
+                ],
+                [
+                  1,
+                  "2025-11-19T00:57:56.663352"
+                ],
+                [
+                  1,
+                  "2025-11-19T02:22:50.485906"
+                ]
+              ],
+              "created_utc": 1763438870.0,
+              "depth": 2,
+              "permalink": "/r/Rag/comments/1ozrwhg/best_approach_for_multiuser_rag_ingestion_backend/npft3b9/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "nper9ix",
+      "parent_id": "t3_1ozrwhg",
+      "author": "Popular_Sand2773",
+      "text_history": [
+        [
+          "You seem pretty on top of it SQS + workers is a good way to go. Ingestion doesn't have to be heavy by design. Latency is a constraint created by downstream end users. For a chat experience and small file sizes/amounts you shouldn't really need to worry all that much. Even if for some reason ingestion was actually heavy that's when you start thinking about tradeoffs. Usually you trade retrieval quality for latency.",
+          "2025-11-18T15:07:39.942773"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T15:07:39.942773"
+        ],
+        [
+          1,
+          "2025-11-18T15:14:32.074055"
+        ],
+        [
+          1,
+          "2025-11-18T15:16:19.981083"
+        ],
+        [
+          1,
+          "2025-11-18T23:12:41.030025"
+        ],
+        [
+          1,
+          "2025-11-19T00:57:56.663352"
+        ],
+        [
+          1,
+          "2025-11-19T02:22:50.485906"
+        ]
+      ],
+      "created_utc": 1763425140.0,
+      "depth": 0,
+      "permalink": "/r/Rag/comments/1ozrwhg/best_approach_for_multiuser_rag_ingestion_backend/nper9ix/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npf89t5",
+      "parent_id": "t3_1ozrwhg",
+      "author": "dangdang3000",
+      "text_history": [
+        [
+          "I recommend using AWS Chalice, a Python serverless microframework, instead of EC2. For infrastructure, use CDK. It will look great on your resume and will scale effectively.",
+          "2025-11-18T15:07:39.942773"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T15:07:39.942773"
+        ],
+        [
+          1,
+          "2025-11-18T15:14:32.074055"
+        ],
+        [
+          1,
+          "2025-11-18T15:16:19.981083"
+        ],
+        [
+          1,
+          "2025-11-18T23:12:41.030025"
+        ],
+        [
+          1,
+          "2025-11-19T00:57:56.663352"
+        ],
+        [
+          1,
+          "2025-11-19T02:22:50.485906"
+        ]
+      ],
+      "created_utc": 1763431216.0,
+      "depth": 0,
+      "permalink": "/r/Rag/comments/1ozrwhg/best_approach_for_multiuser_rag_ingestion_backend/npf89t5/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T02:22:50.485906",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/Rag/comments/1ozrwhg/best_approach_for_multiuser_rag_ingestion_backend/",
+    "total_comments": 8,
+    "top_level_comments": 4,
+    "api_requests": 1,
+    "expected_comments": 9,
+    "coverage_percent": 88.89,
+    "merged_snapshot_count": 6,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_150739.json",
+      "scrape_002_20251118_151431.json",
+      "scrape_003_20251118_151619.json",
+      "scrape_004_20251118_231240.json",
+      "scrape_005_20251119_005756.json",
+      "scrape_006_20251119_022250.json"
+    ]
+  }
+}

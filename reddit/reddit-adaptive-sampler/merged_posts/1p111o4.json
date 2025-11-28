@@ -1,0 +1,129 @@
+{
+  "post": {
+    "id": "1p111o4",
+    "title": "NCC Group Opinions?",
+    "author": "Azael0x64",
+    "score_history": [
+      [
+        1,
+        "2025-11-19T05:36:03.179490"
+      ],
+      [
+        1,
+        "2025-11-19T05:36:03.394782"
+      ],
+      [
+        1,
+        "2025-11-19T05:36:03.613210"
+      ],
+      [
+        1,
+        "2025-11-19T05:36:03.843801"
+      ],
+      [
+        1,
+        "2025-11-19T05:36:04.081492"
+      ],
+      [
+        1,
+        "2025-11-19T05:36:04.282836"
+      ],
+      [
+        1,
+        "2025-11-19T05:36:04.526504"
+      ],
+      [
+        1,
+        "2025-11-19T05:36:04.727162"
+      ],
+      [
+        1,
+        "2025-11-19T05:36:04.973497"
+      ],
+      [
+        1,
+        "2025-11-19T05:36:05.179206"
+      ],
+      [
+        1,
+        "2025-11-19T05:36:05.407206"
+      ],
+      [
+        1,
+        "2025-11-19T05:36:05.603109"
+      ],
+      [
+        1,
+        "2025-11-19T05:36:05.844572"
+      ],
+      [
+        1,
+        "2025-11-19T05:36:06.046591"
+      ],
+      [
+        1,
+        "2025-11-19T05:36:06.278229"
+      ],
+      [
+        1,
+        "2025-11-19T05:36:06.486741"
+      ],
+      [
+        1,
+        "2025-11-19T05:36:06.715787"
+      ],
+      [
+        1,
+        "2025-11-19T05:36:06.924506"
+      ],
+      [
+        1,
+        "2025-11-19T05:36:07.161293"
+      ],
+      [
+        1,
+        "2025-11-19T05:36:07.376242"
+      ]
+    ],
+    "created_utc": 1763536795.0,
+    "num_comments": 0,
+    "subreddit": "cybersecurity",
+    "url": "https://www.reddit.com/r/cybersecurity/comments/1p111o4/ncc_group_opinions/",
+    "selftext": "They’re offering me an associate position where they train you and teach you things gradually. Honestly, the role seems too good to be true.\n\nThe position is in Manchester",
+    "permalink": "/r/cybersecurity/comments/1p111o4/ncc_group_opinions/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T05:36:07.376242",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/cybersecurity/comments/1p111o4/ncc_group_opinions/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 20,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_053602.json",
+      "scrape_002_20251119_053603.json",
+      "scrape_003_20251119_053603.json",
+      "scrape_004_20251119_053603.json",
+      "scrape_005_20251119_053603.json",
+      "scrape_006_20251119_053604.json",
+      "scrape_007_20251119_053604.json",
+      "scrape_008_20251119_053604.json",
+      "scrape_009_20251119_053604.json",
+      "scrape_010_20251119_053604.json",
+      "scrape_011_20251119_053605.json",
+      "scrape_012_20251119_053605.json",
+      "scrape_013_20251119_053605.json",
+      "scrape_014_20251119_053605.json",
+      "scrape_015_20251119_053606.json",
+      "scrape_016_20251119_053606.json",
+      "scrape_017_20251119_053606.json",
+      "scrape_018_20251119_053606.json",
+      "scrape_019_20251119_053606.json",
+      "scrape_020_20251119_053607.json"
+    ]
+  }
+}

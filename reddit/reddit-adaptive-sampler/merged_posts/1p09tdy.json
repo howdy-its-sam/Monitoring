@@ -1,0 +1,44 @@
+{
+  "post": {
+    "id": "1p09tdy",
+    "title": "Help with Choosing the model",
+    "author": "algos-crown",
+    "score_history": [
+      [
+        1,
+        "2025-11-18T14:23:21.016394"
+      ],
+      [
+        1,
+        "2025-11-18T14:33:09.634659"
+      ],
+      [
+        1,
+        "2025-11-18T14:43:23.319911"
+      ]
+    ],
+    "created_utc": 1763466375.0,
+    "num_comments": 0,
+    "subreddit": "Rag",
+    "url": "https://www.reddit.com/r/Rag/comments/1p09tdy/help_with_choosing_the_model/",
+    "selftext": "We are working with a client that provides handyman services. They want to build a feature where using which their customers can take pictures or videos of the breaks and cracks in houses/offices and upload to their app. The image will be analyzed with AI to identify the damage. Based on which, AI will tell details about the issue, estimated cost of repair and the list of people who can do it for them.\n\nMy question is that which LLM model can be used for the analyses of images and videos? Can you please share your experience with the analysis of images and videos?",
+    "permalink": "/r/Rag/comments/1p09tdy/help_with_choosing_the_model/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-18T14:43:23.319911",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/Rag/comments/1p09tdy/help_with_choosing_the_model/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_142320.json",
+      "scrape_002_20251118_143309.json",
+      "scrape_003_20251118_144323.json"
+    ]
+  }
+}

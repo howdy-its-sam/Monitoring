@@ -1,0 +1,186 @@
+{
+  "post": {
+    "id": "1p03qg2",
+    "title": "What is the point of connected apps if none of them work properly",
+    "author": "EmmanuelO11",
+    "score_history": [
+      [
+        3,
+        "2025-11-19T02:55:50.613743"
+      ],
+      [
+        4,
+        "2025-11-19T03:06:53.167229"
+      ],
+      [
+        3,
+        "2025-11-19T03:16:16.923579"
+      ]
+    ],
+    "created_utc": 1763443821.0,
+    "num_comments": 4,
+    "subreddit": "ChatGPTPro",
+    "url": "https://www.reddit.com/r/ChatGPTPro/comments/1p03qg2/what_is_the_point_of_connected_apps_if_none_of/",
+    "selftext": "I’ve been playing around with the Canva and Figma connected app in developer mode and none of them get even remotely close to what I want done. Has anyone gotten them to actually be useful?",
+    "permalink": "/r/ChatGPTPro/comments/1p03qg2/what_is_the_point_of_connected_apps_if_none_of/"
+  },
+  "comments": [
+    {
+      "id": "npg40hu",
+      "parent_id": "t3_1p03qg2",
+      "author": "qualityvote2",
+      "text_history": [
+        [
+          "Hello u/EmmanuelO11 👋 Welcome to r/ChatGPTPro!  \nThis is a community for advanced ChatGPT, AI tools, and prompt engineering discussions.  \nOther members will now vote on whether your post fits our community guidelines.\n\n\n---\n\nFor other users, does this post fit the subreddit?\n\nIf so, **upvote this comment!**\n\nOtherwise, **downvote this comment!**\n\nAnd if it does break the rules, **downvote this comment and report this post!**",
+          "2025-11-19T02:55:50.613743"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:55:50.613743"
+        ],
+        [
+          1,
+          "2025-11-19T03:06:53.167229"
+        ],
+        [
+          1,
+          "2025-11-19T03:16:16.923579"
+        ]
+      ],
+      "created_utc": 1763443822.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTPro/comments/1p03qg2/what_is_the_point_of_connected_apps_if_none_of/npg40hu/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npgd9qf",
+      "parent_id": "t3_1p03qg2",
+      "author": "ValehartProject",
+      "text_history": [
+        [
+          "There have been some significant changes to the connectors. What are you aiming to do? I have access to the Canva connector and a few others that I can try and work out for you?",
+          "2025-11-19T02:55:50.613743"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-19T02:55:50.613743"
+        ],
+        [
+          2,
+          "2025-11-19T03:06:53.167229"
+        ],
+        [
+          2,
+          "2025-11-19T03:16:16.923579"
+        ]
+      ],
+      "created_utc": 1763448736.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTPro/comments/1p03qg2/what_is_the_point_of_connected_apps_if_none_of/npgd9qf/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npko0oz",
+          "parent_id": "t1_npgd9qf",
+          "author": "EmmanuelO11",
+          "text_history": [
+            [
+              "I had a list of 4 items. Just text title &amp; subtitle. I wanted to transfer that text the a canva image with white text and black background. One page for each item. This is the easiest thing I could think of and it can even handle that. Just makes some elaborate designs with no consistency.",
+              "2025-11-19T02:55:50.613743"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-19T02:55:50.613743"
+            ],
+            [
+              1,
+              "2025-11-19T03:06:53.167229"
+            ],
+            [
+              1,
+              "2025-11-19T03:16:16.923579"
+            ]
+          ],
+          "created_utc": 1763505678.0,
+          "depth": 1,
+          "permalink": "/r/ChatGPTPro/comments/1p03qg2/what_is_the_point_of_connected_apps_if_none_of/npko0oz/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npkni3w",
+      "parent_id": "t3_1p03qg2",
+      "author": "FreshRadish2957",
+      "text_history": [
+        [
+          "The connected apps are not actually broken. They are just far more limited than most people expect. Right now they behave more like lightweight bridges than real plugins, so they cannot follow complex steps inside Canva or Figma.\n\nThe trick is to treat them like helpers instead of full automation.\n\nHere are a few things that actually work well.\n\n1. Be very literal with your request\nInstead of asking for a banner, try something like:\n“Create a 1080 by 1920 layout with a dark background, a centered title, and a small footer box.”\n\n2. Let them build the starting point, then finish it in Canva or Figma\nThey handle the basic structure well. They do not handle artistic decisions well.\n\n3. Use them for repetitive work\nTasks like resizing images, creating simple starter templates, or preparing consistent layouts usually work fine.\n\n4. Remember the integrations are still very early\nThey feel more like previews than finished tools. They save time, but they are not replacements for real design work yet.\n\nIf you tell me what you were trying to build, I can show you the prompt style that gives the most reliable results.",
+          "2025-11-19T02:55:50.613743"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:55:50.613743"
+        ],
+        [
+          1,
+          "2025-11-19T03:06:53.167229"
+        ],
+        [
+          1,
+          "2025-11-19T03:16:16.923579"
+        ]
+      ],
+      "created_utc": 1763505509.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTPro/comments/1p03qg2/what_is_the_point_of_connected_apps_if_none_of/npkni3w/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:16:16.923579",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/ChatGPTPro/comments/1p03qg2/what_is_the_point_of_connected_apps_if_none_of/",
+    "total_comments": 4,
+    "top_level_comments": 3,
+    "api_requests": 1,
+    "expected_comments": 4,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_025550.json",
+      "scrape_002_20251119_030652.json",
+      "scrape_003_20251119_031616.json"
+    ]
+  }
+}

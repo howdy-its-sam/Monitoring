@@ -1,0 +1,129 @@
+{
+  "post": {
+    "id": "1p188ma",
+    "title": "I don't have Gemini 3?",
+    "author": "iswhatitiswaswhat",
+    "score_history": [
+      [
+        1,
+        "2025-11-19T05:53:48.872780"
+      ],
+      [
+        1,
+        "2025-11-19T05:53:49.096325"
+      ],
+      [
+        1,
+        "2025-11-19T05:53:49.317879"
+      ],
+      [
+        1,
+        "2025-11-19T05:53:49.527694"
+      ],
+      [
+        1,
+        "2025-11-19T05:53:49.761377"
+      ],
+      [
+        1,
+        "2025-11-19T05:53:49.963335"
+      ],
+      [
+        1,
+        "2025-11-19T05:53:50.216870"
+      ],
+      [
+        1,
+        "2025-11-19T05:53:50.437482"
+      ],
+      [
+        1,
+        "2025-11-19T05:53:50.692920"
+      ],
+      [
+        1,
+        "2025-11-19T05:53:50.890121"
+      ],
+      [
+        1,
+        "2025-11-19T05:53:51.139357"
+      ],
+      [
+        1,
+        "2025-11-19T05:53:51.351147"
+      ],
+      [
+        1,
+        "2025-11-19T05:53:51.581274"
+      ],
+      [
+        1,
+        "2025-11-19T05:53:51.786056"
+      ],
+      [
+        1,
+        "2025-11-19T05:53:52.032930"
+      ],
+      [
+        1,
+        "2025-11-19T05:53:52.252400"
+      ],
+      [
+        1,
+        "2025-11-19T05:53:52.498564"
+      ],
+      [
+        1,
+        "2025-11-19T05:53:52.703778"
+      ],
+      [
+        1,
+        "2025-11-19T05:53:52.931283"
+      ],
+      [
+        1,
+        "2025-11-19T05:53:53.149577"
+      ]
+    ],
+    "created_utc": 1763560341.0,
+    "num_comments": 0,
+    "subreddit": "singularity",
+    "url": "https://www.reddit.com/r/singularity/comments/1p188ma/i_dont_have_gemini_3/",
+    "selftext": "I have a Gemini Pro subscription, I'm in EU. The model that answers me is Gemini 2.5 and deep search is gone?\n\n  \nWhen will I get Gemini 3 and is this the same for all EU users?",
+    "permalink": "/r/singularity/comments/1p188ma/i_dont_have_gemini_3/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T05:53:53.149577",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/singularity/comments/1p188ma/i_dont_have_gemini_3/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 20,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_055348.json",
+      "scrape_002_20251119_055348.json",
+      "scrape_003_20251119_055349.json",
+      "scrape_004_20251119_055349.json",
+      "scrape_005_20251119_055349.json",
+      "scrape_006_20251119_055349.json",
+      "scrape_007_20251119_055350.json",
+      "scrape_008_20251119_055350.json",
+      "scrape_009_20251119_055350.json",
+      "scrape_010_20251119_055350.json",
+      "scrape_011_20251119_055350.json",
+      "scrape_012_20251119_055351.json",
+      "scrape_013_20251119_055351.json",
+      "scrape_014_20251119_055351.json",
+      "scrape_015_20251119_055351.json",
+      "scrape_016_20251119_055352.json",
+      "scrape_017_20251119_055352.json",
+      "scrape_018_20251119_055352.json",
+      "scrape_019_20251119_055352.json",
+      "scrape_020_20251119_055352.json"
+    ]
+  }
+}

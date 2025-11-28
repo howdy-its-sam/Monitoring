@@ -1,6 +1,7 @@
 """
 Reddit OAuth Authentication Module
-Handles OAuth authentication for Reddit API to increase rate limits from ~60 to ~600 requests/minute.
+Handles OAuth authentication for Reddit API to increase rate limits from ~10 to ~100 requests/minute.
+(As of 2024-2025, Reddit's OAuth limit is 100 req/min, not 600 as was commonly believed)
 """
 
 import requests
@@ -112,7 +113,7 @@ def get_authenticated_session(filepath: str = 'reddit_credentials.txt') -> Optio
     This session will have:
     - OAuth bearer token in Authorization header
     - Proper User-Agent header
-    - 10x higher rate limits (~600 requests/minute vs ~60)
+    - 10x higher rate limits (~100 requests/minute vs ~10)
     
     Args:
         filepath: Path to credentials file

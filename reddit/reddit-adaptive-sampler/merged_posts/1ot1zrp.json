@@ -1,0 +1,922 @@
+{
+  "post": {
+    "id": "1ot1zrp",
+    "title": "I spent €10,000 on an FX3/ZV-E1 rig for TikToks. It was the stupidest fucking business decision I’ve ever made. A warning to all high-volume creators.",
+    "author": "[deleted]",
+    "score_history": [
+      [
+        7,
+        "2025-11-18T15:16:46.862313"
+      ],
+      [
+        7,
+        "2025-11-18T23:02:15.329625"
+      ],
+      [
+        8,
+        "2025-11-19T00:47:48.980995"
+      ],
+      [
+        8,
+        "2025-11-19T02:32:51.673423"
+      ]
+    ],
+    "created_utc": 1762741331.0,
+    "num_comments": 23,
+    "subreddit": "ContentMarketing",
+    "url": "https://www.reddit.com/r/ContentMarketing/comments/1ot1zrp/i_spent_10000_on_an_fx3zve1_rig_for_tiktoks_it/",
+    "selftext": "Alright, listen up, because I’m about to save you a catastrophic amount of money and time.\n\nThis post is **NOT** for \"filmmakers.\" If you’re a videographer who gets triggered by the word \"vertical\" and still lives by the \"jUsT cRoP tHe HoRiZoNtAl\" mentality, fuck off. You don't understand the game, you don't respect the platforms, and you probably see TikTok as a \"trash recycle bin for my main long-form content.\" This post isn't for you.\n\nThis is for a very specific person: The business owner or full-time creator whose entire strategy relies on **VOLUME x VERTICAL** (TikTok, Reels, Shorts). I’m talking to the people who understand you need to aim for 100-300+ posts a month to dominate.\n\nI’m one of you. I had a 10-year background as a video editor and VFX artist, so I was obsessed with \"perfection.\" I fell for the \"quality\" meme. I told myself, \"I'll just buy a real camera, and my content will be like my iPhone, but 100x better.\"\n\nI bought the ZV-E1. I \"upgraded\" to the FX3. I bought the G-Master lenses, the rigs, the cages, the batteries, the monitors, the teleprompter. **I am €10,000 deep into this mistake.**\n\nDo not be me. Here is the brutal, unfiltered truth about why buying a \"pro\" camera for high-volume vertical content is a workflow-destroying disaster.\n\n\n\n# 1. The \"Point and Shoot\" Lie (Friction in Setup)\n\n\n\nYou know how your iPhone just *works*? You hit record, and the lighting, focus, and color are 95% perfect?\n\n**That does not exist on a real camera.**\n\nA camera is a dumb brick until you give it commands. You are now in charge of ISO, aperture, white balance, and shutter speed. **Every. Single. Time.** You change rooms? Re-do the settings. The sun moves? Re-do the settings.\n\nAnd that \"beautiful cinematic look\" all your favorite creators have? That's S-Log (or some other Log profile). This setting makes your footage look like flat, gray, depressing garbage straight out of the camera. It *requires* you to color-grade it in post.\n\nNo, you can't just slap a CapCut filter on it and call it a day. You now **HAVE** to learn DaVinci Resolve or Premiere Pro. You've just added a 30-minute mandatory step to every single video. This is the definition of **FRICTION**.\n\n\n\n# 2. The Vertical Teleprompter Clusterfuck\n\n\n\nIf you're making 100+ videos a month, you're not free-styling. You're using a script. And if you're using a script, you need a teleprompter.\n\nOn a phone, this is easy: You download an app. Done.\n\nOn a camera, it's a living nightmare.\n\n* **Problem A:** You mount your camera vertically on the teleprompter rig.\n* **Problem B:** You're shooting vertical, so you need a WIDE lens (like a 16mm or 20mm) to get that classic close-up \"selfie\" feel.\n* **Problem C:** At that wide an angle, **YOU WILL SEE THE FUCKING EDGES OF THE TELEPROMPTER** in your shot.\n* **The \"Solution\"?** You have to switch to a 35mm or 50mm lens and put the camera 10 feet across the room.\n\nCongratulations, you just destroyed the entire intimate, hand-held, \"speaking-to-you\" vibe of vertical content. It looks stiff, distant, and weird. I wasted so much money on teleprompter hardware just to discover this basic physics problem nobody talks about.\n\n\n\n# 3. The Workflow from Hell (Goodbye, Speed)\n\n\n\nSpeed is everything. Our entire business model is \"Record -&gt; Edit -&gt; Post.\"\n\n**My iPhone Workflow:**\n\n1. Record (seeing myself, using the teleprompter app).\n2. Edit (in TikTok or CapCut, on the same device).\n3. Post.\n\n* **Total Time: 10-15 minutes.**\n\n**My €10k Camera Workflow:**\n\n1. Assemble the rig.\n2. Dial in all settings (ISO, WB, etc.).\n3. Record (staring into a black void, see next point).\n4. Turn off camera, pull the SD card.\n5. Find the SD card reader, plug it into the laptop.\n6. Transfer files (hope nothing is corrupt).\n7. Import into Premiere/DaVinci.\n8. Edit the footage.\n9. **COLOR GRADE** the S-Log footage.\n10. Export.\n11. Airdrop/transfer the file back to my phone.\n12. Upload &amp; post.\n\n* **Total Time: 1-2 HOURS.**\n\nYou cannot \"spam\" content with this workflow. You will burn out and fail. I did. Those 7 extra steps are a barrier that will kill your business.\n\n\n\n# 4. The \"Black Void\" &amp; Tiny Screens\n\n\n\nThis is the psychological barrier no one *ever* mentions.\n\nOn a phone, you're looking at the screen and seeing your own face. You're talking *to yourself*. It's a feedback loop.\n\nOn a camera, you are staring into a **cold, black, empty lens**. You can't see yourself properly. The tiny, 3-inch flip-out screen is on the *side* of the camera, not *around* the lens. You're either looking at the screen (and your eyes are off-axis) or you're looking at the lens (and have no idea what your face is doing). It feels dead. My energy on camera plummeted.\n\n\n\n# 5. Open Gate? What's That? (Sony, I'm looking at you)\n\n\n\nThis is the technical kill-shot. \"Open Gate\" means the camera uses its *entire* sensor to record a taller, squarish image (e.g., 4:3 or 3:2), giving you massive room to reframe for 9:16 vertical, 1:1 square, *and* 16:9 horizontal from ONE clip.\n\nSony's \"pro\" cameras (my ZV-E1, my FX3) **DON'T FUCKING HAVE IT.**\n\nThey only shoot 16:9. So to get my 9:16 vertical, I am **THROWING AWAY 2/3 of the sensor data** I just captured. I have to guess my framing, and the \"4K\" quality I paid for is now a tiny, cropped-in, algorithm-destroying mess. It's idiotic.\n\n\n\n# The Brutal Conclusion\n\n\n\nTo all the videographers already typing \"wElL dUhHh, yOu ShOuLd HaVe DoNe ReSeArCh\": **You can go straight to hell.**\n\nI did the research. NOBODY is talking about these specific, vertical-first, high-volume workflow problems. All the reviews are from \"filmmakers\" shooting horizontal B-roll of their cat.\n\nI bought a €10,000 setup to \"increase my quality.\" The result? It created so much friction that I stopped making content.\n\nAnd the final punchline? **My iPhone videos have brought me FAR more views, leads, and new business than a single video I ever shot on my \"pro\" camera.**\n\nYour audience does not give a single shit about your 10-bit 4:2:2 color. They care about the message. Get out of the \"perfectionism\" trap.\n\nIf you are in your growth phase, **DO NOT BUY A CAMERA.** It is an expensive, time-sucking anchor that will slow you down.\n\n**P.S. - To any camera manufacturers reading this:**\n\nWe are not \"vloggers.\" We are business owners. We need:\n\n1. **OPEN GATE.** It's not optional anymore, you fossils.\n2. **A camera-to-phone transfer app that isn't dogshit.**\n3. **Good in-camera colors/presets** (like Fujifilm) so we can skip grading.\n4. **A centered, large preview screen.** Think an iPhone's back camera but with a screen around it.\n5. **Wide-angle zoom lenses that make sense.** A 10-20mm f/2.8. I don't care about physics, just make it.\n6. Teleprompters built for vertical wide-angle use.\n\nFix your shit. You're losing an entire market.",
+    "permalink": "/r/ContentMarketing/comments/1ot1zrp/i_spent_10000_on_an_fx3zve1_rig_for_tiktoks_it/"
+  },
+  "comments": [
+    {
+      "id": "no2kgg3",
+      "parent_id": "t3_1ot1zrp",
+      "author": "nancy_unscript",
+      "text_history": [
+        [
+          "Man, this might be the most honest breakdown I’ve read about creator workflows. The “friction kills creativity” part is so real every extra technical step eats away at momentum and spontaneity.  \nPhones aren’t just convenient anymore; they’re purpose-built tools for storytelling at speed. The gap between “pro gear” and “good enough” has practically vanished for vertical content.  \nI used to think more tech = better output, but it’s really more speed = better connection. This post nails that balance perfectly.",
+          "2025-11-18T15:16:46.862313"
+        ]
+      ],
+      "score_history": [
+        [
+          5,
+          "2025-11-18T15:16:46.862313"
+        ],
+        [
+          5,
+          "2025-11-18T23:02:15.329625"
+        ],
+        [
+          5,
+          "2025-11-19T00:47:48.980995"
+        ],
+        [
+          4,
+          "2025-11-19T02:32:51.673423"
+        ]
+      ],
+      "created_utc": 1762759246.0,
+      "depth": 0,
+      "permalink": "/r/ContentMarketing/comments/1ot1zrp/i_spent_10000_on_an_fx3zve1_rig_for_tiktoks_it/no2kgg3/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "no2xphm",
+          "parent_id": "t1_no2kgg3",
+          "author": "[deleted]",
+          "text_history": [
+            [
+              "I had to delete this post in the FX3 subreddit, the heat reacived was out of proportions lmao. The whole point of the post was to share my experience and to reasurre people that they don't need all this gear to make content. If anything, it kills momentum. But i guess that's what happens when you write down the painful truth of this topics, which literally nobody talks about.   \nShort form content and long form content are different worlds and require different tools. Since most filmmakers and videographers don't really use these short-form content platforms, their opinions and workflow really don't matter much.",
+              "2025-11-18T15:16:46.862313"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T15:16:46.862313"
+            ],
+            [
+              1,
+              "2025-11-18T23:02:15.329625"
+            ],
+            [
+              1,
+              "2025-11-19T00:47:48.980995"
+            ],
+            [
+              1,
+              "2025-11-19T02:32:51.673423"
+            ]
+          ],
+          "created_utc": 1762767424.0,
+          "depth": 1,
+          "permalink": "/r/ContentMarketing/comments/1ot1zrp/i_spent_10000_on_an_fx3zve1_rig_for_tiktoks_it/no2xphm/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "no38cun",
+              "parent_id": "t1_no2xphm",
+              "author": "nancy_unscript",
+              "text_history": [
+                [
+                  "Yeah, I totally get that. You touched a nerve in a space that’s still wrapped up in traditional film workflows. Most of those conversations forget that *speed is the new production value* when it comes to vertical.  \nThe truth is, short-form is its own craft with different goals, different tools, different mindset. You put it perfectly: it’s about momentum, not megapixels.",
+                  "2025-11-18T15:16:46.862313"
+                ]
+              ],
+              "score_history": [
+                [
+                  2,
+                  "2025-11-18T15:16:46.862313"
+                ],
+                [
+                  2,
+                  "2025-11-18T23:02:15.329625"
+                ],
+                [
+                  2,
+                  "2025-11-19T00:47:48.980995"
+                ],
+                [
+                  2,
+                  "2025-11-19T02:32:51.673423"
+                ]
+              ],
+              "created_utc": 1762773735.0,
+              "depth": 2,
+              "permalink": "/r/ContentMarketing/comments/1ot1zrp/i_spent_10000_on_an_fx3zve1_rig_for_tiktoks_it/no38cun/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": [
+                {
+                  "id": "no95gr5",
+                  "parent_id": "t1_no38cun",
+                  "author": "killarotten",
+                  "text_history": [
+                    [
+                      "But like yeah it that not obvious? Dude bought a cinema camera and is annoyed that it's not all auto. That's just bad planning, lack of research and impulse purchasing. A couple of hours of research would have taught this without spending 10,000.",
+                      "2025-11-18T15:16:46.862313"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      1,
+                      "2025-11-18T15:16:46.862313"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T23:02:15.329625"
+                    ],
+                    [
+                      1,
+                      "2025-11-19T00:47:48.980995"
+                    ],
+                    [
+                      1,
+                      "2025-11-19T02:32:51.673423"
+                    ]
+                  ],
+                  "created_utc": 1762851806.0,
+                  "depth": 3,
+                  "permalink": "/r/ContentMarketing/comments/1ot1zrp/i_spent_10000_on_an_fx3zve1_rig_for_tiktoks_it/no95gr5/",
+                  "is_submitter": false,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "no1llbm",
+      "parent_id": "t3_1ot1zrp",
+      "author": "servebetter",
+      "text_history": [
+        [
+          "I have an expensive setup and it has brought me lots of leads sales etc.\n\nThat's said these are not setups for people who don't understand the tech.\n\nAnd/or understand why you need high end equipment.  That's the difference.  \n\nWe use it as a point if differentiation.  However with cloning and a.i. nobody needs a camera anymore",
+          "2025-11-18T15:16:46.862313"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-18T15:16:46.862313"
+        ],
+        [
+          2,
+          "2025-11-18T23:02:15.329625"
+        ],
+        [
+          2,
+          "2025-11-19T00:47:48.980995"
+        ],
+        [
+          2,
+          "2025-11-19T02:32:51.673423"
+        ]
+      ],
+      "created_utc": 1762743083.0,
+      "depth": 0,
+      "permalink": "/r/ContentMarketing/comments/1ot1zrp/i_spent_10000_on_an_fx3zve1_rig_for_tiktoks_it/no1llbm/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "no1mj71",
+          "parent_id": "t1_no1llbm",
+          "author": "[deleted]",
+          "text_history": [
+            [
+              "Sure. Anything of value bring leeds after all. I was just making this post for that one guy who thinks they “NEED” all this gear to make business. Which they don’t",
+              "2025-11-18T15:16:46.862313"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T15:16:46.862313"
+            ],
+            [
+              1,
+              "2025-11-18T23:02:15.329625"
+            ],
+            [
+              1,
+              "2025-11-19T00:47:48.980995"
+            ],
+            [
+              1,
+              "2025-11-19T02:32:51.673423"
+            ]
+          ],
+          "created_utc": 1762743428.0,
+          "depth": 1,
+          "permalink": "/r/ContentMarketing/comments/1ot1zrp/i_spent_10000_on_an_fx3zve1_rig_for_tiktoks_it/no1mj71/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "no1oyzu",
+              "parent_id": "t1_no1mj71",
+              "author": "servebetter",
+              "text_history": [
+                [
+                  "True.  We want the beautiful look more for us than for what actually works.\n\nBetter stories\nBetter hooks\nBetter writing\nWill bring a far better 80/20 than spending a fortune on a camera.\n\nAnd in some cases, the camera makes it t untrustworthy, if the audience has an expectation you're just a regular person.",
+                  "2025-11-18T15:16:46.862313"
+                ]
+              ],
+              "score_history": [
+                [
+                  2,
+                  "2025-11-18T15:16:46.862313"
+                ],
+                [
+                  2,
+                  "2025-11-18T23:02:15.329625"
+                ],
+                [
+                  2,
+                  "2025-11-19T00:47:48.980995"
+                ],
+                [
+                  2,
+                  "2025-11-19T02:32:51.673423"
+                ]
+              ],
+              "created_utc": 1762744341.0,
+              "depth": 2,
+              "permalink": "/r/ContentMarketing/comments/1ot1zrp/i_spent_10000_on_an_fx3zve1_rig_for_tiktoks_it/no1oyzu/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "no3fq12",
+      "parent_id": "t3_1ot1zrp",
+      "author": "Radiant-Security-347",
+      "text_history": [
+        [
+          "I suppose that is great information for someone who doesn’t have any experience shooting. \n\nBut anyone who does, already knows this. \n\nContent marketing has always been about the quality and authenticity of the CONTENT, not esoteric production values. \n\nAnd the FX3 can shoot in other modes besides log - so knowing how to use a high end camera helps reduce the workflow you describe. \n\nEven better - I shot 200 podcast interviews using the built in camera on my iMac.  But I did every one of them live using OBS Studio to do live cuts. I put in about an hour per episode mostly to prep as the host. \n\nI learned long ago, that it’s not equipment that makes great content, it’s the person behind (or in. front) of the equipment that matters.",
+          "2025-11-18T15:16:46.862313"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-18T15:16:46.862313"
+        ],
+        [
+          2,
+          "2025-11-18T23:02:15.329625"
+        ],
+        [
+          2,
+          "2025-11-19T00:47:48.980995"
+        ],
+        [
+          2,
+          "2025-11-19T02:32:51.673423"
+        ]
+      ],
+      "created_utc": 1762777365.0,
+      "depth": 0,
+      "permalink": "/r/ContentMarketing/comments/1ot1zrp/i_spent_10000_on_an_fx3zve1_rig_for_tiktoks_it/no3fq12/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "no3x2uq",
+      "parent_id": "t3_1ot1zrp",
+      "author": "Low-Ad-8828",
+      "text_history": [
+        [
+          "This is a great post and so true - the friction is only worth it if it boosts enough resonance and personalisation, but in your context it clearly doesn't - given the volume you are producing. \n\nI have a S5IIX and a similar set up with teleprompter etc. I have the advantage of open gate and MP4lite, baking luts in and making that side quicker, but it's still not as fast as using a phone.\n\nSo for me short form is either phone first, or snips from  long form. Long form I'll tend to use my camera rather than phone (but I have a dedicated space to record that is always set up ready to go as this part seems to take the longest). \nThe trick is batching when you are using the better set up, but this in turn also takes organisation and planning.\n\nThe truth is now quality is good enough from phones few are going to critique the gear and quality, in fact less attention is paid to the audio quality that can easily be achieved with either set up.",
+          "2025-11-18T15:16:46.862313"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-18T15:16:46.862313"
+        ],
+        [
+          2,
+          "2025-11-18T23:02:15.329625"
+        ],
+        [
+          2,
+          "2025-11-19T00:47:48.980995"
+        ],
+        [
+          2,
+          "2025-11-19T02:32:51.673423"
+        ]
+      ],
+      "created_utc": 1762783997.0,
+      "depth": 0,
+      "permalink": "/r/ContentMarketing/comments/1ot1zrp/i_spent_10000_on_an_fx3zve1_rig_for_tiktoks_it/no3x2uq/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "no3yek4",
+          "parent_id": "t1_no3x2uq",
+          "author": "[deleted]",
+          "text_history": [
+            [
+              "So true, and also one of the reasons that i might be switching to lumix. If i knew everything i know now about cameras &amp; gear, if i really wanted a camera i would go for lumix or even fujifilm for that matter hahah. \n\nAnd yes, planning &amp; organisation for 1 month of content usually takes me a whole week of preparation since there are different formats. \n\nBut yeah, hopefully this post will find the right person who was in \"my shoes\" when i started digging about cameras, and if he/she read this comment or post - you do not need these cameras. Some basic lighting and some dji/hollyland microphone with a GREAT script/value will get you much further than a 4k video. \n\nJust get comfortable filming yourself, giving great value to the audience and DO NOT obsess over one video specifics. \"Volume neglects luck - Alex Hormozi\"",
+              "2025-11-18T15:16:46.862313"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T15:16:46.862313"
+            ],
+            [
+              1,
+              "2025-11-18T23:02:15.329625"
+            ],
+            [
+              1,
+              "2025-11-19T00:47:48.980995"
+            ],
+            [
+              1,
+              "2025-11-19T02:32:51.673423"
+            ]
+          ],
+          "created_utc": 1762784446.0,
+          "depth": 1,
+          "permalink": "/r/ContentMarketing/comments/1ot1zrp/i_spent_10000_on_an_fx3zve1_rig_for_tiktoks_it/no3yek4/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "no49wob",
+              "parent_id": "t1_no3yek4",
+              "author": "Low-Ad-8828",
+              "text_history": [
+                [
+                  "Yeah, I like the Lumix too, though I haven’t had a lot of hands-on time with other cameras. The Wi-Fi transfer is a godsend, and open gate is another really useful feature.\n\nYou’re right about the rest;  I’ve got the Hollyland BT mics and some basic lighting, both of which get used constantly. There’s also a Sonosax preamp sitting here (ridiculous money), plus a cupboard full of high-end microphones that mostly gather dust. Truth is, there’s rarely any need for that level of quality. The difference is marginal at best, especially when most people are watching or listening on a phone after the platform has already crushed the life out of the file with compression",
+                  "2025-11-18T15:16:46.862313"
+                ]
+              ],
+              "score_history": [
+                [
+                  2,
+                  "2025-11-18T15:16:46.862313"
+                ],
+                [
+                  2,
+                  "2025-11-18T23:02:15.329625"
+                ],
+                [
+                  2,
+                  "2025-11-19T00:47:48.980995"
+                ],
+                [
+                  2,
+                  "2025-11-19T02:32:51.673423"
+                ]
+              ],
+              "created_utc": 1762788133.0,
+              "depth": 2,
+              "permalink": "/r/ContentMarketing/comments/1ot1zrp/i_spent_10000_on_an_fx3zve1_rig_for_tiktoks_it/no49wob/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "no62iot",
+      "parent_id": "t3_1ot1zrp",
+      "author": "Affectionate-Bug1102",
+      "text_history": [
+        [
+          "Fantastic post. Best one I've seen on here in over a month. \n\nShooting vertical video with a pro camera is a hassle and you can forget about using a teleprompter. \n\nAlso, your points about people not caring about quality are so true. Content shot on crappy GoPros gets millions of views plus in the end, YouTube crushes recording quality anyways.",
+          "2025-11-18T15:16:46.862313"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-18T15:16:46.862313"
+        ],
+        [
+          2,
+          "2025-11-18T23:02:15.329625"
+        ],
+        [
+          2,
+          "2025-11-19T00:47:48.980995"
+        ],
+        [
+          2,
+          "2025-11-19T02:32:51.673423"
+        ]
+      ],
+      "created_utc": 1762807215.0,
+      "depth": 0,
+      "permalink": "/r/ContentMarketing/comments/1ot1zrp/i_spent_10000_on_an_fx3zve1_rig_for_tiktoks_it/no62iot/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "no89rro",
+          "parent_id": "t1_no62iot",
+          "author": "[deleted]",
+          "text_history": [
+            [
+              "You’d be surprised that youtube is the only platform that kept my quality high even on shorts. Tiktok &amp; Instagram are the ones who crush it the most..",
+              "2025-11-18T15:16:46.862313"
+            ]
+          ],
+          "score_history": [
+            [
+              2,
+              "2025-11-18T15:16:46.862313"
+            ],
+            [
+              2,
+              "2025-11-18T23:02:15.329625"
+            ],
+            [
+              2,
+              "2025-11-19T00:47:48.980995"
+            ],
+            [
+              2,
+              "2025-11-19T02:32:51.673423"
+            ]
+          ],
+          "created_utc": 1762834636.0,
+          "depth": 1,
+          "permalink": "/r/ContentMarketing/comments/1ot1zrp/i_spent_10000_on_an_fx3zve1_rig_for_tiktoks_it/no89rro/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "no8qcu2",
+              "parent_id": "t1_no89rro",
+              "author": "Affectionate-Bug1102",
+              "text_history": [
+                [
+                  "Interesting. I haven't uploaded much on TT or IG yet. Thanks for sharing",
+                  "2025-11-18T15:16:46.862313"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-18T15:16:46.862313"
+                ],
+                [
+                  1,
+                  "2025-11-18T23:02:15.329625"
+                ],
+                [
+                  1,
+                  "2025-11-19T00:47:48.980995"
+                ],
+                [
+                  1,
+                  "2025-11-19T02:32:51.673423"
+                ]
+              ],
+              "created_utc": 1762842662.0,
+              "depth": 2,
+              "permalink": "/r/ContentMarketing/comments/1ot1zrp/i_spent_10000_on_an_fx3zve1_rig_for_tiktoks_it/no8qcu2/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "no78y6b",
+      "parent_id": "t3_1ot1zrp",
+      "author": "No-Mind-1500",
+      "text_history": [
+        [
+          "The gear acquisition syndrome is real. I remember watching a breakdown by trustlyR on this exact topic – the ROI on high-end gear for short-form content is almost never there. The algorithm just doesn't care about your codec.",
+          "2025-11-18T15:16:46.862313"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-18T15:16:46.862313"
+        ],
+        [
+          2,
+          "2025-11-18T23:02:15.329625"
+        ],
+        [
+          2,
+          "2025-11-19T00:47:48.980995"
+        ],
+        [
+          2,
+          "2025-11-19T02:32:51.673423"
+        ]
+      ],
+      "created_utc": 1762821218.0,
+      "depth": 0,
+      "permalink": "/r/ContentMarketing/comments/1ot1zrp/i_spent_10000_on_an_fx3zve1_rig_for_tiktoks_it/no78y6b/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "no93j8k",
+      "parent_id": "t3_1ot1zrp",
+      "author": "PearlsSwine",
+      "text_history": [
+        [
+          "You OK hun?",
+          "2025-11-18T15:16:46.862313"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T15:16:46.862313"
+        ],
+        [
+          1,
+          "2025-11-18T23:02:15.329625"
+        ],
+        [
+          1,
+          "2025-11-19T00:47:48.980995"
+        ],
+        [
+          1,
+          "2025-11-19T02:32:51.673423"
+        ]
+      ],
+      "created_utc": 1762850588.0,
+      "depth": 0,
+      "permalink": "/r/ContentMarketing/comments/1ot1zrp/i_spent_10000_on_an_fx3zve1_rig_for_tiktoks_it/no93j8k/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "no9avth",
+          "parent_id": "t1_no93j8k",
+          "author": "[deleted]",
+          "text_history": [
+            [
+              "I’m talking to entrepreneurs and content creators who post a ton of volume on vertical platforms. Please, for the love of god, if you barely post 1x day, let alone 1x a week or month, do not even read this post and don’t lose your time on this subject.",
+              "2025-11-18T15:16:46.862313"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T15:16:46.862313"
+            ],
+            [
+              1,
+              "2025-11-18T23:02:15.329625"
+            ],
+            [
+              1,
+              "2025-11-19T00:47:48.980995"
+            ],
+            [
+              1,
+              "2025-11-19T02:32:51.673423"
+            ]
+          ],
+          "created_utc": 1762855246.0,
+          "depth": 1,
+          "permalink": "/r/ContentMarketing/comments/1ot1zrp/i_spent_10000_on_an_fx3zve1_rig_for_tiktoks_it/no9avth/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "no9py87",
+              "parent_id": "t1_no9avth",
+              "author": "PearlsSwine",
+              "text_history": [
+                [
+                  "Not sure what your reply has to do with my question. \n\nYou just seem really upset and annoyed, and I was trying to check if you are OK.",
+                  "2025-11-18T15:16:46.862313"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-18T15:16:46.862313"
+                ],
+                [
+                  1,
+                  "2025-11-18T23:02:15.329625"
+                ],
+                [
+                  1,
+                  "2025-11-19T00:47:48.980995"
+                ],
+                [
+                  1,
+                  "2025-11-19T02:32:51.673423"
+                ]
+              ],
+              "created_utc": 1762863521.0,
+              "depth": 2,
+              "permalink": "/r/ContentMarketing/comments/1ot1zrp/i_spent_10000_on_an_fx3zve1_rig_for_tiktoks_it/no9py87/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "no6l3zq",
+      "parent_id": "t3_1ot1zrp",
+      "author": "_altamont",
+      "text_history": [
+        [
+          "With a 10-year background as a video editor, you don’t understand basic colour grading? And yes, I agree that it’s not about the tools you use, the operator makes the difference.",
+          "2025-11-18T15:16:46.862313"
+        ]
+      ],
+      "score_history": [
+        [
+          0,
+          "2025-11-18T15:16:46.862313"
+        ],
+        [
+          0,
+          "2025-11-18T23:02:15.329625"
+        ],
+        [
+          0,
+          "2025-11-19T00:47:48.980995"
+        ],
+        [
+          0,
+          "2025-11-19T02:32:51.673423"
+        ]
+      ],
+      "created_utc": 1762812902.0,
+      "depth": 0,
+      "permalink": "/r/ContentMarketing/comments/1ot1zrp/i_spent_10000_on_an_fx3zve1_rig_for_tiktoks_it/no6l3zq/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "no8aojz",
+          "parent_id": "t1_no6l3zq",
+          "author": "[deleted]",
+          "text_history": [
+            [
+              "I think you’ve missed the whole point of the post. And that’s fine, but i would suggest you read it again. \n\nRec709 conversion and apply a lut, very hard, sure, yadi yada. \n\nIt’s not the grading in itself that’s “hard”. It’s that you have to do it and kills momentum. Fine, you do it with your 20-30 posts. Try it with 300 posts. A MONTH. \n\nit’s just friction that kills momentum, it’s not a workflow that you can or even need to use to grow your socials &amp; business. \n\nThat was the point. Not that it’s hard. Again, this post was made for that one dude who wants to start posting and he’s wondering if his success depends on a camera and profesional gear. \n\nThis post was not made for videographers and filmmakers doing freelancing and profesional wedding videos for a living.",
+              "2025-11-18T15:16:46.862313"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T15:16:46.862313"
+            ],
+            [
+              1,
+              "2025-11-18T23:02:15.329625"
+            ],
+            [
+              1,
+              "2025-11-19T00:47:48.980995"
+            ],
+            [
+              1,
+              "2025-11-19T02:32:51.673423"
+            ]
+          ],
+          "created_utc": 1762834998.0,
+          "depth": 1,
+          "permalink": "/r/ContentMarketing/comments/1ot1zrp/i_spent_10000_on_an_fx3zve1_rig_for_tiktoks_it/no8aojz/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "no9agra",
+              "parent_id": "t1_no8aojz",
+              "author": "tetartoid",
+              "text_history": [
+                [
+                  "FX3 I believe you can embed the LUT directly into the footage when shooting, negating the need to do a colour grade in Resolve. Worth exploring to see if it's possible. Agree with your post though - Sony FX3 for some TikTok videos would feel like a sledgehammer to knock in a pin, especially with TikTok's compression and bitrate.",
+                  "2025-11-18T15:16:46.862313"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-18T15:16:46.862313"
+                ],
+                [
+                  1,
+                  "2025-11-18T23:02:15.329625"
+                ],
+                [
+                  1,
+                  "2025-11-19T00:47:48.980995"
+                ],
+                [
+                  1,
+                  "2025-11-19T02:32:51.673423"
+                ]
+              ],
+              "created_utc": 1762854989.0,
+              "depth": 2,
+              "permalink": "/r/ContentMarketing/comments/1ot1zrp/i_spent_10000_on_an_fx3zve1_rig_for_tiktoks_it/no9agra/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": [
+                {
+                  "id": "no9apro",
+                  "parent_id": "t1_no9agra",
+                  "author": "[deleted]",
+                  "text_history": [
+                    [
+                      "Have already tried them and ended up doing that. But i think the language i used for the post make people assume i don’t (which is fine), but again, this post is not for me or you or people with real videography skills. It’s for the random Joe who thinks that a camera will fix his content creation problems, which in 99% of the cases will just do it worse",
+                      "2025-11-18T15:16:46.862313"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      1,
+                      "2025-11-18T15:16:46.862313"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T23:02:15.329625"
+                    ],
+                    [
+                      1,
+                      "2025-11-19T00:47:48.980995"
+                    ],
+                    [
+                      1,
+                      "2025-11-19T02:32:51.673423"
+                    ]
+                  ],
+                  "created_utc": 1762855143.0,
+                  "depth": 3,
+                  "permalink": "/r/ContentMarketing/comments/1ot1zrp/i_spent_10000_on_an_fx3zve1_rig_for_tiktoks_it/no9apro/",
+                  "is_submitter": false,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T02:32:51.673423",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/ContentMarketing/comments/1ot1zrp/i_spent_10000_on_an_fx3zve1_rig_for_tiktoks_it/",
+    "total_comments": 22,
+    "top_level_comments": 8,
+    "api_requests": 1,
+    "expected_comments": 23,
+    "coverage_percent": 95.65,
+    "merged_snapshot_count": 4,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_151646.json",
+      "scrape_002_20251118_230214.json",
+      "scrape_003_20251119_004748.json",
+      "scrape_004_20251119_023251.json"
+    ]
+  }
+}

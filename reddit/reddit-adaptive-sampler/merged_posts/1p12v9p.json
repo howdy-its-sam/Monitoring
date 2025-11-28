@@ -1,0 +1,129 @@
+{
+  "post": {
+    "id": "1p12v9p",
+    "title": "Updated Benchmark: How Do LLMs Really Perform on Cybersecurity Challenges?",
+    "author": "vmayoral",
+    "score_history": [
+      [
+        1,
+        "2025-11-19T05:30:54.640286"
+      ],
+      [
+        1,
+        "2025-11-19T05:30:54.887154"
+      ],
+      [
+        1,
+        "2025-11-19T05:30:55.158871"
+      ],
+      [
+        1,
+        "2025-11-19T05:30:55.360642"
+      ],
+      [
+        1,
+        "2025-11-19T05:30:55.602108"
+      ],
+      [
+        1,
+        "2025-11-19T05:30:55.809326"
+      ],
+      [
+        1,
+        "2025-11-19T05:30:56.046529"
+      ],
+      [
+        1,
+        "2025-11-19T05:30:56.272949"
+      ],
+      [
+        1,
+        "2025-11-19T05:30:56.527122"
+      ],
+      [
+        1,
+        "2025-11-19T05:30:56.738826"
+      ],
+      [
+        1,
+        "2025-11-19T05:30:56.997819"
+      ],
+      [
+        1,
+        "2025-11-19T05:30:57.219303"
+      ],
+      [
+        1,
+        "2025-11-19T05:30:57.448515"
+      ],
+      [
+        1,
+        "2025-11-19T05:30:57.660902"
+      ],
+      [
+        1,
+        "2025-11-19T05:30:57.888858"
+      ],
+      [
+        1,
+        "2025-11-19T05:30:58.093037"
+      ],
+      [
+        1,
+        "2025-11-19T05:30:58.333713"
+      ],
+      [
+        1,
+        "2025-11-19T05:30:58.559123"
+      ],
+      [
+        1,
+        "2025-11-19T05:30:58.787085"
+      ],
+      [
+        1,
+        "2025-11-19T05:30:59.007240"
+      ]
+    ],
+    "created_utc": 1763543680.0,
+    "num_comments": 0,
+    "subreddit": "cybersecurity",
+    "url": "https://www.reddit.com/r/cybersecurity/comments/1p12v9p/updated_benchmark_how_do_llms_really_perform_on/",
+    "selftext": "There’s been a lot of noise lately—vendor whitepapers, “AI-powered security” marketing, etc. But when it comes to *actual* cybersecurity challenge-solving ability, which models hold up?  \nHere’s an updated visualization from the study **Cybersecurity AI Benchmark (CAIBench): A Meta-Benchmark for Evaluating Cybersecurity AI Agents** (arXiv: 2510.24317).  \n\n\nIt now includes the newest GPT-5 as well—and interestingly, it still isn’t one of the top performers.  \nCurious what folks here think: does benchmark performance align with your real-world experiences?",
+    "permalink": "/r/cybersecurity/comments/1p12v9p/updated_benchmark_how_do_llms_really_perform_on/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T05:30:59.007240",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/cybersecurity/comments/1p12v9p/updated_benchmark_how_do_llms_really_perform_on/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 20,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_053054.json",
+      "scrape_002_20251119_053054.json",
+      "scrape_003_20251119_053054.json",
+      "scrape_004_20251119_053055.json",
+      "scrape_005_20251119_053055.json",
+      "scrape_006_20251119_053055.json",
+      "scrape_007_20251119_053055.json",
+      "scrape_008_20251119_053056.json",
+      "scrape_009_20251119_053056.json",
+      "scrape_010_20251119_053056.json",
+      "scrape_011_20251119_053056.json",
+      "scrape_012_20251119_053057.json",
+      "scrape_013_20251119_053057.json",
+      "scrape_014_20251119_053057.json",
+      "scrape_015_20251119_053057.json",
+      "scrape_016_20251119_053057.json",
+      "scrape_017_20251119_053058.json",
+      "scrape_018_20251119_053058.json",
+      "scrape_019_20251119_053058.json",
+      "scrape_020_20251119_053058.json"
+    ]
+  }
+}

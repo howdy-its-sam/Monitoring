@@ -1,0 +1,80 @@
+{
+  "post": {
+    "id": "1ngx40y",
+    "title": "its funny cuz its true",
+    "author": "sibraan_",
+    "score_history": [
+      [
+        54,
+        "2025-11-18T14:23:20.092712"
+      ],
+      [
+        57,
+        "2025-11-18T14:33:06.039721"
+      ],
+      [
+        56,
+        "2025-11-18T14:43:10.585265"
+      ]
+    ],
+    "created_utc": 1757870448.0,
+    "num_comments": 1,
+    "subreddit": "AutoGPT",
+    "url": "https://i.redd.it/r4jgmkj6v5pf1.jpeg",
+    "selftext": "",
+    "permalink": "/r/AutoGPT/comments/1ngx40y/its_funny_cuz_its_true/"
+  },
+  "comments": [
+    {
+      "id": "ne7gvbp",
+      "parent_id": "t3_1ngx40y",
+      "author": "Ok-Training-7587",
+      "text_history": [
+        [
+          "This meme format needs to stay in heavy rotation",
+          "2025-11-18T14:23:20.092712"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:23:20.092712"
+        ],
+        [
+          1,
+          "2025-11-18T14:33:06.039721"
+        ],
+        [
+          1,
+          "2025-11-18T14:43:10.585265"
+        ]
+      ],
+      "created_utc": 1757873144.0,
+      "depth": 0,
+      "permalink": "/r/AutoGPT/comments/1ngx40y/its_funny_cuz_its_true/ne7gvbp/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-18T14:43:10.585265",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/AutoGPT/comments/1ngx40y/its_funny_cuz_its_true/",
+    "total_comments": 1,
+    "top_level_comments": 1,
+    "api_requests": 1,
+    "expected_comments": 1,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_142319.json",
+      "scrape_002_20251118_143305.json",
+      "scrape_003_20251118_144310.json"
+    ]
+  }
+}

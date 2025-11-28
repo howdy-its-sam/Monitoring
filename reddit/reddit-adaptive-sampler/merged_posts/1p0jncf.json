@@ -1,0 +1,107 @@
+{
+  "post": {
+    "id": "1p0jncf",
+    "title": "The Real Breakthrough: Stop Building \"Smart\" Agents and Start Building \"Stupid, Reliable\" Workflows",
+    "author": "Glum_Pool8075",
+    "score_history": [
+      [
+        3,
+        "2025-11-18T12:51:38.894313"
+      ],
+      [
+        3,
+        "2025-11-18T13:03:53.782660"
+      ],
+      [
+        3,
+        "2025-11-18T13:15:47.398838"
+      ],
+      [
+        4,
+        "2025-11-18T13:48:11.361287"
+      ],
+      [
+        5,
+        "2025-11-18T13:59:38.446853"
+      ],
+      [
+        5,
+        "2025-11-18T14:10:55.304772"
+      ]
+    ],
+    "created_utc": 1763490301.0,
+    "num_comments": 1,
+    "subreddit": "AgentsOfAI",
+    "url": "https://www.reddit.com/r/AgentsOfAI/comments/1p0jncf/the_real_breakthrough_stop_building_smart_agents/",
+    "selftext": "If you've built an agent prototype, you know the feeling: You get a 5-step task working flawlessly, you celebrate, and you immediately think, \"How can I make this agent smarter?\"\n\nAfter deploying a multi-agent system into production across several core business functions, the most genuine, humbling lesson we learned is this: *The complexity should be in the orchestration, not in the individual agent.*\n\nThe pursuit of the Single General Agent (SGA), one massive LLM instance that tries to reason, plan, execute, and self-correct everything is an expensive path to failure. It's brittle, non-deterministic, and impossible to debug.\n\n*The Power of the Stupid Agent-*\n\nOur most successful workflows use the principle of Maximum Simplification per Step:\n\n1. The Agents are Dumb: Each agent (e.g., the `ResearchAgent`, the `DraftingAgent`, the `ReviewAgent`) is specialized and designed to perform the minimum necessary cognitive step. We fine-tune their system prompts to be ruthlessly focused: *“Your only job is to check for regulatory compliance errors. Nothing else.”* This makes their output predictable and cheap.\n2. The Workflow is Smart: The complex logic, the reasoning about the entire objective, is lifted out of the LLM call and placed into a deterministic orchestration layer (using tools like LangGraph, CrewAI, or our custom framework).\n   * IF `ReviewAgent` outputs \"Compliance Failed,\" THEN the orchestrator automatically routes the task back to `DraftingAgent` with the explicit instruction, \"Focus on Section 4, line 7 fix the GDPR issue.\"\n\nWe use the expensive, powerful LLM for what it's uniquely good at (text generation and complex reasoning). We use deterministic code for what it's uniquely good at (process control, conditional logic, and error handling).\n\nThe value isn't in a single AI genius, but in a highly reliable, traceable assembly line of specialized, constrained workers. You can actually trace, audit, and debug the system when a cheap agent fails, rather than wrestling with the opaque black box of a generalist trying to fix its own multi-step failure.\n\nSo the shift From building an autonomous brain to building an expert, reliable production pipeline. That's what ships and scales.",
+    "permalink": "/r/AgentsOfAI/comments/1p0jncf/the_real_breakthrough_stop_building_smart_agents/"
+  },
+  "comments": [
+    {
+      "id": "npja7vg",
+      "parent_id": "t3_1p0jncf",
+      "author": "The_NineHertz",
+      "text_history": [
+        [
+          "Love this perspective. It mirrors how real-world systems evolve: specialization beats “one big brain” every time. Once you treat LLMs as modular workers instead of magical problem-solvers, the whole pipeline becomes more predictable, auditable, and scalable. The orchestration layer ends up being the real engineering challenge and probably the real competitive advantage, too.",
+          "2025-11-18T12:51:38.894313"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T12:51:38.894313"
+        ],
+        [
+          1,
+          "2025-11-18T13:03:53.782660"
+        ],
+        [
+          1,
+          "2025-11-18T13:15:47.398838"
+        ],
+        [
+          1,
+          "2025-11-18T13:48:11.361287"
+        ],
+        [
+          1,
+          "2025-11-18T13:59:38.446853"
+        ],
+        [
+          1,
+          "2025-11-18T14:10:55.304772"
+        ]
+      ],
+      "created_utc": 1763490649.0,
+      "depth": 0,
+      "permalink": "/r/AgentsOfAI/comments/1p0jncf/the_real_breakthrough_stop_building_smart_agents/npja7vg/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-18T14:10:55.304772",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/AgentsOfAI/comments/1p0jncf/the_real_breakthrough_stop_building_smart_agents/",
+    "total_comments": 1,
+    "top_level_comments": 1,
+    "api_requests": 1,
+    "expected_comments": 1,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 6,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_125138.json",
+      "scrape_002_20251118_130353.json",
+      "scrape_003_20251118_131547.json",
+      "scrape_004_20251118_134811.json",
+      "scrape_005_20251118_135938.json",
+      "scrape_006_20251118_141054.json"
+    ]
+  }
+}

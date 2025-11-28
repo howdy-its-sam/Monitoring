@@ -1,0 +1,34 @@
+==========================================
+   Reddit Scraper Statistics Report
+==========================================
+
+Thu Nov 27 00:01:02 PST 2025
+
+=== DATA COLLECTION ===
+
+Total scrapes completed: 7108
+  - New discoveries (first scrapes): 1711
+  - Re-scrapes (temporal tracking): 5397
+
+Unique posts tracked: 2699
+  - Posts with scrapes: 1711
+  - Posts waiting to scrape: 988
+
+Total JSON files: 11162
+Total data size: 231M
+
+=== TIME ALLOCATION ===
+
+24.0% - Discovery (finding new posts)
+75.9% - Re-scraping (tracking changes over time)
+
+=== RE-SCRAPE INTENSITY ===
+
+Average scrapes per post: 4.1x
+Posts in queue (not yet scraped): 36%
+
+
+NOTE: This report is from the CONTINUOUS COVERAGE implementation (before paced execution).
+      - Adaptive coverage (not depth) based on budget
+      - Continuous coverage_ratio (0.0-1.0) instead of discrete modes
+      - Still using burst-then-wait pattern (to be replaced with paced execution)

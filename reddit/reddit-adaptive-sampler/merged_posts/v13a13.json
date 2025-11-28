@@ -1,0 +1,44 @@
+{
+  "post": {
+    "id": "v13a13",
+    "title": "Do your public good!",
+    "author": "moonberrymoon",
+    "score_history": [
+      [
+        3,
+        "2025-11-18T14:22:14.603549"
+      ],
+      [
+        3,
+        "2025-11-18T14:32:44.570430"
+      ],
+      [
+        3,
+        "2025-11-18T14:43:13.324716"
+      ]
+    ],
+    "created_utc": 1653926172.0,
+    "num_comments": 0,
+    "subreddit": "HealthAI",
+    "url": "https://www.reddit.com/r/HealthAI/comments/v13a13/do_your_public_good/",
+    "selftext": "AI regulations in healthcare is a minefield. Help us straighten it out and empower developers and adopters of AI technology in healthcare. It'll just take 5 minutes of your time to fill out our survey.\n\n[forms.office.com/r/HDC5PLpGFZ](https://forms.office.com/r/HDC5PLpGFZ)\n\nThank you so much in advance. This survey is for a work project that seeks to improve how to navigate AI and data-driven regulations in healthcare.",
+    "permalink": "/r/HealthAI/comments/v13a13/do_your_public_good/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-18T14:43:13.324716",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/HealthAI/comments/v13a13/do_your_public_good/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_142214.json",
+      "scrape_002_20251118_143244.json",
+      "scrape_003_20251118_144313.json"
+    ]
+  }
+}

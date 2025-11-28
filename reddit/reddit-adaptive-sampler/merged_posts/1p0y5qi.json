@@ -1,0 +1,44 @@
+{
+  "post": {
+    "id": "1p0y5qi",
+    "title": "How to set pipeline for RAG ingestions ?",
+    "author": "Educational_Agent741",
+    "score_history": [
+      [
+        0,
+        "2025-11-19T02:55:50.807480"
+      ],
+      [
+        0,
+        "2025-11-19T03:03:44.520818"
+      ],
+      [
+        0,
+        "2025-11-19T03:06:59.123708"
+      ]
+    ],
+    "created_utc": 1763526916.0,
+    "num_comments": 0,
+    "subreddit": "Rag",
+    "url": "https://www.reddit.com/r/Rag/comments/1p0y5qi/how_to_set_pipeline_for_rag_ingestions/",
+    "selftext": "Soon we will be speaking to a client to create a RAG setup for them. We are looking at ingesting slack , meeting recordings , documents from slack , one drive and self uploaded documents ( PDF , PPTs , DOCX, and others ) , Confluence.\n\nHow do you guys go about setting the pipeline for data ingestion. Do you use tools similar to airflow/kafka ?\n\nI worried about if I write python programs for ingestion , trying different techniques out like different chunk sizes , different embedding models , different RAG setups would be time consuming. I might be overthinking this but could some one give me their thoughts on what setups you guys have used to make sure there is speed in iterating the RAG setup till your eval benchmarks are hit ?\n\nEach data source would have its own rules too with regards to when to pick up updates , when to rewrite and how to store the metadata. ",
+    "permalink": "/r/Rag/comments/1p0y5qi/how_to_set_pipeline_for_rag_ingestions/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:06:59.123708",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/Rag/comments/1p0y5qi/how_to_set_pipeline_for_rag_ingestions/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_025550.json",
+      "scrape_002_20251119_030344.json",
+      "scrape_003_20251119_030658.json"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "post": {
+    "id": "1p0ihsx",
+    "title": "Cloudflare outage hits X, ChatGPT and other major platforms as parts of the internet go 'down'",
+    "author": "AdAdept900",
+    "score_history": [
+      [
+        7,
+        "2025-11-19T02:35:04.849062"
+      ],
+      [
+        9,
+        "2025-11-19T02:44:25.323364"
+      ],
+      [
+        7,
+        "2025-11-19T02:45:51.750924"
+      ]
+    ],
+    "created_utc": 1763487770.0,
+    "num_comments": 0,
+    "subreddit": "technology",
+    "url": "https://www.moneycontrol.com/technology/cloudflare-outage-hits-x-and-other-major-platforms-as-parts-of-the-internet-go-down-article-13683711.html",
+    "selftext": "",
+    "permalink": "/r/technology/comments/1p0ihsx/cloudflare_outage_hits_x_chatgpt_and_other_major/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T02:45:51.750924",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/technology/comments/1p0ihsx/cloudflare_outage_hits_x_chatgpt_and_other_major/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_023504.json",
+      "scrape_002_20251119_024425.json",
+      "scrape_003_20251119_024551.json"
+    ]
+  }
+}

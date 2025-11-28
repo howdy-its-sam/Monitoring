@@ -1,0 +1,155 @@
+{
+  "post": {
+    "id": "1ozit4t",
+    "title": "Blockchain integrations",
+    "author": "avpol111",
+    "score_history": [
+      [
+        1,
+        "2025-11-18T14:22:09.464413"
+      ],
+      [
+        1,
+        "2025-11-18T14:32:10.936934"
+      ],
+      [
+        1,
+        "2025-11-18T14:42:05.662491"
+      ],
+      [
+        1,
+        "2025-11-18T22:32:13.804297"
+      ],
+      [
+        1,
+        "2025-11-19T00:05:06.428045"
+      ],
+      [
+        1,
+        "2025-11-19T01:51:03.040750"
+      ]
+    ],
+    "created_utc": 1763392336.0,
+    "num_comments": 2,
+    "subreddit": "LangChain",
+    "url": "https://www.reddit.com/r/LangChain/comments/1ozit4t/blockchain_integrations/",
+    "selftext": "AFAIK, at present, Langchain blockchain integrations exist only in the form of langchain\\_community.document\\_loaders.blockchain (mostly for Ethereum). In your opinion, would it be expedient to add more blockchain-related tooling? Something for Bitcoin? Maybe even for Opensea? Thanks in advance!",
+    "permalink": "/r/LangChain/comments/1ozit4t/blockchain_integrations/"
+  },
+  "comments": [
+    {
+      "id": "npddo7w",
+      "parent_id": "t3_1ozit4t",
+      "author": "tifa_cloud0",
+      "text_history": [
+        [
+          "i mean you could vuilt an hybrid blockchain application. langchain is just a framework, just use it’s mathods / classes as you need it. also these days there is pretty much online IDE to test ethereum ( like for example REMIX IDE). plus for ethereum then you need IPFS. for IPFS also there is online referral or could use their desktop app to start the local server.\n\nhence the hybrid approach.",
+          "2025-11-18T14:22:09.464413"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:22:09.464413"
+        ],
+        [
+          1,
+          "2025-11-18T14:32:10.936934"
+        ],
+        [
+          1,
+          "2025-11-18T14:42:05.662491"
+        ],
+        [
+          1,
+          "2025-11-18T22:32:13.804297"
+        ],
+        [
+          1,
+          "2025-11-19T00:05:06.428045"
+        ],
+        [
+          1,
+          "2025-11-19T01:51:03.040750"
+        ]
+      ],
+      "created_utc": 1763409266.0,
+      "depth": 0,
+      "permalink": "/r/LangChain/comments/1ozit4t/blockchain_integrations/npddo7w/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "nph3hgs",
+          "parent_id": "t1_npddo7w",
+          "author": "avpol111",
+          "text_history": [
+            [
+              "Thanks!",
+              "2025-11-18T14:22:09.464413"
+            ]
+          ],
+          "score_history": [
+            [
+              2,
+              "2025-11-18T14:22:09.464413"
+            ],
+            [
+              2,
+              "2025-11-18T14:32:10.936934"
+            ],
+            [
+              2,
+              "2025-11-18T14:42:05.662491"
+            ],
+            [
+              2,
+              "2025-11-18T22:32:13.804297"
+            ],
+            [
+              2,
+              "2025-11-19T00:05:06.428045"
+            ],
+            [
+              2,
+              "2025-11-19T01:51:03.040750"
+            ]
+          ],
+          "created_utc": 1763464663.0,
+          "depth": 1,
+          "permalink": "/r/LangChain/comments/1ozit4t/blockchain_integrations/nph3hgs/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T01:51:03.040750",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/LangChain/comments/1ozit4t/blockchain_integrations/",
+    "total_comments": 2,
+    "top_level_comments": 1,
+    "api_requests": 1,
+    "expected_comments": 2,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 6,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_142209.json",
+      "scrape_002_20251118_143210.json",
+      "scrape_003_20251118_144205.json",
+      "scrape_004_20251118_223213.json",
+      "scrape_005_20251119_000506.json",
+      "scrape_006_20251119_015102.json"
+    ]
+  }
+}

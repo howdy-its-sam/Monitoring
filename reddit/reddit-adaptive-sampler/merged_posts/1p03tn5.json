@@ -1,0 +1,115 @@
+{
+  "post": {
+    "id": "1p03tn5",
+    "title": "Vizier - Formalizing Agent Development Workflows in Git",
+    "author": "joeyt2231",
+    "score_history": [
+      [
+        0,
+        "2025-11-18T14:22:04.024255"
+      ],
+      [
+        0,
+        "2025-11-18T14:32:06.859282"
+      ],
+      [
+        0,
+        "2025-11-18T14:34:59.973371"
+      ]
+    ],
+    "created_utc": 1763444124.0,
+    "num_comments": 3,
+    "subreddit": "ChatGPTCoding",
+    "url": "https://www.reddit.com/r/ChatGPTCoding/comments/1p03tn5/vizier_formalizing_agent_development_workflows_in/",
+    "selftext": "https://github.com/JTan2231/vizier\n\nVizier is an experiment in making “LLM + Git” a first-class, repeatable workflow instead of a bunch of ad‑hoc prompts in your shell history.\n\nThe core idea: treat the agent like a collaborator with its own branch and docs, and wrap the whole thing in a Git‑native lifecycle:\n\n- `vizier ask` – Capture product invariants and long‑lived “narrative arcs” you want the agent (and future you) to keep in mind. These don’t need an immediate action, but they shape everything else.\n- `vizier draft` - Create a new branch with a concrete implementation plan for a change you describe. Vizier sets up a dedicated worktree so experiments don’t leak into your main branch.\n- `vizier approve` - Turn that plan into code. This drives an agent (Codex/LLM) against the draft branch in its own worktree and commits when it’s done.\n- `vizier review` – Have the agent check the branch against the original plan and call out anything missing or suspicious.\n- `vizier merge` – Once you’re happy with the diff, merge back to your primary branch. Vizier cleans up the plan file and uses it as the merge commit message.\n\nEach one of these operations is individual--designed to leave behind an artifact for the human operator (you!) to examine that's reversible just like any other change made with version control in mind.\n\nOver time, this builds a small, human‑ and agent‑readable “story” of the repo: what you’re trying to do, what’s already been decided, and how each change fits into those arcs.\n\nIf you’re curious how well it works in practice, scroll through the last ~150 commits in this repo—those were all driven through this draft → approve → review → merge loop.\n\nCaveats: this is very much a work‑in‑progress. The project is rough around the edges, and config/token usage definitely need more thought. Particularly missing is agent configuration--I eventually want this to be a Bring Your Own Agent deal, but right now it only really works with Codex.\n\nI’m most interested right now in how other people would structure a similar workflow and what’s missing from this one--critique and ideas are most welcome.",
+    "permalink": "/r/ChatGPTCoding/comments/1p03tn5/vizier_formalizing_agent_development_workflows_in/"
+  },
+  "comments": [
+    {
+      "id": "npg4mas",
+      "parent_id": "t3_1p03tn5",
+      "author": "AutoModerator",
+      "text_history": [
+        [
+          "Sorry, your submission has been removed due to inadequate account karma.\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/ChatGPTCoding) if you have any questions or concerns.*",
+          "2025-11-18T14:22:04.024255"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:22:04.024255"
+        ],
+        [
+          1,
+          "2025-11-18T14:32:06.859282"
+        ],
+        [
+          1,
+          "2025-11-18T14:34:59.973371"
+        ]
+      ],
+      "created_utc": 1763444125.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTCoding/comments/1p03tn5/vizier_formalizing_agent_development_workflows_in/npg4mas/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npgd7in",
+      "parent_id": "t3_1p03tn5",
+      "author": "alinarice",
+      "text_history": [
+        [
+          "Vizier structures LLM workflows in Git, making experiments repeatable.",
+          "2025-11-18T14:22:04.024255"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:22:04.024255"
+        ],
+        [
+          1,
+          "2025-11-18T14:32:06.859282"
+        ],
+        [
+          1,
+          "2025-11-18T14:34:59.973371"
+        ]
+      ],
+      "created_utc": 1763448702.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTCoding/comments/1p03tn5/vizier_formalizing_agent_development_workflows_in/npgd7in/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-18T14:34:59.973371",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/ChatGPTCoding/comments/1p03tn5/vizier_formalizing_agent_development_workflows_in/",
+    "total_comments": 2,
+    "top_level_comments": 2,
+    "api_requests": 1,
+    "expected_comments": 3,
+    "coverage_percent": 66.67,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_142203.json",
+      "scrape_002_20251118_143206.json",
+      "scrape_003_20251118_143459.json"
+    ]
+  }
+}

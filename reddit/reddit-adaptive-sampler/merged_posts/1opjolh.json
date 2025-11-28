@@ -1,0 +1,115 @@
+{
+  "post": {
+    "id": "1opjolh",
+    "title": "[11/06] How might the development of advanced symbiotic relationships between humans and AI influence our understanding of collaboration and individual contribution?",
+    "author": "RealJoshUniverse",
+    "score_history": [
+      [
+        0,
+        "2025-11-19T02:35:08.638175"
+      ],
+      [
+        0,
+        "2025-11-19T02:44:24.067315"
+      ],
+      [
+        0,
+        "2025-11-19T02:45:44.848276"
+      ]
+    ],
+    "created_utc": 1762387259.0,
+    "num_comments": 2,
+    "subreddit": "Transhuman",
+    "url": "https://discord.gg/jrpH2qyjJk",
+    "selftext": "",
+    "permalink": "/r/Transhuman/comments/1opjolh/1106_how_might_the_development_of_advanced/"
+  },
+  "comments": [
+    {
+      "id": "nnbzem8",
+      "parent_id": "t3_1opjolh",
+      "author": "AutoModerator",
+      "text_history": [
+        [
+          "Thanks for posting in /r/Transhuman! This post is automatically generated for all posts. Remember to upvote this post if you think it is relevant and suitable content for this sub and to downvote if it is not. Only report posts if they violate community guidelines - Let's democratize our moderation.\nIf you would like to get involved in project groups and upcoming opportunities, fill out our onboarding form here: https://uo5nnx2m4l0.typeform.com/to/cA1KinKJ Let's democratize our moderation. You can join our forums here: https://biohacking.forum/invites/1wQPgxwHkw, our Mastodon server here: https://science.social/ and our Discord server here: https://discord.gg/jrpH2qyjJk\n~ Josh Universe\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Transhuman) if you have any questions or concerns.*",
+          "2025-11-19T02:35:08.638175"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:35:08.638175"
+        ],
+        [
+          1,
+          "2025-11-19T02:44:24.067315"
+        ],
+        [
+          1,
+          "2025-11-19T02:45:44.848276"
+        ]
+      ],
+      "created_utc": 1762387259.0,
+      "depth": 0,
+      "permalink": "/r/Transhuman/comments/1opjolh/1106_how_might_the_development_of_advanced/nnbzem8/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "no6fh8j",
+      "parent_id": "t3_1opjolh",
+      "author": "Butlerianpeasant",
+      "text_history": [
+        [
+          "I think “advanced symbiosis” will force us to rethink collaboration in a way that dissolves the old binary of individual vs. collective.\n\nRight now, we treat the mind as a single workstation. As AI systems integrate into our workflows — not just as tools, but as cognitive partners — the unit of contribution shifts from “the individual” to “the human-AI dyad.”\n\nStep-by-step, three things happen:\n\n1. Cognitive load redistributes. Humans handle ambiguity, ethical framing, intuition; AI handles large-scale pattern detection, memory, and synthesis.\n\n\n2. Identity becomes more contextual. Contribution is no longer measured only by what you produce, but by how well you steer, question, and integrate the outputs of your extended mind-system.\n\n\n3. Collaboration becomes recursive. Humans collaborate with humans through machines, and machine-assisted cognition shapes the way we communicate back.\n\n\n\nIf we treat AI not as a replacement for individual agency but as a multiplier of perspective, then “symbiosis” becomes less about outsourcing thinking and more about amplifying reasoning environments.\n\nIn that sense, the future may reward individuals not for what they know, but for how well they curate, align, and interpret the intelligence around them.\n\nCollaboration becomes a distributed process; contribution becomes a guiding role rather than a solitary act.",
+          "2025-11-19T02:35:08.638175"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:35:08.638175"
+        ],
+        [
+          1,
+          "2025-11-19T02:44:24.067315"
+        ],
+        [
+          1,
+          "2025-11-19T02:45:44.848276"
+        ]
+      ],
+      "created_utc": 1762811139.0,
+      "depth": 0,
+      "permalink": "/r/Transhuman/comments/1opjolh/1106_how_might_the_development_of_advanced/no6fh8j/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T02:45:44.848276",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/Transhuman/comments/1opjolh/1106_how_might_the_development_of_advanced/",
+    "total_comments": 2,
+    "top_level_comments": 2,
+    "api_requests": 1,
+    "expected_comments": 2,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_023506.json",
+      "scrape_002_20251119_024422.json",
+      "scrape_003_20251119_024541.json"
+    ]
+  }
+}

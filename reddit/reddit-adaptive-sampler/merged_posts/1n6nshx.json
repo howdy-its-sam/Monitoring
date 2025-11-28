@@ -1,0 +1,116 @@
+{
+  "post": {
+    "id": "1n6nshx",
+    "title": "Anyone building tools to automate creative + doc-heavy workflows?",
+    "author": "jor_duko",
+    "score_history": [
+      [
+        1,
+        "2025-11-19T03:19:50.235791"
+      ],
+      [
+        1,
+        "2025-11-19T03:25:40.929992"
+      ],
+      [
+        1,
+        "2025-11-19T03:27:10.683561"
+      ]
+    ],
+    "created_utc": 1756829598.0,
+    "num_comments": 3,
+    "subreddit": "AutoGPT",
+    "url": "https://www.reddit.com/r/AutoGPT/comments/1n6nshx/anyone_building_tools_to_automate_creative/",
+    "selftext": "I’m looking to connect with folks working on:\n\n\t•\tRecoloring or editing visual patterns/images via prompt\n\n\t•\tAuto-generating structured docs (e.g. spec sheets, tech packs)\n\n\t•\tTurning scanned objects/clothing into 3D previews\n\n\t•\tAI-generated product photos (on-model or flat lays)\n\nIf you’ve built anything in this space — or know tools that do this well — would love to hear from you.",
+    "permalink": "/r/AutoGPT/comments/1n6nshx/anyone_building_tools_to_automate_creative/"
+  },
+  "comments": [
+    {
+      "id": "ndhz9xo",
+      "parent_id": "t3_1n6nshx",
+      "author": "ntindle",
+      "text_history": [
+        [
+          "Sounds interesting and if there’s tools you’re currently using tell me more and let’s see what automation of them looks like",
+          "2025-11-19T03:19:50.235791"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T03:19:50.235791"
+        ],
+        [
+          1,
+          "2025-11-19T03:25:40.929992"
+        ],
+        [
+          1,
+          "2025-11-19T03:27:10.683561"
+        ]
+      ],
+      "created_utc": 1757531252.0,
+      "depth": 0,
+      "permalink": "/r/AutoGPT/comments/1n6nshx/anyone_building_tools_to_automate_creative/ndhz9xo/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "ndw8unc",
+          "parent_id": "t1_ndhz9xo",
+          "author": "Key-Boat-7519",
+          "text_history": [
+            [
+              "Midjourney + n8n auto-drops fresh recolors into Figma within minutes. GPT-4 via Google Apps Script completes our tech-pack template; Polycam scans feed Blender rigs for 3D previews; Runway Gen-2 crafts on-model shots; Merchynt rides with Zapier for bulk listing upkeep. Whole chain spits finished assets in under an hour.",
+              "2025-11-19T03:19:50.235791"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-19T03:19:50.235791"
+            ],
+            [
+              1,
+              "2025-11-19T03:25:40.929992"
+            ],
+            [
+              1,
+              "2025-11-19T03:27:10.683561"
+            ]
+          ],
+          "created_utc": 1757715065.0,
+          "depth": 1,
+          "permalink": "/r/AutoGPT/comments/1n6nshx/anyone_building_tools_to_automate_creative/ndw8unc/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:27:10.683561",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/AutoGPT/comments/1n6nshx/anyone_building_tools_to_automate_creative/",
+    "total_comments": 2,
+    "top_level_comments": 1,
+    "api_requests": 1,
+    "expected_comments": 3,
+    "coverage_percent": 66.67,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_031950.json",
+      "scrape_002_20251119_032540.json",
+      "scrape_003_20251119_032710.json"
+    ]
+  }
+}

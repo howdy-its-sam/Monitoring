@@ -1,0 +1,44 @@
+{
+  "post": {
+    "id": "scag3m",
+    "title": "Demigos HealthTech Podcast",
+    "author": "AnastasiaPetlevanaya",
+    "score_history": [
+      [
+        4,
+        "2025-11-18T14:53:21.629030"
+      ],
+      [
+        3,
+        "2025-11-18T14:56:12.572525"
+      ],
+      [
+        4,
+        "2025-11-18T15:04:19.439017"
+      ]
+    ],
+    "created_utc": 1643105675.0,
+    "num_comments": 0,
+    "subreddit": "HealthAI",
+    "url": "https://www.reddit.com/r/HealthAI/comments/scag3m/demigos_healthtech_podcast/",
+    "selftext": "The 3rd episode of Demigos HealthTech Beat podcast is ready for listening! In this episode, we talk with Marco R. Majer, head of Ecosystems at 5-HT Digital Hub, about entering the German market for a healthcare startup.\n\nMarco speaks on how the hubs measure the activity performance, which startups and companies can enter the hub, which projects they have already worked with, and also a key rule for startups entering the German healthcare market.\n\nEnjoy the listening! 🎧We will appreciate also if you can give your feedback. Thank you and stay tuned! #healthcare #podcast #health #tech \n\n**Website:** https://demigos.com/blog-post/heathtech-beat-03-marco-r-mayer/\n\n**RSS Feed:** https://podcasts.bcast.fm/e/5nzwqvq8\n\n**SoundCloud:** https://soundcloud.com/healthtech-beat/podcast-episode-3-marco-r-majer\n\n**YouTube:** https://www.youtube.com/watch?v=MjQ1UXR8TS0&amp;t=777s&amp;ab\\_channel=Demigos\n\n**iTunes:** https://podcasts.apple.com/us/podcast/3-network-is-your-net-worth-entering-the-german/id1600519593?i=1000547547192\n\n**Google Podcasts:** https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5iY2FzdC5mbS9oZWFsdGh0ZWNoLWJlYXQ/episode/ODB6M2o5ajE?sa=X&amp;ved=0CAUQkfYCahcKEwi49Mas9q71AhUAAAAAHQAAAAAQAQ\n\n**Spotify:** [https://open.spotify.com/episode/1l0WW0Xu3Qf74F45m1Dhe7](https://open.spotify.com/episode/1l0WW0Xu3Qf74F45m1Dhe7)\n\nhttps://preview.redd.it/zpj5hiu87td81.png?width=1000&amp;format=png&amp;auto=webp&amp;s=8f0763a4500a673af96b20b1685f88587f4923ce",
+    "permalink": "/r/HealthAI/comments/scag3m/demigos_healthtech_podcast/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-18T15:04:19.439017",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/HealthAI/comments/scag3m/demigos_healthtech_podcast/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_145321.json",
+      "scrape_002_20251118_145612.json",
+      "scrape_003_20251118_150419.json"
+    ]
+  }
+}

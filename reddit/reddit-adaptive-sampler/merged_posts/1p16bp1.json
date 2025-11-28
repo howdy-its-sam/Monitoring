@@ -1,0 +1,69 @@
+{
+  "post": {
+    "id": "1p16bp1",
+    "title": "What should I learn to build an AI assistant chatbot for my graduation project?",
+    "author": "Ill_Journalist6052",
+    "score_history": [
+      [
+        1,
+        "2025-11-19T04:26:54.159954"
+      ],
+      [
+        1,
+        "2025-11-19T04:30:03.402351"
+      ],
+      [
+        1,
+        "2025-11-19T04:31:05.267887"
+      ],
+      [
+        1,
+        "2025-11-19T04:31:46.117045"
+      ],
+      [
+        1,
+        "2025-11-19T04:32:07.486404"
+      ],
+      [
+        1,
+        "2025-11-19T04:32:28.815046"
+      ],
+      [
+        1,
+        "2025-11-19T04:32:50.029676"
+      ],
+      [
+        1,
+        "2025-11-19T04:33:11.491255"
+      ]
+    ],
+    "created_utc": 1763555144.0,
+    "num_comments": 0,
+    "subreddit": "learnmachinelearning",
+    "url": "https://www.reddit.com/r/learnmachinelearning/comments/1p16bp1/what_should_i_learn_to_build_an_ai_assistant/",
+    "selftext": "I'm working on my graduation project with my team, and we’re building an educational platform and community for people with disabilities and for now, our main focus is building an AI assistant chatbot that can answer questions about courses, platform navigation, and user progress, Perform actions like enrolling a user in a course or showing a progress report, Maintain conversation context and remember previous messages\n\nI’ve studied NLP up to the Attention Mechanism, but I’m not sure what exactly I should learn next to build this chatbot efficiently. We only have about one month to finish this model as we have to work on other models too, so I’m trying to choose the fastest and most effective path. Should I focus on fine tuning an LLM or using an existing API or something else entirely?? I’m ready to learn whatever is needed I just need clear guidance and reliable learning resources. Any advice would be really appreciated, thank u so much",
+    "permalink": "/r/learnmachinelearning/comments/1p16bp1/what_should_i_learn_to_build_an_ai_assistant/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T04:33:11.491255",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/learnmachinelearning/comments/1p16bp1/what_should_i_learn_to_build_an_ai_assistant/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 8,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_042653.json",
+      "scrape_002_20251119_043003.json",
+      "scrape_003_20251119_043105.json",
+      "scrape_004_20251119_043145.json",
+      "scrape_005_20251119_043207.json",
+      "scrape_006_20251119_043228.json",
+      "scrape_007_20251119_043249.json",
+      "scrape_008_20251119_043311.json"
+    ]
+  }
+}

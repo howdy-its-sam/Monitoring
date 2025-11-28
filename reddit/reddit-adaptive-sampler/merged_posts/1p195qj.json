@@ -1,0 +1,233 @@
+{
+  "post": {
+    "id": "1p195qj",
+    "title": "Quantum physicists have shrunk and “de-censored” DeepSeek R1",
+    "author": "techreview",
+    "score_history": [
+      [
+        1,
+        "2025-11-19T06:31:36.906472"
+      ],
+      [
+        1,
+        "2025-11-19T06:31:37.161328"
+      ],
+      [
+        1,
+        "2025-11-19T06:31:37.436523"
+      ],
+      [
+        1,
+        "2025-11-19T06:31:37.662217"
+      ],
+      [
+        1,
+        "2025-11-19T06:31:37.982000"
+      ],
+      [
+        1,
+        "2025-11-19T06:31:38.234701"
+      ],
+      [
+        1,
+        "2025-11-19T06:31:38.512846"
+      ],
+      [
+        1,
+        "2025-11-19T06:31:38.736799"
+      ],
+      [
+        1,
+        "2025-11-19T06:31:39.012723"
+      ],
+      [
+        1,
+        "2025-11-19T06:31:39.247265"
+      ],
+      [
+        1,
+        "2025-11-19T06:31:39.516555"
+      ],
+      [
+        1,
+        "2025-11-19T06:31:39.761784"
+      ],
+      [
+        1,
+        "2025-11-19T06:31:40.046153"
+      ],
+      [
+        1,
+        "2025-11-19T06:31:40.279393"
+      ],
+      [
+        1,
+        "2025-11-19T06:31:40.538443"
+      ],
+      [
+        1,
+        "2025-11-19T06:31:41.086018"
+      ],
+      [
+        1,
+        "2025-11-19T06:31:41.364525"
+      ],
+      [
+        1,
+        "2025-11-19T06:31:41.615088"
+      ],
+      [
+        1,
+        "2025-11-19T06:31:48.131224"
+      ],
+      [
+        1,
+        "2025-11-19T06:31:48.367676"
+      ]
+    ],
+    "created_utc": 1763562605.0,
+    "num_comments": 1,
+    "subreddit": "technews",
+    "url": "https://www.technologyreview.com/2025/11/19/1128119/quantum-physicists-compress-and-deconsor-deepseekr1/?utm_medium=tr_social&amp;utm_source=reddit&amp;utm_campaign=site_visitor.unpaid.engagement",
+    "selftext": "",
+    "permalink": "/r/technews/comments/1p195qj/quantum_physicists_have_shrunk_and_decensored/"
+  },
+  "comments": [
+    {
+      "id": "npo9ada",
+      "parent_id": "t3_1p195qj",
+      "author": "techreview",
+      "text_history": [
+        [
+          "**From the article:**\n\nA group of quantum physicists managed to cut the size of DeepSeek R1 by more than half—and claim the AI reasoning model can now answer politically sensitive questions once off limits in Chinese AI systems.\n\nThe scientists at Multiverse Computing, a Spanish firm specializing in quantum-inspired AI techniques, created DeepSeek R1 Slim, a model that is 55% smaller but performs almost as well as the original model. Crucially, they also claim to have eliminated official Chinese censorship from the model.\n\nIn China, AI companies are subject to rules and regulations meant to ensure that content output aligns with laws and “socialist values.” As a result, companies build in layers of censorship when training the AI systems. When asked questions that are deemed “politically sensitive,” the models often refuse to answer or provide talking points straight from state propaganda.\n\nTo trim down the model, Multiverse turned to a mathematically complex approach borrowed from quantum physics that uses networks of high-dimensional grids to represent and manipulate large data sets. Using these so-called tensor networks shrinks the size of the model significantly and allows a complex AI system to be expressed more efficiently.",
+          "2025-11-19T06:31:36.906472"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T06:31:36.906472"
+        ],
+        [
+          1,
+          "2025-11-19T06:31:37.161328"
+        ],
+        [
+          1,
+          "2025-11-19T06:31:37.436523"
+        ],
+        [
+          1,
+          "2025-11-19T06:31:37.662217"
+        ],
+        [
+          1,
+          "2025-11-19T06:31:37.982000"
+        ],
+        [
+          1,
+          "2025-11-19T06:31:38.234701"
+        ],
+        [
+          1,
+          "2025-11-19T06:31:38.512846"
+        ],
+        [
+          1,
+          "2025-11-19T06:31:38.736799"
+        ],
+        [
+          1,
+          "2025-11-19T06:31:39.012723"
+        ],
+        [
+          1,
+          "2025-11-19T06:31:39.247265"
+        ],
+        [
+          1,
+          "2025-11-19T06:31:39.516555"
+        ],
+        [
+          1,
+          "2025-11-19T06:31:39.761784"
+        ],
+        [
+          1,
+          "2025-11-19T06:31:40.046153"
+        ],
+        [
+          1,
+          "2025-11-19T06:31:40.279393"
+        ],
+        [
+          1,
+          "2025-11-19T06:31:40.538443"
+        ],
+        [
+          1,
+          "2025-11-19T06:31:41.086018"
+        ],
+        [
+          1,
+          "2025-11-19T06:31:41.364525"
+        ],
+        [
+          1,
+          "2025-11-19T06:31:41.615088"
+        ],
+        [
+          1,
+          "2025-11-19T06:31:48.131224"
+        ],
+        [
+          1,
+          "2025-11-19T06:31:48.367676"
+        ]
+      ],
+      "created_utc": 1763562611.0,
+      "depth": 0,
+      "permalink": "/r/technews/comments/1p195qj/quantum_physicists_have_shrunk_and_decensored/npo9ada/",
+      "is_submitter": true,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T06:31:48.367676",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/technews/comments/1p195qj/quantum_physicists_have_shrunk_and_decensored/",
+    "total_comments": 1,
+    "top_level_comments": 1,
+    "api_requests": 1,
+    "expected_comments": 1,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 20,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_063136.json",
+      "scrape_002_20251119_063136.json",
+      "scrape_003_20251119_063137.json",
+      "scrape_004_20251119_063137.json",
+      "scrape_005_20251119_063137.json",
+      "scrape_006_20251119_063137.json",
+      "scrape_007_20251119_063138.json",
+      "scrape_008_20251119_063138.json",
+      "scrape_009_20251119_063138.json",
+      "scrape_010_20251119_063139.json",
+      "scrape_011_20251119_063139.json",
+      "scrape_012_20251119_063139.json",
+      "scrape_013_20251119_063139.json",
+      "scrape_014_20251119_063140.json",
+      "scrape_015_20251119_063140.json",
+      "scrape_016_20251119_063140.json",
+      "scrape_017_20251119_063141.json",
+      "scrape_018_20251119_063141.json",
+      "scrape_019_20251119_063147.json",
+      "scrape_020_20251119_063148.json"
+    ]
+  }
+}

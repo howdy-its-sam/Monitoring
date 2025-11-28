@@ -1,0 +1,44 @@
+{
+  "post": {
+    "id": "1p1208p",
+    "title": "Finding the landing page in a AiTM link",
+    "author": "Legitimate_Potato325",
+    "score_history": [
+      [
+        1,
+        "2025-11-19T03:28:53.409812"
+      ],
+      [
+        1,
+        "2025-11-19T03:37:53.197936"
+      ],
+      [
+        1,
+        "2025-11-19T03:39:39.765585"
+      ]
+    ],
+    "created_utc": 1763540515.0,
+    "num_comments": 0,
+    "subreddit": "cybersecurity",
+    "url": "https://www.reddit.com/r/cybersecurity/comments/1p1208p/finding_the_landing_page_in_a_aitm_link/",
+    "selftext": "Hello.\n\nDoes anyone here have knowledge about following a non active AiTM-link and finding the final phihisng page? I have the original email and attachment in my inbox, but it's a dynamic link not meant for me. Thanks. ",
+    "permalink": "/r/cybersecurity/comments/1p1208p/finding_the_landing_page_in_a_aitm_link/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:39:39.765585",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/cybersecurity/comments/1p1208p/finding_the_landing_page_in_a_aitm_link/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_032853.json",
+      "scrape_002_20251119_033753.json",
+      "scrape_003_20251119_033939.json"
+    ]
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "post": {
+    "id": "1oyj44j",
+    "title": "Multi Turn Conversation Evaluation",
+    "author": "LowNefariousness9966",
+    "score_history": [
+      [
+        4,
+        "2025-11-18T15:15:03.793282"
+      ],
+      [
+        4,
+        "2025-11-18T15:18:40.756528"
+      ],
+      [
+        3,
+        "2025-11-18T23:02:14.935293"
+      ],
+      [
+        4,
+        "2025-11-19T00:47:46.968929"
+      ],
+      [
+        4,
+        "2025-11-19T02:22:47.110051"
+      ]
+    ],
+    "created_utc": 1763291439.0,
+    "num_comments": 1,
+    "subreddit": "LangChain",
+    "url": "https://www.reddit.com/r/LangChain/comments/1oyj44j/multi_turn_conversation_evaluation/",
+    "selftext": "Has anyone tried the new Multi Turn evaluation? I have an agentic AI setup and looking for evaluation solutions.  \nMy setup is already connected to langsmith traces for debugging, but I haven't used it for evaluation.  \nI'm mostly interested in the multi turn conversation evaluation, as my agentic ai deals with customers in long conversations.\n\nAny Recommendations or Advices? I've been also looking for solutions provided by deepeval for example.\n\nThanks!\n\nhttps://preview.redd.it/lyzyirdzql1g1.png?width=655&amp;format=png&amp;auto=webp&amp;s=39a4620484aadbe08a4ee348ed7b880da0fe3bf8\n\n",
+    "permalink": "/r/LangChain/comments/1oyj44j/multi_turn_conversation_evaluation/"
+  },
+  "comments": [
+    {
+      "id": "np4sq6i",
+      "parent_id": "t3_1oyj44j",
+      "author": "Niightstalker",
+      "text_history": [
+        [
+          "I also haven’t this yet but LangChain updated their academy courses for LangSmith to include this. Maybe you can find something there: https://academy.langchain.com/courses/intro-to-langsmith",
+          "2025-11-18T15:15:03.793282"
+        ]
+      ],
+      "score_history": [
+        [
+          3,
+          "2025-11-18T15:15:03.793282"
+        ],
+        [
+          3,
+          "2025-11-18T15:18:40.756528"
+        ],
+        [
+          3,
+          "2025-11-18T23:02:14.935293"
+        ],
+        [
+          3,
+          "2025-11-19T00:47:46.968929"
+        ],
+        [
+          3,
+          "2025-11-19T02:22:47.110051"
+        ]
+      ],
+      "created_utc": 1763294281.0,
+      "depth": 0,
+      "permalink": "/r/LangChain/comments/1oyj44j/multi_turn_conversation_evaluation/np4sq6i/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T02:22:47.110051",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/LangChain/comments/1oyj44j/multi_turn_conversation_evaluation/",
+    "total_comments": 1,
+    "top_level_comments": 1,
+    "api_requests": 1,
+    "expected_comments": 1,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 5,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_151503.json",
+      "scrape_002_20251118_151840.json",
+      "scrape_003_20251118_230214.json",
+      "scrape_004_20251119_004746.json",
+      "scrape_005_20251119_022246.json"
+    ]
+  }
+}

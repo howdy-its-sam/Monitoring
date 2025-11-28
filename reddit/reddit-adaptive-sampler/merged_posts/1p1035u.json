@@ -1,0 +1,129 @@
+{
+  "post": {
+    "id": "1p1035u",
+    "title": "Indian cybersecurity professionals: Need guidance for API testing (NPCI UPI API audit) — New to this, using Postman?",
+    "author": "theAmbidexterperson",
+    "score_history": [
+      [
+        1,
+        "2025-11-19T05:37:51.587057"
+      ],
+      [
+        1,
+        "2025-11-19T05:37:51.789177"
+      ],
+      [
+        1,
+        "2025-11-19T05:37:52.175167"
+      ],
+      [
+        1,
+        "2025-11-19T05:37:52.412498"
+      ],
+      [
+        1,
+        "2025-11-19T05:37:52.788341"
+      ],
+      [
+        1,
+        "2025-11-19T05:37:52.998021"
+      ],
+      [
+        1,
+        "2025-11-19T05:37:53.234648"
+      ],
+      [
+        1,
+        "2025-11-19T05:37:53.436884"
+      ],
+      [
+        1,
+        "2025-11-19T05:37:53.676375"
+      ],
+      [
+        1,
+        "2025-11-19T05:37:53.877088"
+      ],
+      [
+        1,
+        "2025-11-19T05:37:54.131148"
+      ],
+      [
+        1,
+        "2025-11-19T05:37:54.352482"
+      ],
+      [
+        1,
+        "2025-11-19T05:37:54.573835"
+      ],
+      [
+        1,
+        "2025-11-19T05:37:54.774416"
+      ],
+      [
+        1,
+        "2025-11-19T05:37:54.968520"
+      ],
+      [
+        1,
+        "2025-11-19T05:37:55.164000"
+      ],
+      [
+        1,
+        "2025-11-19T05:37:55.360222"
+      ],
+      [
+        1,
+        "2025-11-19T05:37:55.586334"
+      ],
+      [
+        1,
+        "2025-11-19T05:37:55.778197"
+      ],
+      [
+        1,
+        "2025-11-19T05:37:56.020051"
+      ]
+    ],
+    "created_utc": 1763533341.0,
+    "num_comments": 0,
+    "subreddit": "cybersecurity",
+    "url": "https://www.reddit.com/r/cybersecurity/comments/1p1035u/indian_cybersecurity_professionals_need_guidance/",
+    "selftext": "Hi everyone,\n\nI’m looking for some help or guidance with API testing. I work for a small firm, and we’re currently auditing as per NPCI guidelines for UPI API usage. I’m not very familiar with API testing, but I think I’ll need to use Postman for most of the checks.\n\nCan someone guide me on how to get started and what the typical process looks like for this kind of audit? Any resources, tips, or steps would be really helpful.\n\nI’ll attach the NPCI circular as well in case someone here has worked on this before.\n\nhttps://www.teamleaseregtech.com/fileviewer/?f=https://avantiscdnprodstorage.blob.core.windows.net/legalupdatedocs/42884/NPCI-issued-guidelines-on-the-usage-of-UPI-API-May222025.pdf\n\nThanks in advance!",
+    "permalink": "/r/cybersecurity/comments/1p1035u/indian_cybersecurity_professionals_need_guidance/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T05:37:56.020051",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/cybersecurity/comments/1p1035u/indian_cybersecurity_professionals_need_guidance/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 20,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_053751.json",
+      "scrape_002_20251119_053751.json",
+      "scrape_003_20251119_053751.json",
+      "scrape_004_20251119_053752.json",
+      "scrape_005_20251119_053752.json",
+      "scrape_006_20251119_053752.json",
+      "scrape_007_20251119_053753.json",
+      "scrape_008_20251119_053753.json",
+      "scrape_009_20251119_053753.json",
+      "scrape_010_20251119_053753.json",
+      "scrape_011_20251119_053753.json",
+      "scrape_012_20251119_053754.json",
+      "scrape_013_20251119_053754.json",
+      "scrape_014_20251119_053754.json",
+      "scrape_015_20251119_053754.json",
+      "scrape_016_20251119_053754.json",
+      "scrape_017_20251119_053755.json",
+      "scrape_018_20251119_053755.json",
+      "scrape_019_20251119_053755.json",
+      "scrape_020_20251119_053755.json"
+    ]
+  }
+}

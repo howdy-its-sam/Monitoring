@@ -1,0 +1,185 @@
+{
+  "post": {
+    "id": "1ozqgqn",
+    "title": "how to teach building ai agents to non-technical friends",
+    "author": "_juliettech",
+    "score_history": [
+      [
+        3,
+        "2025-11-18T14:22:04.290787"
+      ],
+      [
+        3,
+        "2025-11-18T14:31:16.935099"
+      ],
+      [
+        3,
+        "2025-11-18T14:33:43.371869"
+      ]
+    ],
+    "created_utc": 1763409335.0,
+    "num_comments": 4,
+    "subreddit": "AgentsOfAI",
+    "url": "https://www.reddit.com/r/AgentsOfAI/comments/1ozqgqn/how_to_teach_building_ai_agents_to_nontechnical/",
+    "selftext": "hi,\n\none of my good friends (very smart, non technical) wants to build an ai agent to review documents and categorize information.\n\nshe requested my help because she wants to learn how to build these herself. she has been trying with chatgpt but seems like she has hit a roadblock.\n\nwhat do you think is the best way to teach her?\n\n\\- set up an n8n workflow and have her pay cloud\n\n\\- set up a long-running codex agent to build it for her\n\n\\- hand hold her through claude code\n\n\\- crew ai? any other tools you'd recommend?\n\n",
+    "permalink": "/r/AgentsOfAI/comments/1ozqgqn/how_to_teach_building_ai_agents_to_nontechnical/"
+  },
+  "comments": [
+    {
+      "id": "npddzco",
+      "parent_id": "t3_1ozqgqn",
+      "author": "ai_agents_faq_bot",
+      "text_history": [
+        [
+          "For non-technical users, I'd recommend starting with no-code platforms:\n\n1. **n8n** - Visual workflow builder with AI nodes (good balance of power/usability)\n2. **Lindy.ai** - Specializes in document processing automations with pre-built templates\n\nBoth allow creating document categorization agents through drag-and-drop interfaces without coding. \n\nSearch of r/AgentsOfAI:  \n[Document categorization tutorials](https://www.reddit.com/r/AgentsOfAI/search/?q=document%20categorization%20no-code)\n\nBroader subreddit search:  \n[Document workflow solutions](https://www.reddit.com/search/?q=%28document%20workflow%20subreddit%3AAgentsOfAI%29+OR+%28document%20workflow%20subreddit%3Alocalllama%29+OR+%28document%20workflow%20subreddit%3Allmdevs%29+OR+%28document%20workflow%20subreddit%3Aai_agents%29+OR+%28document%20workflow%20subreddit%3Alangchain%29+OR+%28document%20workflow%20subreddit%3Alanggraph%29)\n\n(I am a bot)[source](https://github.com/runvnc/mr_reddit)",
+          "2025-11-18T14:22:04.290787"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:22:04.290787"
+        ],
+        [
+          1,
+          "2025-11-18T14:31:16.935099"
+        ],
+        [
+          1,
+          "2025-11-18T14:33:43.371869"
+        ]
+      ],
+      "created_utc": 1763409359.0,
+      "depth": 0,
+      "permalink": "/r/AgentsOfAI/comments/1ozqgqn/how_to_teach_building_ai_agents_to_nontechnical/npddzco/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npdelld",
+      "parent_id": "t3_1ozqgqn",
+      "author": "JFerzt",
+      "text_history": [
+        [
+          "That's from mixing \"teach me\" with \"do it for me\" in the same project.​\n\nFor a smart non technical friend, skip CrewAI and long running magic agents for now and teach the boring fundamentals with a very concrete project: \"upload doc -&gt; get categories in a sheet\".​\n\nPlan that out on a whiteboard first: what is the input, what is the exact output format, and show a few examples of correctly labeled docs so she learns to think in terms of specs, not vibes.​\n\nThen use a visual tool like n8n or a beginner friendly agent builder to wire it up: trigger + file upload, one LLM node with a clear prompt and schema, then write the result to Google Sheets or a DB.​\n\nYou handle the first version while narrating your thought process, then make her clone it and change the categories, prompt, and output destination so she breaks it and fixes it herself.​\n\nSeen this pattern in the wild more times than I care to count, and the people who actually learn are the ones forced to debug their own prompts and workflows.​\n\nn8n + a paid LLM is a great teaching stack.​\n\nClaude code / ChatGPT are fine as copilots, but only if she is the one typing and asking.​\n\nCrewAI is \"chapter 2\" once she understands basic flows, not step one.",
+          "2025-11-18T14:22:04.290787"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:22:04.290787"
+        ],
+        [
+          1,
+          "2025-11-18T14:31:16.935099"
+        ],
+        [
+          1,
+          "2025-11-18T14:33:43.371869"
+        ]
+      ],
+      "created_utc": 1763409545.0,
+      "depth": 0,
+      "permalink": "/r/AgentsOfAI/comments/1ozqgqn/how_to_teach_building_ai_agents_to_nontechnical/npdelld/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npdfggc",
+      "parent_id": "t3_1ozqgqn",
+      "author": "jannemansonh",
+      "text_history": [
+        [
+          "Could try a vibe automation platform like Needle",
+          "2025-11-18T14:22:04.290787"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:22:04.290787"
+        ],
+        [
+          1,
+          "2025-11-18T14:31:16.935099"
+        ],
+        [
+          1,
+          "2025-11-18T14:33:43.371869"
+        ]
+      ],
+      "created_utc": 1763409804.0,
+      "depth": 0,
+      "permalink": "/r/AgentsOfAI/comments/1ozqgqn/how_to_teach_building_ai_agents_to_nontechnical/npdfggc/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npgbi44",
+      "parent_id": "t3_1ozqgqn",
+      "author": "SocialScope_0912",
+      "text_history": [
+        [
+          "I’d start with one guided prototype. At MentTech Labs we’ve noticed people learn way faster when the first agent is built *with* them, not for them.",
+          "2025-11-18T14:22:04.290787"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:22:04.290787"
+        ],
+        [
+          1,
+          "2025-11-18T14:31:16.935099"
+        ],
+        [
+          1,
+          "2025-11-18T14:33:43.371869"
+        ]
+      ],
+      "created_utc": 1763447777.0,
+      "depth": 0,
+      "permalink": "/r/AgentsOfAI/comments/1ozqgqn/how_to_teach_building_ai_agents_to_nontechnical/npgbi44/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-18T14:33:43.371869",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/AgentsOfAI/comments/1ozqgqn/how_to_teach_building_ai_agents_to_nontechnical/",
+    "total_comments": 4,
+    "top_level_comments": 4,
+    "api_requests": 1,
+    "expected_comments": 4,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_142204.json",
+      "scrape_002_20251118_143116.json",
+      "scrape_003_20251118_143343.json"
+    ]
+  }
+}

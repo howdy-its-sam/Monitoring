@@ -1,0 +1,80 @@
+{
+  "post": {
+    "id": "1p01oxn",
+    "title": "Is Hot and Cold just embedding similarity?",
+    "author": "ad_xyz",
+    "score_history": [
+      [
+        1,
+        "2025-11-19T02:55:56.326116"
+      ],
+      [
+        1,
+        "2025-11-19T03:08:47.975240"
+      ],
+      [
+        1,
+        "2025-11-19T03:16:16.689639"
+      ]
+    ],
+    "created_utc": 1763437436.0,
+    "num_comments": 1,
+    "subreddit": "MLQuestions",
+    "url": "https://www.reddit.com/r/MLQuestions/comments/1p01oxn/is_hot_and_cold_just_embedding_similarity/",
+    "selftext": "There is this game on reddit that keeps popping up in my feed called Hot and Cold:\n\n[https://www.reddit.com/r/HotAndCold/](https://www.reddit.com/r/HotAndCold/)\n\nIt seems like the word affiliations are causing a lot of confusion and frustration. Does anyone have any insight into how the word affiliation rankings are made? Is this just embedding each of the words and then using some form of vector similarity metric?\n\nIf yes, is there any insight into what embedding model they might be using? I assume the metric would just be something like cosine similarity?",
+    "permalink": "/r/MLQuestions/comments/1p01oxn/is_hot_and_cold_just_embedding_similarity/"
+  },
+  "comments": [
+    {
+      "id": "npgp4cl",
+      "parent_id": "t3_1p01oxn",
+      "author": "et-in-arcadia-",
+      "text_history": [
+        [
+          "Ha what an infuriating game! Yeah, it could be that. Looks like it’s based on semantic similarity which suggests at least word2vec but it could be something more recent. \n\nCertainly it looks like it’s doing only retrieval. When you put in a plural or other conjugation it usually maps back to a simple root of the word. Which makes me think there’s a database in the back with pre computed embeddings of say 5k words to each other, and when you make a guess it just retrieves the distance of your guess from the true word.",
+          "2025-11-19T02:55:56.326116"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:55:56.326116"
+        ],
+        [
+          1,
+          "2025-11-19T03:08:47.975240"
+        ],
+        [
+          1,
+          "2025-11-19T03:16:16.689639"
+        ]
+      ],
+      "created_utc": 1763455902.0,
+      "depth": 0,
+      "permalink": "/r/MLQuestions/comments/1p01oxn/is_hot_and_cold_just_embedding_similarity/npgp4cl/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:16:16.689639",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/MLQuestions/comments/1p01oxn/is_hot_and_cold_just_embedding_similarity/",
+    "total_comments": 1,
+    "top_level_comments": 1,
+    "api_requests": 1,
+    "expected_comments": 1,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_025556.json",
+      "scrape_002_20251119_030847.json",
+      "scrape_003_20251119_031616.json"
+    ]
+  }
+}

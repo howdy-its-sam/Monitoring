@@ -1,0 +1,44 @@
+{
+  "post": {
+    "id": "1p0k9tx",
+    "title": "Honda to recall over 256,000 US vehicles over software error, NHTSA says",
+    "author": "igetproteinfartsHELP",
+    "score_history": [
+      [
+        0,
+        "2025-11-18T14:22:32.737713"
+      ],
+      [
+        0,
+        "2025-11-18T14:32:52.066815"
+      ],
+      [
+        0,
+        "2025-11-18T14:43:14.100587"
+      ]
+    ],
+    "created_utc": 1763491669.0,
+    "num_comments": 0,
+    "subreddit": "technology",
+    "url": "https://www.reuters.com/business/autos-transportation/honda-recall-over-256000-us-vehicles-over-software-error-nhtsa-says-2025-11-18/",
+    "selftext": "",
+    "permalink": "/r/technology/comments/1p0k9tx/honda_to_recall_over_256000_us_vehicles_over/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-18T14:43:14.100587",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/technology/comments/1p0k9tx/honda_to_recall_over_256000_us_vehicles_over/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_142232.json",
+      "scrape_002_20251118_143251.json",
+      "scrape_003_20251118_144313.json"
+    ]
+  }
+}

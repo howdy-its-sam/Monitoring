@@ -1,0 +1,1182 @@
+{
+  "post": {
+    "id": "1oxrvds",
+    "title": "Blue Origin lands New Glenn booster for the first time, marking a major step toward reusable heavy-lift rockets",
+    "author": "AdSpecialist6598",
+    "score_history": [
+      [
+        361,
+        "2025-11-19T02:56:11.600111"
+      ],
+      [
+        361,
+        "2025-11-19T03:05:44.223755"
+      ],
+      [
+        354,
+        "2025-11-19T03:08:49.772279"
+      ]
+    ],
+    "created_utc": 1763213717.0,
+    "num_comments": 32,
+    "subreddit": "technews",
+    "url": "https://www.techspot.com/news/110261-blue-origin-edges-closer-orbit-routine-first-new.html",
+    "selftext": "",
+    "permalink": "/r/technews/comments/1oxrvds/blue_origin_lands_new_glenn_booster_for_the_first/"
+  },
+  "comments": [
+    {
+      "id": "np13zq2",
+      "parent_id": "t3_1oxrvds",
+      "author": "ProgRockDan",
+      "text_history": [
+        [
+          "Hooray for Blue Origin",
+          "2025-11-19T02:56:11.600111"
+        ]
+      ],
+      "score_history": [
+        [
+          8,
+          "2025-11-19T02:56:11.600111"
+        ],
+        [
+          7,
+          "2025-11-19T03:05:44.223755"
+        ],
+        [
+          7,
+          "2025-11-19T03:08:49.772279"
+        ]
+      ],
+      "created_utc": 1763236918.0,
+      "depth": 0,
+      "permalink": "/r/technews/comments/1oxrvds/blue_origin_lands_new_glenn_booster_for_the_first/np13zq2/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nozeu6t",
+      "parent_id": "t3_1oxrvds",
+      "author": "pirateworks",
+      "text_history": [
+        [
+          "How far behind are they?",
+          "2025-11-19T02:56:11.600111"
+        ]
+      ],
+      "score_history": [
+        [
+          8,
+          "2025-11-19T02:56:11.600111"
+        ],
+        [
+          8,
+          "2025-11-19T03:05:44.223755"
+        ],
+        [
+          8,
+          "2025-11-19T03:08:49.772279"
+        ]
+      ],
+      "created_utc": 1763217505.0,
+      "depth": 0,
+      "permalink": "/r/technews/comments/1oxrvds/blue_origin_lands_new_glenn_booster_for_the_first/nozeu6t/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "np0n73h",
+          "parent_id": "t1_nozeu6t",
+          "author": "Fuzzy-Mud-197",
+          "text_history": [
+            [
+              "Roughly a decade behind the spacex falcon 9 but this is more of a competitor to the spacex falcon heavy which first flew and landed back in February of 2018",
+              "2025-11-19T02:56:11.600111"
+            ]
+          ],
+          "score_history": [
+            [
+              13,
+              "2025-11-19T02:56:11.600111"
+            ],
+            [
+              14,
+              "2025-11-19T03:05:44.223755"
+            ],
+            [
+              13,
+              "2025-11-19T03:08:49.772279"
+            ]
+          ],
+          "created_utc": 1763231632.0,
+          "depth": 1,
+          "permalink": "/r/technews/comments/1oxrvds/blue_origin_lands_new_glenn_booster_for_the_first/np0n73h/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "np1610p",
+              "parent_id": "t1_np0n73h",
+              "author": "RiskyBrothers",
+              "text_history": [
+                [
+                  "Interesting to note that the new glenn booster was designed to be recoverable from the start.  It can throttle down enough to hover near the landing ship, which gives it a lot more margin of error for landings than performing a hoverslam.",
+                  "2025-11-19T02:56:11.600111"
+                ]
+              ],
+              "score_history": [
+                [
+                  5,
+                  "2025-11-19T02:56:11.600111"
+                ],
+                [
+                  5,
+                  "2025-11-19T03:05:44.223755"
+                ],
+                [
+                  5,
+                  "2025-11-19T03:08:49.772279"
+                ]
+              ],
+              "created_utc": 1763237593.0,
+              "depth": 2,
+              "permalink": "/r/technews/comments/1oxrvds/blue_origin_lands_new_glenn_booster_for_the_first/np1610p/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": [
+                {
+                  "id": "np16ozm",
+                  "parent_id": "t1_np1610p",
+                  "author": "Fuzzy-Mud-197",
+                  "text_history": [
+                    [
+                      "Yep, and what is great is that they can optimize it even further, it is safe to say that the new glenn now will be considered unoptimized and quite weak in a few years compared to the refined version of it. Similar to falcon 9 v1 and its current version",
+                      "2025-11-19T02:56:11.600111"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      5,
+                      "2025-11-19T02:56:11.600111"
+                    ],
+                    [
+                      6,
+                      "2025-11-19T03:05:44.223755"
+                    ],
+                    [
+                      5,
+                      "2025-11-19T03:08:49.772279"
+                    ]
+                  ],
+                  "created_utc": 1763237819.0,
+                  "depth": 3,
+                  "permalink": "/r/technews/comments/1oxrvds/blue_origin_lands_new_glenn_booster_for_the_first/np16ozm/",
+                  "is_submitter": false,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "np0201s",
+      "parent_id": "t3_1oxrvds",
+      "author": "Gigalisk",
+      "text_history": [
+        [
+          "Bruh that is the first time in the SECOND launch!",
+          "2025-11-19T02:56:11.600111"
+        ]
+      ],
+      "score_history": [
+        [
+          3,
+          "2025-11-19T02:56:11.600111"
+        ],
+        [
+          3,
+          "2025-11-19T03:05:44.223755"
+        ],
+        [
+          3,
+          "2025-11-19T03:08:49.772279"
+        ]
+      ],
+      "created_utc": 1763225030.0,
+      "depth": 0,
+      "permalink": "/r/technews/comments/1oxrvds/blue_origin_lands_new_glenn_booster_for_the_first/np0201s/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "noz6hbu",
+      "parent_id": "t3_1oxrvds",
+      "author": "wumbologist-2",
+      "text_history": [
+        [
+          "Can we get SNAP or Healthcare instead?",
+          "2025-11-19T02:56:11.600111"
+        ]
+      ],
+      "score_history": [
+        [
+          5,
+          "2025-11-19T02:56:11.600111"
+        ],
+        [
+          6,
+          "2025-11-19T03:05:44.223755"
+        ],
+        [
+          7,
+          "2025-11-19T03:08:49.772279"
+        ]
+      ],
+      "created_utc": 1763214441.0,
+      "depth": 0,
+      "permalink": "/r/technews/comments/1oxrvds/blue_origin_lands_new_glenn_booster_for_the_first/noz6hbu/",
+      "is_submitter": false,
+      "controversiality": 1,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "np09kbr",
+          "parent_id": "t1_noz6hbu",
+          "author": "jhketcha",
+          "text_history": [
+            [
+              "It’s a private company employing a ton of people. Wouldn’t you rather have private space companies than government ones so that the govt can focus on stuff like SNAP?",
+              "2025-11-19T02:56:11.600111"
+            ]
+          ],
+          "score_history": [
+            [
+              19,
+              "2025-11-19T02:56:11.600111"
+            ],
+            [
+              18,
+              "2025-11-19T03:05:44.223755"
+            ],
+            [
+              19,
+              "2025-11-19T03:08:49.772279"
+            ]
+          ],
+          "created_utc": 1763227419.0,
+          "depth": 1,
+          "permalink": "/r/technews/comments/1oxrvds/blue_origin_lands_new_glenn_booster_for_the_first/np09kbr/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "np0g2k3",
+              "parent_id": "t1_np09kbr",
+              "author": "wumbologist-2",
+              "text_history": [
+                [
+                  "Nasa also employs a hell of a lot more.",
+                  "2025-11-19T02:56:11.600111"
+                ]
+              ],
+              "score_history": [
+                [
+                  4,
+                  "2025-11-19T02:56:11.600111"
+                ],
+                [
+                  6,
+                  "2025-11-19T03:05:44.223755"
+                ],
+                [
+                  6,
+                  "2025-11-19T03:08:49.772279"
+                ]
+              ],
+              "created_utc": 1763229464.0,
+              "depth": 2,
+              "permalink": "/r/technews/comments/1oxrvds/blue_origin_lands_new_glenn_booster_for_the_first/np0g2k3/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": [
+                {
+                  "id": "np13mzu",
+                  "parent_id": "t1_np0g2k3",
+                  "author": "[deleted]",
+                  "text_history": [
+                    [
+                      "[deleted]",
+                      "2025-11-19T02:56:11.600111"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      9,
+                      "2025-11-19T02:56:11.600111"
+                    ],
+                    [
+                      9,
+                      "2025-11-19T03:05:44.223755"
+                    ],
+                    [
+                      9,
+                      "2025-11-19T03:08:49.772279"
+                    ]
+                  ],
+                  "created_utc": 1763236799.0,
+                  "depth": 3,
+                  "permalink": "/r/technews/comments/1oxrvds/blue_origin_lands_new_glenn_booster_for_the_first/np13mzu/",
+                  "is_submitter": false,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": [
+                    {
+                      "id": "np178h5",
+                      "parent_id": "t1_np13mzu",
+                      "author": "wumbologist-2",
+                      "text_history": [
+                        [
+                          "Fine. Nasa subcontractors employ much more than blue origin.",
+                          "2025-11-19T02:56:11.600111"
+                        ]
+                      ],
+                      "score_history": [
+                        [
+                          0,
+                          "2025-11-19T02:56:11.600111"
+                        ],
+                        [
+                          0,
+                          "2025-11-19T03:05:44.223755"
+                        ],
+                        [
+                          0,
+                          "2025-11-19T03:08:49.772279"
+                        ]
+                      ],
+                      "created_utc": 1763238000.0,
+                      "depth": 4,
+                      "permalink": "/r/technews/comments/1oxrvds/blue_origin_lands_new_glenn_booster_for_the_first/np178h5/",
+                      "is_submitter": false,
+                      "controversiality": 1,
+                      "gilded": 0,
+                      "edited": false,
+                      "deleted": false,
+                      "deleted_at": null,
+                      "replies": [
+                        {
+                          "id": "np1kkor",
+                          "parent_id": "t1_np178h5",
+                          "author": "piratecheese13",
+                          "text_history": [
+                            [
+                              "Blue origin is a NASA subcontractor\n\nThe next plan launch for this rocket is the prototype moon lander that will compete with starship super heavy from SpaceX another NASA subcontractor",
+                              "2025-11-19T02:56:11.600111"
+                            ]
+                          ],
+                          "score_history": [
+                            [
+                              2,
+                              "2025-11-19T02:56:11.600111"
+                            ],
+                            [
+                              2,
+                              "2025-11-19T03:05:44.223755"
+                            ],
+                            [
+                              2,
+                              "2025-11-19T03:08:49.772279"
+                            ]
+                          ],
+                          "created_utc": 1763242454.0,
+                          "depth": 5,
+                          "permalink": "/r/technews/comments/1oxrvds/blue_origin_lands_new_glenn_booster_for_the_first/np1kkor/",
+                          "is_submitter": false,
+                          "controversiality": 0,
+                          "gilded": 0,
+                          "edited": false,
+                          "deleted": false,
+                          "deleted_at": null,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "np1rj4f",
+              "parent_id": "t1_np09kbr",
+              "author": "Endy0816",
+              "text_history": [
+                [
+                  "There's also risk in private companies/individuals having that level of destructive power and ability to operate outside of any law.",
+                  "2025-11-19T02:56:11.600111"
+                ]
+              ],
+              "score_history": [
+                [
+                  -1,
+                  "2025-11-19T02:56:11.600111"
+                ],
+                [
+                  -1,
+                  "2025-11-19T03:05:44.223755"
+                ],
+                [
+                  -1,
+                  "2025-11-19T03:08:49.772279"
+                ]
+              ],
+              "created_utc": 1763244779.0,
+              "depth": 2,
+              "permalink": "/r/technews/comments/1oxrvds/blue_origin_lands_new_glenn_booster_for_the_first/np1rj4f/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "nozkrjt",
+          "parent_id": "t1_noz6hbu",
+          "author": "D0_stack",
+          "text_history": [
+            [
+              "SNAP costs $100B/year.  Bezos funds Blue at $1B to maybe $1.5b/year by selling Amazon stock.  \n\nThe only other significant money Blue receives is for NASA contracts.",
+              "2025-11-19T02:56:11.600111"
+            ]
+          ],
+          "score_history": [
+            [
+              7,
+              "2025-11-19T02:56:11.600111"
+            ],
+            [
+              8,
+              "2025-11-19T03:05:44.223755"
+            ],
+            [
+              8,
+              "2025-11-19T03:08:49.772279"
+            ]
+          ],
+          "created_utc": 1763219551.0,
+          "depth": 1,
+          "permalink": "/r/technews/comments/1oxrvds/blue_origin_lands_new_glenn_booster_for_the_first/nozkrjt/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        },
+        {
+          "id": "nozruf1",
+          "parent_id": "t1_noz6hbu",
+          "author": "Purona",
+          "text_history": [
+            [
+              "depends do you not want gps, weather services, communication, missile tracking, agriculture monitoring, and everything else.",
+              "2025-11-19T02:56:11.600111"
+            ]
+          ],
+          "score_history": [
+            [
+              6,
+              "2025-11-19T02:56:11.600111"
+            ],
+            [
+              5,
+              "2025-11-19T03:05:44.223755"
+            ],
+            [
+              5,
+              "2025-11-19T03:08:49.772279"
+            ]
+          ],
+          "created_utc": 1763221826.0,
+          "depth": 1,
+          "permalink": "/r/technews/comments/1oxrvds/blue_origin_lands_new_glenn_booster_for_the_first/nozruf1/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "np0ltu4",
+              "parent_id": "t1_nozruf1",
+              "author": "ChainsawBologna",
+              "text_history": [
+                [
+                  "Those were all up there before the Bezos Phallic Thunder. Turns out we already figured out rockets over a century ago.",
+                  "2025-11-19T02:56:11.600111"
+                ]
+              ],
+              "score_history": [
+                [
+                  -2,
+                  "2025-11-19T02:56:11.600111"
+                ],
+                [
+                  -1,
+                  "2025-11-19T03:05:44.223755"
+                ],
+                [
+                  -3,
+                  "2025-11-19T03:08:49.772279"
+                ]
+              ],
+              "created_utc": 1763231219.0,
+              "depth": 2,
+              "permalink": "/r/technews/comments/1oxrvds/blue_origin_lands_new_glenn_booster_for_the_first/np0ltu4/",
+              "is_submitter": false,
+              "controversiality": 1,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": [
+                {
+                  "id": "np0m4ig",
+                  "parent_id": "t1_np0ltu4",
+                  "author": "Purona",
+                  "text_history": [
+                    [
+                      "and they all need to be replaced, upgraded and expanded from time to time. Especially when companies enter the industry to compete against existing infrastructure",
+                      "2025-11-19T02:56:11.600111"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      5,
+                      "2025-11-19T02:56:11.600111"
+                    ],
+                    [
+                      5,
+                      "2025-11-19T03:05:44.223755"
+                    ],
+                    [
+                      7,
+                      "2025-11-19T03:08:49.772279"
+                    ]
+                  ],
+                  "created_utc": 1763231309.0,
+                  "depth": 3,
+                  "permalink": "/r/technews/comments/1oxrvds/blue_origin_lands_new_glenn_booster_for_the_first/np0m4ig/",
+                  "is_submitter": false,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": [
+                    {
+                      "id": "np0nybg",
+                      "parent_id": "t1_np0m4ig",
+                      "author": "Fuzzy-Mud-197",
+                      "text_history": [
+                        [
+                          "Correct but trying to talk sense in these people is pointless it seems...",
+                          "2025-11-19T02:56:11.600111"
+                        ]
+                      ],
+                      "score_history": [
+                        [
+                          4,
+                          "2025-11-19T02:56:11.600111"
+                        ],
+                        [
+                          4,
+                          "2025-11-19T03:05:44.223755"
+                        ],
+                        [
+                          5,
+                          "2025-11-19T03:08:49.772279"
+                        ]
+                      ],
+                      "created_utc": 1763231851.0,
+                      "depth": 4,
+                      "permalink": "/r/technews/comments/1oxrvds/blue_origin_lands_new_glenn_booster_for_the_first/np0nybg/",
+                      "is_submitter": false,
+                      "controversiality": 0,
+                      "gilded": 0,
+                      "edited": false,
+                      "deleted": false,
+                      "deleted_at": null,
+                      "replies": []
+                    },
+                    {
+                      "id": "np3lj7e",
+                      "parent_id": "t1_np0m4ig",
+                      "author": "ChainsawBologna",
+                      "text_history": [
+                        [
+                          "The original poster's point is, who cares when people aren't getting food. GPS for dead people?",
+                          "2025-11-19T02:56:11.600111"
+                        ]
+                      ],
+                      "score_history": [
+                        [
+                          0,
+                          "2025-11-19T02:56:11.600111"
+                        ],
+                        [
+                          0,
+                          "2025-11-19T03:05:44.223755"
+                        ],
+                        [
+                          0,
+                          "2025-11-19T03:08:49.772279"
+                        ]
+                      ],
+                      "created_utc": 1763269653.0,
+                      "depth": 4,
+                      "permalink": "/r/technews/comments/1oxrvds/blue_origin_lands_new_glenn_booster_for_the_first/np3lj7e/",
+                      "is_submitter": false,
+                      "controversiality": 0,
+                      "gilded": 0,
+                      "edited": false,
+                      "deleted": false,
+                      "deleted_at": null,
+                      "replies": [
+                        {
+                          "id": "np3yqu9",
+                          "parent_id": "t1_np3lj7e",
+                          "author": "Purona",
+                          "text_history": [
+                            [
+                              "You're going to starve anyway when the machines that farm the food and deliver the food do no work as well as they do now\n\nEntire fields and farms will die without monitoring their environmental attributes",
+                              "2025-11-19T02:56:11.600111"
+                            ]
+                          ],
+                          "score_history": [
+                            [
+                              2,
+                              "2025-11-19T02:56:11.600111"
+                            ],
+                            [
+                              2,
+                              "2025-11-19T03:05:44.223755"
+                            ],
+                            [
+                              2,
+                              "2025-11-19T03:08:49.772279"
+                            ]
+                          ],
+                          "created_utc": 1763276383.0,
+                          "depth": 5,
+                          "permalink": "/r/technews/comments/1oxrvds/blue_origin_lands_new_glenn_booster_for_the_first/np3yqu9/",
+                          "is_submitter": false,
+                          "controversiality": 0,
+                          "gilded": 0,
+                          "edited": 1763287040.0,
+                          "deleted": false,
+                          "deleted_at": null,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "np28bjv",
+                  "parent_id": "t1_np0ltu4",
+                  "author": "b_m_hart",
+                  "text_history": [
+                    [
+                      "So you don’t like the cost of putting those things up there to ever get lower?  Because that’s what reusable rockets are for.  Go take a look at what it costs to launch satellites compared to 20 years ago.  It’s a LOT less now.  That less money we have to spend on that stuff and can put towards other things.",
+                      "2025-11-19T02:56:11.600111"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      3,
+                      "2025-11-19T02:56:11.600111"
+                    ],
+                    [
+                      3,
+                      "2025-11-19T03:05:44.223755"
+                    ],
+                    [
+                      3,
+                      "2025-11-19T03:08:49.772279"
+                    ]
+                  ],
+                  "created_utc": 1763250783.0,
+                  "depth": 3,
+                  "permalink": "/r/technews/comments/1oxrvds/blue_origin_lands_new_glenn_booster_for_the_first/np28bjv/",
+                  "is_submitter": false,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "np01f4a",
+              "parent_id": "t1_nozruf1",
+              "author": "wumbologist-2",
+              "text_history": [
+                [
+                  "Yes I'd prefer not to starve or die unnecessarily.",
+                  "2025-11-19T02:56:11.600111"
+                ]
+              ],
+              "score_history": [
+                [
+                  -6,
+                  "2025-11-19T02:56:11.600111"
+                ],
+                [
+                  -5,
+                  "2025-11-19T03:05:44.223755"
+                ],
+                [
+                  -5,
+                  "2025-11-19T03:08:49.772279"
+                ]
+              ],
+              "created_utc": 1763224848.0,
+              "depth": 2,
+              "permalink": "/r/technews/comments/1oxrvds/blue_origin_lands_new_glenn_booster_for_the_first/np01f4a/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": [
+                {
+                  "id": "np01j0d",
+                  "parent_id": "t1_np01f4a",
+                  "author": "Purona",
+                  "text_history": [
+                    [
+                      "you're going to starve if those systems go down.\n\nCant disagree with this. Hows food getting delivered without gps. how are farmers going to plan with out climate reports. how are people going to prepare for future events without weather reports. (imagine how many would die if no one knew that their were major storm systems approaching.",
+                      "2025-11-19T02:56:11.600111"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      3,
+                      "2025-11-19T02:56:11.600111"
+                    ],
+                    [
+                      2,
+                      "2025-11-19T03:05:44.223755"
+                    ],
+                    [
+                      1,
+                      "2025-11-19T03:08:49.772279"
+                    ]
+                  ],
+                  "created_utc": 1763224883.0,
+                  "depth": 3,
+                  "permalink": "/r/technews/comments/1oxrvds/blue_origin_lands_new_glenn_booster_for_the_first/np01j0d/",
+                  "is_submitter": false,
+                  "controversiality": 1,
+                  "gilded": 0,
+                  "edited": 1763226229.0,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": [
+                    {
+                      "id": "np17rwx",
+                      "parent_id": "t1_np01j0d",
+                      "author": "goodvibes88",
+                      "text_history": [
+                        [
+                          "Food will be delivered the way it was before GPS. It’s nice to have but not essential.",
+                          "2025-11-19T02:56:11.600111"
+                        ]
+                      ],
+                      "score_history": [
+                        [
+                          0,
+                          "2025-11-19T02:56:11.600111"
+                        ],
+                        [
+                          0,
+                          "2025-11-19T03:05:44.223755"
+                        ],
+                        [
+                          0,
+                          "2025-11-19T03:08:49.772279"
+                        ]
+                      ],
+                      "created_utc": 1763238178.0,
+                      "depth": 4,
+                      "permalink": "/r/technews/comments/1oxrvds/blue_origin_lands_new_glenn_booster_for_the_first/np17rwx/",
+                      "is_submitter": false,
+                      "controversiality": 0,
+                      "gilded": 0,
+                      "edited": false,
+                      "deleted": false,
+                      "deleted_at": null,
+                      "replies": [
+                        {
+                          "id": "np1a3va",
+                          "parent_id": "t1_np17rwx",
+                          "author": "Purona",
+                          "text_history": [
+                            [
+                              "ridiculous the world is not set up in that way anymore. People arent rolling around with paper maps trying to find out which direction to go in. just the switch of truck drivers alone trying to get around without gps would crush the supply chain.",
+                              "2025-11-19T02:56:11.600111"
+                            ]
+                          ],
+                          "score_history": [
+                            [
+                              3,
+                              "2025-11-19T02:56:11.600111"
+                            ],
+                            [
+                              2,
+                              "2025-11-19T03:05:44.223755"
+                            ],
+                            [
+                              3,
+                              "2025-11-19T03:08:49.772279"
+                            ]
+                          ],
+                          "created_utc": 1763238967.0,
+                          "depth": 5,
+                          "permalink": "/r/technews/comments/1oxrvds/blue_origin_lands_new_glenn_booster_for_the_first/np1a3va/",
+                          "is_submitter": false,
+                          "controversiality": 0,
+                          "gilded": 0,
+                          "edited": false,
+                          "deleted": false,
+                          "deleted_at": null,
+                          "replies": [
+                            {
+                              "id": "np1v5ez",
+                              "parent_id": "t1_np1a3va",
+                              "author": "goodvibes88",
+                              "text_history": [
+                                [
+                                  "humans are much more resilient and adaptable than you make us out to be.",
+                                  "2025-11-19T02:56:11.600111"
+                                ]
+                              ],
+                              "score_history": [
+                                [
+                                  0,
+                                  "2025-11-19T02:56:11.600111"
+                                ],
+                                [
+                                  0,
+                                  "2025-11-19T03:05:44.223755"
+                                ],
+                                [
+                                  0,
+                                  "2025-11-19T03:08:49.772279"
+                                ]
+                              ],
+                              "created_utc": 1763246043.0,
+                              "depth": 6,
+                              "permalink": "/r/technews/comments/1oxrvds/blue_origin_lands_new_glenn_booster_for_the_first/np1v5ez/",
+                              "is_submitter": false,
+                              "controversiality": 0,
+                              "gilded": 0,
+                              "edited": false,
+                              "deleted": false,
+                              "deleted_at": null,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "np2wwr0",
+          "parent_id": "t1_noz6hbu",
+          "author": "quantum_conspiracy",
+          "text_history": [
+            [
+              "You have already paid taxes to fund SNAP. Tell the Federal Government to release that money you already paid.",
+              "2025-11-19T02:56:11.600111"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-19T02:56:11.600111"
+            ],
+            [
+              1,
+              "2025-11-19T03:05:44.223755"
+            ],
+            [
+              1,
+              "2025-11-19T03:08:49.772279"
+            ]
+          ],
+          "created_utc": 1763259628.0,
+          "depth": 1,
+          "permalink": "/r/technews/comments/1oxrvds/blue_origin_lands_new_glenn_booster_for_the_first/np2wwr0/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "np0dxh9",
+      "parent_id": "t3_1oxrvds",
+      "author": "Sooowasthinking",
+      "text_history": [
+        [
+          "Who fucking cares—oh that’s right Gale King cares!!!!\n\nShe’s an astronaut!!!",
+          "2025-11-19T02:56:11.600111"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-19T02:56:11.600111"
+        ],
+        [
+          2,
+          "2025-11-19T03:05:44.223755"
+        ],
+        [
+          3,
+          "2025-11-19T03:08:49.772279"
+        ]
+      ],
+      "created_utc": 1763228809.0,
+      "depth": 0,
+      "permalink": "/r/technews/comments/1oxrvds/blue_origin_lands_new_glenn_booster_for_the_first/np0dxh9/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "np2a7ul",
+      "parent_id": "t3_1oxrvds",
+      "author": "[deleted]",
+      "text_history": [
+        [
+          "[deleted]",
+          "2025-11-19T02:56:11.600111"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:56:11.600111"
+        ],
+        [
+          1,
+          "2025-11-19T03:05:44.223755"
+        ],
+        [
+          1,
+          "2025-11-19T03:08:49.772279"
+        ]
+      ],
+      "created_utc": 1763251475.0,
+      "depth": 0,
+      "permalink": "/r/technews/comments/1oxrvds/blue_origin_lands_new_glenn_booster_for_the_first/np2a7ul/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "np4z68y",
+          "parent_id": "t1_np2a7ul",
+          "author": "No-Surprise9411",
+          "text_history": [
+            [
+              "Really not. Falcon 9 performed an ASDS (landing on a sea barge) landing 10 years ago, and has since flown over 500 times each time recovering the booster for reuse. The Falcon 9 fleet flight leader is currently sitting at over 30 flights and counting. \n\nAnd if you mean Starship, they've already landed the booster of that rocket (I mean technically it was  caught, same difference) and reused it 2 times. That is by definition before Blue Origin",
+              "2025-11-19T02:56:11.600111"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-19T02:56:11.600111"
+            ],
+            [
+              1,
+              "2025-11-19T03:05:44.223755"
+            ],
+            [
+              1,
+              "2025-11-19T03:08:49.772279"
+            ]
+          ],
+          "created_utc": 1763297532.0,
+          "depth": 1,
+          "permalink": "/r/technews/comments/1oxrvds/blue_origin_lands_new_glenn_booster_for_the_first/np4z68y/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "np46csv",
+      "parent_id": "t3_1oxrvds",
+      "author": "V-LOUD",
+      "text_history": [
+        [
+          "Just pay your taxes Jeff!",
+          "2025-11-19T02:56:11.600111"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:56:11.600111"
+        ],
+        [
+          1,
+          "2025-11-19T03:05:44.223755"
+        ],
+        [
+          1,
+          "2025-11-19T03:08:49.772279"
+        ]
+      ],
+      "created_utc": 1763280854.0,
+      "depth": 0,
+      "permalink": "/r/technews/comments/1oxrvds/blue_origin_lands_new_glenn_booster_for_the_first/np46csv/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npc2t0e",
+      "parent_id": "t3_1oxrvds",
+      "author": "furogeba",
+      "text_history": [
+        [
+          "That's huge for space travel—Blue Origin's catching up fast!",
+          "2025-11-19T02:56:11.600111"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:56:11.600111"
+        ],
+        [
+          1,
+          "2025-11-19T03:05:44.223755"
+        ],
+        [
+          1,
+          "2025-11-19T03:08:49.772279"
+        ]
+      ],
+      "created_utc": 1763395505.0,
+      "depth": 0,
+      "permalink": "/r/technews/comments/1oxrvds/blue_origin_lands_new_glenn_booster_for_the_first/npc2t0e/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:08:49.772279",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/technews/comments/1oxrvds/blue_origin_lands_new_glenn_booster_for_the_first/",
+    "total_comments": 32,
+    "top_level_comments": 8,
+    "api_requests": 1,
+    "expected_comments": 32,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_025611.json",
+      "scrape_002_20251119_030543.json",
+      "scrape_003_20251119_030849.json"
+    ]
+  }
+}

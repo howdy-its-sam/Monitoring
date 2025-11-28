@@ -1,0 +1,154 @@
+{
+  "post": {
+    "id": "1p05zdi",
+    "title": "AI threatens one in four jobs – but transformation, not replacement, is the real risk",
+    "author": "msaussieandmrravana",
+    "score_history": [
+      [
+        1,
+        "2025-11-18T14:43:37.554992"
+      ],
+      [
+        1,
+        "2025-11-18T14:53:12.617508"
+      ],
+      [
+        1,
+        "2025-11-18T14:54:21.617581"
+      ],
+      [
+        1,
+        "2025-11-18T22:32:19.697745"
+      ],
+      [
+        1,
+        "2025-11-19T00:36:42.830176"
+      ],
+      [
+        1,
+        "2025-11-19T02:22:48.385796"
+      ]
+    ],
+    "created_utc": 1763451965.0,
+    "num_comments": 2,
+    "subreddit": "artificial",
+    "url": "https://www.ungeneva.org/en/news-media/news/2025/05/106536/ai-threatens-one-four-jobs-transformation-not-replacement-real-risk",
+    "selftext": "AI is anti women.",
+    "permalink": "/r/artificial/comments/1p05zdi/ai_threatens_one_in_four_jobs_but_transformation/"
+  },
+  "comments": [
+    {
+      "id": "nphmkg7",
+      "parent_id": "t3_1p05zdi",
+      "author": "KonradFreeman",
+      "text_history": [
+        [
+          "AI was made by women.",
+          "2025-11-18T14:43:37.554992"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-18T14:43:37.554992"
+        ],
+        [
+          2,
+          "2025-11-18T14:53:12.617508"
+        ],
+        [
+          2,
+          "2025-11-18T14:54:21.617581"
+        ],
+        [
+          2,
+          "2025-11-18T22:32:19.697745"
+        ],
+        [
+          2,
+          "2025-11-19T00:36:42.830176"
+        ],
+        [
+          2,
+          "2025-11-19T02:22:48.385796"
+        ]
+      ],
+      "created_utc": 1763472664.0,
+      "depth": 0,
+      "permalink": "/r/artificial/comments/1p05zdi/ai_threatens_one_in_four_jobs_but_transformation/nphmkg7/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nphuxhp",
+      "parent_id": "t3_1p05zdi",
+      "author": "ninhaomah",
+      "text_history": [
+        [
+          "only 1 in 4 ?",
+          "2025-11-18T14:43:37.554992"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:43:37.554992"
+        ],
+        [
+          1,
+          "2025-11-18T14:53:12.617508"
+        ],
+        [
+          1,
+          "2025-11-18T14:54:21.617581"
+        ],
+        [
+          1,
+          "2025-11-18T22:32:19.697745"
+        ],
+        [
+          1,
+          "2025-11-19T00:36:42.830176"
+        ],
+        [
+          1,
+          "2025-11-19T02:22:48.385796"
+        ]
+      ],
+      "created_utc": 1763475360.0,
+      "depth": 0,
+      "permalink": "/r/artificial/comments/1p05zdi/ai_threatens_one_in_four_jobs_but_transformation/nphuxhp/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T02:22:48.385796",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/artificial/comments/1p05zdi/ai_threatens_one_in_four_jobs_but_transformation/",
+    "total_comments": 2,
+    "top_level_comments": 2,
+    "api_requests": 1,
+    "expected_comments": 2,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 6,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_144337.json",
+      "scrape_002_20251118_145312.json",
+      "scrape_003_20251118_145421.json",
+      "scrape_004_20251118_223219.json",
+      "scrape_005_20251119_003642.json",
+      "scrape_006_20251119_022248.json"
+    ]
+  }
+}

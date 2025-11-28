@@ -1,0 +1,44 @@
+{
+  "post": {
+    "id": "s7nqk4",
+    "title": "Demigos HealthTech Podcast",
+    "author": "AnastasiaPetlevanaya",
+    "score_history": [
+      [
+        2,
+        "2025-11-19T03:28:54.372406"
+      ],
+      [
+        2,
+        "2025-11-19T03:36:19.127294"
+      ],
+      [
+        2,
+        "2025-11-19T03:37:56.809356"
+      ]
+    ],
+    "created_utc": 1642590347.0,
+    "num_comments": 0,
+    "subreddit": "HealthAI",
+    "url": "https://www.reddit.com/r/HealthAI/comments/s7nqk4/demigos_healthtech_podcast/",
+    "selftext": "Great news, you can already listen to the 2nd episode of Demigos HealthTech Beat podcast with Jeff Carroll, founder of JC Telemedicine, which is about obstacles that plague our healthcare system firsthand, health-tech innovations, mental health, and telemedicine.\n\nCheck the links below. 🎧We will be glad to hear your feedback. Thank you and stay tuned!\n\n\\#healthcare #podcast #health #tech \n\n**Website:** https://demigos.com/blog-post/heathtech-beat-02-jeff-carrol/\n\n**RSS Feed:** https://podcasts.bcast.fm/e/xny5jpmn\n\n**SoundCloud:** https://soundcloud.com/healthtech-beat/podcast-episode-2-jeff-carrol\n\n**You Tube:** https://www.youtube.com/watch?v=ZcQ-W3IMfb4&amp;ab\\_channel=Demigos\n\n**iTunes:** https://podcasts.apple.com/us/podcast/2-telemedicine-of-our-time-lousy-internet-connection/id1600519593?i=1000547545363\n\n**Google Podcasts:** https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5iY2FzdC5mbS9oZWFsdGh0ZWNoLWJlYXQ/episode/bDE0eXZqbjA?sa=X&amp;ved=0CAUQkfYCahcKEwi49Mas9q71AhUAAAAAHQAAAAAQAQ\n\n**Spotify:** [https://open.spotify.com/episode/506LCHr1U90N0YOU2pw5sY](https://open.spotify.com/episode/506LCHr1U90N0YOU2pw5sY) \n\nhttps://preview.redd.it/iqem7fnwmmc81.png?width=1000&amp;format=png&amp;auto=webp&amp;s=6ecfe3836374a17d51cae4a3160801b514694540",
+    "permalink": "/r/HealthAI/comments/s7nqk4/demigos_healthtech_podcast/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:37:56.809356",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/HealthAI/comments/s7nqk4/demigos_healthtech_podcast/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_032854.json",
+      "scrape_002_20251119_033618.json",
+      "scrape_003_20251119_033756.json"
+    ]
+  }
+}

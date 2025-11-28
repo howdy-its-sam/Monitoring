@@ -1,0 +1,49 @@
+{
+  "post": {
+    "id": "1p0kfrf",
+    "title": "0click Social Media De-Anonymization with Push Notifications, Emojis, Avatars",
+    "author": "V3R1F13D0NLY",
+    "score_history": [
+      [
+        1,
+        "2025-11-18T15:15:06.482596"
+      ],
+      [
+        1,
+        "2025-11-18T15:18:37.095059"
+      ],
+      [
+        1,
+        "2025-11-18T22:53:16.716656"
+      ],
+      [
+        1,
+        "2025-11-19T00:47:45.110646"
+      ]
+    ],
+    "created_utc": 1763492034.0,
+    "num_comments": 0,
+    "subreddit": "cybersecurity",
+    "url": "/r/vpnet/comments/1oznbl2/0click_social_media_deanonymization_with_push/",
+    "selftext": "",
+    "permalink": "/r/cybersecurity/comments/1p0kfrf/0click_social_media_deanonymization_with_push/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T00:47:45.110646",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/cybersecurity/comments/1p0kfrf/0click_social_media_deanonymization_with_push/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 4,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_151506.json",
+      "scrape_002_20251118_151836.json",
+      "scrape_003_20251118_225316.json",
+      "scrape_004_20251119_004744.json"
+    ]
+  }
+}

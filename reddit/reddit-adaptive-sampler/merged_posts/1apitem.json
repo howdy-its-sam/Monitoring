@@ -1,0 +1,80 @@
+{
+  "post": {
+    "id": "1apitem",
+    "title": "Masters CL programs with strong linguistic focus?",
+    "author": "fifteendaffodils",
+    "score_history": [
+      [
+        9,
+        "2025-11-19T02:55:47.355070"
+      ],
+      [
+        9,
+        "2025-11-19T03:08:50.464843"
+      ],
+      [
+        8,
+        "2025-11-19T03:17:41.369274"
+      ]
+    ],
+    "created_utc": 1707792638.0,
+    "num_comments": 1,
+    "subreddit": "compling",
+    "url": "https://www.reddit.com/r/compling/comments/1apitem/masters_cl_programs_with_strong_linguistic_focus/",
+    "selftext": "Hi everyone, \n\nI've been thinking of Masters' programs in CL for a while now. In fact, I applied and got rejected for the Uni Stuttgart program last year cos my degree isn't a CS or Linguistics degree and I didn't get enough points. Thinking of applying again this year, after beefing up my application with a NLP certification from CMU.\n\nHave been following different posts asking about programs but wanted a perspective on which programs have a strong emphasis on linguistic theory? Context is that my undergrad studies were in Business Management and Data Analytics, and I currently work as a Data Analyst so I have decent programming skills. I am cool with delving deeper into more ML / DL but I also feel like those concepts and skills can be easily picked up via self-learning / free online courses. On the other hand, my exposure to Linguistics has been very shallow, but I'm super interested to learn more about this side of things, especially from a computational/scientific perspective rather than from a humanities lens. Hence, I think a Masters in CL rather than Linguistics would be the right path.\n\nI've been considering mainly options in EU (Stuttgart, Saarland, Copenhagen, Lorraine) due to costs, but am still open to hearing about UK/US schools (UW, Edinburgh) as I'm planning to apply for scholarships. Would love to hear from alumni/current students from CL programs:\n\n1. What was the rough split between CS and Linguistics classes for your program? In terms of both time spent &amp; rigour?\n2. How much of research projects do you see incorporating / being based on linguistic theory?\n3. What kind of jobs do graduates of this program go into? Especially international students who can't speak the native language (German/Dutch/French)\n4. (Bonus if applies) If you didn't speak the language of the country you studied in, how was your experience like? Did you end up learning the language to converse in day-to-day context? Did you leave the country after the program or end up staying?\n\nWould love to hear experiences from other schools not listed as well, but note that I'm not very interested in speech technology. Thanks!!",
+    "permalink": "/r/compling/comments/1apitem/masters_cl_programs_with_strong_linguistic_focus/"
+  },
+  "comments": [
+    {
+      "id": "kq8xvs8",
+      "parent_id": "t3_1apitem",
+      "author": "JinimyCritic",
+      "text_history": [
+        [
+          "The University of British Columbia offers a Masters in Data Science - Computational Linguistics.  It's a professional program, so intended for students entering industry (although we get several students every year who move on to PhDs).\n\nIt's offered by a Linguistics Faculty, and is basically split into two semesters (it's a 10-month program).  The first half is taught by Stats and CS, and develops a foundation in data science.  Then, in the new year, all classes are CL.  There's still a lot of machine learning, but the focus is on linguistic analysis.\n\nIt's an expensive program (especially for international students) - I won't sugar-coat it.  It's about CAD60,000 for the one year, but it has a high hire rate, and is intended to balance linguistics with computational methods.  We admit Business students all the time.\n\nDM me if you want to know more.",
+          "2025-11-19T02:55:47.355070"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-19T02:55:47.355070"
+        ],
+        [
+          2,
+          "2025-11-19T03:08:50.464843"
+        ],
+        [
+          2,
+          "2025-11-19T03:17:41.369274"
+        ]
+      ],
+      "created_utc": 1707840234.0,
+      "depth": 0,
+      "permalink": "/r/compling/comments/1apitem/masters_cl_programs_with_strong_linguistic_focus/kq8xvs8/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": 1707840507.0,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:17:41.369274",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/compling/comments/1apitem/masters_cl_programs_with_strong_linguistic_focus/",
+    "total_comments": 1,
+    "top_level_comments": 1,
+    "api_requests": 1,
+    "expected_comments": 1,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_025547.json",
+      "scrape_002_20251119_030850.json",
+      "scrape_003_20251119_031741.json"
+    ]
+  }
+}

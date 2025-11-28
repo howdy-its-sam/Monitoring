@@ -1,0 +1,115 @@
+{
+  "post": {
+    "id": "1p0jb4j",
+    "title": "[Case Study] 5x Traffic in 30 Days (3k to 15k clicks) by Focusing on 'Boring' On-Page SEO",
+    "author": "NorwegianLynx",
+    "score_history": [
+      [
+        1,
+        "2025-11-18T14:53:22.996526"
+      ],
+      [
+        1,
+        "2025-11-18T14:56:21.689901"
+      ],
+      [
+        1,
+        "2025-11-18T15:04:17.877411"
+      ]
+    ],
+    "created_utc": 1763489549.0,
+    "num_comments": 2,
+    "subreddit": "DigitalMarketing",
+    "url": "https://www.reddit.com/r/DigitalMarketing/comments/1p0jb4j/case_study_5x_traffic_in_30_days_3k_to_15k_clicks/",
+    "selftext": "Everyone wants to talk about \"growth hacks\" and \"viral loops.\" Nobody talks about the \"boring\" stuff.\n\nWell, I spent 30 days on the most \"boring\" SEO imaginable: On-Page fundamentals.\n\nMy site was stuck at 3,000 clicks/mo.\n\nI built a tool to find all my on-page mistakes:\n\n* Missing metas\n* Bad H1s\n* Thin content\n* No alt text\n\nI fixed them. Systematically.\n\n30 days later, my traffic is **15,000 clicks/mo.**\n\nThe \"boring\" stuff works. I'm so convinced, I'm launching the tool I built, Haakon SEO, to help others find their \"boring\" goldmine.\n\n  \nWhat \"boring\" marketing tactic has given you the best results?",
+    "permalink": "/r/DigitalMarketing/comments/1p0jb4j/case_study_5x_traffic_in_30_days_3k_to_15k_clicks/"
+  },
+  "comments": [
+    {
+      "id": "npj6d7p",
+      "parent_id": "t3_1p0jb4j",
+      "author": "AutoModerator",
+      "text_history": [
+        [
+          "[If this post doesn't follow the rules report it to the mods](https://www.reddit.com/r/DigitalMarketing/about/rules/). Have more questions? [Join our community Discord!](https://discord.gg/looking-for-marketing-discussion-811236647760298024)\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/DigitalMarketing) if you have any questions or concerns.*",
+          "2025-11-18T14:53:22.996526"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:53:22.996526"
+        ],
+        [
+          1,
+          "2025-11-18T14:56:21.689901"
+        ],
+        [
+          1,
+          "2025-11-18T15:04:17.877411"
+        ]
+      ],
+      "created_utc": 1763489549.0,
+      "depth": 0,
+      "permalink": "/r/DigitalMarketing/comments/1p0jb4j/case_study_5x_traffic_in_30_days_3k_to_15k_clicks/npj6d7p/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npj6d9d",
+      "parent_id": "t3_1p0jb4j",
+      "author": "AutoModerator",
+      "text_history": [
+        [
+          "Are you a marketing professional and have 15 minutes to share your insights? [Take our 2025 State of Marketing Survey](https://lookingformarketing.com/survey?utm_source=reddit&amp;utm_medium=social&amp;utm_campaign=survey&amp;utm_content=r_digitalmarketing).\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/DigitalMarketing) if you have any questions or concerns.*",
+          "2025-11-18T14:53:22.996526"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:53:22.996526"
+        ],
+        [
+          1,
+          "2025-11-18T14:56:21.689901"
+        ],
+        [
+          1,
+          "2025-11-18T15:04:17.877411"
+        ]
+      ],
+      "created_utc": 1763489550.0,
+      "depth": 0,
+      "permalink": "/r/DigitalMarketing/comments/1p0jb4j/case_study_5x_traffic_in_30_days_3k_to_15k_clicks/npj6d9d/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-18T15:04:17.877411",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/DigitalMarketing/comments/1p0jb4j/case_study_5x_traffic_in_30_days_3k_to_15k_clicks/",
+    "total_comments": 2,
+    "top_level_comments": 2,
+    "api_requests": 1,
+    "expected_comments": 2,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_145322.json",
+      "scrape_002_20251118_145621.json",
+      "scrape_003_20251118_150417.json"
+    ]
+  }
+}

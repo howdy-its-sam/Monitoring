@@ -1,0 +1,151 @@
+{
+  "post": {
+    "id": "1p0p6r8",
+    "title": "How does one integrate Role-Based Access Control (RBAC) into autonomous agents?",
+    "author": "FitFuel7663",
+    "score_history": [
+      [
+        2,
+        "2025-11-19T03:03:43.999976"
+      ],
+      [
+        2,
+        "2025-11-19T03:06:55.098903"
+      ],
+      [
+        2,
+        "2025-11-19T03:16:16.171129"
+      ]
+    ],
+    "created_utc": 1763502839.0,
+    "num_comments": 4,
+    "subreddit": "AI_Agents",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1p0p6r8/how_does_one_integrate_rolebased_access_control/",
+    "selftext": "Hello,\n\nI am currently developing a multi-agent system where user requests are routed through a supervisor before being directed to the appropriate agent. I have successfully implemented user authentication and authorization. My current challenge is to determine the optimal approach for authenticating and authorizing autonomous agents, given that there will be no human interaction in their operation.\n\nThanks in advance ",
+    "permalink": "/r/AI_Agents/comments/1p0p6r8/how_does_one_integrate_rolebased_access_control/"
+  },
+  "comments": [
+    {
+      "id": "npkf3rt",
+      "parent_id": "t3_1p0p6r8",
+      "author": "AutoModerator",
+      "text_history": [
+        [
+          "Thank you for your submission, for any questions regarding AI, please check out our wiki at https://www.reddit.com/r/ai_agents/wiki (this is currently in test and we are actively adding to the wiki)\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/AI_Agents) if you have any questions or concerns.*",
+          "2025-11-19T03:03:43.999976"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T03:03:43.999976"
+        ],
+        [
+          1,
+          "2025-11-19T03:06:55.098903"
+        ],
+        [
+          1,
+          "2025-11-19T03:16:16.171129"
+        ]
+      ],
+      "created_utc": 1763502840.0,
+      "depth": 0,
+      "permalink": "/r/AI_Agents/comments/1p0p6r8/how_does_one_integrate_rolebased_access_control/npkf3rt/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npn64sw",
+      "parent_id": "t3_1p0p6r8",
+      "author": "IdeaAffectionate945",
+      "text_history": [
+        [
+          "Read up on JWT tokens. The idea is that your LLM is given (indirect) access to a token it can use to execute your methods. This tokens declares what roles the user belongs to, and hence you can assign rights to roles instead of uses. Each use again should be belong to one more roles, and the role is what's allowed to execute some endpoint.\n\nIf you use Magic Cloud, it's got this out of the box, with full RBAC support ...",
+          "2025-11-19T03:03:43.999976"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T03:03:43.999976"
+        ],
+        [
+          1,
+          "2025-11-19T03:06:55.098903"
+        ],
+        [
+          1,
+          "2025-11-19T03:16:16.171129"
+        ]
+      ],
+      "created_utc": 1763544624.0,
+      "depth": 0,
+      "permalink": "/r/AI_Agents/comments/1p0p6r8/how_does_one_integrate_rolebased_access_control/npn64sw/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npnc5bu",
+          "parent_id": "t1_npn64sw",
+          "author": "FitFuel7663",
+          "text_history": [
+            [
+              "Hi,\n\nI do know JWT tokens and symmetric and asymmetric ways of implementing them.\n\n\"The user belongs to\"?\nDo you mean the agent?\n\nThanks I'll definitely check it out",
+              "2025-11-19T03:03:43.999976"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-19T03:03:43.999976"
+            ],
+            [
+              1,
+              "2025-11-19T03:06:55.098903"
+            ],
+            [
+              1,
+              "2025-11-19T03:16:16.171129"
+            ]
+          ],
+          "created_utc": 1763548308.0,
+          "depth": 1,
+          "permalink": "/r/AI_Agents/comments/1p0p6r8/how_does_one_integrate_rolebased_access_control/npnc5bu/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:16:16.171129",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/AI_Agents/comments/1p0p6r8/how_does_one_integrate_rolebased_access_control/",
+    "total_comments": 3,
+    "top_level_comments": 2,
+    "api_requests": 1,
+    "expected_comments": 4,
+    "coverage_percent": 75.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_030343.json",
+      "scrape_002_20251119_030654.json",
+      "scrape_003_20251119_031615.json"
+    ]
+  }
+}

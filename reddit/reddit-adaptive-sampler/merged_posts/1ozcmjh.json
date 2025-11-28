@@ -1,0 +1,49 @@
+{
+  "post": {
+    "id": "1ozcmjh",
+    "title": "How do you research agent design? Looking for pointers from people who’ve done this.",
+    "author": "Ok_Water_1248",
+    "score_history": [
+      [
+        2,
+        "2025-11-18T14:22:05.146368"
+      ],
+      [
+        2,
+        "2025-11-18T14:32:11.849851"
+      ],
+      [
+        2,
+        "2025-11-18T14:42:14.586385"
+      ],
+      [
+        2,
+        "2025-11-18T22:10:31.082636"
+      ]
+    ],
+    "created_utc": 1763374511.0,
+    "num_comments": 0,
+    "subreddit": "MLQuestions",
+    "url": "https://www.reddit.com/r/MLQuestions/comments/1ozcmjh/how_do_you_research_agent_design_looking_for/",
+    "selftext": "Hey everyone,  \nI’ve been getting deeper into agent design lately (planning, tool-use, memory, multi-step reasoning, etc.) but I feel like the field is huge and scattered across papers, repos, and frameworks.\n\nFor those of you who have actually built or experimented with agents:\n\n**• How do you approach researching agent design?**  \n**• What topics or sub-areas should I focus on first?**  \n**• Are there any must-read papers, repos, or open-source agents you recommend?**  \n**• How do you stay up-to-date with new approaches (RAG-agents, LLM+tools, multi-agent systems, cognitive architectures, etc.)?**\n\nAny tips, frameworks, research paths, or resources would be super helpful.  \nThanks!",
+    "permalink": "/r/MLQuestions/comments/1ozcmjh/how_do_you_research_agent_design_looking_for/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-18T22:10:31.082636",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/MLQuestions/comments/1ozcmjh/how_do_you_research_agent_design_looking_for/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 4,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_142204.json",
+      "scrape_002_20251118_143211.json",
+      "scrape_003_20251118_144214.json",
+      "scrape_004_20251118_221030.json"
+    ]
+  }
+}

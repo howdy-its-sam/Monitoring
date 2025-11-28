@@ -1,0 +1,44 @@
+{
+  "post": {
+    "id": "1p0zn6x",
+    "title": "Google Search with Gemini 3: our most intelligent search yet. Understand and implement",
+    "author": "Digitalunicon",
+    "score_history": [
+      [
+        3,
+        "2025-11-19T03:48:59.954667"
+      ],
+      [
+        3,
+        "2025-11-19T03:52:30.432031"
+      ],
+      [
+        3,
+        "2025-11-19T04:01:12.404324"
+      ]
+    ],
+    "created_utc": 1763531812.0,
+    "num_comments": 0,
+    "subreddit": "learnmachinelearning",
+    "url": "https://blog.google/products/search/gemini-3-search-ai-mode/?utm_source=chatgpt.com",
+    "selftext": "",
+    "permalink": "/r/learnmachinelearning/comments/1p0zn6x/google_search_with_gemini_3_our_most_intelligent/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T04:01:12.404324",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/learnmachinelearning/comments/1p0zn6x/google_search_with_gemini_3_our_most_intelligent/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_034859.json",
+      "scrape_002_20251119_035230.json",
+      "scrape_003_20251119_040112.json"
+    ]
+  }
+}

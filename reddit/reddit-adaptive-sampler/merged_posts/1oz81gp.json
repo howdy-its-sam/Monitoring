@@ -1,0 +1,54 @@
+{
+  "post": {
+    "id": "1oz81gp",
+    "title": "PyTorch lib from my Master’s research: AION-Torch (adaptive residuals for very deep Transformers)",
+    "author": "Annieijj_j",
+    "score_history": [
+      [
+        2,
+        "2025-11-18T14:45:23.605856"
+      ],
+      [
+        2,
+        "2025-11-18T14:53:14.135489"
+      ],
+      [
+        2,
+        "2025-11-18T14:55:52.312125"
+      ],
+      [
+        2,
+        "2025-11-18T22:21:54.613515"
+      ],
+      [
+        2,
+        "2025-11-19T00:26:20.577521"
+      ]
+    ],
+    "created_utc": 1763357129.0,
+    "num_comments": 0,
+    "subreddit": "MLQuestions",
+    "url": "https://www.reddit.com/r/MLQuestions/comments/1oz81gp/pytorch_lib_from_my_masters_research_aiontorch/",
+    "selftext": "I turned my Master’s degree research on stabilizing very deep Transformers into an open-source PyTorch library called AION-Torch. It implements an adaptive residual layer that scales x + α·y based on input/output energy. On my RTX 4060 I ran a 600-layer Pre-LN Transformer test where it seemed to give more stable gradients and lower loss than the baseline. If anyone can give me some feedback or try it on a larger setup, I’d be very happy!\n\nPyPI: https://pypi.org/project/aion-torch/\n",
+    "permalink": "/r/MLQuestions/comments/1oz81gp/pytorch_lib_from_my_masters_research_aiontorch/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T00:26:20.577521",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/MLQuestions/comments/1oz81gp/pytorch_lib_from_my_masters_research_aiontorch/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 5,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_144523.json",
+      "scrape_002_20251118_145313.json",
+      "scrape_003_20251118_145552.json",
+      "scrape_004_20251118_222154.json",
+      "scrape_005_20251119_002620.json"
+    ]
+  }
+}

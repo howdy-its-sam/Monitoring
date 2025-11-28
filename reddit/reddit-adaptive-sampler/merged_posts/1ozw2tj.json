@@ -1,0 +1,1423 @@
+{
+  "post": {
+    "id": "1ozw2tj",
+    "title": "[D] Some concerns about the current state of machine learning research",
+    "author": "periplanomenos_xenos",
+    "score_history": [
+      [
+        80,
+        "2025-11-18T13:48:49.710004"
+      ],
+      [
+        79,
+        "2025-11-18T14:00:13.517439"
+      ],
+      [
+        81,
+        "2025-11-18T14:11:18.039586"
+      ],
+      [
+        89,
+        "2025-11-18T21:39:15.653952"
+      ],
+      [
+        94,
+        "2025-11-18T23:33:15.541049"
+      ],
+      [
+        88,
+        "2025-11-19T01:18:39.320168"
+      ]
+    ],
+    "created_utc": 1763422264.0,
+    "num_comments": 36,
+    "subreddit": "MachineLearning",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1ozw2tj/d_some_concerns_about_the_current_state_of/",
+    "selftext": "It seems to me that the machine learning community as a whole needs an important reality check and a deep look at itself in the mirror. I'm currently reading Karen Hao's *Empire of AI* (which I highly suggest, by the way), so my thoughts may be influenced by it.\n\nWhat I'm reading in the book, however, really echoes certain observations I have been making over the past couple of years. It seems that everyone in the community is working on the same things since some guys at Silicon Valley (particularly OpenAI) have decided that ever larger models are the way to go (and that large language models are a \"great thing\"). I have observed this at big conferences I attended over the past years (ICCV, CVPR, ECCV) whereby all articles feel simply like *variations on a theme*.\n\nThe general dynamic in the community can be characterized by widespread herd behavior. It seems that any tweet by some \"big shot\" can stir the whole community into one direction or another. It feels like critical thinking is generally lacking, which is quite shameful (sorry for the hard word) for a community that is supposed to be working on problems that require deep thinking and evaluation. This is accompanied, it seems to me, by a general complete ignorance of basic \"philosophical\" ideas that underlie machine learning (the problem of induction, uncertainty, etc.)... which further weakens the research community in the face of grandiose claims that are, many times, quite disconnected from reality, about what AI can (or should) do.\n\nI don't know if any of this resonates with you. Let me know what you think, and what you think we can do to improve things?",
+    "permalink": "/r/MachineLearning/comments/1ozw2tj/d_some_concerns_about_the_current_state_of/"
+  },
+  "comments": [
+    {
+      "id": "npem73f",
+      "parent_id": "t3_1ozw2tj",
+      "author": "Thorium229",
+      "text_history": [
+        [
+          "I don't disagree with the points you made, but a lot of them would be true of any research community. People follow money and success, and it's inarguable that the most successful approach to general intelligence right now is LLMs. Is this the optimal way to allocate resources? Almost certainly not, but it is the same mechanism that every field of science uses to progress.  \n\nRegarding the loss of critical thinking, it's probably a side effect of the field blowing up. What was once a small group of mostly experts is now a colossal community of experts, laypeople, and everything in between. Again, not ideal, but communities inevitably reduce their standards as they grow. \n\nMy point being that these aspects of the state of the ML research community are reflections of how science generally works in our civilization.",
+          "2025-11-18T13:48:49.710004"
+        ]
+      ],
+      "score_history": [
+        [
+          73,
+          "2025-11-18T13:48:49.710004"
+        ],
+        [
+          72,
+          "2025-11-18T14:00:13.517439"
+        ],
+        [
+          70,
+          "2025-11-18T14:11:18.039586"
+        ],
+        [
+          74,
+          "2025-11-18T21:39:15.653952"
+        ],
+        [
+          75,
+          "2025-11-18T23:33:15.541049"
+        ],
+        [
+          75,
+          "2025-11-19T01:18:39.320168"
+        ]
+      ],
+      "created_utc": 1763423388.0,
+      "depth": 0,
+      "permalink": "/r/MachineLearning/comments/1ozw2tj/d_some_concerns_about_the_current_state_of/npem73f/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npfz7m0",
+          "parent_id": "t1_npem73f",
+          "author": "mocny-chlapik",
+          "text_history": [
+            [
+              "&gt; true of any research community\n\n\nThis is correct, but it does not mean that it is alright. Science today is generally built around perverse incentives. Instead of progress, it favors volume of papers. If you want a career, you basically have to do what everybody else is doing.That's how you get your papers published and cited, that's how you get grants and cooperations.In effect, science will just push tens of thousands of researchers into an overcrowded field where they all do papers that will have almost zero impact in the long run.\n\n\nAI is the most affected field right now. There are literally thousands of papers in megaconfs, but if you ask the authors, most would agree that the impact of their papers is very limited, but they had to publish something. Nobody has time for serious research, instead, people focus on papers about minor improvements on a subtask of some niche problem.",
+              "2025-11-18T13:48:49.710004"
+            ]
+          ],
+          "score_history": [
+            [
+              11,
+              "2025-11-18T13:48:49.710004"
+            ],
+            [
+              12,
+              "2025-11-18T14:00:13.517439"
+            ],
+            [
+              12,
+              "2025-11-18T14:11:18.039586"
+            ],
+            [
+              12,
+              "2025-11-18T21:39:15.653952"
+            ],
+            [
+              12,
+              "2025-11-18T23:33:15.541049"
+            ],
+            [
+              13,
+              "2025-11-19T01:18:39.320168"
+            ]
+          ],
+          "created_utc": 1763441547.0,
+          "depth": 1,
+          "permalink": "/r/MachineLearning/comments/1ozw2tj/d_some_concerns_about_the_current_state_of/npfz7m0/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npeoa7n",
+      "parent_id": "t3_1ozw2tj",
+      "author": "nine_teeth",
+      "text_history": [
+        [
+          "…but thats whats needed for the science to technologically advance\n\nscience dont make big jumps at once.  it makes very incremental improvements over time.  and sometimes a big step is made after being inspired by multiple new flavors.",
+          "2025-11-18T13:48:49.710004"
+        ]
+      ],
+      "score_history": [
+        [
+          21,
+          "2025-11-18T13:48:49.710004"
+        ],
+        [
+          21,
+          "2025-11-18T14:00:13.517439"
+        ],
+        [
+          19,
+          "2025-11-18T14:11:18.039586"
+        ],
+        [
+          21,
+          "2025-11-18T21:39:15.653952"
+        ],
+        [
+          21,
+          "2025-11-18T23:33:15.541049"
+        ],
+        [
+          22,
+          "2025-11-19T01:18:39.320168"
+        ]
+      ],
+      "created_utc": 1763424114.0,
+      "depth": 0,
+      "permalink": "/r/MachineLearning/comments/1ozw2tj/d_some_concerns_about_the_current_state_of/npeoa7n/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npfb0k4",
+          "parent_id": "t1_npeoa7n",
+          "author": "Graumm",
+          "text_history": [
+            [
+              "I think of it like this. \n\nTransformers cannot explore a solution space rooted in a ground truth. It produces an output, and depending on how far off it is from the expected output the learning algo says “okay I’ll make the answer more like that next time”. It goes straight from inputs to output.\n\nI don’t mean to diminish this because obviously it is very powerful. The emphasis on tokens has framed the problem in such a way that it can learn a large breadth of material somewhat efficiently. The solution space is much smaller than learning language from first principles, and the way that the problem is framed is not littered in sparse goals. It clearly picks up on semantic/symbolic relationships, but the words have no intrinsic meaning. The words mean what they mean.\n\nThe fundamental representation of the world underneath the language is missing. Language can describe the world, but language doesn’t capture the information that could differentiate the need/use for language in the first place. LLM training leads us to the right words, but not the intrinsic meaning or behaviors that lead to word selection.\n\nIn my opinion (and I am not alone) the feedback loops do not exist to connect the learning landscape of a LLMs outputs back to a ground truth in a way that would allow it to self validate its statements and assumptions, such that they can learn without constant human intervention. LLMs are still very reliant on human curated data and humans in the loop.\n\nI do not believe that meaningful progress against hallucinations will be made until we have a model that can self-validate in some sense.\n\nI don’t have the answers, and I am slowly but surely working on my own ideas, but I can recognize a dead end when I see it! A powerful dead end, but a dead end nevertheless.",
+              "2025-11-18T13:48:49.710004"
+            ]
+          ],
+          "score_history": [
+            [
+              13,
+              "2025-11-18T13:48:49.710004"
+            ],
+            [
+              12,
+              "2025-11-18T14:00:13.517439"
+            ],
+            [
+              13,
+              "2025-11-18T14:11:18.039586"
+            ],
+            [
+              13,
+              "2025-11-18T21:39:15.653952"
+            ],
+            [
+              14,
+              "2025-11-18T23:33:15.541049"
+            ],
+            [
+              14,
+              "2025-11-19T01:18:39.320168"
+            ]
+          ],
+          "created_utc": 1763432186.0,
+          "depth": 1,
+          "permalink": "/r/MachineLearning/comments/1ozw2tj/d_some_concerns_about_the_current_state_of/npfb0k4/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npfkkmi",
+              "parent_id": "t1_npfb0k4",
+              "author": "muntoo",
+              "text_history": [
+                [
+                  "This always sounds like post-hoc analysis to me.\n\nIf had it worked, would we have been claiming the opposite?\n\nConsider that it might simply be a [problem of scaling](http://www.incompleteideas.net/IncIdeas/BitterLesson.html). If the underlying mechanism is sufficiently expressible, then scaling brings about the existence of a solution. (The problem of finding the solution still remains, of course.)\n\nConsider, e.g., a [universal function approximator](https://en.wikipedia.org/wiki/Universal_approximation_theorem) (which most ML models are) scaled up by 2^(2^100). Or just a very large LUT, which sufficiently large ML models can be formulated as equivalent to. There now exists a solution.",
+                  "2025-11-18T13:48:49.710004"
+                ]
+              ],
+              "score_history": [
+                [
+                  3,
+                  "2025-11-18T13:48:49.710004"
+                ],
+                [
+                  3,
+                  "2025-11-18T14:00:13.517439"
+                ],
+                [
+                  2,
+                  "2025-11-18T14:11:18.039586"
+                ],
+                [
+                  2,
+                  "2025-11-18T21:39:15.653952"
+                ],
+                [
+                  4,
+                  "2025-11-18T23:33:15.541049"
+                ],
+                [
+                  4,
+                  "2025-11-19T01:18:39.320168"
+                ]
+              ],
+              "created_utc": 1763435554.0,
+              "depth": 2,
+              "permalink": "/r/MachineLearning/comments/1ozw2tj/d_some_concerns_about_the_current_state_of/npfkkmi/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": 1763435829.0,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": [
+                {
+                  "id": "npfuser",
+                  "parent_id": "t1_npfkkmi",
+                  "author": "Graumm",
+                  "text_history": [
+                    [
+                      "You are right, but I fail to see how post-hoc analysis is a bad thing. We move forward by acknowledging shortcomings of existing approaches, and trying to understand why they do not meet our expectations.   \n  \nConsider that my opinion is shaped by the fact that throwing more data at LLM's has not given us AGI yet. My current feeling is that the models we are hollowing out the US economy for are going to be thrown away and invalidated after the next missing architectural advancements are cracked. There is a reasonable chance that they will have incompatible parameterizations.   \n  \nIf I knew current approaches would lead to AGI I would feel differently, but as of yet there are still \"low level intelligence capabilities\" that have not been demonstrated in a single model. We still have frontier models that simultaneously know nearly everything, but still make common-sense mistakes the moment you reach the extents of its knowledge. LLM's suck at knowing what they don't know, and will often hallucinate statements that seem right. Context has not fully solved this problem. I have not seen a language model that has been able to learn in a self-directed manner, or learn over time, which I believe is necessary to navigate the real world. LLM's also really suck at identifying negative-space, or otherwise what is missing from a discussion. They will often fail to mention a critical implementation detail before you ask about it specifically.\n\nI have a more specific opinion about why I believe current models are incapable of anything except for system-1 pattern recognition, but I'm not trying to type that out tonight.",
+                      "2025-11-18T13:48:49.710004"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      3,
+                      "2025-11-18T13:48:49.710004"
+                    ],
+                    [
+                      3,
+                      "2025-11-18T14:00:13.517439"
+                    ],
+                    [
+                      3,
+                      "2025-11-18T14:11:18.039586"
+                    ],
+                    [
+                      3,
+                      "2025-11-18T21:39:15.653952"
+                    ],
+                    [
+                      3,
+                      "2025-11-18T23:33:15.541049"
+                    ],
+                    [
+                      4,
+                      "2025-11-19T01:18:39.320168"
+                    ]
+                  ],
+                  "created_utc": 1763439582.0,
+                  "depth": 3,
+                  "permalink": "/r/MachineLearning/comments/1ozw2tj/d_some_concerns_about_the_current_state_of/npfuser/",
+                  "is_submitter": false,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "npffjui",
+              "parent_id": "t1_npfb0k4",
+              "author": "BrailleBillboard",
+              "text_history": [
+                [
+                  "All your brain ever receives is patterns in sensory nerve impulses, we certainly do not have access to ground truth, Plato's cave allegory is all about this, I think therefore I am was followed immediately by Descartes\" Demon because of such. \n\nYour perceptual experiences are a spare, course grained, symbolic model generative from those sensory nerve patterns. AI is multimodal now, the categorical distinctions you are trying to make here simply are not real.",
+                  "2025-11-18T13:48:49.710004"
+                ]
+              ],
+              "score_history": [
+                [
+                  0,
+                  "2025-11-18T13:48:49.710004"
+                ],
+                [
+                  -1,
+                  "2025-11-18T14:00:13.517439"
+                ],
+                [
+                  -1,
+                  "2025-11-18T14:11:18.039586"
+                ],
+                [
+                  -3,
+                  "2025-11-18T21:39:15.653952"
+                ],
+                [
+                  -2,
+                  "2025-11-18T23:33:15.541049"
+                ],
+                [
+                  -2,
+                  "2025-11-19T01:18:39.320168"
+                ]
+              ],
+              "created_utc": 1763433771.0,
+              "depth": 2,
+              "permalink": "/r/MachineLearning/comments/1ozw2tj/d_some_concerns_about_the_current_state_of/npffjui/",
+              "is_submitter": false,
+              "controversiality": 1,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": [
+                {
+                  "id": "npfoexq",
+                  "parent_id": "t1_npffjui",
+                  "author": "Graumm",
+                  "text_history": [
+                    [
+                      "Ground truth for us is survival, natural selection, and reproduction. A genetic algorithm so to speak. Everything else is derivative from that.\n\nThings like weighing risk and taking actions amidst uncertainty. Acting defensively. Navigating social dynamics. Taking stock of knowns, unknowns, and unknown unknowns. Making working assumptions. Getting clarification or checking your work before you lie, endanger your job, or do something that could harm yourself or somebody else. It all ties back to survival.\n\nSimilarly I don't think we are going to get all that much further with supervised reinforcement learning as long as we have to create reward functions that perfectly describe exactly what the algorithm should be optimizing towards. We need unsupervised methods that can model uncertainty, include better/worse into the learning algo measured against some general reward, and handle sparse rewards.\n\nMultimodal models are impressive but they have the same failings as I've described above. They relate different modalities by availability of data/context, but they can still produce mistakes that normal people would consider common sense. They are only as good as the data we choose to give them, and are very reliant on human curated datasets to patch up their gaps. These efforts will have diminishing returns the same way that LLM's do.  \n  \nImo the biggest missing piece at this moment is a good solution to catastrophic forgetting. Remembering the important stuff, forgetting the redundant stuff. Solving for it opens the door to continuous learning over time / curriculum learning, which leads to self-agency and embodied world models.",
+                      "2025-11-18T13:48:49.710004"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      4,
+                      "2025-11-18T13:48:49.710004"
+                    ],
+                    [
+                      5,
+                      "2025-11-18T14:00:13.517439"
+                    ],
+                    [
+                      5,
+                      "2025-11-18T14:11:18.039586"
+                    ],
+                    [
+                      5,
+                      "2025-11-18T21:39:15.653952"
+                    ],
+                    [
+                      6,
+                      "2025-11-18T23:33:15.541049"
+                    ],
+                    [
+                      5,
+                      "2025-11-19T01:18:39.320168"
+                    ]
+                  ],
+                  "created_utc": 1763437006.0,
+                  "depth": 3,
+                  "permalink": "/r/MachineLearning/comments/1ozw2tj/d_some_concerns_about_the_current_state_of/npfoexq/",
+                  "is_submitter": false,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": []
+                },
+                {
+                  "id": "npfrpt9",
+                  "parent_id": "t1_npffjui",
+                  "author": "interfaceTexture3i25",
+                  "text_history": [
+                    [
+                      "Lmao evolution is the curator here, no such thing with llms",
+                      "2025-11-18T13:48:49.710004"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      2,
+                      "2025-11-18T13:48:49.710004"
+                    ],
+                    [
+                      2,
+                      "2025-11-18T14:00:13.517439"
+                    ],
+                    [
+                      2,
+                      "2025-11-18T14:11:18.039586"
+                    ],
+                    [
+                      3,
+                      "2025-11-18T21:39:15.653952"
+                    ],
+                    [
+                      3,
+                      "2025-11-18T23:33:15.541049"
+                    ],
+                    [
+                      4,
+                      "2025-11-19T01:18:39.320168"
+                    ]
+                  ],
+                  "created_utc": 1763438309.0,
+                  "depth": 3,
+                  "permalink": "/r/MachineLearning/comments/1ozw2tj/d_some_concerns_about_the_current_state_of/npfrpt9/",
+                  "is_submitter": false,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "npginey",
+      "parent_id": "t3_1ozw2tj",
+      "author": "nCoV-pinkbanana-2019",
+      "text_history": [
+        [
+          "This year I saw a paper awarded with the title Best Paper in a conference rated A. It was about constructing the prompt of the LLM by giving it some data points and demonstrated (empirically) that it can do some inference of the data. Ok, cool, but it’s literally this. No math, no technical advancement, just one prompt and some measurements. \n\nI’m about to finish the PhD and I am questioning whether it’s worth pursuing a career in academia, since getting funding without working on the last trend seems impossible",
+          "2025-11-18T13:48:49.710004"
+        ]
+      ],
+      "score_history": [
+        [
+          4,
+          "2025-11-18T13:48:49.710004"
+        ],
+        [
+          5,
+          "2025-11-18T14:00:13.517439"
+        ],
+        [
+          6,
+          "2025-11-18T14:11:18.039586"
+        ],
+        [
+          8,
+          "2025-11-18T21:39:15.653952"
+        ],
+        [
+          7,
+          "2025-11-18T23:33:15.541049"
+        ],
+        [
+          7,
+          "2025-11-19T01:18:39.320168"
+        ]
+      ],
+      "created_utc": 1763451883.0,
+      "depth": 0,
+      "permalink": "/r/MachineLearning/comments/1ozw2tj/d_some_concerns_about_the_current_state_of/npginey/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nper2ha",
+      "parent_id": "t3_1ozw2tj",
+      "author": "AnOnlineHandle",
+      "text_history": [
+        [
+          "New account with no post history, ending with an LLM-like invitation to follow up questions, with heavy use of quotation marks and italics and ultra 'safe' language in a way which reminds me of ChatGPT.\n\nI'm like 80% sure this post itself is just LLM output.",
+          "2025-11-18T13:48:49.710004"
+        ]
+      ],
+      "score_history": [
+        [
+          16,
+          "2025-11-18T13:48:49.710004"
+        ],
+        [
+          17,
+          "2025-11-18T14:00:13.517439"
+        ],
+        [
+          17,
+          "2025-11-18T14:11:18.039586"
+        ],
+        [
+          16,
+          "2025-11-18T21:39:15.653952"
+        ],
+        [
+          16,
+          "2025-11-18T23:33:15.541049"
+        ],
+        [
+          18,
+          "2025-11-19T01:18:39.320168"
+        ]
+      ],
+      "created_utc": 1763425073.0,
+      "depth": 0,
+      "permalink": "/r/MachineLearning/comments/1ozw2tj/d_some_concerns_about_the_current_state_of/nper2ha/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npinaf1",
+          "parent_id": "t1_nper2ha",
+          "author": "periplanomenos_xenos",
+          "text_history": [
+            [
+              "Well, wrong. I'm simply new to Reddit and the usage of italics and quotation marks is just good writing. The question at the end of the post is a way to engage a discussion (which turned out to be quite lively) but to which you do not seem to have anything to contribute.",
+              "2025-11-18T13:48:49.710004"
+            ]
+          ],
+          "score_history": [
+            [
+              2,
+              "2025-11-18T13:48:49.710004"
+            ],
+            [
+              2,
+              "2025-11-18T14:00:13.517439"
+            ],
+            [
+              2,
+              "2025-11-18T14:11:18.039586"
+            ],
+            [
+              3,
+              "2025-11-18T21:39:15.653952"
+            ],
+            [
+              3,
+              "2025-11-18T23:33:15.541049"
+            ],
+            [
+              4,
+              "2025-11-19T01:18:39.320168"
+            ]
+          ],
+          "created_utc": 1763483963.0,
+          "depth": 1,
+          "permalink": "/r/MachineLearning/comments/1ozw2tj/d_some_concerns_about_the_current_state_of/npinaf1/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        },
+        {
+          "id": "npfrfuv",
+          "parent_id": "t1_nper2ha",
+          "author": "XTXinverseXTY",
+          "text_history": [
+            [
+              "I would think that someone who claims to have personally attended several computer vision conferences would have something more constructive to add",
+              "2025-11-18T13:48:49.710004"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T13:48:49.710004"
+            ],
+            [
+              1,
+              "2025-11-18T14:00:13.517439"
+            ],
+            [
+              1,
+              "2025-11-18T14:11:18.039586"
+            ],
+            [
+              1,
+              "2025-11-18T21:39:15.653952"
+            ],
+            [
+              1,
+              "2025-11-18T23:33:15.541049"
+            ],
+            [
+              1,
+              "2025-11-19T01:18:39.320168"
+            ]
+          ],
+          "created_utc": 1763438197.0,
+          "depth": 1,
+          "permalink": "/r/MachineLearning/comments/1ozw2tj/d_some_concerns_about_the_current_state_of/npfrfuv/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npf2gnp",
+      "parent_id": "t3_1ozw2tj",
+      "author": "Objective-Feed7250",
+      "text_history": [
+        [
+          "The ‘herd behavior’ point hits hard. ",
+          "2025-11-18T13:48:49.710004"
+        ]
+      ],
+      "score_history": [
+        [
+          5,
+          "2025-11-18T13:48:49.710004"
+        ],
+        [
+          6,
+          "2025-11-18T14:00:13.517439"
+        ],
+        [
+          4,
+          "2025-11-18T14:11:18.039586"
+        ],
+        [
+          5,
+          "2025-11-18T21:39:15.653952"
+        ],
+        [
+          6,
+          "2025-11-18T23:33:15.541049"
+        ],
+        [
+          6,
+          "2025-11-19T01:18:39.320168"
+        ]
+      ],
+      "created_utc": 1763429113.0,
+      "depth": 0,
+      "permalink": "/r/MachineLearning/comments/1ozw2tj/d_some_concerns_about_the_current_state_of/npf2gnp/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npgoen3",
+      "parent_id": "t3_1ozw2tj",
+      "author": "Oscylator",
+      "text_history": [
+        [
+          "I don't think the premise is entirely true. There is good work being done in the domain flooded by new comers and less than ambitious researches. Let's just mention DeltaNet (Qwen Next, Kimi Linear used it later) and others like LeJEPA, CALM, Nested Learning and many more still trying to push frontier forward.\n\n\nAI is new and prestigious filed to be in. That attracts oportuntist and people without background. Inevetibliy they produce flood of paper of varying quality. That also impacts old crew. When everybody is writing a paper any other week they feel pressure to lower their standards and publish more.\n\n\nIt is a bit funny to read your post not even a week after other person was complaining that ML theory is useless and should just blindly try all combinations and see what sticks.\n\n\nScience is made by people. We're not perfect. The science was not perfect in previous decades and misaligned incentives were allways there. I am not saying there are no problems with how science is done today. I wouldn't go back to university (pay, pressure due to ever decreasing number of students), but that's OK. Maybe there are other avenues of human development other than science that needs those smart people.",
+          "2025-11-18T13:48:49.710004"
+        ]
+      ],
+      "score_history": [
+        [
+          5,
+          "2025-11-18T13:48:49.710004"
+        ],
+        [
+          4,
+          "2025-11-18T14:00:13.517439"
+        ],
+        [
+          5,
+          "2025-11-18T14:11:18.039586"
+        ],
+        [
+          5,
+          "2025-11-18T21:39:15.653952"
+        ],
+        [
+          4,
+          "2025-11-18T23:33:15.541049"
+        ],
+        [
+          5,
+          "2025-11-19T01:18:39.320168"
+        ]
+      ],
+      "created_utc": 1763455452.0,
+      "depth": 0,
+      "permalink": "/r/MachineLearning/comments/1ozw2tj/d_some_concerns_about_the_current_state_of/npgoen3/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npksxie",
+          "parent_id": "t1_npgoen3",
+          "author": "NamerNotLiteral",
+          "text_history": [
+            [
+              "For what it's worth, I'll be doing a PhD next year (soft offer in hand) and my topic, which intersects an ML topic and an HCI topic, is something there is genuinely, and I mean it, *genuinely* absolutely no existing work out there on. There are four papers, three of them from the same author who's currently a Postdoc, on very closely related work (but that's still a step to the side).\n\nIt's not even super niche or anything! It's at the intersection of two very popular topics! I haven't even started working on things properly and I can think of enough research questions to fill four or five papers.\n\nI'm being so cagey *just because* of how much low hanging fruit there is. It's both surprising and so disappointing to me that people aren't working on this problem and instead trying to publish the 36154th paper on beating ImageNet by 0.23% or building the 6000th ultra-niche LLM benchmark.",
+              "2025-11-18T21:39:15.653952"
+            ]
+          ],
+          "score_history": [
+            [
+              2,
+              "2025-11-18T21:39:15.653952"
+            ],
+            [
+              2,
+              "2025-11-18T23:33:15.541049"
+            ],
+            [
+              2,
+              "2025-11-19T01:18:39.320168"
+            ]
+          ],
+          "created_utc": 1763507333.0,
+          "depth": 1,
+          "permalink": "/r/MachineLearning/comments/1ozw2tj/d_some_concerns_about_the_current_state_of/npksxie/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": 1763507816.0,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npeqf7m",
+      "parent_id": "t3_1ozw2tj",
+      "author": "entsnack",
+      "text_history": [
+        [
+          "&gt; it seems that\n\nbased on what, your vibes? or do you have some data to support your claims?",
+          "2025-11-18T13:48:49.710004"
+        ]
+      ],
+      "score_history": [
+        [
+          8,
+          "2025-11-18T13:48:49.710004"
+        ],
+        [
+          7,
+          "2025-11-18T14:00:13.517439"
+        ],
+        [
+          8,
+          "2025-11-18T14:11:18.039586"
+        ],
+        [
+          6,
+          "2025-11-18T21:39:15.653952"
+        ],
+        [
+          7,
+          "2025-11-18T23:33:15.541049"
+        ],
+        [
+          6,
+          "2025-11-19T01:18:39.320168"
+        ]
+      ],
+      "created_utc": 1763424853.0,
+      "depth": 0,
+      "permalink": "/r/MachineLearning/comments/1ozw2tj/d_some_concerns_about_the_current_state_of/npeqf7m/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npinu8p",
+          "parent_id": "t1_npeqf7m",
+          "author": "periplanomenos_xenos",
+          "text_history": [
+            [
+              "I confess that I do not have actual data other than my own observation across multiple research venues and channels, although I'm not the first person to mention such concerns. It would be quite nice actually to study the topic more rigorously though.",
+              "2025-11-18T13:48:49.710004"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T13:48:49.710004"
+            ],
+            [
+              1,
+              "2025-11-18T14:00:13.517439"
+            ],
+            [
+              1,
+              "2025-11-18T14:11:18.039586"
+            ],
+            [
+              2,
+              "2025-11-18T21:39:15.653952"
+            ],
+            [
+              2,
+              "2025-11-18T23:33:15.541049"
+            ],
+            [
+              2,
+              "2025-11-19T01:18:39.320168"
+            ]
+          ],
+          "created_utc": 1763484124.0,
+          "depth": 1,
+          "permalink": "/r/MachineLearning/comments/1ozw2tj/d_some_concerns_about_the_current_state_of/npinu8p/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npgazwp",
+      "parent_id": "t3_1ozw2tj",
+      "author": "NeighborhoodFatCat",
+      "text_history": [
+        [
+          "# Absolutely. Why work on the exact same problem that's simultaneously being worked on by 1000s other people?\n\nAn old professor told me privately this is the result of mediocrity. When you fail or produce shoddy work, you can just point finger and say \"those 1000s of other people haven't solved it either, so....\"",
+          "2025-11-18T13:48:49.710004"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T13:48:49.710004"
+        ],
+        [
+          1,
+          "2025-11-18T14:00:13.517439"
+        ],
+        [
+          1,
+          "2025-11-18T14:11:18.039586"
+        ],
+        [
+          2,
+          "2025-11-18T21:39:15.653952"
+        ],
+        [
+          2,
+          "2025-11-18T23:33:15.541049"
+        ],
+        [
+          2,
+          "2025-11-19T01:18:39.320168"
+        ]
+      ],
+      "created_utc": 1763447504.0,
+      "depth": 0,
+      "permalink": "/r/MachineLearning/comments/1ozw2tj/d_some_concerns_about_the_current_state_of/npgazwp/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npip9gh",
+          "parent_id": "t1_npgazwp",
+          "author": "InternationalMany6",
+          "text_history": [
+            [
+              "And also, “my topic must be valid because 1000 other people are working on it too”",
+              "2025-11-18T13:48:49.710004"
+            ]
+          ],
+          "score_history": [
+            [
+              2,
+              "2025-11-18T13:48:49.710004"
+            ],
+            [
+              2,
+              "2025-11-18T14:00:13.517439"
+            ],
+            [
+              2,
+              "2025-11-18T14:11:18.039586"
+            ],
+            [
+              3,
+              "2025-11-18T21:39:15.653952"
+            ],
+            [
+              3,
+              "2025-11-18T23:33:15.541049"
+            ],
+            [
+              3,
+              "2025-11-19T01:18:39.320168"
+            ]
+          ],
+          "created_utc": 1763484537.0,
+          "depth": 1,
+          "permalink": "/r/MachineLearning/comments/1ozw2tj/d_some_concerns_about_the_current_state_of/npip9gh/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npj0gcv",
+              "parent_id": "t1_npip9gh",
+              "author": "NeighborhoodFatCat",
+              "text_history": [
+                [
+                  "Lmao. Symplectic geometry comes to mind.\n\nThe field was founded on a bunch of questionable results, countless papers later and now it's collapsing.\n\n[https://www.quantamagazine.org/the-fight-to-fix-symplectic-geometry-20170209/](https://www.quantamagazine.org/the-fight-to-fix-symplectic-geometry-20170209/)",
+                  "2025-11-18T13:48:49.710004"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-18T13:48:49.710004"
+                ],
+                [
+                  1,
+                  "2025-11-18T14:00:13.517439"
+                ],
+                [
+                  1,
+                  "2025-11-18T14:11:18.039586"
+                ],
+                [
+                  1,
+                  "2025-11-18T21:39:15.653952"
+                ],
+                [
+                  1,
+                  "2025-11-18T23:33:15.541049"
+                ],
+                [
+                  1,
+                  "2025-11-19T01:18:39.320168"
+                ]
+              ],
+              "created_utc": 1763487843.0,
+              "depth": 2,
+              "permalink": "/r/MachineLearning/comments/1ozw2tj/d_some_concerns_about_the_current_state_of/npj0gcv/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "npf5zf2",
+      "parent_id": "t3_1ozw2tj",
+      "author": "Fresh-Opportunity989",
+      "text_history": [
+        [
+          "\"Science advances from funeral to funeral\" - Max Planck.\n\nThe herd mentality is prevalent in every field, which is why most advances are interdisciplinary.",
+          "2025-11-18T13:48:49.710004"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-18T13:48:49.710004"
+        ],
+        [
+          2,
+          "2025-11-18T14:00:13.517439"
+        ],
+        [
+          2,
+          "2025-11-18T14:11:18.039586"
+        ],
+        [
+          3,
+          "2025-11-18T21:39:15.653952"
+        ],
+        [
+          3,
+          "2025-11-18T23:33:15.541049"
+        ],
+        [
+          4,
+          "2025-11-19T01:18:39.320168"
+        ]
+      ],
+      "created_utc": 1763430400.0,
+      "depth": 0,
+      "permalink": "/r/MachineLearning/comments/1ozw2tj/d_some_concerns_about_the_current_state_of/npf5zf2/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npi5l45",
+      "parent_id": "t3_1ozw2tj",
+      "author": "MoNastri",
+      "text_history": [
+        [
+          "Why is this AI slop upvoted? It's literally content free word salad.",
+          "2025-11-18T13:48:49.710004"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-18T13:48:49.710004"
+        ],
+        [
+          2,
+          "2025-11-18T14:00:13.517439"
+        ],
+        [
+          2,
+          "2025-11-18T14:11:18.039586"
+        ],
+        [
+          2,
+          "2025-11-18T21:39:15.653952"
+        ],
+        [
+          2,
+          "2025-11-18T23:33:15.541049"
+        ],
+        [
+          2,
+          "2025-11-19T01:18:39.320168"
+        ]
+      ],
+      "created_utc": 1763478738.0,
+      "depth": 0,
+      "permalink": "/r/MachineLearning/comments/1ozw2tj/d_some_concerns_about_the_current_state_of/npi5l45/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npeq29d",
+      "parent_id": "t3_1ozw2tj",
+      "author": "thatguydr",
+      "text_history": [
+        [
+          "If you think you know more than all of the super smart people and all of the money... good luck.",
+          "2025-11-18T13:48:49.710004"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-18T13:48:49.710004"
+        ],
+        [
+          2,
+          "2025-11-18T14:00:13.517439"
+        ],
+        [
+          2,
+          "2025-11-18T14:11:18.039586"
+        ],
+        [
+          1,
+          "2025-11-18T21:39:15.653952"
+        ],
+        [
+          1,
+          "2025-11-18T23:33:15.541049"
+        ],
+        [
+          2,
+          "2025-11-19T01:18:39.320168"
+        ]
+      ],
+      "created_utc": 1763424729.0,
+      "depth": 0,
+      "permalink": "/r/MachineLearning/comments/1ozw2tj/d_some_concerns_about_the_current_state_of/npeq29d/",
+      "is_submitter": false,
+      "controversiality": 1,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npfkcdm",
+          "parent_id": "t1_npeq29d",
+          "author": "baddolphin3",
+          "text_history": [
+            [
+              "But it’s true. People need to stop chasing SOTAs competing with Google and actually sit down and think. Most machine learning research is trash nowadays",
+              "2025-11-18T13:48:49.710004"
+            ]
+          ],
+          "score_history": [
+            [
+              0,
+              "2025-11-18T13:48:49.710004"
+            ],
+            [
+              1,
+              "2025-11-18T14:00:13.517439"
+            ],
+            [
+              1,
+              "2025-11-18T14:11:18.039586"
+            ],
+            [
+              0,
+              "2025-11-18T21:39:15.653952"
+            ],
+            [
+              1,
+              "2025-11-18T23:33:15.541049"
+            ],
+            [
+              2,
+              "2025-11-19T01:18:39.320168"
+            ]
+          ],
+          "created_utc": 1763435471.0,
+          "depth": 1,
+          "permalink": "/r/MachineLearning/comments/1ozw2tj/d_some_concerns_about_the_current_state_of/npfkcdm/",
+          "is_submitter": false,
+          "controversiality": 1,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npfmazq",
+              "parent_id": "t1_npfkcdm",
+              "author": "thatguydr",
+              "text_history": [
+                [
+                  "People are doing that. There are literally thousands of universities! Anyone pretending that people are somehow all doing the same thing is a buffoon.",
+                  "2025-11-18T13:48:49.710004"
+                ]
+              ],
+              "score_history": [
+                [
+                  5,
+                  "2025-11-18T13:48:49.710004"
+                ],
+                [
+                  5,
+                  "2025-11-18T14:00:13.517439"
+                ],
+                [
+                  4,
+                  "2025-11-18T14:11:18.039586"
+                ],
+                [
+                  5,
+                  "2025-11-18T21:39:15.653952"
+                ],
+                [
+                  5,
+                  "2025-11-18T23:33:15.541049"
+                ],
+                [
+                  4,
+                  "2025-11-19T01:18:39.320168"
+                ]
+              ],
+              "created_utc": 1763436201.0,
+              "depth": 2,
+              "permalink": "/r/MachineLearning/comments/1ozw2tj/d_some_concerns_about_the_current_state_of/npfmazq/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "nph1fw5",
+      "parent_id": "t3_1ozw2tj",
+      "author": "serge_cell",
+      "text_history": [
+        [
+          "Nothing new here. Think of electorotechnics development on the boundary of XIX - XX centuries. Super high-tech of that time. Mostly experimental engineering with sprinkle of sciense. What is worse now that there is no analog of Maxwell's Equations for DL.",
+          "2025-11-18T13:48:49.710004"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T13:48:49.710004"
+        ],
+        [
+          1,
+          "2025-11-18T14:00:13.517439"
+        ],
+        [
+          1,
+          "2025-11-18T14:11:18.039586"
+        ],
+        [
+          1,
+          "2025-11-18T21:39:15.653952"
+        ],
+        [
+          1,
+          "2025-11-18T23:33:15.541049"
+        ],
+        [
+          1,
+          "2025-11-19T01:18:39.320168"
+        ]
+      ],
+      "created_utc": 1763463508.0,
+      "depth": 0,
+      "permalink": "/r/MachineLearning/comments/1ozw2tj/d_some_concerns_about_the_current_state_of/nph1fw5/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npez5lk",
+      "parent_id": "t3_1ozw2tj",
+      "author": "newperson77777777",
+      "text_history": [
+        [
+          "herd behavior is common but is just representative of the personalities and demographics of the research community as a whole and not something you can really change. There's also deep thinking, which sometimes results in significant breakthroughs, but these types of project are often much more challenging and risky.",
+          "2025-11-18T13:48:49.710004"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T13:48:49.710004"
+        ],
+        [
+          1,
+          "2025-11-18T14:00:13.517439"
+        ],
+        [
+          1,
+          "2025-11-18T14:11:18.039586"
+        ],
+        [
+          1,
+          "2025-11-18T21:39:15.653952"
+        ],
+        [
+          1,
+          "2025-11-18T23:33:15.541049"
+        ],
+        [
+          1,
+          "2025-11-19T01:18:39.320168"
+        ]
+      ],
+      "created_utc": 1763427907.0,
+      "depth": 0,
+      "permalink": "/r/MachineLearning/comments/1ozw2tj/d_some_concerns_about_the_current_state_of/npez5lk/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npequjx",
+      "parent_id": "t3_1ozw2tj",
+      "author": "No_Elk7432",
+      "text_history": [
+        [
+          "What would you say is the end goal of machine learning research? I would argue that it doesn't really have one, it's borrowing applications from other disciplines.",
+          "2025-11-18T13:48:49.710004"
+        ]
+      ],
+      "score_history": [
+        [
+          -2,
+          "2025-11-18T13:48:49.710004"
+        ],
+        [
+          -2,
+          "2025-11-18T14:00:13.517439"
+        ],
+        [
+          -2,
+          "2025-11-18T14:11:18.039586"
+        ],
+        [
+          -2,
+          "2025-11-18T21:39:15.653952"
+        ],
+        [
+          -2,
+          "2025-11-18T23:33:15.541049"
+        ],
+        [
+          -2,
+          "2025-11-19T01:18:39.320168"
+        ]
+      ],
+      "created_utc": 1763424998.0,
+      "depth": 0,
+      "permalink": "/r/MachineLearning/comments/1ozw2tj/d_some_concerns_about_the_current_state_of/npequjx/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T01:18:39.320168",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/MachineLearning/comments/1ozw2tj/d_some_concerns_about_the_current_state_of/",
+    "total_comments": 29,
+    "top_level_comments": 14,
+    "api_requests": 1,
+    "expected_comments": 36,
+    "coverage_percent": 80.56,
+    "merged_snapshot_count": 6,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_134849.json",
+      "scrape_002_20251118_140013.json",
+      "scrape_003_20251118_141117.json",
+      "scrape_004_20251118_213915.json",
+      "scrape_005_20251118_233315.json",
+      "scrape_006_20251119_011838.json"
+    ]
+  }
+}

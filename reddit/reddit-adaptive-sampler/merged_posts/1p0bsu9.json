@@ -1,0 +1,258 @@
+{
+  "post": {
+    "id": "1p0bsu9",
+    "title": "How do you evaluate LLM outputs? Looking for beginner-friendly tools",
+    "author": "IOnlyDrinkWater_22",
+    "score_history": [
+      [
+        2,
+        "2025-11-18T13:48:57.304401"
+      ],
+      [
+        2,
+        "2025-11-18T14:00:17.573720"
+      ],
+      [
+        2,
+        "2025-11-18T14:11:25.053640"
+      ],
+      [
+        3,
+        "2025-11-18T21:39:19.266298"
+      ],
+      [
+        4,
+        "2025-11-18T23:24:20.959031"
+      ],
+      [
+        5,
+        "2025-11-19T01:08:31.248250"
+      ],
+      [
+        4,
+        "2025-11-19T02:22:46.559027"
+      ],
+      [
+        6,
+        "2025-11-19T02:34:31.625474"
+      ],
+      [
+        4,
+        "2025-11-19T02:44:04.683212"
+      ],
+      [
+        4,
+        "2025-11-19T02:45:51.970177"
+      ]
+    ],
+    "created_utc": 1763472177.0,
+    "num_comments": 4,
+    "subreddit": "learnmachinelearning",
+    "url": "https://www.reddit.com/r/learnmachinelearning/comments/1p0bsu9/how_do_you_evaluate_llm_outputs_looking_for/",
+    "selftext": "I'm working on an LLM project and realized I need a systematic way to evaluate outputs beyond just eyeballing them. I've been reading about evaluation frameworks and came across Giskard and Rhesis as open-source options.\n\nFrom what I understand:\n\nGiskard seems more batteries-included with pre-built test suites\nRhesis is more modular and lets you combine different metric libraries\n\nFor those learning to evaluate LLMs:\n\nHow did you approach evaluation when starting out?\nDid you use a framework or build custom metrics?\nWhat would you recommend for someone getting started?\nI'm trying to avoid over-engineering this early on, but also want to establish good practices. Any advice or experiences welcome!",
+    "permalink": "/r/learnmachinelearning/comments/1p0bsu9/how_do_you_evaluate_llm_outputs_looking_for/"
+  },
+  "comments": [
+    {
+      "id": "npjfz2l",
+      "parent_id": "t3_1p0bsu9",
+      "author": "tiikki",
+      "text_history": [
+        [
+          "I have a lot easier task of evaluating numerical tabular data and I've spent more time on trying to figure it out than building and training the actual model.  \nAll published stuff is bad for a reason or another for my purposes.\n\nFirst you need to consider what is your goal?  \nCan it be achieved at all with LLMs with their inherent incapability to adhere to facts and reproduce all relevant facts?",
+          "2025-11-18T13:48:57.304401"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T13:48:57.304401"
+        ],
+        [
+          1,
+          "2025-11-18T14:00:17.573720"
+        ],
+        [
+          1,
+          "2025-11-18T14:11:25.053640"
+        ],
+        [
+          1,
+          "2025-11-18T21:39:19.266298"
+        ],
+        [
+          1,
+          "2025-11-18T23:24:20.959031"
+        ],
+        [
+          1,
+          "2025-11-19T01:08:31.248250"
+        ],
+        [
+          1,
+          "2025-11-19T02:22:46.559027"
+        ],
+        [
+          1,
+          "2025-11-19T02:34:31.625474"
+        ],
+        [
+          1,
+          "2025-11-19T02:44:04.683212"
+        ],
+        [
+          1,
+          "2025-11-19T02:45:51.970177"
+        ]
+      ],
+      "created_utc": 1763492301.0,
+      "depth": 0,
+      "permalink": "/r/learnmachinelearning/comments/1p0bsu9/how_do_you_evaluate_llm_outputs_looking_for/npjfz2l/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npnbvwr",
+          "parent_id": "t1_npjfz2l",
+          "author": "IOnlyDrinkWater_22",
+          "text_history": [
+            [
+              "I watched the Rhesis demo on their page, really liked what I saw and decided to go schedule a call and try them out.",
+              "2025-11-19T02:34:31.625474"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-19T02:34:31.625474"
+            ],
+            [
+              1,
+              "2025-11-19T02:44:04.683212"
+            ],
+            [
+              1,
+              "2025-11-19T02:45:51.970177"
+            ]
+          ],
+          "created_utc": 1763548150.0,
+          "depth": 1,
+          "permalink": "/r/learnmachinelearning/comments/1p0bsu9/how_do_you_evaluate_llm_outputs_looking_for/npnbvwr/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npn196o",
+      "parent_id": "t3_1p0bsu9",
+      "author": "DataCamp",
+      "text_history": [
+        [
+          "A good place to start is with a simple, structured framework that lets you test and compare outputs without needing to build everything from scratch. When evaluating LLMs, focus on three areas: accuracy (does the output match expectations or references?), coherence (is it logical and fluent?), and factuality (is it correct?).\n\nBeginner-friendly tools like Giskard are great because they automate these checks and let you define custom metrics as you grow. You can also log and visualize results using MLflow or Weights &amp; Biases, which help track performance across iterations.\n\nIf you’re new to evaluation, start small, pick a few test cases, score outputs manually, and then scale up using frameworks. Once you’re comfortable, you can explore deeper metrics like BLEU, ROUGE, and perplexity for more formal benchmarking.",
+          "2025-11-19T01:08:31.248250"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T01:08:31.248250"
+        ],
+        [
+          1,
+          "2025-11-19T02:22:46.559027"
+        ],
+        [
+          1,
+          "2025-11-19T02:34:31.625474"
+        ],
+        [
+          1,
+          "2025-11-19T02:44:04.683212"
+        ],
+        [
+          1,
+          "2025-11-19T02:45:51.970177"
+        ]
+      ],
+      "created_utc": 1763541533.0,
+      "depth": 0,
+      "permalink": "/r/learnmachinelearning/comments/1p0bsu9/how_do_you_evaluate_llm_outputs_looking_for/npn196o/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npnbt0r",
+          "parent_id": "t1_npn196o",
+          "author": "IOnlyDrinkWater_22",
+          "text_history": [
+            [
+              "We scheduled a call with the guys from Rhesis, let's see how that works out.",
+              "2025-11-19T02:34:31.625474"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-19T02:34:31.625474"
+            ],
+            [
+              1,
+              "2025-11-19T02:44:04.683212"
+            ],
+            [
+              1,
+              "2025-11-19T02:45:51.970177"
+            ]
+          ],
+          "created_utc": 1763548103.0,
+          "depth": 1,
+          "permalink": "/r/learnmachinelearning/comments/1p0bsu9/how_do_you_evaluate_llm_outputs_looking_for/npnbt0r/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T02:45:51.970177",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/learnmachinelearning/comments/1p0bsu9/how_do_you_evaluate_llm_outputs_looking_for/",
+    "total_comments": 4,
+    "top_level_comments": 2,
+    "api_requests": 1,
+    "expected_comments": 4,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 10,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_134857.json",
+      "scrape_002_20251118_140017.json",
+      "scrape_003_20251118_141124.json",
+      "scrape_004_20251118_213919.json",
+      "scrape_005_20251118_232420.json",
+      "scrape_006_20251119_010831.json",
+      "scrape_007_20251119_022246.json",
+      "scrape_008_20251119_023431.json",
+      "scrape_009_20251119_024404.json",
+      "scrape_010_20251119_024551.json"
+    ]
+  }
+}

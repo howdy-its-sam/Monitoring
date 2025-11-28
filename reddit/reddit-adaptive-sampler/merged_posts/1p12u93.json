@@ -1,0 +1,147 @@
+{
+  "post": {
+    "id": "1p12u93",
+    "title": "Cloudflare outage on November 18, 2025",
+    "author": "syswraith",
+    "score_history": [
+      [
+        3,
+        "2025-11-19T04:01:49.301415"
+      ],
+      [
+        3,
+        "2025-11-19T04:03:10.740440"
+      ],
+      [
+        3,
+        "2025-11-19T04:10:00.801341"
+      ],
+      [
+        3,
+        "2025-11-19T04:11:56.118117"
+      ],
+      [
+        3,
+        "2025-11-19T04:12:35.439687"
+      ],
+      [
+        3,
+        "2025-11-19T04:21:24.495848"
+      ]
+    ],
+    "created_utc": 1763543577.0,
+    "num_comments": 2,
+    "subreddit": "cybersecurity",
+    "url": "https://blog.cloudflare.com/18-november-2025-outage/",
+    "selftext": "",
+    "permalink": "/r/cybersecurity/comments/1p12u93/cloudflare_outage_on_november_18_2025/"
+  },
+  "comments": [
+    {
+      "id": "npn7ilq",
+      "parent_id": "t3_1p12u93",
+      "author": "No_Professional_4130",
+      "text_history": [
+        [
+          "I love the fact that they thought it might be some hyper-scale DDOS attack, but it was in fact just a file XD",
+          "2025-11-19T04:01:49.301415"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T04:01:49.301415"
+        ],
+        [
+          1,
+          "2025-11-19T04:03:10.740440"
+        ],
+        [
+          1,
+          "2025-11-19T04:10:00.801341"
+        ],
+        [
+          1,
+          "2025-11-19T04:11:56.118117"
+        ],
+        [
+          1,
+          "2025-11-19T04:12:35.439687"
+        ],
+        [
+          1,
+          "2025-11-19T04:21:24.495848"
+        ]
+      ],
+      "created_utc": 1763545492.0,
+      "depth": 0,
+      "permalink": "/r/cybersecurity/comments/1p12u93/cloudflare_outage_on_november_18_2025/npn7ilq/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npnn6np",
+          "parent_id": "t1_npn7ilq",
+          "author": "RaymondBumcheese",
+          "text_history": [
+            [
+              "One file that took out half the internet and ground the other half down to a crawl. Monopolies are awesome.",
+              "2025-11-19T04:10:00.801341"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-19T04:10:00.801341"
+            ],
+            [
+              1,
+              "2025-11-19T04:11:56.118117"
+            ],
+            [
+              1,
+              "2025-11-19T04:12:35.439687"
+            ],
+            [
+              1,
+              "2025-11-19T04:21:24.495848"
+            ]
+          ],
+          "created_utc": 1763554147.0,
+          "depth": 1,
+          "permalink": "/r/cybersecurity/comments/1p12u93/cloudflare_outage_on_november_18_2025/npnn6np/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T04:21:24.495848",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/cybersecurity/comments/1p12u93/cloudflare_outage_on_november_18_2025/",
+    "total_comments": 2,
+    "top_level_comments": 1,
+    "api_requests": 1,
+    "expected_comments": 2,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 6,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_040148.json",
+      "scrape_002_20251119_040310.json",
+      "scrape_003_20251119_041000.json",
+      "scrape_004_20251119_041155.json",
+      "scrape_005_20251119_041235.json",
+      "scrape_006_20251119_042124.json"
+    ]
+  }
+}

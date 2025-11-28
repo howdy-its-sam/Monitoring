@@ -1,0 +1,1444 @@
+{
+  "post": {
+    "id": "19ffgxe",
+    "title": "Nobody should use LLMs without knowing exactly how they work",
+    "author": "oja9f9w",
+    "score_history": [
+      [
+        0,
+        "2025-11-18T13:49:31.222581"
+      ],
+      [
+        0,
+        "2025-11-18T14:00:42.323564"
+      ],
+      [
+        0,
+        "2025-11-18T14:12:04.668103"
+      ],
+      [
+        0,
+        "2025-11-18T21:39:17.899631"
+      ],
+      [
+        0,
+        "2025-11-18T23:24:13.320429"
+      ],
+      [
+        0,
+        "2025-11-19T01:08:30.000979"
+      ]
+    ],
+    "created_utc": 1706205630.0,
+    "num_comments": 29,
+    "subreddit": "compling",
+    "url": "https://www.reddit.com/r/compling/comments/19ffgxe/nobody_should_use_llms_without_knowing_exactly/",
+    "selftext": "99% of people using LLMs to develop shit have no clue how they work. That's bullshit. What if you didn't know how a chainsaw worked and you tried to use one? You'd slice off your damn arm. So you learn how it works before you ever pick one up and turn it on.\n\nWell it should be the same for LLMs. Everyoone who wants to use one should first need to build one from scratch. That means learn what a transformer model is and learn all the machine learning theory and math behind it, and program the gradients and cost functions and lambda functions and softmax hyper-regressions and whatever the hell else is involved in it. Don't just go \"call LLM endpoint, give prompt, get output\" you don't know what the hell you're even doing.",
+    "permalink": "/r/compling/comments/19ffgxe/nobody_should_use_llms_without_knowing_exactly/"
+  },
+  "comments": [
+    {
+      "id": "kjjefxn",
+      "parent_id": "t3_19ffgxe",
+      "author": "SirVelociraptor",
+      "text_history": [
+        [
+          "Counter-argument: I have no idea how a chainsaw works beyond basic principles of combustion engine design. I couldn't make one from scratch right now if I tried, and it would take a large amount of time learning engineering and a large amount of money obtaining the machining tools needed to make one.\n\nThat said, I have successfully used chainsaws an uncounted number of times and still have all my limbs, because I *do* understand **how to safely interact with one** and **what it's appropriate uses are**.\n\nThis is true of almost every single complicated piece of machinery I use in everyday life, like my car or the computer I'm using to respond to you. In fact, by your argument, you shouldn't be using your computer or phone to post this unless you can build one yourself.",
+          "2025-11-18T13:49:31.222581"
+        ]
+      ],
+      "score_history": [
+        [
+          48,
+          "2025-11-18T13:49:31.222581"
+        ],
+        [
+          48,
+          "2025-11-18T14:00:42.323564"
+        ],
+        [
+          47,
+          "2025-11-18T14:12:04.668103"
+        ],
+        [
+          47,
+          "2025-11-18T21:39:17.899631"
+        ],
+        [
+          48,
+          "2025-11-18T23:24:13.320429"
+        ],
+        [
+          49,
+          "2025-11-19T01:08:30.000979"
+        ]
+      ],
+      "created_utc": 1706207260.0,
+      "depth": 0,
+      "permalink": "/r/compling/comments/19ffgxe/nobody_should_use_llms_without_knowing_exactly/kjjefxn/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "kjjx9b1",
+      "parent_id": "t3_19ffgxe",
+      "author": "[deleted]",
+      "text_history": [
+        [
+          "I assume you have a perfect understanding of how an airplane works, or you know, electricity.",
+          "2025-11-18T13:49:31.222581"
+        ]
+      ],
+      "score_history": [
+        [
+          15,
+          "2025-11-18T13:49:31.222581"
+        ],
+        [
+          16,
+          "2025-11-18T14:00:42.323564"
+        ],
+        [
+          16,
+          "2025-11-18T14:12:04.668103"
+        ],
+        [
+          15,
+          "2025-11-18T21:39:17.899631"
+        ],
+        [
+          17,
+          "2025-11-18T23:24:13.320429"
+        ],
+        [
+          15,
+          "2025-11-19T01:08:30.000979"
+        ]
+      ],
+      "created_utc": 1706213497.0,
+      "depth": 0,
+      "permalink": "/r/compling/comments/19ffgxe/nobody_should_use_llms_without_knowing_exactly/kjjx9b1/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "kjjysxf",
+          "parent_id": "t1_kjjx9b1",
+          "author": "oja9f9w",
+          "text_history": [
+            [
+              "No but I'd be damn sure I knew how a plane worked before I tried flying one. This is exactly like flying a plane without any training as a pilot.",
+              "2025-11-18T13:49:31.222581"
+            ]
+          ],
+          "score_history": [
+            [
+              -6,
+              "2025-11-18T13:49:31.222581"
+            ],
+            [
+              -9,
+              "2025-11-18T14:00:42.323564"
+            ],
+            [
+              -8,
+              "2025-11-18T14:12:04.668103"
+            ],
+            [
+              -7,
+              "2025-11-18T21:39:17.899631"
+            ],
+            [
+              -7,
+              "2025-11-18T23:24:13.320429"
+            ],
+            [
+              -6,
+              "2025-11-19T01:08:30.000979"
+            ]
+          ],
+          "created_utc": 1706214013.0,
+          "depth": 1,
+          "permalink": "/r/compling/comments/19ffgxe/nobody_should_use_llms_without_knowing_exactly/kjjysxf/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "kjk4b43",
+              "parent_id": "t1_kjjysxf",
+              "author": "[deleted]",
+              "text_history": [
+                [
+                  "Except, it's nothing like flying a plane. And no, the equivalent would be being a passenger. The pilots are the companies creating and deploying these models.",
+                  "2025-11-18T13:49:31.222581"
+                ]
+              ],
+              "score_history": [
+                [
+                  13,
+                  "2025-11-18T13:49:31.222581"
+                ],
+                [
+                  12,
+                  "2025-11-18T14:00:42.323564"
+                ],
+                [
+                  13,
+                  "2025-11-18T14:12:04.668103"
+                ],
+                [
+                  12,
+                  "2025-11-18T21:39:17.899631"
+                ],
+                [
+                  13,
+                  "2025-11-18T23:24:13.320429"
+                ],
+                [
+                  12,
+                  "2025-11-19T01:08:30.000979"
+                ]
+              ],
+              "created_utc": 1706215842.0,
+              "depth": 2,
+              "permalink": "/r/compling/comments/19ffgxe/nobody_should_use_llms_without_knowing_exactly/kjk4b43/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": [
+                {
+                  "id": "kjkcktv",
+                  "parent_id": "t1_kjk4b43",
+                  "author": "oja9f9w",
+                  "text_history": [
+                    [
+                      "The equivalent is flying the plane. You can't develop a new software product using an LLM if you have no idea how the LLM works. You'll slice off your arm doing that.",
+                      "2025-11-18T13:49:31.222581"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      -5,
+                      "2025-11-18T13:49:31.222581"
+                    ],
+                    [
+                      -6,
+                      "2025-11-18T14:00:42.323564"
+                    ],
+                    [
+                      -7,
+                      "2025-11-18T14:12:04.668103"
+                    ],
+                    [
+                      -8,
+                      "2025-11-18T21:39:17.899631"
+                    ],
+                    [
+                      -8,
+                      "2025-11-18T23:24:13.320429"
+                    ],
+                    [
+                      -7,
+                      "2025-11-19T01:08:30.000979"
+                    ]
+                  ],
+                  "created_utc": 1706218704.0,
+                  "depth": 3,
+                  "permalink": "/r/compling/comments/19ffgxe/nobody_should_use_llms_without_knowing_exactly/kjkcktv/",
+                  "is_submitter": true,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kjjnf7t",
+      "parent_id": "t3_19ffgxe",
+      "author": "GirlLunarExplorer",
+      "text_history": [
+        [
+          "What a dumb take.",
+          "2025-11-18T13:49:31.222581"
+        ]
+      ],
+      "score_history": [
+        [
+          23,
+          "2025-11-18T13:49:31.222581"
+        ],
+        [
+          22,
+          "2025-11-18T14:00:42.323564"
+        ],
+        [
+          23,
+          "2025-11-18T14:12:04.668103"
+        ],
+        [
+          24,
+          "2025-11-18T21:39:17.899631"
+        ],
+        [
+          21,
+          "2025-11-18T23:24:13.320429"
+        ],
+        [
+          24,
+          "2025-11-19T01:08:30.000979"
+        ]
+      ],
+      "created_utc": 1706210235.0,
+      "depth": 0,
+      "permalink": "/r/compling/comments/19ffgxe/nobody_should_use_llms_without_knowing_exactly/kjjnf7t/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "kjjojgx",
+          "parent_id": "t1_kjjnf7t",
+          "author": "oja9f9w",
+          "text_history": [
+            [
+              "You",
+              "2025-11-18T13:49:31.222581"
+            ]
+          ],
+          "score_history": [
+            [
+              -16,
+              "2025-11-18T13:49:31.222581"
+            ],
+            [
+              -14,
+              "2025-11-18T14:00:42.323564"
+            ],
+            [
+              -14,
+              "2025-11-18T14:12:04.668103"
+            ],
+            [
+              -13,
+              "2025-11-18T21:39:17.899631"
+            ],
+            [
+              -14,
+              "2025-11-18T23:24:13.320429"
+            ],
+            [
+              -13,
+              "2025-11-19T01:08:30.000979"
+            ]
+          ],
+          "created_utc": 1706210602.0,
+          "depth": 1,
+          "permalink": "/r/compling/comments/19ffgxe/nobody_should_use_llms_without_knowing_exactly/kjjojgx/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "kjl920f",
+      "parent_id": "t3_19ffgxe",
+      "author": "forwormsbravepercy",
+      "text_history": [
+        [
+          "I don’t know how pretty much anything I use works.",
+          "2025-11-18T13:49:31.222581"
+        ]
+      ],
+      "score_history": [
+        [
+          6,
+          "2025-11-18T13:49:31.222581"
+        ],
+        [
+          7,
+          "2025-11-18T14:00:42.323564"
+        ],
+        [
+          6,
+          "2025-11-18T14:12:04.668103"
+        ],
+        [
+          7,
+          "2025-11-18T21:39:17.899631"
+        ],
+        [
+          7,
+          "2025-11-18T23:24:13.320429"
+        ],
+        [
+          7,
+          "2025-11-19T01:08:30.000979"
+        ]
+      ],
+      "created_utc": 1706230818.0,
+      "depth": 0,
+      "permalink": "/r/compling/comments/19ffgxe/nobody_should_use_llms_without_knowing_exactly/kjl920f/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "kjlkiew",
+          "parent_id": "t1_kjl920f",
+          "author": "oja9f9w",
+          "text_history": [
+            [
+              "Do you use a knife? Do you not know how knives work? So are you constantly cutting your fingers off?\n\nSeriously you wouldn't use a knife without knowing how knives work, so you shouldn't be using an LLM without knowing how LLMs work.",
+              "2025-11-18T13:49:31.222581"
+            ]
+          ],
+          "score_history": [
+            [
+              -5,
+              "2025-11-18T13:49:31.222581"
+            ],
+            [
+              -5,
+              "2025-11-18T14:00:42.323564"
+            ],
+            [
+              -5,
+              "2025-11-18T14:12:04.668103"
+            ],
+            [
+              -3,
+              "2025-11-18T21:39:17.899631"
+            ],
+            [
+              -4,
+              "2025-11-18T23:24:13.320429"
+            ],
+            [
+              -6,
+              "2025-11-19T01:08:30.000979"
+            ]
+          ],
+          "created_utc": 1706235381.0,
+          "depth": 1,
+          "permalink": "/r/compling/comments/19ffgxe/nobody_should_use_llms_without_knowing_exactly/kjlkiew/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "kjllmr8",
+              "parent_id": "t1_kjlkiew",
+              "author": "forwormsbravepercy",
+              "text_history": [
+                [
+                  "I don’t know how a car works. I use one. I don’t understand the point you’re trying to make.",
+                  "2025-11-18T13:49:31.222581"
+                ]
+              ],
+              "score_history": [
+                [
+                  8,
+                  "2025-11-18T13:49:31.222581"
+                ],
+                [
+                  9,
+                  "2025-11-18T14:00:42.323564"
+                ],
+                [
+                  7,
+                  "2025-11-18T14:12:04.668103"
+                ],
+                [
+                  8,
+                  "2025-11-18T21:39:17.899631"
+                ],
+                [
+                  8,
+                  "2025-11-18T23:24:13.320429"
+                ],
+                [
+                  8,
+                  "2025-11-19T01:08:30.000979"
+                ]
+              ],
+              "created_utc": 1706235821.0,
+              "depth": 2,
+              "permalink": "/r/compling/comments/19ffgxe/nobody_should_use_llms_without_knowing_exactly/kjllmr8/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": [
+                {
+                  "id": "kjlmko1",
+                  "parent_id": "t1_kjllmr8",
+                  "author": "oja9f9w",
+                  "text_history": [
+                    [
+                      "You know enough about how a car works to drive one. If you knew nothing about how a car worked you wouldn't be able to drive it. Using an LLM without knowing anything about LLMs is like trying to drive a car when you've never learned anything about what the pedals are or what the different gears are or what P or N or D or R mean, or what a road or a lane is. You might as well get behind a wheel without knowing any of that if you're going to use an LLM without knowing anything about how any of it works.",
+                      "2025-11-18T13:49:31.222581"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      -3,
+                      "2025-11-18T13:49:31.222581"
+                    ],
+                    [
+                      -4,
+                      "2025-11-18T14:00:42.323564"
+                    ],
+                    [
+                      -3,
+                      "2025-11-18T14:12:04.668103"
+                    ],
+                    [
+                      -3,
+                      "2025-11-18T21:39:17.899631"
+                    ],
+                    [
+                      -2,
+                      "2025-11-18T23:24:13.320429"
+                    ],
+                    [
+                      -4,
+                      "2025-11-19T01:08:30.000979"
+                    ]
+                  ],
+                  "created_utc": 1706236200.0,
+                  "depth": 3,
+                  "permalink": "/r/compling/comments/19ffgxe/nobody_should_use_llms_without_knowing_exactly/kjlmko1/",
+                  "is_submitter": true,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kjky9zw",
+      "parent_id": "t3_19ffgxe",
+      "author": "Longjumping-Owl-2981",
+      "text_history": [
+        [
+          "OP how old are you?",
+          "2025-11-18T13:49:31.222581"
+        ]
+      ],
+      "score_history": [
+        [
+          13,
+          "2025-11-18T13:49:31.222581"
+        ],
+        [
+          13,
+          "2025-11-18T14:00:42.323564"
+        ],
+        [
+          13,
+          "2025-11-18T14:12:04.668103"
+        ],
+        [
+          13,
+          "2025-11-18T21:39:17.899631"
+        ],
+        [
+          14,
+          "2025-11-18T23:24:13.320429"
+        ],
+        [
+          12,
+          "2025-11-19T01:08:30.000979"
+        ]
+      ],
+      "created_utc": 1706226590.0,
+      "depth": 0,
+      "permalink": "/r/compling/comments/19ffgxe/nobody_should_use_llms_without_knowing_exactly/kjky9zw/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "kjkyg86",
+          "parent_id": "t1_kjky9zw",
+          "author": "oja9f9w",
+          "text_history": [
+            [
+              "Is that relevant?",
+              "2025-11-18T13:49:31.222581"
+            ]
+          ],
+          "score_history": [
+            [
+              -5,
+              "2025-11-18T13:49:31.222581"
+            ],
+            [
+              -5,
+              "2025-11-18T14:00:42.323564"
+            ],
+            [
+              -4,
+              "2025-11-18T14:12:04.668103"
+            ],
+            [
+              -8,
+              "2025-11-18T21:39:17.899631"
+            ],
+            [
+              -6,
+              "2025-11-18T23:24:13.320429"
+            ],
+            [
+              -5,
+              "2025-11-19T01:08:30.000979"
+            ]
+          ],
+          "created_utc": 1706226654.0,
+          "depth": 1,
+          "permalink": "/r/compling/comments/19ffgxe/nobody_should_use_llms_without_knowing_exactly/kjkyg86/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "kjkykkb",
+              "parent_id": "t1_kjkyg86",
+              "author": "Longjumping-Owl-2981",
+              "text_history": [
+                [
+                  "Very",
+                  "2025-11-18T13:49:31.222581"
+                ]
+              ],
+              "score_history": [
+                [
+                  12,
+                  "2025-11-18T13:49:31.222581"
+                ],
+                [
+                  12,
+                  "2025-11-18T14:00:42.323564"
+                ],
+                [
+                  12,
+                  "2025-11-18T14:12:04.668103"
+                ],
+                [
+                  12,
+                  "2025-11-18T21:39:17.899631"
+                ],
+                [
+                  12,
+                  "2025-11-18T23:24:13.320429"
+                ],
+                [
+                  11,
+                  "2025-11-19T01:08:30.000979"
+                ]
+              ],
+              "created_utc": 1706226699.0,
+              "depth": 2,
+              "permalink": "/r/compling/comments/19ffgxe/nobody_should_use_llms_without_knowing_exactly/kjkykkb/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": [
+                {
+                  "id": "kjkyzzl",
+                  "parent_id": "t1_kjkykkb",
+                  "author": "oja9f9w",
+                  "text_history": [
+                    [
+                      "Why, bitch?",
+                      "2025-11-18T13:49:31.222581"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      -11,
+                      "2025-11-18T13:49:31.222581"
+                    ],
+                    [
+                      -10,
+                      "2025-11-18T14:00:42.323564"
+                    ],
+                    [
+                      -11,
+                      "2025-11-18T14:12:04.668103"
+                    ],
+                    [
+                      -10,
+                      "2025-11-18T21:39:17.899631"
+                    ],
+                    [
+                      -12,
+                      "2025-11-18T23:24:13.320429"
+                    ],
+                    [
+                      -11,
+                      "2025-11-19T01:08:30.000979"
+                    ]
+                  ],
+                  "created_utc": 1706226857.0,
+                  "depth": 3,
+                  "permalink": "/r/compling/comments/19ffgxe/nobody_should_use_llms_without_knowing_exactly/kjkyzzl/",
+                  "is_submitter": true,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": [
+                    {
+                      "id": "kjllr09",
+                      "parent_id": "t1_kjkyzzl",
+                      "author": "forwormsbravepercy",
+                      "text_history": [
+                        [
+                          "Because you’re 15.",
+                          "2025-11-18T13:49:31.222581"
+                        ]
+                      ],
+                      "score_history": [
+                        [
+                          8,
+                          "2025-11-18T13:49:31.222581"
+                        ],
+                        [
+                          8,
+                          "2025-11-18T14:00:42.323564"
+                        ],
+                        [
+                          8,
+                          "2025-11-18T14:12:04.668103"
+                        ],
+                        [
+                          9,
+                          "2025-11-18T21:39:17.899631"
+                        ],
+                        [
+                          9,
+                          "2025-11-18T23:24:13.320429"
+                        ],
+                        [
+                          8,
+                          "2025-11-19T01:08:30.000979"
+                        ]
+                      ],
+                      "created_utc": 1706235869.0,
+                      "depth": 4,
+                      "permalink": "/r/compling/comments/19ffgxe/nobody_should_use_llms_without_knowing_exactly/kjllr09/",
+                      "is_submitter": false,
+                      "controversiality": 0,
+                      "gilded": 0,
+                      "edited": false,
+                      "deleted": false,
+                      "deleted_at": null,
+                      "replies": [
+                        {
+                          "id": "kjlmm0t",
+                          "parent_id": "t1_kjllr09",
+                          "author": "oja9f9w",
+                          "text_history": [
+                            [
+                              "And you're YOUR MOM.",
+                              "2025-11-18T13:49:31.222581"
+                            ]
+                          ],
+                          "score_history": [
+                            [
+                              -2,
+                              "2025-11-18T13:49:31.222581"
+                            ],
+                            [
+                              -5,
+                              "2025-11-18T14:00:42.323564"
+                            ],
+                            [
+                              -3,
+                              "2025-11-18T14:12:04.668103"
+                            ],
+                            [
+                              -4,
+                              "2025-11-18T21:39:17.899631"
+                            ],
+                            [
+                              -5,
+                              "2025-11-18T23:24:13.320429"
+                            ],
+                            [
+                              -3,
+                              "2025-11-19T01:08:30.000979"
+                            ]
+                          ],
+                          "created_utc": 1706236215.0,
+                          "depth": 5,
+                          "permalink": "/r/compling/comments/19ffgxe/nobody_should_use_llms_without_knowing_exactly/kjlmm0t/",
+                          "is_submitter": true,
+                          "controversiality": 0,
+                          "gilded": 0,
+                          "edited": false,
+                          "deleted": false,
+                          "deleted_at": null,
+                          "replies": [
+                            {
+                              "id": "kjlnlfj",
+                              "parent_id": "t1_kjlmm0t",
+                              "author": "forwormsbravepercy",
+                              "text_history": [
+                                [
+                                  "No, I’m your dad. It’s me, son.",
+                                  "2025-11-18T13:49:31.222581"
+                                ]
+                              ],
+                              "score_history": [
+                                [
+                                  7,
+                                  "2025-11-18T13:49:31.222581"
+                                ],
+                                [
+                                  8,
+                                  "2025-11-18T14:00:42.323564"
+                                ],
+                                [
+                                  9,
+                                  "2025-11-18T14:12:04.668103"
+                                ],
+                                [
+                                  8,
+                                  "2025-11-18T21:39:17.899631"
+                                ],
+                                [
+                                  9,
+                                  "2025-11-18T23:24:13.320429"
+                                ],
+                                [
+                                  8,
+                                  "2025-11-19T01:08:30.000979"
+                                ]
+                              ],
+                              "created_utc": 1706236614.0,
+                              "depth": 6,
+                              "permalink": "/r/compling/comments/19ffgxe/nobody_should_use_llms_without_knowing_exactly/kjlnlfj/",
+                              "is_submitter": false,
+                              "controversiality": 0,
+                              "gilded": 0,
+                              "edited": false,
+                              "deleted": false,
+                              "deleted_at": null,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kjk8ccu",
+      "parent_id": "t3_19ffgxe",
+      "author": "pengo",
+      "text_history": [
+        [
+          "They're black boxes. People who know how they work still don't know how they work.",
+          "2025-11-18T13:49:31.222581"
+        ]
+      ],
+      "score_history": [
+        [
+          18,
+          "2025-11-18T13:49:31.222581"
+        ],
+        [
+          18,
+          "2025-11-18T14:00:42.323564"
+        ],
+        [
+          17,
+          "2025-11-18T14:12:04.668103"
+        ],
+        [
+          17,
+          "2025-11-18T21:39:17.899631"
+        ],
+        [
+          17,
+          "2025-11-18T23:24:13.320429"
+        ],
+        [
+          16,
+          "2025-11-19T01:08:30.000979"
+        ]
+      ],
+      "created_utc": 1706217232.0,
+      "depth": 0,
+      "permalink": "/r/compling/comments/19ffgxe/nobody_should_use_llms_without_knowing_exactly/kjk8ccu/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "kjkchcd",
+          "parent_id": "t1_kjk8ccu",
+          "author": "oja9f9w",
+          "text_history": [
+            [
+              "Then open up the black box and FIND OUT.",
+              "2025-11-18T13:49:31.222581"
+            ]
+          ],
+          "score_history": [
+            [
+              -13,
+              "2025-11-18T13:49:31.222581"
+            ],
+            [
+              -13,
+              "2025-11-18T14:00:42.323564"
+            ],
+            [
+              -14,
+              "2025-11-18T14:12:04.668103"
+            ],
+            [
+              -14,
+              "2025-11-18T21:39:17.899631"
+            ],
+            [
+              -12,
+              "2025-11-18T23:24:13.320429"
+            ],
+            [
+              -11,
+              "2025-11-19T01:08:30.000979"
+            ]
+          ],
+          "created_utc": 1706218669.0,
+          "depth": 1,
+          "permalink": "/r/compling/comments/19ffgxe/nobody_should_use_llms_without_knowing_exactly/kjkchcd/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "kjkcwmw",
+              "parent_id": "t1_kjkchcd",
+              "author": "pengo",
+              "text_history": [
+                [
+                  "You find a matrix of 175 billion numbers.",
+                  "2025-11-18T13:49:31.222581"
+                ]
+              ],
+              "score_history": [
+                [
+                  14,
+                  "2025-11-18T13:49:31.222581"
+                ],
+                [
+                  14,
+                  "2025-11-18T14:00:42.323564"
+                ],
+                [
+                  15,
+                  "2025-11-18T14:12:04.668103"
+                ],
+                [
+                  15,
+                  "2025-11-18T21:39:17.899631"
+                ],
+                [
+                  13,
+                  "2025-11-18T23:24:13.320429"
+                ],
+                [
+                  15,
+                  "2025-11-19T01:08:30.000979"
+                ]
+              ],
+              "created_utc": 1706218821.0,
+              "depth": 2,
+              "permalink": "/r/compling/comments/19ffgxe/nobody_should_use_llms_without_knowing_exactly/kjkcwmw/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": [
+                {
+                  "id": "kjkgnda",
+                  "parent_id": "t1_kjkcwmw",
+                  "author": "oja9f9w",
+                  "text_history": [
+                    [
+                      "The matrix? Like the thing where you dodge bullets? Cool!",
+                      "2025-11-18T13:49:31.222581"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      -4,
+                      "2025-11-18T13:49:31.222581"
+                    ],
+                    [
+                      -3,
+                      "2025-11-18T14:00:42.323564"
+                    ],
+                    [
+                      -6,
+                      "2025-11-18T14:12:04.668103"
+                    ],
+                    [
+                      -7,
+                      "2025-11-18T21:39:17.899631"
+                    ],
+                    [
+                      -6,
+                      "2025-11-18T23:24:13.320429"
+                    ],
+                    [
+                      -5,
+                      "2025-11-19T01:08:30.000979"
+                    ]
+                  ],
+                  "created_utc": 1706220181.0,
+                  "depth": 3,
+                  "permalink": "/r/compling/comments/19ffgxe/nobody_should_use_llms_without_knowing_exactly/kjkgnda/",
+                  "is_submitter": true,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": [
+                    {
+                      "id": "kjkqndm",
+                      "parent_id": "t1_kjkgnda",
+                      "author": "pengo",
+                      "text_history": [
+                        [
+                          "Maybe you should learn how LLMs work",
+                          "2025-11-18T13:49:31.222581"
+                        ]
+                      ],
+                      "score_history": [
+                        [
+                          14,
+                          "2025-11-18T13:49:31.222581"
+                        ],
+                        [
+                          11,
+                          "2025-11-18T14:00:42.323564"
+                        ],
+                        [
+                          14,
+                          "2025-11-18T14:12:04.668103"
+                        ],
+                        [
+                          13,
+                          "2025-11-18T21:39:17.899631"
+                        ],
+                        [
+                          14,
+                          "2025-11-18T23:24:13.320429"
+                        ],
+                        [
+                          12,
+                          "2025-11-19T01:08:30.000979"
+                        ]
+                      ],
+                      "created_utc": 1706223764.0,
+                      "depth": 4,
+                      "permalink": "/r/compling/comments/19ffgxe/nobody_should_use_llms_without_knowing_exactly/kjkqndm/",
+                      "is_submitter": false,
+                      "controversiality": 0,
+                      "gilded": 0,
+                      "edited": false,
+                      "deleted": false,
+                      "deleted_at": null,
+                      "replies": [
+                        {
+                          "id": "kjkzgy9",
+                          "parent_id": "t1_kjkqndm",
+                          "author": "oja9f9w",
+                          "text_history": [
+                            [
+                              "You",
+                              "2025-11-18T13:49:31.222581"
+                            ]
+                          ],
+                          "score_history": [
+                            [
+                              -3,
+                              "2025-11-18T13:49:31.222581"
+                            ],
+                            [
+                              -4,
+                              "2025-11-18T14:00:42.323564"
+                            ],
+                            [
+                              -5,
+                              "2025-11-18T14:12:04.668103"
+                            ],
+                            [
+                              -2,
+                              "2025-11-18T21:39:17.899631"
+                            ],
+                            [
+                              -6,
+                              "2025-11-18T23:24:13.320429"
+                            ],
+                            [
+                              -3,
+                              "2025-11-19T01:08:30.000979"
+                            ]
+                          ],
+                          "created_utc": 1706227033.0,
+                          "depth": 5,
+                          "permalink": "/r/compling/comments/19ffgxe/nobody_should_use_llms_without_knowing_exactly/kjkzgy9/",
+                          "is_submitter": true,
+                          "controversiality": 0,
+                          "gilded": 0,
+                          "edited": false,
+                          "deleted": false,
+                          "deleted_at": null,
+                          "replies": [
+                            {
+                              "id": "kjlf439",
+                              "parent_id": "t1_kjkzgy9",
+                              "author": "pengo",
+                              "text_history": [
+                                [
+                                  "Okay sure, what topics do you suggest I start with?",
+                                  "2025-11-18T13:49:31.222581"
+                                ]
+                              ],
+                              "score_history": [
+                                [
+                                  2,
+                                  "2025-11-18T13:49:31.222581"
+                                ],
+                                [
+                                  2,
+                                  "2025-11-18T14:00:42.323564"
+                                ],
+                                [
+                                  2,
+                                  "2025-11-18T14:12:04.668103"
+                                ],
+                                [
+                                  2,
+                                  "2025-11-18T21:39:17.899631"
+                                ],
+                                [
+                                  2,
+                                  "2025-11-18T23:24:13.320429"
+                                ],
+                                [
+                                  2,
+                                  "2025-11-19T01:08:30.000979"
+                                ]
+                              ],
+                              "created_utc": 1706233219.0,
+                              "depth": 6,
+                              "permalink": "/r/compling/comments/19ffgxe/nobody_should_use_llms_without_knowing_exactly/kjlf439/",
+                              "is_submitter": false,
+                              "controversiality": 0,
+                              "gilded": 0,
+                              "edited": false,
+                              "deleted": false,
+                              "deleted_at": null,
+                              "replies": [
+                                {
+                                  "id": "kjli4oa",
+                                  "parent_id": "t1_kjlf439",
+                                  "author": "oja9f9w",
+                                  "text_history": [
+                                    [
+                                      "Transformer model. Learn what it is and how to code one from scratch. Learn what a cost function is and why you need to use it, and learn how to write a relu function with a gradient descent softmax sigmoid regression loop with recursive logic and linear multivariate logistic regression.",
+                                      "2025-11-18T13:49:31.222581"
+                                    ]
+                                  ],
+                                  "score_history": [
+                                    [
+                                      -2,
+                                      "2025-11-18T13:49:31.222581"
+                                    ],
+                                    [
+                                      -2,
+                                      "2025-11-18T14:00:42.323564"
+                                    ],
+                                    [
+                                      -2,
+                                      "2025-11-18T14:12:04.668103"
+                                    ],
+                                    [
+                                      -2,
+                                      "2025-11-18T21:39:17.899631"
+                                    ],
+                                    [
+                                      -2,
+                                      "2025-11-18T23:24:13.320429"
+                                    ],
+                                    [
+                                      -2,
+                                      "2025-11-19T01:08:30.000979"
+                                    ]
+                                  ],
+                                  "created_utc": 1706234425.0,
+                                  "depth": 7,
+                                  "permalink": "/r/compling/comments/19ffgxe/nobody_should_use_llms_without_knowing_exactly/kjli4oa/",
+                                  "is_submitter": true,
+                                  "controversiality": 0,
+                                  "gilded": 0,
+                                  "edited": 1706289796.0,
+                                  "deleted": false,
+                                  "deleted_at": null,
+                                  "replies": [
+                                    {
+                                      "id": "kk1b1rx",
+                                      "parent_id": "t1_kjli4oa",
+                                      "author": "[deleted]",
+                                      "text_history": [
+                                        [
+                                          "You're either a pretty lame troll, or one of the least self aware people on the internet. Equally likely, tbh.",
+                                          "2025-11-18T13:49:31.222581"
+                                        ]
+                                      ],
+                                      "score_history": [
+                                        [
+                                          1,
+                                          "2025-11-18T13:49:31.222581"
+                                        ],
+                                        [
+                                          1,
+                                          "2025-11-18T14:00:42.323564"
+                                        ],
+                                        [
+                                          1,
+                                          "2025-11-18T14:12:04.668103"
+                                        ],
+                                        [
+                                          1,
+                                          "2025-11-18T21:39:17.899631"
+                                        ],
+                                        [
+                                          1,
+                                          "2025-11-18T23:24:13.320429"
+                                        ],
+                                        [
+                                          1,
+                                          "2025-11-19T01:08:30.000979"
+                                        ]
+                                      ],
+                                      "created_utc": 1706489603.0,
+                                      "depth": 8,
+                                      "permalink": "/r/compling/comments/19ffgxe/nobody_should_use_llms_without_knowing_exactly/kk1b1rx/",
+                                      "is_submitter": false,
+                                      "controversiality": 0,
+                                      "gilded": 0,
+                                      "edited": false,
+                                      "deleted": false,
+                                      "deleted_at": null,
+                                      "replies": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kjn3ekx",
+      "parent_id": "t3_19ffgxe",
+      "author": "SuitableDragonfly",
+      "text_history": [
+        [
+          "You don't need to know exactly how they work to learn what they are and are not good at.  People still won't do it, but it's no different than when everyone was trying to use blockchain for everything, except that it might be a more enduring fad since Microsoft is funding it.  This type of misuse of tech that's considered \"cool\" is not new and won't go away any time soon. ",
+          "2025-11-18T13:49:31.222581"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T13:49:31.222581"
+        ],
+        [
+          1,
+          "2025-11-18T14:00:42.323564"
+        ],
+        [
+          1,
+          "2025-11-18T14:12:04.668103"
+        ],
+        [
+          1,
+          "2025-11-18T21:39:17.899631"
+        ],
+        [
+          1,
+          "2025-11-18T23:24:13.320429"
+        ],
+        [
+          1,
+          "2025-11-19T01:08:30.000979"
+        ]
+      ],
+      "created_utc": 1706266548.0,
+      "depth": 0,
+      "permalink": "/r/compling/comments/19ffgxe/nobody_should_use_llms_without_knowing_exactly/kjn3ekx/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "kjo06xq",
+      "parent_id": "t3_19ffgxe",
+      "author": "pbearrrr",
+      "text_history": [
+        [
+          "Who cares? People can use tools without understanding every detail of their design. I couldn't take my car apart and put it back together, but i sure as hell can drive the thing.",
+          "2025-11-18T13:49:31.222581"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T13:49:31.222581"
+        ],
+        [
+          1,
+          "2025-11-18T14:00:42.323564"
+        ],
+        [
+          1,
+          "2025-11-18T14:12:04.668103"
+        ],
+        [
+          1,
+          "2025-11-18T21:39:17.899631"
+        ],
+        [
+          1,
+          "2025-11-18T23:24:13.320429"
+        ],
+        [
+          1,
+          "2025-11-19T01:08:30.000979"
+        ]
+      ],
+      "created_utc": 1706282189.0,
+      "depth": 0,
+      "permalink": "/r/compling/comments/19ffgxe/nobody_should_use_llms_without_knowing_exactly/kjo06xq/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T01:08:30.000979",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/compling/comments/19ffgxe/nobody_should_use_llms_without_knowing_exactly/",
+    "total_comments": 29,
+    "top_level_comments": 8,
+    "api_requests": 1,
+    "expected_comments": 29,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 6,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_134930.json",
+      "scrape_002_20251118_140041.json",
+      "scrape_003_20251118_141204.json",
+      "scrape_004_20251118_213917.json",
+      "scrape_005_20251118_232412.json",
+      "scrape_006_20251119_010829.json"
+    ]
+  }
+}

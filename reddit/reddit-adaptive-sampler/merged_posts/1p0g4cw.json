@@ -1,0 +1,116 @@
+{
+  "post": {
+    "id": "1p0g4cw",
+    "title": "How much you pay for Cursor?",
+    "author": "vbmaster96",
+    "score_history": [
+      [
+        1,
+        "2025-11-18T12:51:41.045743"
+      ],
+      [
+        1,
+        "2025-11-18T13:04:01.986939"
+      ],
+      [
+        1,
+        "2025-11-18T13:15:55.815430"
+      ],
+      [
+        1,
+        "2025-11-18T13:46:31.715776"
+      ],
+      [
+        1,
+        "2025-11-18T13:49:39.118227"
+      ],
+      [
+        1,
+        "2025-11-18T13:59:21.043536"
+      ],
+      [
+        1,
+        "2025-11-18T14:10:41.400986"
+      ]
+    ],
+    "created_utc": 1763482536.0,
+    "num_comments": 1,
+    "subreddit": "AgentsOfAI",
+    "url": "https://www.reddit.com/r/AgentsOfAI/comments/1p0g4cw/how_much_you_pay_for_cursor/",
+    "selftext": "I’m wondering if there are some guys here who burns through $200 for Cursor Ultimate Plan or even more",
+    "permalink": "/r/AgentsOfAI/comments/1p0g4cw/how_much_you_pay_for_cursor/"
+  },
+  "comments": [
+    {
+      "id": "npiioia",
+      "parent_id": "t3_1p0g4cw",
+      "author": "No-Home8878",
+      "text_history": [
+        [
+          "That thread is basically the eternal AI tools question how much is convenience, speed, and polish worth compared to just hacking it together yourself",
+          "2025-11-18T12:51:41.045743"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T12:51:41.045743"
+        ],
+        [
+          1,
+          "2025-11-18T13:04:01.986939"
+        ],
+        [
+          1,
+          "2025-11-18T13:15:55.815430"
+        ],
+        [
+          1,
+          "2025-11-18T13:46:31.715776"
+        ],
+        [
+          1,
+          "2025-11-18T13:49:39.118227"
+        ],
+        [
+          1,
+          "2025-11-18T13:59:21.043536"
+        ],
+        [
+          1,
+          "2025-11-18T14:10:41.400986"
+        ]
+      ],
+      "created_utc": 1763482622.0,
+      "depth": 0,
+      "permalink": "/r/AgentsOfAI/comments/1p0g4cw/how_much_you_pay_for_cursor/npiioia/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-18T14:10:41.400986",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/AgentsOfAI/comments/1p0g4cw/how_much_you_pay_for_cursor/",
+    "total_comments": 1,
+    "top_level_comments": 1,
+    "api_requests": 1,
+    "expected_comments": 1,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 7,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_125139.json",
+      "scrape_002_20251118_130401.json",
+      "scrape_003_20251118_131555.json",
+      "scrape_004_20251118_134631.json",
+      "scrape_005_20251118_134938.json",
+      "scrape_006_20251118_135920.json",
+      "scrape_007_20251118_141041.json"
+    ]
+  }
+}

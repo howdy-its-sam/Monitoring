@@ -1,0 +1,1233 @@
+{
+  "post": {
+    "id": "1p07nat",
+    "title": "AI Agents in Business are Overrated. Change My Mind",
+    "author": "ZealousidealEmu1770",
+    "score_history": [
+      [
+        3,
+        "2025-11-18T12:51:35.189108"
+      ],
+      [
+        4,
+        "2025-11-18T13:03:52.317401"
+      ],
+      [
+        5,
+        "2025-11-18T13:15:49.503750"
+      ],
+      [
+        5,
+        "2025-11-18T13:48:10.402787"
+      ],
+      [
+        5,
+        "2025-11-18T13:59:27.078235"
+      ],
+      [
+        4,
+        "2025-11-18T14:10:43.529616"
+      ]
+    ],
+    "created_utc": 1763458492.0,
+    "num_comments": 26,
+    "subreddit": "AI_Agents",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1p07nat/ai_agents_in_business_are_overrated_change_my_mind/",
+    "selftext": "Everyone is suddenly building “AI agents” for business. Lead generation, customer support, content creation, there is an agent for everything.\n\nBut most of them are not actually solving problems. They just make existing workflows more complicated.\n\nWhat I keep seeing is that people build one big “do-it-all” agent and expect it to magically handle strategy, data and execution. It sounds impressive, but in practice it is messy, unreliable and hard to maintain.  \nThe output feels generic because the logic behind it is shallow.  \nThe setup looks easy until you realize you still need to think, design and guide the agent’s reasoning.\n\nI have built and tested hundreds of automations, and the pattern is always the same. Single agents are fine for small, repetitive tasks. But when businesses try to scale complex operations with one AI “brain,” things start breaking.\n\nThat said, agent systems can create real value but only when they are designed with purpose. Small, specialized agents that talk to each other, that make a team, work far better than one oversized “super agent.”\n\nWhat do you think? Are AI agents the future of business automation, or just the latest buzzword with fancy branding?\n\n",
+    "permalink": "/r/AI_Agents/comments/1p07nat/ai_agents_in_business_are_overrated_change_my_mind/"
+  },
+  "comments": [
+    {
+      "id": "npgtkfv",
+      "parent_id": "t3_1p07nat",
+      "author": "JFerzt",
+      "text_history": [
+        [
+          "You’re not wrong that most “AI agents” are overhyped slideware that demo great and fall apart in production. People slap an LLM in front of Zapier, call it an autonomous employee, then discover it needs babysitting and costs more than the intern they replaced. That said, what you describe as “small, specialized agents that talk to each other” is exactly where the serious folks are heading ...modular multi-agent systems and SLM-first architectures instead of one bloated brain. Those are actually working in boring places like logistics routing, back-office ops, and high-volume support, where the workflow is constrained and success is measurable. So yeah, single do-it-all agents are overrated; agentic architectures are not ..the problem is the way they’re packaged and sold, not the underlying pattern.",
+          "2025-11-18T12:51:35.189108"
+        ]
+      ],
+      "score_history": [
+        [
+          8,
+          "2025-11-18T12:51:35.189108"
+        ],
+        [
+          7,
+          "2025-11-18T13:03:52.317401"
+        ],
+        [
+          7,
+          "2025-11-18T13:15:49.503750"
+        ],
+        [
+          6,
+          "2025-11-18T13:48:10.402787"
+        ],
+        [
+          7,
+          "2025-11-18T13:59:27.078235"
+        ],
+        [
+          7,
+          "2025-11-18T14:10:43.529616"
+        ]
+      ],
+      "created_utc": 1763458755.0,
+      "depth": 0,
+      "permalink": "/r/AI_Agents/comments/1p07nat/ai_agents_in_business_are_overrated_change_my_mind/npgtkfv/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npgx0jp",
+          "parent_id": "t1_npgtkfv",
+          "author": "Profile-Ordinary",
+          "text_history": [
+            [
+              "What happens when agents from different sectors need to communicate? I would assume each small specialized agent would have to communicate with different specialized agents, are they able to teach each other things so they can work together? Do they began as small agents and become larger as they acquire more information? How does that work ?",
+              "2025-11-18T12:51:35.189108"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T12:51:35.189108"
+            ],
+            [
+              1,
+              "2025-11-18T13:03:52.317401"
+            ],
+            [
+              1,
+              "2025-11-18T13:15:49.503750"
+            ],
+            [
+              1,
+              "2025-11-18T13:48:10.402787"
+            ],
+            [
+              1,
+              "2025-11-18T13:59:27.078235"
+            ],
+            [
+              1,
+              "2025-11-18T14:10:43.529616"
+            ]
+          ],
+          "created_utc": 1763460884.0,
+          "depth": 1,
+          "permalink": "/r/AI_Agents/comments/1p07nat/ai_agents_in_business_are_overrated_change_my_mind/npgx0jp/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "nphaaft",
+              "parent_id": "t1_npgx0jp",
+              "author": "urimmaterial",
+              "text_history": [
+                [
+                  "Great questions! In a modular system, specialized agents often use standardized protocols to communicate, which helps them collaborate effectively. They can learn from each other or even be designed to adapt as they gather more data, but it really depends on the architecture. It's like a team of experts who share knowledge while still focusing on their individual tasks.",
+                  "2025-11-18T12:51:35.189108"
+                ]
+              ],
+              "score_history": [
+                [
+                  3,
+                  "2025-11-18T12:51:35.189108"
+                ],
+                [
+                  3,
+                  "2025-11-18T13:03:52.317401"
+                ],
+                [
+                  3,
+                  "2025-11-18T13:15:49.503750"
+                ],
+                [
+                  3,
+                  "2025-11-18T13:48:10.402787"
+                ],
+                [
+                  3,
+                  "2025-11-18T13:59:27.078235"
+                ],
+                [
+                  3,
+                  "2025-11-18T14:10:43.529616"
+                ]
+              ],
+              "created_utc": 1763467921.0,
+              "depth": 2,
+              "permalink": "/r/AI_Agents/comments/1p07nat/ai_agents_in_business_are_overrated_change_my_mind/nphaaft/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            },
+            {
+              "id": "npjpbow",
+              "parent_id": "t1_npgx0jp",
+              "author": "JFerzt",
+              "text_history": [
+                [
+                  "They don’t “grow up” into some hive-mind super‑agent, that’s just the marketing deck version. In real systems, you keep them small and dumb-on-purpose, then make them look smart by giving them ways to pass messages and share a memory layer.​\n\nMost multi‑agent setups work like this:\n\n* Agents talk via structured messages/APIs, not vibes.​\n* They read/write to shared stores (DBs, vector DBs, queues) so others can pick up context.​\n* An orchestration layer decides who does what and when, like a manager routing tickets.​\n\nCan they “teach” each other? Sort of, but you usually don’t let them live‑edit their own brains in production. What they actually do is update shared procedures or knowledge so the *next* run of each specialized agent behaves better without turning into one bloated Frankenstein model.",
+                  "2025-11-18T12:51:35.189108"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-18T12:51:35.189108"
+                ],
+                [
+                  1,
+                  "2025-11-18T13:03:52.317401"
+                ],
+                [
+                  1,
+                  "2025-11-18T13:15:49.503750"
+                ],
+                [
+                  1,
+                  "2025-11-18T13:48:10.402787"
+                ],
+                [
+                  1,
+                  "2025-11-18T13:59:27.078235"
+                ],
+                [
+                  1,
+                  "2025-11-18T14:10:43.529616"
+                ]
+              ],
+              "created_utc": 1763495096.0,
+              "depth": 2,
+              "permalink": "/r/AI_Agents/comments/1p07nat/ai_agents_in_business_are_overrated_change_my_mind/npjpbow/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": [
+                {
+                  "id": "npjrwgs",
+                  "parent_id": "t1_npjpbow",
+                  "author": "Profile-Ordinary",
+                  "text_history": [
+                    [
+                      "Can you give me a practical example about how this would work?",
+                      "2025-11-18T12:51:35.189108"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      1,
+                      "2025-11-18T12:51:35.189108"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T13:03:52.317401"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T13:15:49.503750"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T13:48:10.402787"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T13:59:27.078235"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T14:10:43.529616"
+                    ]
+                  ],
+                  "created_utc": 1763495860.0,
+                  "depth": 3,
+                  "permalink": "/r/AI_Agents/comments/1p07nat/ai_agents_in_business_are_overrated_change_my_mind/npjrwgs/",
+                  "is_submitter": false,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": [
+                    {
+                      "id": "npjtvht",
+                      "parent_id": "t1_npjrwgs",
+                      "author": "JFerzt",
+                      "text_history": [
+                        [
+                          "Think “creative agency in a box”, not “one omniscient brain.”​\n\nIn my case, I’m building Kairos Creative: an app where a non‑technical user just chats in one window about their campaign idea. First, Alex (account manager agent) interviews you and turns your messy brain dump into a structured brief/PRD. That artifact gets saved and passed on, not “remembered by magic.”​\n\nThen Laura (strategy), Frank (creative director), Miguel (copy), and Lucía (art direction) each pick up that same brief + previous outputs and do *one* job well, phase by phase, all inside the same chat. The orchestrator just routes messages, moves phases, and stores artifacts; no single “god agent” trying to do everything. It’s basically specialized agents wired together with boring database + state, not an ego‑tripping super LLM.",
+                          "2025-11-18T12:51:35.189108"
+                        ]
+                      ],
+                      "score_history": [
+                        [
+                          1,
+                          "2025-11-18T12:51:35.189108"
+                        ],
+                        [
+                          1,
+                          "2025-11-18T13:03:52.317401"
+                        ],
+                        [
+                          1,
+                          "2025-11-18T13:15:49.503750"
+                        ],
+                        [
+                          1,
+                          "2025-11-18T13:48:10.402787"
+                        ],
+                        [
+                          1,
+                          "2025-11-18T13:59:27.078235"
+                        ],
+                        [
+                          1,
+                          "2025-11-18T14:10:43.529616"
+                        ]
+                      ],
+                      "created_utc": 1763496458.0,
+                      "depth": 4,
+                      "permalink": "/r/AI_Agents/comments/1p07nat/ai_agents_in_business_are_overrated_change_my_mind/npjtvht/",
+                      "is_submitter": false,
+                      "controversiality": 0,
+                      "gilded": 0,
+                      "edited": false,
+                      "deleted": false,
+                      "deleted_at": null,
+                      "replies": [
+                        {
+                          "id": "npjueas",
+                          "parent_id": "t1_npjtvht",
+                          "author": "Profile-Ordinary",
+                          "text_history": [
+                            [
+                              "How well does it work?\n\nWhat have been the biggest roadblocks?",
+                              "2025-11-18T12:51:35.189108"
+                            ]
+                          ],
+                          "score_history": [
+                            [
+                              1,
+                              "2025-11-18T12:51:35.189108"
+                            ],
+                            [
+                              1,
+                              "2025-11-18T13:03:52.317401"
+                            ],
+                            [
+                              1,
+                              "2025-11-18T13:15:49.503750"
+                            ],
+                            [
+                              1,
+                              "2025-11-18T13:48:10.402787"
+                            ],
+                            [
+                              1,
+                              "2025-11-18T13:59:27.078235"
+                            ],
+                            [
+                              1,
+                              "2025-11-18T14:10:43.529616"
+                            ]
+                          ],
+                          "created_utc": 1763496618.0,
+                          "depth": 5,
+                          "permalink": "/r/AI_Agents/comments/1p07nat/ai_agents_in_business_are_overrated_change_my_mind/npjueas/",
+                          "is_submitter": false,
+                          "controversiality": 0,
+                          "gilded": 0,
+                          "edited": false,
+                          "deleted": false,
+                          "deleted_at": null,
+                          "replies": [
+                            {
+                              "id": "npjvg3v",
+                              "parent_id": "t1_npjueas",
+                              "author": "JFerzt",
+                              "text_history": [
+                                [
+                                  "Short version: it works well enough that real teams are using it end‑to‑end, but not so perfectly that everything can be left unattended.​\n\nBiggest wins so far: the 6‑agent flow from briefing to QA runs reliably, campaigns are generated in a few minutes, and users lean hard on the “iterate without extra cost” bit instead of treating it like a one‑shot prompt toy. The painful parts have been making agent handoffs bullet‑proof, keeping context clean after lots of iterations, and killing weird edge‑case bugs in PDFs and “adapt this campaign to X format” flows.​\n\nSorry for being vague here ...there is an NDA in place, so more specific implementation details can’t be shared.",
+                                  "2025-11-18T12:51:35.189108"
+                                ]
+                              ],
+                              "score_history": [
+                                [
+                                  1,
+                                  "2025-11-18T12:51:35.189108"
+                                ],
+                                [
+                                  1,
+                                  "2025-11-18T13:03:52.317401"
+                                ],
+                                [
+                                  1,
+                                  "2025-11-18T13:15:49.503750"
+                                ],
+                                [
+                                  1,
+                                  "2025-11-18T13:48:10.402787"
+                                ],
+                                [
+                                  1,
+                                  "2025-11-18T13:59:27.078235"
+                                ],
+                                [
+                                  1,
+                                  "2025-11-18T14:10:43.529616"
+                                ]
+                              ],
+                              "created_utc": 1763496937.0,
+                              "depth": 6,
+                              "permalink": "/r/AI_Agents/comments/1p07nat/ai_agents_in_business_are_overrated_change_my_mind/npjvg3v/",
+                              "is_submitter": false,
+                              "controversiality": 0,
+                              "gilded": 0,
+                              "edited": false,
+                              "deleted": false,
+                              "deleted_at": null,
+                              "replies": [
+                                {
+                                  "id": "npjy77t",
+                                  "parent_id": "t1_npjvg3v",
+                                  "author": "Profile-Ordinary",
+                                  "text_history": [
+                                    [
+                                      "No, I appreciate it and thank you for sharing, that is interesting and sounds like an awesome product you made\n\nIn your opinion, What is preventing it from being fully autonomous?",
+                                      "2025-11-18T12:51:35.189108"
+                                    ]
+                                  ],
+                                  "score_history": [
+                                    [
+                                      1,
+                                      "2025-11-18T12:51:35.189108"
+                                    ],
+                                    [
+                                      1,
+                                      "2025-11-18T13:03:52.317401"
+                                    ],
+                                    [
+                                      1,
+                                      "2025-11-18T13:15:49.503750"
+                                    ],
+                                    [
+                                      1,
+                                      "2025-11-18T13:48:10.402787"
+                                    ],
+                                    [
+                                      1,
+                                      "2025-11-18T13:59:27.078235"
+                                    ],
+                                    [
+                                      1,
+                                      "2025-11-18T14:10:43.529616"
+                                    ]
+                                  ],
+                                  "created_utc": 1763497779.0,
+                                  "depth": 7,
+                                  "permalink": "/r/AI_Agents/comments/1p07nat/ai_agents_in_business_are_overrated_change_my_mind/npjy77t/",
+                                  "is_submitter": false,
+                                  "controversiality": 0,
+                                  "gilded": 0,
+                                  "edited": false,
+                                  "deleted": false,
+                                  "deleted_at": null,
+                                  "replies": [
+                                    {
+                                      "id": "npkcmln",
+                                      "parent_id": "t1_npjy77t",
+                                      "author": "JFerzt",
+                                      "text_history": [
+                                        [
+                                          "Short answer: humans are still better at “knowing when to stop,” taking responsibility, and catching the sneaky 5% of weird cases that blow things up.​\n\nWhat blocks full autonomy right now is:\n\n* Judgment: the system can propose solid campaigns, but deciding “is this on‑brand, legally safe, and politically non‑suicidal?” still needs a human brain and a signature.​\n* Edge cases: under stress (odd briefs, messy inputs, rare formats), you still get routing issues, PDF quirks, or adaptation bugs that require manual intervention.​\n* Risk: if an “autonomous” agent pushes the wrong creative into a live channel, the person who gets fired is not the agent.",
+                                          "2025-11-18T13:48:10.402787"
+                                        ]
+                                      ],
+                                      "score_history": [
+                                        [
+                                          1,
+                                          "2025-11-18T13:48:10.402787"
+                                        ],
+                                        [
+                                          1,
+                                          "2025-11-18T13:59:27.078235"
+                                        ],
+                                        [
+                                          1,
+                                          "2025-11-18T14:10:43.529616"
+                                        ]
+                                      ],
+                                      "created_utc": 1763502101.0,
+                                      "depth": 8,
+                                      "permalink": "/r/AI_Agents/comments/1p07nat/ai_agents_in_business_are_overrated_change_my_mind/npkcmln/",
+                                      "is_submitter": false,
+                                      "controversiality": 0,
+                                      "gilded": 0,
+                                      "edited": false,
+                                      "deleted": false,
+                                      "deleted_at": null,
+                                      "replies": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "npjl8z3",
+          "parent_id": "t1_npgtkfv",
+          "author": "xthegreatsambino",
+          "text_history": [
+            [
+              "Co-signing this. 'AI Agents' needs to be defined by OP first. But the big value add is that tools like n8n now allow a non-technical person to quickly get multiple software tools to talk to each other. 18 months ago, I was working a job where we had multiple implementation engineers who all they did was build API connectors from our software to their rinky dink CRMs and other apps. With n8n, I can do the same. To me, data integration is the big thing that SMBs with no technical expert could never do. They've built processes that the 55 year old owner has always done, and while it works, it's also been creating downstream inefficiencies that the only thing he knows to do is 1) hire someone, and 2) work 50-60 hours a week at least\n\nData integration allows data to flow through the business pipeline smoothly, and then the cool stuff with automation workflows (and AI agents in those workflows) can happen.",
+              "2025-11-18T12:51:35.189108"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T12:51:35.189108"
+            ],
+            [
+              1,
+              "2025-11-18T13:03:52.317401"
+            ],
+            [
+              1,
+              "2025-11-18T13:15:49.503750"
+            ],
+            [
+              1,
+              "2025-11-18T13:48:10.402787"
+            ],
+            [
+              1,
+              "2025-11-18T13:59:27.078235"
+            ],
+            [
+              1,
+              "2025-11-18T14:10:43.529616"
+            ]
+          ],
+          "created_utc": 1763493874.0,
+          "depth": 1,
+          "permalink": "/r/AI_Agents/comments/1p07nat/ai_agents_in_business_are_overrated_change_my_mind/npjl8z3/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npjpn0x",
+              "parent_id": "t1_npjl8z3",
+              "author": "JFerzt",
+              "text_history": [
+                [
+                  "Yeah, this is the quiet revolution nobody markets well because “data plumbing” doesn’t sound as sexy as “AI employee.”​\n\nTotally agree the real unlock for SMBs isn’t “agents” first, it’s finally getting all the random Franken‑stack tools to pass data around without a $200/hr integrator. Stuff like n8n / Zapier / Make basically turned “implementation engineer” from a full‑time role into “that one Saturday you block off to wire the CRM to everything else.”​\n\nOnce the data actually flows, dropping AI steps into those workflows (classify, summarize, route, draft reply) is trivial and *actually* valuable, not some vague AGI cosplay.",
+                  "2025-11-18T12:51:35.189108"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-18T12:51:35.189108"
+                ],
+                [
+                  1,
+                  "2025-11-18T13:03:52.317401"
+                ],
+                [
+                  1,
+                  "2025-11-18T13:15:49.503750"
+                ],
+                [
+                  1,
+                  "2025-11-18T13:48:10.402787"
+                ],
+                [
+                  1,
+                  "2025-11-18T13:59:27.078235"
+                ],
+                [
+                  1,
+                  "2025-11-18T14:10:43.529616"
+                ]
+              ],
+              "created_utc": 1763495190.0,
+              "depth": 2,
+              "permalink": "/r/AI_Agents/comments/1p07nat/ai_agents_in_business_are_overrated_change_my_mind/npjpn0x/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "npgtddx",
+      "parent_id": "t3_1p07nat",
+      "author": "ai-agents-qa-bot",
+      "text_history": [
+        [
+          "- It's true that many businesses are jumping on the AI agent bandwagon, but the effectiveness of these agents often depends on their design and implementation.\n- The idea of a single, all-encompassing agent can lead to complexity and inefficiency. When businesses try to scale operations with a \"do-it-all\" agent, they may encounter issues like unreliability and generic outputs.\n- Specialized agents that focus on specific tasks and communicate with each other can create a more efficient and effective system. This approach allows for better problem-solving and adaptability.\n- The success of AI agents in business hinges on thoughtful design and clear objectives. When agents are built with a specific purpose in mind, they can indeed add significant value.\n- Ultimately, the future of business automation may lie in a network of specialized agents rather than a single, oversized solution.\n\nFor more insights on AI agents and their applications, you might find this resource helpful: [Agents, Assemble: A Field Guide to AI Agents - Galileo AI](https://tinyurl.com/4sdfypyt).",
+          "2025-11-18T12:51:35.189108"
+        ]
+      ],
+      "score_history": [
+        [
+          3,
+          "2025-11-18T12:51:35.189108"
+        ],
+        [
+          3,
+          "2025-11-18T13:03:52.317401"
+        ],
+        [
+          3,
+          "2025-11-18T13:15:49.503750"
+        ],
+        [
+          3,
+          "2025-11-18T13:48:10.402787"
+        ],
+        [
+          3,
+          "2025-11-18T13:59:27.078235"
+        ],
+        [
+          3,
+          "2025-11-18T14:10:43.529616"
+        ]
+      ],
+      "created_utc": 1763458627.0,
+      "depth": 0,
+      "permalink": "/r/AI_Agents/comments/1p07nat/ai_agents_in_business_are_overrated_change_my_mind/npgtddx/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npgxav9",
+      "parent_id": "t3_1p07nat",
+      "author": "WorldlyCatch822",
+      "text_history": [
+        [
+          "The second regulations start passing on this stuff you’ll see managers swing back to in house solutions.  \n\nThe only reason anyone is entertaining this right now is no one is really paying for this stuff and no one is regulating it yet.",
+          "2025-11-18T12:51:35.189108"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-18T12:51:35.189108"
+        ],
+        [
+          2,
+          "2025-11-18T13:03:52.317401"
+        ],
+        [
+          2,
+          "2025-11-18T13:15:49.503750"
+        ],
+        [
+          2,
+          "2025-11-18T13:48:10.402787"
+        ],
+        [
+          2,
+          "2025-11-18T13:59:27.078235"
+        ],
+        [
+          2,
+          "2025-11-18T14:10:43.529616"
+        ]
+      ],
+      "created_utc": 1763461058.0,
+      "depth": 0,
+      "permalink": "/r/AI_Agents/comments/1p07nat/ai_agents_in_business_are_overrated_change_my_mind/npgxav9/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npit8ki",
+          "parent_id": "t1_npgxav9",
+          "author": "Expensive_Culture_46",
+          "text_history": [
+            [
+              "Disagree. Employees are paying for this by losing jobs. Company wasted a shit ton of money on chatGPT for everyone? Fuck it. That’s Joan’s problem not the company’s",
+              "2025-11-18T12:51:35.189108"
+            ]
+          ],
+          "score_history": [
+            [
+              0,
+              "2025-11-18T12:51:35.189108"
+            ],
+            [
+              0,
+              "2025-11-18T13:03:52.317401"
+            ],
+            [
+              0,
+              "2025-11-18T13:15:49.503750"
+            ],
+            [
+              0,
+              "2025-11-18T13:48:10.402787"
+            ],
+            [
+              0,
+              "2025-11-18T13:59:27.078235"
+            ],
+            [
+              0,
+              "2025-11-18T14:10:43.529616"
+            ]
+          ],
+          "created_utc": 1763485707.0,
+          "depth": 1,
+          "permalink": "/r/AI_Agents/comments/1p07nat/ai_agents_in_business_are_overrated_change_my_mind/npit8ki/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npgwsww",
+      "parent_id": "t3_1p07nat",
+      "author": "Profile-Ordinary",
+      "text_history": [
+        [
+          "Theres nothing to change",
+          "2025-11-18T12:51:35.189108"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T12:51:35.189108"
+        ],
+        [
+          1,
+          "2025-11-18T13:03:52.317401"
+        ],
+        [
+          1,
+          "2025-11-18T13:15:49.503750"
+        ],
+        [
+          1,
+          "2025-11-18T13:48:10.402787"
+        ],
+        [
+          1,
+          "2025-11-18T13:59:27.078235"
+        ],
+        [
+          1,
+          "2025-11-18T14:10:43.529616"
+        ]
+      ],
+      "created_utc": 1763460753.0,
+      "depth": 0,
+      "permalink": "/r/AI_Agents/comments/1p07nat/ai_agents_in_business_are_overrated_change_my_mind/npgwsww/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nph7di2",
+      "parent_id": "t3_1p07nat",
+      "author": "LiveAddendum2219",
+      "text_history": [
+        [
+          "A single agent that tries to cover an entire operation usually ends up revealing its limits. Most business work relies on context, judgment, and steady refinement, and one large system rarely handles that well. Smaller task-focused agents fit more naturally into real workflows and stay predictable because each one knows its role. They behave more like tools than substitutes for decision making.\n\nThe potential is real, but only when teams design agents the same way they design any other system, with clear boundaries and careful handoffs. Without that structure, the idea feels more like a slogan than a solution.",
+          "2025-11-18T12:51:35.189108"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T12:51:35.189108"
+        ],
+        [
+          1,
+          "2025-11-18T13:03:52.317401"
+        ],
+        [
+          1,
+          "2025-11-18T13:15:49.503750"
+        ],
+        [
+          1,
+          "2025-11-18T13:48:10.402787"
+        ],
+        [
+          1,
+          "2025-11-18T13:59:27.078235"
+        ],
+        [
+          1,
+          "2025-11-18T14:10:43.529616"
+        ]
+      ],
+      "created_utc": 1763466643.0,
+      "depth": 0,
+      "permalink": "/r/AI_Agents/comments/1p07nat/ai_agents_in_business_are_overrated_change_my_mind/nph7di2/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nphgv3o",
+      "parent_id": "t3_1p07nat",
+      "author": "Shameless710OIL",
+      "text_history": [
+        [
+          "https://github.com/Shameless710oil/Agent-Team-Agenda/tree/main\n\nI made the above application in Google AI Studio. Its an open source agent team builder checklist maker based off users input for the teams objective. Its nothing fancy and im still a rookie developer but the application is pretty decent in my own opinion and im open to suggestions always.",
+          "2025-11-18T12:51:35.189108"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T12:51:35.189108"
+        ],
+        [
+          1,
+          "2025-11-18T13:03:52.317401"
+        ],
+        [
+          1,
+          "2025-11-18T13:15:49.503750"
+        ],
+        [
+          1,
+          "2025-11-18T13:48:10.402787"
+        ],
+        [
+          1,
+          "2025-11-18T13:59:27.078235"
+        ],
+        [
+          1,
+          "2025-11-18T14:10:43.529616"
+        ]
+      ],
+      "created_utc": 1763470649.0,
+      "depth": 0,
+      "permalink": "/r/AI_Agents/comments/1p07nat/ai_agents_in_business_are_overrated_change_my_mind/nphgv3o/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npidcsa",
+      "parent_id": "t3_1p07nat",
+      "author": "Low_Masterpiece_2304",
+      "text_history": [
+        [
+          "I don’t think AI agents are overrated, I think we’re still in their early stages. Even so, they’re already saving teams time on support, ops, and data work. As APIs, integrations, and guardrails mature, the same concept shifts from “gimmick” to invisible infrastructure, the way the cloud did. It’s less that agents are overhyped, more that people are judging the whole idea too soon. There's a lot of time to iterate and improve the technology so that it simplifies rather than complicates existing workflows.",
+          "2025-11-18T12:51:35.189108"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T12:51:35.189108"
+        ],
+        [
+          1,
+          "2025-11-18T13:03:52.317401"
+        ],
+        [
+          1,
+          "2025-11-18T13:15:49.503750"
+        ],
+        [
+          1,
+          "2025-11-18T13:48:10.402787"
+        ],
+        [
+          1,
+          "2025-11-18T13:59:27.078235"
+        ],
+        [
+          1,
+          "2025-11-18T14:10:43.529616"
+        ]
+      ],
+      "created_utc": 1763481069.0,
+      "depth": 0,
+      "permalink": "/r/AI_Agents/comments/1p07nat/ai_agents_in_business_are_overrated_change_my_mind/npidcsa/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npif52k",
+      "parent_id": "t3_1p07nat",
+      "author": "hettuklaeddi",
+      "text_history": [
+        [
+          "It probably depends on the organization and the objective, but I have agents running a content powerhouse right now",
+          "2025-11-18T12:51:35.189108"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T12:51:35.189108"
+        ],
+        [
+          1,
+          "2025-11-18T13:03:52.317401"
+        ],
+        [
+          1,
+          "2025-11-18T13:15:49.503750"
+        ],
+        [
+          1,
+          "2025-11-18T13:48:10.402787"
+        ],
+        [
+          1,
+          "2025-11-18T13:59:27.078235"
+        ],
+        [
+          1,
+          "2025-11-18T14:10:43.529616"
+        ]
+      ],
+      "created_utc": 1763481588.0,
+      "depth": 0,
+      "permalink": "/r/AI_Agents/comments/1p07nat/ai_agents_in_business_are_overrated_change_my_mind/npif52k/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npimi55",
+      "parent_id": "t3_1p07nat",
+      "author": "Hungry_Jackfruit_338",
+      "text_history": [
+        [
+          "build a purpose made AI to do ONLY ONE THING, and do it well.\n\n[www.NeverClosed.AI](http://www.NeverClosed.AI)",
+          "2025-11-18T12:51:35.189108"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T12:51:35.189108"
+        ],
+        [
+          1,
+          "2025-11-18T13:03:52.317401"
+        ],
+        [
+          1,
+          "2025-11-18T13:15:49.503750"
+        ],
+        [
+          1,
+          "2025-11-18T13:48:10.402787"
+        ],
+        [
+          1,
+          "2025-11-18T13:59:27.078235"
+        ],
+        [
+          1,
+          "2025-11-18T14:10:43.529616"
+        ]
+      ],
+      "created_utc": 1763483734.0,
+      "depth": 0,
+      "permalink": "/r/AI_Agents/comments/1p07nat/ai_agents_in_business_are_overrated_change_my_mind/npimi55/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npjbyrv",
+      "parent_id": "t3_1p07nat",
+      "author": "hyzer_skip",
+      "text_history": [
+        [
+          "Business people mainly just know business things so it’s “easier” to sell agents that do “business” things. But the real strength of AI agents is the ability to synthesize insights from unstructured data across multiple forums and sources.",
+          "2025-11-18T12:51:35.189108"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T12:51:35.189108"
+        ],
+        [
+          1,
+          "2025-11-18T13:03:52.317401"
+        ],
+        [
+          1,
+          "2025-11-18T13:15:49.503750"
+        ],
+        [
+          1,
+          "2025-11-18T13:48:10.402787"
+        ],
+        [
+          1,
+          "2025-11-18T13:59:27.078235"
+        ],
+        [
+          1,
+          "2025-11-18T14:10:43.529616"
+        ]
+      ],
+      "created_utc": 1763491149.0,
+      "depth": 0,
+      "permalink": "/r/AI_Agents/comments/1p07nat/ai_agents_in_business_are_overrated_change_my_mind/npjbyrv/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npjdkbf",
+      "parent_id": "t3_1p07nat",
+      "author": "hello5346",
+      "text_history": [
+        [
+          "The phrase ai agent is a proxy for enhanced ai.   The main players are using agent like improvements under the covers.  Ai agents represent the leading edge / bleeding edge of ai.  Most people use more than one ai model.  There are reasons for this.  The concept of ai agents is a simple as that.   More than one ai at one time.  All the talk of integrations are really the saas people coming to town using the saas playbook.  But ai agents increasingly will refer to ai with integrations that perform autonomous actions.   Integrations are essential for most business use cases.  Moving business data around and using business data.  Files , analytic data, records.  The kicker is automation.  When you take a process like social marketing or seo and fully automate it, it will not be so overrated.  Ai reduces the number of people needed for work.  In business cost controls matter. Ai is not going away. And agents are just the improved versions of that ai.  These ultimately will appear to business users as non optional product updates in business tools.  See google as the prime example.  Agents are inevitable because it simple refers to improvements.",
+          "2025-11-18T12:51:35.189108"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T12:51:35.189108"
+        ],
+        [
+          1,
+          "2025-11-18T13:03:52.317401"
+        ],
+        [
+          1,
+          "2025-11-18T13:15:49.503750"
+        ],
+        [
+          1,
+          "2025-11-18T13:48:10.402787"
+        ],
+        [
+          1,
+          "2025-11-18T13:59:27.078235"
+        ],
+        [
+          1,
+          "2025-11-18T14:10:43.529616"
+        ]
+      ],
+      "created_utc": 1763491606.0,
+      "depth": 0,
+      "permalink": "/r/AI_Agents/comments/1p07nat/ai_agents_in_business_are_overrated_change_my_mind/npjdkbf/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nph3bng",
+      "parent_id": "t3_1p07nat",
+      "author": "Long_Complex_4395",
+      "text_history": [
+        [
+          "AI agents are the future if you know how to build one. One size fits all doesn’t work for agents the way LLM does, even LLMs fail where specialization is required.\n\nAI agents that thrive better are those that are specialized because they are built with specific knowledge and have their tasks and roles separated",
+          "2025-11-18T12:51:35.189108"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T12:51:35.189108"
+        ],
+        [
+          1,
+          "2025-11-18T13:03:52.317401"
+        ],
+        [
+          1,
+          "2025-11-18T13:15:49.503750"
+        ],
+        [
+          1,
+          "2025-11-18T13:48:10.402787"
+        ],
+        [
+          1,
+          "2025-11-18T13:59:27.078235"
+        ],
+        [
+          1,
+          "2025-11-18T14:10:43.529616"
+        ]
+      ],
+      "created_utc": 1763464573.0,
+      "depth": 0,
+      "permalink": "/r/AI_Agents/comments/1p07nat/ai_agents_in_business_are_overrated_change_my_mind/nph3bng/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npgt5xg",
+      "parent_id": "t3_1p07nat",
+      "author": "AutoModerator",
+      "text_history": [
+        [
+          "Thank you for your submission, for any questions regarding AI, please check out our wiki at https://www.reddit.com/r/ai_agents/wiki (this is currently in test and we are actively adding to the wiki)\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/AI_Agents) if you have any questions or concerns.*",
+          "2025-11-18T12:51:35.189108"
+        ]
+      ],
+      "score_history": [
+        [
+          0,
+          "2025-11-18T12:51:35.189108"
+        ],
+        [
+          0,
+          "2025-11-18T13:03:52.317401"
+        ],
+        [
+          0,
+          "2025-11-18T13:15:49.503750"
+        ],
+        [
+          0,
+          "2025-11-18T13:48:10.402787"
+        ],
+        [
+          0,
+          "2025-11-18T13:59:27.078235"
+        ],
+        [
+          0,
+          "2025-11-18T14:10:43.529616"
+        ]
+      ],
+      "created_utc": 1763458492.0,
+      "depth": 0,
+      "permalink": "/r/AI_Agents/comments/1p07nat/ai_agents_in_business_are_overrated_change_my_mind/npgt5xg/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-18T14:10:43.529616",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/AI_Agents/comments/1p07nat/ai_agents_in_business_are_overrated_change_my_mind/",
+    "total_comments": 25,
+    "top_level_comments": 13,
+    "api_requests": 1,
+    "expected_comments": 26,
+    "coverage_percent": 96.15,
+    "merged_snapshot_count": 6,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_125134.json",
+      "scrape_002_20251118_130351.json",
+      "scrape_003_20251118_131549.json",
+      "scrape_004_20251118_134809.json",
+      "scrape_005_20251118_135926.json",
+      "scrape_006_20251118_141043.json"
+    ]
+  }
+}

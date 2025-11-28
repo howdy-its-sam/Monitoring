@@ -1,0 +1,129 @@
+{
+  "post": {
+    "id": "1p178en",
+    "title": "Nvidia shift to smartphone-style memory (LPDDR) could double server-memory prices by end-2026",
+    "author": "nohup_me",
+    "score_history": [
+      [
+        1,
+        "2025-11-19T05:08:52.858400"
+      ],
+      [
+        1,
+        "2025-11-19T05:08:53.089433"
+      ],
+      [
+        1,
+        "2025-11-19T05:08:53.357316"
+      ],
+      [
+        1,
+        "2025-11-19T05:08:53.572625"
+      ],
+      [
+        1,
+        "2025-11-19T05:08:53.837904"
+      ],
+      [
+        1,
+        "2025-11-19T05:08:54.064878"
+      ],
+      [
+        1,
+        "2025-11-19T05:08:54.329759"
+      ],
+      [
+        1,
+        "2025-11-19T05:08:54.531132"
+      ],
+      [
+        1,
+        "2025-11-19T05:08:54.774938"
+      ],
+      [
+        1,
+        "2025-11-19T05:08:54.997675"
+      ],
+      [
+        1,
+        "2025-11-19T05:08:55.272582"
+      ],
+      [
+        1,
+        "2025-11-19T05:08:55.589065"
+      ],
+      [
+        1,
+        "2025-11-19T05:08:55.896164"
+      ],
+      [
+        1,
+        "2025-11-19T05:08:56.145179"
+      ],
+      [
+        1,
+        "2025-11-19T05:08:56.405062"
+      ],
+      [
+        1,
+        "2025-11-19T05:08:56.715214"
+      ],
+      [
+        1,
+        "2025-11-19T05:08:56.951920"
+      ],
+      [
+        1,
+        "2025-11-19T05:08:57.190751"
+      ],
+      [
+        1,
+        "2025-11-19T05:08:57.446221"
+      ],
+      [
+        1,
+        "2025-11-19T05:08:57.688200"
+      ]
+    ],
+    "created_utc": 1763557708.0,
+    "num_comments": 0,
+    "subreddit": "technology",
+    "url": "https://www.reuters.com/business/nvidia-chip-shift-smartphone-style-memory-double-server-memory-prices-by-end-2025-11-19/",
+    "selftext": "",
+    "permalink": "/r/technology/comments/1p178en/nvidia_shift_to_smartphonestyle_memory_lpddr/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T05:08:57.688200",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/technology/comments/1p178en/nvidia_shift_to_smartphonestyle_memory_lpddr/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 20,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_050852.json",
+      "scrape_002_20251119_050852.json",
+      "scrape_003_20251119_050853.json",
+      "scrape_004_20251119_050853.json",
+      "scrape_005_20251119_050853.json",
+      "scrape_006_20251119_050853.json",
+      "scrape_007_20251119_050854.json",
+      "scrape_008_20251119_050854.json",
+      "scrape_009_20251119_050854.json",
+      "scrape_010_20251119_050854.json",
+      "scrape_011_20251119_050855.json",
+      "scrape_012_20251119_050855.json",
+      "scrape_013_20251119_050855.json",
+      "scrape_014_20251119_050855.json",
+      "scrape_015_20251119_050856.json",
+      "scrape_016_20251119_050856.json",
+      "scrape_017_20251119_050856.json",
+      "scrape_018_20251119_050856.json",
+      "scrape_019_20251119_050857.json",
+      "scrape_020_20251119_050857.json"
+    ]
+  }
+}

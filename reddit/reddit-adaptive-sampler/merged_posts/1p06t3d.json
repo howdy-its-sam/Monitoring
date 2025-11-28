@@ -1,0 +1,49 @@
+{
+  "post": {
+    "id": "1p06t3d",
+    "title": "Fair Resource Allocation with Delayed Feedback? Try a Bi-Level Contextual Bandit",
+    "author": "Constant_Feedback728",
+    "score_history": [
+      [
+        2,
+        "2025-11-18T14:56:14.528585"
+      ],
+      [
+        2,
+        "2025-11-18T15:04:22.721258"
+      ],
+      [
+        2,
+        "2025-11-18T15:05:54.419844"
+      ],
+      [
+        2,
+        "2025-11-18T22:53:15.068419"
+      ]
+    ],
+    "created_utc": 1763455193.0,
+    "num_comments": 0,
+    "subreddit": "PromptEngineering",
+    "url": "https://www.reddit.com/r/PromptEngineering/comments/1p06t3d/fair_resource_allocation_with_delayed_feedback/",
+    "selftext": "If you’re working on systems where you must allocate *limited* resources to *people* \\- not UI variants - this framework is worth knowing. It solves the real world messiness that normal bandits ignore.\n\n# The problem\n\nYou need to decide:\n\n* *Who* gets an intervention\n* *Which* intervention (tutoring, coaching, healthcare, etc.)\n* While respecting fairness across demographic groups\n* While outcomes only show up *weeks or months later*\n* And while following real constraints (cooldowns, budget, capacity)\n\nMost ML setups choke on this combination: fairness + delays + cohorts + operational rules.\n\n# The idea\n\nA **bi-level contextual bandit**:\n\n1. **Meta-level:** Decides *how much budget each group gets* (e.g., Group A, B, C × Resource 1, 2) → Handles fairness + high-level allocation.\n2. **Base-level:** Picks the *best individual* inside each group using contextual UCB (or similar) → Handles personalization + \"who gets the intervention now.\"\n\nAdd realistic modelling:\n\n* **Delay kernels** → reward spreads across future rounds\n* **Cooldown windows** → avoid giving the same intervention repeatedly\n* **Cohort blocks** → students/patients/workers come in waves\n\n# A simple example\n\n**Scenario:**  \nA university has 3 groups (A, B, C) and 2 intervention types:\n\n* R1 = intensive tutoring (expensive, slow effect)\n* R2 = light mentoring (cheap, fast effect)\n* Budget = 100 interventions per semester\n* Outcome (GPA change) appears only at the end of the term\n* Same student cannot receive R1 twice in 2 weeks (cooldown)\n\n**Meta-level might propose:**\n\n* Group A → R1:25, R2:15\n* Group B → R1:30, R2:20\n* Group C → R1:5, R2:5\n\nWhy? Because Group B has historically lower retention, so the model allocates more budget there.\n\n**Base-level then picks individuals:**  \nInside each group, it runs contextual UCB:  \n`score = predicted_gain + uncertainty_bonus`\n\nand assigns interventions only to students who:\n\n* are eligible (cooldown OK)\n* fit the group budget\n* rank highest for expected improvement\n\nThis ends up improving fairness **and** academic outcomes without manual tuning.\n\n# Why devs should care\n\n* You can implement this with standard ML + orchestration code.\n* It’s deployable: respects constraints your Ops/Policy teams already enforce.\n* It’s way more realistic than treating delayed outcomes as noise.\n* Great for education, healthcare, social programs, workforce training, banking loyalty, and more.\n\n# More details?\n\n[Full breakdown](https://www.instruction.tips/post/bi-level-contextual-bandits-delayed-feedback)",
+    "permalink": "/r/PromptEngineering/comments/1p06t3d/fair_resource_allocation_with_delayed_feedback/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-18T22:53:15.068419",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/PromptEngineering/comments/1p06t3d/fair_resource_allocation_with_delayed_feedback/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 4,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_145614.json",
+      "scrape_002_20251118_150422.json",
+      "scrape_003_20251118_150554.json",
+      "scrape_004_20251118_225314.json"
+    ]
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "post": {
+    "id": "1p19s3q",
+    "title": "According to you what's best coding model in frontend and backend",
+    "author": "Independent-Wind4462",
+    "score_history": [
+      [
+        1,
+        "2025-11-19T06:55:11.088913"
+      ],
+      [
+        1,
+        "2025-11-19T06:55:11.316311"
+      ],
+      [
+        1,
+        "2025-11-19T06:55:11.670383"
+      ],
+      [
+        1,
+        "2025-11-19T06:55:11.906991"
+      ],
+      [
+        1,
+        "2025-11-19T06:55:12.210785"
+      ],
+      [
+        1,
+        "2025-11-19T06:55:12.487882"
+      ],
+      [
+        1,
+        "2025-11-19T06:55:12.771661"
+      ],
+      [
+        1,
+        "2025-11-19T06:55:13.016588"
+      ],
+      [
+        1,
+        "2025-11-19T06:55:13.280326"
+      ],
+      [
+        1,
+        "2025-11-19T06:55:13.614590"
+      ],
+      [
+        1,
+        "2025-11-19T06:55:13.884738"
+      ],
+      [
+        1,
+        "2025-11-19T06:55:14.227269"
+      ],
+      [
+        1,
+        "2025-11-19T06:55:14.540913"
+      ],
+      [
+        1,
+        "2025-11-19T06:55:14.797274"
+      ],
+      [
+        1,
+        "2025-11-19T06:55:15.070187"
+      ],
+      [
+        1,
+        "2025-11-19T06:55:15.291442"
+      ],
+      [
+        1,
+        "2025-11-19T06:55:15.558408"
+      ],
+      [
+        1,
+        "2025-11-19T06:55:15.790281"
+      ],
+      [
+        1,
+        "2025-11-19T06:55:21.252128"
+      ],
+      [
+        1,
+        "2025-11-19T06:55:21.488786"
+      ]
+    ],
+    "created_utc": 1763564090.0,
+    "num_comments": 0,
+    "subreddit": "singularity",
+    "url": "https://www.reddit.com/r/singularity/comments/1p19s3q/according_to_you_whats_best_coding_model_in/",
+    "selftext": "\n\n[View Poll](https://www.reddit.com/poll/1p19s3q)",
+    "permalink": "/r/singularity/comments/1p19s3q/according_to_you_whats_best_coding_model_in/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T06:55:21.488786",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/singularity/comments/1p19s3q/according_to_you_whats_best_coding_model_in/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 20,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_065510.json",
+      "scrape_002_20251119_065511.json",
+      "scrape_003_20251119_065511.json",
+      "scrape_004_20251119_065511.json",
+      "scrape_005_20251119_065511.json",
+      "scrape_006_20251119_065512.json",
+      "scrape_007_20251119_065512.json",
+      "scrape_008_20251119_065512.json",
+      "scrape_009_20251119_065513.json",
+      "scrape_010_20251119_065513.json",
+      "scrape_011_20251119_065513.json",
+      "scrape_012_20251119_065513.json",
+      "scrape_013_20251119_065514.json",
+      "scrape_014_20251119_065514.json",
+      "scrape_015_20251119_065514.json",
+      "scrape_016_20251119_065515.json",
+      "scrape_017_20251119_065515.json",
+      "scrape_018_20251119_065515.json",
+      "scrape_019_20251119_065521.json",
+      "scrape_020_20251119_065521.json"
+    ]
+  }
+}

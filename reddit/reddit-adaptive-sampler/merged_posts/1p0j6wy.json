@@ -1,0 +1,49 @@
+{
+  "post": {
+    "id": "1p0j6wy",
+    "title": "Data Scientist Open for Projects &amp; Opportunities",
+    "author": "imbindieh",
+    "score_history": [
+      [
+        1,
+        "2025-11-18T14:54:20.957331"
+      ],
+      [
+        1,
+        "2025-11-18T15:04:19.223710"
+      ],
+      [
+        1,
+        "2025-11-18T15:05:55.509406"
+      ],
+      [
+        1,
+        "2025-11-18T22:53:15.778682"
+      ]
+    ],
+    "created_utc": 1763489293.0,
+    "num_comments": 0,
+    "subreddit": "learnmachinelearning",
+    "url": "https://www.reddit.com/r/learnmachinelearning/comments/1p0j6wy/data_scientist_open_for_projects_opportunities/",
+    "selftext": "Hello everyone,\n\nI hope you're all doing well. I’m Godfrey a data scientist currently open to freelance tasks, collaborations, or full-time opportunities. I have experience working with data analysis, machine learning, data visualization, and building models that solve real-world problems.\n\nIf you or your organization needs help with anything related to data science—whether it’s data cleaning, exploratory analysis, predictive modeling, dashboards, or any other data-related task—I’d be more than happy to assist.\n\nI am also actively looking for data science roles, so if you know of any openings or are hiring, I would greatly appreciate being considered.\n\nFeel free to reach out via DM or comment here. Thank you for your time!",
+    "permalink": "/r/learnmachinelearning/comments/1p0j6wy/data_scientist_open_for_projects_opportunities/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-18T22:53:15.778682",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/learnmachinelearning/comments/1p0j6wy/data_scientist_open_for_projects_opportunities/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 4,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_145420.json",
+      "scrape_002_20251118_150419.json",
+      "scrape_003_20251118_150555.json",
+      "scrape_004_20251118_225315.json"
+    ]
+  }
+}

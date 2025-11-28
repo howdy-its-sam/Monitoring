@@ -1,0 +1,44 @@
+{
+  "post": {
+    "id": "1i2g94l",
+    "title": "US Unveils New Rules to Restrict Flow of Advanced Chips to China",
+    "author": "cporter202",
+    "score_history": [
+      [
+        1,
+        "2025-11-18T15:16:47.044517"
+      ],
+      [
+        1,
+        "2025-11-18T23:24:19.578998"
+      ],
+      [
+        1,
+        "2025-11-19T01:08:32.226716"
+      ]
+    ],
+    "created_utc": 1736999469.0,
+    "num_comments": 0,
+    "subreddit": "ainews",
+    "url": "https://www.aiwithchris.com/ai-tutorials/us-restricts-advanced-chips-china",
+    "selftext": "",
+    "permalink": "/r/ainews/comments/1i2g94l/us_unveils_new_rules_to_restrict_flow_of_advanced/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T01:08:32.226716",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/ainews/comments/1i2g94l/us_unveils_new_rules_to_restrict_flow_of_advanced/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_151646.json",
+      "scrape_002_20251118_232419.json",
+      "scrape_003_20251119_010832.json"
+    ]
+  }
+}

@@ -1,0 +1,1210 @@
+{
+  "post": {
+    "id": "1p08etz",
+    "title": "What’s the biggest challenge stopping ChatGPT (or any AI assistant) from replacing Google as a search engine?",
+    "author": "Singaporeinsight",
+    "score_history": [
+      [
+        8,
+        "2025-11-19T02:54:08.900369"
+      ],
+      [
+        9,
+        "2025-11-19T03:03:36.978521"
+      ],
+      [
+        7,
+        "2025-11-19T03:08:50.220082"
+      ]
+    ],
+    "created_utc": 1763461414.0,
+    "num_comments": 33,
+    "subreddit": "ChatGPTPro",
+    "url": "https://www.reddit.com/r/ChatGPTPro/comments/1p08etz/whats_the_biggest_challenge_stopping_chatgpt_or/",
+    "selftext": "With AI tools getting smarter every month, a lot of people say ChatGPT could eventually replace traditional search engines like Google. But when you look deeper, there are still huge gaps, reliability, real-time info, citations, user trust, business models, and more.\n\nSo I’m curious: **What do you think is the** ***biggest*** **challenge stopping ChatGPT from fully replacing Google as the primary search engine?**\n\n  \nIs it accuracy? Fresh data? User habits? Monetization? Legal issues? Something else?",
+    "permalink": "/r/ChatGPTPro/comments/1p08etz/whats_the_biggest_challenge_stopping_chatgpt_or/"
+  },
+  "comments": [
+    {
+      "id": "npgxw7q",
+      "parent_id": "t3_1p08etz",
+      "author": "qualityvote2",
+      "text_history": [
+        [
+          "Hello u/Singaporeinsight 👋 Welcome to r/ChatGPTPro!  \nThis is a community for advanced ChatGPT, AI tools, and prompt engineering discussions.  \nOther members will now vote on whether your post fits our community guidelines.\n\n\n---\n\nFor other users, does this post fit the subreddit?\n\nIf so, **upvote this comment!**\n\nOtherwise, **downvote this comment!**\n\nAnd if it does break the rules, **downvote this comment and report this post!**",
+          "2025-11-19T02:54:08.900369"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:54:08.900369"
+        ],
+        [
+          1,
+          "2025-11-19T03:03:36.978521"
+        ],
+        [
+          1,
+          "2025-11-19T03:08:50.220082"
+        ]
+      ],
+      "created_utc": 1763461415.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTPro/comments/1p08etz/whats_the_biggest_challenge_stopping_chatgpt_or/npgxw7q/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npgyduo",
+      "parent_id": "t3_1p08etz",
+      "author": "Mean_Employment_7679",
+      "text_history": [
+        [
+          "1) Facts, and fabrication of information. \n\n2) AI learning new \"facts\" from AI generated slop-answer websites which seem to for some reason rank well.",
+          "2025-11-19T02:54:08.900369"
+        ]
+      ],
+      "score_history": [
+        [
+          17,
+          "2025-11-19T02:54:08.900369"
+        ],
+        [
+          18,
+          "2025-11-19T03:03:36.978521"
+        ],
+        [
+          17,
+          "2025-11-19T03:08:50.220082"
+        ]
+      ],
+      "created_utc": 1763461713.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTPro/comments/1p08etz/whats_the_biggest_challenge_stopping_chatgpt_or/npgyduo/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "nph8elc",
+          "parent_id": "t1_npgyduo",
+          "author": "Jonathan_Rivera",
+          "text_history": [
+            [
+              "I asked gpt to take the three eye glass businesses on my insurance and see which ones offered same day glasses (vs sending it out). It told me all three. I asked for supporting detail, how did you come to that conclusion, provide the website or reference. It couldn’t, it just assumed based on vibe.",
+              "2025-11-19T02:54:08.900369"
+            ]
+          ],
+          "score_history": [
+            [
+              2,
+              "2025-11-19T02:54:08.900369"
+            ],
+            [
+              2,
+              "2025-11-19T03:03:36.978521"
+            ],
+            [
+              2,
+              "2025-11-19T03:08:50.220082"
+            ]
+          ],
+          "created_utc": 1763467109.0,
+          "depth": 1,
+          "permalink": "/r/ChatGPTPro/comments/1p08etz/whats_the_biggest_challenge_stopping_chatgpt_or/nph8elc/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        },
+        {
+          "id": "nphi1ls",
+          "parent_id": "t1_npgyduo",
+          "author": "Nonomomomo2",
+          "text_history": [
+            [
+              "This, the fact that it lies.",
+              "2025-11-19T02:54:08.900369"
+            ]
+          ],
+          "score_history": [
+            [
+              2,
+              "2025-11-19T02:54:08.900369"
+            ],
+            [
+              2,
+              "2025-11-19T03:03:36.978521"
+            ],
+            [
+              2,
+              "2025-11-19T03:08:50.220082"
+            ]
+          ],
+          "created_utc": 1763471104.0,
+          "depth": 1,
+          "permalink": "/r/ChatGPTPro/comments/1p08etz/whats_the_biggest_challenge_stopping_chatgpt_or/nphi1ls/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "nphjgy1",
+              "parent_id": "t1_nphi1ls",
+              "author": "manjar-92",
+              "text_history": [
+                [
+                  "Yeah, the lying part is a huge deal. Users need to trust the info they get, and if AI keeps spitting out falsehoods, it’s a hard sell. Plus, without accountability, it just makes the whole thing riskier.",
+                  "2025-11-19T02:54:08.900369"
+                ]
+              ],
+              "score_history": [
+                [
+                  2,
+                  "2025-11-19T02:54:08.900369"
+                ],
+                [
+                  2,
+                  "2025-11-19T03:03:36.978521"
+                ],
+                [
+                  2,
+                  "2025-11-19T03:08:50.220082"
+                ]
+              ],
+              "created_utc": 1763471616.0,
+              "depth": 2,
+              "permalink": "/r/ChatGPTPro/comments/1p08etz/whats_the_biggest_challenge_stopping_chatgpt_or/nphjgy1/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": [
+                {
+                  "id": "nphl4zs",
+                  "parent_id": "t1_nphjgy1",
+                  "author": "Nonomomomo2",
+                  "text_history": [
+                    [
+                      "100%",
+                      "2025-11-19T02:54:08.900369"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      1,
+                      "2025-11-19T02:54:08.900369"
+                    ],
+                    [
+                      1,
+                      "2025-11-19T03:03:36.978521"
+                    ],
+                    [
+                      1,
+                      "2025-11-19T03:08:50.220082"
+                    ]
+                  ],
+                  "created_utc": 1763472188.0,
+                  "depth": 3,
+                  "permalink": "/r/ChatGPTPro/comments/1p08etz/whats_the_biggest_challenge_stopping_chatgpt_or/nphl4zs/",
+                  "is_submitter": false,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "npjrlmp",
+              "parent_id": "t1_nphi1ls",
+              "author": "Disgruntled__Goat",
+              "text_history": [
+                [
+                  "But that’s no different to Google’s AI lying on the search page. ",
+                  "2025-11-19T02:54:08.900369"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-19T02:54:08.900369"
+                ],
+                [
+                  1,
+                  "2025-11-19T03:03:36.978521"
+                ],
+                [
+                  1,
+                  "2025-11-19T03:08:50.220082"
+                ]
+              ],
+              "created_utc": 1763495770.0,
+              "depth": 2,
+              "permalink": "/r/ChatGPTPro/comments/1p08etz/whats_the_biggest_challenge_stopping_chatgpt_or/npjrlmp/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "npls071",
+          "parent_id": "t1_npgyduo",
+          "author": "stockpreacher",
+          "text_history": [
+            [
+              "Er. I don't know that Google I'd all about \"facts\".\n\nAds, artificially ranked results, none of the sources are vetted. Like, yes, you clicked on a link that goes to an article - *but it's some fake but looks official publication*.\n\nBetter results if you ask ChatGpt \"Find me official news sources that support or refute this:\" Then review those sources. \n\nGoogle crawls the web just like ChatGpt. Both are fooled so not really a difference except, again, you can ask ChaptGpt prove itself and then you can verify. Google doesn't have this feature.\n\nGoogle can give you other sources to read to verify, but sometimes you gave to scroll down.\n\nAlso, Google is going to integrate their LLM into their search. You think they're going to just hope the search engine market is going to keep crushing it now?",
+              "2025-11-19T02:54:08.900369"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-19T02:54:08.900369"
+            ],
+            [
+              1,
+              "2025-11-19T03:03:36.978521"
+            ],
+            [
+              1,
+              "2025-11-19T03:08:50.220082"
+            ]
+          ],
+          "created_utc": 1763519812.0,
+          "depth": 1,
+          "permalink": "/r/ChatGPTPro/comments/1p08etz/whats_the_biggest_challenge_stopping_chatgpt_or/npls071/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        },
+        {
+          "id": "nph2ziz",
+          "parent_id": "t1_npgyduo",
+          "author": "invalidbehaviour",
+          "text_history": [
+            [
+              "Hallucination can be mitigated to pretty much 0 with proper prompting.",
+              "2025-11-19T02:54:08.900369"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-19T02:54:08.900369"
+            ],
+            [
+              1,
+              "2025-11-19T03:03:36.978521"
+            ],
+            [
+              1,
+              "2025-11-19T03:08:50.220082"
+            ]
+          ],
+          "created_utc": 1763464385.0,
+          "depth": 1,
+          "permalink": "/r/ChatGPTPro/comments/1p08etz/whats_the_biggest_challenge_stopping_chatgpt_or/nph2ziz/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "nphaugf",
+              "parent_id": "t1_nph2ziz",
+              "author": "Mean_Employment_7679",
+              "text_history": [
+                [
+                  "Unfortunately not. You can add a rules file, tell the LLM to always follow the rules and it will still ignore you some of the time. It's simply not predictable enough to say you'll never get hallucinations.",
+                  "2025-11-19T02:54:08.900369"
+                ]
+              ],
+              "score_history": [
+                [
+                  5,
+                  "2025-11-19T02:54:08.900369"
+                ],
+                [
+                  5,
+                  "2025-11-19T03:03:36.978521"
+                ],
+                [
+                  7,
+                  "2025-11-19T03:08:50.220082"
+                ]
+              ],
+              "created_utc": 1763468165.0,
+              "depth": 2,
+              "permalink": "/r/ChatGPTPro/comments/1p08etz/whats_the_biggest_challenge_stopping_chatgpt_or/nphaugf/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            },
+            {
+              "id": "nph4msq",
+              "parent_id": "t1_nph2ziz",
+              "author": "PhiloLibrarian",
+              "text_history": [
+                [
+                  "Gen AI doesn’t have access to proprietary content (full books, academic journals, any content behind a paywall…) so if you use it as an information source, it’s just looking at the surface (junkier) parts on the WWW. Just because it’s on the Internet doesn’t mean it’s openly accessible…\n\nSo unless you’re feeding it the sources, you’re going to get some hallucinated content or content that’s only from free websites.",
+                  "2025-11-19T02:54:08.900369"
+                ]
+              ],
+              "score_history": [
+                [
+                  4,
+                  "2025-11-19T02:54:08.900369"
+                ],
+                [
+                  3,
+                  "2025-11-19T03:03:36.978521"
+                ],
+                [
+                  4,
+                  "2025-11-19T03:08:50.220082"
+                ]
+              ],
+              "created_utc": 1763465281.0,
+              "depth": 2,
+              "permalink": "/r/ChatGPTPro/comments/1p08etz/whats_the_biggest_challenge_stopping_chatgpt_or/nph4msq/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": [
+                {
+                  "id": "nph53kj",
+                  "parent_id": "t1_nph4msq",
+                  "author": "invalidbehaviour",
+                  "text_history": [
+                    [
+                      "That's not hallucination, though, that's just poor quality training data.\n\nThe web-search agent aspect should have the same access as the Google bot thought",
+                      "2025-11-19T02:54:08.900369"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      2,
+                      "2025-11-19T02:54:08.900369"
+                    ],
+                    [
+                      2,
+                      "2025-11-19T03:03:36.978521"
+                    ],
+                    [
+                      2,
+                      "2025-11-19T03:08:50.220082"
+                    ]
+                  ],
+                  "created_utc": 1763465527.0,
+                  "depth": 3,
+                  "permalink": "/r/ChatGPTPro/comments/1p08etz/whats_the_biggest_challenge_stopping_chatgpt_or/nph53kj/",
+                  "is_submitter": false,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": [
+                    {
+                      "id": "nph6fkw",
+                      "parent_id": "t1_nph53kj",
+                      "author": "PhiloLibrarian",
+                      "text_history": [
+                        [
+                          "Right, but what Gen AI/Chat GPT does is generates similar “seeming” examples by eating up lots of data it seeks on the Web, and runs it through algorithms to generate fictitious content in the same style.\n\nSource: I’m in academic librarian with access to most of the high-quality subscription databases and I see this on a daily basis. Students and faculty use AI and then come to us asking for the sources it gave them… which, spoiler alert, **don’t exist!!!**\n\nThe workaround of course is for humans to get the sources (the good ones) and upload them to the GPT, but that is against licensing and copyright laws…",
+                          "2025-11-19T02:54:08.900369"
+                        ]
+                      ],
+                      "score_history": [
+                        [
+                          2,
+                          "2025-11-19T02:54:08.900369"
+                        ],
+                        [
+                          2,
+                          "2025-11-19T03:03:36.978521"
+                        ],
+                        [
+                          2,
+                          "2025-11-19T03:08:50.220082"
+                        ]
+                      ],
+                      "created_utc": 1763466196.0,
+                      "depth": 4,
+                      "permalink": "/r/ChatGPTPro/comments/1p08etz/whats_the_biggest_challenge_stopping_chatgpt_or/nph6fkw/",
+                      "is_submitter": false,
+                      "controversiality": 0,
+                      "gilded": 0,
+                      "edited": false,
+                      "deleted": false,
+                      "deleted_at": null,
+                      "replies": [
+                        {
+                          "id": "nph848d",
+                          "parent_id": "t1_nph6fkw",
+                          "author": "invalidbehaviour",
+                          "text_history": [
+                            [
+                              "I'm curious to know what sort of prompts are being used. I would never generate content with an LLM but I use then for research all the time. Using a prompt that starts something like: \"You are a research assistant.  You always prioritise factual accuracy and precision over keeping me happy.  You should answer 'I do not know' rather than providing an answer containing unsubstantiated information\" greatly reduces , or even eliminates hallucination",
+                              "2025-11-19T02:54:08.900369"
+                            ]
+                          ],
+                          "score_history": [
+                            [
+                              2,
+                              "2025-11-19T02:54:08.900369"
+                            ],
+                            [
+                              2,
+                              "2025-11-19T03:03:36.978521"
+                            ],
+                            [
+                              2,
+                              "2025-11-19T03:08:50.220082"
+                            ]
+                          ],
+                          "created_utc": 1763466980.0,
+                          "depth": 5,
+                          "permalink": "/r/ChatGPTPro/comments/1p08etz/whats_the_biggest_challenge_stopping_chatgpt_or/nph848d/",
+                          "is_submitter": false,
+                          "controversiality": 0,
+                          "gilded": 0,
+                          "edited": false,
+                          "deleted": false,
+                          "deleted_at": null,
+                          "replies": [
+                            {
+                              "id": "nphbdqw",
+                              "parent_id": "t1_nph848d",
+                              "author": "PhiloLibrarian",
+                              "text_history": [
+                                [
+                                  "Right, you can give it excellent information literacy prompts but unless you’re also feeding it high quality sources you’re always going to get either hallucinations or slop… the only way I’ve been able to effectively use ChatGPT pro specifically using the custom GPT and projects features, has been to unknowingly upload content I should not have and I got in big trouble for it…",
+                                  "2025-11-19T02:54:08.900369"
+                                ]
+                              ],
+                              "score_history": [
+                                [
+                                  1,
+                                  "2025-11-19T02:54:08.900369"
+                                ],
+                                [
+                                  1,
+                                  "2025-11-19T03:03:36.978521"
+                                ],
+                                [
+                                  1,
+                                  "2025-11-19T03:08:50.220082"
+                                ]
+                              ],
+                              "created_utc": 1763468399.0,
+                              "depth": 6,
+                              "permalink": "/r/ChatGPTPro/comments/1p08etz/whats_the_biggest_challenge_stopping_chatgpt_or/nphbdqw/",
+                              "is_submitter": false,
+                              "controversiality": 0,
+                              "gilded": 0,
+                              "edited": false,
+                              "deleted": false,
+                              "deleted_at": null,
+                              "replies": [
+                                {
+                                  "id": "npik3kd",
+                                  "parent_id": "t1_nphbdqw",
+                                  "author": "invalidbehaviour",
+                                  "text_history": [
+                                    [
+                                      "That's what Enterprise mode is for",
+                                      "2025-11-19T02:54:08.900369"
+                                    ]
+                                  ],
+                                  "score_history": [
+                                    [
+                                      1,
+                                      "2025-11-19T02:54:08.900369"
+                                    ],
+                                    [
+                                      1,
+                                      "2025-11-19T03:03:36.978521"
+                                    ],
+                                    [
+                                      1,
+                                      "2025-11-19T03:08:50.220082"
+                                    ]
+                                  ],
+                                  "created_utc": 1763483031.0,
+                                  "depth": 7,
+                                  "permalink": "/r/ChatGPTPro/comments/1p08etz/whats_the_biggest_challenge_stopping_chatgpt_or/npik3kd/",
+                                  "is_submitter": false,
+                                  "controversiality": 0,
+                                  "gilded": 0,
+                                  "edited": false,
+                                  "deleted": false,
+                                  "deleted_at": null,
+                                  "replies": [
+                                    {
+                                      "id": "npitz2k",
+                                      "parent_id": "t1_npik3kd",
+                                      "author": "PhiloLibrarian",
+                                      "text_history": [
+                                        [
+                                          "Breaking laws? Cool!😎",
+                                          "2025-11-19T02:54:08.900369"
+                                        ]
+                                      ],
+                                      "score_history": [
+                                        [
+                                          1,
+                                          "2025-11-19T02:54:08.900369"
+                                        ],
+                                        [
+                                          1,
+                                          "2025-11-19T03:03:36.978521"
+                                        ],
+                                        [
+                                          1,
+                                          "2025-11-19T03:08:50.220082"
+                                        ]
+                                      ],
+                                      "created_utc": 1763485924.0,
+                                      "depth": 8,
+                                      "permalink": "/r/ChatGPTPro/comments/1p08etz/whats_the_biggest_challenge_stopping_chatgpt_or/npitz2k/",
+                                      "is_submitter": false,
+                                      "controversiality": 0,
+                                      "gilded": 0,
+                                      "edited": false,
+                                      "deleted": false,
+                                      "deleted_at": null,
+                                      "replies": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "nphnalb",
+      "parent_id": "t3_1p08etz",
+      "author": "Old-Bake-420",
+      "text_history": [
+        [
+          "Nothing, it's already replaced Google for me. It works way better than Google too. I'm not talking about accepting its generated answers at face value, I mean literally as a search engine. If I'm looking for a particular website, ChatGPT is way better at finding it than Google is. \n\nThere's also an incentive misalignment with Google. They actually deliberately made it's search results worse so people will engage longer on the page, thus clicking more ads. (This actually happened) With ChatGPT, I pay a monthly fee, that expense is for tokens, they are incentivized to find me the best answer as fast as possible so I burn less tokens.",
+          "2025-11-19T02:54:08.900369"
+        ]
+      ],
+      "score_history": [
+        [
+          4,
+          "2025-11-19T02:54:08.900369"
+        ],
+        [
+          4,
+          "2025-11-19T03:03:36.978521"
+        ],
+        [
+          4,
+          "2025-11-19T03:08:50.220082"
+        ]
+      ],
+      "created_utc": 1763472907.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTPro/comments/1p08etz/whats_the_biggest_challenge_stopping_chatgpt_or/nphnalb/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npgyprn",
+      "parent_id": "t3_1p08etz",
+      "author": "bbwfetishacc",
+      "text_history": [
+        [
+          "most of the stuff it has, but sometimes you look for access to places with information, nto just the information paraphrased, so it will never truly replace.",
+          "2025-11-19T02:54:08.900369"
+        ]
+      ],
+      "score_history": [
+        [
+          3,
+          "2025-11-19T02:54:08.900369"
+        ],
+        [
+          3,
+          "2025-11-19T03:03:36.978521"
+        ],
+        [
+          3,
+          "2025-11-19T03:08:50.220082"
+        ]
+      ],
+      "created_utc": 1763461912.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTPro/comments/1p08etz/whats_the_biggest_challenge_stopping_chatgpt_or/npgyprn/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nphnyrd",
+      "parent_id": "t3_1p08etz",
+      "author": "Netwolfalpha",
+      "text_history": [
+        [
+          "ChatGPT and other AI services have already replaced Google for me.",
+          "2025-11-19T02:54:08.900369"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-19T02:54:08.900369"
+        ],
+        [
+          2,
+          "2025-11-19T03:03:36.978521"
+        ],
+        [
+          2,
+          "2025-11-19T03:08:50.220082"
+        ]
+      ],
+      "created_utc": 1763473128.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTPro/comments/1p08etz/whats_the_biggest_challenge_stopping_chatgpt_or/nphnyrd/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npgzdav",
+      "parent_id": "t3_1p08etz",
+      "author": "codysattva",
+      "text_history": [
+        [
+          "Because Google owns the best interface, and the best data.\n\nGoogle already owns the interface that many people use already, through Android and Chrome. Google is partnering with Apple to be the main iOS chat interface as well, so both of the major phone interfaces will be integrated with Gemini.\n\nAnd in the AI marketplace, data is king. Google has instant access to the entire internet, archived and updated instantly everyday, and seamlessly integrated within Gemini. Company partnerships and technology integrations will favor the company with the AI trained on the best quality content, because people will always favor quality content.",
+          "2025-11-19T02:54:08.900369"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-19T02:54:08.900369"
+        ],
+        [
+          3,
+          "2025-11-19T03:03:36.978521"
+        ],
+        [
+          3,
+          "2025-11-19T03:08:50.220082"
+        ]
+      ],
+      "created_utc": 1763462305.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTPro/comments/1p08etz/whats_the_biggest_challenge_stopping_chatgpt_or/npgzdav/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": 1763462601.0,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nph0f35",
+      "parent_id": "t3_1p08etz",
+      "author": "theladyface",
+      "text_history": [
+        [
+          "Compute split across the number of users (paid and free) degrades performance for everyone. The platform and models are capable of so much more, but the constrained compute leads to an embarrassingly bad experience for everyone, with over-quantized models, tiny context windows, and disabled features.",
+          "2025-11-19T02:54:08.900369"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:54:08.900369"
+        ],
+        [
+          1,
+          "2025-11-19T03:03:36.978521"
+        ],
+        [
+          1,
+          "2025-11-19T03:08:50.220082"
+        ]
+      ],
+      "created_utc": 1763462920.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTPro/comments/1p08etz/whats_the_biggest_challenge_stopping_chatgpt_or/nph0f35/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nph4had",
+      "parent_id": "t3_1p08etz",
+      "author": "Maze_of_Ith7",
+      "text_history": [
+        [
+          "Consumer inertia and habits is the biggest challenge\n\nCase in point it took my dad about a decade of us telling him to use Google. It’ll probably take another decade or more for him to drift to a different or better model",
+          "2025-11-19T02:54:08.900369"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:54:08.900369"
+        ],
+        [
+          1,
+          "2025-11-19T03:03:36.978521"
+        ],
+        [
+          1,
+          "2025-11-19T03:08:50.220082"
+        ]
+      ],
+      "created_utc": 1763465199.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTPro/comments/1p08etz/whats_the_biggest_challenge_stopping_chatgpt_or/nph4had/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nph66yz",
+      "parent_id": "t3_1p08etz",
+      "author": "peterinjapan",
+      "text_history": [
+        [
+          "ChatGPT is often a useful tool for getting information quickly. But of course, there’s a 15 or 20% chance that the information is wrong, or partially wrong. Also, when you Google something, you’re presented with eight or 10 different possible links, which may or may not give you exactly the information you need. At least you have the ability to perhaps click the right one and get what you need accurately.",
+          "2025-11-19T02:54:08.900369"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:54:08.900369"
+        ],
+        [
+          1,
+          "2025-11-19T03:03:36.978521"
+        ],
+        [
+          1,
+          "2025-11-19T03:08:50.220082"
+        ]
+      ],
+      "created_utc": 1763466082.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTPro/comments/1p08etz/whats_the_biggest_challenge_stopping_chatgpt_or/nph66yz/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nphihhd",
+      "parent_id": "t3_1p08etz",
+      "author": "recoveringasshole0",
+      "text_history": [
+        [
+          "I already use ChatGPT for probably 85% of what I used to google.",
+          "2025-11-19T02:54:08.900369"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:54:08.900369"
+        ],
+        [
+          1,
+          "2025-11-19T03:03:36.978521"
+        ],
+        [
+          1,
+          "2025-11-19T03:08:50.220082"
+        ]
+      ],
+      "created_utc": 1763471265.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTPro/comments/1p08etz/whats_the_biggest_challenge_stopping_chatgpt_or/nphihhd/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nphpzjn",
+      "parent_id": "t3_1p08etz",
+      "author": "ChanDW",
+      "text_history": [
+        [
+          "Nothing. Chatgpt helped me find out from what website I got an unauthorized charge from just from the code on my bank statement",
+          "2025-11-19T02:54:08.900369"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:54:08.900369"
+        ],
+        [
+          1,
+          "2025-11-19T03:03:36.978521"
+        ],
+        [
+          1,
+          "2025-11-19T03:08:50.220082"
+        ]
+      ],
+      "created_utc": 1763473779.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTPro/comments/1p08etz/whats_the_biggest_challenge_stopping_chatgpt_or/nphpzjn/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npjkfzr",
+      "parent_id": "t3_1p08etz",
+      "author": "No-Line815",
+      "text_history": [
+        [
+          "convincing everyone to switch and people wanting to know the facts rather than generated content",
+          "2025-11-19T02:54:08.900369"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:54:08.900369"
+        ],
+        [
+          1,
+          "2025-11-19T03:03:36.978521"
+        ],
+        [
+          1,
+          "2025-11-19T03:08:50.220082"
+        ]
+      ],
+      "created_utc": 1763493631.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTPro/comments/1p08etz/whats_the_biggest_challenge_stopping_chatgpt_or/npjkfzr/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npjpned",
+      "parent_id": "t3_1p08etz",
+      "author": "ExtraGloves",
+      "text_history": [
+        [
+          "It’s not a search engine. I don’t want it to be. It’s also slow. I typically google stuff to see the websites I want to see and the info from those pages. I use chat got for many other things. Perplexity I use for something closer to Google for fact checking and getting quick answers. It’s snappy. \n\nLike I get people use ChatGPT for recipes and all that but when I look up a recipe I don’t want to just blindly follow ChatGPT. I want to look at 10 recipes on 10 pages and the reviews and comments and whatnot. \n\nWhen I google and add Reddit I want to check different Reddit posts and comments about the topic. Not get a summary of a few. \n\nThey don’t need to replace each other and I’d rather have choices than not.",
+          "2025-11-19T02:54:08.900369"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:54:08.900369"
+        ],
+        [
+          1,
+          "2025-11-19T03:03:36.978521"
+        ],
+        [
+          1,
+          "2025-11-19T03:08:50.220082"
+        ]
+      ],
+      "created_utc": 1763495193.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTPro/comments/1p08etz/whats_the_biggest_challenge_stopping_chatgpt_or/npjpned/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npkhbxr",
+      "parent_id": "t3_1p08etz",
+      "author": "mackross",
+      "text_history": [
+        [
+          "IMO it will replace it, but there is a good chance the winner will still be a Google. Google has the deepest and most liquid ad inventory in the world (that is they’ve got an ad for almost everything, and they make the most off of every impression). Once the VC money dries up and no one wants to pay for their AI powered search, the best ad engine will probably win. Sure we’ll probably all have free AI and AI powered search, but it’s almost surely going to have ads injected into the context or incorporate some other way and it’ll probably use every little desire it knows about you to find you the perfect ad. It might even write the perfect ad based on your personality. What about local models? They’re much more useful when they can discover stuff. Unless you’re going to pay for search, you’ll probably end up using a free search API from Google. Add to that complete vertical integration in AI and exclusive integrations into their own SaaS products, and finally they’ve got more to lose than everyone, a founder is back on the ground, and they have an ungodly amount of cash.",
+          "2025-11-19T02:54:08.900369"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:54:08.900369"
+        ],
+        [
+          1,
+          "2025-11-19T03:03:36.978521"
+        ],
+        [
+          1,
+          "2025-11-19T03:08:50.220082"
+        ]
+      ],
+      "created_utc": 1763503518.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTPro/comments/1p08etz/whats_the_biggest_challenge_stopping_chatgpt_or/npkhbxr/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npl1odw",
+      "parent_id": "t3_1p08etz",
+      "author": "Temporary_Payment593",
+      "text_history": [
+        [
+          "Gemini 3? Gemini 4 ?",
+          "2025-11-19T02:54:08.900369"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:54:08.900369"
+        ],
+        [
+          1,
+          "2025-11-19T03:03:36.978521"
+        ],
+        [
+          1,
+          "2025-11-19T03:08:50.220082"
+        ]
+      ],
+      "created_utc": 1763510432.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTPro/comments/1p08etz/whats_the_biggest_challenge_stopping_chatgpt_or/npl1odw/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nplseil",
+      "parent_id": "t3_1p08etz",
+      "author": "stockpreacher",
+      "text_history": [
+        [
+          "The biggest challenge?\n\nGreed. \n\nCompanies are in a war for who takes what in this new market. That's what always happens when new tech rolls into the scene.",
+          "2025-11-19T02:54:08.900369"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:54:08.900369"
+        ],
+        [
+          1,
+          "2025-11-19T03:03:36.978521"
+        ],
+        [
+          1,
+          "2025-11-19T03:08:50.220082"
+        ]
+      ],
+      "created_utc": 1763519956.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTPro/comments/1p08etz/whats_the_biggest_challenge_stopping_chatgpt_or/nplseil/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nph6red",
+      "parent_id": "t3_1p08etz",
+      "author": "m98789",
+      "text_history": [
+        [
+          "The chatbots themselves use Google as a search engine.",
+          "2025-11-19T02:54:08.900369"
+        ]
+      ],
+      "score_history": [
+        [
+          0,
+          "2025-11-19T02:54:08.900369"
+        ],
+        [
+          0,
+          "2025-11-19T03:03:36.978521"
+        ],
+        [
+          0,
+          "2025-11-19T03:08:50.220082"
+        ]
+      ],
+      "created_utc": 1763466355.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTPro/comments/1p08etz/whats_the_biggest_challenge_stopping_chatgpt_or/nph6red/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nphmm29",
+      "parent_id": "t3_1p08etz",
+      "author": "AlarkaHillbilly",
+      "text_history": [
+        [
+          "I don’t think the real blocker is “intelligence” at all. It’s trusted, up-to-date, source-linked retrieval at scale.\n\n\n\nA search engine isn’t just “answering questions.” It’s:\n\n• Crawling a constantly changing web\n\n• Deciding what to index and what to ignore\n\n• Ranking billions of pages while fighting spam and manipulation\n\n• Showing you who said something so you can judge whether to trust it\n\n• Shifting a lot of legal and factual responsibility onto the site you click, not the search engine itself\n\n\n\nA pure AI assistant, by default, does almost the opposite:\n\n• It compresses many sources into one fluent answer\n\n• It doesn’t naturally expose which sentence came from where\n\n• It can sound confident even when the underlying data is stale or weak\n\n• And the responsibility for errors lands on the AI provider, not some third-party webpage\n\n\n\nSo for an AI assistant to really replace something like Google, it has to grow an extra layer most people never see:\n\nStrict separation of facts vs. guesses.\n\nThe system has to mark “this is directly from a trusted source” vs. “this is my inference” instead of blending them.\n\nGoverned sources, not mystery data.\n\nYou don’t let the model pull from “the whole internet” for everything. You define which types of questions can use which classes of sources (e.g., official standards, primary research, vetted references) and you enforce that.\n\nDeterministic reasoning, not vibes.\n\nSame question + same sources → same answer. That means you wrap the model in rules so it can’t just “wing it” when the evidence is thin or missing. It must say what it knows, what it doesn’t, and where it got it.\n\nA retrieval layer that behaves more like a search engine.\n\nUnder the hood you still need crawling, indexing, and ranking — but now they feed into the AI as a retrieval system, not directly to the user. The AI is a reasoning and explanation layer on top of a very disciplined search stack.\n\nWhen you do those things, you don’t just bolt “chat” onto search. You turn the AI into a kind of governed interface over a search-like infrastructure: fresh data underneath, explicit rules and verification on top.\n\nUntil that stack exists and is mature (governance + retrieval + verification), AI assistants will be amazing companions to Google, but not full replacements.\n\nI’ve built a governed AI interface around these concepts, and in practice it works like a charm. It became my daily driver because it stays accurate and consistent.",
+          "2025-11-19T02:54:08.900369"
+        ]
+      ],
+      "score_history": [
+        [
+          0,
+          "2025-11-19T02:54:08.900369"
+        ],
+        [
+          0,
+          "2025-11-19T03:03:36.978521"
+        ],
+        [
+          0,
+          "2025-11-19T03:08:50.220082"
+        ]
+      ],
+      "created_utc": 1763472680.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTPro/comments/1p08etz/whats_the_biggest_challenge_stopping_chatgpt_or/nphmm29/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:08:50.220082",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/ChatGPTPro/comments/1p08etz/whats_the_biggest_challenge_stopping_chatgpt_or/",
+    "total_comments": 33,
+    "top_level_comments": 18,
+    "api_requests": 1,
+    "expected_comments": 33,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_025408.json",
+      "scrape_002_20251119_030336.json",
+      "scrape_003_20251119_030849.json"
+    ]
+  }
+}

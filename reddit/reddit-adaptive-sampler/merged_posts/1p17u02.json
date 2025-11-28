@@ -1,0 +1,129 @@
+{
+  "post": {
+    "id": "1p17u02",
+    "title": "Practise AI/ML coding questions in leetcode style",
+    "author": "Big-Stick4446",
+    "score_history": [
+      [
+        1,
+        "2025-11-19T05:35:52.682177"
+      ],
+      [
+        1,
+        "2025-11-19T05:35:52.920283"
+      ],
+      [
+        1,
+        "2025-11-19T05:35:53.160640"
+      ],
+      [
+        1,
+        "2025-11-19T05:35:53.358755"
+      ],
+      [
+        1,
+        "2025-11-19T05:35:53.600151"
+      ],
+      [
+        1,
+        "2025-11-19T05:35:53.841775"
+      ],
+      [
+        1,
+        "2025-11-19T05:35:54.069526"
+      ],
+      [
+        1,
+        "2025-11-19T05:35:54.285188"
+      ],
+      [
+        1,
+        "2025-11-19T05:35:54.525529"
+      ],
+      [
+        1,
+        "2025-11-19T05:35:54.728960"
+      ],
+      [
+        1,
+        "2025-11-19T05:35:54.983287"
+      ],
+      [
+        1,
+        "2025-11-19T05:35:55.210266"
+      ],
+      [
+        1,
+        "2025-11-19T05:35:55.453697"
+      ],
+      [
+        1,
+        "2025-11-19T05:35:55.686321"
+      ],
+      [
+        1,
+        "2025-11-19T05:35:55.922472"
+      ],
+      [
+        1,
+        "2025-11-19T05:35:56.135654"
+      ],
+      [
+        1,
+        "2025-11-19T05:35:56.370113"
+      ],
+      [
+        1,
+        "2025-11-19T05:35:56.580803"
+      ],
+      [
+        1,
+        "2025-11-19T05:35:56.832820"
+      ],
+      [
+        1,
+        "2025-11-19T05:35:57.063121"
+      ]
+    ],
+    "created_utc": 1763559288.0,
+    "num_comments": 0,
+    "subreddit": "learnmachinelearning",
+    "url": "https://v.redd.it/5m3ni2b0v72g1",
+    "selftext": "I made a platform called **TensorTonic** where you can practise implementing fundamental **ML algorithms** around classical ML, maths, nn etc.\n\nHere’s the link - [tensortonic.com](http://tensortonic.com)",
+    "permalink": "/r/learnmachinelearning/comments/1p17u02/practise_aiml_coding_questions_in_leetcode_style/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T05:35:57.063121",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/learnmachinelearning/comments/1p17u02/practise_aiml_coding_questions_in_leetcode_style/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 20,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_053552.json",
+      "scrape_002_20251119_053552.json",
+      "scrape_003_20251119_053552.json",
+      "scrape_004_20251119_053553.json",
+      "scrape_005_20251119_053553.json",
+      "scrape_006_20251119_053553.json",
+      "scrape_007_20251119_053553.json",
+      "scrape_008_20251119_053554.json",
+      "scrape_009_20251119_053554.json",
+      "scrape_010_20251119_053554.json",
+      "scrape_011_20251119_053554.json",
+      "scrape_012_20251119_053554.json",
+      "scrape_013_20251119_053555.json",
+      "scrape_014_20251119_053555.json",
+      "scrape_015_20251119_053555.json",
+      "scrape_016_20251119_053555.json",
+      "scrape_017_20251119_053556.json",
+      "scrape_018_20251119_053556.json",
+      "scrape_019_20251119_053556.json",
+      "scrape_020_20251119_053556.json"
+    ]
+  }
+}

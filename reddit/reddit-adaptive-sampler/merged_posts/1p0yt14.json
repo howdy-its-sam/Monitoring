@@ -1,0 +1,116 @@
+{
+  "post": {
+    "id": "1p0yt14",
+    "title": "Data blockers as Xmas gifts",
+    "author": "Chuckayouwee",
+    "score_history": [
+      [
+        2,
+        "2025-11-19T03:41:48.856130"
+      ],
+      [
+        2,
+        "2025-11-19T03:47:27.065269"
+      ],
+      [
+        2,
+        "2025-11-19T03:48:57.252220"
+      ]
+    ],
+    "created_utc": 1763528982.0,
+    "num_comments": 2,
+    "subreddit": "cybersecurity",
+    "url": "https://www.reddit.com/r/cybersecurity/comments/1p0yt14/data_blockers_as_xmas_gifts/",
+    "selftext": "When searching online there’s only the dodgy looking ones as far as the eye can see. Where do people recommend as a reputable seller? ",
+    "permalink": "/r/cybersecurity/comments/1p0yt14/data_blockers_as_xmas_gifts/"
+  },
+  "comments": [
+    {
+      "id": "npn0z01",
+      "parent_id": "t3_1p0yt14",
+      "author": "Degenerate_Game",
+      "text_history": [
+        [
+          "What the heck is a \"data blocker\"?\n  \nLike a faraday sleeve?",
+          "2025-11-19T03:41:48.856130"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T03:41:48.856130"
+        ],
+        [
+          1,
+          "2025-11-19T03:47:27.065269"
+        ],
+        [
+          1,
+          "2025-11-19T03:48:57.252220"
+        ]
+      ],
+      "created_utc": 1763541354.0,
+      "depth": 0,
+      "permalink": "/r/cybersecurity/comments/1p0yt14/data_blockers_as_xmas_gifts/npn0z01/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npnanor",
+          "parent_id": "t1_npn0z01",
+          "author": "Chuckayouwee",
+          "text_history": [
+            [
+              "Haha sorry I missed a word, it’s the USB data blocker!",
+              "2025-11-19T03:41:48.856130"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-19T03:41:48.856130"
+            ],
+            [
+              1,
+              "2025-11-19T03:47:27.065269"
+            ],
+            [
+              1,
+              "2025-11-19T03:48:57.252220"
+            ]
+          ],
+          "created_utc": 1763547412.0,
+          "depth": 1,
+          "permalink": "/r/cybersecurity/comments/1p0yt14/data_blockers_as_xmas_gifts/npnanor/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:48:57.252220",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/cybersecurity/comments/1p0yt14/data_blockers_as_xmas_gifts/",
+    "total_comments": 2,
+    "top_level_comments": 1,
+    "api_requests": 1,
+    "expected_comments": 2,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_034148.json",
+      "scrape_002_20251119_034726.json",
+      "scrape_003_20251119_034857.json"
+    ]
+  }
+}

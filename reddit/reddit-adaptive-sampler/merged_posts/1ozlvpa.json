@@ -1,0 +1,49 @@
+{
+  "post": {
+    "id": "1ozlvpa",
+    "title": "Automata - Choreograph Software",
+    "author": "part_time_perfect",
+    "score_history": [
+      [
+        1,
+        "2025-11-18T14:53:20.512133"
+      ],
+      [
+        1,
+        "2025-11-18T15:03:44.360513"
+      ],
+      [
+        1,
+        "2025-11-18T15:05:39.084127"
+      ],
+      [
+        1,
+        "2025-11-18T22:51:49.599992"
+      ]
+    ],
+    "created_utc": 1763399296.0,
+    "num_comments": 0,
+    "subreddit": "robotics",
+    "url": "https://www.reddit.com/r/robotics/comments/1ozlvpa/automata_choreograph_software/",
+    "selftext": "I have limited information about using this piece of software, what little I do know I've worked it out myself.\n\nUntil recently our EVA was confined to her box in a dark corner of the business. We now have a use case for her but trying to get any information regarding Choreograph is proving difficult. Automata appear to have totally wiped their hands of EVA...\n\nMy current headache is using Grids, I can pick parts from the grid and place them in one place position, however I need to place each item from the grid into different place position for each part. Does anyone have any advice on whether this is possible using Choreograph?",
+    "permalink": "/r/robotics/comments/1ozlvpa/automata_choreograph_software/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-18T22:51:49.599992",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/robotics/comments/1ozlvpa/automata_choreograph_software/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 4,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_145320.json",
+      "scrape_002_20251118_150344.json",
+      "scrape_003_20251118_150538.json",
+      "scrape_004_20251118_225149.json"
+    ]
+  }
+}

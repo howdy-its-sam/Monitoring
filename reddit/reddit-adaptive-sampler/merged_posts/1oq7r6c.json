@@ -1,0 +1,44 @@
+{
+  "post": {
+    "id": "1oq7r6c",
+    "title": "Coding Success Depends More on Language Than Math",
+    "author": "Ok-Breakfast-4676",
+    "score_history": [
+      [
+        2,
+        "2025-11-18T15:16:49.805006"
+      ],
+      [
+        2,
+        "2025-11-18T23:24:21.268026"
+      ],
+      [
+        2,
+        "2025-11-19T01:18:43.386271"
+      ]
+    ],
+    "created_utc": 1762455899.0,
+    "num_comments": 0,
+    "subreddit": "machinelearningnews",
+    "url": "https://www.reddit.com/gallery/1oq7qav",
+    "selftext": "",
+    "permalink": "/r/machinelearningnews/comments/1oq7r6c/coding_success_depends_more_on_language_than_math/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T01:18:43.386271",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/machinelearningnews/comments/1oq7r6c/coding_success_depends_more_on_language_than_math/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_151649.json",
+      "scrape_002_20251118_232420.json",
+      "scrape_003_20251119_011843.json"
+    ]
+  }
+}

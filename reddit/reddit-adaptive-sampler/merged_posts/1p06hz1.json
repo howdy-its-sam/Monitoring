@@ -1,0 +1,116 @@
+{
+  "post": {
+    "id": "1p06hz1",
+    "title": "Using Gemini, Deep Research &amp; NotebookLM to build a role-specific “CSM brain” from tens of thousands of pages of SOPs — how would you architect this?",
+    "author": "nyc_hustler",
+    "score_history": [
+      [
+        2,
+        "2025-11-18T12:51:42.593164"
+      ],
+      [
+        2,
+        "2025-11-18T13:03:59.023021"
+      ],
+      [
+        2,
+        "2025-11-18T13:15:51.909752"
+      ],
+      [
+        2,
+        "2025-11-18T13:46:27.913931"
+      ],
+      [
+        2,
+        "2025-11-18T13:49:32.074055"
+      ],
+      [
+        2,
+        "2025-11-18T13:59:21.780897"
+      ],
+      [
+        2,
+        "2025-11-18T14:10:38.831125"
+      ]
+    ],
+    "created_utc": 1763453970.0,
+    "num_comments": 1,
+    "subreddit": "AgentsOfAI",
+    "url": "https://www.reddit.com/r/AgentsOfAI/comments/1p06hz1/using_gemini_deep_research_notebooklm_to_build_a/",
+    "selftext": "I’m trying to solve a **role-specific knowledge problem** with Google’s AI tools (Gemini, NotebookLM, etc.), and I’d love input from people who’ve done serious RAG / Gemini / workflow design.\n\n# Business context (short)\n\nI’m a Customer Success / Service Manager (CSM) for a complex, long-cycle B2B product (think IoT-ish hardware + software + services).\n\n* Projects run for **4–5 years**.\n* Multiple departments: project management, engineering, contracts, finance, support, etc.\n* After implementation, the project transitions to **service**, where we activate warranty, manage service contracts, and support the customer “forever.”\n\nEvery major department has its own **huge training / SOP documentation**:\n\n* For *each* department, we’re talking about **3,000–4,000 pages of docs plus videos**.\n* We interact with **a lot** of departments, so in total we’re realistically dealing with **tens of thousands of pages + hours of video**, all written from that department’s POV rather than a CSM POV.\n* Buried in those docs are tiny, scattered nuggets like:\n   * “At stage X, involve CSM.”\n   * “If contract type Z, CSM must confirm A/B/C.”\n   * “For handoff, CSM should receive artifacts Y, Z.”\n\nFrom the **department’s** POV, these are side notes.  \nFrom the **CSM’s** POV, they’re core to our job.\n\nOn top of that, CSMs already have **a few thousand pages of our own training** just to understand:\n\n* the product + service landscape\n* how our responsibilities are defined\n* our own terminology and “mental model” of the system\n\nA lot of the CSM context is **tacit**: you only really “get it” after going through training and doing the job for a while.\n\n# Extra wrinkle: overloaded terminology\n\nThere’s significant **term overloading**.\n\nExample:\n\n* The word **“router”** in a project/engineering doc might mean something very specific from their POV (topology, physical install constraints, etc.).\n* When a **CSM** sees “router,” what matters is totally different:\n   * impact on warranty scope, SLAs, replacement process, contract terms, etc.\n* The context that disambiguates “router” from a CSM point of view lives in the **CSM training docs**, not in the project/engineering docs.\n\nSo even if an LLM can technically “read” these giant SOPs, it still needs the **CSM conceptual layer** to interpret terms correctly.\n\n# Tooling constraints (Google-only stack)\n\nI’m constrained to **Google tools**:\n\n* Gemini (including **custom gems**, **Deep Research**, and **Deep Think** / slow reasoning modes)\n* **NotebookLM**\n* Google Drive / Docs (plus maybe light scripting: Apps Script, etc.)\n\nNo self-hosted LLMs, no external vector DBs, no non-Google services.\n\n# Current technical situation\n\n# 1. Custom Gem → has the CSM brain, but not the world\n\nI created a **custom Gemini gem** using:\n\n* CSM training material (thousands of pages)\n* Internal CSM onboarding docs\n\nIt works *okay* for CSM-ish questions:\n\n* “What’s our role at this stage?”\n* “What should the handoff look like?”\n* “Who do we coordinate with for X?”\n\nBut:\n\n* The **context window is heavily used** by CSM training docs already.\n* I **can’t realistically dump 3–4k-page SOPs from every department** into the same Gem without blowing context and adding a ton of noise.\n* Custom gems **don’t support Deep Research**, so I can’t just say “now go scan all these giant SOPs on demand.”\n\nSo right now:\n\n&gt;\n\n# 2. Deep Research → sees the world, but not through the CSM lens\n\n**Deep Research** can:\n\n* Operate over large collections (thousands of pages, multiple docs).\n* Synthesize across many sources.\n\nBut:\n\n* If I only give it project/engineering/contract SOPs (3–4k pages each), it **doesn’t know what the CSM role actually cares about**.\n* The CSM perspective lives in **thousands of pages of separate CSM training docs** \\+ tacit knowledge.\n* Overloaded terms like “router”, “site”, “asset” need that CSM context to interpret correctly.\n\nSo:\n\n&gt;\n\n# 3. NotebookLM → powerful, but I’m unsure where it best fits\n\nI also have **NotebookLM**, which can:\n\n* Ingest a curated set of sources (Drive docs, PDFs, etc.) into a **notebook**\n* Generate structured notes, chapters, FAQs, etc. across those sources\n* Keep a persistent space tied to those sources\n\nBut I’m not sure what the *best* role for NotebookLM is here:\n\n* Use it as the place where I **gradually build the “CSM lens”** (ontology + summaries) based on CSM training + key SOPs?\n* Use it to **design rubrics/templates** that I then pass to Gemini / Deep Research?\n* Use it as a **middle layer** that contains the curated CSM-specific extracts, which then feed into a custom Gem?\n\nI’m unclear if NotebookLM should be:\n\n* a **design/authoring space** for the CSM knowledge layer,\n* the **main assistant** CSMs talk to,\n* or just the **curation tier** between raw SOPs and a production custom Gem.\n\n# 4. Deep Think → good reasoning, but still context-bound\n\nIn Gemini Advanced, the **Deep Think** / slow reasoning style is nice for:\n\n* Designing the ontology, rubrics, and extraction patterns (the “thinking about the problem” part)\n* Carefully processing smaller, high-value chunks of SOPs where mapping department language → CSM meaning is subtle\n\nBut Deep Think doesn’t magically solve:\n\n* Overall **scale** (tens of thousands of pages across many departments)\n* The **separation** between custom Gem vs Deep Research vs NotebookLM\n\nSo I’m currently thinking of Deep Think mainly as:\n\n&gt;\n\n# Rough architecture I’m considering\n\nRight now I’m thinking in terms of a **multi-step pipeline** to build a role-specific knowledge layer for CSMs:\n\n# Step 1: Use Gemini / Deep Think + CSM docs to define a “CSM lens / rubric”\n\nUsing chunks of CSM training docs:\n\n* Ask Gemini (with Deep Think if needed) to help define what a CSM cares about in any process:\n   * touchpoints, responsibilities, dependencies, risks, required inputs/outputs, SLAs, impact on renewals/warranty, etc.\n* Explicitly capture how we interpret overloaded terms (“router”, “site”, “asset”, etc.) from a CSM POV.\n* Turn this into a **stable rubric/template**, something like:\n\n&gt;\n\nThis rubric could live in a doc, in NotebookLM, and as a prompt for Deep Research/API calls.\n\n# Step 2: Use Deep Research (and/or Gemini API) to apply that rubric to each massive SOP\n\nFor each department’s 3–4k-page doc:\n\n* Use **Deep Research** (or chunked API calls) with the rubric to generate a much smaller **“Dept X – CSM View”** doc:\n   * Lifecycle stages relevant to CSMs\n   * Required CSM actions\n   * Dependencies and cross-team touchpoints\n   * Overloaded term notes (e.g., “when this SOP says ‘router’, here’s what it implies for CSMs”)\n   * Pointers back to source sections where possible\n\nAcross many departments, this yields **a set of CSM-focused extracts** that are orders of magnitude smaller than the original SOPs.\n\n# Step 3: Use NotebookLM as a “curation and refinement layer”\n\nIdea:\n\n* Put the **core CSM training docs** (or their distilled core) + the “Dept X – CSM View” docs into **NotebookLM**.\n* Use NotebookLM to:\n   * cross-link concepts across departments\n   * generate higher-level **playbooks by lifecycle stage** (handoff, warranty activation, renewal, escalations, etc.)\n   * spot contradictions or gaps between departments’ expectations of CSMs\n\nNotebookLM becomes:\n\n&gt;\n\nWhen that layer is reasonably stable:\n\n* Export the key notebook content (or keep the source docs it uses) in a dedicated **“CSM Knowledge”** folder in Drive.\n\n# Step 4: Feed curated CSM layer + core training into a custom Gem\n\nFinally:\n\n* Build / update a **custom Gem** that uses:\n   * curated CSM training docs\n   * “Dept X – CSM View” docs\n   * cross-stage playbooks from NotebookLM\n\nNow the custom Gem is operating on a **smaller, highly relevant corpus**, so:\n\n* CSMs can ask:\n   * “In project type Y at stage Z, what should I do?”\n   * “If the SOP mentions X router config, what does that mean for warranty or contract?”\n* Without the Gem having to index all the original 3–4k-page SOPs.\n\nRaw SOPs stay in Drive as **backing reference** only.\n\n# What I’m asking the community\n\nFor people who’ve built **role-specific assistants / RAG pipelines** with Gemini / NotebookLM / Google stack:\n\n1. **Does this multi-tool architecture make sense, or is there a simpler pattern you’d recommend?**\n   * Deep Think for ontology/rubrics → Deep Research/API for extraction → NotebookLM for curation → custom Gem for daily Q&amp;A.\n2. **How would you leverage NotebookLM here, specifically?**\n   * As a design space for the CSM ontology and playbooks?\n   * As the main assistant CSMs use, instead of a custom Gem?\n   * As a middle tier that keeps curated CSM knowledge clean and then feeds a Gem?\n3. **Where would you actually use Deep Think to get the most benefit?**\n   * Designing the rubrics?\n   * Disambiguating overloaded terms across roles?\n   * Carefully processing a small set of “keystone” SOP sections before scaling?\n4. **Any patterns for handling overloaded terminology at scale?**\n   * Especially when the disambiguating context lives in different documents than the SOP you’re reading.\n   * Is that a NotebookLM thing (cross-source understanding), a prompt-engineering thing, or an API-level thing in your experience?\n5. **How would you structure the resulting knowledge so it plays nicely with Gemini / NotebookLM?**\n   * Per department (“Dept X – CSM playbook”)?\n   * Per lifecycle stage (“handoff”, “renewals”, etc.) that aggregates multiple departments?\n   * Some hybrid or more graph-like structure?\n6. **Best practices you’ve found for minimizing hallucinations in this stack?**\n   * Have strict prompts like “If you don’t see this clearly in the provided docs, say you don’t know” worked well for you with Gemini / NotebookLM?\n   * Anything else that made a big difference?\n7. **If you were limited to Gemini + Drive + NotebookLM + light scripting, what’s your minimal viable architecture?**\n   * e.g., Apps Script or a small backend that:\n      * scans Drive,\n      * sends chunks + rubric to Gemini/Deep Research,\n      * writes “CSM View” docs into a dedicated folder,\n      * feeds that folder into NotebookLM and/or a custom Gem.\n\nI’m *not* looking for “just dump everything in and ask better prompts.” This is really about:\n\n&gt;\n\nWould really appreciate architectures, prompt strategies, NotebookLM/Deep Think usage patterns, and war stories from folks who’ve wrestled with similar problems.",
+    "permalink": "/r/AgentsOfAI/comments/1p06hz1/using_gemini_deep_research_notebooklm_to_build_a/"
+  },
+  "comments": [
+    {
+      "id": "npjf7hv",
+      "parent_id": "t3_1p06hz1",
+      "author": "Morely7385",
+      "text_history": [
+        [
+          "Your plan is right but now use Deep Think to define the CSM lens, Deep Research to extract CSM views from each SOP, NotebookLM to curate, and a custom Gem for daily Q&amp;A.\nWhat’s worked for me, make a tight CSM rubric + glossary first, then enforce it everywhere, keep a Google Sheet of overloaded terms with CSM senses, synonyms, and disallowed meanings; every answer must tag a sense or say “unknown.” In prompts, fail-closed: answer only from provided docs, require 1–2 live citations with doc ID/section, else return “don’t know.”\nNotebookLM is the curation tier: one notebook per lifecycle stage, sources = distilled “Dept X – CSM View” + core CSM training. Use it to generate cross-dept playbooks, spot gaps, and lock citations. Keep the Gem pointed only at the curated folder.\nMinimal viable: Apps Script scans Drive, chunks by headings, calls Deep Research with the rubric, writes “Dept X – CSM View” docs with backlinks and version stamps, updates a stage-centric NotebookLM, and refreshes the Gem’s sources. Apigee and BigQuery handled rate limits and audit trails for me, while DreamFactory auto-generated locked-down REST APIs over legacy SQL so agents only saw permitted fields.\nBottom line: keep the Gem on the curated set, use NotebookLM for curation, and spend Deep Think on rubrics and keystone sections.",
+          "2025-11-18T12:51:42.593164"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T12:51:42.593164"
+        ],
+        [
+          1,
+          "2025-11-18T13:03:59.023021"
+        ],
+        [
+          1,
+          "2025-11-18T13:15:51.909752"
+        ],
+        [
+          1,
+          "2025-11-18T13:46:27.913931"
+        ],
+        [
+          1,
+          "2025-11-18T13:49:32.074055"
+        ],
+        [
+          1,
+          "2025-11-18T13:59:21.780897"
+        ],
+        [
+          1,
+          "2025-11-18T14:10:38.831125"
+        ]
+      ],
+      "created_utc": 1763492079.0,
+      "depth": 0,
+      "permalink": "/r/AgentsOfAI/comments/1p06hz1/using_gemini_deep_research_notebooklm_to_build_a/npjf7hv/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-18T14:10:38.831125",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/AgentsOfAI/comments/1p06hz1/using_gemini_deep_research_notebooklm_to_build_a/",
+    "total_comments": 1,
+    "top_level_comments": 1,
+    "api_requests": 1,
+    "expected_comments": 1,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 7,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_125141.json",
+      "scrape_002_20251118_130358.json",
+      "scrape_003_20251118_131551.json",
+      "scrape_004_20251118_134627.json",
+      "scrape_005_20251118_134931.json",
+      "scrape_006_20251118_135921.json",
+      "scrape_007_20251118_141038.json"
+    ]
+  }
+}

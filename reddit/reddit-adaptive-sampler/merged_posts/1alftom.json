@@ -1,0 +1,186 @@
+{
+  "post": {
+    "id": "1alftom",
+    "title": "Pop Health using AI",
+    "author": "drfloydpepper",
+    "score_history": [
+      [
+        3,
+        "2025-11-18T14:22:11.855108"
+      ],
+      [
+        3,
+        "2025-11-18T14:32:12.476412"
+      ],
+      [
+        3,
+        "2025-11-18T14:41:19.205523"
+      ]
+    ],
+    "created_utc": 1707345339.0,
+    "num_comments": 6,
+    "subreddit": "HealthAI",
+    "url": "https://www.reddit.com/r/HealthAI/comments/1alftom/pop_health_using_ai/",
+    "selftext": "Hey, I wanted to work on a hobby-project using Autogen and Mixtral. I wrote this article and would welcome feedback, comments and suggestions.\n\n[https://medium.com/@micklynch\\_6905/hospitalgpt-managing-a-patient-population-with-autogen-powered-by-gpt-4-mixtral-8x7b-ef9f54f275f1](https://medium.com/@micklynch_6905/hospitalgpt-managing-a-patient-population-with-autogen-powered-by-gpt-4-mixtral-8x7b-ef9f54f275f1)\n\nThanks in advance,\n\nMichael",
+    "permalink": "/r/HealthAI/comments/1alftom/pop_health_using_ai/"
+  },
+  "comments": [
+    {
+      "id": "lvbwoe6",
+      "parent_id": "t3_1alftom",
+      "author": "youth_against_facism",
+      "text_history": [
+        [
+          "[https://www.we-heart.com/2024/11/04/wellness-trends-ai-based-health-insights/](https://www.we-heart.com/2024/11/04/wellness-trends-ai-based-health-insights/)",
+          "2025-11-18T14:22:11.855108"
+        ]
+      ],
+      "score_history": [
+        [
+          3,
+          "2025-11-18T14:22:11.855108"
+        ],
+        [
+          3,
+          "2025-11-18T14:32:12.476412"
+        ],
+        [
+          3,
+          "2025-11-18T14:41:19.205523"
+        ]
+      ],
+      "created_utc": 1730718908.0,
+      "depth": 0,
+      "permalink": "/r/HealthAI/comments/1alftom/pop_health_using_ai/lvbwoe6/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "lvc54y1",
+          "parent_id": "t1_lvbwoe6",
+          "author": "drfloydpepper",
+          "text_history": [
+            [
+              "Thanks for sharing.",
+              "2025-11-18T14:22:11.855108"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T14:22:11.855108"
+            ],
+            [
+              1,
+              "2025-11-18T14:32:12.476412"
+            ],
+            [
+              1,
+              "2025-11-18T14:41:19.205523"
+            ]
+          ],
+          "created_utc": 1730723277.0,
+          "depth": 1,
+          "permalink": "/r/HealthAI/comments/1alftom/pop_health_using_ai/lvc54y1/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "mslk3o1",
+      "parent_id": "t3_1alftom",
+      "author": "Murky_Ad1491",
+      "text_history": [
+        [
+          "It's a very insightful article.",
+          "2025-11-18T14:22:11.855108"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-18T14:22:11.855108"
+        ],
+        [
+          2,
+          "2025-11-18T14:32:12.476412"
+        ],
+        [
+          2,
+          "2025-11-18T14:41:19.205523"
+        ]
+      ],
+      "created_utc": 1747389003.0,
+      "depth": 0,
+      "permalink": "/r/HealthAI/comments/1alftom/pop_health_using_ai/mslk3o1/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "mzpwge7",
+      "parent_id": "t3_1alftom",
+      "author": "Sad_Personality1328",
+      "text_history": [
+        [
+          "Hello. I am searching for a mentor for AI and healthcare. I would like help deciding on the best route to take for education and careers. I have already earned several degrees and I am finishing up my PhD in the next year. Currently I work in the transplant industry of healthcare. I would like to earn my next degree or certificate in AI with a possible focus on Disease Diagnosis &amp; Prediction, Personalized Medicine, and Drug Discovery &amp; Development. Please message me if you have any suggestions to send me in the right direction. Thank you in advance for any help you are able to provide.",
+          "2025-11-18T14:22:11.855108"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:22:11.855108"
+        ],
+        [
+          1,
+          "2025-11-18T14:32:12.476412"
+        ],
+        [
+          1,
+          "2025-11-18T14:41:19.205523"
+        ]
+      ],
+      "created_utc": 1750867601.0,
+      "depth": 0,
+      "permalink": "/r/HealthAI/comments/1alftom/pop_health_using_ai/mzpwge7/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-18T14:41:19.205523",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/HealthAI/comments/1alftom/pop_health_using_ai/",
+    "total_comments": 4,
+    "top_level_comments": 3,
+    "api_requests": 1,
+    "expected_comments": 6,
+    "coverage_percent": 66.67,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_142211.json",
+      "scrape_002_20251118_143212.json",
+      "scrape_003_20251118_144118.json"
+    ]
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "post": {
+    "id": "1p0hxa7",
+    "title": "RAG - Data ingestion on AWS using Step functions and Amazon Textract",
+    "author": "zaistev",
+    "score_history": [
+      [
+        1,
+        "2025-11-18T14:22:04.908538"
+      ],
+      [
+        1,
+        "2025-11-18T14:32:07.527488"
+      ],
+      [
+        1,
+        "2025-11-18T14:35:07.280923"
+      ]
+    ],
+    "created_utc": 1763486516.0,
+    "num_comments": 1,
+    "subreddit": "Rag",
+    "url": "https://www.reddit.com/r/Rag/comments/1p0hxa7/rag_data_ingestion_on_aws_using_step_functions/",
+    "selftext": "Hello everyone,  \nI have been working on a PoC that process documents (PDFs/Scans Images) and later stored them in a vector store.   \nMost of the workflow it's quite trivial in terms of orchestrating  StepFn/Textract/Lambda/, but I am not sure how to handle the actual process of the docs, meaning chunking embedding storing.  \nI was thinking using inngest/mastra with Lambda to test out, and  also to have a bit more control on the workflow and its state. \n\nAny suggestion?  or What should I take closed eye to? I am open to feedback.\n\nsome NFR that related to the docs  \n\\- support 100 concurrent docs batch  \n\\- docs are mostly text based, some expections expected such tables and ref images.",
+    "permalink": "/r/Rag/comments/1p0hxa7/rag_data_ingestion_on_aws_using_step_functions/"
+  },
+  "comments": [
+    {
+      "id": "npizffr",
+      "parent_id": "t3_1p0hxa7",
+      "author": "domemvs",
+      "text_history": [
+        [
+          "Textract by default has very strict and hard-to-understand rate limits. So ootb you won’t be able to process 100 documents concurrently or any number remotely close. Gonna be more like single-digit concurrency. ",
+          "2025-11-18T14:22:04.908538"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:22:04.908538"
+        ],
+        [
+          1,
+          "2025-11-18T14:32:07.527488"
+        ],
+        [
+          1,
+          "2025-11-18T14:35:07.280923"
+        ]
+      ],
+      "created_utc": 1763487541.0,
+      "depth": 0,
+      "permalink": "/r/Rag/comments/1p0hxa7/rag_data_ingestion_on_aws_using_step_functions/npizffr/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-18T14:35:07.280923",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/Rag/comments/1p0hxa7/rag_data_ingestion_on_aws_using_step_functions/",
+    "total_comments": 1,
+    "top_level_comments": 1,
+    "api_requests": 1,
+    "expected_comments": 1,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_142204.json",
+      "scrape_002_20251118_143207.json",
+      "scrape_003_20251118_143507.json"
+    ]
+  }
+}

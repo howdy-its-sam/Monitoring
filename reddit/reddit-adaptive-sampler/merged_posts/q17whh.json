@@ -1,0 +1,116 @@
+{
+  "post": {
+    "id": "q17whh",
+    "title": "Free Oct 6 Talk on Human Inspired AI with Director of Google Research India Manish Gupta",
+    "author": "ACMLearning",
+    "score_history": [
+      [
+        0,
+        "2025-11-18T14:21:55.247096"
+      ],
+      [
+        0,
+        "2025-11-18T14:31:16.702293"
+      ],
+      [
+        0,
+        "2025-11-18T14:33:42.306370"
+      ],
+      [
+        0,
+        "2025-11-18T22:20:27.764644"
+      ],
+      [
+        0,
+        "2025-11-18T23:54:46.843259"
+      ],
+      [
+        0,
+        "2025-11-19T01:29:02.212188"
+      ],
+      [
+        0,
+        "2025-11-19T07:22:42.578540"
+      ]
+    ],
+    "created_utc": 1633361953.0,
+    "num_comments": 1,
+    "subreddit": "HealthAI",
+    "url": "https://www.reddit.com/r/HealthAI/comments/q17whh/free_oct_6_talk_on_human_inspired_ai_with/",
+    "selftext": "6 October (11 am ET/20:30 India Standard Time) [join](https://webinars.on24.com/acm/gupta?partnerref=red)ACM Fellow [Manish Gupta](https://www.linkedin.com/in/ACoAAABGLEEB4zx4U_J7RkYQQRFwXJRCrZnFIuQ), Director of Google Research India  for the free ACM TechTalk \"Human Inspired Artificial Intelligence.\"\n\nThis talk describes his and his research group's ongoing work in diverse areas, including health, financial services, and information access where combining AI with human factors is key to developing an effective solution.\n\n[Register](https://webinars.on24.com/acm/gupta?partnerref=red) to attend live or be alerted when the talks is available on demand.",
+    "permalink": "/r/HealthAI/comments/q17whh/free_oct_6_talk_on_human_inspired_ai_with/"
+  },
+  "comments": [
+    {
+      "id": "hfd0z0z",
+      "parent_id": "t3_q17whh",
+      "author": "timee_bot",
+      "text_history": [
+        [
+          "View in your timezone:  \n[6 October 11 am ET][0]  \n\n[0]: https://timee.io/20211006T1500?tl=Free%20Oct%206%20Talk%20on%20Human%20Inspired%20AI%20with%20Director%20of%20Google%20Research%20India%20Manish%20Gupta",
+          "2025-11-18T14:21:55.247096"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:21:55.247096"
+        ],
+        [
+          1,
+          "2025-11-18T14:31:16.702293"
+        ],
+        [
+          1,
+          "2025-11-18T14:33:42.306370"
+        ],
+        [
+          1,
+          "2025-11-18T22:20:27.764644"
+        ],
+        [
+          1,
+          "2025-11-18T23:54:46.843259"
+        ],
+        [
+          1,
+          "2025-11-19T01:29:02.212188"
+        ],
+        [
+          1,
+          "2025-11-19T07:22:42.578540"
+        ]
+      ],
+      "created_utc": 1633362015.0,
+      "depth": 0,
+      "permalink": "/r/HealthAI/comments/q17whh/free_oct_6_talk_on_human_inspired_ai_with/hfd0z0z/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T07:22:42.578540",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/HealthAI/comments/q17whh/free_oct_6_talk_on_human_inspired_ai_with/",
+    "total_comments": 1,
+    "top_level_comments": 1,
+    "api_requests": 1,
+    "expected_comments": 1,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 7,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_142154.json",
+      "scrape_002_20251118_143116.json",
+      "scrape_003_20251118_143342.json",
+      "scrape_004_20251118_222027.json",
+      "scrape_005_20251118_235446.json",
+      "scrape_006_20251119_012901.json",
+      "scrape_007_20251119_072242.json"
+    ]
+  }
+}

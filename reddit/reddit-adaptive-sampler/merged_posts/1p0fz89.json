@@ -1,0 +1,641 @@
+{
+  "post": {
+    "id": "1p0fz89",
+    "title": "I thought using ChatGPT/Claude as my personal assistant would be amazing.",
+    "author": "fais-1669",
+    "score_history": [
+      [
+        7,
+        "2025-11-18T12:51:32.407762"
+      ],
+      [
+        7,
+        "2025-11-18T13:03:54.049589"
+      ],
+      [
+        7,
+        "2025-11-18T13:15:52.187351"
+      ],
+      [
+        8,
+        "2025-11-18T13:48:10.659198"
+      ],
+      [
+        8,
+        "2025-11-18T13:59:43.807859"
+      ],
+      [
+        8,
+        "2025-11-18T14:10:42.915465"
+      ],
+      [
+        9,
+        "2025-11-18T14:12:36.800206"
+      ],
+      [
+        7,
+        "2025-11-18T22:00:00.309153"
+      ],
+      [
+        7,
+        "2025-11-19T00:05:05.713432"
+      ],
+      [
+        7,
+        "2025-11-19T01:50:22.621522"
+      ]
+    ],
+    "created_utc": 1763482219.0,
+    "num_comments": 10,
+    "subreddit": "AI_Agents",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1p0fz89/i_thought_using_chatgptclaude_as_my_personal/",
+    "selftext": "**The reality is painful:**\n\n\n\n**Problem 1: Context Chaos**\n\n\\- I have 15+ different chats for different projects\n\n\\- Can't remember which chat had what information\n\n\\- Spend 5-10 minutes searching for old conversations\n\n\\- By the time I find it, I've lost motivation\n\n\\- When I hit token limits, transferring context to new chat is a nightmare\n\n\n\n**Problem 2: The AI has Amnesia**\n\n\\- Morning: Explain my code structure in detail\n\n\\- Evening: AI has completely forgotten (different chat)\n\n\\- Or: I forgot to update AI, now it has no idea what I'm doing\n\n\\- Constantly repeating myself\n\n\n\n**Problem 3: Privacy Paranoia**\n\n\\- Want AI to know me personally for better help\n\n\\- But worried about what happens to my data\n\n\\- Self-censor important context\n\n\\- AI is less helpful as a result\n\n\n\n**Problem 4: Update Fatigue**\n\n\\- Have to manually update AI constantly\n\n\\- \"I'm working on X now\"\n\n\\- \"I finished Y\"\n\n\\- \"Switching to Z\"\n\n\\- This EATS MY TOKEN LIMIT\n\n\\- Feels like babysitting an assistant instead of being helped\n\n\n\n**Problem 5: Cost Anxiety**\n\n\\- Paying $20/month for ChatGPT Plus\n\n\\- Constantly worried about hitting limits\n\n\\- \"Should I ask this question or save it?\"\n\n\\- \"Am I wasting messages on status updates?\"\n\n\n\n**The dream:** AI assistant that just... knows what I'm doing\n\n\n\n**The reality**: Constant manual work to keep AI updated\n\n\n\n\\---\n\n\n\n**Am I doing this wrong?**\n\n\n\n**Or is this just how everyone uses AI assistants?**\n\n\n\n\n\n**Genuinely curious if there's a better way... 😅**",
+    "permalink": "/r/AI_Agents/comments/1p0fz89/i_thought_using_chatgptclaude_as_my_personal/"
+  },
+  "comments": [
+    {
+      "id": "npiyyff",
+      "parent_id": "t3_1p0fz89",
+      "author": "micseydel",
+      "text_history": [
+        [
+          "&gt;\\- Morning: Explain my code structure in detail\n\n&gt; \\- Evening: AI has completely forgotten (different chat) \n\nCould you elaborate on what \"different chat\" means here?",
+          "2025-11-18T12:51:32.407762"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T12:51:32.407762"
+        ],
+        [
+          1,
+          "2025-11-18T13:03:54.049589"
+        ],
+        [
+          1,
+          "2025-11-18T13:15:52.187351"
+        ],
+        [
+          1,
+          "2025-11-18T13:48:10.659198"
+        ],
+        [
+          1,
+          "2025-11-18T13:59:43.807859"
+        ],
+        [
+          1,
+          "2025-11-18T14:10:42.915465"
+        ],
+        [
+          1,
+          "2025-11-18T14:12:36.800206"
+        ],
+        [
+          2,
+          "2025-11-18T22:00:00.309153"
+        ],
+        [
+          2,
+          "2025-11-19T00:05:05.713432"
+        ],
+        [
+          2,
+          "2025-11-19T01:50:22.621522"
+        ]
+      ],
+      "created_utc": 1763487400.0,
+      "depth": 0,
+      "permalink": "/r/AI_Agents/comments/1p0fz89/i_thought_using_chatgptclaude_as_my_personal/npiyyff/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npjiew6",
+          "parent_id": "t1_npiyyff",
+          "author": "Secure_Ideal2298",
+          "text_history": [
+            [
+              "NOP, probably means that they're using multiple chats and going back and froth with them yet following up with conversations in different ones so the AI doesn't have any recollection on what's has happened in that web.",
+              "2025-11-18T12:51:32.407762"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T12:51:32.407762"
+            ],
+            [
+              1,
+              "2025-11-18T13:03:54.049589"
+            ],
+            [
+              1,
+              "2025-11-18T13:15:52.187351"
+            ],
+            [
+              1,
+              "2025-11-18T13:48:10.659198"
+            ],
+            [
+              1,
+              "2025-11-18T13:59:43.807859"
+            ],
+            [
+              1,
+              "2025-11-18T14:10:42.915465"
+            ],
+            [
+              1,
+              "2025-11-18T14:12:36.800206"
+            ],
+            [
+              1,
+              "2025-11-18T22:00:00.309153"
+            ],
+            [
+              1,
+              "2025-11-19T00:05:05.713432"
+            ],
+            [
+              1,
+              "2025-11-19T01:50:22.621522"
+            ]
+          ],
+          "created_utc": 1763493025.0,
+          "depth": 1,
+          "permalink": "/r/AI_Agents/comments/1p0fz89/i_thought_using_chatgptclaude_as_my_personal/npjiew6/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npjvojx",
+              "parent_id": "t1_npjiew6",
+              "author": "MNthump",
+              "text_history": [
+                [
+                  "Yeah, juggling multiple chats can be a mess. It’d be nice if the AI could just keep track of everything seamlessly without us having to repeat ourselves constantly.",
+                  "2025-11-18T12:51:32.407762"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-18T12:51:32.407762"
+                ],
+                [
+                  1,
+                  "2025-11-18T13:03:54.049589"
+                ],
+                [
+                  1,
+                  "2025-11-18T13:15:52.187351"
+                ],
+                [
+                  1,
+                  "2025-11-18T13:48:10.659198"
+                ],
+                [
+                  1,
+                  "2025-11-18T13:59:43.807859"
+                ],
+                [
+                  1,
+                  "2025-11-18T14:10:42.915465"
+                ],
+                [
+                  1,
+                  "2025-11-18T14:12:36.800206"
+                ],
+                [
+                  2,
+                  "2025-11-18T22:00:00.309153"
+                ],
+                [
+                  2,
+                  "2025-11-19T00:05:05.713432"
+                ],
+                [
+                  2,
+                  "2025-11-19T01:50:22.621522"
+                ]
+              ],
+              "created_utc": 1763497009.0,
+              "depth": 2,
+              "permalink": "/r/AI_Agents/comments/1p0fz89/i_thought_using_chatgptclaude_as_my_personal/npjvojx/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": [
+                {
+                  "id": "npkfkd5",
+                  "parent_id": "t1_npjvojx",
+                  "author": "Secure_Ideal2298",
+                  "text_history": [
+                    [
+                      "I wish it was possible, only with the current priority list of developers and companies seems like it's on the back burner for now. Maybe there's a lot behind the scenes on implementation we just don't know.",
+                      "2025-11-18T13:59:43.807859"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      1,
+                      "2025-11-18T13:59:43.807859"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T14:10:42.915465"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T14:12:36.800206"
+                    ],
+                    [
+                      2,
+                      "2025-11-18T22:00:00.309153"
+                    ],
+                    [
+                      2,
+                      "2025-11-19T00:05:05.713432"
+                    ],
+                    [
+                      2,
+                      "2025-11-19T01:50:22.621522"
+                    ]
+                  ],
+                  "created_utc": 1763502978.0,
+                  "depth": 3,
+                  "permalink": "/r/AI_Agents/comments/1p0fz89/i_thought_using_chatgptclaude_as_my_personal/npkfkd5/",
+                  "is_submitter": false,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "npj1y4s",
+      "parent_id": "t3_1p0fz89",
+      "author": "PennyPineappleRain",
+      "text_history": [
+        [
+          "Yes! Ugh. Same! The last few mos it's been weird. Wondering if another platform is better.",
+          "2025-11-18T12:51:32.407762"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T12:51:32.407762"
+        ],
+        [
+          1,
+          "2025-11-18T13:03:54.049589"
+        ],
+        [
+          1,
+          "2025-11-18T13:15:52.187351"
+        ],
+        [
+          1,
+          "2025-11-18T13:48:10.659198"
+        ],
+        [
+          1,
+          "2025-11-18T13:59:43.807859"
+        ],
+        [
+          1,
+          "2025-11-18T14:10:42.915465"
+        ],
+        [
+          1,
+          "2025-11-18T14:12:36.800206"
+        ],
+        [
+          2,
+          "2025-11-18T22:00:00.309153"
+        ],
+        [
+          2,
+          "2025-11-19T00:05:05.713432"
+        ],
+        [
+          2,
+          "2025-11-19T01:50:22.621522"
+        ]
+      ],
+      "created_utc": 1763488277.0,
+      "depth": 0,
+      "permalink": "/r/AI_Agents/comments/1p0fz89/i_thought_using_chatgptclaude_as_my_personal/npj1y4s/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npjbxzl",
+      "parent_id": "t3_1p0fz89",
+      "author": "The_NineHertz",
+      "text_history": [
+        [
+          "Totally relatable. Most current assistants weren’t designed for long-term, multi-project memory, so they end up feeling more like powerful chatboxes than true workflow partners. Many people encounter the same “context juggling” problem. Until persistent, project-based memory becomes standard, the best workaround is structuring things yourself, one chat per project, shared summaries, or external notes. It’s not ideal, but it’s the reality of the tools right now.",
+          "2025-11-18T12:51:32.407762"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T12:51:32.407762"
+        ],
+        [
+          1,
+          "2025-11-18T13:03:54.049589"
+        ],
+        [
+          1,
+          "2025-11-18T13:15:52.187351"
+        ],
+        [
+          1,
+          "2025-11-18T13:48:10.659198"
+        ],
+        [
+          1,
+          "2025-11-18T13:59:43.807859"
+        ],
+        [
+          1,
+          "2025-11-18T14:10:42.915465"
+        ],
+        [
+          1,
+          "2025-11-18T14:12:36.800206"
+        ],
+        [
+          2,
+          "2025-11-18T22:00:00.309153"
+        ],
+        [
+          2,
+          "2025-11-19T00:05:05.713432"
+        ],
+        [
+          2,
+          "2025-11-19T01:50:22.621522"
+        ]
+      ],
+      "created_utc": 1763491143.0,
+      "depth": 0,
+      "permalink": "/r/AI_Agents/comments/1p0fz89/i_thought_using_chatgptclaude_as_my_personal/npjbxzl/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npl4u0s",
+      "parent_id": "t3_1p0fz89",
+      "author": "phaxian",
+      "text_history": [
+        [
+          "You’re not doing it wrong, you’ve just found the limits of \"chat in a browser tab\" as a real assistant.\n\nRight now ChatGPT/Claude chats are more like really smart calculators with a short-term clipboard than an OS for your life. Each thread is its own bubble, there’s no true user-level memory, so your “15+ chats / repeating myself / amnesia” pain is kind of baked into the UX.\n\nWhat’s worked better for me is changing the mental model:\n\n* Treat the AI as a stateless reasoning engine, not long-term memory.\n* Keep one source of truth per project (a markdown file works great) with sections like: context, architecture, open questions, next steps.\n* When you start a session, paste in the relevant slice and say: \"Here’s the current state, help me with X.\"\n* At the end, ask it: \"Summarize what we did + what’s next in 5–10 bullets\" and paste that back into the doc. Next time, you start from the doc, not from an old chat. (this is pretty much what Cursor and other codegen apps do in large code bases)\n\nThat also helps with token/cost anxiety because you’re not paying for constant status updates; you’re mostly paying for net-new thinking on top of a doc you control.\n\nYou’re not crazy. The dream :assistant that just knows: probably needs real persistent memory + full tool integration. We’re not quite there in default chat UIs yet.",
+          "2025-11-18T22:00:00.309153"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-18T22:00:00.309153"
+        ],
+        [
+          2,
+          "2025-11-19T00:05:05.713432"
+        ],
+        [
+          2,
+          "2025-11-19T01:50:22.621522"
+        ]
+      ],
+      "created_utc": 1763511540.0,
+      "depth": 0,
+      "permalink": "/r/AI_Agents/comments/1p0fz89/i_thought_using_chatgptclaude_as_my_personal/npl4u0s/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npihb48",
+      "parent_id": "t3_1p0fz89",
+      "author": "AutoModerator",
+      "text_history": [
+        [
+          "Thank you for your submission, for any questions regarding AI, please check out our wiki at https://www.reddit.com/r/ai_agents/wiki (this is currently in test and we are actively adding to the wiki)\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/AI_Agents) if you have any questions or concerns.*",
+          "2025-11-18T12:51:32.407762"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T12:51:32.407762"
+        ],
+        [
+          1,
+          "2025-11-18T13:03:54.049589"
+        ],
+        [
+          1,
+          "2025-11-18T13:15:52.187351"
+        ],
+        [
+          1,
+          "2025-11-18T13:48:10.659198"
+        ],
+        [
+          1,
+          "2025-11-18T13:59:43.807859"
+        ],
+        [
+          1,
+          "2025-11-18T14:10:42.915465"
+        ],
+        [
+          1,
+          "2025-11-18T14:12:36.800206"
+        ],
+        [
+          1,
+          "2025-11-18T22:00:00.309153"
+        ],
+        [
+          1,
+          "2025-11-19T00:05:05.713432"
+        ],
+        [
+          1,
+          "2025-11-19T01:50:22.621522"
+        ]
+      ],
+      "created_utc": 1763482219.0,
+      "depth": 0,
+      "permalink": "/r/AI_Agents/comments/1p0fz89/i_thought_using_chatgptclaude_as_my_personal/npihb48/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npj9qi1",
+      "parent_id": "t3_1p0fz89",
+      "author": "BidWestern1056",
+      "text_history": [
+        [
+          "use npc studio and use all models/providers and keep your chats organized by local folder rather than nonsense web apps disconnected from your actual computer\n\n\nhttps://github.com/npc-worldwide/npc-studio",
+          "2025-11-18T12:51:32.407762"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T12:51:32.407762"
+        ],
+        [
+          1,
+          "2025-11-18T13:03:54.049589"
+        ],
+        [
+          1,
+          "2025-11-18T13:15:52.187351"
+        ],
+        [
+          1,
+          "2025-11-18T13:48:10.659198"
+        ],
+        [
+          1,
+          "2025-11-18T13:59:43.807859"
+        ],
+        [
+          1,
+          "2025-11-18T14:10:42.915465"
+        ],
+        [
+          1,
+          "2025-11-18T14:12:36.800206"
+        ],
+        [
+          1,
+          "2025-11-18T22:00:00.309153"
+        ],
+        [
+          1,
+          "2025-11-19T00:05:05.713432"
+        ],
+        [
+          1,
+          "2025-11-19T01:50:22.621522"
+        ]
+      ],
+      "created_utc": 1763490510.0,
+      "depth": 0,
+      "permalink": "/r/AI_Agents/comments/1p0fz89/i_thought_using_chatgptclaude_as_my_personal/npj9qi1/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nploz6w",
+      "parent_id": "t3_1p0fz89",
+      "author": "qwer1627",
+      "text_history": [
+        [
+          "https://preview.redd.it/dehsdblbi42g1.jpeg?width=2732&amp;format=pjpg&amp;auto=webp&amp;s=5abf7e109b6c6e380647cc33854abbb86009b691\n\nI’m working on a “data USB” with an rMCP layer to turn your (Apple) device into a kind of data shard to solve these problems. The core app works, I’m testing the connectivity currently between the app and Claude.ai; stay tuned! Been a few cycles in the making",
+          "2025-11-18T22:00:00.309153"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T22:00:00.309153"
+        ],
+        [
+          1,
+          "2025-11-19T00:05:05.713432"
+        ],
+        [
+          1,
+          "2025-11-19T01:50:22.621522"
+        ]
+      ],
+      "created_utc": 1763518717.0,
+      "depth": 0,
+      "permalink": "/r/AI_Agents/comments/1p0fz89/i_thought_using_chatgptclaude_as_my_personal/nploz6w/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T01:50:22.621522",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/AI_Agents/comments/1p0fz89/i_thought_using_chatgptclaude_as_my_personal/",
+    "total_comments": 10,
+    "top_level_comments": 7,
+    "api_requests": 1,
+    "expected_comments": 10,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 10,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_125132.json",
+      "scrape_002_20251118_130353.json",
+      "scrape_003_20251118_131551.json",
+      "scrape_004_20251118_134810.json",
+      "scrape_005_20251118_135943.json",
+      "scrape_006_20251118_141042.json",
+      "scrape_007_20251118_141236.json",
+      "scrape_008_20251118_220000.json",
+      "scrape_009_20251119_000505.json",
+      "scrape_010_20251119_015022.json"
+    ]
+  }
+}

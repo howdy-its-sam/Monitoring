@@ -1,0 +1,80 @@
+{
+  "post": {
+    "id": "1p10201",
+    "title": "Starting a small ML builders/research circle  looking for non-beginners who actually want to make stuff",
+    "author": "[deleted]",
+    "score_history": [
+      [
+        1,
+        "2025-11-19T03:50:20.620402"
+      ],
+      [
+        1,
+        "2025-11-19T03:58:27.391188"
+      ],
+      [
+        1,
+        "2025-11-19T04:01:12.642615"
+      ]
+    ],
+    "created_utc": 1763533222.0,
+    "num_comments": 1,
+    "subreddit": "learnmachinelearning",
+    "url": "",
+    "selftext": "[deleted]",
+    "permalink": "/r/learnmachinelearning/comments/1p10201/starting_a_small_ml_buildersresearch_circle/"
+  },
+  "comments": [
+    {
+      "id": "npmpwwv",
+      "parent_id": "t3_1p10201",
+      "author": "Nearby_Reaction2947",
+      "text_history": [
+        [
+          "Try to Dm your work with some links and all so i can read the codes or articles",
+          "2025-11-19T03:50:20.620402"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T03:50:20.620402"
+        ],
+        [
+          1,
+          "2025-11-19T03:58:27.391188"
+        ],
+        [
+          1,
+          "2025-11-19T04:01:12.642615"
+        ]
+      ],
+      "created_utc": 1763534757.0,
+      "depth": 0,
+      "permalink": "/r/learnmachinelearning/comments/1p10201/starting_a_small_ml_buildersresearch_circle/npmpwwv/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T04:01:12.642615",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/learnmachinelearning/comments/1p10201/starting_a_small_ml_buildersresearch_circle/",
+    "total_comments": 1,
+    "top_level_comments": 1,
+    "api_requests": 1,
+    "expected_comments": 1,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_035020.json",
+      "scrape_002_20251119_035827.json",
+      "scrape_003_20251119_040112.json"
+    ]
+  }
+}

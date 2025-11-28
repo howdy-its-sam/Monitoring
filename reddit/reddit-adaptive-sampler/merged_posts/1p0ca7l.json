@@ -1,0 +1,168 @@
+{
+  "post": {
+    "id": "1p0ca7l",
+    "title": "What’s the easiest way to run AI video-generation models locally? Any recommendations?",
+    "author": "Novel_Champion_1267",
+    "score_history": [
+      [
+        1,
+        "2025-11-18T14:43:35.920052"
+      ],
+      [
+        1,
+        "2025-11-18T14:53:09.521861"
+      ],
+      [
+        1,
+        "2025-11-18T14:54:19.828712"
+      ],
+      [
+        1,
+        "2025-11-18T22:21:53.056405"
+      ],
+      [
+        1,
+        "2025-11-19T00:15:45.130605"
+      ],
+      [
+        1,
+        "2025-11-19T02:01:32.852324"
+      ],
+      [
+        1,
+        "2025-11-19T07:22:39.202894"
+      ]
+    ],
+    "created_utc": 1763473427.0,
+    "num_comments": 2,
+    "subreddit": "ChatGPTCoding",
+    "url": "/r/ChatGPT/comments/1p0c8zj/whats_the_easiest_way_to_run_ai_videogeneration/",
+    "selftext": "",
+    "permalink": "/r/ChatGPTCoding/comments/1p0ca7l/whats_the_easiest_way_to_run_ai_videogeneration/"
+  },
+  "comments": [
+    {
+      "id": "npidg6d",
+      "parent_id": "t3_1p0ca7l",
+      "author": "kidajske",
+      "text_history": [
+        [
+          "/r/StableDiffusion is the sub you want to ask this in, this sub and chatgpt aren't really focused on image/video gen. In any case, LTX and some of the WAN models can run on weaker GPUs but it's pretty slow and ymmv in terms of result quality depending on the use case. As far as the setup, you're gonna have to deal with comfy ui most likely. It's not too bad once you get used to it but there is a learning curve. In any case, some pointed google or LLM searches of the sub I linked will give you all the info you need I think.",
+          "2025-11-18T14:43:35.920052"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:43:35.920052"
+        ],
+        [
+          1,
+          "2025-11-18T14:53:09.521861"
+        ],
+        [
+          1,
+          "2025-11-18T14:54:19.828712"
+        ],
+        [
+          2,
+          "2025-11-18T22:21:53.056405"
+        ],
+        [
+          2,
+          "2025-11-19T00:15:45.130605"
+        ],
+        [
+          2,
+          "2025-11-19T02:01:32.852324"
+        ],
+        [
+          2,
+          "2025-11-19T07:22:39.202894"
+        ]
+      ],
+      "created_utc": 1763481096.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTCoding/comments/1p0ca7l/whats_the_easiest_way_to_run_ai_videogeneration/npidg6d/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npj234x",
+          "parent_id": "t1_npidg6d",
+          "author": "Novel_Champion_1267",
+          "text_history": [
+            [
+              "Thanks! I’ll ask in r/StableDiffusion as well. I’ve heard of LTX/WAN but didn’t know they could run on weaker setups, even if slow. And yeah, seems like ComfyUI is the way to go for anything video-related these days. I’ll dig into the guides and see what setup works best. Appreciate the pointers!",
+              "2025-11-18T14:43:35.920052"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T14:43:35.920052"
+            ],
+            [
+              1,
+              "2025-11-18T14:53:09.521861"
+            ],
+            [
+              1,
+              "2025-11-18T14:54:19.828712"
+            ],
+            [
+              1,
+              "2025-11-18T22:21:53.056405"
+            ],
+            [
+              1,
+              "2025-11-19T00:15:45.130605"
+            ],
+            [
+              1,
+              "2025-11-19T02:01:32.852324"
+            ],
+            [
+              1,
+              "2025-11-19T07:22:39.202894"
+            ]
+          ],
+          "created_utc": 1763488317.0,
+          "depth": 1,
+          "permalink": "/r/ChatGPTCoding/comments/1p0ca7l/whats_the_easiest_way_to_run_ai_videogeneration/npj234x/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T07:22:39.202894",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/ChatGPTCoding/comments/1p0ca7l/whats_the_easiest_way_to_run_ai_videogeneration/",
+    "total_comments": 2,
+    "top_level_comments": 1,
+    "api_requests": 1,
+    "expected_comments": 2,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 7,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_144335.json",
+      "scrape_002_20251118_145309.json",
+      "scrape_003_20251118_145419.json",
+      "scrape_004_20251118_222152.json",
+      "scrape_005_20251119_001544.json",
+      "scrape_006_20251119_020132.json",
+      "scrape_007_20251119_072238.json"
+    ]
+  }
+}

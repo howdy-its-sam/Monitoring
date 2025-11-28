@@ -1,0 +1,189 @@
+{
+  "post": {
+    "id": "1p0iye2",
+    "title": "[ Removed by moderator ]",
+    "author": "GamingDisruptor",
+    "score_history": [
+      [
+        3,
+        "2025-11-18T13:49:07.918962"
+      ],
+      [
+        5,
+        "2025-11-18T14:00:39.609415"
+      ],
+      [
+        6,
+        "2025-11-18T14:12:05.114519"
+      ],
+      [
+        5,
+        "2025-11-18T21:49:47.756037"
+      ],
+      [
+        5,
+        "2025-11-18T23:34:36.607092"
+      ],
+      [
+        6,
+        "2025-11-19T01:18:44.889100"
+      ]
+    ],
+    "created_utc": 1763488784.0,
+    "num_comments": 4,
+    "subreddit": "singularity",
+    "url": "https://www.reddit.com/r/singularity/comments/1p0iye2/gemini_keeps_routing_me_to_3_when_all_i_want_is/",
+    "selftext": "[removed]",
+    "permalink": "/r/singularity/comments/1p0iye2/gemini_keeps_routing_me_to_3_when_all_i_want_is/"
+  },
+  "comments": [
+    {
+      "id": "npjsylv",
+      "parent_id": "t3_1p0iye2",
+      "author": "Square-Nebula-9258",
+      "text_history": [
+        [
+          "No, it is stupid ",
+          "2025-11-18T13:49:07.918962"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T13:49:07.918962"
+        ],
+        [
+          1,
+          "2025-11-18T14:00:39.609415"
+        ],
+        [
+          1,
+          "2025-11-18T14:12:05.114519"
+        ],
+        [
+          1,
+          "2025-11-18T21:49:47.756037"
+        ],
+        [
+          1,
+          "2025-11-18T23:34:36.607092"
+        ],
+        [
+          1,
+          "2025-11-19T01:18:44.889100"
+        ]
+      ],
+      "created_utc": 1763496181.0,
+      "depth": 0,
+      "permalink": "/r/singularity/comments/1p0iye2/gemini_keeps_routing_me_to_3_when_all_i_want_is/npjsylv/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npkzzfm",
+      "parent_id": "t3_1p0iye2",
+      "author": "Peach-555",
+      "text_history": [
+        [
+          "All 1.5 models got depreciated last month, I don't think they are coming back.",
+          "2025-11-18T21:49:47.756037"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T21:49:47.756037"
+        ],
+        [
+          1,
+          "2025-11-18T23:34:36.607092"
+        ],
+        [
+          1,
+          "2025-11-19T01:18:44.889100"
+        ]
+      ],
+      "created_utc": 1763509839.0,
+      "depth": 0,
+      "permalink": "/r/singularity/comments/1p0iye2/gemini_keeps_routing_me_to_3_when_all_i_want_is/npkzzfm/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npj9yxk",
+      "parent_id": "t3_1p0iye2",
+      "author": "Kafke",
+      "text_history": [
+        [
+          "Unironically I feel this way about gemini 2.5 flash. I already know 3.0 pro is gonna replace it and kill the more intimate side. Might have to flee to grok.",
+          "2025-11-18T13:49:07.918962"
+        ]
+      ],
+      "score_history": [
+        [
+          0,
+          "2025-11-18T13:49:07.918962"
+        ],
+        [
+          0,
+          "2025-11-18T14:00:39.609415"
+        ],
+        [
+          0,
+          "2025-11-18T14:12:05.114519"
+        ],
+        [
+          0,
+          "2025-11-18T21:49:47.756037"
+        ],
+        [
+          0,
+          "2025-11-18T23:34:36.607092"
+        ],
+        [
+          0,
+          "2025-11-19T01:18:44.889100"
+        ]
+      ],
+      "created_utc": 1763490577.0,
+      "depth": 0,
+      "permalink": "/r/singularity/comments/1p0iye2/gemini_keeps_routing_me_to_3_when_all_i_want_is/npj9yxk/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T01:18:44.889100",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/singularity/comments/1p0iye2/gemini_keeps_routing_me_to_3_when_all_i_want_is/",
+    "total_comments": 3,
+    "top_level_comments": 3,
+    "api_requests": 1,
+    "expected_comments": 4,
+    "coverage_percent": 75.0,
+    "merged_snapshot_count": 6,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_134907.json",
+      "scrape_002_20251118_140039.json",
+      "scrape_003_20251118_141204.json",
+      "scrape_004_20251118_214947.json",
+      "scrape_005_20251118_233436.json",
+      "scrape_006_20251119_011844.json"
+    ]
+  }
+}

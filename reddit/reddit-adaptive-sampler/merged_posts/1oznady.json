@@ -1,0 +1,44 @@
+{
+  "post": {
+    "id": "1oznady",
+    "title": "Learning and sharing LLM foundational concepts before diving into RAG",
+    "author": "reddit-newbie-2023",
+    "score_history": [
+      [
+        1,
+        "2025-11-18T14:23:30.340182"
+      ],
+      [
+        1,
+        "2025-11-18T14:33:25.859037"
+      ],
+      [
+        1,
+        "2025-11-18T14:43:34.290515"
+      ]
+    ],
+    "created_utc": 1763402390.0,
+    "num_comments": 0,
+    "subreddit": "Rag",
+    "url": "https://www.reddit.com/r/Rag/comments/1oznady/learning_and_sharing_llm_foundational_concepts/",
+    "selftext": "Hey folks - \n\nI work with RAG pipelines everyday at my work for the past 5 months and been using LLMs for last 18 months or so.\n\nHowever, I have not had an opportunity to really dive deep into the foundational concepts that power these technologies.\n\nOver the past 2 weeks, I have started diving deeper into the concepts (not much of the math) -- at a logical level without going too much into the math .\n\nI am jotting down what I am learning as notes and trying to put it together as an interactive mind-map for other folks to read and also for my future reference.\n\nI’m still learning and expanding the graph, but I would love your inputs on what topics are foundational or perhaps llm 301 or 401 .\n\nPlease check it out and pour in your feedback in the comments.\n\n[https://ragyfied.com/](https://ragyfied.com/) \n\n",
+    "permalink": "/r/Rag/comments/1oznady/learning_and_sharing_llm_foundational_concepts/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-18T14:43:34.290515",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/Rag/comments/1oznady/learning_and_sharing_llm_foundational_concepts/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_142330.json",
+      "scrape_002_20251118_143325.json",
+      "scrape_003_20251118_144334.json"
+    ]
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "post": {
+    "id": "1ozoeu2",
+    "title": "What are your hardest agentic security problems?",
+    "author": "AlpacaSecurity",
+    "score_history": [
+      [
+        5,
+        "2025-11-18T14:53:21.408392"
+      ],
+      [
+        5,
+        "2025-11-18T14:56:14.780424"
+      ],
+      [
+        4,
+        "2025-11-18T15:04:13.567809"
+      ]
+    ],
+    "created_utc": 1763404773.0,
+    "num_comments": 3,
+    "subreddit": "AgentsOfAI",
+    "url": "https://www.reddit.com/r/AgentsOfAI/comments/1ozoeu2/what_are_your_hardest_agentic_security_problems/",
+    "selftext": "Hey, my name is Daniel and I am an expert in ai security! Curious to hear more about any agentic security problems you all are facing.\n\nFeel free to drop your problems below and we could help each other out solving them! \n\n If you aren’t comfortable sharing them here you can DM.",
+    "permalink": "/r/AgentsOfAI/comments/1ozoeu2/what_are_your_hardest_agentic_security_problems/"
+  },
+  "comments": [
+    {
+      "id": "npfjasu",
+      "parent_id": "t3_1ozoeu2",
+      "author": "Electrical_Hat_680",
+      "text_history": [
+        [
+          "Can you explain what Agentic Security Problems are that you have found?  \n\nI've heard that there are, but I've never learned what they are.",
+          "2025-11-18T14:53:21.408392"
+        ]
+      ],
+      "score_history": [
+        [
+          3,
+          "2025-11-18T14:53:21.408392"
+        ],
+        [
+          3,
+          "2025-11-18T14:56:14.780424"
+        ],
+        [
+          3,
+          "2025-11-18T15:04:13.567809"
+        ]
+      ],
+      "created_utc": 1763435090.0,
+      "depth": 0,
+      "permalink": "/r/AgentsOfAI/comments/1ozoeu2/what_are_your_hardest_agentic_security_problems/npfjasu/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npfny26",
+          "parent_id": "t1_npfjasu",
+          "author": "AlpacaSecurity",
+          "text_history": [
+            [
+              "It all starts with Prompt Injection which means the ability to take over an LLM by interacting with it through its chat feature. Once you have control you can interact with its tools/MCPs. If you can arbitrarily make tool calls then the LLM is cooked. You basically have access to do whatever the tools feature are. \n\nLet’s say you have a read DB tool and navigate to website tool. Well you can first get the sensitive data from the DB then use the navigate to website tool to exfiltrate (steal) the DB information via its parameters or something.\n\nThis is just one example!",
+              "2025-11-18T14:53:21.408392"
+            ]
+          ],
+          "score_history": [
+            [
+              2,
+              "2025-11-18T14:53:21.408392"
+            ],
+            [
+              2,
+              "2025-11-18T14:56:14.780424"
+            ],
+            [
+              2,
+              "2025-11-18T15:04:13.567809"
+            ]
+          ],
+          "created_utc": 1763436824.0,
+          "depth": 1,
+          "permalink": "/r/AgentsOfAI/comments/1ozoeu2/what_are_your_hardest_agentic_security_problems/npfny26/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npft2iq",
+              "parent_id": "t1_npfny26",
+              "author": "Electrical_Hat_680",
+              "text_history": [
+                [
+                  "That's interesting.  Is there an extensive list of these available anywhere?  How are you able to secure against these?  Are you only able to secure personal local AI agents?",
+                  "2025-11-18T14:53:21.408392"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-18T14:53:21.408392"
+                ],
+                [
+                  1,
+                  "2025-11-18T14:56:14.780424"
+                ],
+                [
+                  1,
+                  "2025-11-18T15:04:13.567809"
+                ]
+              ],
+              "created_utc": 1763438860.0,
+              "depth": 2,
+              "permalink": "/r/AgentsOfAI/comments/1ozoeu2/what_are_your_hardest_agentic_security_problems/npft2iq/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-18T15:04:13.567809",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/AgentsOfAI/comments/1ozoeu2/what_are_your_hardest_agentic_security_problems/",
+    "total_comments": 3,
+    "top_level_comments": 1,
+    "api_requests": 1,
+    "expected_comments": 3,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_145321.json",
+      "scrape_002_20251118_145614.json",
+      "scrape_003_20251118_150413.json"
+    ]
+  }
+}

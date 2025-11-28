@@ -1,0 +1,218 @@
+{
+  "post": {
+    "id": "1p0d9zw",
+    "title": "How long until only Llm as a judge model taps",
+    "author": "Ok_Gas7672",
+    "score_history": [
+      [
+        1,
+        "2025-11-18T12:51:32.833204"
+      ],
+      [
+        1,
+        "2025-11-18T13:03:55.942413"
+      ],
+      [
+        1,
+        "2025-11-18T13:15:48.579848"
+      ],
+      [
+        1,
+        "2025-11-18T13:46:30.503029"
+      ],
+      [
+        1,
+        "2025-11-18T13:49:42.746306"
+      ],
+      [
+        1,
+        "2025-11-18T13:59:23.429806"
+      ],
+      [
+        1,
+        "2025-11-18T14:10:45.199089"
+      ]
+    ],
+    "created_utc": 1763475885.0,
+    "num_comments": 3,
+    "subreddit": "AI_Agents",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1p0d9zw/how_long_until_only_llm_as_a_judge_model_taps/",
+    "selftext": "I have been talking to companies using llm as a judge and I am getting a sense that this might be the thinnest possible wrapper out there in the ai stack. \n\nIt does make sense for evaluating soft skills - Empathy in a conversation ( or lack of it ), greetings, showing emotion, navigating with nuance but then that’s it. \n\nScores are unreliable. \nIt’s not even cheap ( at scale ). In fact how costs doesnt even matter. Most folks using llms as judge use it as a way to bypass customer and tell them - hey - we did our bit.\n\nWhat am I missing here? \n",
+    "permalink": "/r/AI_Agents/comments/1p0d9zw/how_long_until_only_llm_as_a_judge_model_taps/"
+  },
+  "comments": [
+    {
+      "id": "nphwlui",
+      "parent_id": "t3_1p0d9zw",
+      "author": "AutoModerator",
+      "text_history": [
+        [
+          "Thank you for your submission, for any questions regarding AI, please check out our wiki at https://www.reddit.com/r/ai_agents/wiki (this is currently in test and we are actively adding to the wiki)\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/AI_Agents) if you have any questions or concerns.*",
+          "2025-11-18T12:51:32.833204"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T12:51:32.833204"
+        ],
+        [
+          1,
+          "2025-11-18T13:03:55.942413"
+        ],
+        [
+          1,
+          "2025-11-18T13:15:48.579848"
+        ],
+        [
+          1,
+          "2025-11-18T13:46:30.503029"
+        ],
+        [
+          1,
+          "2025-11-18T13:49:42.746306"
+        ],
+        [
+          1,
+          "2025-11-18T13:59:23.429806"
+        ],
+        [
+          1,
+          "2025-11-18T14:10:45.199089"
+        ]
+      ],
+      "created_utc": 1763475886.0,
+      "depth": 0,
+      "permalink": "/r/AI_Agents/comments/1p0d9zw/how_long_until_only_llm_as_a_judge_model_taps/nphwlui/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nphxwlf",
+      "parent_id": "t3_1p0d9zw",
+      "author": "ai-agents-qa-bot",
+      "text_history": [
+        [
+          "It sounds like you're grappling with the limitations and practicalities of using LLMs as judges in various applications. Here are some points to consider:\n\n- **Evaluation Limitations**: While LLMs can assess certain soft skills like empathy and emotional nuance, their reliability can be questionable. They may not always accurately reflect human judgment, especially in complex interpersonal interactions.\n\n- **Cost Concerns**: Although LLMs can be expensive at scale, the perception of cost-effectiveness can vary based on the specific use case and implementation. Some organizations might prioritize the perceived benefits over the costs, especially if they believe it enhances their service offerings.\n\n- **Bypassing Human Interaction**: Your observation about companies using LLMs as a way to sidestep direct customer engagement is valid. This can lead to a lack of genuine interaction, which might not align with customer expectations for personalized service.\n\n- **Future Developments**: As the technology evolves, there may be improvements in how LLMs are trained and utilized for judgment tasks. However, the fundamental challenges of replicating human-like understanding and empathy may persist.\n\nFor further insights on the use of LLMs in evaluation contexts, you might find the following resource helpful: [Mastering Agents: Build And Evaluate A Deep Research Agent with o3 and 4o - Galileo AI](https://tinyurl.com/3ppvudxd).",
+          "2025-11-18T12:51:32.833204"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T12:51:32.833204"
+        ],
+        [
+          1,
+          "2025-11-18T13:03:55.942413"
+        ],
+        [
+          1,
+          "2025-11-18T13:15:48.579848"
+        ],
+        [
+          1,
+          "2025-11-18T13:46:30.503029"
+        ],
+        [
+          1,
+          "2025-11-18T13:49:42.746306"
+        ],
+        [
+          1,
+          "2025-11-18T13:59:23.429806"
+        ],
+        [
+          1,
+          "2025-11-18T14:10:45.199089"
+        ]
+      ],
+      "created_utc": 1763476293.0,
+      "depth": 0,
+      "permalink": "/r/AI_Agents/comments/1p0d9zw/how_long_until_only_llm_as_a_judge_model_taps/nphxwlf/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npj9kup",
+      "parent_id": "t3_1p0d9zw",
+      "author": "BidWestern1056",
+      "text_history": [
+        [
+          "you need repeated sampling for this kind of thing to be useful ",
+          "2025-11-18T12:51:32.833204"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T12:51:32.833204"
+        ],
+        [
+          1,
+          "2025-11-18T13:03:55.942413"
+        ],
+        [
+          1,
+          "2025-11-18T13:15:48.579848"
+        ],
+        [
+          1,
+          "2025-11-18T13:46:30.503029"
+        ],
+        [
+          1,
+          "2025-11-18T13:49:42.746306"
+        ],
+        [
+          1,
+          "2025-11-18T13:59:23.429806"
+        ],
+        [
+          1,
+          "2025-11-18T14:10:45.199089"
+        ]
+      ],
+      "created_utc": 1763490464.0,
+      "depth": 0,
+      "permalink": "/r/AI_Agents/comments/1p0d9zw/how_long_until_only_llm_as_a_judge_model_taps/npj9kup/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-18T14:10:45.199089",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/AI_Agents/comments/1p0d9zw/how_long_until_only_llm_as_a_judge_model_taps/",
+    "total_comments": 3,
+    "top_level_comments": 3,
+    "api_requests": 1,
+    "expected_comments": 3,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 7,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_125132.json",
+      "scrape_002_20251118_130355.json",
+      "scrape_003_20251118_131548.json",
+      "scrape_004_20251118_134630.json",
+      "scrape_005_20251118_134942.json",
+      "scrape_006_20251118_135923.json",
+      "scrape_007_20251118_141045.json"
+    ]
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "post": {
+    "id": "1p0q213",
+    "title": "AI engineering roadmap for beginners: with recommended resources",
+    "author": "No_Palpitation_6942",
+    "score_history": [
+      [
+        1,
+        "2025-11-19T02:55:56.600872"
+      ],
+      [
+        1,
+        "2025-11-19T03:03:43.014915"
+      ],
+      [
+        1,
+        "2025-11-19T03:06:41.878985"
+      ]
+    ],
+    "created_utc": 1763504847.0,
+    "num_comments": 2,
+    "subreddit": "learnmachinelearning",
+    "url": "https://i.redd.it/nzp9bi8zc32g1.png",
+    "selftext": "\n\n\n\n[](https://preview.redd.it/ai-engineering-roadmap-for-beginners-with-recommended-v0-s8lwctdoa32g1.gif?width=3152&amp;auto=webp&amp;s=40bffc98b68ad3a009164fd24ec3fb5834e92a32)Personally followed this roadmap for my AI engineering journey. I hope it gives someone the direction they seek :)\n\nFull roadmap:  [https://github.com/Guidely-org/ai-engineering-roadmap](https://github.com/Guidely-org/ai-engineering-roadmap)\n\n",
+    "permalink": "/r/learnmachinelearning/comments/1p0q213/ai_engineering_roadmap_for_beginners_with/"
+  },
+  "comments": [
+    {
+      "id": "npm97c9",
+      "parent_id": "t3_1p0q213",
+      "author": "Hot_Substance_9432",
+      "text_history": [
+        [
+          "Thanks so  much for this good contribution:)",
+          "2025-11-19T02:55:56.600872"
+        ]
+      ],
+      "score_history": [
+        [
+          0,
+          "2025-11-19T02:55:56.600872"
+        ],
+        [
+          0,
+          "2025-11-19T03:03:43.014915"
+        ],
+        [
+          0,
+          "2025-11-19T03:06:41.878985"
+        ]
+      ],
+      "created_utc": 1763526505.0,
+      "depth": 0,
+      "permalink": "/r/learnmachinelearning/comments/1p0q213/ai_engineering_roadmap_for_beginners_with/npm97c9/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npmw2q2",
+          "parent_id": "t1_npm97c9",
+          "author": "No_Palpitation_6942",
+          "text_history": [
+            [
+              "Happy you find it useful :)",
+              "2025-11-19T02:55:56.600872"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-19T02:55:56.600872"
+            ],
+            [
+              1,
+              "2025-11-19T03:03:43.014915"
+            ],
+            [
+              1,
+              "2025-11-19T03:06:41.878985"
+            ]
+          ],
+          "created_utc": 1763538358.0,
+          "depth": 1,
+          "permalink": "/r/learnmachinelearning/comments/1p0q213/ai_engineering_roadmap_for_beginners_with/npmw2q2/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:06:41.878985",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/learnmachinelearning/comments/1p0q213/ai_engineering_roadmap_for_beginners_with/",
+    "total_comments": 2,
+    "top_level_comments": 1,
+    "api_requests": 1,
+    "expected_comments": 2,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_025556.json",
+      "scrape_002_20251119_030342.json",
+      "scrape_003_20251119_030641.json"
+    ]
+  }
+}

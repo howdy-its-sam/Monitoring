@@ -1,0 +1,186 @@
+{
+  "post": {
+    "id": "1ozzq6g",
+    "title": "Anatomy Rant",
+    "author": "TranslatorCurious758",
+    "score_history": [
+      [
+        1,
+        "2025-11-19T03:28:48.621593"
+      ],
+      [
+        1,
+        "2025-11-19T03:36:27.274006"
+      ],
+      [
+        1,
+        "2025-11-19T03:37:54.400488"
+      ]
+    ],
+    "created_utc": 1763431935.0,
+    "num_comments": 4,
+    "subreddit": "ChatGPTPro",
+    "url": "https://www.reddit.com/r/ChatGPTPro/comments/1ozzq6g/anatomy_rant/",
+    "selftext": "Idk if its just me, but does anyone else feel like chat is just AWFUL when it comes down to doing lab practicals or naming cadaver pictures? Like seriously, gpt 5.1 thinking (both extended thinking and heavy thinking), and 5 pro almost never know how to properly name the picture of a cadaver regardless of whether its a highlighted area or an area pointed with arrow labels like even if you give it an anatomy pdf to train it or let it scroll through as a reference guide, it still gets them wrong. Are there any prompts or any unique tricks to get it to answer the pictures correctly or let it be an anatomy demon?",
+    "permalink": "/r/ChatGPTPro/comments/1ozzq6g/anatomy_rant/"
+  },
+  "comments": [
+    {
+      "id": "npfaavy",
+      "parent_id": "t3_1ozzq6g",
+      "author": "qualityvote2",
+      "text_history": [
+        [
+          "Hello u/TranslatorCurious758 👋 Welcome to r/ChatGPTPro!  \nThis is a community for advanced ChatGPT, AI tools, and prompt engineering discussions.  \nOther members will now vote on whether your post fits our community guidelines.\n\n\n---\n\nFor other users, does this post fit the subreddit?\n\nIf so, **upvote this comment!**\n\nOtherwise, **downvote this comment!**\n\nAnd if it does break the rules, **downvote this comment and report this post!**",
+          "2025-11-19T03:28:48.621593"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T03:28:48.621593"
+        ],
+        [
+          1,
+          "2025-11-19T03:36:27.274006"
+        ],
+        [
+          1,
+          "2025-11-19T03:37:54.400488"
+        ]
+      ],
+      "created_utc": 1763431936.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTPro/comments/1ozzq6g/anatomy_rant/npfaavy/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npfuzde",
+      "parent_id": "t3_1ozzq6g",
+      "author": "Direct-Cheetah-711",
+      "text_history": [
+        [
+          "It is garbage for anatomy",
+          "2025-11-19T03:28:48.621593"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T03:28:48.621593"
+        ],
+        [
+          1,
+          "2025-11-19T03:36:27.274006"
+        ],
+        [
+          1,
+          "2025-11-19T03:37:54.400488"
+        ]
+      ],
+      "created_utc": 1763439666.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTPro/comments/1ozzq6g/anatomy_rant/npfuzde/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npipq9x",
+          "parent_id": "t1_npfuzde",
+          "author": "TranslatorCurious758",
+          "text_history": [
+            [
+              "😂",
+              "2025-11-19T03:28:48.621593"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-19T03:28:48.621593"
+            ],
+            [
+              1,
+              "2025-11-19T03:36:27.274006"
+            ],
+            [
+              1,
+              "2025-11-19T03:37:54.400488"
+            ]
+          ],
+          "created_utc": 1763484675.0,
+          "depth": 1,
+          "permalink": "/r/ChatGPTPro/comments/1ozzq6g/anatomy_rant/npipq9x/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        },
+        {
+          "id": "npipr6u",
+          "parent_id": "t1_npfuzde",
+          "author": "TranslatorCurious758",
+          "text_history": [
+            [
+              "I agree fr.",
+              "2025-11-19T03:28:48.621593"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-19T03:28:48.621593"
+            ],
+            [
+              1,
+              "2025-11-19T03:36:27.274006"
+            ],
+            [
+              1,
+              "2025-11-19T03:37:54.400488"
+            ]
+          ],
+          "created_utc": 1763484683.0,
+          "depth": 1,
+          "permalink": "/r/ChatGPTPro/comments/1ozzq6g/anatomy_rant/npipr6u/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:37:54.400488",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/ChatGPTPro/comments/1ozzq6g/anatomy_rant/",
+    "total_comments": 4,
+    "top_level_comments": 2,
+    "api_requests": 1,
+    "expected_comments": 4,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_032848.json",
+      "scrape_002_20251119_033627.json",
+      "scrape_003_20251119_033754.json"
+    ]
+  }
+}

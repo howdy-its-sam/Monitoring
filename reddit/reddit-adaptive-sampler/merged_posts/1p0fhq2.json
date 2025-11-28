@@ -1,0 +1,186 @@
+{
+  "post": {
+    "id": "1p0fhq2",
+    "title": "Email warmup tools to supplement HubSpot sequencing",
+    "author": "D5HRX",
+    "score_history": [
+      [
+        2,
+        "2025-11-18T14:22:39.044043"
+      ],
+      [
+        2,
+        "2025-11-18T14:32:50.414576"
+      ],
+      [
+        2,
+        "2025-11-18T14:42:48.876378"
+      ]
+    ],
+    "created_utc": 1763481154.0,
+    "num_comments": 4,
+    "subreddit": "DigitalMarketing",
+    "url": "https://www.reddit.com/r/DigitalMarketing/comments/1p0fhq2/email_warmup_tools_to_supplement_hubspot/",
+    "selftext": "Hey guys, B2B SaaS Sales Director here, I've just upgraded HubSpot so we have sequences, I also have verified lists from Cognism. What email warmup tools are generally best in market these days? I am not familiar with them at all and haven't used any at all, they all claim to do similar &amp; all have very similar pricing. \n\n  \nMy goal: maximise the number of emails landing in inbox from my HubSpot sequencing so I can start a conversation and eventually books demos around our solution.\n\n  \nRight now according to LemWarm my domain score is about 70/100 as I'm at a new SaaS startup so our domain isn't bad or taken a major hit. Advice welcome thank you! ",
+    "permalink": "/r/DigitalMarketing/comments/1p0fhq2/email_warmup_tools_to_supplement_hubspot/"
+  },
+  "comments": [
+    {
+      "id": "npidnbm",
+      "parent_id": "t3_1p0fhq2",
+      "author": "AutoModerator",
+      "text_history": [
+        [
+          "[If this post doesn't follow the rules report it to the mods](https://www.reddit.com/r/DigitalMarketing/about/rules/). Have more questions? [Join our community Discord!](https://discord.gg/looking-for-marketing-discussion-811236647760298024)\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/DigitalMarketing) if you have any questions or concerns.*",
+          "2025-11-18T14:22:39.044043"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:22:39.044043"
+        ],
+        [
+          1,
+          "2025-11-18T14:32:50.414576"
+        ],
+        [
+          1,
+          "2025-11-18T14:42:48.876378"
+        ]
+      ],
+      "created_utc": 1763481155.0,
+      "depth": 0,
+      "permalink": "/r/DigitalMarketing/comments/1p0fhq2/email_warmup_tools_to_supplement_hubspot/npidnbm/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npidndl",
+      "parent_id": "t3_1p0fhq2",
+      "author": "AutoModerator",
+      "text_history": [
+        [
+          "Are you a marketing professional and have 15 minutes to share your insights? [Take our 2025 State of Marketing Survey](https://lookingformarketing.com/survey?utm_source=reddit&amp;utm_medium=social&amp;utm_campaign=survey&amp;utm_content=r_digitalmarketing).\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/DigitalMarketing) if you have any questions or concerns.*",
+          "2025-11-18T14:22:39.044043"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:22:39.044043"
+        ],
+        [
+          1,
+          "2025-11-18T14:32:50.414576"
+        ],
+        [
+          1,
+          "2025-11-18T14:42:48.876378"
+        ]
+      ],
+      "created_utc": 1763481155.0,
+      "depth": 0,
+      "permalink": "/r/DigitalMarketing/comments/1p0fhq2/email_warmup_tools_to_supplement_hubspot/npidndl/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npigfgb",
+      "parent_id": "t3_1p0fhq2",
+      "author": "Corgi-Ancient",
+      "text_history": [
+        [
+          "LemWarm is solid but also try warming with a real inbox by sending to known contacts or test accounts before ramping up sequences in HubSpot. Keep your emails super short and plain text like you said, avoid over-linking or attachments cause spam filters hate that. If you wanna up your lead quality too, I use SocLeads to build cleaner lists that help keep bounce rates low which helps domain rep stay healthy.",
+          "2025-11-18T14:22:39.044043"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:22:39.044043"
+        ],
+        [
+          1,
+          "2025-11-18T14:32:50.414576"
+        ],
+        [
+          1,
+          "2025-11-18T14:42:48.876378"
+        ]
+      ],
+      "created_utc": 1763481964.0,
+      "depth": 0,
+      "permalink": "/r/DigitalMarketing/comments/1p0fhq2/email_warmup_tools_to_supplement_hubspot/npigfgb/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npijndi",
+          "parent_id": "t1_npigfgb",
+          "author": "D5HRX",
+          "text_history": [
+            [
+              "Thank you!   \n  \nI am sending lots of emails to prospects already and getting responses through natural email exchanges, is this sufficient? I tend to keep my copy quite straight forward, but even in my last campaign my open rate from HubSpot was just 11% so very poor performing.",
+              "2025-11-18T14:22:39.044043"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T14:22:39.044043"
+            ],
+            [
+              1,
+              "2025-11-18T14:32:50.414576"
+            ],
+            [
+              1,
+              "2025-11-18T14:42:48.876378"
+            ]
+          ],
+          "created_utc": 1763482902.0,
+          "depth": 1,
+          "permalink": "/r/DigitalMarketing/comments/1p0fhq2/email_warmup_tools_to_supplement_hubspot/npijndi/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-18T14:42:48.876378",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/DigitalMarketing/comments/1p0fhq2/email_warmup_tools_to_supplement_hubspot/",
+    "total_comments": 4,
+    "top_level_comments": 3,
+    "api_requests": 1,
+    "expected_comments": 4,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_142238.json",
+      "scrape_002_20251118_143250.json",
+      "scrape_003_20251118_144248.json"
+    ]
+  }
+}

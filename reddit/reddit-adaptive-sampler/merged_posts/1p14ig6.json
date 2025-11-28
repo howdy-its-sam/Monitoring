@@ -1,0 +1,44 @@
+{
+  "post": {
+    "id": "1p14ig6",
+    "title": "LangChain: AsyncPostgresSaver resulting in \"ValueError: No data received from Ollama stream\" exception",
+    "author": "pawnstew",
+    "score_history": [
+      [
+        1,
+        "2025-11-19T03:41:36.056075"
+      ],
+      [
+        1,
+        "2025-11-19T03:48:58.494456"
+      ],
+      [
+        1,
+        "2025-11-19T03:50:47.767926"
+      ]
+    ],
+    "created_utc": 1763549662.0,
+    "num_comments": 0,
+    "subreddit": "LangChain",
+    "url": "https://www.reddit.com/r/LangChain/comments/1p14ig6/langchain_asyncpostgressaver_resulting_in/",
+    "selftext": "Hi,\n\nI am very new to LangChain, so please forgive stupid questions.\n\nI am trying to use Postgres as a memory.\n\nI set up my agent like this, and can see tables being created in Postgres, as well as some rows being written:\n\n            # Store the connection pool\n            self.connection_pool = AsyncConnectionPool(DB_URI, kwargs=connection_kwargs)\n            await self.connection_pool.open()\n            \n            checkpointer = AsyncPostgresSaver(self.connection_pool)\n            await checkpointer.setup()\n                    \n            self.agent = create_agent(\n                llm,\n                tools=self.tools,\n                checkpointer=checkpointer,  \n            )\n\nI interact with it as such:\n\n        async def chat(self, message: str) -&gt; AsyncIterator[str]:\n            try:\n                # Run the agent\n                resp = await self.agent.ainvoke({\"input\": message},\n                                                config={\"configurable\": {\"thread_id\": \"1\"}, \n                                                        \"callbacks\": [langfuse_handler]},\n                                                )\n    \n    \n                # Extract response\n                if isinstance(resp, dict) and \"messages\" in resp:\n                    last_message = resp[\"messages\"][-1]\n                    if hasattr(last_message, \"content\"):\n                        yield last_message.content\n                    else:\n                        yield str(last_message)\n                else:\n                    yield str(resp)\n    \n    \n            except Exception as e:\n                error_msg = f\"Error: {str(e)}\"\n                logger.error(f\"Agent invocation error: {e}\", exc_info=True)\n                yield error_msg\n\n\n\nBut this causes an exception \"ValueError: No data received from Ollama stream\" at \"`.ainvoke()`\".\n\nCan anyone help me with this issue?",
+    "permalink": "/r/LangChain/comments/1p14ig6/langchain_asyncpostgressaver_resulting_in/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:50:47.767926",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/LangChain/comments/1p14ig6/langchain_asyncpostgressaver_resulting_in/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_034135.json",
+      "scrape_002_20251119_034858.json",
+      "scrape_003_20251119_035047.json"
+    ]
+  }
+}

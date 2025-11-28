@@ -1,0 +1,44 @@
+{
+  "post": {
+    "id": "1p0s3cd",
+    "title": "Stop guessing RAG chunk sizes",
+    "author": "InstanceSignal5153",
+    "score_history": [
+      [
+        2,
+        "2025-11-19T03:30:54.149073"
+      ],
+      [
+        2,
+        "2025-11-19T03:36:27.017437"
+      ],
+      [
+        2,
+        "2025-11-19T03:39:37.789443"
+      ]
+    ],
+    "created_utc": 1763509882.0,
+    "num_comments": 0,
+    "subreddit": "learnmachinelearning",
+    "url": "https://www.reddit.com/r/learnmachinelearning/comments/1p0s3cd/stop_guessing_rag_chunk_sizes/",
+    "selftext": "Hi everyone,\n\nLast week, I shared a small tool I built to solve a personal frustration: guessing chunk sizes for RAG pipelines.\n\nThe feedback here was incredibly helpful. Several of you pointed out that word-based chunking wasn't accurate enough for LLM context windows and that cloning a repo is annoying.\n\nI spent the weekend fixing those issues. I just updated the project (`rag-chunk`) with:\n\n* **True Token Chunking:** I integrated `tiktoken`, so now you can chunk documents based on exact token counts (matching OpenAI's encoding) rather than just whitespace/words.\n* **Easier Install:** It's now packaged properly, so you can install it directly via pip.\n* **Visuals:** Added a demo GIF in the repo so you can see the evaluation table before trying it.\n\nThe goal remains the same: a simple CLI to **measure** recall for different chunking strategies on your own Markdown files, rather than guessing.\n\nIt is 100% open-source. I'd love to know if the token-based logic works better for your use cases.\n\nGithub: [https://github.com/messkan/rag-chunk](https://github.com/messkan/rag-chunk)",
+    "permalink": "/r/learnmachinelearning/comments/1p0s3cd/stop_guessing_rag_chunk_sizes/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:39:37.789443",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/learnmachinelearning/comments/1p0s3cd/stop_guessing_rag_chunk_sizes/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_033053.json",
+      "scrape_002_20251119_033626.json",
+      "scrape_003_20251119_033937.json"
+    ]
+  }
+}

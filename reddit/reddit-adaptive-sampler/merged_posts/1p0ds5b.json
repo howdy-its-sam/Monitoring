@@ -1,0 +1,611 @@
+{
+  "post": {
+    "id": "1p0ds5b",
+    "title": "Cloudflare down: Company blames 'unusual' spike in traffic before outage errors",
+    "author": "cnbc_official",
+    "score_history": [
+      [
+        177,
+        "2025-11-19T02:54:08.308126"
+      ],
+      [
+        180,
+        "2025-11-19T02:57:31.511390"
+      ],
+      [
+        174,
+        "2025-11-19T02:57:53.632932"
+      ]
+    ],
+    "created_utc": 1763477142.0,
+    "num_comments": 18,
+    "subreddit": "technews",
+    "url": "https://www.cnbc.com/2025/11/18/cloudflare-down-outage-traffic-spike-x-chatgpt.html?__source=reddit|main",
+    "selftext": "",
+    "permalink": "/r/technews/comments/1p0ds5b/cloudflare_down_company_blames_unusual_spike_in/"
+  },
+  "comments": [
+    {
+      "id": "npisgxu",
+      "parent_id": "t3_1p0ds5b",
+      "author": "ThermoFlaskDrinker",
+      "text_history": [
+        [
+          "Now we know which servers THE FILES are being kept 😂",
+          "2025-11-19T02:54:08.308126"
+        ]
+      ],
+      "score_history": [
+        [
+          57,
+          "2025-11-19T02:54:08.308126"
+        ],
+        [
+          54,
+          "2025-11-19T02:57:31.511390"
+        ],
+        [
+          59,
+          "2025-11-19T02:57:53.632932"
+        ]
+      ],
+      "created_utc": 1763485480.0,
+      "depth": 0,
+      "permalink": "/r/technews/comments/1p0ds5b/cloudflare_down_company_blames_unusual_spike_in/npisgxu/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npizq25",
+          "parent_id": "t1_npisgxu",
+          "author": "namesarenotus",
+          "text_history": [
+            [
+              "This is the answer.",
+              "2025-11-19T02:54:08.308126"
+            ]
+          ],
+          "score_history": [
+            [
+              6,
+              "2025-11-19T02:54:08.308126"
+            ],
+            [
+              5,
+              "2025-11-19T02:57:31.511390"
+            ],
+            [
+              6,
+              "2025-11-19T02:57:53.632932"
+            ]
+          ],
+          "created_utc": 1763487628.0,
+          "depth": 1,
+          "permalink": "/r/technews/comments/1p0ds5b/cloudflare_down_company_blames_unusual_spike_in/npizq25/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npi1k3v",
+      "parent_id": "t3_1p0ds5b",
+      "author": "LtCodename",
+      "text_history": [
+        [
+          "100% all people of the world went voting for The Game Awards.",
+          "2025-11-19T02:54:08.308126"
+        ]
+      ],
+      "score_history": [
+        [
+          31,
+          "2025-11-19T02:54:08.308126"
+        ],
+        [
+          33,
+          "2025-11-19T02:57:31.511390"
+        ],
+        [
+          32,
+          "2025-11-19T02:57:53.632932"
+        ]
+      ],
+      "created_utc": 1763477464.0,
+      "depth": 0,
+      "permalink": "/r/technews/comments/1p0ds5b/cloudflare_down_company_blames_unusual_spike_in/npi1k3v/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npkurlh",
+          "parent_id": "t1_npi1k3v",
+          "author": "ScubaWaveAesthetic",
+          "text_history": [
+            [
+              "I hope they voted for the game I just lost reading your comment",
+              "2025-11-19T02:54:08.308126"
+            ]
+          ],
+          "score_history": [
+            [
+              6,
+              "2025-11-19T02:54:08.308126"
+            ],
+            [
+              7,
+              "2025-11-19T02:57:31.511390"
+            ],
+            [
+              7,
+              "2025-11-19T02:57:53.632932"
+            ]
+          ],
+          "created_utc": 1763507973.0,
+          "depth": 1,
+          "permalink": "/r/technews/comments/1p0ds5b/cloudflare_down_company_blames_unusual_spike_in/npkurlh/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npld96m",
+              "parent_id": "t1_npkurlh",
+              "author": "in1gom0ntoya",
+              "text_history": [
+                [
+                  "dammit I lost the game!",
+                  "2025-11-19T02:54:08.308126"
+                ]
+              ],
+              "score_history": [
+                [
+                  7,
+                  "2025-11-19T02:54:08.308126"
+                ],
+                [
+                  6,
+                  "2025-11-19T02:57:31.511390"
+                ],
+                [
+                  6,
+                  "2025-11-19T02:57:53.632932"
+                ]
+              ],
+              "created_utc": 1763514509.0,
+              "depth": 2,
+              "permalink": "/r/technews/comments/1p0ds5b/cloudflare_down_company_blames_unusual_spike_in/npld96m/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "npin5dk",
+      "parent_id": "t3_1p0ds5b",
+      "author": "XInsomniacX06",
+      "text_history": [
+        [
+          "Sounds like someone’s probing what gets impacted if these lard cloud providers go down.",
+          "2025-11-19T02:54:08.308126"
+        ]
+      ],
+      "score_history": [
+        [
+          16,
+          "2025-11-19T02:54:08.308126"
+        ],
+        [
+          15,
+          "2025-11-19T02:57:31.511390"
+        ],
+        [
+          17,
+          "2025-11-19T02:57:53.632932"
+        ]
+      ],
+      "created_utc": 1763483922.0,
+      "depth": 0,
+      "permalink": "/r/technews/comments/1p0ds5b/cloudflare_down_company_blames_unusual_spike_in/npin5dk/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npiv45d",
+          "parent_id": "t1_npin5dk",
+          "author": "A_Dirty_Hooker",
+          "text_history": [
+            [
+              "not the lard cloud",
+              "2025-11-19T02:54:08.308126"
+            ]
+          ],
+          "score_history": [
+            [
+              15,
+              "2025-11-19T02:54:08.308126"
+            ],
+            [
+              14,
+              "2025-11-19T02:57:31.511390"
+            ],
+            [
+              15,
+              "2025-11-19T02:57:53.632932"
+            ]
+          ],
+          "created_utc": 1763486261.0,
+          "depth": 1,
+          "permalink": "/r/technews/comments/1p0ds5b/cloudflare_down_company_blames_unusual_spike_in/npiv45d/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npmi066",
+              "parent_id": "t1_npiv45d",
+              "author": "Future-Bandicoot-823",
+              "text_history": [
+                [
+                  "Just please, don't touch the carb cloud.\n\nI can't survive with a carb outage.",
+                  "2025-11-19T02:54:08.308126"
+                ]
+              ],
+              "score_history": [
+                [
+                  3,
+                  "2025-11-19T02:54:08.308126"
+                ],
+                [
+                  3,
+                  "2025-11-19T02:57:31.511390"
+                ],
+                [
+                  3,
+                  "2025-11-19T02:57:53.632932"
+                ]
+              ],
+              "created_utc": 1763530576.0,
+              "depth": 2,
+              "permalink": "/r/technews/comments/1p0ds5b/cloudflare_down_company_blames_unusual_spike_in/npmi066/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "npkhgmc",
+      "parent_id": "t3_1p0ds5b",
+      "author": "Lazy_Osprey",
+      "text_history": [
+        [
+          "Microsoft reported an attack last night on Azure, wonder if it’s related.",
+          "2025-11-19T02:54:08.308126"
+        ]
+      ],
+      "score_history": [
+        [
+          9,
+          "2025-11-19T02:54:08.308126"
+        ],
+        [
+          10,
+          "2025-11-19T02:57:31.511390"
+        ],
+        [
+          10,
+          "2025-11-19T02:57:53.632932"
+        ]
+      ],
+      "created_utc": 1763503559.0,
+      "depth": 0,
+      "permalink": "/r/technews/comments/1p0ds5b/cloudflare_down_company_blames_unusual_spike_in/npkhgmc/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nplbmap",
+      "parent_id": "t3_1p0ds5b",
+      "author": "bingeboy",
+      "text_history": [
+        [
+          "Was this the same attack Microsoft successfully defended against? Apparently it was the largest prevented ddos in history or something",
+          "2025-11-19T02:54:08.308126"
+        ]
+      ],
+      "score_history": [
+        [
+          6,
+          "2025-11-19T02:54:08.308126"
+        ],
+        [
+          7,
+          "2025-11-19T02:57:31.511390"
+        ],
+        [
+          7,
+          "2025-11-19T02:57:53.632932"
+        ]
+      ],
+      "created_utc": 1763513911.0,
+      "depth": 0,
+      "permalink": "/r/technews/comments/1p0ds5b/cloudflare_down_company_blames_unusual_spike_in/nplbmap/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npmz3q0",
+          "parent_id": "t1_nplbmap",
+          "author": "WolpertingerRumo",
+          "text_history": [
+            [
+              "Seems like may have been connected, but not the same. It was directly after.",
+              "2025-11-19T02:54:08.308126"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-19T02:54:08.308126"
+            ],
+            [
+              1,
+              "2025-11-19T02:57:31.511390"
+            ],
+            [
+              1,
+              "2025-11-19T02:57:53.632932"
+            ]
+          ],
+          "created_utc": 1763540184.0,
+          "depth": 1,
+          "permalink": "/r/technews/comments/1p0ds5b/cloudflare_down_company_blames_unusual_spike_in/npmz3q0/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npjreef",
+      "parent_id": "t3_1p0ds5b",
+      "author": "productiveslacker73",
+      "text_history": [
+        [
+          "Everyone was trying to get presale tickets to Weird Al's 2026 tour",
+          "2025-11-19T02:54:08.308126"
+        ]
+      ],
+      "score_history": [
+        [
+          8,
+          "2025-11-19T02:54:08.308126"
+        ],
+        [
+          10,
+          "2025-11-19T02:57:31.511390"
+        ],
+        [
+          9,
+          "2025-11-19T02:57:53.632932"
+        ]
+      ],
+      "created_utc": 1763495710.0,
+      "depth": 0,
+      "permalink": "/r/technews/comments/1p0ds5b/cloudflare_down_company_blames_unusual_spike_in/npjreef/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npi5hd5",
+      "parent_id": "t3_1p0ds5b",
+      "author": "Emergency-Prompt-",
+      "text_history": [
+        [
+          "It’s always DNS 🫠",
+          "2025-11-19T02:54:08.308126"
+        ]
+      ],
+      "score_history": [
+        [
+          5,
+          "2025-11-19T02:54:08.308126"
+        ],
+        [
+          4,
+          "2025-11-19T02:57:31.511390"
+        ],
+        [
+          8,
+          "2025-11-19T02:57:53.632932"
+        ]
+      ],
+      "created_utc": 1763478707.0,
+      "depth": 0,
+      "permalink": "/r/technews/comments/1p0ds5b/cloudflare_down_company_blames_unusual_spike_in/npi5hd5/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npld6vv",
+      "parent_id": "t3_1p0ds5b",
+      "author": "in1gom0ntoya",
+      "text_history": [
+        [
+          "sounds like a cursory probe before taking it down...",
+          "2025-11-19T02:54:08.308126"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:54:08.308126"
+        ],
+        [
+          1,
+          "2025-11-19T02:57:31.511390"
+        ],
+        [
+          1,
+          "2025-11-19T02:57:53.632932"
+        ]
+      ],
+      "created_utc": 1763514486.0,
+      "depth": 0,
+      "permalink": "/r/technews/comments/1p0ds5b/cloudflare_down_company_blames_unusual_spike_in/npld6vv/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nplm6gg",
+      "parent_id": "t3_1p0ds5b",
+      "author": "5of10",
+      "text_history": [
+        [
+          "Just blame it on AI.",
+          "2025-11-19T02:54:08.308126"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:54:08.308126"
+        ],
+        [
+          1,
+          "2025-11-19T02:57:31.511390"
+        ],
+        [
+          1,
+          "2025-11-19T02:57:53.632932"
+        ]
+      ],
+      "created_utc": 1763517728.0,
+      "depth": 0,
+      "permalink": "/r/technews/comments/1p0ds5b/cloudflare_down_company_blames_unusual_spike_in/nplm6gg/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npn738r",
+      "parent_id": "t3_1p0ds5b",
+      "author": "Common-Violinist-305",
+      "text_history": [
+        [
+          "maybe all the bitcoin selling?",
+          "2025-11-19T02:54:08.308126"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:54:08.308126"
+        ],
+        [
+          1,
+          "2025-11-19T02:57:31.511390"
+        ],
+        [
+          1,
+          "2025-11-19T02:57:53.632932"
+        ]
+      ],
+      "created_utc": 1763545228.0,
+      "depth": 0,
+      "permalink": "/r/technews/comments/1p0ds5b/cloudflare_down_company_blames_unusual_spike_in/npn738r/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T02:57:53.632932",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/technews/comments/1p0ds5b/cloudflare_down_company_blames_unusual_spike_in/",
+    "total_comments": 16,
+    "top_level_comments": 10,
+    "api_requests": 1,
+    "expected_comments": 18,
+    "coverage_percent": 88.89,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_025408.json",
+      "scrape_002_20251119_025731.json",
+      "scrape_003_20251119_025753.json"
+    ]
+  }
+}

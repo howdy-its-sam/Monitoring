@@ -1,0 +1,44 @@
+{
+  "post": {
+    "id": "1p06698",
+    "title": "PipesHub - The Open Source, Self-Hostable Alternative to Microsoft 365 Copilot",
+    "author": "Effective-Ad2060",
+    "score_history": [
+      [
+        14,
+        "2025-11-18T14:22:05.946582"
+      ],
+      [
+        15,
+        "2025-11-18T14:32:12.708725"
+      ],
+      [
+        14,
+        "2025-11-18T14:42:44.804097"
+      ]
+    ],
+    "created_utc": 1763452722.0,
+    "num_comments": 0,
+    "subreddit": "LangChain",
+    "url": "https://www.reddit.com/r/LangChain/comments/1p06698/pipeshub_the_open_source_selfhostable_alternative/",
+    "selftext": "Hey everyone!\n\nI’m excited to share something we’ve been building for the past few months - **PipesHub**, a **fully open-source alternative to Microsoft 365 Copilot** designed to bring powerful Enterprise Search, Agent Builders to every team, without vendor lock-in. The platform brings all your business data together and makes it searchable. It connects with apps like Google Drive, Gmail, Slack, Notion, Confluence, Jira, Outlook, SharePoint, Dropbox, and even local file uploads. You can deploy it and run it with just one docker compose command.\n\nThe entire system is built on a **fully event-streaming architecture powered by Kafka**, making indexing and retrieval scalable, fault-tolerant, and real-time across large volumes of data. PipesHub combines a vector database with a knowledge graph and uses Agentic RAG to deliver highly accurate results. We constrain the LLM to ground truth. Provides Visual citations, reasoning and confidence score. Our implementation says Information not found rather than hallucinating.\n\n**Key features**\n\n* Deep understanding of user, organization and teams with enterprise knowledge graph\n* Connect to any AI model of your choice including OpenAI, Gemini, Claude, or Ollama\n* Use any other provider that supports OpenAI compatible endpoints\n* Vision-Language Models and OCR for visual or scanned docs\n* Login with Google, Microsoft, OAuth, or SSO\n* Rich REST APIs for developers\n* All major file types support including pdfs with images, diagrams and charts\n\n**Features releasing this month**\n\n* Agent Builder - Perform actions like Sending mails, Schedule Meetings, etc along with Search, Deep research, Internet search and more\n* Reasoning Agent that plans before executing tasks\n* 40+ Connectors allowing you to connect to your entire business apps\n\nCheck it out and share your thoughts or feedback. Your feedback is immensely valuable and is much appreciated:  \n[https://github.com/pipeshub-ai/pipeshub-ai](https://github.com/pipeshub-ai/pipeshub-ai)\n\nDemo Video:  \n[https://www.youtube.com/watch?v=xA9m3pwOgz8](https://www.youtube.com/watch?v=xA9m3pwOgz8)",
+    "permalink": "/r/LangChain/comments/1p06698/pipeshub_the_open_source_selfhostable_alternative/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-18T14:42:44.804097",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/LangChain/comments/1p06698/pipeshub_the_open_source_selfhostable_alternative/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_142205.json",
+      "scrape_002_20251118_143212.json",
+      "scrape_003_20251118_144244.json"
+    ]
+  }
+}

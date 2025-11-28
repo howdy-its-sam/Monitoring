@@ -1,0 +1,129 @@
+{
+  "post": {
+    "id": "1p1878t",
+    "title": "is audience language research a big enough pain to solve?",
+    "author": "jpjayprasad",
+    "score_history": [
+      [
+        1,
+        "2025-11-19T05:52:13.246719"
+      ],
+      [
+        1,
+        "2025-11-19T05:52:13.492408"
+      ],
+      [
+        1,
+        "2025-11-19T05:52:13.725626"
+      ],
+      [
+        1,
+        "2025-11-19T05:52:13.921058"
+      ],
+      [
+        1,
+        "2025-11-19T05:52:14.150834"
+      ],
+      [
+        1,
+        "2025-11-19T05:52:14.364763"
+      ],
+      [
+        1,
+        "2025-11-19T05:52:14.601244"
+      ],
+      [
+        1,
+        "2025-11-19T05:52:14.816108"
+      ],
+      [
+        1,
+        "2025-11-19T05:52:15.056754"
+      ],
+      [
+        1,
+        "2025-11-19T05:52:15.254509"
+      ],
+      [
+        1,
+        "2025-11-19T05:52:15.485129"
+      ],
+      [
+        1,
+        "2025-11-19T05:52:15.694932"
+      ],
+      [
+        1,
+        "2025-11-19T05:52:15.929853"
+      ],
+      [
+        1,
+        "2025-11-19T05:52:16.133636"
+      ],
+      [
+        1,
+        "2025-11-19T05:52:16.375175"
+      ],
+      [
+        1,
+        "2025-11-19T05:52:16.573588"
+      ],
+      [
+        1,
+        "2025-11-19T05:52:16.809062"
+      ],
+      [
+        1,
+        "2025-11-19T05:52:17.024954"
+      ],
+      [
+        1,
+        "2025-11-19T05:52:17.238733"
+      ],
+      [
+        1,
+        "2025-11-19T05:52:17.450981"
+      ]
+    ],
+    "created_utc": 1763560243.0,
+    "num_comments": 0,
+    "subreddit": "ContentMarketing",
+    "url": "https://www.reddit.com/r/ContentMarketing/comments/1p1878t/is_audience_language_research_a_big_enough_pain/",
+    "selftext": "Before writing content, we often dig through forums, comments, and discussions to understand how people actually talk about a topic.\n\nI’m exploring a tool that simplifies this research and produces content ideas that match audience tone, phrasing, and sentiment.\n\nStill keeping things abstract, but curious:\n\t•\tWould this genuinely help you?\n\t•\tWhat would you need to trust the output?\n\t•\tHow much of your time goes into this kind of manual research?\n\nShort, honest replies are super helpful.",
+    "permalink": "/r/ContentMarketing/comments/1p1878t/is_audience_language_research_a_big_enough_pain/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T05:52:17.450981",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/ContentMarketing/comments/1p1878t/is_audience_language_research_a_big_enough_pain/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 20,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_055213.json",
+      "scrape_002_20251119_055213.json",
+      "scrape_003_20251119_055213.json",
+      "scrape_004_20251119_055213.json",
+      "scrape_005_20251119_055213.json",
+      "scrape_006_20251119_055214.json",
+      "scrape_007_20251119_055214.json",
+      "scrape_008_20251119_055214.json",
+      "scrape_009_20251119_055214.json",
+      "scrape_010_20251119_055215.json",
+      "scrape_011_20251119_055215.json",
+      "scrape_012_20251119_055215.json",
+      "scrape_013_20251119_055215.json",
+      "scrape_014_20251119_055215.json",
+      "scrape_015_20251119_055216.json",
+      "scrape_016_20251119_055216.json",
+      "scrape_017_20251119_055216.json",
+      "scrape_018_20251119_055216.json",
+      "scrape_019_20251119_055217.json",
+      "scrape_020_20251119_055217.json"
+    ]
+  }
+}

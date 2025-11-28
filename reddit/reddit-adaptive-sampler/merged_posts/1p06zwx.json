@@ -1,0 +1,116 @@
+{
+  "post": {
+    "id": "1p06zwx",
+    "title": "Bringing agentic / Auto-workflow design to tabular data: thoughts on TabTune by Lexsi Labs",
+    "author": "Dan27138",
+    "score_history": [
+      [
+        1,
+        "2025-11-18T12:51:39.501492"
+      ],
+      [
+        1,
+        "2025-11-18T13:04:00.573467"
+      ],
+      [
+        1,
+        "2025-11-18T13:15:53.386145"
+      ],
+      [
+        1,
+        "2025-11-18T13:46:31.931063"
+      ],
+      [
+        1,
+        "2025-11-18T13:49:39.576404"
+      ],
+      [
+        1,
+        "2025-11-18T13:59:23.623064"
+      ],
+      [
+        1,
+        "2025-11-18T14:10:42.263753"
+      ]
+    ],
+    "created_utc": 1763455925.0,
+    "num_comments": 1,
+    "subreddit": "AgentsOfAI",
+    "url": "https://www.reddit.com/r/AgentsOfAI/comments/1p06zwx/bringing_agentic_autoworkflow_design_to_tabular/",
+    "selftext": "Hey everyone —\n\nI recently came across **TabTune by Lexsi Labs**, a framework that applies “foundation model” ideas (pre-train, fine-tune, meta-learn) to **tabular data**. While a lot of agent conversations focus on LLMs and text workflows, I found the design choices here pretty relevant to agentic systems too.\n\nHere’s what stands out in TabTune:\n\n* A **TabularPipeline** abstraction that handles data preprocessing, model adaptation, and evaluation in a unified way.\n* Support for **zero-shot inference**, **supervised fine-tuning**, and **LoRA-based tuning** — which could align well with agents that need to adapt to new data.\n* **Meta-learning routines** for transferring across different tabular tasks or datasets.\n* Built-in diagnostics for **calibration** (ECE, MCE, Brier score) and **fairness**, to help evaluate trustworthiness.\n* Compatibility with several models: TabPFN, Orion-MSP / BiX, FT-Transformer, and SAINT.\n\n**Why I think this is interesting for agents:**\n\n* Agent architectures often need structured-data reasoning (for planning, decision-making, or state prediction). A tabular model framework could significantly improve that.\n* Parameter-efficient tuning (like LoRA) could allow agents to adapt quickly to new environments or workflows without full retraining.\n* Meta-learning helps agents generalize across different modules or tasks.\n* Diagnostics around calibration and fairness are crucial when agents act in high-stakes or decision-rich environments.\n\n**Questions for this community:**\n\n* Has anyone explored structured-data-driven agents, or used tabular models as part of an agent’s “brain”?\n* Do you think agent frameworks should integrate model-adaptation pipelines (like TabularPipeline) for structured workflows?\n* What are potential pitfalls: data drift, calibration, or safety when combining agents with tabular predictive models?\n\n(I can post links to the code and paper in a comment if anyone wants to dive in.)",
+    "permalink": "/r/AgentsOfAI/comments/1p06zwx/bringing_agentic_autoworkflow_design_to_tabular/"
+  },
+  "comments": [
+    {
+      "id": "npgp70v",
+      "parent_id": "t3_1p06zwx",
+      "author": "Dan27138",
+      "text_history": [
+        [
+          "Here are the resources for TabTune by Lexsi Labs:  \n• GitHub: [https://github.com/Lexsi-Labs/TabTune](https://github.com/Lexsi-Labs/TabTune)  \n• Pre-print (ArXiv): [https://arxiv.org/abs/2511.02802](https://arxiv.org/abs/2511.02802?utm_source=chatgpt.com)  \n• Community / Discussion (Discord): [https://discord.gg/SwfQS8RU](https://discord.gg/SwfQS8RU)",
+          "2025-11-18T12:51:39.501492"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T12:51:39.501492"
+        ],
+        [
+          1,
+          "2025-11-18T13:04:00.573467"
+        ],
+        [
+          1,
+          "2025-11-18T13:15:53.386145"
+        ],
+        [
+          1,
+          "2025-11-18T13:46:31.931063"
+        ],
+        [
+          1,
+          "2025-11-18T13:49:39.576404"
+        ],
+        [
+          1,
+          "2025-11-18T13:59:23.623064"
+        ],
+        [
+          1,
+          "2025-11-18T14:10:42.263753"
+        ]
+      ],
+      "created_utc": 1763455948.0,
+      "depth": 0,
+      "permalink": "/r/AgentsOfAI/comments/1p06zwx/bringing_agentic_autoworkflow_design_to_tabular/npgp70v/",
+      "is_submitter": true,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-18T14:10:42.263753",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/AgentsOfAI/comments/1p06zwx/bringing_agentic_autoworkflow_design_to_tabular/",
+    "total_comments": 1,
+    "top_level_comments": 1,
+    "api_requests": 1,
+    "expected_comments": 1,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 7,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_125139.json",
+      "scrape_002_20251118_130400.json",
+      "scrape_003_20251118_131553.json",
+      "scrape_004_20251118_134631.json",
+      "scrape_005_20251118_134939.json",
+      "scrape_006_20251118_135923.json",
+      "scrape_007_20251118_141042.json"
+    ]
+  }
+}

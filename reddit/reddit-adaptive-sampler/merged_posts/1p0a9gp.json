@@ -1,0 +1,69 @@
+{
+  "post": {
+    "id": "1p0a9gp",
+    "title": "I got tired of manually writing prompts and jumping between different models - so I built an AI design agent to do it for me.",
+    "author": "Neither_Alfalfa6922",
+    "score_history": [
+      [
+        2,
+        "2025-11-18T12:51:37.574873"
+      ],
+      [
+        2,
+        "2025-11-18T13:03:57.225963"
+      ],
+      [
+        2,
+        "2025-11-18T13:15:46.257330"
+      ],
+      [
+        2,
+        "2025-11-18T13:48:11.567042"
+      ],
+      [
+        2,
+        "2025-11-18T13:59:43.280633"
+      ],
+      [
+        2,
+        "2025-11-18T14:12:27.724242"
+      ],
+      [
+        2,
+        "2025-11-18T22:10:30.575849"
+      ],
+      [
+        2,
+        "2025-11-19T07:12:19.097527"
+      ]
+    ],
+    "created_utc": 1763467786.0,
+    "num_comments": 0,
+    "subreddit": "AgentsOfAI",
+    "url": "https://v.redd.it/1pswye0w902g1",
+    "selftext": "Hey everyone! I'm Issy, a programmer from Sydney, Australia.\n\nI got sick of manually writing prompts and constantly having to figure out which model to use, so I built Pictra, an AI design agent that does all of that for you.\n\nIt works by simply telling it what you want in plain English. Pictra picks the best model for the job (Imagen, Ideogram, Nano Banana, Kling, Veo, etc.), automatically crafts an optimized prompt, and delivers clean, professional visuals.\n\nI built it for creators, small businesses, and anyone who wants great visuals without needing design experience or AI knowledge.\n\nYou can check it out here: [https://pictra.ai](https://pictra.ai/)\n\nAlso please join our Discord to get product updates, share what you're creating, and help shape Pictra with your feedback: [https://discord.gg/mJbKnTEaQn](https://discord.gg/mJbKnTEaQn)\n\nHappy to answer any questions or get feedback :)",
+    "permalink": "/r/AgentsOfAI/comments/1p0a9gp/i_got_tired_of_manually_writing_prompts_and/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T07:12:19.097527",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/AgentsOfAI/comments/1p0a9gp/i_got_tired_of_manually_writing_prompts_and/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 8,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_125137.json",
+      "scrape_002_20251118_130357.json",
+      "scrape_003_20251118_131546.json",
+      "scrape_004_20251118_134811.json",
+      "scrape_005_20251118_135943.json",
+      "scrape_006_20251118_141227.json",
+      "scrape_007_20251118_221030.json",
+      "scrape_008_20251119_071218.json"
+    ]
+  }
+}

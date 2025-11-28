@@ -1,0 +1,683 @@
+{
+  "post": {
+    "id": "1p0rduy",
+    "title": "Not an AI Bubble ... an LLM Bubble !",
+    "author": "Berlodo",
+    "score_history": [
+      [
+        33,
+        "2025-11-19T03:39:40.362472"
+      ],
+      [
+        34,
+        "2025-11-19T03:47:09.914053"
+      ],
+      [
+        31,
+        "2025-11-19T03:48:48.121717"
+      ]
+    ],
+    "created_utc": 1763508047.0,
+    "num_comments": 18,
+    "subreddit": "artificial",
+    "url": "https://www.reddit.com/r/artificial/comments/1p0rduy/not_an_ai_bubble_an_llm_bubble/",
+    "selftext": "**Hugging Face co-founder and CEO Clem Delangue says we’re not in an AI bubble, but an LLM bubble — and it may be poised to pop.**\n\n[https://techcrunch.com/2025/11/18/hugging-face-ceo-says-were-in-an-llm-bubble-not-an-ai-bubble/](https://techcrunch.com/2025/11/18/hugging-face-ceo-says-were-in-an-llm-bubble-not-an-ai-bubble/)",
+    "permalink": "/r/artificial/comments/1p0rduy/not_an_ai_bubble_an_llm_bubble/"
+  },
+  "comments": [
+    {
+      "id": "nplrnb0",
+      "parent_id": "t3_1p0rduy",
+      "author": "maevin2020",
+      "text_history": [
+        [
+          "And how big is the share of LLMs in the AI market? 90%?95%? 99%? Image and video generation is nice, but what most companies need is text. And companies bring the money...",
+          "2025-11-19T03:39:40.362472"
+        ]
+      ],
+      "score_history": [
+        [
+          10,
+          "2025-11-19T03:39:40.362472"
+        ],
+        [
+          10,
+          "2025-11-19T03:47:09.914053"
+        ],
+        [
+          10,
+          "2025-11-19T03:48:48.121717"
+        ]
+      ],
+      "created_utc": 1763519683.0,
+      "depth": 0,
+      "permalink": "/r/artificial/comments/1p0rduy/not_an_ai_bubble_an_llm_bubble/nplrnb0/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npmc45h",
+          "parent_id": "t1_nplrnb0",
+          "author": "Low-Temperature-6962",
+          "text_history": [
+            [
+              "But it's NOT bringing trajectory to justify immedite x100 datacenter buildout.  Let it grow naturally by setting the price correspondent to cost.  Slower growth, better trajecetory.",
+              "2025-11-19T03:39:40.362472"
+            ]
+          ],
+          "score_history": [
+            [
+              2,
+              "2025-11-19T03:39:40.362472"
+            ],
+            [
+              2,
+              "2025-11-19T03:47:09.914053"
+            ],
+            [
+              2,
+              "2025-11-19T03:48:48.121717"
+            ]
+          ],
+          "created_utc": 1763527797.0,
+          "depth": 1,
+          "permalink": "/r/artificial/comments/1p0rduy/not_an_ai_bubble_an_llm_bubble/npmc45h/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        },
+        {
+          "id": "npmip14",
+          "parent_id": "t1_nplrnb0",
+          "author": "halkenburgoito",
+          "text_history": [
+            [
+              "why do most companies need text over image and vid generation? You mean coding text?",
+              "2025-11-19T03:39:40.362472"
+            ]
+          ],
+          "score_history": [
+            [
+              2,
+              "2025-11-19T03:39:40.362472"
+            ],
+            [
+              2,
+              "2025-11-19T03:47:09.914053"
+            ],
+            [
+              2,
+              "2025-11-19T03:48:48.121717"
+            ]
+          ],
+          "created_utc": 1763530913.0,
+          "depth": 1,
+          "permalink": "/r/artificial/comments/1p0rduy/not_an_ai_bubble_an_llm_bubble/npmip14/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npmug2z",
+              "parent_id": "t1_npmip14",
+              "author": "maevin2020",
+              "text_history": [
+                [
+                  "No, text in general. Business communication is mainly text, being it reports, documentation, specification, summarization, emails, code, etc.",
+                  "2025-11-19T03:39:40.362472"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-19T03:39:40.362472"
+                ],
+                [
+                  1,
+                  "2025-11-19T03:47:09.914053"
+                ],
+                [
+                  1,
+                  "2025-11-19T03:48:48.121717"
+                ]
+              ],
+              "created_utc": 1763537372.0,
+              "depth": 2,
+              "permalink": "/r/artificial/comments/1p0rduy/not_an_ai_bubble_an_llm_bubble/npmug2z/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": [
+                {
+                  "id": "npn1eo4",
+                  "parent_id": "t1_npmug2z",
+                  "author": "halkenburgoito",
+                  "text_history": [
+                    [
+                      "really? that's where all the money's at.. Summarizing and documentation?",
+                      "2025-11-19T03:39:40.362472"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      1,
+                      "2025-11-19T03:39:40.362472"
+                    ],
+                    [
+                      1,
+                      "2025-11-19T03:47:09.914053"
+                    ],
+                    [
+                      2,
+                      "2025-11-19T03:48:48.121717"
+                    ]
+                  ],
+                  "created_utc": 1763541628.0,
+                  "depth": 3,
+                  "permalink": "/r/artificial/comments/1p0rduy/not_an_ai_bubble_an_llm_bubble/npn1eo4/",
+                  "is_submitter": false,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "npls95n",
+          "parent_id": "t1_nplrnb0",
+          "author": "-MyrddinEmrys-",
+          "text_history": [
+            [
+              "Well yeah and it's not like image &amp; video generation use some other totally different tech lol\n\nWhat rube is gonna fall for this bullshit?",
+              "2025-11-19T03:39:40.362472"
+            ]
+          ],
+          "score_history": [
+            [
+              3,
+              "2025-11-19T03:39:40.362472"
+            ],
+            [
+              1,
+              "2025-11-19T03:47:09.914053"
+            ],
+            [
+              2,
+              "2025-11-19T03:48:48.121717"
+            ]
+          ],
+          "created_utc": 1763519902.0,
+          "depth": 1,
+          "permalink": "/r/artificial/comments/1p0rduy/not_an_ai_bubble_an_llm_bubble/npls95n/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        },
+        {
+          "id": "npmpz9u",
+          "parent_id": "t1_nplrnb0",
+          "author": "peternn2412",
+          "text_history": [
+            [
+              "most of the AI market is actually physical hardware - GPUs, datacenters and everything around them. If LLMs fall from grace, all that remains.",
+              "2025-11-19T03:39:40.362472"
+            ]
+          ],
+          "score_history": [
+            [
+              0,
+              "2025-11-19T03:39:40.362472"
+            ],
+            [
+              0,
+              "2025-11-19T03:47:09.914053"
+            ],
+            [
+              0,
+              "2025-11-19T03:48:48.121717"
+            ]
+          ],
+          "created_utc": 1763534793.0,
+          "depth": 1,
+          "permalink": "/r/artificial/comments/1p0rduy/not_an_ai_bubble_an_llm_bubble/npmpz9u/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npmukkm",
+              "parent_id": "t1_npmpz9u",
+              "author": "maevin2020",
+              "text_history": [
+                [
+                  "Ok, yeah. I meant money that actually comes from revenue not from handing it around in a small circle of AI companies 😃",
+                  "2025-11-19T03:39:40.362472"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-19T03:39:40.362472"
+                ],
+                [
+                  1,
+                  "2025-11-19T03:47:09.914053"
+                ],
+                [
+                  1,
+                  "2025-11-19T03:48:48.121717"
+                ]
+              ],
+              "created_utc": 1763537447.0,
+              "depth": 2,
+              "permalink": "/r/artificial/comments/1p0rduy/not_an_ai_bubble_an_llm_bubble/npmukkm/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            },
+            {
+              "id": "npn8579",
+              "parent_id": "t1_npmpz9u",
+              "author": "talontario",
+              "text_history": [
+                [
+                  "And the value of those, that companies are using to prop up their company value, will drop like a rock if they're not used.",
+                  "2025-11-19T03:39:40.362472"
+                ]
+              ],
+              "score_history": [
+                [
+                  0,
+                  "2025-11-19T03:39:40.362472"
+                ],
+                [
+                  0,
+                  "2025-11-19T03:47:09.914053"
+                ],
+                [
+                  0,
+                  "2025-11-19T03:48:48.121717"
+                ]
+              ],
+              "created_utc": 1763545877.0,
+              "depth": 2,
+              "permalink": "/r/artificial/comments/1p0rduy/not_an_ai_bubble_an_llm_bubble/npn8579/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "npm5okb",
+      "parent_id": "t3_1p0rduy",
+      "author": "Zestyclose_Thing1037",
+      "text_history": [
+        [
+          "This makes a lot of sense. The infrastructure around LLMs—chips, data centers, compute resources—is becoming increasingly expensive while the training improvements seem to plateau. Meanwhile, other AI domains like computer vision, robotics, reinforcement learning are actually showing more practical returns on investment.\n\n\n\nThe distinction is important though—it's not that AI itself is overhyped, but specifically throwing billions at bigger and bigger language models might not be sustainable long-term. The market needs diversification across different AI applications.",
+          "2025-11-19T03:39:40.362472"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T03:39:40.362472"
+        ],
+        [
+          3,
+          "2025-11-19T03:47:09.914053"
+        ],
+        [
+          3,
+          "2025-11-19T03:48:48.121717"
+        ]
+      ],
+      "created_utc": 1763524999.0,
+      "depth": 0,
+      "permalink": "/r/artificial/comments/1p0rduy/not_an_ai_bubble_an_llm_bubble/npm5okb/",
+      "is_submitter": false,
+      "controversiality": 1,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npmkajn",
+          "parent_id": "t1_npm5okb",
+          "author": "No_Location_3339",
+          "text_history": [
+            [
+              "Plateau? Gemini 3?",
+              "2025-11-19T03:39:40.362472"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-19T03:39:40.362472"
+            ],
+            [
+              1,
+              "2025-11-19T03:47:09.914053"
+            ],
+            [
+              2,
+              "2025-11-19T03:48:48.121717"
+            ]
+          ],
+          "created_utc": 1763531721.0,
+          "depth": 1,
+          "permalink": "/r/artificial/comments/1p0rduy/not_an_ai_bubble_an_llm_bubble/npmkajn/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npmm5v4",
+              "parent_id": "t1_npmkajn",
+              "author": "Zestyclose_Thing1037",
+              "text_history": [
+                [
+                  "Does the Gemini 3 seem to have given LLM researchers a shot of adrenaline?",
+                  "2025-11-19T03:39:40.362472"
+                ]
+              ],
+              "score_history": [
+                [
+                  2,
+                  "2025-11-19T03:39:40.362472"
+                ],
+                [
+                  2,
+                  "2025-11-19T03:47:09.914053"
+                ],
+                [
+                  2,
+                  "2025-11-19T03:48:48.121717"
+                ]
+              ],
+              "created_utc": 1763532700.0,
+              "depth": 2,
+              "permalink": "/r/artificial/comments/1p0rduy/not_an_ai_bubble_an_llm_bubble/npmm5v4/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "npm6ioh",
+          "parent_id": "t1_npm5okb",
+          "author": "-Crash_Override-",
+          "text_history": [
+            [
+              "&gt; training improvements seem to plateau\n\n  \nYour preception is flawed. The models we have today are massively superior to what we had one year ago. And just a few hours ago google released gemini 3 which is another step change over the current champs in every single metric (minus agentic coding where claude beat it by a hair).",
+              "2025-11-19T03:39:40.362472"
+            ]
+          ],
+          "score_history": [
+            [
+              -1,
+              "2025-11-19T03:39:40.362472"
+            ],
+            [
+              0,
+              "2025-11-19T03:47:09.914053"
+            ],
+            [
+              -1,
+              "2025-11-19T03:48:48.121717"
+            ]
+          ],
+          "created_utc": 1763525350.0,
+          "depth": 1,
+          "permalink": "/r/artificial/comments/1p0rduy/not_an_ai_bubble_an_llm_bubble/npm6ioh/",
+          "is_submitter": false,
+          "controversiality": 1,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npmk927",
+              "parent_id": "t1_npm6ioh",
+              "author": "timmyturnahp21",
+              "text_history": [
+                [
+                  "Your perception is flawed if you think those benchmarks mean anything. \n\nI’m a software developer and the improvement of the models themselves have been hardly noticeable in my day to day work since gpt 4. \n\nThe biggest difference has been the tooling around the models, such as Claude code, agents, code reviewers etc. \n\nThe models themselves haven’t changed much at all in actual daily use. But sure, believe the benchmark results lol.",
+                  "2025-11-19T03:39:40.362472"
+                ]
+              ],
+              "score_history": [
+                [
+                  6,
+                  "2025-11-19T03:39:40.362472"
+                ],
+                [
+                  8,
+                  "2025-11-19T03:47:09.914053"
+                ],
+                [
+                  7,
+                  "2025-11-19T03:48:48.121717"
+                ]
+              ],
+              "created_utc": 1763531701.0,
+              "depth": 2,
+              "permalink": "/r/artificial/comments/1p0rduy/not_an_ai_bubble_an_llm_bubble/npmk927/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": [
+                {
+                  "id": "npmo9om",
+                  "parent_id": "t1_npmk927",
+                  "author": "Deredere12",
+                  "text_history": [
+                    [
+                      "Yeah that’s my take too. It’s the infra that’s making them better and making me more productive. The models all seem similar.",
+                      "2025-11-19T03:39:40.362472"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      5,
+                      "2025-11-19T03:39:40.362472"
+                    ],
+                    [
+                      4,
+                      "2025-11-19T03:47:09.914053"
+                    ],
+                    [
+                      4,
+                      "2025-11-19T03:48:48.121717"
+                    ]
+                  ],
+                  "created_utc": 1763533843.0,
+                  "depth": 3,
+                  "permalink": "/r/artificial/comments/1p0rduy/not_an_ai_bubble_an_llm_bubble/npmo9om/",
+                  "is_submitter": false,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "npmv07l",
+      "parent_id": "t3_1p0rduy",
+      "author": "g_bleezy",
+      "text_history": [
+        [
+          "Loooooool fucking nerd. Transformers did this!",
+          "2025-11-19T03:39:40.362472"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T03:39:40.362472"
+        ],
+        [
+          1,
+          "2025-11-19T03:47:09.914053"
+        ],
+        [
+          1,
+          "2025-11-19T03:48:48.121717"
+        ]
+      ],
+      "created_utc": 1763537709.0,
+      "depth": 0,
+      "permalink": "/r/artificial/comments/1p0rduy/not_an_ai_bubble_an_llm_bubble/npmv07l/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npln7qv",
+      "parent_id": "t3_1p0rduy",
+      "author": "-MyrddinEmrys-",
+      "text_history": [
+        [
+          "Amusing to be scrambling to downplay the bubble by pretending it's very small actually",
+          "2025-11-19T03:39:40.362472"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T03:39:40.362472"
+        ],
+        [
+          1,
+          "2025-11-19T03:47:09.914053"
+        ],
+        [
+          1,
+          "2025-11-19T03:48:48.121717"
+        ]
+      ],
+      "created_utc": 1763518091.0,
+      "depth": 0,
+      "permalink": "/r/artificial/comments/1p0rduy/not_an_ai_bubble_an_llm_bubble/npln7qv/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npmnf9i",
+      "parent_id": "t3_1p0rduy",
+      "author": "James-the-greatest",
+      "text_history": [
+        [
+          "This is an asinine distinction.",
+          "2025-11-19T03:39:40.362472"
+        ]
+      ],
+      "score_history": [
+        [
+          0,
+          "2025-11-19T03:39:40.362472"
+        ],
+        [
+          0,
+          "2025-11-19T03:47:09.914053"
+        ],
+        [
+          0,
+          "2025-11-19T03:48:48.121717"
+        ]
+      ],
+      "created_utc": 1763533379.0,
+      "depth": 0,
+      "permalink": "/r/artificial/comments/1p0rduy/not_an_ai_bubble_an_llm_bubble/npmnf9i/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:48:48.121717",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/artificial/comments/1p0rduy/not_an_ai_bubble_an_llm_bubble/",
+    "total_comments": 18,
+    "top_level_comments": 5,
+    "api_requests": 1,
+    "expected_comments": 18,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_033940.json",
+      "scrape_002_20251119_034709.json",
+      "scrape_003_20251119_034847.json"
+    ]
+  }
+}

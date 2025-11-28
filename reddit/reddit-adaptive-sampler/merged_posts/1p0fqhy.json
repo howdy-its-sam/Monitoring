@@ -1,0 +1,4761 @@
+{
+  "post": {
+    "id": "1p0fqhy",
+    "title": "Gemini 3 pro passes the finger test",
+    "author": "DigSignificant1419",
+    "score_history": [
+      [
+        519,
+        "2025-11-18T14:56:15.750613"
+      ],
+      [
+        521,
+        "2025-11-18T15:04:31.741379"
+      ],
+      [
+        522,
+        "2025-11-18T15:05:36.898277"
+      ],
+      [
+        523,
+        "2025-11-18T15:07:28.015970"
+      ],
+      [
+        531,
+        "2025-11-18T15:13:52.360121"
+      ],
+      [
+        531,
+        "2025-11-18T15:14:45.574080"
+      ]
+    ],
+    "created_utc": 1763481698.0,
+    "num_comments": 103,
+    "subreddit": "OpenAI",
+    "url": "https://i.redd.it/xs5g2rhfg12g1.png",
+    "selftext": "This is the end, agi has arrived",
+    "permalink": "/r/OpenAI/comments/1p0fqhy/gemini_3_pro_passes_the_finger_test/"
+  },
+  "comments": [
+    {
+      "id": "npig8yt",
+      "parent_id": "t3_1p0fqhy",
+      "author": "DigSignificant1419",
+      "text_history": [
+        [
+          "https://preview.redd.it/aje6l5m1h12g1.png?width=1226&amp;format=png&amp;auto=webp&amp;s=fc9981c10fe2ae6e945285961c7a55a5d848c03e\n\neven passes the shoe test, we are finished",
+          "2025-11-18T14:56:15.750613"
+        ]
+      ],
+      "score_history": [
+        [
+          161,
+          "2025-11-18T14:56:15.750613"
+        ],
+        [
+          166,
+          "2025-11-18T15:04:31.741379"
+        ],
+        [
+          168,
+          "2025-11-18T15:05:36.898277"
+        ],
+        [
+          170,
+          "2025-11-18T15:07:28.015970"
+        ],
+        [
+          172,
+          "2025-11-18T15:13:52.360121"
+        ],
+        [
+          172,
+          "2025-11-18T15:14:45.574080"
+        ]
+      ],
+      "created_utc": 1763481911.0,
+      "depth": 0,
+      "permalink": "/r/OpenAI/comments/1p0fqhy/gemini_3_pro_passes_the_finger_test/npig8yt/",
+      "is_submitter": true,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npis6fh",
+          "parent_id": "t1_npig8yt",
+          "author": "ChrisWolfling",
+          "text_history": [
+            [
+              "Dang, that one trips up most people who still use facebook...",
+              "2025-11-18T14:56:15.750613"
+            ]
+          ],
+          "score_history": [
+            [
+              48,
+              "2025-11-18T14:56:15.750613"
+            ],
+            [
+              48,
+              "2025-11-18T15:04:31.741379"
+            ],
+            [
+              51,
+              "2025-11-18T15:05:36.898277"
+            ],
+            [
+              52,
+              "2025-11-18T15:07:28.015970"
+            ],
+            [
+              51,
+              "2025-11-18T15:13:52.360121"
+            ],
+            [
+              49,
+              "2025-11-18T15:14:45.574080"
+            ]
+          ],
+          "created_utc": 1763485394.0,
+          "depth": 1,
+          "permalink": "/r/OpenAI/comments/1p0fqhy/gemini_3_pro_passes_the_finger_test/npis6fh/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npk5rxx",
+              "parent_id": "t1_npis6fh",
+              "author": "meshtron",
+              "text_history": [
+                [
+                  "Boomer FB warrior here.  I don't get it. Get off my lawn!!",
+                  "2025-11-18T14:56:15.750613"
+                ]
+              ],
+              "score_history": [
+                [
+                  3,
+                  "2025-11-18T14:56:15.750613"
+                ],
+                [
+                  5,
+                  "2025-11-18T15:04:31.741379"
+                ],
+                [
+                  6,
+                  "2025-11-18T15:05:36.898277"
+                ],
+                [
+                  5,
+                  "2025-11-18T15:07:28.015970"
+                ],
+                [
+                  6,
+                  "2025-11-18T15:13:52.360121"
+                ],
+                [
+                  6,
+                  "2025-11-18T15:14:45.574080"
+                ]
+              ],
+              "created_utc": 1763500054.0,
+              "depth": 2,
+              "permalink": "/r/OpenAI/comments/1p0fqhy/gemini_3_pro_passes_the_finger_test/npk5rxx/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": [
+                {
+                  "id": "npkr0ex",
+                  "parent_id": "t1_npk5rxx",
+                  "author": "Tipop",
+                  "text_history": [
+                    [
+                      "I don’t get it either. There’s nothing in the question that says the two shoes are the same type. What if one is a tennis shoe and the other one is a polished dress shoe? I think the question itself suggests that we’re talking about two different types of shoes, since most people don’t buy two sets of shoes that are exactly the same.",
+                      "2025-11-18T15:04:31.741379"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      1,
+                      "2025-11-18T15:04:31.741379"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T15:05:36.898277"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T15:07:28.015970"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T15:13:52.360121"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T15:14:45.574080"
+                    ]
+                  ],
+                  "created_utc": 1763506677.0,
+                  "depth": 3,
+                  "permalink": "/r/OpenAI/comments/1p0fqhy/gemini_3_pro_passes_the_finger_test/npkr0ex/",
+                  "is_submitter": false,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "npkqy76",
+              "parent_id": "t1_npis6fh",
+              "author": "jeweliegb",
+              "text_history": [
+                [
+                  "Hello Chris  It's Aunty Jane here reaching out to you on your Face Book. Am I doing it right? Uncle Clive and I are doing well.  Hope to get a call from you over the holiday season if you're free. Oh, I found one of your socks here.  Just one.  It was a bit sticky and smelly so I gave it a wash.  It's all clean now.  Would you like me to post it?  LOL  Aunty Janet  🐯🫣🤙🏼🧶 he he I love the little pictures!  🤢💤👁️👂🏼🍆🍅",
+                  "2025-11-18T15:04:31.741379"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-18T15:04:31.741379"
+                ],
+                [
+                  1,
+                  "2025-11-18T15:05:36.898277"
+                ],
+                [
+                  1,
+                  "2025-11-18T15:07:28.015970"
+                ],
+                [
+                  1,
+                  "2025-11-18T15:13:52.360121"
+                ],
+                [
+                  1,
+                  "2025-11-18T15:14:45.574080"
+                ]
+              ],
+              "created_utc": 1763506655.0,
+              "depth": 2,
+              "permalink": "/r/OpenAI/comments/1p0fqhy/gemini_3_pro_passes_the_finger_test/npkqy76/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "npk1nfy",
+          "parent_id": "t1_npig8yt",
+          "author": "usernameplshere",
+          "text_history": [
+            [
+              "I wonder why it took that long to throw it into the dataset.",
+              "2025-11-18T14:56:15.750613"
+            ]
+          ],
+          "score_history": [
+            [
+              3,
+              "2025-11-18T14:56:15.750613"
+            ],
+            [
+              3,
+              "2025-11-18T15:04:31.741379"
+            ],
+            [
+              3,
+              "2025-11-18T15:05:36.898277"
+            ],
+            [
+              3,
+              "2025-11-18T15:07:28.015970"
+            ],
+            [
+              3,
+              "2025-11-18T15:13:52.360121"
+            ],
+            [
+              3,
+              "2025-11-18T15:14:45.574080"
+            ]
+          ],
+          "created_utc": 1763498832.0,
+          "depth": 1,
+          "permalink": "/r/OpenAI/comments/1p0fqhy/gemini_3_pro_passes_the_finger_test/npk1nfy/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        },
+        {
+          "id": "npjnpxp",
+          "parent_id": "t1_npig8yt",
+          "author": "ImthatRootuser",
+          "text_history": [
+            [
+              "I passed this one too! RIP",
+              "2025-11-18T14:56:15.750613"
+            ]
+          ],
+          "score_history": [
+            [
+              6,
+              "2025-11-18T14:56:15.750613"
+            ],
+            [
+              4,
+              "2025-11-18T15:04:31.741379"
+            ],
+            [
+              6,
+              "2025-11-18T15:05:36.898277"
+            ],
+            [
+              6,
+              "2025-11-18T15:07:28.015970"
+            ],
+            [
+              6,
+              "2025-11-18T15:13:52.360121"
+            ],
+            [
+              6,
+              "2025-11-18T15:14:45.574080"
+            ]
+          ],
+          "created_utc": 1763494613.0,
+          "depth": 1,
+          "permalink": "/r/OpenAI/comments/1p0fqhy/gemini_3_pro_passes_the_finger_test/npjnpxp/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        },
+        {
+          "id": "npkpvv6",
+          "parent_id": "t1_npig8yt",
+          "author": "jeweliegb",
+          "text_history": [
+            [
+              "Trouble is, it's probably been trained on this. \n\nWe need an endless supply unique equivalents to test this and successive AIs on.",
+              "2025-11-18T14:56:15.750613"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T14:56:15.750613"
+            ],
+            [
+              1,
+              "2025-11-18T15:04:31.741379"
+            ],
+            [
+              1,
+              "2025-11-18T15:05:36.898277"
+            ],
+            [
+              1,
+              "2025-11-18T15:07:28.015970"
+            ],
+            [
+              1,
+              "2025-11-18T15:13:52.360121"
+            ],
+            [
+              1,
+              "2025-11-18T15:14:45.574080"
+            ]
+          ],
+          "created_utc": 1763506296.0,
+          "depth": 1,
+          "permalink": "/r/OpenAI/comments/1p0fqhy/gemini_3_pro_passes_the_finger_test/npkpvv6/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npifvk7",
+      "parent_id": "t3_1p0fqhy",
+      "author": "DigSignificant1419",
+      "text_history": [
+        [
+          "https://preview.redd.it/ymbawv9ng12g1.png?width=1157&amp;format=png&amp;auto=webp&amp;s=f32b45d209b8eccba6e854040c20d8592f9eee8f\n\ncircle test passed, GPT is finished time to pack it up",
+          "2025-11-18T14:56:15.750613"
+        ]
+      ],
+      "score_history": [
+        [
+          121,
+          "2025-11-18T14:56:15.750613"
+        ],
+        [
+          122,
+          "2025-11-18T15:04:31.741379"
+        ],
+        [
+          122,
+          "2025-11-18T15:05:36.898277"
+        ],
+        [
+          128,
+          "2025-11-18T15:07:28.015970"
+        ],
+        [
+          128,
+          "2025-11-18T15:13:52.360121"
+        ],
+        [
+          126,
+          "2025-11-18T15:14:45.574080"
+        ]
+      ],
+      "created_utc": 1763481802.0,
+      "depth": 0,
+      "permalink": "/r/OpenAI/comments/1p0fqhy/gemini_3_pro_passes_the_finger_test/npifvk7/",
+      "is_submitter": true,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npju9vl",
+          "parent_id": "t1_npifvk7",
+          "author": "Kupo_Master",
+          "text_history": [
+            [
+              "Imagine someone looking at this thread without context and wondering why people are so impressed by tasks a 5-year old could do 😂",
+              "2025-11-18T14:56:15.750613"
+            ]
+          ],
+          "score_history": [
+            [
+              9,
+              "2025-11-18T14:56:15.750613"
+            ],
+            [
+              11,
+              "2025-11-18T15:04:31.741379"
+            ],
+            [
+              13,
+              "2025-11-18T15:05:36.898277"
+            ],
+            [
+              12,
+              "2025-11-18T15:07:28.015970"
+            ],
+            [
+              13,
+              "2025-11-18T15:13:52.360121"
+            ],
+            [
+              13,
+              "2025-11-18T15:14:45.574080"
+            ]
+          ],
+          "created_utc": 1763496581.0,
+          "depth": 1,
+          "permalink": "/r/OpenAI/comments/1p0fqhy/gemini_3_pro_passes_the_finger_test/npju9vl/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npks3m6",
+              "parent_id": "t1_npju9vl",
+              "author": "Flamak",
+              "text_history": [
+                [
+                  "LLM enthusiasts when after half a sun of energy and 80% of the US GDP is thrown at a model its finally at todler level reasoning ability",
+                  "2025-11-18T15:04:31.741379"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-18T15:04:31.741379"
+                ],
+                [
+                  1,
+                  "2025-11-18T15:05:36.898277"
+                ],
+                [
+                  1,
+                  "2025-11-18T15:07:28.015970"
+                ],
+                [
+                  1,
+                  "2025-11-18T15:13:52.360121"
+                ],
+                [
+                  1,
+                  "2025-11-18T15:14:45.574080"
+                ]
+              ],
+              "created_utc": 1763507048.0,
+              "depth": 2,
+              "permalink": "/r/OpenAI/comments/1p0fqhy/gemini_3_pro_passes_the_finger_test/npks3m6/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "npii52z",
+          "parent_id": "t1_npifvk7",
+          "author": "wi_2",
+          "text_history": [
+            [
+              "what about the 0's?",
+              "2025-11-18T14:56:15.750613"
+            ]
+          ],
+          "score_history": [
+            [
+              -6,
+              "2025-11-18T14:56:15.750613"
+            ],
+            [
+              -5,
+              "2025-11-18T15:04:31.741379"
+            ],
+            [
+              -6,
+              "2025-11-18T15:05:36.898277"
+            ],
+            [
+              -4,
+              "2025-11-18T15:07:28.015970"
+            ],
+            [
+              -3,
+              "2025-11-18T15:13:52.360121"
+            ],
+            [
+              -5,
+              "2025-11-18T15:14:45.574080"
+            ]
+          ],
+          "created_utc": 1763482464.0,
+          "depth": 1,
+          "permalink": "/r/OpenAI/comments/1p0fqhy/gemini_3_pro_passes_the_finger_test/npii52z/",
+          "is_submitter": false,
+          "controversiality": 1,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npiimc8",
+              "parent_id": "t1_npii52z",
+              "author": "DigSignificant1419",
+              "text_history": [
+                [
+                  "Is you Gpt 4? Those are not double circles",
+                  "2025-11-18T14:56:15.750613"
+                ]
+              ],
+              "score_history": [
+                [
+                  56,
+                  "2025-11-18T14:56:15.750613"
+                ],
+                [
+                  56,
+                  "2025-11-18T15:04:31.741379"
+                ],
+                [
+                  56,
+                  "2025-11-18T15:05:36.898277"
+                ],
+                [
+                  59,
+                  "2025-11-18T15:07:28.015970"
+                ],
+                [
+                  59,
+                  "2025-11-18T15:13:52.360121"
+                ],
+                [
+                  57,
+                  "2025-11-18T15:14:45.574080"
+                ]
+              ],
+              "created_utc": 1763482604.0,
+              "depth": 2,
+              "permalink": "/r/OpenAI/comments/1p0fqhy/gemini_3_pro_passes_the_finger_test/npiimc8/",
+              "is_submitter": true,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": [
+                {
+                  "id": "npinknz",
+                  "parent_id": "t1_npiimc8",
+                  "author": "CaptainRaxeo",
+                  "text_history": [
+                    [
+                      "Lmao, bro needs more training data.",
+                      "2025-11-18T14:56:15.750613"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      25,
+                      "2025-11-18T14:56:15.750613"
+                    ],
+                    [
+                      26,
+                      "2025-11-18T15:04:31.741379"
+                    ],
+                    [
+                      26,
+                      "2025-11-18T15:05:36.898277"
+                    ],
+                    [
+                      27,
+                      "2025-11-18T15:07:28.015970"
+                    ],
+                    [
+                      26,
+                      "2025-11-18T15:13:52.360121"
+                    ],
+                    [
+                      26,
+                      "2025-11-18T15:14:45.574080"
+                    ]
+                  ],
+                  "created_utc": 1763484046.0,
+                  "depth": 3,
+                  "permalink": "/r/OpenAI/comments/1p0fqhy/gemini_3_pro_passes_the_finger_test/npinknz/",
+                  "is_submitter": false,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": []
+                },
+                {
+                  "id": "npil399",
+                  "parent_id": "t1_npiimc8",
+                  "author": "wi_2",
+                  "text_history": [
+                    [
+                      "ah, yes, seems I am",
+                      "2025-11-18T14:56:15.750613"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      19,
+                      "2025-11-18T14:56:15.750613"
+                    ],
+                    [
+                      17,
+                      "2025-11-18T15:04:31.741379"
+                    ],
+                    [
+                      18,
+                      "2025-11-18T15:05:36.898277"
+                    ],
+                    [
+                      18,
+                      "2025-11-18T15:07:28.015970"
+                    ],
+                    [
+                      18,
+                      "2025-11-18T15:13:52.360121"
+                    ],
+                    [
+                      17,
+                      "2025-11-18T15:14:45.574080"
+                    ]
+                  ],
+                  "created_utc": 1763483319.0,
+                  "depth": 3,
+                  "permalink": "/r/OpenAI/comments/1p0fqhy/gemini_3_pro_passes_the_finger_test/npil399/",
+                  "is_submitter": false,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": [
+                    {
+                      "id": "npixhyo",
+                      "parent_id": "t1_npil399",
+                      "author": "SarahEpsteinKellen",
+                      "text_history": [
+                        [
+                          "Does you means \"you is\"?",
+                          "2025-11-18T14:56:15.750613"
+                        ]
+                      ],
+                      "score_history": [
+                        [
+                          7,
+                          "2025-11-18T14:56:15.750613"
+                        ],
+                        [
+                          7,
+                          "2025-11-18T15:04:31.741379"
+                        ],
+                        [
+                          8,
+                          "2025-11-18T15:05:36.898277"
+                        ],
+                        [
+                          7,
+                          "2025-11-18T15:07:28.015970"
+                        ],
+                        [
+                          7,
+                          "2025-11-18T15:13:52.360121"
+                        ],
+                        [
+                          7,
+                          "2025-11-18T15:14:45.574080"
+                        ]
+                      ],
+                      "created_utc": 1763486964.0,
+                      "depth": 4,
+                      "permalink": "/r/OpenAI/comments/1p0fqhy/gemini_3_pro_passes_the_finger_test/npixhyo/",
+                      "is_submitter": false,
+                      "controversiality": 0,
+                      "gilded": 0,
+                      "edited": false,
+                      "deleted": false,
+                      "deleted_at": null,
+                      "replies": [
+                        {
+                          "id": "npj4xbe",
+                          "parent_id": "t1_npixhyo",
+                          "author": "wi_2",
+                          "text_history": [
+                            [
+                              "I is, clearly",
+                              "2025-11-18T14:56:15.750613"
+                            ]
+                          ],
+                          "score_history": [
+                            [
+                              7,
+                              "2025-11-18T14:56:15.750613"
+                            ],
+                            [
+                              6,
+                              "2025-11-18T15:04:31.741379"
+                            ],
+                            [
+                              7,
+                              "2025-11-18T15:05:36.898277"
+                            ],
+                            [
+                              7,
+                              "2025-11-18T15:07:28.015970"
+                            ],
+                            [
+                              7,
+                              "2025-11-18T15:13:52.360121"
+                            ],
+                            [
+                              7,
+                              "2025-11-18T15:14:45.574080"
+                            ]
+                          ],
+                          "created_utc": 1763489132.0,
+                          "depth": 5,
+                          "permalink": "/r/OpenAI/comments/1p0fqhy/gemini_3_pro_passes_the_finger_test/npj4xbe/",
+                          "is_submitter": false,
+                          "controversiality": 0,
+                          "gilded": 0,
+                          "edited": false,
+                          "deleted": false,
+                          "deleted_at": null,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "npj18ae",
+                  "parent_id": "t1_npiimc8",
+                  "author": "WingedTorch",
+                  "text_history": [
+                    [
+                      "what about the 0s that are encircled by arrows?",
+                      "2025-11-18T14:56:15.750613"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      3,
+                      "2025-11-18T14:56:15.750613"
+                    ],
+                    [
+                      3,
+                      "2025-11-18T15:04:31.741379"
+                    ],
+                    [
+                      3,
+                      "2025-11-18T15:05:36.898277"
+                    ],
+                    [
+                      3,
+                      "2025-11-18T15:07:28.015970"
+                    ],
+                    [
+                      3,
+                      "2025-11-18T15:13:52.360121"
+                    ],
+                    [
+                      3,
+                      "2025-11-18T15:14:45.574080"
+                    ]
+                  ],
+                  "created_utc": 1763488070.0,
+                  "depth": 3,
+                  "permalink": "/r/OpenAI/comments/1p0fqhy/gemini_3_pro_passes_the_finger_test/npj18ae/",
+                  "is_submitter": false,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "npiglmg",
+      "parent_id": "t3_1p0fqhy",
+      "author": "Personal-Try2776",
+      "text_history": [
+        [
+          "Gemini 3 is available in ai studio? ",
+          "2025-11-18T14:56:15.750613"
+        ]
+      ],
+      "score_history": [
+        [
+          21,
+          "2025-11-18T14:56:15.750613"
+        ],
+        [
+          21,
+          "2025-11-18T15:04:31.741379"
+        ],
+        [
+          21,
+          "2025-11-18T15:05:36.898277"
+        ],
+        [
+          21,
+          "2025-11-18T15:07:28.015970"
+        ],
+        [
+          21,
+          "2025-11-18T15:13:52.360121"
+        ],
+        [
+          21,
+          "2025-11-18T15:14:45.574080"
+        ]
+      ],
+      "created_utc": 1763482013.0,
+      "depth": 0,
+      "permalink": "/r/OpenAI/comments/1p0fqhy/gemini_3_pro_passes_the_finger_test/npiglmg/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npigurr",
+          "parent_id": "t1_npiglmg",
+          "author": "DigSignificant1419",
+          "text_history": [
+            [
+              "Yes it's live now",
+              "2025-11-18T14:56:15.750613"
+            ]
+          ],
+          "score_history": [
+            [
+              14,
+              "2025-11-18T14:56:15.750613"
+            ],
+            [
+              15,
+              "2025-11-18T15:04:31.741379"
+            ],
+            [
+              14,
+              "2025-11-18T15:05:36.898277"
+            ],
+            [
+              16,
+              "2025-11-18T15:07:28.015970"
+            ],
+            [
+              17,
+              "2025-11-18T15:13:52.360121"
+            ],
+            [
+              16,
+              "2025-11-18T15:14:45.574080"
+            ]
+          ],
+          "created_utc": 1763482088.0,
+          "depth": 1,
+          "permalink": "/r/OpenAI/comments/1p0fqhy/gemini_3_pro_passes_the_finger_test/npigurr/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npitdof",
+      "parent_id": "t3_1p0fqhy",
+      "author": "Sumanth_077",
+      "text_history": [
+        [
+          "Wow Beats Claude sonnet 4.5, GPT-5.1 on almost every benchmark 😲   \n\nhttps://preview.redd.it/5k5a27qis12g1.png?width=2420&amp;format=png&amp;auto=webp&amp;s=f0ba9fca214f9fbacb93cfb7724fce4c42191f19",
+          "2025-11-18T14:56:15.750613"
+        ]
+      ],
+      "score_history": [
+        [
+          19,
+          "2025-11-18T14:56:15.750613"
+        ],
+        [
+          21,
+          "2025-11-18T15:04:31.741379"
+        ],
+        [
+          23,
+          "2025-11-18T15:05:36.898277"
+        ],
+        [
+          22,
+          "2025-11-18T15:07:28.015970"
+        ],
+        [
+          21,
+          "2025-11-18T15:13:52.360121"
+        ],
+        [
+          22,
+          "2025-11-18T15:14:45.574080"
+        ]
+      ],
+      "created_utc": 1763485749.0,
+      "depth": 0,
+      "permalink": "/r/OpenAI/comments/1p0fqhy/gemini_3_pro_passes_the_finger_test/npitdof/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npihd11",
+      "parent_id": "t3_1p0fqhy",
+      "author": "Standard-Novel-6320",
+      "text_history": [
+        [
+          "Damn this is next level what is going on",
+          "2025-11-18T14:56:15.750613"
+        ]
+      ],
+      "score_history": [
+        [
+          57,
+          "2025-11-18T14:56:15.750613"
+        ],
+        [
+          55,
+          "2025-11-18T15:04:31.741379"
+        ],
+        [
+          58,
+          "2025-11-18T15:05:36.898277"
+        ],
+        [
+          58,
+          "2025-11-18T15:07:28.015970"
+        ],
+        [
+          59,
+          "2025-11-18T15:13:52.360121"
+        ],
+        [
+          56,
+          "2025-11-18T15:14:45.574080"
+        ]
+      ],
+      "created_utc": 1763482235.0,
+      "depth": 0,
+      "permalink": "/r/OpenAI/comments/1p0fqhy/gemini_3_pro_passes_the_finger_test/npihd11/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npiig1o",
+          "parent_id": "t1_npihd11",
+          "author": "wi_2",
+          "text_history": [
+            [
+              "the same progress as ever.. haven't you noticed we are on a spaceship to agi?",
+              "2025-11-18T14:56:15.750613"
+            ]
+          ],
+          "score_history": [
+            [
+              22,
+              "2025-11-18T14:56:15.750613"
+            ],
+            [
+              23,
+              "2025-11-18T15:04:31.741379"
+            ],
+            [
+              24,
+              "2025-11-18T15:05:36.898277"
+            ],
+            [
+              23,
+              "2025-11-18T15:07:28.015970"
+            ],
+            [
+              25,
+              "2025-11-18T15:13:52.360121"
+            ],
+            [
+              23,
+              "2025-11-18T15:14:45.574080"
+            ]
+          ],
+          "created_utc": 1763482552.0,
+          "depth": 1,
+          "permalink": "/r/OpenAI/comments/1p0fqhy/gemini_3_pro_passes_the_finger_test/npiig1o/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npiis5h",
+              "parent_id": "t1_npiig1o",
+              "author": "Standard-Novel-6320",
+              "text_history": [
+                [
+                  "I agree. But this is the biggest incremental jump to the previous SOTA we have had in a long time",
+                  "2025-11-18T14:56:15.750613"
+                ]
+              ],
+              "score_history": [
+                [
+                  9,
+                  "2025-11-18T14:56:15.750613"
+                ],
+                [
+                  8,
+                  "2025-11-18T15:04:31.741379"
+                ],
+                [
+                  6,
+                  "2025-11-18T15:05:36.898277"
+                ],
+                [
+                  9,
+                  "2025-11-18T15:07:28.015970"
+                ],
+                [
+                  8,
+                  "2025-11-18T15:13:52.360121"
+                ],
+                [
+                  9,
+                  "2025-11-18T15:14:45.574080"
+                ]
+              ],
+              "created_utc": 1763482651.0,
+              "depth": 2,
+              "permalink": "/r/OpenAI/comments/1p0fqhy/gemini_3_pro_passes_the_finger_test/npiis5h/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": [
+                {
+                  "id": "npij6di",
+                  "parent_id": "t1_npiis5h",
+                  "author": "dudevan",
+                  "text_history": [
+                    [
+                      "Because it does some puzzles? Those very well might’ve been added to its knowledge base. We’ll see how it performs in the real world.",
+                      "2025-11-18T14:56:15.750613"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      9,
+                      "2025-11-18T14:56:15.750613"
+                    ],
+                    [
+                      8,
+                      "2025-11-18T15:04:31.741379"
+                    ],
+                    [
+                      9,
+                      "2025-11-18T15:05:36.898277"
+                    ],
+                    [
+                      9,
+                      "2025-11-18T15:07:28.015970"
+                    ],
+                    [
+                      8,
+                      "2025-11-18T15:13:52.360121"
+                    ],
+                    [
+                      9,
+                      "2025-11-18T15:14:45.574080"
+                    ]
+                  ],
+                  "created_utc": 1763482766.0,
+                  "depth": 3,
+                  "permalink": "/r/OpenAI/comments/1p0fqhy/gemini_3_pro_passes_the_finger_test/npij6di/",
+                  "is_submitter": false,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": [
+                    {
+                      "id": "npik62p",
+                      "parent_id": "t1_npij6di",
+                      "author": "DigSignificant1419",
+                      "text_history": [
+                        [
+                          "https://preview.redd.it/4kk8doy7k12g1.png?width=1231&amp;format=png&amp;auto=webp&amp;s=cef20117f6c15bb55f8ccce436d3641db4173784\n\nheres a real world test, no other model can pass these tests",
+                          "2025-11-18T14:56:15.750613"
+                        ]
+                      ],
+                      "score_history": [
+                        [
+                          12,
+                          "2025-11-18T14:56:15.750613"
+                        ],
+                        [
+                          13,
+                          "2025-11-18T15:04:31.741379"
+                        ],
+                        [
+                          12,
+                          "2025-11-18T15:05:36.898277"
+                        ],
+                        [
+                          12,
+                          "2025-11-18T15:07:28.015970"
+                        ],
+                        [
+                          12,
+                          "2025-11-18T15:13:52.360121"
+                        ],
+                        [
+                          11,
+                          "2025-11-18T15:14:45.574080"
+                        ]
+                      ],
+                      "created_utc": 1763483051.0,
+                      "depth": 4,
+                      "permalink": "/r/OpenAI/comments/1p0fqhy/gemini_3_pro_passes_the_finger_test/npik62p/",
+                      "is_submitter": true,
+                      "controversiality": 0,
+                      "gilded": 0,
+                      "edited": false,
+                      "deleted": false,
+                      "deleted_at": null,
+                      "replies": [
+                        {
+                          "id": "npjg75n",
+                          "parent_id": "t1_npik62p",
+                          "author": "jeffwadsworth",
+                          "text_history": [
+                            [
+                              "Haha.  GPT 5.1 gets 10 as well. \n\nhttps://preview.redd.it/263e0nf7c22g1.jpeg?width=1330&amp;format=pjpg&amp;auto=webp&amp;s=3230bc9abf5000fee668da943910a2a6c237a169",
+                              "2025-11-18T14:56:15.750613"
+                            ]
+                          ],
+                          "score_history": [
+                            [
+                              4,
+                              "2025-11-18T14:56:15.750613"
+                            ],
+                            [
+                              5,
+                              "2025-11-18T15:04:31.741379"
+                            ],
+                            [
+                              4,
+                              "2025-11-18T15:05:36.898277"
+                            ],
+                            [
+                              4,
+                              "2025-11-18T15:07:28.015970"
+                            ],
+                            [
+                              6,
+                              "2025-11-18T15:13:52.360121"
+                            ],
+                            [
+                              6,
+                              "2025-11-18T15:14:45.574080"
+                            ]
+                          ],
+                          "created_utc": 1763492367.0,
+                          "depth": 5,
+                          "permalink": "/r/OpenAI/comments/1p0fqhy/gemini_3_pro_passes_the_finger_test/npjg75n/",
+                          "is_submitter": false,
+                          "controversiality": 0,
+                          "gilded": 0,
+                          "edited": false,
+                          "deleted": false,
+                          "deleted_at": null,
+                          "replies": []
+                        },
+                        {
+                          "id": "npiko22",
+                          "parent_id": "t1_npik62p",
+                          "author": "dudevan",
+                          "text_history": [
+                            [
+                              "There’s literally apps out there that use AI to count things like these and have been for a while.",
+                              "2025-11-18T14:56:15.750613"
+                            ]
+                          ],
+                          "score_history": [
+                            [
+                              4,
+                              "2025-11-18T14:56:15.750613"
+                            ],
+                            [
+                              4,
+                              "2025-11-18T15:04:31.741379"
+                            ],
+                            [
+                              4,
+                              "2025-11-18T15:05:36.898277"
+                            ],
+                            [
+                              3,
+                              "2025-11-18T15:07:28.015970"
+                            ],
+                            [
+                              5,
+                              "2025-11-18T15:13:52.360121"
+                            ],
+                            [
+                              5,
+                              "2025-11-18T15:14:45.574080"
+                            ]
+                          ],
+                          "created_utc": 1763483197.0,
+                          "depth": 5,
+                          "permalink": "/r/OpenAI/comments/1p0fqhy/gemini_3_pro_passes_the_finger_test/npiko22/",
+                          "is_submitter": false,
+                          "controversiality": 1,
+                          "gilded": 0,
+                          "edited": false,
+                          "deleted": false,
+                          "deleted_at": null,
+                          "replies": [
+                            {
+                              "id": "npirrvt",
+                              "parent_id": "t1_npiko22",
+                              "author": "-illusoryMechanist",
+                              "text_history": [
+                                [
+                                  "Look at the model benchmark sheet they put out. The only thing it's behind in is like by 1% on swe-bench verified https://blog.google/products/gemini/gemini-3/#gemini-3",
+                                  "2025-11-18T14:56:15.750613"
+                                ]
+                              ],
+                              "score_history": [
+                                [
+                                  3,
+                                  "2025-11-18T14:56:15.750613"
+                                ],
+                                [
+                                  3,
+                                  "2025-11-18T15:04:31.741379"
+                                ],
+                                [
+                                  4,
+                                  "2025-11-18T15:05:36.898277"
+                                ],
+                                [
+                                  3,
+                                  "2025-11-18T15:07:28.015970"
+                                ],
+                                [
+                                  3,
+                                  "2025-11-18T15:13:52.360121"
+                                ],
+                                [
+                                  3,
+                                  "2025-11-18T15:14:45.574080"
+                                ]
+                              ],
+                              "created_utc": 1763485273.0,
+                              "depth": 6,
+                              "permalink": "/r/OpenAI/comments/1p0fqhy/gemini_3_pro_passes_the_finger_test/npirrvt/",
+                              "is_submitter": false,
+                              "controversiality": 0,
+                              "gilded": 0,
+                              "edited": false,
+                              "deleted": false,
+                              "deleted_at": null,
+                              "replies": []
+                            },
+                            {
+                              "id": "npimmd6",
+                              "parent_id": "t1_npiko22",
+                              "author": "DigSignificant1419",
+                              "text_history": [
+                                [
+                                  "https://preview.redd.it/ob2gho6mm12g1.png?width=1133&amp;format=png&amp;auto=webp&amp;s=6116976ac568ddc677f1dd60e0f1aec0938de8d5\n\nGPT shits himself",
+                                  "2025-11-18T14:56:15.750613"
+                                ]
+                              ],
+                              "score_history": [
+                                [
+                                  12,
+                                  "2025-11-18T14:56:15.750613"
+                                ],
+                                [
+                                  12,
+                                  "2025-11-18T15:04:31.741379"
+                                ],
+                                [
+                                  9,
+                                  "2025-11-18T15:05:36.898277"
+                                ],
+                                [
+                                  12,
+                                  "2025-11-18T15:07:28.015970"
+                                ],
+                                [
+                                  10,
+                                  "2025-11-18T15:13:52.360121"
+                                ],
+                                [
+                                  10,
+                                  "2025-11-18T15:14:45.574080"
+                                ]
+                              ],
+                              "created_utc": 1763483768.0,
+                              "depth": 6,
+                              "permalink": "/r/OpenAI/comments/1p0fqhy/gemini_3_pro_passes_the_finger_test/npimmd6/",
+                              "is_submitter": true,
+                              "controversiality": 0,
+                              "gilded": 0,
+                              "edited": false,
+                              "deleted": false,
+                              "deleted_at": null,
+                              "replies": [
+                                {
+                                  "id": "npjgdgt",
+                                  "parent_id": "t1_npimmd6",
+                                  "author": "jeffwadsworth",
+                                  "text_history": [
+                                    [
+                                      "I just tested it and it got 10.  So, hmm.  Very fishy.",
+                                      "2025-11-18T14:56:15.750613"
+                                    ]
+                                  ],
+                                  "score_history": [
+                                    [
+                                      6,
+                                      "2025-11-18T14:56:15.750613"
+                                    ],
+                                    [
+                                      7,
+                                      "2025-11-18T15:04:31.741379"
+                                    ],
+                                    [
+                                      8,
+                                      "2025-11-18T15:05:36.898277"
+                                    ],
+                                    [
+                                      7,
+                                      "2025-11-18T15:07:28.015970"
+                                    ],
+                                    [
+                                      7,
+                                      "2025-11-18T15:13:52.360121"
+                                    ],
+                                    [
+                                      7,
+                                      "2025-11-18T15:14:45.574080"
+                                    ]
+                                  ],
+                                  "created_utc": 1763492419.0,
+                                  "depth": 7,
+                                  "permalink": "/r/OpenAI/comments/1p0fqhy/gemini_3_pro_passes_the_finger_test/npjgdgt/",
+                                  "is_submitter": false,
+                                  "controversiality": 0,
+                                  "gilded": 0,
+                                  "edited": false,
+                                  "deleted": false,
+                                  "deleted_at": null,
+                                  "replies": [
+                                    {
+                                      "id": "npkrgca",
+                                      "parent_id": "t1_npjgdgt",
+                                      "author": "jeweliegb",
+                                      "text_history": [
+                                        [
+                                          "Not at all.  There's randomness added, that's why if you do a refresh you get a slightly different response.",
+                                          "2025-11-18T15:04:31.741379"
+                                        ]
+                                      ],
+                                      "score_history": [
+                                        [
+                                          1,
+                                          "2025-11-18T15:04:31.741379"
+                                        ],
+                                        [
+                                          1,
+                                          "2025-11-18T15:05:36.898277"
+                                        ],
+                                        [
+                                          1,
+                                          "2025-11-18T15:07:28.015970"
+                                        ],
+                                        [
+                                          1,
+                                          "2025-11-18T15:13:52.360121"
+                                        ],
+                                        [
+                                          1,
+                                          "2025-11-18T15:14:45.574080"
+                                        ]
+                                      ],
+                                      "created_utc": 1763506826.0,
+                                      "depth": 8,
+                                      "permalink": "/r/OpenAI/comments/1p0fqhy/gemini_3_pro_passes_the_finger_test/npkrgca/",
+                                      "is_submitter": false,
+                                      "controversiality": 0,
+                                      "gilded": 0,
+                                      "edited": false,
+                                      "deleted": false,
+                                      "deleted_at": null,
+                                      "replies": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "id": "npjm1ms",
+                              "parent_id": "t1_npiko22",
+                              "author": "bot_exe",
+                              "text_history": [
+                                [
+                                  "So? This is a test for multimodal LLMs. You can make RL models which beat Pokemon. You can make object detection/tracking models that count almost anything in images/video. But those models can't do that while also having mastered natural language, write working code, solve math problems, etc. LMMs can do it.",
+                                  "2025-11-18T14:56:15.750613"
+                                ]
+                              ],
+                              "score_history": [
+                                [
+                                  2,
+                                  "2025-11-18T14:56:15.750613"
+                                ],
+                                [
+                                  2,
+                                  "2025-11-18T15:04:31.741379"
+                                ],
+                                [
+                                  2,
+                                  "2025-11-18T15:05:36.898277"
+                                ],
+                                [
+                                  2,
+                                  "2025-11-18T15:07:28.015970"
+                                ],
+                                [
+                                  2,
+                                  "2025-11-18T15:13:52.360121"
+                                ],
+                                [
+                                  2,
+                                  "2025-11-18T15:14:45.574080"
+                                ]
+                              ],
+                              "created_utc": 1763494111.0,
+                              "depth": 6,
+                              "permalink": "/r/OpenAI/comments/1p0fqhy/gemini_3_pro_passes_the_finger_test/npjm1ms/",
+                              "is_submitter": false,
+                              "controversiality": 0,
+                              "gilded": 0,
+                              "edited": 1763494428.0,
+                              "deleted": false,
+                              "deleted_at": null,
+                              "replies": []
+                            },
+                            {
+                              "id": "npioaf7",
+                              "parent_id": "t1_npiko22",
+                              "author": "JimmyToucan",
+                              "text_history": [
+                                [
+                                  "&gt; apps",
+                                  "2025-11-18T14:56:15.750613"
+                                ]
+                              ],
+                              "score_history": [
+                                [
+                                  1,
+                                  "2025-11-18T14:56:15.750613"
+                                ],
+                                [
+                                  2,
+                                  "2025-11-18T15:04:31.741379"
+                                ],
+                                [
+                                  2,
+                                  "2025-11-18T15:05:36.898277"
+                                ],
+                                [
+                                  2,
+                                  "2025-11-18T15:07:28.015970"
+                                ],
+                                [
+                                  3,
+                                  "2025-11-18T15:13:52.360121"
+                                ],
+                                [
+                                  2,
+                                  "2025-11-18T15:14:45.574080"
+                                ]
+                              ],
+                              "created_utc": 1763484253.0,
+                              "depth": 6,
+                              "permalink": "/r/OpenAI/comments/1p0fqhy/gemini_3_pro_passes_the_finger_test/npioaf7/",
+                              "is_submitter": false,
+                              "controversiality": 0,
+                              "gilded": 0,
+                              "edited": false,
+                              "deleted": false,
+                              "deleted_at": null,
+                              "replies": [
+                                {
+                                  "id": "npir3tb",
+                                  "parent_id": "t1_npioaf7",
+                                  "author": "Glebun",
+                                  "text_history": [
+                                    [
+                                      "And this is a general model that can do it without any specific tuning and/or instructions",
+                                      "2025-11-18T14:56:15.750613"
+                                    ]
+                                  ],
+                                  "score_history": [
+                                    [
+                                      8,
+                                      "2025-11-18T14:56:15.750613"
+                                    ],
+                                    [
+                                      9,
+                                      "2025-11-18T15:04:31.741379"
+                                    ],
+                                    [
+                                      7,
+                                      "2025-11-18T15:05:36.898277"
+                                    ],
+                                    [
+                                      7,
+                                      "2025-11-18T15:07:28.015970"
+                                    ],
+                                    [
+                                      8,
+                                      "2025-11-18T15:13:52.360121"
+                                    ],
+                                    [
+                                      8,
+                                      "2025-11-18T15:14:45.574080"
+                                    ]
+                                  ],
+                                  "created_utc": 1763485077.0,
+                                  "depth": 7,
+                                  "permalink": "/r/OpenAI/comments/1p0fqhy/gemini_3_pro_passes_the_finger_test/npir3tb/",
+                                  "is_submitter": false,
+                                  "controversiality": 0,
+                                  "gilded": 0,
+                                  "edited": false,
+                                  "deleted": false,
+                                  "deleted_at": null,
+                                  "replies": []
+                                },
+                                {
+                                  "id": "npiqphe",
+                                  "parent_id": "t1_npioaf7",
+                                  "author": "Sure_Watercress_6053",
+                                  "text_history": [
+                                    [
+                                      "apps",
+                                      "2025-11-18T14:56:15.750613"
+                                    ]
+                                  ],
+                                  "score_history": [
+                                    [
+                                      -2,
+                                      "2025-11-18T14:56:15.750613"
+                                    ],
+                                    [
+                                      -2,
+                                      "2025-11-18T15:04:31.741379"
+                                    ],
+                                    [
+                                      -2,
+                                      "2025-11-18T15:05:36.898277"
+                                    ],
+                                    [
+                                      -2,
+                                      "2025-11-18T15:07:28.015970"
+                                    ],
+                                    [
+                                      -2,
+                                      "2025-11-18T15:13:52.360121"
+                                    ],
+                                    [
+                                      -2,
+                                      "2025-11-18T15:14:45.574080"
+                                    ]
+                                  ],
+                                  "created_utc": 1763484960.0,
+                                  "depth": 7,
+                                  "permalink": "/r/OpenAI/comments/1p0fqhy/gemini_3_pro_passes_the_finger_test/npiqphe/",
+                                  "is_submitter": false,
+                                  "controversiality": 0,
+                                  "gilded": 0,
+                                  "edited": false,
+                                  "deleted": false,
+                                  "deleted_at": null,
+                                  "replies": []
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "id": "npjgl6v",
+                          "parent_id": "t1_npik62p",
+                          "author": "jeffwadsworth",
+                          "text_history": [
+                            [
+                              "Haha, again.  Qwen Max easily gets 10.   [https://chat.qwen.ai/s/t\\_f7483443-f5b6-47c9-b50b-33af77a4b31c?fev=0.0.246](https://chat.qwen.ai/s/t_f7483443-f5b6-47c9-b50b-33af77a4b31c?fev=0.0.246)",
+                              "2025-11-18T14:56:15.750613"
+                            ]
+                          ],
+                          "score_history": [
+                            [
+                              1,
+                              "2025-11-18T14:56:15.750613"
+                            ],
+                            [
+                              1,
+                              "2025-11-18T15:04:31.741379"
+                            ],
+                            [
+                              1,
+                              "2025-11-18T15:05:36.898277"
+                            ],
+                            [
+                              1,
+                              "2025-11-18T15:07:28.015970"
+                            ],
+                            [
+                              1,
+                              "2025-11-18T15:13:52.360121"
+                            ],
+                            [
+                              1,
+                              "2025-11-18T15:14:45.574080"
+                            ]
+                          ],
+                          "created_utc": 1763492483.0,
+                          "depth": 5,
+                          "permalink": "/r/OpenAI/comments/1p0fqhy/gemini_3_pro_passes_the_finger_test/npjgl6v/",
+                          "is_submitter": false,
+                          "controversiality": 0,
+                          "gilded": 0,
+                          "edited": false,
+                          "deleted": false,
+                          "deleted_at": null,
+                          "replies": []
+                        },
+                        {
+                          "id": "npjw82w",
+                          "parent_id": "t1_npik62p",
+                          "author": "Sluuuuuuug",
+                          "text_history": [
+                            [
+                              "Why not show those other models failing it? 💀 wtf are you basing that claim on???",
+                              "2025-11-18T14:56:15.750613"
+                            ]
+                          ],
+                          "score_history": [
+                            [
+                              1,
+                              "2025-11-18T14:56:15.750613"
+                            ],
+                            [
+                              1,
+                              "2025-11-18T15:04:31.741379"
+                            ],
+                            [
+                              1,
+                              "2025-11-18T15:05:36.898277"
+                            ],
+                            [
+                              1,
+                              "2025-11-18T15:07:28.015970"
+                            ],
+                            [
+                              1,
+                              "2025-11-18T15:13:52.360121"
+                            ],
+                            [
+                              1,
+                              "2025-11-18T15:14:45.574080"
+                            ]
+                          ],
+                          "created_utc": 1763497174.0,
+                          "depth": 5,
+                          "permalink": "/r/OpenAI/comments/1p0fqhy/gemini_3_pro_passes_the_finger_test/npjw82w/",
+                          "is_submitter": false,
+                          "controversiality": 0,
+                          "gilded": 0,
+                          "edited": false,
+                          "deleted": false,
+                          "deleted_at": null,
+                          "replies": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "npjlkxr",
+                      "parent_id": "t1_npij6di",
+                      "author": "bot_exe",
+                      "text_history": [
+                        [
+                          "what knowledge base? LLMs don't work like that.",
+                          "2025-11-18T14:56:15.750613"
+                        ]
+                      ],
+                      "score_history": [
+                        [
+                          -1,
+                          "2025-11-18T14:56:15.750613"
+                        ],
+                        [
+                          -1,
+                          "2025-11-18T15:04:31.741379"
+                        ],
+                        [
+                          -1,
+                          "2025-11-18T15:05:36.898277"
+                        ],
+                        [
+                          -1,
+                          "2025-11-18T15:07:28.015970"
+                        ],
+                        [
+                          -1,
+                          "2025-11-18T15:13:52.360121"
+                        ],
+                        [
+                          -1,
+                          "2025-11-18T15:14:45.574080"
+                        ]
+                      ],
+                      "created_utc": 1763493973.0,
+                      "depth": 4,
+                      "permalink": "/r/OpenAI/comments/1p0fqhy/gemini_3_pro_passes_the_finger_test/npjlkxr/",
+                      "is_submitter": false,
+                      "controversiality": 0,
+                      "gilded": 0,
+                      "edited": false,
+                      "deleted": false,
+                      "deleted_at": null,
+                      "replies": [
+                        {
+                          "id": "npjq2fc",
+                          "parent_id": "t1_npjlkxr",
+                          "author": "Pleasant_Interaction",
+                          "text_history": [
+                            [
+                              "With respect to their training data yes they do",
+                              "2025-11-18T14:56:15.750613"
+                            ]
+                          ],
+                          "score_history": [
+                            [
+                              2,
+                              "2025-11-18T14:56:15.750613"
+                            ],
+                            [
+                              2,
+                              "2025-11-18T15:04:31.741379"
+                            ],
+                            [
+                              2,
+                              "2025-11-18T15:05:36.898277"
+                            ],
+                            [
+                              2,
+                              "2025-11-18T15:07:28.015970"
+                            ],
+                            [
+                              2,
+                              "2025-11-18T15:13:52.360121"
+                            ],
+                            [
+                              2,
+                              "2025-11-18T15:14:45.574080"
+                            ]
+                          ],
+                          "created_utc": 1763495318.0,
+                          "depth": 5,
+                          "permalink": "/r/OpenAI/comments/1p0fqhy/gemini_3_pro_passes_the_finger_test/npjq2fc/",
+                          "is_submitter": false,
+                          "controversiality": 0,
+                          "gilded": 0,
+                          "edited": false,
+                          "deleted": false,
+                          "deleted_at": null,
+                          "replies": [
+                            {
+                              "id": "npjqzs7",
+                              "parent_id": "t1_npjq2fc",
+                              "author": "bot_exe",
+                              "text_history": [
+                                [
+                                  "Except training data is not a knowledge base. LLMs don’t have access to any training data during inference. \n\nIn the context of LLMs a knowledge base is a bunch of text strings that can be appended to the prompts or a RAG system. This is not relevant to the performance of the base model.",
+                                  "2025-11-18T14:56:15.750613"
+                                ]
+                              ],
+                              "score_history": [
+                                [
+                                  -2,
+                                  "2025-11-18T14:56:15.750613"
+                                ],
+                                [
+                                  -2,
+                                  "2025-11-18T15:04:31.741379"
+                                ],
+                                [
+                                  -2,
+                                  "2025-11-18T15:05:36.898277"
+                                ],
+                                [
+                                  -2,
+                                  "2025-11-18T15:07:28.015970"
+                                ],
+                                [
+                                  -2,
+                                  "2025-11-18T15:13:52.360121"
+                                ],
+                                [
+                                  -2,
+                                  "2025-11-18T15:14:45.574080"
+                                ]
+                              ],
+                              "created_utc": 1763495591.0,
+                              "depth": 6,
+                              "permalink": "/r/OpenAI/comments/1p0fqhy/gemini_3_pro_passes_the_finger_test/npjqzs7/",
+                              "is_submitter": false,
+                              "controversiality": 0,
+                              "gilded": 0,
+                              "edited": 1763495897.0,
+                              "deleted": false,
+                              "deleted_at": null,
+                              "replies": [
+                                {
+                                  "id": "npjt2je",
+                                  "parent_id": "t1_npjqzs7",
+                                  "author": "Pleasant_Interaction",
+                                  "text_history": [
+                                    [
+                                      "The vectorized representations and weighted relationships gained from significantly unique training samples remain strongly weighted in the corpus though. Which, when prompted directly enough, tends to produce results akin to if the embeddings were stored",
+                                      "2025-11-18T14:56:15.750613"
+                                    ]
+                                  ],
+                                  "score_history": [
+                                    [
+                                      2,
+                                      "2025-11-18T14:56:15.750613"
+                                    ],
+                                    [
+                                      2,
+                                      "2025-11-18T15:04:31.741379"
+                                    ],
+                                    [
+                                      2,
+                                      "2025-11-18T15:05:36.898277"
+                                    ],
+                                    [
+                                      2,
+                                      "2025-11-18T15:07:28.015970"
+                                    ],
+                                    [
+                                      2,
+                                      "2025-11-18T15:13:52.360121"
+                                    ],
+                                    [
+                                      2,
+                                      "2025-11-18T15:14:45.574080"
+                                    ]
+                                  ],
+                                  "created_utc": 1763496213.0,
+                                  "depth": 7,
+                                  "permalink": "/r/OpenAI/comments/1p0fqhy/gemini_3_pro_passes_the_finger_test/npjt2je/",
+                                  "is_submitter": false,
+                                  "controversiality": 0,
+                                  "gilded": 0,
+                                  "edited": false,
+                                  "deleted": false,
+                                  "deleted_at": null,
+                                  "replies": []
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "npjfarc",
+                  "parent_id": "t1_npiis5h",
+                  "author": "jeffwadsworth",
+                  "text_history": [
+                    [
+                      "You may want to sample the 4.1 Grok before writing that down.",
+                      "2025-11-18T14:56:15.750613"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      1,
+                      "2025-11-18T14:56:15.750613"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T15:04:31.741379"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T15:05:36.898277"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T15:07:28.015970"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T15:13:52.360121"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T15:14:45.574080"
+                    ]
+                  ],
+                  "created_utc": 1763492105.0,
+                  "depth": 3,
+                  "permalink": "/r/OpenAI/comments/1p0fqhy/gemini_3_pro_passes_the_finger_test/npjfarc/",
+                  "is_submitter": false,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": []
+                },
+                {
+                  "id": "npilhe6",
+                  "parent_id": "t1_npiis5h",
+                  "author": "wi_2",
+                  "text_history": [
+                    [
+                      "wait till next year",
+                      "2025-11-18T14:56:15.750613"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      0,
+                      "2025-11-18T14:56:15.750613"
+                    ],
+                    [
+                      0,
+                      "2025-11-18T15:04:31.741379"
+                    ],
+                    [
+                      0,
+                      "2025-11-18T15:05:36.898277"
+                    ],
+                    [
+                      0,
+                      "2025-11-18T15:07:28.015970"
+                    ],
+                    [
+                      0,
+                      "2025-11-18T15:13:52.360121"
+                    ],
+                    [
+                      0,
+                      "2025-11-18T15:14:45.574080"
+                    ]
+                  ],
+                  "created_utc": 1763483432.0,
+                  "depth": 3,
+                  "permalink": "/r/OpenAI/comments/1p0fqhy/gemini_3_pro_passes_the_finger_test/npilhe6/",
+                  "is_submitter": false,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "npjeuy6",
+              "parent_id": "t1_npiig1o",
+              "author": "Owwmykneecap",
+              "text_history": [
+                [
+                  "Lmao",
+                  "2025-11-18T14:56:15.750613"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-18T14:56:15.750613"
+                ],
+                [
+                  1,
+                  "2025-11-18T15:04:31.741379"
+                ],
+                [
+                  1,
+                  "2025-11-18T15:05:36.898277"
+                ],
+                [
+                  1,
+                  "2025-11-18T15:07:28.015970"
+                ],
+                [
+                  1,
+                  "2025-11-18T15:13:52.360121"
+                ],
+                [
+                  1,
+                  "2025-11-18T15:14:45.574080"
+                ]
+              ],
+              "created_utc": 1763491980.0,
+              "depth": 2,
+              "permalink": "/r/OpenAI/comments/1p0fqhy/gemini_3_pro_passes_the_finger_test/npjeuy6/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "npisdws",
+      "parent_id": "t3_1p0fqhy",
+      "author": "AlternativeCollar426",
+      "text_history": [
+        [
+          "Gemini is way better in image recognition than any other AI model.I litterly gave it a really bad handwriting and it convered that into text.i gave it to count buttons on a table and it was exactly right.\n\nI use it to make notes,create accurate images and more.",
+          "2025-11-18T14:56:15.750613"
+        ]
+      ],
+      "score_history": [
+        [
+          16,
+          "2025-11-18T14:56:15.750613"
+        ],
+        [
+          18,
+          "2025-11-18T15:04:31.741379"
+        ],
+        [
+          17,
+          "2025-11-18T15:05:36.898277"
+        ],
+        [
+          17,
+          "2025-11-18T15:07:28.015970"
+        ],
+        [
+          17,
+          "2025-11-18T15:13:52.360121"
+        ],
+        [
+          18,
+          "2025-11-18T15:14:45.574080"
+        ]
+      ],
+      "created_utc": 1763485455.0,
+      "depth": 0,
+      "permalink": "/r/OpenAI/comments/1p0fqhy/gemini_3_pro_passes_the_finger_test/npisdws/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npkddkk",
+          "parent_id": "t1_npisdws",
+          "author": "Valdriz",
+          "text_history": [
+            [
+              "I have it translate my unreadable cursive writing. It’s amazing how well it does this",
+              "2025-11-18T14:56:15.750613"
+            ]
+          ],
+          "score_history": [
+            [
+              2,
+              "2025-11-18T14:56:15.750613"
+            ],
+            [
+              2,
+              "2025-11-18T15:04:31.741379"
+            ],
+            [
+              2,
+              "2025-11-18T15:05:36.898277"
+            ],
+            [
+              2,
+              "2025-11-18T15:07:28.015970"
+            ],
+            [
+              2,
+              "2025-11-18T15:13:52.360121"
+            ],
+            [
+              2,
+              "2025-11-18T15:14:45.574080"
+            ]
+          ],
+          "created_utc": 1763502325.0,
+          "depth": 1,
+          "permalink": "/r/OpenAI/comments/1p0fqhy/gemini_3_pro_passes_the_finger_test/npkddkk/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npimypp",
+      "parent_id": "t3_1p0fqhy",
+      "author": "MegaDork2000",
+      "text_history": [
+        [
+          "But can it find the seahorse emoji?",
+          "2025-11-18T14:56:15.750613"
+        ]
+      ],
+      "score_history": [
+        [
+          12,
+          "2025-11-18T14:56:15.750613"
+        ],
+        [
+          15,
+          "2025-11-18T15:04:31.741379"
+        ],
+        [
+          15,
+          "2025-11-18T15:05:36.898277"
+        ],
+        [
+          15,
+          "2025-11-18T15:07:28.015970"
+        ],
+        [
+          14,
+          "2025-11-18T15:13:52.360121"
+        ],
+        [
+          13,
+          "2025-11-18T15:14:45.574080"
+        ]
+      ],
+      "created_utc": 1763483869.0,
+      "depth": 0,
+      "permalink": "/r/OpenAI/comments/1p0fqhy/gemini_3_pro_passes_the_finger_test/npimypp/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npju8a4",
+          "parent_id": "t1_npimypp",
+          "author": "Successful-Ebb-9444",
+          "text_history": [
+            [
+              "https://preview.redd.it/9xib4n2po22g1.png?width=1220&amp;format=png&amp;auto=webp&amp;s=0c31a00ce56af4f88f88542ea899468bb52a5ba7\n\nIt did",
+              "2025-11-18T14:56:15.750613"
+            ]
+          ],
+          "score_history": [
+            [
+              10,
+              "2025-11-18T14:56:15.750613"
+            ],
+            [
+              11,
+              "2025-11-18T15:04:31.741379"
+            ],
+            [
+              13,
+              "2025-11-18T15:05:36.898277"
+            ],
+            [
+              12,
+              "2025-11-18T15:07:28.015970"
+            ],
+            [
+              12,
+              "2025-11-18T15:13:52.360121"
+            ],
+            [
+              13,
+              "2025-11-18T15:14:45.574080"
+            ]
+          ],
+          "created_utc": 1763496567.0,
+          "depth": 1,
+          "permalink": "/r/OpenAI/comments/1p0fqhy/gemini_3_pro_passes_the_finger_test/npju8a4/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npk1yk9",
+              "parent_id": "t1_npju8a4",
+              "author": "KappaDarius",
+              "text_history": [
+                [
+                  "Revolutionary",
+                  "2025-11-18T14:56:15.750613"
+                ]
+              ],
+              "score_history": [
+                [
+                  4,
+                  "2025-11-18T14:56:15.750613"
+                ],
+                [
+                  6,
+                  "2025-11-18T15:04:31.741379"
+                ],
+                [
+                  4,
+                  "2025-11-18T15:05:36.898277"
+                ],
+                [
+                  4,
+                  "2025-11-18T15:07:28.015970"
+                ],
+                [
+                  4,
+                  "2025-11-18T15:13:52.360121"
+                ],
+                [
+                  5,
+                  "2025-11-18T15:14:45.574080"
+                ]
+              ],
+              "created_utc": 1763498924.0,
+              "depth": 2,
+              "permalink": "/r/OpenAI/comments/1p0fqhy/gemini_3_pro_passes_the_finger_test/npk1yk9/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            },
+            {
+              "id": "npkscrs",
+              "parent_id": "t1_npju8a4",
+              "author": "jeweliegb",
+              "text_history": [
+                [
+                  "You know what would now be an interesting test for all of them? \n\nNow that we're all clear there's no seahorse emoji...\n\nTake the image of the question and answer above.  Insert an image of a passable DIY seahorse in place of the sea + horse.\n\nAsk them where the seahorse emoji is in the image.\n\nMy guess, they'd still default to saying there's no such thing as a seahorse emoji.",
+                  "2025-11-18T15:07:28.015970"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-18T15:07:28.015970"
+                ],
+                [
+                  1,
+                  "2025-11-18T15:13:52.360121"
+                ],
+                [
+                  1,
+                  "2025-11-18T15:14:45.574080"
+                ]
+              ],
+              "created_utc": 1763507135.0,
+              "depth": 2,
+              "permalink": "/r/OpenAI/comments/1p0fqhy/gemini_3_pro_passes_the_finger_test/npkscrs/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "npighc2",
+      "parent_id": "t3_1p0fqhy",
+      "author": "Quirky-Service-2626",
+      "text_history": [
+        [
+          "Judgment day is closer 👀😁",
+          "2025-11-18T14:56:15.750613"
+        ]
+      ],
+      "score_history": [
+        [
+          29,
+          "2025-11-18T14:56:15.750613"
+        ],
+        [
+          31,
+          "2025-11-18T15:04:31.741379"
+        ],
+        [
+          29,
+          "2025-11-18T15:05:36.898277"
+        ],
+        [
+          30,
+          "2025-11-18T15:07:28.015970"
+        ],
+        [
+          32,
+          "2025-11-18T15:13:52.360121"
+        ],
+        [
+          31,
+          "2025-11-18T15:14:45.574080"
+        ]
+      ],
+      "created_utc": 1763481979.0,
+      "depth": 0,
+      "permalink": "/r/OpenAI/comments/1p0fqhy/gemini_3_pro_passes_the_finger_test/npighc2/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npigrgb",
+          "parent_id": "t1_npighc2",
+          "author": "DigSignificant1419",
+          "text_history": [
+            [
+              "We was joking about terminators, now it's here",
+              "2025-11-18T14:56:15.750613"
+            ]
+          ],
+          "score_history": [
+            [
+              6,
+              "2025-11-18T14:56:15.750613"
+            ],
+            [
+              7,
+              "2025-11-18T15:04:31.741379"
+            ],
+            [
+              7,
+              "2025-11-18T15:05:36.898277"
+            ],
+            [
+              6,
+              "2025-11-18T15:07:28.015970"
+            ],
+            [
+              6,
+              "2025-11-18T15:13:52.360121"
+            ],
+            [
+              7,
+              "2025-11-18T15:14:45.574080"
+            ]
+          ],
+          "created_utc": 1763482061.0,
+          "depth": 1,
+          "permalink": "/r/OpenAI/comments/1p0fqhy/gemini_3_pro_passes_the_finger_test/npigrgb/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npirxz6",
+      "parent_id": "t3_1p0fqhy",
+      "author": "Sure_Watercress_6053",
+      "text_history": [
+        [
+          "https://preview.redd.it/b4d0gxq8r12g1.png?width=742&amp;format=png&amp;auto=webp&amp;s=0ed6f3cac0451ef6ab131a3aaf44eda22ea154ff\n\nReally impressive!",
+          "2025-11-18T14:56:15.750613"
+        ]
+      ],
+      "score_history": [
+        [
+          31,
+          "2025-11-18T14:56:15.750613"
+        ],
+        [
+          31,
+          "2025-11-18T15:04:31.741379"
+        ],
+        [
+          32,
+          "2025-11-18T15:05:36.898277"
+        ],
+        [
+          33,
+          "2025-11-18T15:07:28.015970"
+        ],
+        [
+          35,
+          "2025-11-18T15:13:52.360121"
+        ],
+        [
+          32,
+          "2025-11-18T15:14:45.574080"
+        ]
+      ],
+      "created_utc": 1763485323.0,
+      "depth": 0,
+      "permalink": "/r/OpenAI/comments/1p0fqhy/gemini_3_pro_passes_the_finger_test/npirxz6/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npiu0xx",
+          "parent_id": "t1_npirxz6",
+          "author": "MammothComposer7176",
+          "text_history": [
+            [
+              "I had a set of coins and tried a similar thing with 2.5 and it nailed every single one from one image. There was also a disney one and it got it. Gemini has always been quite impressive tbh",
+              "2025-11-18T14:56:15.750613"
+            ]
+          ],
+          "score_history": [
+            [
+              6,
+              "2025-11-18T14:56:15.750613"
+            ],
+            [
+              5,
+              "2025-11-18T15:04:31.741379"
+            ],
+            [
+              5,
+              "2025-11-18T15:05:36.898277"
+            ],
+            [
+              6,
+              "2025-11-18T15:07:28.015970"
+            ],
+            [
+              6,
+              "2025-11-18T15:13:52.360121"
+            ],
+            [
+              7,
+              "2025-11-18T15:14:45.574080"
+            ]
+          ],
+          "created_utc": 1763485939.0,
+          "depth": 1,
+          "permalink": "/r/OpenAI/comments/1p0fqhy/gemini_3_pro_passes_the_finger_test/npiu0xx/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        },
+        {
+          "id": "npjhmd8",
+          "parent_id": "t1_npirxz6",
+          "author": "jeffwadsworth",
+          "text_history": [
+            [
+              "Qwen Max again gets this correct.  The query says nothing about unique balls, and Qwen counts them all.  [https://chat.qwen.ai/s/t\\_484b4c07-0d5a-4e3d-97c2-791232f61959?fev=0.0.246](https://chat.qwen.ai/s/t_484b4c07-0d5a-4e3d-97c2-791232f61959?fev=0.0.246)",
+              "2025-11-18T14:56:15.750613"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T14:56:15.750613"
+            ],
+            [
+              1,
+              "2025-11-18T15:04:31.741379"
+            ],
+            [
+              1,
+              "2025-11-18T15:05:36.898277"
+            ],
+            [
+              1,
+              "2025-11-18T15:07:28.015970"
+            ],
+            [
+              1,
+              "2025-11-18T15:13:52.360121"
+            ],
+            [
+              1,
+              "2025-11-18T15:14:45.574080"
+            ]
+          ],
+          "created_utc": 1763492790.0,
+          "depth": 1,
+          "permalink": "/r/OpenAI/comments/1p0fqhy/gemini_3_pro_passes_the_finger_test/npjhmd8/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npipr85",
+      "parent_id": "t3_1p0fqhy",
+      "author": "El-Dixon",
+      "text_history": [
+        [
+          "Gemini is officially not drunk.",
+          "2025-11-18T14:56:15.750613"
+        ]
+      ],
+      "score_history": [
+        [
+          9,
+          "2025-11-18T14:56:15.750613"
+        ],
+        [
+          7,
+          "2025-11-18T15:04:31.741379"
+        ],
+        [
+          9,
+          "2025-11-18T15:05:36.898277"
+        ],
+        [
+          8,
+          "2025-11-18T15:07:28.015970"
+        ],
+        [
+          8,
+          "2025-11-18T15:13:52.360121"
+        ],
+        [
+          7,
+          "2025-11-18T15:14:45.574080"
+        ]
+      ],
+      "created_utc": 1763484683.0,
+      "depth": 0,
+      "permalink": "/r/OpenAI/comments/1p0fqhy/gemini_3_pro_passes_the_finger_test/npipr85/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npjd32e",
+      "parent_id": "t3_1p0fqhy",
+      "author": "Siciliano777",
+      "text_history": [
+        [
+          "Just playing devil's advocate here... I know this is obviously an insane model; clearly the best one in the world right now. But they could have easily patched the AI with the correct response is to the handful of common memes that have been thrown at it.\n\nI intend to do much, much deeper testing with extremely abstract logic questions, and just different shit to try to trip it up. Something tells me it will pass with flying colors. ☺️",
+          "2025-11-18T14:56:15.750613"
+        ]
+      ],
+      "score_history": [
+        [
+          9,
+          "2025-11-18T14:56:15.750613"
+        ],
+        [
+          9,
+          "2025-11-18T15:04:31.741379"
+        ],
+        [
+          9,
+          "2025-11-18T15:05:36.898277"
+        ],
+        [
+          11,
+          "2025-11-18T15:07:28.015970"
+        ],
+        [
+          10,
+          "2025-11-18T15:13:52.360121"
+        ],
+        [
+          10,
+          "2025-11-18T15:14:45.574080"
+        ]
+      ],
+      "created_utc": 1763491469.0,
+      "depth": 0,
+      "permalink": "/r/OpenAI/comments/1p0fqhy/gemini_3_pro_passes_the_finger_test/npjd32e/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npjjt0l",
+          "parent_id": "t1_npjd32e",
+          "author": "jeffwadsworth",
+          "text_history": [
+            [
+              "They wouldn't bother to do anything like that.  You really think so?",
+              "2025-11-18T14:56:15.750613"
+            ]
+          ],
+          "score_history": [
+            [
+              3,
+              "2025-11-18T14:56:15.750613"
+            ],
+            [
+              3,
+              "2025-11-18T15:04:31.741379"
+            ],
+            [
+              3,
+              "2025-11-18T15:05:36.898277"
+            ],
+            [
+              4,
+              "2025-11-18T15:07:28.015970"
+            ],
+            [
+              4,
+              "2025-11-18T15:13:52.360121"
+            ],
+            [
+              3,
+              "2025-11-18T15:14:45.574080"
+            ]
+          ],
+          "created_utc": 1763493440.0,
+          "depth": 1,
+          "permalink": "/r/OpenAI/comments/1p0fqhy/gemini_3_pro_passes_the_finger_test/npjjt0l/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npjny6s",
+              "parent_id": "t1_npjjt0l",
+              "author": "bot_exe",
+              "text_history": [
+                [
+                  "Yeah it makes no sense, the model is clearly powerful enough as is. I already tested it with my personal benchmark. Which is basically building a relatively complex music webapp in a single HTML file in one shot. And this model is clearly significantly ahead of Sonnet 4.5/Opus 4.1 that were the previous SOTA on this task.",
+                  "2025-11-18T14:56:15.750613"
+                ]
+              ],
+              "score_history": [
+                [
+                  3,
+                  "2025-11-18T14:56:15.750613"
+                ],
+                [
+                  4,
+                  "2025-11-18T15:04:31.741379"
+                ],
+                [
+                  4,
+                  "2025-11-18T15:05:36.898277"
+                ],
+                [
+                  5,
+                  "2025-11-18T15:07:28.015970"
+                ],
+                [
+                  4,
+                  "2025-11-18T15:13:52.360121"
+                ],
+                [
+                  5,
+                  "2025-11-18T15:14:45.574080"
+                ]
+              ],
+              "created_utc": 1763494683.0,
+              "depth": 2,
+              "permalink": "/r/OpenAI/comments/1p0fqhy/gemini_3_pro_passes_the_finger_test/npjny6s/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": [
+                {
+                  "id": "npk83sm",
+                  "parent_id": "t1_npjny6s",
+                  "author": "absentlyric",
+                  "text_history": [
+                    [
+                      "It even handles G-Code perfectly well for my CNC lathe, I double check the programs, there isn't any flaw.\n\nUs Machinists/Toolmakers are done. So much for the \"get a skilled trade\"",
+                      "2025-11-18T14:56:15.750613"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      2,
+                      "2025-11-18T14:56:15.750613"
+                    ],
+                    [
+                      2,
+                      "2025-11-18T15:04:31.741379"
+                    ],
+                    [
+                      2,
+                      "2025-11-18T15:05:36.898277"
+                    ],
+                    [
+                      2,
+                      "2025-11-18T15:07:28.015970"
+                    ],
+                    [
+                      2,
+                      "2025-11-18T15:13:52.360121"
+                    ],
+                    [
+                      2,
+                      "2025-11-18T15:14:45.574080"
+                    ]
+                  ],
+                  "created_utc": 1763500745.0,
+                  "depth": 3,
+                  "permalink": "/r/OpenAI/comments/1p0fqhy/gemini_3_pro_passes_the_finger_test/npk83sm/",
+                  "is_submitter": false,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "npj6knb",
+      "parent_id": "t3_1p0fqhy",
+      "author": "siddhantparadox",
+      "text_history": [
+        [
+          "I still have 2.5 pro on my android app.🥲",
+          "2025-11-18T14:56:15.750613"
+        ]
+      ],
+      "score_history": [
+        [
+          4,
+          "2025-11-18T14:56:15.750613"
+        ],
+        [
+          5,
+          "2025-11-18T15:04:31.741379"
+        ],
+        [
+          5,
+          "2025-11-18T15:05:36.898277"
+        ],
+        [
+          3,
+          "2025-11-18T15:07:28.015970"
+        ],
+        [
+          4,
+          "2025-11-18T15:13:52.360121"
+        ],
+        [
+          6,
+          "2025-11-18T15:14:45.574080"
+        ]
+      ],
+      "created_utc": 1763489609.0,
+      "depth": 0,
+      "permalink": "/r/OpenAI/comments/1p0fqhy/gemini_3_pro_passes_the_finger_test/npj6knb/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npijcb2",
+      "parent_id": "t3_1p0fqhy",
+      "author": "freylaverse",
+      "text_history": [
+        [
+          "Have you tried the faux-Ebbinghaus?",
+          "2025-11-18T14:56:15.750613"
+        ]
+      ],
+      "score_history": [
+        [
+          5,
+          "2025-11-18T14:56:15.750613"
+        ],
+        [
+          4,
+          "2025-11-18T15:04:31.741379"
+        ],
+        [
+          3,
+          "2025-11-18T15:05:36.898277"
+        ],
+        [
+          4,
+          "2025-11-18T15:07:28.015970"
+        ],
+        [
+          5,
+          "2025-11-18T15:13:52.360121"
+        ],
+        [
+          5,
+          "2025-11-18T15:14:45.574080"
+        ]
+      ],
+      "created_utc": 1763482813.0,
+      "depth": 0,
+      "permalink": "/r/OpenAI/comments/1p0fqhy/gemini_3_pro_passes_the_finger_test/npijcb2/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npim79o",
+          "parent_id": "t1_npijcb2",
+          "author": "DigSignificant1419",
+          "text_history": [
+            [
+              "https://preview.redd.it/ruttm609m12g1.png?width=1225&amp;format=png&amp;auto=webp&amp;s=b54495655c4c0f85ff6d4a23063ff8109ef488ca\n\ndestroyed this one",
+              "2025-11-18T14:56:15.750613"
+            ]
+          ],
+          "score_history": [
+            [
+              13,
+              "2025-11-18T14:56:15.750613"
+            ],
+            [
+              15,
+              "2025-11-18T15:04:31.741379"
+            ],
+            [
+              14,
+              "2025-11-18T15:05:36.898277"
+            ],
+            [
+              15,
+              "2025-11-18T15:07:28.015970"
+            ],
+            [
+              14,
+              "2025-11-18T15:13:52.360121"
+            ],
+            [
+              14,
+              "2025-11-18T15:14:45.574080"
+            ]
+          ],
+          "created_utc": 1763483645.0,
+          "depth": 1,
+          "permalink": "/r/OpenAI/comments/1p0fqhy/gemini_3_pro_passes_the_finger_test/npim79o/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npjc5la",
+              "parent_id": "t1_npim79o",
+              "author": "Siciliano777",
+              "text_history": [
+                [
+                  "It's game over.",
+                  "2025-11-18T14:56:15.750613"
+                ]
+              ],
+              "score_history": [
+                [
+                  3,
+                  "2025-11-18T14:56:15.750613"
+                ],
+                [
+                  3,
+                  "2025-11-18T15:04:31.741379"
+                ],
+                [
+                  3,
+                  "2025-11-18T15:05:36.898277"
+                ],
+                [
+                  3,
+                  "2025-11-18T15:07:28.015970"
+                ],
+                [
+                  3,
+                  "2025-11-18T15:13:52.360121"
+                ],
+                [
+                  3,
+                  "2025-11-18T15:14:45.574080"
+                ]
+              ],
+              "created_utc": 1763491202.0,
+              "depth": 2,
+              "permalink": "/r/OpenAI/comments/1p0fqhy/gemini_3_pro_passes_the_finger_test/npjc5la/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "npilfvy",
+          "parent_id": "t1_npijcb2",
+          "author": "DigSignificant1419",
+          "text_history": [
+            [
+              "Can you send a link or a prompt",
+              "2025-11-18T14:56:15.750613"
+            ]
+          ],
+          "score_history": [
+            [
+              3,
+              "2025-11-18T14:56:15.750613"
+            ],
+            [
+              3,
+              "2025-11-18T15:04:31.741379"
+            ],
+            [
+              3,
+              "2025-11-18T15:05:36.898277"
+            ],
+            [
+              3,
+              "2025-11-18T15:07:28.015970"
+            ],
+            [
+              3,
+              "2025-11-18T15:13:52.360121"
+            ],
+            [
+              3,
+              "2025-11-18T15:14:45.574080"
+            ]
+          ],
+          "created_utc": 1763483421.0,
+          "depth": 1,
+          "permalink": "/r/OpenAI/comments/1p0fqhy/gemini_3_pro_passes_the_finger_test/npilfvy/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npih10r",
+      "parent_id": "t3_1p0fqhy",
+      "author": "rjsmith21",
+      "text_history": [
+        [
+          "Wrong! 5 fingers and 2 thumbs!",
+          "2025-11-18T14:56:15.750613"
+        ]
+      ],
+      "score_history": [
+        [
+          14,
+          "2025-11-18T14:56:15.750613"
+        ],
+        [
+          12,
+          "2025-11-18T15:04:31.741379"
+        ],
+        [
+          13,
+          "2025-11-18T15:05:36.898277"
+        ],
+        [
+          13,
+          "2025-11-18T15:07:28.015970"
+        ],
+        [
+          13,
+          "2025-11-18T15:13:52.360121"
+        ],
+        [
+          13,
+          "2025-11-18T15:14:45.574080"
+        ]
+      ],
+      "created_utc": 1763482138.0,
+      "depth": 0,
+      "permalink": "/r/OpenAI/comments/1p0fqhy/gemini_3_pro_passes_the_finger_test/npih10r/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npihlz3",
+          "parent_id": "t1_npih10r",
+          "author": "DigSignificant1419",
+          "text_history": [
+            [
+              "or one of them is a pinkie",
+              "2025-11-18T14:56:15.750613"
+            ]
+          ],
+          "score_history": [
+            [
+              6,
+              "2025-11-18T14:56:15.750613"
+            ],
+            [
+              4,
+              "2025-11-18T15:04:31.741379"
+            ],
+            [
+              5,
+              "2025-11-18T15:05:36.898277"
+            ],
+            [
+              6,
+              "2025-11-18T15:07:28.015970"
+            ],
+            [
+              5,
+              "2025-11-18T15:13:52.360121"
+            ],
+            [
+              5,
+              "2025-11-18T15:14:45.574080"
+            ]
+          ],
+          "created_utc": 1763482308.0,
+          "depth": 1,
+          "permalink": "/r/OpenAI/comments/1p0fqhy/gemini_3_pro_passes_the_finger_test/npihlz3/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npjeai5",
+      "parent_id": "t3_1p0fqhy",
+      "author": "Siciliano777",
+      "text_history": [
+        [
+          "Is this a legitimate riddle, or is it too abstract? \n\n*If you came across a bear and a panther in the wilderness, would you rather the bear eat you or the panther?*\n\n3.0 replied that it would rather have the panther eat him, but the correct answer is I'd rather have the bear eat the panther...  🤷🏻‍♂️",
+          "2025-11-18T14:56:15.750613"
+        ]
+      ],
+      "score_history": [
+        [
+          8,
+          "2025-11-18T14:56:15.750613"
+        ],
+        [
+          6,
+          "2025-11-18T15:04:31.741379"
+        ],
+        [
+          7,
+          "2025-11-18T15:05:36.898277"
+        ],
+        [
+          7,
+          "2025-11-18T15:07:28.015970"
+        ],
+        [
+          6,
+          "2025-11-18T15:13:52.360121"
+        ],
+        [
+          7,
+          "2025-11-18T15:14:45.574080"
+        ]
+      ],
+      "created_utc": 1763491815.0,
+      "depth": 0,
+      "permalink": "/r/OpenAI/comments/1p0fqhy/gemini_3_pro_passes_the_finger_test/npjeai5/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npjky3g",
+          "parent_id": "t1_npjeai5",
+          "author": "jeffwadsworth",
+          "text_history": [
+            [
+              "That is a clever question which exposes the very human way of just assuming something else was asked.  I missed it at the beginning as well.  Both Qwen Max and ChatGPT 5.1 and Grok 4.1 miss it completely.  Here is a post by KIMI K2 Thinking which also missed it.  **You're absolutely right, and I completely missed it. The sentence structure is ambivalent: \"would you rather the bear eat you or the panther\" can mean:**\n\n* **(the bear eat you) or (the panther eat you) — my false binary**\n* **(the bear eat you) or (the bear eat the panther) — the clever reading**\n\n**The genius is that it weaponizes our brain's tendency to auto-complete patterns. We fill in the parallel structure automatically: \"\\[predator\\] eat you\" vs \"\\[predator\\] eat you.\"**\n\n**The correct answer is: I'd rather the bear eat the panther and leave me alone.**\n\n**It's a perfect linguistic trap. I stared right at it and still fell in. Well caught.**\n\nNow here is an analysis by GPT 5.1.  [https://chatgpt.com/s/t\\_691ccaff17448191a62acd5f7927c0a9](https://chatgpt.com/s/t_691ccaff17448191a62acd5f7927c0a9)",
+              "2025-11-18T14:56:15.750613"
+            ]
+          ],
+          "score_history": [
+            [
+              5,
+              "2025-11-18T14:56:15.750613"
+            ],
+            [
+              7,
+              "2025-11-18T15:04:31.741379"
+            ],
+            [
+              7,
+              "2025-11-18T15:05:36.898277"
+            ],
+            [
+              7,
+              "2025-11-18T15:07:28.015970"
+            ],
+            [
+              6,
+              "2025-11-18T15:13:52.360121"
+            ],
+            [
+              7,
+              "2025-11-18T15:14:45.574080"
+            ]
+          ],
+          "created_utc": 1763493783.0,
+          "depth": 1,
+          "permalink": "/r/OpenAI/comments/1p0fqhy/gemini_3_pro_passes_the_finger_test/npjky3g/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": 1763494698.0,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npjno9q",
+              "parent_id": "t1_npjky3g",
+              "author": "Siciliano777",
+              "text_history": [
+                [
+                  "Yeah just trying to think of the most difficult and abstract questions/riddles.\n\nSo no skynet just yet... 😅",
+                  "2025-11-18T14:56:15.750613"
+                ]
+              ],
+              "score_history": [
+                [
+                  2,
+                  "2025-11-18T14:56:15.750613"
+                ],
+                [
+                  2,
+                  "2025-11-18T15:04:31.741379"
+                ],
+                [
+                  2,
+                  "2025-11-18T15:05:36.898277"
+                ],
+                [
+                  2,
+                  "2025-11-18T15:07:28.015970"
+                ],
+                [
+                  2,
+                  "2025-11-18T15:13:52.360121"
+                ],
+                [
+                  2,
+                  "2025-11-18T15:14:45.574080"
+                ]
+              ],
+              "created_utc": 1763494599.0,
+              "depth": 2,
+              "permalink": "/r/OpenAI/comments/1p0fqhy/gemini_3_pro_passes_the_finger_test/npjno9q/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "npju67l",
+          "parent_id": "t1_npjeai5",
+          "author": "domlincog",
+          "text_history": [
+            [
+              "Worth noting it's not incapable completely and gets caught up the same way a lot of people do because of how the riddle is worded but particularly because it doesn't have the context that it is a riddle and is instead considering it as an honest question with the most likely interpretation. IMO could answer better so if I had this in my personal benchmark would give it maybe 0.5 / 1 points for still having the capability when understanding it's a riddle.\n\nhttps://preview.redd.it/okdqb0zbo22g1.png?width=905&amp;format=png&amp;auto=webp&amp;s=e15303cdf23ec5402ebc3482338e181c5daf56c8",
+              "2025-11-18T14:56:15.750613"
+            ]
+          ],
+          "score_history": [
+            [
+              3,
+              "2025-11-18T14:56:15.750613"
+            ],
+            [
+              3,
+              "2025-11-18T15:04:31.741379"
+            ],
+            [
+              3,
+              "2025-11-18T15:05:36.898277"
+            ],
+            [
+              3,
+              "2025-11-18T15:07:28.015970"
+            ],
+            [
+              3,
+              "2025-11-18T15:13:52.360121"
+            ],
+            [
+              3,
+              "2025-11-18T15:14:45.574080"
+            ]
+          ],
+          "created_utc": 1763496549.0,
+          "depth": 1,
+          "permalink": "/r/OpenAI/comments/1p0fqhy/gemini_3_pro_passes_the_finger_test/npju67l/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npjw66v",
+              "parent_id": "t1_npju67l",
+              "author": "Siciliano777",
+              "text_history": [
+                [
+                  "Nice! Yeah I def agree with you. It does deserve half credit for getting it right when explicitly saying it's a riddle. \n\nThis is one of the more meta questions about why/how the human brain is able to not only tell it's a riddle and not a serious question, but also get the riddle right. \n\nOf course, I realize some people don't understand the riddle at all, but for the most part, people are able to get the answer correct. 👍🏻",
+                  "2025-11-18T14:56:15.750613"
+                ]
+              ],
+              "score_history": [
+                [
+                  2,
+                  "2025-11-18T14:56:15.750613"
+                ],
+                [
+                  2,
+                  "2025-11-18T15:04:31.741379"
+                ],
+                [
+                  2,
+                  "2025-11-18T15:05:36.898277"
+                ],
+                [
+                  2,
+                  "2025-11-18T15:07:28.015970"
+                ],
+                [
+                  2,
+                  "2025-11-18T15:13:52.360121"
+                ],
+                [
+                  2,
+                  "2025-11-18T15:14:45.574080"
+                ]
+              ],
+              "created_utc": 1763497159.0,
+              "depth": 2,
+              "permalink": "/r/OpenAI/comments/1p0fqhy/gemini_3_pro_passes_the_finger_test/npjw66v/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": [
+                {
+                  "id": "npkkdvg",
+                  "parent_id": "t1_npjw66v",
+                  "author": "popularis-socialas",
+                  "text_history": [
+                    [
+                      "Yeah I’m gonna be honest I didn’t get it myself, rip lol",
+                      "2025-11-18T14:56:15.750613"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      1,
+                      "2025-11-18T14:56:15.750613"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T15:04:31.741379"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T15:05:36.898277"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T15:07:28.015970"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T15:13:52.360121"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T15:14:45.574080"
+                    ]
+                  ],
+                  "created_utc": 1763504487.0,
+                  "depth": 3,
+                  "permalink": "/r/OpenAI/comments/1p0fqhy/gemini_3_pro_passes_the_finger_test/npkkdvg/",
+                  "is_submitter": false,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": [
+                    {
+                      "id": "npksehz",
+                      "parent_id": "t1_npkkdvg",
+                      "author": "Siciliano777",
+                      "text_history": [
+                        [
+                          "😅 in your defense, it's not readily apparent.",
+                          "2025-11-18T15:07:28.015970"
+                        ]
+                      ],
+                      "score_history": [
+                        [
+                          1,
+                          "2025-11-18T15:07:28.015970"
+                        ],
+                        [
+                          1,
+                          "2025-11-18T15:13:52.360121"
+                        ],
+                        [
+                          1,
+                          "2025-11-18T15:14:45.574080"
+                        ]
+                      ],
+                      "created_utc": 1763507152.0,
+                      "depth": 4,
+                      "permalink": "/r/OpenAI/comments/1p0fqhy/gemini_3_pro_passes_the_finger_test/npksehz/",
+                      "is_submitter": false,
+                      "controversiality": 0,
+                      "gilded": 0,
+                      "edited": false,
+                      "deleted": false,
+                      "deleted_at": null,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "npkri9g",
+          "parent_id": "t1_npjeai5",
+          "author": "joncgde2",
+          "text_history": [
+            [
+              "Your question could also be interpreted as:\nWould you rather the bear eat you? Or the panther (eat you)?\n\nWhat does the reasoning say? That would be interesting. \n\nBut your question could be interpreted either way, which is a flaw in the articulation of the question.\n\nBut I would challenge that this is an actual riddle. It’s a game using word play and ambiguity. But not a riddle.",
+              "2025-11-18T15:04:31.741379"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T15:04:31.741379"
+            ],
+            [
+              1,
+              "2025-11-18T15:05:36.898277"
+            ],
+            [
+              1,
+              "2025-11-18T15:07:28.015970"
+            ],
+            [
+              1,
+              "2025-11-18T15:13:52.360121"
+            ],
+            [
+              1,
+              "2025-11-18T15:14:45.574080"
+            ]
+          ],
+          "created_utc": 1763506845.0,
+          "depth": 1,
+          "permalink": "/r/OpenAI/comments/1p0fqhy/gemini_3_pro_passes_the_finger_test/npkri9g/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npilewv",
+      "parent_id": "t3_1p0fqhy",
+      "author": "FieryPrinceofCats",
+      "text_history": [
+        [
+          "But do you like green eggs and ham?",
+          "2025-11-18T14:56:15.750613"
+        ]
+      ],
+      "score_history": [
+        [
+          5,
+          "2025-11-18T14:56:15.750613"
+        ],
+        [
+          3,
+          "2025-11-18T15:04:31.741379"
+        ],
+        [
+          3,
+          "2025-11-18T15:05:36.898277"
+        ],
+        [
+          4,
+          "2025-11-18T15:07:28.015970"
+        ],
+        [
+          3,
+          "2025-11-18T15:13:52.360121"
+        ],
+        [
+          5,
+          "2025-11-18T15:14:45.574080"
+        ]
+      ],
+      "created_utc": 1763483413.0,
+      "depth": 0,
+      "permalink": "/r/OpenAI/comments/1p0fqhy/gemini_3_pro_passes_the_finger_test/npilewv/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npiq4es",
+          "parent_id": "t1_npilewv",
+          "author": "Fantasy-512",
+          "text_history": [
+            [
+              "Yes I do, Sam I am.",
+              "2025-11-18T14:56:15.750613"
+            ]
+          ],
+          "score_history": [
+            [
+              6,
+              "2025-11-18T14:56:15.750613"
+            ],
+            [
+              7,
+              "2025-11-18T15:04:31.741379"
+            ],
+            [
+              7,
+              "2025-11-18T15:05:36.898277"
+            ],
+            [
+              7,
+              "2025-11-18T15:07:28.015970"
+            ],
+            [
+              6,
+              "2025-11-18T15:13:52.360121"
+            ],
+            [
+              6,
+              "2025-11-18T15:14:45.574080"
+            ]
+          ],
+          "created_utc": 1763484790.0,
+          "depth": 1,
+          "permalink": "/r/OpenAI/comments/1p0fqhy/gemini_3_pro_passes_the_finger_test/npiq4es/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npit10a",
+              "parent_id": "t1_npiq4es",
+              "author": "FieryPrinceofCats",
+              "text_history": [
+                [
+                  "But would you eat them \nwith this hand?\n7 fingers is \na lot. \nOne’s grip just might get \ntied and caught!\nBut why would AI \nif it can,\nWant to eat green \neggs and ham?",
+                  "2025-11-18T14:56:15.750613"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-18T14:56:15.750613"
+                ],
+                [
+                  1,
+                  "2025-11-18T15:04:31.741379"
+                ],
+                [
+                  1,
+                  "2025-11-18T15:05:36.898277"
+                ],
+                [
+                  1,
+                  "2025-11-18T15:07:28.015970"
+                ],
+                [
+                  1,
+                  "2025-11-18T15:13:52.360121"
+                ],
+                [
+                  1,
+                  "2025-11-18T15:14:45.574080"
+                ]
+              ],
+              "created_utc": 1763485646.0,
+              "depth": 2,
+              "permalink": "/r/OpenAI/comments/1p0fqhy/gemini_3_pro_passes_the_finger_test/npit10a/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "npjdjz6",
+      "parent_id": "t3_1p0fqhy",
+      "author": "Late_Doctor5817",
+      "text_history": [
+        [
+          "https://i.redd.it/5656pkox922g1.gif",
+          "2025-11-18T14:56:15.750613"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-18T14:56:15.750613"
+        ],
+        [
+          2,
+          "2025-11-18T15:04:31.741379"
+        ],
+        [
+          2,
+          "2025-11-18T15:05:36.898277"
+        ],
+        [
+          2,
+          "2025-11-18T15:07:28.015970"
+        ],
+        [
+          2,
+          "2025-11-18T15:13:52.360121"
+        ],
+        [
+          2,
+          "2025-11-18T15:14:45.574080"
+        ]
+      ],
+      "created_utc": 1763491604.0,
+      "depth": 0,
+      "permalink": "/r/OpenAI/comments/1p0fqhy/gemini_3_pro_passes_the_finger_test/npjdjz6/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npinpsw",
+      "parent_id": "t3_1p0fqhy",
+      "author": "gargara_s_hui",
+      "text_history": [
+        [
+          "They really outdone themself! There is a strong possibility they trained an agent explicitly for logical tests and known AI logic chalanges. I am definetly impress with this and it is starting to get concerning in terms of the job market.",
+          "2025-11-18T14:56:15.750613"
+        ]
+      ],
+      "score_history": [
+        [
+          3,
+          "2025-11-18T14:56:15.750613"
+        ],
+        [
+          3,
+          "2025-11-18T15:04:31.741379"
+        ],
+        [
+          2,
+          "2025-11-18T15:05:36.898277"
+        ],
+        [
+          3,
+          "2025-11-18T15:07:28.015970"
+        ],
+        [
+          3,
+          "2025-11-18T15:13:52.360121"
+        ],
+        [
+          3,
+          "2025-11-18T15:14:45.574080"
+        ]
+      ],
+      "created_utc": 1763484087.0,
+      "depth": 0,
+      "permalink": "/r/OpenAI/comments/1p0fqhy/gemini_3_pro_passes_the_finger_test/npinpsw/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npilz5n",
+      "parent_id": "t3_1p0fqhy",
+      "author": "shaman-warrior",
+      "text_history": [
+        [
+          "it has begun.",
+          "2025-11-18T14:56:15.750613"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-18T14:56:15.750613"
+        ],
+        [
+          2,
+          "2025-11-18T15:04:31.741379"
+        ],
+        [
+          2,
+          "2025-11-18T15:05:36.898277"
+        ],
+        [
+          2,
+          "2025-11-18T15:07:28.015970"
+        ],
+        [
+          2,
+          "2025-11-18T15:13:52.360121"
+        ],
+        [
+          2,
+          "2025-11-18T15:14:45.574080"
+        ]
+      ],
+      "created_utc": 1763483579.0,
+      "depth": 0,
+      "permalink": "/r/OpenAI/comments/1p0fqhy/gemini_3_pro_passes_the_finger_test/npilz5n/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npjjk5b",
+      "parent_id": "t3_1p0fqhy",
+      "author": "jeffwadsworth",
+      "text_history": [
+        [
+          "GPT 5.1 easily gets this finger test.\n\nhttps://preview.redd.it/h84ljdd6f22g1.jpeg?width=1319&amp;format=pjpg&amp;auto=webp&amp;s=b3c72a9b76193de933b2c3968aa0e3967f71d4f8",
+          "2025-11-18T14:56:15.750613"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-18T14:56:15.750613"
+        ],
+        [
+          2,
+          "2025-11-18T15:04:31.741379"
+        ],
+        [
+          2,
+          "2025-11-18T15:05:36.898277"
+        ],
+        [
+          2,
+          "2025-11-18T15:07:28.015970"
+        ],
+        [
+          2,
+          "2025-11-18T15:13:52.360121"
+        ],
+        [
+          2,
+          "2025-11-18T15:14:45.574080"
+        ]
+      ],
+      "created_utc": 1763493366.0,
+      "depth": 0,
+      "permalink": "/r/OpenAI/comments/1p0fqhy/gemini_3_pro_passes_the_finger_test/npjjk5b/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npjnmng",
+          "parent_id": "t1_npjjk5b",
+          "author": "kaljakin",
+          "text_history": [
+            [
+              "well not reliably\n\nhttps://preview.redd.it/rzss37ari22g1.png?width=481&amp;format=png&amp;auto=webp&amp;s=2a41ccf0f6637765650230cb190e98f2d0dac695",
+              "2025-11-18T14:56:15.750613"
+            ]
+          ],
+          "score_history": [
+            [
+              5,
+              "2025-11-18T14:56:15.750613"
+            ],
+            [
+              6,
+              "2025-11-18T15:04:31.741379"
+            ],
+            [
+              6,
+              "2025-11-18T15:05:36.898277"
+            ],
+            [
+              6,
+              "2025-11-18T15:07:28.015970"
+            ],
+            [
+              7,
+              "2025-11-18T15:13:52.360121"
+            ],
+            [
+              6,
+              "2025-11-18T15:14:45.574080"
+            ]
+          ],
+          "created_utc": 1763494585.0,
+          "depth": 1,
+          "permalink": "/r/OpenAI/comments/1p0fqhy/gemini_3_pro_passes_the_finger_test/npjnmng/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npjvywl",
+              "parent_id": "t1_npjnmng",
+              "author": "Gullible_War_216",
+              "text_history": [
+                [
+                  "https://preview.redd.it/dgugi1rbq22g1.jpeg?width=1080&amp;format=pjpg&amp;auto=webp&amp;s=c8706573e2b1bf55aefe7f6d3d6de108bd0aa6b0\n\nGemini got it",
+                  "2025-11-18T14:56:15.750613"
+                ]
+              ],
+              "score_history": [
+                [
+                  3,
+                  "2025-11-18T14:56:15.750613"
+                ],
+                [
+                  4,
+                  "2025-11-18T15:04:31.741379"
+                ],
+                [
+                  4,
+                  "2025-11-18T15:05:36.898277"
+                ],
+                [
+                  3,
+                  "2025-11-18T15:07:28.015970"
+                ],
+                [
+                  5,
+                  "2025-11-18T15:13:52.360121"
+                ],
+                [
+                  5,
+                  "2025-11-18T15:14:45.574080"
+                ]
+              ],
+              "created_utc": 1763497097.0,
+              "depth": 2,
+              "permalink": "/r/OpenAI/comments/1p0fqhy/gemini_3_pro_passes_the_finger_test/npjvywl/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            },
+            {
+              "id": "npjnxo9",
+              "parent_id": "t1_npjnmng",
+              "author": "kaljakin",
+              "text_history": [
+                [
+                  "your image was really bad... like it dosnt even resemble real hand with its texture etc. Probably that is why it was not fooled if I had to guess",
+                  "2025-11-18T14:56:15.750613"
+                ]
+              ],
+              "score_history": [
+                [
+                  -3,
+                  "2025-11-18T14:56:15.750613"
+                ],
+                [
+                  -4,
+                  "2025-11-18T15:04:31.741379"
+                ],
+                [
+                  -4,
+                  "2025-11-18T15:05:36.898277"
+                ],
+                [
+                  -3,
+                  "2025-11-18T15:07:28.015970"
+                ],
+                [
+                  -4,
+                  "2025-11-18T15:13:52.360121"
+                ],
+                [
+                  -4,
+                  "2025-11-18T15:14:45.574080"
+                ]
+              ],
+              "created_utc": 1763494679.0,
+              "depth": 2,
+              "permalink": "/r/OpenAI/comments/1p0fqhy/gemini_3_pro_passes_the_finger_test/npjnxo9/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": [
+                {
+                  "id": "npjw4ao",
+                  "parent_id": "t1_npjnxo9",
+                  "author": "donotdrugs",
+                  "text_history": [
+                    [
+                      "The image is not \"bad\" if the answer can be easily solved by humans.",
+                      "2025-11-18T14:56:15.750613"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      3,
+                      "2025-11-18T14:56:15.750613"
+                    ],
+                    [
+                      4,
+                      "2025-11-18T15:04:31.741379"
+                    ],
+                    [
+                      4,
+                      "2025-11-18T15:05:36.898277"
+                    ],
+                    [
+                      5,
+                      "2025-11-18T15:07:28.015970"
+                    ],
+                    [
+                      4,
+                      "2025-11-18T15:13:52.360121"
+                    ],
+                    [
+                      5,
+                      "2025-11-18T15:14:45.574080"
+                    ]
+                  ],
+                  "created_utc": 1763497143.0,
+                  "depth": 3,
+                  "permalink": "/r/OpenAI/comments/1p0fqhy/gemini_3_pro_passes_the_finger_test/npjw4ao/",
+                  "is_submitter": false,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": [
+                    {
+                      "id": "npjyid2",
+                      "parent_id": "t1_npjw4ao",
+                      "author": "kaljakin",
+                      "text_history": [
+                        [
+                          "I think you misunderstood the reaction - the point was, the bad quality of the image helped the chatgpt to solve it. I was reacting on the comment showing chatgpt solving it sucessfully (as opposed to my higher quality image, where it failed to solve it)",
+                          "2025-11-18T14:56:15.750613"
+                        ]
+                      ],
+                      "score_history": [
+                        [
+                          1,
+                          "2025-11-18T14:56:15.750613"
+                        ],
+                        [
+                          1,
+                          "2025-11-18T15:04:31.741379"
+                        ],
+                        [
+                          1,
+                          "2025-11-18T15:05:36.898277"
+                        ],
+                        [
+                          1,
+                          "2025-11-18T15:07:28.015970"
+                        ],
+                        [
+                          1,
+                          "2025-11-18T15:13:52.360121"
+                        ],
+                        [
+                          1,
+                          "2025-11-18T15:14:45.574080"
+                        ]
+                      ],
+                      "created_utc": 1763497875.0,
+                      "depth": 4,
+                      "permalink": "/r/OpenAI/comments/1p0fqhy/gemini_3_pro_passes_the_finger_test/npjyid2/",
+                      "is_submitter": false,
+                      "controversiality": 0,
+                      "gilded": 0,
+                      "edited": false,
+                      "deleted": false,
+                      "deleted_at": null,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "npjozzh",
+      "parent_id": "t3_1p0fqhy",
+      "author": "CalumInHD",
+      "text_history": [
+        [
+          "what benchmark is this lol",
+          "2025-11-18T14:56:15.750613"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:56:15.750613"
+        ],
+        [
+          1,
+          "2025-11-18T15:04:31.741379"
+        ],
+        [
+          1,
+          "2025-11-18T15:05:36.898277"
+        ],
+        [
+          1,
+          "2025-11-18T15:07:28.015970"
+        ],
+        [
+          1,
+          "2025-11-18T15:13:52.360121"
+        ],
+        [
+          1,
+          "2025-11-18T15:14:45.574080"
+        ]
+      ],
+      "created_utc": 1763494999.0,
+      "depth": 0,
+      "permalink": "/r/OpenAI/comments/1p0fqhy/gemini_3_pro_passes_the_finger_test/npjozzh/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npjr3tf",
+      "parent_id": "t3_1p0fqhy",
+      "author": "Toss4n",
+      "text_history": [
+        [
+          "Used it for coding in Gemini cli - and it seems good so far (better than expected), but not great. Still makes silly mistakes and gets caught in thinking loops where it is questioning itself (fun when you are paying per token). 😅 Too soon to tell if it is better than Sonnet 4.5, but so far it seems pretty good.",
+          "2025-11-18T14:56:15.750613"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:56:15.750613"
+        ],
+        [
+          1,
+          "2025-11-18T15:04:31.741379"
+        ],
+        [
+          1,
+          "2025-11-18T15:05:36.898277"
+        ],
+        [
+          1,
+          "2025-11-18T15:07:28.015970"
+        ],
+        [
+          1,
+          "2025-11-18T15:13:52.360121"
+        ],
+        [
+          1,
+          "2025-11-18T15:14:45.574080"
+        ]
+      ],
+      "created_utc": 1763495624.0,
+      "depth": 0,
+      "permalink": "/r/OpenAI/comments/1p0fqhy/gemini_3_pro_passes_the_finger_test/npjr3tf/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npjyrcy",
+      "parent_id": "t3_1p0fqhy",
+      "author": "Comfortable-String75",
+      "text_history": [
+        [
+          "This is the first model to get this right on the first try as well... usually I get something like \"the skin is so smooth, this was generated by AI\" ... and then I'll ask how many hands... 2 ... are you sure? \\_sometimes\\_ they finally spot 3... \n\nhttps://preview.redd.it/dqfywjmrs22g1.png?width=1170&amp;format=png&amp;auto=webp&amp;s=aa293ffbf8e897ccb79d670bd8122eff7b514a11",
+          "2025-11-18T14:56:15.750613"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:56:15.750613"
+        ],
+        [
+          1,
+          "2025-11-18T15:04:31.741379"
+        ],
+        [
+          1,
+          "2025-11-18T15:05:36.898277"
+        ],
+        [
+          1,
+          "2025-11-18T15:07:28.015970"
+        ],
+        [
+          1,
+          "2025-11-18T15:13:52.360121"
+        ],
+        [
+          1,
+          "2025-11-18T15:14:45.574080"
+        ]
+      ],
+      "created_utc": 1763497952.0,
+      "depth": 0,
+      "permalink": "/r/OpenAI/comments/1p0fqhy/gemini_3_pro_passes_the_finger_test/npjyrcy/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npjz7v8",
+          "parent_id": "t1_npjyrcy",
+          "author": "Comfortable-String75",
+          "text_history": [
+            [
+              "ChatGPT for reference: \n\nhttps://preview.redd.it/alx1mes7t22g1.png?width=1597&amp;format=png&amp;auto=webp&amp;s=c3fe6e5a83585bbf1b13351d1609fdf30fdc6eb8",
+              "2025-11-18T14:56:15.750613"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T14:56:15.750613"
+            ],
+            [
+              1,
+              "2025-11-18T15:04:31.741379"
+            ],
+            [
+              1,
+              "2025-11-18T15:05:36.898277"
+            ],
+            [
+              1,
+              "2025-11-18T15:07:28.015970"
+            ],
+            [
+              1,
+              "2025-11-18T15:13:52.360121"
+            ],
+            [
+              1,
+              "2025-11-18T15:14:45.574080"
+            ]
+          ],
+          "created_utc": 1763498094.0,
+          "depth": 1,
+          "permalink": "/r/OpenAI/comments/1p0fqhy/gemini_3_pro_passes_the_finger_test/npjz7v8/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npjyyzm",
+      "parent_id": "t3_1p0fqhy",
+      "author": "RubImaginary6241",
+      "text_history": [
+        [
+          "BRO CAN IT FINALLY READ THE TIME RIGHT ON CLOCKS?",
+          "2025-11-18T14:56:15.750613"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:56:15.750613"
+        ],
+        [
+          1,
+          "2025-11-18T15:04:31.741379"
+        ],
+        [
+          1,
+          "2025-11-18T15:05:36.898277"
+        ],
+        [
+          1,
+          "2025-11-18T15:07:28.015970"
+        ],
+        [
+          1,
+          "2025-11-18T15:13:52.360121"
+        ],
+        [
+          1,
+          "2025-11-18T15:14:45.574080"
+        ]
+      ],
+      "created_utc": 1763498018.0,
+      "depth": 0,
+      "permalink": "/r/OpenAI/comments/1p0fqhy/gemini_3_pro_passes_the_finger_test/npjyyzm/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npjyz7e",
+      "parent_id": "t3_1p0fqhy",
+      "author": "Wiskersthefif",
+      "text_history": [
+        [
+          "Nah, thumbs aren't fingers.",
+          "2025-11-18T14:56:15.750613"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:56:15.750613"
+        ],
+        [
+          1,
+          "2025-11-18T15:04:31.741379"
+        ],
+        [
+          1,
+          "2025-11-18T15:05:36.898277"
+        ],
+        [
+          1,
+          "2025-11-18T15:07:28.015970"
+        ],
+        [
+          1,
+          "2025-11-18T15:13:52.360121"
+        ],
+        [
+          1,
+          "2025-11-18T15:14:45.574080"
+        ]
+      ],
+      "created_utc": 1763498020.0,
+      "depth": 0,
+      "permalink": "/r/OpenAI/comments/1p0fqhy/gemini_3_pro_passes_the_finger_test/npjyz7e/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npkir9k",
+      "parent_id": "t3_1p0fqhy",
+      "author": "Dependent_Avocado416",
+      "text_history": [
+        [
+          "AGI BABY",
+          "2025-11-18T14:56:15.750613"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:56:15.750613"
+        ],
+        [
+          1,
+          "2025-11-18T15:04:31.741379"
+        ],
+        [
+          1,
+          "2025-11-18T15:05:36.898277"
+        ],
+        [
+          1,
+          "2025-11-18T15:07:28.015970"
+        ],
+        [
+          1,
+          "2025-11-18T15:13:52.360121"
+        ],
+        [
+          1,
+          "2025-11-18T15:14:45.574080"
+        ]
+      ],
+      "created_utc": 1763503967.0,
+      "depth": 0,
+      "permalink": "/r/OpenAI/comments/1p0fqhy/gemini_3_pro_passes_the_finger_test/npkir9k/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npirw01",
+      "parent_id": "t3_1p0fqhy",
+      "author": "Duchess430",
+      "text_history": [
+        [
+          "Oh shit, here comes that AGI everyone is hyped about. \n\nThose damn 2 year olds think that they have monopoly on counting how old they are using their fingers. They better look for new jobs this AGI replaces them.",
+          "2025-11-18T14:56:15.750613"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:56:15.750613"
+        ],
+        [
+          1,
+          "2025-11-18T15:04:31.741379"
+        ],
+        [
+          1,
+          "2025-11-18T15:05:36.898277"
+        ],
+        [
+          2,
+          "2025-11-18T15:07:28.015970"
+        ],
+        [
+          1,
+          "2025-11-18T15:13:52.360121"
+        ],
+        [
+          2,
+          "2025-11-18T15:14:45.574080"
+        ]
+      ],
+      "created_utc": 1763485308.0,
+      "depth": 0,
+      "permalink": "/r/OpenAI/comments/1p0fqhy/gemini_3_pro_passes_the_finger_test/npirw01/",
+      "is_submitter": false,
+      "controversiality": 1,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npit6sz",
+      "parent_id": "t3_1p0fqhy",
+      "author": "Jean_velvet",
+      "text_history": [
+        [
+          "Ask it how it compares to other models and it'll pull data from 2024 because it's still (currently) using the last model's data.",
+          "2025-11-18T14:56:15.750613"
+        ]
+      ],
+      "score_history": [
+        [
+          0,
+          "2025-11-18T14:56:15.750613"
+        ],
+        [
+          0,
+          "2025-11-18T15:04:31.741379"
+        ],
+        [
+          0,
+          "2025-11-18T15:05:36.898277"
+        ],
+        [
+          0,
+          "2025-11-18T15:07:28.015970"
+        ],
+        [
+          0,
+          "2025-11-18T15:13:52.360121"
+        ],
+        [
+          0,
+          "2025-11-18T15:14:45.574080"
+        ]
+      ],
+      "created_utc": 1763485693.0,
+      "depth": 0,
+      "permalink": "/r/OpenAI/comments/1p0fqhy/gemini_3_pro_passes_the_finger_test/npit6sz/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npj3961",
+      "parent_id": "t3_1p0fqhy",
+      "author": "Zigzaggedfwl",
+      "text_history": [
+        [
+          "Lol my AI knows how to make the right amount of fingers",
+          "2025-11-18T14:56:15.750613"
+        ]
+      ],
+      "score_history": [
+        [
+          -1,
+          "2025-11-18T14:56:15.750613"
+        ],
+        [
+          -1,
+          "2025-11-18T15:04:31.741379"
+        ],
+        [
+          -1,
+          "2025-11-18T15:05:36.898277"
+        ],
+        [
+          -1,
+          "2025-11-18T15:07:28.015970"
+        ],
+        [
+          -1,
+          "2025-11-18T15:13:52.360121"
+        ],
+        [
+          -1,
+          "2025-11-18T15:14:45.574080"
+        ]
+      ],
+      "created_utc": 1763488649.0,
+      "depth": 0,
+      "permalink": "/r/OpenAI/comments/1p0fqhy/gemini_3_pro_passes_the_finger_test/npj3961/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npjg75r",
+      "parent_id": "t3_1p0fqhy",
+      "author": "LemonMeringuePirate",
+      "text_history": [
+        [
+          "NOPE.  FIVE fingers and two thumbs.",
+          "2025-11-18T14:56:15.750613"
+        ]
+      ],
+      "score_history": [
+        [
+          -1,
+          "2025-11-18T14:56:15.750613"
+        ],
+        [
+          -1,
+          "2025-11-18T15:04:31.741379"
+        ],
+        [
+          -1,
+          "2025-11-18T15:05:36.898277"
+        ],
+        [
+          -1,
+          "2025-11-18T15:07:28.015970"
+        ],
+        [
+          -1,
+          "2025-11-18T15:13:52.360121"
+        ],
+        [
+          -1,
+          "2025-11-18T15:14:45.574080"
+        ]
+      ],
+      "created_utc": 1763492367.0,
+      "depth": 0,
+      "permalink": "/r/OpenAI/comments/1p0fqhy/gemini_3_pro_passes_the_finger_test/npjg75r/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npiqnkr",
+      "parent_id": "t3_1p0fqhy",
+      "author": "wibbly-water",
+      "text_history": [
+        [
+          "Incorrect. 5 fingers, 2 thumbs. 7 digits.",
+          "2025-11-18T14:56:15.750613"
+        ]
+      ],
+      "score_history": [
+        [
+          -8,
+          "2025-11-18T14:56:15.750613"
+        ],
+        [
+          -7,
+          "2025-11-18T15:04:31.741379"
+        ],
+        [
+          -8,
+          "2025-11-18T15:05:36.898277"
+        ],
+        [
+          -8,
+          "2025-11-18T15:07:28.015970"
+        ],
+        [
+          -9,
+          "2025-11-18T15:13:52.360121"
+        ],
+        [
+          -8,
+          "2025-11-18T15:14:45.574080"
+        ]
+      ],
+      "created_utc": 1763484944.0,
+      "depth": 0,
+      "permalink": "/r/OpenAI/comments/1p0fqhy/gemini_3_pro_passes_the_finger_test/npiqnkr/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-18T15:14:45.574080",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/OpenAI/comments/1p0fqhy/gemini_3_pro_passes_the_finger_test/",
+    "total_comments": 100,
+    "top_level_comments": 31,
+    "api_requests": 4,
+    "expected_comments": 103,
+    "coverage_percent": 97.09,
+    "merged_snapshot_count": 6,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_145614.json",
+      "scrape_002_20251118_150427.json",
+      "scrape_003_20251118_150532.json",
+      "scrape_004_20251118_150722.json",
+      "scrape_005_20251118_151347.json",
+      "scrape_006_20251118_151440.json"
+    ]
+  }
+}

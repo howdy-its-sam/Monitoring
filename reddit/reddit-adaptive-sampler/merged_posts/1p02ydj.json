@@ -1,0 +1,1504 @@
+{
+  "post": {
+    "id": "1p02ydj",
+    "title": "This isn't surprising at all",
+    "author": "sibraan_",
+    "score_history": [
+      [
+        231,
+        "2025-11-18T12:51:44.692847"
+      ],
+      [
+        237,
+        "2025-11-18T13:04:00.338778"
+      ],
+      [
+        237,
+        "2025-11-18T13:15:53.975552"
+      ],
+      [
+        241,
+        "2025-11-18T13:46:28.709584"
+      ],
+      [
+        244,
+        "2025-11-18T13:49:29.196121"
+      ],
+      [
+        245,
+        "2025-11-18T13:59:20.085012"
+      ],
+      [
+        248,
+        "2025-11-18T14:10:38.585547"
+      ]
+    ],
+    "created_utc": 1763441303.0,
+    "num_comments": 28,
+    "subreddit": "AgentsOfAI",
+    "url": "https://i.redd.it/38zus1qb4y1g1.png",
+    "selftext": "",
+    "permalink": "/r/AgentsOfAI/comments/1p02ydj/this_isnt_surprising_at_all/"
+  },
+  "comments": [
+    {
+      "id": "npg7hik",
+      "parent_id": "t3_1p02ydj",
+      "author": "hernondo",
+      "text_history": [
+        [
+          "Surprised Pikachu.",
+          "2025-11-18T12:51:44.692847"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-18T12:51:44.692847"
+        ],
+        [
+          2,
+          "2025-11-18T13:04:00.338778"
+        ],
+        [
+          2,
+          "2025-11-18T13:15:53.975552"
+        ],
+        [
+          2,
+          "2025-11-18T13:46:28.709584"
+        ],
+        [
+          2,
+          "2025-11-18T13:49:29.196121"
+        ],
+        [
+          2,
+          "2025-11-18T13:59:20.085012"
+        ],
+        [
+          2,
+          "2025-11-18T14:10:38.585547"
+        ]
+      ],
+      "created_utc": 1763445611.0,
+      "depth": 0,
+      "permalink": "/r/AgentsOfAI/comments/1p02ydj/this_isnt_surprising_at_all/npg7hik/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npgax0d",
+      "parent_id": "t3_1p02ydj",
+      "author": "Swimming_Drink_6890",
+      "text_history": [
+        [
+          "Sounds like cope",
+          "2025-11-18T12:51:44.692847"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-18T12:51:44.692847"
+        ],
+        [
+          2,
+          "2025-11-18T13:04:00.338778"
+        ],
+        [
+          2,
+          "2025-11-18T13:15:53.975552"
+        ],
+        [
+          2,
+          "2025-11-18T13:46:28.709584"
+        ],
+        [
+          2,
+          "2025-11-18T13:49:29.196121"
+        ],
+        [
+          2,
+          "2025-11-18T13:59:20.085012"
+        ],
+        [
+          2,
+          "2025-11-18T14:10:38.585547"
+        ]
+      ],
+      "created_utc": 1763447461.0,
+      "depth": 0,
+      "permalink": "/r/AgentsOfAI/comments/1p02ydj/this_isnt_surprising_at_all/npgax0d/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nphehni",
+      "parent_id": "t3_1p02ydj",
+      "author": "ottwebdev",
+      "text_history": [
+        [
+          "To be honest, this is how tech works as the level of abstraction always goes up.\n\nI work day to day in one stack.\n\nBut I learned C++ before that.\nC before that.\nAssembly before that.\n\nI dont work at all in assembly but that doesnt mean Ive decayed.",
+          "2025-11-18T12:51:44.692847"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-18T12:51:44.692847"
+        ],
+        [
+          2,
+          "2025-11-18T13:04:00.338778"
+        ],
+        [
+          2,
+          "2025-11-18T13:15:53.975552"
+        ],
+        [
+          2,
+          "2025-11-18T13:46:28.709584"
+        ],
+        [
+          2,
+          "2025-11-18T13:49:29.196121"
+        ],
+        [
+          2,
+          "2025-11-18T13:59:20.085012"
+        ],
+        [
+          2,
+          "2025-11-18T14:10:38.585547"
+        ]
+      ],
+      "created_utc": 1763469722.0,
+      "depth": 0,
+      "permalink": "/r/AgentsOfAI/comments/1p02ydj/this_isnt_surprising_at_all/nphehni/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "nphg6kg",
+          "parent_id": "t1_nphehni",
+          "author": "Respaced",
+          "text_history": [
+            [
+              "Yes. But you need to solve the problems yourself at the  abstraction level you are at.\nIf someone or something solves it for you, you won’t internalize it.  That is just how our brains work.",
+              "2025-11-18T12:51:44.692847"
+            ]
+          ],
+          "score_history": [
+            [
+              2,
+              "2025-11-18T12:51:44.692847"
+            ],
+            [
+              2,
+              "2025-11-18T13:04:00.338778"
+            ],
+            [
+              2,
+              "2025-11-18T13:15:53.975552"
+            ],
+            [
+              2,
+              "2025-11-18T13:46:28.709584"
+            ],
+            [
+              2,
+              "2025-11-18T13:49:29.196121"
+            ],
+            [
+              2,
+              "2025-11-18T13:59:20.085012"
+            ],
+            [
+              2,
+              "2025-11-18T14:10:38.585547"
+            ]
+          ],
+          "created_utc": 1763470384.0,
+          "depth": 1,
+          "permalink": "/r/AgentsOfAI/comments/1p02ydj/this_isnt_surprising_at_all/nphg6kg/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": 1763476330.0,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "nphv9u6",
+              "parent_id": "t1_nphg6kg",
+              "author": "Lazy-Pattern-5171",
+              "text_history": [
+                [
+                  "And more importantly no one will pay you to internalize it anymore",
+                  "2025-11-18T12:51:44.692847"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-18T12:51:44.692847"
+                ],
+                [
+                  1,
+                  "2025-11-18T13:04:00.338778"
+                ],
+                [
+                  1,
+                  "2025-11-18T13:15:53.975552"
+                ],
+                [
+                  1,
+                  "2025-11-18T13:46:28.709584"
+                ],
+                [
+                  1,
+                  "2025-11-18T13:49:29.196121"
+                ],
+                [
+                  1,
+                  "2025-11-18T13:59:20.085012"
+                ],
+                [
+                  1,
+                  "2025-11-18T14:10:38.585547"
+                ]
+              ],
+              "created_utc": 1763475468.0,
+              "depth": 2,
+              "permalink": "/r/AgentsOfAI/comments/1p02ydj/this_isnt_surprising_at_all/nphv9u6/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": [
+                {
+                  "id": "nphy3i8",
+                  "parent_id": "t1_nphv9u6",
+                  "author": "Respaced",
+                  "text_history": [
+                    [
+                      "At that point you are out of a job, or soon will be. Or it will be a different kind of job altogether.",
+                      "2025-11-18T12:51:44.692847"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      1,
+                      "2025-11-18T12:51:44.692847"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T13:04:00.338778"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T13:15:53.975552"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T13:46:28.709584"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T13:49:29.196121"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T13:59:20.085012"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T14:10:38.585547"
+                    ]
+                  ],
+                  "created_utc": 1763476354.0,
+                  "depth": 3,
+                  "permalink": "/r/AgentsOfAI/comments/1p02ydj/this_isnt_surprising_at_all/nphy3i8/",
+                  "is_submitter": false,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "npg0ja7",
+      "parent_id": "t3_1p02ydj",
+      "author": "jointheredditarmy",
+      "text_history": [
+        [
+          "That investor is about to lose a lot of money lol. I’m sorry but that’s just complete horseshit. Principal and staff engineers already don’t write a lot of code, and yet they make architectural decisions… how can that be? Maybe architecture is a separate skill from typing and AI got rid of the typing part to allow the architecture part to really shine through.\n\nAlso, 99% of startups are application layer companies, the most important skill is listening to customers, knowing how to reach customers, and iterating quickly. Having the types of unique capabilities a world class architect can bring would only help a vanishingly small portion of early stage startups, and might actually hurt a lot of them.",
+          "2025-11-18T12:51:44.692847"
+        ]
+      ],
+      "score_history": [
+        [
+          9,
+          "2025-11-18T12:51:44.692847"
+        ],
+        [
+          8,
+          "2025-11-18T13:04:00.338778"
+        ],
+        [
+          10,
+          "2025-11-18T13:15:53.975552"
+        ],
+        [
+          9,
+          "2025-11-18T13:46:28.709584"
+        ],
+        [
+          9,
+          "2025-11-18T13:49:29.196121"
+        ],
+        [
+          9,
+          "2025-11-18T13:59:20.085012"
+        ],
+        [
+          9,
+          "2025-11-18T14:10:38.585547"
+        ]
+      ],
+      "created_utc": 1763442156.0,
+      "depth": 0,
+      "permalink": "/r/AgentsOfAI/comments/1p02ydj/this_isnt_surprising_at_all/npg0ja7/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npgcend",
+          "parent_id": "t1_npg0ja7",
+          "author": "AlignmentProblem",
+          "text_history": [
+            [
+              "Anacdotally, I've been contributing more code over the last year as a staff engineer. AI handles the implementation details without pulling me away from the high-level technical leadership work that's the core value I add. It easily covers any low-level code-level rustiness I have from spending less time on implementation over the last few years and leverages my strength very well by allowing me to primarily think on a higher abstraction level while writing code. In particular, it makes quick work of establishing the basis for new projects or major features to establish the foundation according to design for others to extend.\n\nMost of my team is senior engineers who are also leveraging AI to expand their effective capacity in an equivalent way. We're getting the same work done with fewer people than the past by people covering work that they'd previously have deligated due to AI making it possible to do without draining too much time for more complex work. The reduction in communication and administrative overhead from running a smaller, top-heavy team is substantial as well.\n\nThat's the real impact on the job market. It doesn't replace any one person fully. It doesn't need to even be capable of doing any roles by itself; instead it lets someone at level X easily handle a additional chunk of X-1 work, which means you need fewer people overall to hit the same capacity. It also has side-effects in reducing natural mentoring opportunities from that collaboration that aren't being replaced elsewhere \n\nI need fewer senior engineers backing me up, and those seniors need less support from mid-level engineers. The traditional junior-level work that justified training costs has started to evaporate as mid-level engineers can increasingly now handle what juniors might otherwise do without it really costing them capacity. Don't think we have any at the company anymore; it really sucks for people trying to break-in and get real-world experience.\n\nSeveral ex-coworkers at other companies (particularly ones at startups doing well) tell me they're seeing similar trends gradually accelerate. It's a tragedy of the commons issue where I expect constructing the skill advancement pipeline will cause a shortage of highly experienced engineers at some point. If companies are lucky AI might advance to the point where that's not a critical issue, but it might bite them in their collective ass one day.",
+              "2025-11-18T12:51:44.692847"
+            ]
+          ],
+          "score_history": [
+            [
+              5,
+              "2025-11-18T12:51:44.692847"
+            ],
+            [
+              5,
+              "2025-11-18T13:04:00.338778"
+            ],
+            [
+              4,
+              "2025-11-18T13:15:53.975552"
+            ],
+            [
+              5,
+              "2025-11-18T13:46:28.709584"
+            ],
+            [
+              5,
+              "2025-11-18T13:49:29.196121"
+            ],
+            [
+              5,
+              "2025-11-18T13:59:20.085012"
+            ],
+            [
+              4,
+              "2025-11-18T14:10:38.585547"
+            ]
+          ],
+          "created_utc": 1763448267.0,
+          "depth": 1,
+          "permalink": "/r/AgentsOfAI/comments/1p02ydj/this_isnt_surprising_at_all/npgcend/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": 1763448974.0,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npghzfa",
+              "parent_id": "t1_npgcend",
+              "author": "Scary-Hunting-Goat",
+              "text_history": [
+                [
+                  "Do you think you would be as effective if you had AI from the beginning?\n\n\n\n\nAs in, does your experience \"hand writing\" code contribute significantly to being able to use AI effectively?\n\n\n\n\nCould pose problems if becoming competitive in the job market requires years of being relatively unproductive ",
+                  "2025-11-18T12:51:44.692847"
+                ]
+              ],
+              "score_history": [
+                [
+                  3,
+                  "2025-11-18T12:51:44.692847"
+                ],
+                [
+                  4,
+                  "2025-11-18T13:04:00.338778"
+                ],
+                [
+                  3,
+                  "2025-11-18T13:15:53.975552"
+                ],
+                [
+                  4,
+                  "2025-11-18T13:46:28.709584"
+                ],
+                [
+                  4,
+                  "2025-11-18T13:49:29.196121"
+                ],
+                [
+                  5,
+                  "2025-11-18T13:59:20.085012"
+                ],
+                [
+                  4,
+                  "2025-11-18T14:10:38.585547"
+                ]
+              ],
+              "created_utc": 1763451476.0,
+              "depth": 2,
+              "permalink": "/r/AgentsOfAI/comments/1p02ydj/this_isnt_surprising_at_all/npghzfa/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": [
+                {
+                  "id": "npgknz0",
+                  "parent_id": "t1_npghzfa",
+                  "author": "AlignmentProblem",
+                  "text_history": [
+                    [
+                      "No, I wouldn't be as effective to be honest. It goes beyond just mechanical coding skill; conceptual work, wrestling with abstract problems, learning how to decide on approaches proactively, all have shortcuts you're prone to taking with AI available. That can be insidious because it may not even be intuitively obvious you're doing it that since you're focusing on the surface level thing it's doing by writing code.\n\nNot developing as much skill around the specific details of low-level code might be one of the less harmful effects. Plenty of people making strides in advanced AI or doing well in technical leadership never learned assembly (or even C++) and mostly worked in python or something similar. It's not entirely dissimilar to the jump of leaning on AI for the code itself.\n\nLowering the friction of turning ideas and designs into code that executes those ideas can be fine without getting as close to the metal, long as at least a few people specialize in the low-level details to fill that gap in the industry. The real valuable skills are having ideas and designs worth turning into code. If you can explain + fully understand in precise detail what the logic should do without skimming conceptual details, the exact path to making a computer run it is kinda secondary.\n\nMany of the abstract skills I gained around systems thinking, effective planning, debugging strategies, how to optimally learn information, architecting systems and other vital capabilities most important to the value I add necessarily came from struggling through things myself even when I badly wanted an easier way or had deadlines. It was a difficult process, hardest at the beginning, so I would likely have leaned on AI too much and hampered my development. Especially when I was young and overwhelmed.\n\nI think there's a way to use AI while still developing those skills, maybe even more effectively by having AI challenge you, teach you in ways that give nudges when you're unproductively stuck and similar approaches. Unfortunately, those approaches give slower immediate results by being suboptimal in terms of what you accomplish short-term in exchange for longer-term growth, and it's very tempting to take the easier route when you're struggling.\n\nThe people who use AI to maximize their personal development in the right way will have an advantage over what I did; however, I expect the percentage of people doing that versus taking easier, less deliberate routes is vanishingly small.\n\nAll that to agree with your last point. Getting to the point where you add value that a more experienced person using AI can't trivialize takes a while for most people. We don't have a solution for how people can get that experience while they need money to live. Maybe UBI might come to the rescue so it's ok to not make money for the first while, but my faith in governments to implementation a good system before things have been unacceptably desperate for a long while is... low.",
+                      "2025-11-18T12:51:44.692847"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      1,
+                      "2025-11-18T12:51:44.692847"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T13:04:00.338778"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T13:15:53.975552"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T13:46:28.709584"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T13:49:29.196121"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T13:59:20.085012"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T14:10:38.585547"
+                    ]
+                  ],
+                  "created_utc": 1763453106.0,
+                  "depth": 3,
+                  "permalink": "/r/AgentsOfAI/comments/1p02ydj/this_isnt_surprising_at_all/npgknz0/",
+                  "is_submitter": false,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": 1763455084.0,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": [
+                    {
+                      "id": "npgmml0",
+                      "parent_id": "t1_npgknz0",
+                      "author": "Eskamel",
+                      "text_history": [
+                        [
+                          "You could also offload your friction to other developers back in the day, that didn't stop making people the higher they go, the lower they remain competent in actual problem solving.\n\nAI strips away very crucial skills from people who overly rely on them. Its not different than having an \"infinite\" stack overflow threads and a search function to come up with decent to bad solutions depending on their encounter frequencies. Overly relying on stack overflow would eventually mean you can't do anything yourself, including designing systems.",
+                          "2025-11-18T12:51:44.692847"
+                        ]
+                      ],
+                      "score_history": [
+                        [
+                          1,
+                          "2025-11-18T12:51:44.692847"
+                        ],
+                        [
+                          1,
+                          "2025-11-18T13:04:00.338778"
+                        ],
+                        [
+                          1,
+                          "2025-11-18T13:15:53.975552"
+                        ],
+                        [
+                          1,
+                          "2025-11-18T13:46:28.709584"
+                        ],
+                        [
+                          1,
+                          "2025-11-18T13:49:29.196121"
+                        ],
+                        [
+                          1,
+                          "2025-11-18T13:59:20.085012"
+                        ],
+                        [
+                          1,
+                          "2025-11-18T14:10:38.585547"
+                        ]
+                      ],
+                      "created_utc": 1763454323.0,
+                      "depth": 4,
+                      "permalink": "/r/AgentsOfAI/comments/1p02ydj/this_isnt_surprising_at_all/npgmml0/",
+                      "is_submitter": false,
+                      "controversiality": 0,
+                      "gilded": 0,
+                      "edited": false,
+                      "deleted": false,
+                      "deleted_at": null,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "npgm30s",
+              "parent_id": "t1_npgcend",
+              "author": "Eskamel",
+              "text_history": [
+                [
+                  "You are slowly killing any skill you had developed back in the past since you aren't involved in any implementation details, it will eventually end up biting you in the ass.",
+                  "2025-11-18T12:51:44.692847"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-18T12:51:44.692847"
+                ],
+                [
+                  1,
+                  "2025-11-18T13:04:00.338778"
+                ],
+                [
+                  1,
+                  "2025-11-18T13:15:53.975552"
+                ],
+                [
+                  1,
+                  "2025-11-18T13:46:28.709584"
+                ],
+                [
+                  1,
+                  "2025-11-18T13:49:29.196121"
+                ],
+                [
+                  1,
+                  "2025-11-18T13:59:20.085012"
+                ],
+                [
+                  1,
+                  "2025-11-18T14:10:38.585547"
+                ]
+              ],
+              "created_utc": 1763453984.0,
+              "depth": 2,
+              "permalink": "/r/AgentsOfAI/comments/1p02ydj/this_isnt_surprising_at_all/npgm30s/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": [
+                {
+                  "id": "npgmuwg",
+                  "parent_id": "t1_npgm30s",
+                  "author": "AlignmentProblem",
+                  "text_history": [
+                    [
+                      "Respectly disagree. My primary contribution at this point in my career is setting technical direction, high-level architecture, coordinating teams, etc. I don't lean heavily on AI for those things, largely asking it to critque my ideas and look for flaws I may have missed. Coding itself gradually becomes secondary; however, before reaching thst point one often developed enough skill to have the metaskill of rapidly picking up new languages and technologies extremely fast. \n\nI've professionally worked in ~8 languages and picking up the last two to a competent level took only a couple of weeks. New tech stacks and such are also pretty easy to start using at a similar level to less experienced engineers with a non-trivial background in the specific technology. I still learn things to a level where I could do them myself without AI in the process of reviewing and understanding what it writes.\n\nBased on that, I really don't feel like I'm atrophying anything I'll miss. It'd be a different story 10 years ago, but starting to use AI once you're already in technical leadership isn't as problematic.",
+                      "2025-11-18T12:51:44.692847"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      1,
+                      "2025-11-18T12:51:44.692847"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T13:04:00.338778"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T13:15:53.975552"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T13:46:28.709584"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T13:49:29.196121"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T13:59:20.085012"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T14:10:38.585547"
+                    ]
+                  ],
+                  "created_utc": 1763454468.0,
+                  "depth": 3,
+                  "permalink": "/r/AgentsOfAI/comments/1p02ydj/this_isnt_surprising_at_all/npgmuwg/",
+                  "is_submitter": false,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": [
+                    {
+                      "id": "npgnr1k",
+                      "parent_id": "t1_npgmuwg",
+                      "author": "Eskamel",
+                      "text_history": [
+                        [
+                          "Picking up technologies or languages is mostly getting used to certain patterns, unless said technologies don't abstract enough and require additional understanding in math, which you wouldn't just be able to hop on without using the very specific math concepts every once in a while.\n\nThe LLM era has just begun, you can't compare 10 years ago to slow regression of a new era. Give it some time and you might notice you become far less sharp, much more reliant on LLMs for even basic tasks because you got so used to avoiding friction it suddenly becomes your \"go to savior\" for any hardship.\n\nThat's the thing though, the leadership just makes decisions, they aren't involved in the actual ingrained details of everything. A system architect in OpenAI is very likely to not know how to work on ChatGPT'd internal development, even if they were involved in some decision makings, they'd be clueless and probably would run to others to offload the friction from them. That's why you might probably like LLMs so much, you aren't really involved in the actual engineering process, and thus you might not care as much about what happens under the hood, the quality or potentially future problems with said implementation, as long as it \"works\" now.",
+                          "2025-11-18T12:51:44.692847"
+                        ]
+                      ],
+                      "score_history": [
+                        [
+                          1,
+                          "2025-11-18T12:51:44.692847"
+                        ],
+                        [
+                          1,
+                          "2025-11-18T13:04:00.338778"
+                        ],
+                        [
+                          1,
+                          "2025-11-18T13:15:53.975552"
+                        ],
+                        [
+                          1,
+                          "2025-11-18T13:46:28.709584"
+                        ],
+                        [
+                          1,
+                          "2025-11-18T13:49:29.196121"
+                        ],
+                        [
+                          1,
+                          "2025-11-18T13:59:20.085012"
+                        ],
+                        [
+                          1,
+                          "2025-11-18T14:10:38.585547"
+                        ]
+                      ],
+                      "created_utc": 1763455033.0,
+                      "depth": 4,
+                      "permalink": "/r/AgentsOfAI/comments/1p02ydj/this_isnt_surprising_at_all/npgnr1k/",
+                      "is_submitter": false,
+                      "controversiality": 0,
+                      "gilded": 0,
+                      "edited": false,
+                      "deleted": false,
+                      "deleted_at": null,
+                      "replies": [
+                        {
+                          "id": "npgph3e",
+                          "parent_id": "t1_npgnr1k",
+                          "author": "AlignmentProblem",
+                          "text_history": [
+                            [
+                              "I'm not clear where you're coming from here. Are you generally opposed to using LLMs at all?\n\nThat's a valid position, but the trajectory isn't reversing regardless of how anyone feels about it. The amount people delegate to AI will keep increasing. There are real trade-offs in both directions.\n\nThe ability to work at higher abstraction levels and get results from high-level intent is genuinely useful. Whether it matters that fewer humans can execute the underlying tasks is an open question. This pattern has played out before; people worried calculators would destroy mathematical ability, and way back, that writing would atrophy everyone's memory by making memorization unnecessary.\n\nMaybe working at pure abstraction creates space to develop entirely new skillsets at that level, and combined with the tools, people end up producing better work than was possible before. Or maybe this time really is different and represents something more fundamental about human cognitive development.\n\nWe can't easily tell from inside the transition. The latter's possible, but every previous wave of similar concerns turned out fine, and they felt equally urgent at the time. There's substantial uncertainty about what might disrupt the apparent trajectory. \n\nNeural enhancement technology could arrive in 10-25 years for all we know; any number of developments might break our current assumptions about where this leads. Assuming we have enough information to be so confident is a trap, especially since some aspects of science fiction are rapidly becoming plausible and more will be unlocked quickly if anything but the most pessimistic case happens with current trends.\n\nI'm betting on thoughtful integration while staying alert to risks, but I get the more skeptical stance too.",
+                              "2025-11-18T12:51:44.692847"
+                            ]
+                          ],
+                          "score_history": [
+                            [
+                              1,
+                              "2025-11-18T12:51:44.692847"
+                            ],
+                            [
+                              1,
+                              "2025-11-18T13:04:00.338778"
+                            ],
+                            [
+                              1,
+                              "2025-11-18T13:15:53.975552"
+                            ],
+                            [
+                              1,
+                              "2025-11-18T13:46:28.709584"
+                            ],
+                            [
+                              1,
+                              "2025-11-18T13:49:29.196121"
+                            ],
+                            [
+                              1,
+                              "2025-11-18T13:59:20.085012"
+                            ],
+                            [
+                              1,
+                              "2025-11-18T14:10:38.585547"
+                            ]
+                          ],
+                          "created_utc": 1763456123.0,
+                          "depth": 5,
+                          "permalink": "/r/AgentsOfAI/comments/1p02ydj/this_isnt_surprising_at_all/npgph3e/",
+                          "is_submitter": false,
+                          "controversiality": 0,
+                          "gilded": 0,
+                          "edited": 1763456482.0,
+                          "deleted": false,
+                          "deleted_at": null,
+                          "replies": [
+                            {
+                              "id": "npgvb85",
+                              "parent_id": "t1_npgph3e",
+                              "author": "Eskamel",
+                              "text_history": [
+                                [
+                                  "I am opposed to overly relying on them. Using them as a tool is fine, but the average person doesn't do that, a tool doesn't replace thinking.\n\nThere is a difference between LLMs and calculators. Calculators are used for a specific set of arithmetics, LLMs are attempted to be used for literally everything.\n\nActually, calculators did in fact affect people negatively. There are alot of people who can't calculate anything on their own, they even mess up with very basic math. You might claim they don't have to know it, which might be true, but it obviously stopped people who could be fit to work at science related industries from going there because they haven't developed their analytical skills due to things such as calculators.\n\nSoftware is relevant to potentially anything in our life. Having more and more people be incapable of understanding it or altering it without relying on a tool that relies on us feeding it data to train for more and more cases can lead to a disaster. I think people who try comparing calculators, steam engines to horses, etc don't see the bigger picture, these aren't the same abstractions, and we never had an abstraction that tries to replace all thinking with inputs controlled by select individuals either up to this day, which can lead to even more problems people would rather ignore.",
+                                  "2025-11-18T12:51:44.692847"
+                                ]
+                              ],
+                              "score_history": [
+                                [
+                                  1,
+                                  "2025-11-18T12:51:44.692847"
+                                ],
+                                [
+                                  1,
+                                  "2025-11-18T13:04:00.338778"
+                                ],
+                                [
+                                  1,
+                                  "2025-11-18T13:15:53.975552"
+                                ],
+                                [
+                                  1,
+                                  "2025-11-18T13:46:28.709584"
+                                ],
+                                [
+                                  1,
+                                  "2025-11-18T13:49:29.196121"
+                                ],
+                                [
+                                  1,
+                                  "2025-11-18T13:59:20.085012"
+                                ],
+                                [
+                                  1,
+                                  "2025-11-18T14:10:38.585547"
+                                ]
+                              ],
+                              "created_utc": 1763459847.0,
+                              "depth": 6,
+                              "permalink": "/r/AgentsOfAI/comments/1p02ydj/this_isnt_surprising_at_all/npgvb85/",
+                              "is_submitter": false,
+                              "controversiality": 0,
+                              "gilded": 0,
+                              "edited": false,
+                              "deleted": false,
+                              "deleted_at": null,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "nphq4cy",
+              "parent_id": "t1_npgcend",
+              "author": "Mulletsftw",
+              "text_history": [
+                [
+                  "This is cool and all but are you getting more pay for being more productive? If not, what's the point of actually increasing your productivity personally?\n\nIdk about y'all but I'm not trying to do more work with less people at the same pay but people call me crazy for thinking this lol",
+                  "2025-11-18T12:51:44.692847"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-18T12:51:44.692847"
+                ],
+                [
+                  1,
+                  "2025-11-18T13:04:00.338778"
+                ],
+                [
+                  1,
+                  "2025-11-18T13:15:53.975552"
+                ],
+                [
+                  1,
+                  "2025-11-18T13:46:28.709584"
+                ],
+                [
+                  1,
+                  "2025-11-18T13:49:29.196121"
+                ],
+                [
+                  1,
+                  "2025-11-18T13:59:20.085012"
+                ],
+                [
+                  1,
+                  "2025-11-18T14:10:38.585547"
+                ]
+              ],
+              "created_utc": 1763473822.0,
+              "depth": 2,
+              "permalink": "/r/AgentsOfAI/comments/1p02ydj/this_isnt_surprising_at_all/nphq4cy/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "npgzntl",
+          "parent_id": "t1_npg0ja7",
+          "author": "dashingThroughSnow12",
+          "text_history": [
+            [
+              "“Older engineer” doesn’t equate to “engineer that doesn’t program”.",
+              "2025-11-18T12:51:44.692847"
+            ]
+          ],
+          "score_history": [
+            [
+              2,
+              "2025-11-18T12:51:44.692847"
+            ],
+            [
+              2,
+              "2025-11-18T13:04:00.338778"
+            ],
+            [
+              2,
+              "2025-11-18T13:15:53.975552"
+            ],
+            [
+              2,
+              "2025-11-18T13:46:28.709584"
+            ],
+            [
+              2,
+              "2025-11-18T13:49:29.196121"
+            ],
+            [
+              2,
+              "2025-11-18T13:59:20.085012"
+            ],
+            [
+              2,
+              "2025-11-18T14:10:38.585547"
+            ]
+          ],
+          "created_utc": 1763462478.0,
+          "depth": 1,
+          "permalink": "/r/AgentsOfAI/comments/1p02ydj/this_isnt_surprising_at_all/npgzntl/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        },
+        {
+          "id": "npiahvr",
+          "parent_id": "t1_npg0ja7",
+          "author": "mrcsrnne",
+          "text_history": [
+            [
+              "I’m not a dev but a creative in advertising / fashion. Juniors in my field have a hard time finding entry level work because they don’t know enough about the craft involved in producing campaigns - analog photography / advanced digital retouch / production in general.\n\nHowever us millenials who grew up doing those things and now can switch seamlessly between old school ceaft techniques and the versatility of ai have become very sought after.",
+              "2025-11-18T12:51:44.692847"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T12:51:44.692847"
+            ],
+            [
+              1,
+              "2025-11-18T13:04:00.338778"
+            ],
+            [
+              1,
+              "2025-11-18T13:15:53.975552"
+            ],
+            [
+              1,
+              "2025-11-18T13:46:28.709584"
+            ],
+            [
+              1,
+              "2025-11-18T13:49:29.196121"
+            ],
+            [
+              1,
+              "2025-11-18T13:59:20.085012"
+            ],
+            [
+              1,
+              "2025-11-18T14:10:38.585547"
+            ]
+          ],
+          "created_utc": 1763480218.0,
+          "depth": 1,
+          "permalink": "/r/AgentsOfAI/comments/1p02ydj/this_isnt_surprising_at_all/npiahvr/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        },
+        {
+          "id": "npizwoc",
+          "parent_id": "t1_npg0ja7",
+          "author": "fizzbyte",
+          "text_history": [
+            [
+              "Don't you reinforce your own point? You don't become principal or staff without getting earned experience first.",
+              "2025-11-18T12:51:44.692847"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T12:51:44.692847"
+            ],
+            [
+              1,
+              "2025-11-18T13:04:00.338778"
+            ],
+            [
+              1,
+              "2025-11-18T13:15:53.975552"
+            ],
+            [
+              1,
+              "2025-11-18T13:46:28.709584"
+            ],
+            [
+              1,
+              "2025-11-18T13:49:29.196121"
+            ],
+            [
+              1,
+              "2025-11-18T13:59:20.085012"
+            ],
+            [
+              1,
+              "2025-11-18T14:10:38.585547"
+            ]
+          ],
+          "created_utc": 1763487682.0,
+          "depth": 1,
+          "permalink": "/r/AgentsOfAI/comments/1p02ydj/this_isnt_surprising_at_all/npizwoc/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        },
+        {
+          "id": "npjalls",
+          "parent_id": "t1_npg0ja7",
+          "author": "Linaran",
+          "text_history": [
+            [
+              "Majority of principle/staff/architecture programmers have significant coding experience before they reach the design/management phase. That skill also doesn't die easily and it can be revived.\n\n\nThe foundational knowledge allows them to realize you don't need a whole vercel subscription to spin up a database and have image thumbnails. Shit you not at one of my gigs there was a company that thought they need vercel for that. I replaced it with RDS and easy-thumbnailer...",
+              "2025-11-18T12:51:44.692847"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T12:51:44.692847"
+            ],
+            [
+              1,
+              "2025-11-18T13:04:00.338778"
+            ],
+            [
+              1,
+              "2025-11-18T13:15:53.975552"
+            ],
+            [
+              1,
+              "2025-11-18T13:46:28.709584"
+            ],
+            [
+              1,
+              "2025-11-18T13:49:29.196121"
+            ],
+            [
+              1,
+              "2025-11-18T13:59:20.085012"
+            ],
+            [
+              1,
+              "2025-11-18T14:10:38.585547"
+            ]
+          ],
+          "created_utc": 1763490758.0,
+          "depth": 1,
+          "permalink": "/r/AgentsOfAI/comments/1p02ydj/this_isnt_surprising_at_all/npjalls/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        },
+        {
+          "id": "npjzxx8",
+          "parent_id": "t1_npg0ja7",
+          "author": "Michaeli_Starky",
+          "text_history": [
+            [
+              "Ah, good luck.",
+              "2025-11-18T12:51:44.692847"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T12:51:44.692847"
+            ],
+            [
+              1,
+              "2025-11-18T13:04:00.338778"
+            ],
+            [
+              1,
+              "2025-11-18T13:15:53.975552"
+            ],
+            [
+              1,
+              "2025-11-18T13:46:28.709584"
+            ],
+            [
+              1,
+              "2025-11-18T13:49:29.196121"
+            ],
+            [
+              1,
+              "2025-11-18T13:59:20.085012"
+            ],
+            [
+              1,
+              "2025-11-18T14:10:38.585547"
+            ]
+          ],
+          "created_utc": 1763498317.0,
+          "depth": 1,
+          "permalink": "/r/AgentsOfAI/comments/1p02ydj/this_isnt_surprising_at_all/npjzxx8/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "nphiqsl",
+      "parent_id": "t3_1p02ydj",
+      "author": "Corben9",
+      "text_history": [
+        [
+          "Wild how illegal it is for companies who have the opposite preferences to express it freely.",
+          "2025-11-18T12:51:44.692847"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T12:51:44.692847"
+        ],
+        [
+          1,
+          "2025-11-18T13:04:00.338778"
+        ],
+        [
+          1,
+          "2025-11-18T13:15:53.975552"
+        ],
+        [
+          1,
+          "2025-11-18T13:46:28.709584"
+        ],
+        [
+          1,
+          "2025-11-18T13:49:29.196121"
+        ],
+        [
+          1,
+          "2025-11-18T13:59:20.085012"
+        ],
+        [
+          1,
+          "2025-11-18T14:10:38.585547"
+        ]
+      ],
+      "created_utc": 1763471358.0,
+      "depth": 0,
+      "permalink": "/r/AgentsOfAI/comments/1p02ydj/this_isnt_surprising_at_all/nphiqsl/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npi7w3b",
+      "parent_id": "t3_1p02ydj",
+      "author": "atmafatte",
+      "text_history": [
+        [
+          "Dude I’ve used AI to code in the last week like extensively. Is just for a poc and not production ready code. Your prompts have to be like spot on for it to generate “cleanish” code. I would kinda be very reluctant to put that generated code in production. It spits out decent code to get up and running quickly. But quickly turns into unmanageable stuff if you don’t keep refactoring. But I think I have become dumber for sure.",
+          "2025-11-18T12:51:44.692847"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T12:51:44.692847"
+        ],
+        [
+          1,
+          "2025-11-18T13:04:00.338778"
+        ],
+        [
+          1,
+          "2025-11-18T13:15:53.975552"
+        ],
+        [
+          1,
+          "2025-11-18T13:46:28.709584"
+        ],
+        [
+          1,
+          "2025-11-18T13:49:29.196121"
+        ],
+        [
+          1,
+          "2025-11-18T13:59:20.085012"
+        ],
+        [
+          1,
+          "2025-11-18T14:10:38.585547"
+        ]
+      ],
+      "created_utc": 1763479439.0,
+      "depth": 0,
+      "permalink": "/r/AgentsOfAI/comments/1p02ydj/this_isnt_surprising_at_all/npi7w3b/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npj5tne",
+      "parent_id": "t3_1p02ydj",
+      "author": "hemingward",
+      "text_history": [
+        [
+          "It’s almost as though us old fogies actually learned what to do, and more importantly, what not to do, in our pre-AI world. \n\nI use Claude, but it’s certainly not to vibe code. The shit it produces is horrendous as the project gets larger if you don’t keep it on a short leash, and that requires a lot of vision and ideas of what architectural patterns and such are going to work best to accomplish the goal. I spend a lot of time with Claude hammering out the architecture, and we come up with a very detailed, multi-phase plan, and even then I never YOLO that plan because at some point it starts to go off the rails. Shit, it’ll often perform amazingly well, and then I’ll come back later to pick up where I left off and it performs like a first year comp sci student. \n\nIt’s a useful tool, and it increases my output, but I do not trust it at all.",
+          "2025-11-18T12:51:44.692847"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T12:51:44.692847"
+        ],
+        [
+          1,
+          "2025-11-18T13:04:00.338778"
+        ],
+        [
+          1,
+          "2025-11-18T13:15:53.975552"
+        ],
+        [
+          1,
+          "2025-11-18T13:46:28.709584"
+        ],
+        [
+          1,
+          "2025-11-18T13:49:29.196121"
+        ],
+        [
+          1,
+          "2025-11-18T13:59:20.085012"
+        ],
+        [
+          1,
+          "2025-11-18T14:10:38.585547"
+        ]
+      ],
+      "created_utc": 1763489394.0,
+      "depth": 0,
+      "permalink": "/r/AgentsOfAI/comments/1p02ydj/this_isnt_surprising_at_all/npj5tne/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npjzoh6",
+      "parent_id": "t3_1p02ydj",
+      "author": "Michaeli_Starky",
+      "text_history": [
+        [
+          "I'm suddenly feeling very old.",
+          "2025-11-18T12:51:44.692847"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T12:51:44.692847"
+        ],
+        [
+          1,
+          "2025-11-18T13:04:00.338778"
+        ],
+        [
+          1,
+          "2025-11-18T13:15:53.975552"
+        ],
+        [
+          1,
+          "2025-11-18T13:46:28.709584"
+        ],
+        [
+          1,
+          "2025-11-18T13:49:29.196121"
+        ],
+        [
+          1,
+          "2025-11-18T13:59:20.085012"
+        ],
+        [
+          1,
+          "2025-11-18T14:10:38.585547"
+        ]
+      ],
+      "created_utc": 1763498236.0,
+      "depth": 0,
+      "permalink": "/r/AgentsOfAI/comments/1p02ydj/this_isnt_surprising_at_all/npjzoh6/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npk1xuo",
+      "parent_id": "t3_1p02ydj",
+      "author": "Ecstatic_Papaya_1700",
+      "text_history": [
+        [
+          "Never said if the company is doing well or what they mean by \"our purposes\". \n\nI frankly just dont believe it given what I hear from the average senior engineer",
+          "2025-11-18T12:51:44.692847"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T12:51:44.692847"
+        ],
+        [
+          1,
+          "2025-11-18T13:04:00.338778"
+        ],
+        [
+          1,
+          "2025-11-18T13:15:53.975552"
+        ],
+        [
+          1,
+          "2025-11-18T13:46:28.709584"
+        ],
+        [
+          1,
+          "2025-11-18T13:49:29.196121"
+        ],
+        [
+          1,
+          "2025-11-18T13:59:20.085012"
+        ],
+        [
+          1,
+          "2025-11-18T14:10:38.585547"
+        ]
+      ],
+      "created_utc": 1763498918.0,
+      "depth": 0,
+      "permalink": "/r/AgentsOfAI/comments/1p02ydj/this_isnt_surprising_at_all/npk1xuo/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npgocdc",
+      "parent_id": "t3_1p02ydj",
+      "author": "ContributionSouth253",
+      "text_history": [
+        [
+          "I don't agree. AI shows the best ways to learn as long as you know how to use it",
+          "2025-11-18T12:51:44.692847"
+        ]
+      ],
+      "score_history": [
+        [
+          0,
+          "2025-11-18T12:51:44.692847"
+        ],
+        [
+          0,
+          "2025-11-18T13:04:00.338778"
+        ],
+        [
+          0,
+          "2025-11-18T13:15:53.975552"
+        ],
+        [
+          0,
+          "2025-11-18T13:46:28.709584"
+        ],
+        [
+          0,
+          "2025-11-18T13:49:29.196121"
+        ],
+        [
+          0,
+          "2025-11-18T13:59:20.085012"
+        ],
+        [
+          0,
+          "2025-11-18T14:10:38.585547"
+        ]
+      ],
+      "created_utc": 1763455413.0,
+      "depth": 0,
+      "permalink": "/r/AgentsOfAI/comments/1p02ydj/this_isnt_surprising_at_all/npgocdc/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-18T14:10:38.585547",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/AgentsOfAI/comments/1p02ydj/this_isnt_surprising_at_all/",
+    "total_comments": 28,
+    "top_level_comments": 10,
+    "api_requests": 1,
+    "expected_comments": 28,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 7,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_125144.json",
+      "scrape_002_20251118_130359.json",
+      "scrape_003_20251118_131553.json",
+      "scrape_004_20251118_134628.json",
+      "scrape_005_20251118_134928.json",
+      "scrape_006_20251118_135919.json",
+      "scrape_007_20251118_141038.json"
+    ]
+  }
+}

@@ -39,7 +39,15 @@ export class StorageDriver {
         ContentType: "application/json"
       }));
     } else {
-      writeFileSync(join(this.localDir, key), data);
+      const fullPath = join(this.localDir, key);
+      const dir = fullPath.substring(0, fullPath.lastIndexOf('/'));
+
+      // Ensure directory exists
+      if (!existsSync(dir)) {
+        mkdirSync(dir, { recursive: true });
+      }
+
+      writeFileSync(fullPath, data);
     }
   }
 

@@ -1,0 +1,272 @@
+{
+  "post": {
+    "id": "1ax75bv",
+    "title": "Computational linguistics roadmap for people with a mere linguistic background",
+    "author": "giovanni_conte",
+    "score_history": [
+      [
+        33,
+        "2025-11-18T15:15:01.537807"
+      ],
+      [
+        34,
+        "2025-11-18T15:18:36.418660"
+      ],
+      [
+        34,
+        "2025-11-18T23:12:36.102107"
+      ],
+      [
+        34,
+        "2025-11-19T00:47:49.257916"
+      ],
+      [
+        33,
+        "2025-11-19T02:22:44.793799"
+      ]
+    ],
+    "created_utc": 1708610641.0,
+    "num_comments": 7,
+    "subreddit": "compling",
+    "url": "https://www.reddit.com/r/compling/comments/1ax75bv/computational_linguistics_roadmap_for_people_with/",
+    "selftext": "Hello, after my Bachelor in Translation and Interpreting I chose, for my MA, to study computational linguistics, since I had enough course credits to enroll in this new MA program. The problem now is that I find myself having no background in mathematics and statistics whatsoever, and very low intermediate coding skills (if I need to build something I theoretically could do that and have done in the past, but I'm far from being competent, and every time I need to write code I need to ask chatGPT for the correct syntax, even though at least I usually kind of remember the underlying logic).\n\nNow I've just started to study for my first CL exam, which includes a general introduction to most of the foundational concepts of computational linguistics (basics of statistics, Bayes' thorem, Markovian Models, basics of machine learning and deep learning), and a second part of this course which should delve more into specific computational linguistic analysis.\n\nHonestly I'm quite confused by the amount of information presented, and even though I'm quite interested in learning more about this subject, as I've always hoped to find a way to combine my interest for linguistics and for coding and programming (which unfortunately I've never had the chance to work on), I would like to have some sort of roadmap of what is required to start working my way up into this subject. I would like to know what people with only a background in linguistics wished they knew, or needed to learn about first, before they began delving into computational linguistics.\n\nThank you guys in advance!",
+    "permalink": "/r/compling/comments/1ax75bv/computational_linguistics_roadmap_for_people_with/"
+  },
+  "comments": [
+    {
+      "id": "krlzkgp",
+      "parent_id": "t3_1ax75bv",
+      "author": "[deleted]",
+      "text_history": [
+        [
+          "I have to say I'm surprised by the breadth of topics in that one CL class you described.  \nI can only speak to what worked for me, but I did have both statistical and linguistic knowledge. In the following order (more or less) - topics in the same line can be studied in whichever order between them:  \nlinear algebra, some calculus  \nprobability theory, intro to CS (or any other programming basics class)  \nstatistical inference, graph algorithms, machine learning (and linear/non-linear statistical models),  \ndeep learning, NLP foundations (classic methods -- some people today might say it isn't necessary anymore), modern methods in NLP.  \n\nKeep in mind this is a fairly conservative take on the necessary background: many people in CL today have close to no statistical background, for example. I also ignored all the linguistics topics - since I assume you have that background. If not, then semantics, syntax and discourse are somewhat important.",
+          "2025-11-18T15:15:01.537807"
+        ]
+      ],
+      "score_history": [
+        [
+          16,
+          "2025-11-18T15:15:01.537807"
+        ],
+        [
+          16,
+          "2025-11-18T15:18:36.418660"
+        ],
+        [
+          15,
+          "2025-11-18T23:12:36.102107"
+        ],
+        [
+          16,
+          "2025-11-19T00:47:49.257916"
+        ],
+        [
+          16,
+          "2025-11-19T02:22:44.793799"
+        ]
+      ],
+      "created_utc": 1708611902.0,
+      "depth": 0,
+      "permalink": "/r/compling/comments/1ax75bv/computational_linguistics_roadmap_for_people_with/krlzkgp/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "krm2knj",
+          "parent_id": "t1_krlzkgp",
+          "author": "giovanni_conte",
+          "text_history": [
+            [
+              "Yeah, I found it honestly quite broad for an introductory course (especially considering this MA allows not only to choose a CL program, but also a more classic humanistic/linguistic based one). Anyways, thank you very much for your reply!",
+              "2025-11-18T15:15:01.537807"
+            ]
+          ],
+          "score_history": [
+            [
+              2,
+              "2025-11-18T15:15:01.537807"
+            ],
+            [
+              2,
+              "2025-11-18T15:18:36.418660"
+            ],
+            [
+              2,
+              "2025-11-18T23:12:36.102107"
+            ],
+            [
+              2,
+              "2025-11-19T00:47:49.257916"
+            ],
+            [
+              2,
+              "2025-11-19T02:22:44.793799"
+            ]
+          ],
+          "created_utc": 1708613064.0,
+          "depth": 1,
+          "permalink": "/r/compling/comments/1ax75bv/computational_linguistics_roadmap_for_people_with/krm2knj/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "krru6vh",
+      "parent_id": "t3_1ax75bv",
+      "author": "tdemeola",
+      "text_history": [
+        [
+          "I am in my last semester of my Master in CL and I can totally validate how you feel! My undergrad degree was in Linguistics and I did not have any computer science experience under my belt at all either. My intro class covered similar topics to yours and I have to say, I didn't understand most of the topics covered in the intro class. \n\nSure, I could follow the lectures and see how they worked in principle, but as soon as the underlying math equations and code popped up in the lecture, my eyes would gloss over. Without a practical implementation of the methods discussed, it's hard for people without computer science knowledge to mesh the computational methods with our linguistic knowledge. Just as it's hard for those with comp sci degrees to connect with theoretical linguistic concepts!\n\nAs I took other classes, the concepts definitely began to solidify a bit after doing homework assignments and labs. I am by no means a coding expert at all, but I can at least apply some of the methods taught in class to real world linguistic problems (but it was a very long road to get there!)\n\nMy suggestion would be to find a problem that interests you personally. Do you find analyzing the language of movie reviews for positive or negative sentiment interesting? Or maybe you want to work on automatically detecting entities in news media articles. Or, given your experience with Translating and Interpreting, maybe you'd want to tackle some issues with machine translation or automatic speech recognition. \n\nWhen you figure out what interests you, find some research articles looking into these problems and see if you can add anything to the discussion. Maybe there's something you know about that is not a part of the research at the current moment, or maybe you can add a perspective to improve current methods of language analysis. The world is your oyster!\n\nFeel free to DM me if you want to talk more about it - I'd love to answer any questions and share some resources. And help out a fellow linguist :)",
+          "2025-11-18T15:15:01.537807"
+        ]
+      ],
+      "score_history": [
+        [
+          11,
+          "2025-11-18T15:15:01.537807"
+        ],
+        [
+          11,
+          "2025-11-18T15:18:36.418660"
+        ],
+        [
+          11,
+          "2025-11-18T23:12:36.102107"
+        ],
+        [
+          11,
+          "2025-11-19T00:47:49.257916"
+        ],
+        [
+          12,
+          "2025-11-19T02:22:44.793799"
+        ]
+      ],
+      "created_utc": 1708700568.0,
+      "depth": 0,
+      "permalink": "/r/compling/comments/1ax75bv/computational_linguistics_roadmap_for_people_with/krru6vh/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "krs22cx",
+          "parent_id": "t1_krru6vh",
+          "author": "yelenasimp",
+          "text_history": [
+            [
+              "hi! can i also dm you?",
+              "2025-11-18T15:15:01.537807"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T15:15:01.537807"
+            ],
+            [
+              1,
+              "2025-11-18T15:18:36.418660"
+            ],
+            [
+              1,
+              "2025-11-18T23:12:36.102107"
+            ],
+            [
+              1,
+              "2025-11-19T00:47:49.257916"
+            ],
+            [
+              1,
+              "2025-11-19T02:22:44.793799"
+            ]
+          ],
+          "created_utc": 1708703272.0,
+          "depth": 1,
+          "permalink": "/r/compling/comments/1ax75bv/computational_linguistics_roadmap_for_people_with/krs22cx/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l5ma0am",
+      "parent_id": "t3_1ax75bv",
+      "author": "Soren911",
+      "text_history": [
+        [
+          "Studi a Milano, non è vero? Se è così, sei la nuova leva del corso che sto finendo anche io, gli argomenti trattati sono estremamente simili a quelli che ho fatto io per CL1 :)",
+          "2025-11-18T15:15:01.537807"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T15:15:01.537807"
+        ],
+        [
+          1,
+          "2025-11-18T15:18:36.418660"
+        ],
+        [
+          1,
+          "2025-11-18T23:12:36.102107"
+        ],
+        [
+          1,
+          "2025-11-19T00:47:49.257916"
+        ],
+        [
+          1,
+          "2025-11-19T02:22:44.793799"
+        ]
+      ],
+      "created_utc": 1716648654.0,
+      "depth": 0,
+      "permalink": "/r/compling/comments/1ax75bv/computational_linguistics_roadmap_for_people_with/l5ma0am/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T02:22:44.793799",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/compling/comments/1ax75bv/computational_linguistics_roadmap_for_people_with/",
+    "total_comments": 5,
+    "top_level_comments": 3,
+    "api_requests": 1,
+    "expected_comments": 7,
+    "coverage_percent": 71.43,
+    "merged_snapshot_count": 5,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_151501.json",
+      "scrape_002_20251118_151836.json",
+      "scrape_003_20251118_231235.json",
+      "scrape_004_20251119_004749.json",
+      "scrape_005_20251119_022244.json"
+    ]
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "post": {
+    "id": "1p13lp7",
+    "title": "RAG chatbot on Slush knowledge base",
+    "author": "lucido_dio",
+    "score_history": [
+      [
+        1,
+        "2025-11-19T02:55:57.695422"
+      ],
+      [
+        1,
+        "2025-11-19T03:08:48.250782"
+      ],
+      [
+        1,
+        "2025-11-19T03:17:38.296998"
+      ]
+    ],
+    "created_utc": 1763546425.0,
+    "num_comments": 2,
+    "subreddit": "Rag",
+    "url": "https://www.reddit.com/r/Rag/comments/1p13lp7/rag_chatbot_on_slush_knowledge_base/",
+    "selftext": "Slush is happening right now, it's one of the core startup conferences in Europe, you cannot miss it if you're a founder or investor.  \n  \nI've created a RAG chatbot based on Slush's 700+ events, 6.2k+ companies.\n\nTo be precise, right now there's 7048 documents in the chat.\n\nSlush actually has a great data model so I was able to export clean documents. That are easy to chunk and thus have good semantics.\n\nIt's great for finding after party events ;) After all, why are we are embedding at all?",
+    "permalink": "/r/Rag/comments/1p13lp7/rag_chatbot_on_slush_knowledge_base/"
+  },
+  "comments": [
+    {
+      "id": "npn9at3",
+      "parent_id": "t3_1p13lp7",
+      "author": "lucido_dio",
+      "text_history": [
+        [
+          "Link is here: [https://needle.app/slush-2025-chat](https://needle.app/slush-2025-chat)\n\nhttps://preview.redd.it/qzdfloeet62g1.png?width=1450&amp;format=png&amp;auto=webp&amp;s=c451a4c5786e1bc355e36877799c82f2066cbda6",
+          "2025-11-19T02:55:57.695422"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:55:57.695422"
+        ],
+        [
+          1,
+          "2025-11-19T03:08:48.250782"
+        ],
+        [
+          1,
+          "2025-11-19T03:17:38.296998"
+        ]
+      ],
+      "created_utc": 1763546586.0,
+      "depth": 0,
+      "permalink": "/r/Rag/comments/1p13lp7/rag_chatbot_on_slush_knowledge_base/npn9at3/",
+      "is_submitter": true,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npn9e5v",
+          "parent_id": "t1_npn9at3",
+          "author": "lucido_dio",
+          "text_history": [
+            [
+              "https://preview.redd.it/30rsgoolt62g1.png?width=1242&amp;format=png&amp;auto=webp&amp;s=9a73080db8f1ab29d5b6e73b57c31adfcc7de5b7",
+              "2025-11-19T02:55:57.695422"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-19T02:55:57.695422"
+            ],
+            [
+              1,
+              "2025-11-19T03:08:48.250782"
+            ],
+            [
+              1,
+              "2025-11-19T03:17:38.296998"
+            ]
+          ],
+          "created_utc": 1763546644.0,
+          "depth": 1,
+          "permalink": "/r/Rag/comments/1p13lp7/rag_chatbot_on_slush_knowledge_base/npn9e5v/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:17:38.296998",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/Rag/comments/1p13lp7/rag_chatbot_on_slush_knowledge_base/",
+    "total_comments": 2,
+    "top_level_comments": 1,
+    "api_requests": 1,
+    "expected_comments": 2,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_025557.json",
+      "scrape_002_20251119_030848.json",
+      "scrape_003_20251119_031738.json"
+    ]
+  }
+}

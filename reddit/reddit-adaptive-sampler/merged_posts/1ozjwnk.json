@@ -1,0 +1,151 @@
+{
+  "post": {
+    "id": "1ozjwnk",
+    "title": "Behind the scene clip of the MindOn robot",
+    "author": "uniyk",
+    "score_history": [
+      [
+        38,
+        "2025-11-19T02:55:37.959991"
+      ],
+      [
+        33,
+        "2025-11-19T03:03:38.147649"
+      ],
+      [
+        39,
+        "2025-11-19T03:06:52.937302"
+      ]
+    ],
+    "created_utc": 1763394890.0,
+    "num_comments": 4,
+    "subreddit": "robotics",
+    "url": "https://v.redd.it/x1crz5f4au1g1",
+    "selftext": "",
+    "permalink": "/r/robotics/comments/1ozjwnk/behind_the_scene_clip_of_the_mindon_robot/"
+  },
+  "comments": [
+    {
+      "id": "npe5nmn",
+      "parent_id": "t3_1ozjwnk",
+      "author": "the-uncanny-squad",
+      "text_history": [
+        [
+          "I see these Unitree bots everywhere. From this video to the YouTuber home trashing clip to student projects. Wonder what is driving their adoption. Are they better at hardware? Software? Marketing? Or simply because they are cheap?",
+          "2025-11-19T02:55:37.959991"
+        ]
+      ],
+      "score_history": [
+        [
+          4,
+          "2025-11-19T02:55:37.959991"
+        ],
+        [
+          4,
+          "2025-11-19T03:03:38.147649"
+        ],
+        [
+          5,
+          "2025-11-19T03:06:52.937302"
+        ]
+      ],
+      "created_utc": 1763417781.0,
+      "depth": 0,
+      "permalink": "/r/robotics/comments/1ozjwnk/behind_the_scene_clip_of_the_mindon_robot/npe5nmn/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npfcub9",
+          "parent_id": "t1_npe5nmn",
+          "author": "Apprehensive_Tea9856",
+          "text_history": [
+            [
+              "They're available for purchase. You can't buy Neo, Tesla Optimus, or Figure yet. You can buy UniTree. Also yes they're fairly cheap $10k-$20k",
+              "2025-11-19T02:55:37.959991"
+            ]
+          ],
+          "score_history": [
+            [
+              11,
+              "2025-11-19T02:55:37.959991"
+            ],
+            [
+              12,
+              "2025-11-19T03:03:38.147649"
+            ],
+            [
+              11,
+              "2025-11-19T03:06:52.937302"
+            ]
+          ],
+          "created_utc": 1763432829.0,
+          "depth": 1,
+          "permalink": "/r/robotics/comments/1ozjwnk/behind_the_scene_clip_of_the_mindon_robot/npfcub9/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        },
+        {
+          "id": "npfxi1e",
+          "parent_id": "t1_npe5nmn",
+          "author": "Blizxy",
+          "text_history": [
+            [
+              "Unitree is king right now in R&amp;D for humanoids. You literally can't buy anything else in their class yet",
+              "2025-11-19T02:55:37.959991"
+            ]
+          ],
+          "score_history": [
+            [
+              5,
+              "2025-11-19T02:55:37.959991"
+            ],
+            [
+              4,
+              "2025-11-19T03:03:38.147649"
+            ],
+            [
+              5,
+              "2025-11-19T03:06:52.937302"
+            ]
+          ],
+          "created_utc": 1763440776.0,
+          "depth": 1,
+          "permalink": "/r/robotics/comments/1ozjwnk/behind_the_scene_clip_of_the_mindon_robot/npfxi1e/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:06:52.937302",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/robotics/comments/1ozjwnk/behind_the_scene_clip_of_the_mindon_robot/",
+    "total_comments": 3,
+    "top_level_comments": 1,
+    "api_requests": 1,
+    "expected_comments": 4,
+    "coverage_percent": 75.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_025537.json",
+      "scrape_002_20251119_030337.json",
+      "scrape_003_20251119_030652.json"
+    ]
+  }
+}

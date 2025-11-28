@@ -1,0 +1,129 @@
+{
+  "post": {
+    "id": "1p17bml",
+    "title": "GitHub - infostealers-stats/data-breach: A continuously updated resource that catalogs confirmed data breaches from across the globe. Each entry includes the breach name, usually aligned with the impacted organization, and the date of the incident.",
+    "author": "rangeva",
+    "score_history": [
+      [
+        1,
+        "2025-11-19T05:13:20.431223"
+      ],
+      [
+        1,
+        "2025-11-19T05:13:20.631972"
+      ],
+      [
+        1,
+        "2025-11-19T05:13:20.868449"
+      ],
+      [
+        1,
+        "2025-11-19T05:13:21.072603"
+      ],
+      [
+        1,
+        "2025-11-19T05:13:21.321456"
+      ],
+      [
+        1,
+        "2025-11-19T05:13:21.521935"
+      ],
+      [
+        1,
+        "2025-11-19T05:13:21.773884"
+      ],
+      [
+        1,
+        "2025-11-19T05:13:21.999205"
+      ],
+      [
+        1,
+        "2025-11-19T05:13:22.233828"
+      ],
+      [
+        1,
+        "2025-11-19T05:13:22.446232"
+      ],
+      [
+        1,
+        "2025-11-19T05:13:22.666086"
+      ],
+      [
+        1,
+        "2025-11-19T05:13:22.881484"
+      ],
+      [
+        1,
+        "2025-11-19T05:13:23.109704"
+      ],
+      [
+        1,
+        "2025-11-19T05:13:23.317558"
+      ],
+      [
+        1,
+        "2025-11-19T05:13:23.552864"
+      ],
+      [
+        1,
+        "2025-11-19T05:13:23.745713"
+      ],
+      [
+        1,
+        "2025-11-19T05:13:24.001148"
+      ],
+      [
+        1,
+        "2025-11-19T05:13:24.340936"
+      ],
+      [
+        1,
+        "2025-11-19T05:13:24.578875"
+      ],
+      [
+        1,
+        "2025-11-19T05:13:24.792059"
+      ]
+    ],
+    "created_utc": 1763557949.0,
+    "num_comments": 0,
+    "subreddit": "cybersecurity",
+    "url": "https://github.com/infostealers-stats/data-breach",
+    "selftext": "",
+    "permalink": "/r/cybersecurity/comments/1p17bml/github_infostealersstatsdatabreach_a_continuously/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T05:13:24.792059",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/cybersecurity/comments/1p17bml/github_infostealersstatsdatabreach_a_continuously/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 20,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_051320.json",
+      "scrape_002_20251119_051320.json",
+      "scrape_003_20251119_051320.json",
+      "scrape_004_20251119_051320.json",
+      "scrape_005_20251119_051321.json",
+      "scrape_006_20251119_051321.json",
+      "scrape_007_20251119_051321.json",
+      "scrape_008_20251119_051321.json",
+      "scrape_009_20251119_051322.json",
+      "scrape_010_20251119_051322.json",
+      "scrape_011_20251119_051322.json",
+      "scrape_012_20251119_051322.json",
+      "scrape_013_20251119_051322.json",
+      "scrape_014_20251119_051323.json",
+      "scrape_015_20251119_051323.json",
+      "scrape_016_20251119_051323.json",
+      "scrape_017_20251119_051323.json",
+      "scrape_018_20251119_051324.json",
+      "scrape_019_20251119_051324.json",
+      "scrape_020_20251119_051324.json"
+    ]
+  }
+}

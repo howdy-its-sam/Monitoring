@@ -1,0 +1,129 @@
+{
+  "post": {
+    "id": "1p191ir",
+    "title": "Gemini 3 prompting best practices... precision, verbosity, context",
+    "author": "thehashimwarren",
+    "score_history": [
+      [
+        1,
+        "2025-11-19T06:26:46.366294"
+      ],
+      [
+        1,
+        "2025-11-19T06:26:46.593950"
+      ],
+      [
+        1,
+        "2025-11-19T06:26:46.841889"
+      ],
+      [
+        1,
+        "2025-11-19T06:26:47.061603"
+      ],
+      [
+        1,
+        "2025-11-19T06:26:47.299268"
+      ],
+      [
+        1,
+        "2025-11-19T06:26:47.519991"
+      ],
+      [
+        1,
+        "2025-11-19T06:26:47.770797"
+      ],
+      [
+        1,
+        "2025-11-19T06:26:47.980150"
+      ],
+      [
+        1,
+        "2025-11-19T06:26:48.203781"
+      ],
+      [
+        1,
+        "2025-11-19T06:26:48.427413"
+      ],
+      [
+        1,
+        "2025-11-19T06:26:48.671568"
+      ],
+      [
+        1,
+        "2025-11-19T06:26:48.888088"
+      ],
+      [
+        1,
+        "2025-11-19T06:26:49.131412"
+      ],
+      [
+        1,
+        "2025-11-19T06:26:49.343892"
+      ],
+      [
+        1,
+        "2025-11-19T06:26:49.588186"
+      ],
+      [
+        1,
+        "2025-11-19T06:26:49.789330"
+      ],
+      [
+        1,
+        "2025-11-19T06:26:50.040804"
+      ],
+      [
+        1,
+        "2025-11-19T06:26:50.259186"
+      ],
+      [
+        1,
+        "2025-11-19T06:26:50.501303"
+      ],
+      [
+        1,
+        "2025-11-19T06:26:50.722198"
+      ]
+    ],
+    "created_utc": 1763562316.0,
+    "num_comments": 0,
+    "subreddit": "singularity",
+    "url": "https://www.reddit.com/r/singularity/comments/1p191ir/gemini_3_prompting_best_practices_precision/",
+    "selftext": "Google released some best practices for prompting Gemini 3, and it's very different from Claude.\n\nI can use Claude like a design partner. I can speak clumsy instructions and into it and it will turn it into nice prose.\n\nGemini is more like a research partner. Give me clear instructions and I'll bring back a structured report. \n\nHere's the best practice guide:\n\n&gt; Gemini 3 is a reasoning model, which changes how you should prompt.\n\n&gt; Precise instructions: Be concise in your input prompts. Gemini 3 responds best to direct, clear instructions. It may over-analyze verbose or overly complex prompt engineering techniques used for older models.\n\n\n&gt; Output verbosity: By default, Gemini 3 is less verbose and prefers providing direct, efficient answers. If your use case requires a more conversational or \"chatty\" persona, you must explicitly steer the model in the prompt (e.g., \"Explain this as a friendly, talkative assistant\").\n\n&gt; Context management: When working with large datasets (e.g., entire books, codebases, or long videos), place your specific instructions or questions at the end of the prompt, after the data context. Anchor the model's reasoning to the provided data by starting your question with a phrase like, \"Based on the information above...\".",
+    "permalink": "/r/singularity/comments/1p191ir/gemini_3_prompting_best_practices_precision/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T06:26:50.722198",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/singularity/comments/1p191ir/gemini_3_prompting_best_practices_precision/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 20,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_062646.json",
+      "scrape_002_20251119_062646.json",
+      "scrape_003_20251119_062646.json",
+      "scrape_004_20251119_062646.json",
+      "scrape_005_20251119_062647.json",
+      "scrape_006_20251119_062647.json",
+      "scrape_007_20251119_062647.json",
+      "scrape_008_20251119_062647.json",
+      "scrape_009_20251119_062648.json",
+      "scrape_010_20251119_062648.json",
+      "scrape_011_20251119_062648.json",
+      "scrape_012_20251119_062648.json",
+      "scrape_013_20251119_062648.json",
+      "scrape_014_20251119_062649.json",
+      "scrape_015_20251119_062649.json",
+      "scrape_016_20251119_062649.json",
+      "scrape_017_20251119_062649.json",
+      "scrape_018_20251119_062650.json",
+      "scrape_019_20251119_062650.json",
+      "scrape_020_20251119_062650.json"
+    ]
+  }
+}

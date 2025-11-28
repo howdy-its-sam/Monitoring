@@ -1,0 +1,866 @@
+{
+  "post": {
+    "id": "u82z0n",
+    "title": "Patent? Played around with my imaging and found a way to diagnose a rare disorder faster.",
+    "author": "Telltheirstories",
+    "score_history": [
+      [
+        5,
+        "2025-11-18T13:49:41.259237"
+      ],
+      [
+        6,
+        "2025-11-18T14:00:43.007969"
+      ],
+      [
+        5,
+        "2025-11-18T14:12:10.119934"
+      ],
+      [
+        6,
+        "2025-11-18T21:49:51.165784"
+      ],
+      [
+        5,
+        "2025-11-18T23:34:37.824590"
+      ],
+      [
+        4,
+        "2025-11-19T01:18:44.364077"
+      ]
+    ],
+    "created_utc": 1650479034.0,
+    "num_comments": 17,
+    "subreddit": "HealthAI",
+    "url": "https://www.reddit.com/r/HealthAI/comments/u82z0n/patent_played_around_with_my_imaging_and_found_a/",
+    "selftext": "I recently discovered a way to use ai to diagnose a rare disorder I had that took years to diagnose. I'm not in the health industry (I do zapier automations as a job but can use codex and connect to an api) , but I'd like to know if this is something that can be patented? I'd like to start to see if there would be a clinic somewhere in the world that would host a study for further use. My fear has been so far that if I approach a for-profit tech company the solution will be for profit. I'm not really hoping to make money from this, more to protect it from someone who does. I'd just like it to help other people not suffer (like what is happening now). It's a syndrome that can be debilitating but it's not obvious and many tests come back clear (the incidental findings not connected) so patients are often dismissed despite it being connected to renal and ureter spasms (like passing kidney stones).I started a patent application today but am not even sure it can be patented.Does anyone have any experience in this? Is there somewhere I can share this where it will be used for good?",
+    "permalink": "/r/HealthAI/comments/u82z0n/patent_played_around_with_my_imaging_and_found_a/"
+  },
+  "comments": [
+    {
+      "id": "i5ik1ci",
+      "parent_id": "t3_u82z0n",
+      "author": "pinched_algorithm",
+      "text_history": [
+        [
+          "There is somewhere you can explore this in a \"for good / for public benefit\" setting - a University. This is precisely the type of thing people are doing in a post PhD academic position known as a 'post doc' or working as a 'researcher'.\n\nContact a health informatics department at a University (got a local one?) and I'm sure they'll be super keen to work with you in exploring if your AI model is something that can be applied to more than just your data.\n\nWhere in the world are you based?",
+          "2025-11-18T13:49:41.259237"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-18T13:49:41.259237"
+        ],
+        [
+          2,
+          "2025-11-18T14:00:43.007969"
+        ],
+        [
+          2,
+          "2025-11-18T14:12:10.119934"
+        ],
+        [
+          2,
+          "2025-11-18T21:49:51.165784"
+        ],
+        [
+          2,
+          "2025-11-18T23:34:37.824590"
+        ],
+        [
+          2,
+          "2025-11-19T01:18:44.364077"
+        ]
+      ],
+      "created_utc": 1650480053.0,
+      "depth": 0,
+      "permalink": "/r/HealthAI/comments/u82z0n/patent_played_around_with_my_imaging_and_found_a/i5ik1ci/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "i5ikemr",
+          "parent_id": "t1_i5ik1ci",
+          "author": "Telltheirstories",
+          "text_history": [
+            [
+              "I'm near Toronto. Do you know of a university that would be open near there? Truth is most of the doctors that didn't diagnose me properly were also professors at the University of Toronto so I'm not sure they'd listen well.",
+              "2025-11-18T13:49:41.259237"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T13:49:41.259237"
+            ],
+            [
+              1,
+              "2025-11-18T14:00:43.007969"
+            ],
+            [
+              1,
+              "2025-11-18T14:12:10.119934"
+            ],
+            [
+              1,
+              "2025-11-18T21:49:51.165784"
+            ],
+            [
+              1,
+              "2025-11-18T23:34:37.824590"
+            ],
+            [
+              1,
+              "2025-11-19T01:18:44.364077"
+            ]
+          ],
+          "created_utc": 1650480199.0,
+          "depth": 1,
+          "permalink": "/r/HealthAI/comments/u82z0n/patent_played_around_with_my_imaging_and_found_a/i5ikemr/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "i5im86o",
+              "parent_id": "t1_i5ikemr",
+              "author": "pinched_algorithm",
+              "text_history": [
+                [
+                  "It's very often clinicians who are also academic staff may not be involved in Informatics type research, so don't worry that the ones you have met are already going to be involved. Chances are, it'll be a very different group who understand the application of AI/ML to clinical imaging.\n\nI'd suggest contacting this group : https://ihpme.utoronto.ca/academics/pp/mhi/\n\nGood luck!\n\nAnd I hope your own journey with your diagnosis goes as best it can.",
+                  "2025-11-18T13:49:41.259237"
+                ]
+              ],
+              "score_history": [
+                [
+                  2,
+                  "2025-11-18T13:49:41.259237"
+                ],
+                [
+                  2,
+                  "2025-11-18T14:00:43.007969"
+                ],
+                [
+                  2,
+                  "2025-11-18T14:12:10.119934"
+                ],
+                [
+                  2,
+                  "2025-11-18T21:49:51.165784"
+                ],
+                [
+                  2,
+                  "2025-11-18T23:34:37.824590"
+                ],
+                [
+                  2,
+                  "2025-11-19T01:18:44.364077"
+                ]
+              ],
+              "created_utc": 1650480903.0,
+              "depth": 2,
+              "permalink": "/r/HealthAI/comments/u82z0n/patent_played_around_with_my_imaging_and_found_a/i5im86o/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": [
+                {
+                  "id": "i5imfmf",
+                  "parent_id": "t1_i5im86o",
+                  "author": "Telltheirstories",
+                  "text_history": [
+                    [
+                      "&gt;https://ihpme.utoronto.ca/academics/pp/mhi/\n\nThanks. I had treatment a few years ago. It just took almost decade so I'd like to go easier for the next person.",
+                      "2025-11-18T13:49:41.259237"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      3,
+                      "2025-11-18T13:49:41.259237"
+                    ],
+                    [
+                      3,
+                      "2025-11-18T14:00:43.007969"
+                    ],
+                    [
+                      3,
+                      "2025-11-18T14:12:10.119934"
+                    ],
+                    [
+                      3,
+                      "2025-11-18T21:49:51.165784"
+                    ],
+                    [
+                      3,
+                      "2025-11-18T23:34:37.824590"
+                    ],
+                    [
+                      3,
+                      "2025-11-19T01:18:44.364077"
+                    ]
+                  ],
+                  "created_utc": 1650480985.0,
+                  "depth": 3,
+                  "permalink": "/r/HealthAI/comments/u82z0n/patent_played_around_with_my_imaging_and_found_a/i5imfmf/",
+                  "is_submitter": true,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": [
+                    {
+                      "id": "i5kf4jb",
+                      "parent_id": "t1_i5imfmf",
+                      "author": "strangeattractors",
+                      "text_history": [
+                        [
+                          "Brilliant. You might want to partner with a doctor/researcher to create a medical data analytics firm.",
+                          "2025-11-18T13:49:41.259237"
+                        ]
+                      ],
+                      "score_history": [
+                        [
+                          1,
+                          "2025-11-18T13:49:41.259237"
+                        ],
+                        [
+                          1,
+                          "2025-11-18T14:00:43.007969"
+                        ],
+                        [
+                          1,
+                          "2025-11-18T14:12:10.119934"
+                        ],
+                        [
+                          1,
+                          "2025-11-18T21:49:51.165784"
+                        ],
+                        [
+                          1,
+                          "2025-11-18T23:34:37.824590"
+                        ],
+                        [
+                          1,
+                          "2025-11-19T01:18:44.364077"
+                        ]
+                      ],
+                      "created_utc": 1650508006.0,
+                      "depth": 4,
+                      "permalink": "/r/HealthAI/comments/u82z0n/patent_played_around_with_my_imaging_and_found_a/i5kf4jb/",
+                      "is_submitter": false,
+                      "controversiality": 0,
+                      "gilded": 0,
+                      "edited": false,
+                      "deleted": false,
+                      "deleted_at": null,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "i5ikhav",
+          "parent_id": "t1_i5ik1ci",
+          "author": "Telltheirstories",
+          "text_history": [
+            [
+              "Thank you btw. I would never have thought about a University",
+              "2025-11-18T13:49:41.259237"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T13:49:41.259237"
+            ],
+            [
+              1,
+              "2025-11-18T14:00:43.007969"
+            ],
+            [
+              1,
+              "2025-11-18T14:12:10.119934"
+            ],
+            [
+              1,
+              "2025-11-18T21:49:51.165784"
+            ],
+            [
+              1,
+              "2025-11-18T23:34:37.824590"
+            ],
+            [
+              1,
+              "2025-11-19T01:18:44.364077"
+            ]
+          ],
+          "created_utc": 1650480228.0,
+          "depth": 1,
+          "permalink": "/r/HealthAI/comments/u82z0n/patent_played_around_with_my_imaging_and_found_a/i5ikhav/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "i5ilns3",
+              "parent_id": "t1_i5ikhav",
+              "author": "pinched_algorithm",
+              "text_history": [
+                [
+                  "You're welcome! Dm me if you get no luck.",
+                  "2025-11-18T13:49:41.259237"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-18T13:49:41.259237"
+                ],
+                [
+                  1,
+                  "2025-11-18T14:00:43.007969"
+                ],
+                [
+                  1,
+                  "2025-11-18T14:12:10.119934"
+                ],
+                [
+                  1,
+                  "2025-11-18T21:49:51.165784"
+                ],
+                [
+                  1,
+                  "2025-11-18T23:34:37.824590"
+                ],
+                [
+                  1,
+                  "2025-11-19T01:18:44.364077"
+                ]
+              ],
+              "created_utc": 1650480676.0,
+              "depth": 2,
+              "permalink": "/r/HealthAI/comments/u82z0n/patent_played_around_with_my_imaging_and_found_a/i5ilns3/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "i5kikum",
+      "parent_id": "t3_u82z0n",
+      "author": "trnka",
+      "text_history": [
+        [
+          "I've never patented by myself, but have a few through work. My takeaway is that it's tricky to 1) get a patent approved 2) make sure that a very similar patent can't also be approved.\n\nIf you're comfortable with writing, I'd suggest trying to publish your work. Generally once something's published I don't think it can be patented, or the publication can be used in court to invalidate the patent. Publishing can be intimidating if you're new to it, so I'd recommend meeting someone with experience that would be interested in collaborating. You might try reaching out to some of these folks: [https://www.torontomachinelearning.com/ml-in-healthcare/](https://www.torontomachinelearning.com/ml-in-healthcare/)  Also ML4H is a good venue too though the 2022 site isn't up yet [https://ml4health.github.io/2021/](https://ml4health.github.io/2021/) \n\nThe reason I suggest publishing with a collaborator over solo is 1) to make it easier for you 2) to make it more likely to be accepted 3) they'll help spread the word about your findings and spread the knowledge through the community of machine learning in healthcare.\n\nAll that said I'm not a lawyer and patents work differently by country.",
+          "2025-11-18T13:49:41.259237"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T13:49:41.259237"
+        ],
+        [
+          1,
+          "2025-11-18T14:00:43.007969"
+        ],
+        [
+          1,
+          "2025-11-18T14:12:10.119934"
+        ],
+        [
+          1,
+          "2025-11-18T21:49:51.165784"
+        ],
+        [
+          1,
+          "2025-11-18T23:34:37.824590"
+        ],
+        [
+          1,
+          "2025-11-19T01:18:44.364077"
+        ]
+      ],
+      "created_utc": 1650509567.0,
+      "depth": 0,
+      "permalink": "/r/HealthAI/comments/u82z0n/patent_played_around_with_my_imaging_and_found_a/i5kikum/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "i7r169f",
+          "parent_id": "t1_i5kikum",
+          "author": "Telltheirstories",
+          "text_history": [
+            [
+              "In the end, I am working towards having a university do a study. It's just a busy time of year for universities atm. Thanks!",
+              "2025-11-18T13:49:41.259237"
+            ]
+          ],
+          "score_history": [
+            [
+              2,
+              "2025-11-18T13:49:41.259237"
+            ],
+            [
+              2,
+              "2025-11-18T14:00:43.007969"
+            ],
+            [
+              2,
+              "2025-11-18T14:12:10.119934"
+            ],
+            [
+              2,
+              "2025-11-18T21:49:51.165784"
+            ],
+            [
+              2,
+              "2025-11-18T23:34:37.824590"
+            ],
+            [
+              2,
+              "2025-11-19T01:18:44.364077"
+            ]
+          ],
+          "created_utc": 1651976408.0,
+          "depth": 1,
+          "permalink": "/r/HealthAI/comments/u82z0n/patent_played_around_with_my_imaging_and_found_a/i7r169f/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "i74m0sr",
+      "parent_id": "t3_u82z0n",
+      "author": "fjfif6663",
+      "text_history": [
+        [
+          "There's an entire classification for this and there's over 50,000+ patent applications from 276 + different patent offices . I'm no lawyer but has any of those patents succeeded and If not why would yours ? Do you have hundreds of miles of earth resources below you to manufacture such product or do you just want to have the application for clout",
+          "2025-11-18T13:49:41.259237"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T13:49:41.259237"
+        ],
+        [
+          1,
+          "2025-11-18T14:00:43.007969"
+        ],
+        [
+          1,
+          "2025-11-18T14:12:10.119934"
+        ],
+        [
+          1,
+          "2025-11-18T21:49:51.165784"
+        ],
+        [
+          1,
+          "2025-11-18T23:34:37.824590"
+        ],
+        [
+          1,
+          "2025-11-19T01:18:44.364077"
+        ]
+      ],
+      "created_utc": 1651557436.0,
+      "depth": 0,
+      "permalink": "/r/HealthAI/comments/u82z0n/patent_played_around_with_my_imaging_and_found_a/i74m0sr/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "i7qzrju",
+          "parent_id": "t1_i74m0sr",
+          "author": "Telltheirstories",
+          "text_history": [
+            [
+              "Read the post, then try not to be so judgemental :)",
+              "2025-11-18T13:49:41.259237"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T13:49:41.259237"
+            ],
+            [
+              1,
+              "2025-11-18T14:00:43.007969"
+            ],
+            [
+              1,
+              "2025-11-18T14:12:10.119934"
+            ],
+            [
+              1,
+              "2025-11-18T21:49:51.165784"
+            ],
+            [
+              1,
+              "2025-11-18T23:34:37.824590"
+            ],
+            [
+              1,
+              "2025-11-19T01:18:44.364077"
+            ]
+          ],
+          "created_utc": 1651975660.0,
+          "depth": 1,
+          "permalink": "/r/HealthAI/comments/u82z0n/patent_played_around_with_my_imaging_and_found_a/i7qzrju/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "j3qfdj2",
+      "parent_id": "t3_u82z0n",
+      "author": "HopelesslyFlawed21",
+      "text_history": [
+        [
+          "The application [for a novel imaging diagnostic and predictive test for monitoring the progression of Alzheimer’s disease] was abandoned [d]ue to the change in law brought on by Mayo and Myriad….and Alzheimer’s patients are not receiving the benefit of the invention.",
+          "2025-11-18T13:49:41.259237"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T13:49:41.259237"
+        ],
+        [
+          1,
+          "2025-11-18T14:00:43.007969"
+        ],
+        [
+          1,
+          "2025-11-18T14:12:10.119934"
+        ],
+        [
+          1,
+          "2025-11-18T21:49:51.165784"
+        ],
+        [
+          1,
+          "2025-11-18T23:34:37.824590"
+        ],
+        [
+          1,
+          "2025-11-19T01:18:44.364077"
+        ]
+      ],
+      "created_utc": 1673347134.0,
+      "depth": 0,
+      "permalink": "/r/HealthAI/comments/u82z0n/patent_played_around_with_my_imaging_and_found_a/j3qfdj2/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "j7uosz7",
+      "parent_id": "t3_u82z0n",
+      "author": "perky_colors59",
+      "text_history": [
+        [
+          "Contact a health informatics department at a university (do you have a local one?) I'm sure they'll be super excited to work with you to see if your AI model can be used for more than just your data.",
+          "2025-11-18T13:49:41.259237"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T13:49:41.259237"
+        ],
+        [
+          1,
+          "2025-11-18T14:00:43.007969"
+        ],
+        [
+          1,
+          "2025-11-18T14:12:10.119934"
+        ],
+        [
+          1,
+          "2025-11-18T21:49:51.165784"
+        ],
+        [
+          1,
+          "2025-11-18T23:34:37.824590"
+        ],
+        [
+          1,
+          "2025-11-19T01:18:44.364077"
+        ]
+      ],
+      "created_utc": 1675956148.0,
+      "depth": 0,
+      "permalink": "/r/HealthAI/comments/u82z0n/patent_played_around_with_my_imaging_and_found_a/j7uosz7/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "jo8a2t0",
+      "parent_id": "t3_u82z0n",
+      "author": "sentimental_tooth",
+      "text_history": [
+        [
+          "Clinicians who are also academic staff often aren't involved in Informatics research. The group working on AI/ML in clinical imaging will likely be different and specialized.",
+          "2025-11-18T13:49:41.259237"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T13:49:41.259237"
+        ],
+        [
+          1,
+          "2025-11-18T14:00:43.007969"
+        ],
+        [
+          1,
+          "2025-11-18T14:12:10.119934"
+        ],
+        [
+          1,
+          "2025-11-18T21:49:51.165784"
+        ],
+        [
+          1,
+          "2025-11-18T23:34:37.824590"
+        ],
+        [
+          1,
+          "2025-11-19T01:18:44.364077"
+        ]
+      ],
+      "created_utc": 1686839132.0,
+      "depth": 0,
+      "permalink": "/r/HealthAI/comments/u82z0n/patent_played_around_with_my_imaging_and_found_a/jo8a2t0/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "jvkiree",
+      "parent_id": "t3_u82z0n",
+      "author": "ameliawinlets",
+      "text_history": [
+        [
+          "Discovered AI diagnosis for rare disorder, seeking patent to prevent profit-driven use. Aim to help others, not profit. Any advice/experience? #MedicalInnovation",
+          "2025-11-18T13:49:41.259237"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T13:49:41.259237"
+        ],
+        [
+          1,
+          "2025-11-18T14:00:43.007969"
+        ],
+        [
+          1,
+          "2025-11-18T14:12:10.119934"
+        ],
+        [
+          1,
+          "2025-11-18T21:49:51.165784"
+        ],
+        [
+          1,
+          "2025-11-18T23:34:37.824590"
+        ],
+        [
+          1,
+          "2025-11-19T01:18:44.364077"
+        ]
+      ],
+      "created_utc": 1691665745.0,
+      "depth": 0,
+      "permalink": "/r/HealthAI/comments/u82z0n/patent_played_around_with_my_imaging_and_found_a/jvkiree/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "k99bnl0",
+      "parent_id": "t3_u82z0n",
+      "author": "frodslot",
+      "text_history": [
+        [
+          "Hey! I am a PhD candidate at McMaster. I started an organization called AI-MD where people can harness text, photos, videos and audio to get more accurate diagnoses. In my PhD I am working on a speech biomarker for cannabis impairment, so I have some experience with commercializing novel biomarkers. If you want to get some distribution of your system I would be happy to chat with you about how we can work together to get your system used for good! That was my goal too when we started a couple years ago :).",
+          "2025-11-18T13:49:41.259237"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T13:49:41.259237"
+        ],
+        [
+          1,
+          "2025-11-18T14:00:43.007969"
+        ],
+        [
+          1,
+          "2025-11-18T14:12:10.119934"
+        ],
+        [
+          1,
+          "2025-11-18T21:49:51.165784"
+        ],
+        [
+          1,
+          "2025-11-18T23:34:37.824590"
+        ],
+        [
+          1,
+          "2025-11-19T01:18:44.364077"
+        ]
+      ],
+      "created_utc": 1699992803.0,
+      "depth": 0,
+      "permalink": "/r/HealthAI/comments/u82z0n/patent_played_around_with_my_imaging_and_found_a/k99bnl0/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "khh7qkt",
+      "parent_id": "t3_u82z0n",
+      "author": "awesomeJanelle07",
+      "text_history": [
+        [
+          " It's awesome that you've found a way to use AI for faster diagnosis of a rare disorder. Patenting your discovery is definitely a smart move to protect it from potential misuse. Since you're not in the health industry but want to ensure it helps people, consider reaching out to research institutions or clinics that focus on the disorder. Sharing your knowledge for the greater good is fantastic, and your concerns about for-profit ventures are valid. Keep up the great work, and I hope your innovation makes a positive impact on those dealing with the disorder! 👏",
+          "2025-11-18T13:49:41.259237"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T13:49:41.259237"
+        ],
+        [
+          1,
+          "2025-11-18T14:00:43.007969"
+        ],
+        [
+          1,
+          "2025-11-18T14:12:10.119934"
+        ],
+        [
+          1,
+          "2025-11-18T21:49:51.165784"
+        ],
+        [
+          1,
+          "2025-11-18T23:34:37.824590"
+        ],
+        [
+          1,
+          "2025-11-19T01:18:44.364077"
+        ]
+      ],
+      "created_utc": 1705036821.0,
+      "depth": 0,
+      "permalink": "/r/HealthAI/comments/u82z0n/patent_played_around_with_my_imaging_and_found_a/khh7qkt/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T01:18:44.364077",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/HealthAI/comments/u82z0n/patent_played_around_with_my_imaging_and_found_a/",
+    "total_comments": 17,
+    "top_level_comments": 9,
+    "api_requests": 1,
+    "expected_comments": 17,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 6,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_134940.json",
+      "scrape_002_20251118_140042.json",
+      "scrape_003_20251118_141209.json",
+      "scrape_004_20251118_214950.json",
+      "scrape_005_20251118_233437.json",
+      "scrape_006_20251119_011844.json"
+    ]
+  }
+}

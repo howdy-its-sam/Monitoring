@@ -1,0 +1,115 @@
+{
+  "post": {
+    "id": "1p0m43f",
+    "title": "Watched “Exploiting Shadow Data from AI Models &amp; Embeddings” — how worried should RAG builders be?",
+    "author": "Altruistic-Egg-6926",
+    "score_history": [
+      [
+        0,
+        "2025-11-18T14:22:09.686557"
+      ],
+      [
+        0,
+        "2025-11-18T14:32:05.985048"
+      ],
+      [
+        0,
+        "2025-11-18T14:35:06.487022"
+      ]
+    ],
+    "created_utc": 1763495816.0,
+    "num_comments": 2,
+    "subreddit": "Rag",
+    "url": "https://www.reddit.com/r/Rag/comments/1p0m43f/watched_exploiting_shadow_data_from_ai_models/",
+    "selftext": "I just watched Patrick Walsh’s DEF CON talk on “shadow data” in AI apps (LLMs + RAG) and I’m a bit rattled. Key points that hit me:\n\n* Real leakage happens: models regurgitating training data (e.g., paywalled text, near-duplicate images).\n* Fine-tuning on private data creates indirect copies that can spill with simple persistence.\n* “99% safe” guardrails = failure in security; retries win.\n* In RAG, sensitive data spreads everywhere: queries, retrieved context, system prompts, fine-tuned models, and especially logs.\n* Logs often store full retrieved files; legal holds can force retention/disclosure.\n* System prompts and context are extractable; longer contexts improved attack success (passwords/SSNs popped in demos).\n* Embeddings are not “harmless numbers”: inversion tools can reconstruct names, dates, diagnoses, amounts with high accuracy.\n* Real-world abuses hit M365 Copilot and Gemini via indirect prompt injection and clever link formatting.\n* Suggested mitigations: be wary of auto-AI features, push vendors on security, prefer app-layer encryption; consider confidential compute, homomorphic approaches (DCPE), plus careful tokenization/redaction.\n\nFor folks building RAG systems:\n\n* How much should we worry in practice?\n* What’s your realistic, production-ready stack of defenses that actually moves risk meaningfully (beyond prompt firewalls)?\n* Any battle-tested logging strategies that keep usefulness while minimizing blast radius and legal exposure?\n* Are you treating vector DBs as sensitive stores with strong access controls and encryption-by-default?\n* Have you measured attack success vs. context length and implemented caps/chunking/filters that truly help?\n\nWould love concrete playbooks, tooling recs, and “we tried X in prod and it worked/didn’t” stories.\n\n  \n[https://youtu.be/O7BI4jfEFwA](https://youtu.be/O7BI4jfEFwA)",
+    "permalink": "/r/Rag/comments/1p0m43f/watched_exploiting_shadow_data_from_ai_models/"
+  },
+  "comments": [
+    {
+      "id": "npjzi5g",
+      "parent_id": "t3_1p0m43f",
+      "author": "rishiarora",
+      "text_history": [
+        [
+          "It's data leakage. There are ways to combat simplest is by having model locally hosted on in house cluster. Next there are solutions like AWS Nitro Enclaves.",
+          "2025-11-18T14:22:09.686557"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:22:09.686557"
+        ],
+        [
+          1,
+          "2025-11-18T14:32:05.985048"
+        ],
+        [
+          1,
+          "2025-11-18T14:35:06.487022"
+        ]
+      ],
+      "created_utc": 1763498181.0,
+      "depth": 0,
+      "permalink": "/r/Rag/comments/1p0m43f/watched_exploiting_shadow_data_from_ai_models/npjzi5g/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npk9lfs",
+      "parent_id": "t3_1p0m43f",
+      "author": "bzImage",
+      "text_history": [
+        [
+          "Was not able to replicate any of the supposed tests with 3 different providers.. \n\nYou tried ?",
+          "2025-11-18T14:22:09.686557"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:22:09.686557"
+        ],
+        [
+          1,
+          "2025-11-18T14:32:05.985048"
+        ],
+        [
+          1,
+          "2025-11-18T14:35:06.487022"
+        ]
+      ],
+      "created_utc": 1763501183.0,
+      "depth": 0,
+      "permalink": "/r/Rag/comments/1p0m43f/watched_exploiting_shadow_data_from_ai_models/npk9lfs/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-18T14:35:06.487022",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/Rag/comments/1p0m43f/watched_exploiting_shadow_data_from_ai_models/",
+    "total_comments": 2,
+    "top_level_comments": 2,
+    "api_requests": 1,
+    "expected_comments": 2,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_142209.json",
+      "scrape_002_20251118_143205.json",
+      "scrape_003_20251118_143506.json"
+    ]
+  }
+}

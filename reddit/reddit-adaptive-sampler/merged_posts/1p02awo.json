@@ -1,0 +1,116 @@
+{
+  "post": {
+    "id": "1p02awo",
+    "title": "Send a phone call from AI agent, in an API call",
+    "author": "buildingthevoid",
+    "score_history": [
+      [
+        4,
+        "2025-11-18T13:49:51.751785"
+      ],
+      [
+        5,
+        "2025-11-18T14:00:57.609662"
+      ],
+      [
+        4,
+        "2025-11-18T14:12:15.773269"
+      ],
+      [
+        4,
+        "2025-11-18T21:49:54.490076"
+      ],
+      [
+        3,
+        "2025-11-18T23:33:16.061795"
+      ],
+      [
+        4,
+        "2025-11-19T01:29:00.816914"
+      ],
+      [
+        4,
+        "2025-11-19T07:22:50.842586"
+      ]
+    ],
+    "created_utc": 1763439237.0,
+    "num_comments": 1,
+    "subreddit": "AgentsOfAI",
+    "url": "https://i.redd.it/n9dsvu7zxx1g1.jpeg",
+    "selftext": "",
+    "permalink": "/r/AgentsOfAI/comments/1p02awo/send_a_phone_call_from_ai_agent_in_an_api_call/"
+  },
+  "comments": [
+    {
+      "id": "npfu349",
+      "parent_id": "t3_1p02awo",
+      "author": "buildingthevoid",
+      "text_history": [
+        [
+          "Link-\n\n\nhttps://www.opensourceprojects.dev/post/1988114304382697907",
+          "2025-11-18T13:49:51.751785"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T13:49:51.751785"
+        ],
+        [
+          1,
+          "2025-11-18T14:00:57.609662"
+        ],
+        [
+          1,
+          "2025-11-18T14:12:15.773269"
+        ],
+        [
+          1,
+          "2025-11-18T21:49:54.490076"
+        ],
+        [
+          1,
+          "2025-11-18T23:33:16.061795"
+        ],
+        [
+          1,
+          "2025-11-19T01:29:00.816914"
+        ],
+        [
+          1,
+          "2025-11-19T07:22:50.842586"
+        ]
+      ],
+      "created_utc": 1763439284.0,
+      "depth": 0,
+      "permalink": "/r/AgentsOfAI/comments/1p02awo/send_a_phone_call_from_ai_agent_in_an_api_call/npfu349/",
+      "is_submitter": true,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T07:22:50.842586",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/AgentsOfAI/comments/1p02awo/send_a_phone_call_from_ai_agent_in_an_api_call/",
+    "total_comments": 1,
+    "top_level_comments": 1,
+    "api_requests": 1,
+    "expected_comments": 1,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 7,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_134951.json",
+      "scrape_002_20251118_140057.json",
+      "scrape_003_20251118_141215.json",
+      "scrape_004_20251118_214954.json",
+      "scrape_005_20251118_233315.json",
+      "scrape_006_20251119_012900.json",
+      "scrape_007_20251119_072250.json"
+    ]
+  }
+}

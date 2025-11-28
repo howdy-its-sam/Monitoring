@@ -1,0 +1,80 @@
+{
+  "post": {
+    "id": "1p1560u",
+    "title": "HELP PLS Supabase Node processes only the 1st item despite 10 input items (Execute Once is OFF)",
+    "author": "Aggravating-Ad-2723",
+    "score_history": [
+      [
+        1,
+        "2025-11-19T03:41:45.154999"
+      ],
+      [
+        1,
+        "2025-11-19T03:50:12.264102"
+      ],
+      [
+        1,
+        "2025-11-19T03:52:30.641272"
+      ]
+    ],
+    "created_utc": 1763551617.0,
+    "num_comments": 1,
+    "subreddit": "AI_Agents",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1p1560u/help_pls_supabase_node_processes_only_the_1st/",
+    "selftext": "Hi everyone, I’m facing a logic issue with deduplication in n8n and could use some help.\n\n**The Workflow:**\n\n1. I have a **Switch Node** that outputs **10 separate items** (URLs) to a specific branch.\n2. These 10 items flow into a **Supabase Node** (Operation: `Get Many`, Limit: `1`) to check if the URL already exists in my DB.\n\n**The Settings:**\n\n* **Execute Once:** OFF (It should run for all items).\n* **Always Output Data:** ON (So I can catch new items that return empty).\n\n**The Problem:** Even though 10 items enter the Supabase node, it seems to only process the **very first item** and then stop. The output shows only **1 item** (which is empty because it wasn't found), and the other 9 items are completely ignored/dropped.\n\nWhy isn't the node iterating through all 10 incoming items? How can I force it to check the DB for *each* item individually so I can filter the results afterward?\n\nThanks!\n\n",
+    "permalink": "/r/AI_Agents/comments/1p1560u/help_pls_supabase_node_processes_only_the_1st/"
+  },
+  "comments": [
+    {
+      "id": "npni1gt",
+      "parent_id": "t3_1p1560u",
+      "author": "AutoModerator",
+      "text_history": [
+        [
+          "Thank you for your submission, for any questions regarding AI, please check out our wiki at https://www.reddit.com/r/ai_agents/wiki (this is currently in test and we are actively adding to the wiki)\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/AI_Agents) if you have any questions or concerns.*",
+          "2025-11-19T03:41:45.154999"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T03:41:45.154999"
+        ],
+        [
+          1,
+          "2025-11-19T03:50:12.264102"
+        ],
+        [
+          1,
+          "2025-11-19T03:52:30.641272"
+        ]
+      ],
+      "created_utc": 1763551618.0,
+      "depth": 0,
+      "permalink": "/r/AI_Agents/comments/1p1560u/help_pls_supabase_node_processes_only_the_1st/npni1gt/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:52:30.641272",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/AI_Agents/comments/1p1560u/help_pls_supabase_node_processes_only_the_1st/",
+    "total_comments": 1,
+    "top_level_comments": 1,
+    "api_requests": 1,
+    "expected_comments": 1,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_034144.json",
+      "scrape_002_20251119_035012.json",
+      "scrape_003_20251119_035230.json"
+    ]
+  }
+}

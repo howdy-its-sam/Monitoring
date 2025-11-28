@@ -1,0 +1,80 @@
+{
+  "post": {
+    "id": "1p0obgt",
+    "title": "[D] What's the one thing you wish you'd known before putting an LLM app in production?",
+    "author": "Bbamf10",
+    "score_history": [
+      [
+        5,
+        "2025-11-19T02:55:38.183872"
+      ],
+      [
+        6,
+        "2025-11-19T03:03:37.544818"
+      ],
+      [
+        5,
+        "2025-11-19T03:04:58.270808"
+      ]
+    ],
+    "created_utc": 1763500832.0,
+    "num_comments": 1,
+    "subreddit": "LangChain",
+    "url": "https://www.reddit.com/r/LangChain/comments/1p0obgt/d_whats_the_one_thing_you_wish_youd_known_before/",
+    "selftext": "We're about to launch our first AI-powered feature (been in beta for a few weeks) and I have that feeling like I'm missing something important.\n\nEveryone talks about prompt engineering and model selection, but what about Cost monitoring? Handling rate limits?\n\nWhat breaks first when you go from 10 users to 10,000?\n\nWould love to hear lessons learned from people who've been through this.",
+    "permalink": "/r/LangChain/comments/1p0obgt/d_whats_the_one_thing_you_wish_youd_known_before/"
+  },
+  "comments": [
+    {
+      "id": "nplvbul",
+      "parent_id": "t3_1p0obgt",
+      "author": "Reasonable_Event1494",
+      "text_history": [
+        [
+          "I think one of the most important thing is how efficiently you store and use the memory of a particular user conversation because in the end if you don't handle it properly it's gonna increase your input tokens and the cost of using the model is directly proportional to that.",
+          "2025-11-19T02:55:38.183872"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-19T02:55:38.183872"
+        ],
+        [
+          2,
+          "2025-11-19T03:03:37.544818"
+        ],
+        [
+          2,
+          "2025-11-19T03:04:58.270808"
+        ]
+      ],
+      "created_utc": 1763521002.0,
+      "depth": 0,
+      "permalink": "/r/LangChain/comments/1p0obgt/d_whats_the_one_thing_you_wish_youd_known_before/nplvbul/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:04:58.270808",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/LangChain/comments/1p0obgt/d_whats_the_one_thing_you_wish_youd_known_before/",
+    "total_comments": 1,
+    "top_level_comments": 1,
+    "api_requests": 1,
+    "expected_comments": 1,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_025537.json",
+      "scrape_002_20251119_030337.json",
+      "scrape_003_20251119_030458.json"
+    ]
+  }
+}

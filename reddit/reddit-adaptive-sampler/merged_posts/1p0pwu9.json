@@ -1,0 +1,44 @@
+{
+  "post": {
+    "id": "1p0pwu9",
+    "title": "Document chunker &amp; Reinforcement Learning Agent",
+    "author": "Heavy-Pangolin-4984",
+    "score_history": [
+      [
+        1,
+        "2025-11-19T02:55:36.443620"
+      ],
+      [
+        1,
+        "2025-11-19T03:04:55.776024"
+      ],
+      [
+        1,
+        "2025-11-19T03:06:57.124905"
+      ]
+    ],
+    "created_utc": 1763504516.0,
+    "num_comments": 0,
+    "subreddit": "Rag",
+    "url": "https://www.reddit.com/r/Rag/comments/1p0pwu9/document_chunker_reinforcement_learning_agent/",
+    "selftext": "We built a plug &amp; play tool (Air Chunker) that can terminate every single pathetic document (i.e., legal, government, organisational) in the universe and mutate them into RAGable content - we built it on the principles of Don't Repeat Yourself.\n\nAir Chunker consists of a custom Reinforcement Learning (RL) agent trained on a large text corpus to learn how to semantically and logically segment or “chunk” text. The agent operates in an organic environment of the document, where each document provides a dynamic state space including:\n\n* Position and sentence location\n* Target sentence embeddings\n* Chunk elasticity (flexibility in grouping sentences)\n* Identity in vector space\n\nWe are progressing the wrok to make the Air Chunker work across any type of input (a lot of work is underway). Air Chunker high-level workflow amplifies the below capabilities:\n\n1. Document Strategy: A specific and relevant document strategy is applied to sharpen the sensory understanding of any input document.\n2. Multimodal Artefact Transformation: With elevated consciousness of the document, it is transformed into artefacts—visuals, metadata, and more—suitable for multimodal LLMs, including vision, aiming to build extraordinary mental model–based LLMs.\n3. Propositional Indexing: Propositional indexing acts as a critical recipe to enable semantic behaviours in documents, harvested to guide the agent.\n4. RL-Driven Chunking (plus all chunking strategies): The pretrained RL agent is marshalled to semantically chunk the document, producing coherent, high-fidelity segments. All other chunking strategies are available too.\n\nA bit more about RL agent (skip if not interested) - At each timestep, the agent observes a hybrid state vector, comprising the current sentence embedding, the length of the evolving chunk, and the cosine similarity to the chunk’s aggregate embedding, allowing it to assess coherence and cohesion. Actions dictate whether to extend the current chunk or finalize it, while rewards are computed to capture semantic consistency, chunk elasticity, and optimal grouping relative to the surrounding text. Through iterative exploration and reward-guided selection, the agent cultivates adaptive, high-fidelity text chunks, balancing immediate sentence cohesion against potential improvements in subsequent positions. The environment inherently models evolutionary decision-making in vector space, facilitating the emergence of organically structured text demography across the document corpus, informed by strategy, propositional indexing, and multimodal awareness.\n\nBy integrating strategy, multimodal artefacts, propositional indexing, and reinforcement learning, Air Chunker transforms static, opaque documents into semantically rich, RAGable content, unlocking new dimensions of knowledge discovery and reasoning. Its evolutionary, vector-space–driven approach ensures that every chunk is meaningful, coherent, and contextually aware, making Air Chunker not just a tool, but an organic collaborator in understanding the written world.\n\nWe invite visionary minds, developers, and AI enthusiasts to join the mission and contribute to advancing AC's capabilities. Explore, experiment, and collaborate with us through our project: [PreVectorChunks on PyPI](https://pypi.org/project/prevectorchunks-core/) and [GitHub repository](https://github.com/zuldeveloper2023/PreVectorChunks). Together, let’s build this plug &amp; play tool so we never have to think documents ever.",
+    "permalink": "/r/Rag/comments/1p0pwu9/document_chunker_reinforcement_learning_agent/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:06:57.124905",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/Rag/comments/1p0pwu9/document_chunker_reinforcement_learning_agent/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_025536.json",
+      "scrape_002_20251119_030455.json",
+      "scrape_003_20251119_030656.json"
+    ]
+  }
+}

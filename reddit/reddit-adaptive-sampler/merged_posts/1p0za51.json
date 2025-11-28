@@ -1,0 +1,223 @@
+{
+  "post": {
+    "id": "1p0za51",
+    "title": "Ai agent to compare jira tickets to deduplicate them",
+    "author": "AdMean3047",
+    "score_history": [
+      [
+        4,
+        "2025-11-19T03:50:46.456856"
+      ],
+      [
+        5,
+        "2025-11-19T03:59:41.117199"
+      ],
+      [
+        4,
+        "2025-11-19T04:01:46.942402"
+      ]
+    ],
+    "created_utc": 1763530572.0,
+    "num_comments": 6,
+    "subreddit": "AI_Agents",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1p0za51/ai_agent_to_compare_jira_tickets_to_deduplicate/",
+    "selftext": "Hi guys, \n\nI’m working on a deduplication problem for JIRA tickets and I’d love some advice from people who have done something similar.\n\nContext\n\nEach ticket contains:\n• Latitude and longitude\n• A short issue description\n• Some extra metadata\n\nSometimes multiple tickets describe the same real-world issue, just with slightly different text or slightly different coordinates. I want to automatically detect when two tickets are actually duplicates.\n\nWhat I’m considering\n\n1. Vector database with embeddings\nConvert each ticket’s description into embeddings, store them in a vector database, and run similarity search. Then combine that with a geospatial distance check. I’m not sure if this is the best approach or too heavy for the problem.\n\n\n2. Geospatial clustering plus text similarity\nCluster tickets by distance (for example DBSCAN or a radius based on Haversine distance). Then compare the descriptions using something like Sentence Transformers or OpenAI embeddings. If both the distance and text similarity pass a threshold, mark as duplicates.\n\n\n3. Maybe something simpler\nOpen to ideas if there’s a workflow that works well in practice.\n\n\n\nWhat I need help with\n\n• Is using a vector database and something like RAG even the right approach here?\n• What is considered best practice for comparing geospatial data with short text descriptions?\n• How would you design this system if you needed to detect duplicates at scale?\n\nAny suggestions or examples would really help. Thanks!",
+    "permalink": "/r/AI_Agents/comments/1p0za51/ai_agent_to_compare_jira_tickets_to_deduplicate/"
+  },
+  "comments": [
+    {
+      "id": "npmo8vl",
+      "parent_id": "t3_1p0za51",
+      "author": "StefonAlfaro3PLDev",
+      "text_history": [
+        [
+          "RAG would not be needed at all but yes vector database to check for the nearest k neighbors (similarity search).",
+          "2025-11-19T03:50:46.456856"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-19T03:50:46.456856"
+        ],
+        [
+          2,
+          "2025-11-19T03:59:41.117199"
+        ],
+        [
+          2,
+          "2025-11-19T04:01:46.942402"
+        ]
+      ],
+      "created_utc": 1763533832.0,
+      "depth": 0,
+      "permalink": "/r/AI_Agents/comments/1p0za51/ai_agent_to_compare_jira_tickets_to_deduplicate/npmo8vl/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npmoext",
+          "parent_id": "t1_npmo8vl",
+          "author": "AdMean3047",
+          "text_history": [
+            [
+              "Can you brief a bit more as to how to perform it .... Would love to learn",
+              "2025-11-19T03:50:46.456856"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-19T03:50:46.456856"
+            ],
+            [
+              1,
+              "2025-11-19T03:59:41.117199"
+            ],
+            [
+              1,
+              "2025-11-19T04:01:46.942402"
+            ]
+          ],
+          "created_utc": 1763533925.0,
+          "depth": 1,
+          "permalink": "/r/AI_Agents/comments/1p0za51/ai_agent_to_compare_jira_tickets_to_deduplicate/npmoext/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npmrtwe",
+              "parent_id": "t1_npmoext",
+              "author": "StefonAlfaro3PLDev",
+              "text_history": [
+                [
+                  "When you turn the ticket description into Vector Embedding you will have a vector.\n\nYou then use the Vector Database to run a similarity search against all other vectors.",
+                  "2025-11-19T03:50:46.456856"
+                ]
+              ],
+              "score_history": [
+                [
+                  2,
+                  "2025-11-19T03:50:46.456856"
+                ],
+                [
+                  2,
+                  "2025-11-19T03:59:41.117199"
+                ],
+                [
+                  2,
+                  "2025-11-19T04:01:46.942402"
+                ]
+              ],
+              "created_utc": 1763535837.0,
+              "depth": 2,
+              "permalink": "/r/AI_Agents/comments/1p0za51/ai_agent_to_compare_jira_tickets_to_deduplicate/npmrtwe/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": [
+                {
+                  "id": "npmvdc1",
+                  "parent_id": "t1_npmrtwe",
+                  "author": "AdMean3047",
+                  "text_history": [
+                    [
+                      "Okay sure , thanks",
+                      "2025-11-19T03:50:46.456856"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      1,
+                      "2025-11-19T03:50:46.456856"
+                    ],
+                    [
+                      1,
+                      "2025-11-19T03:59:41.117199"
+                    ],
+                    [
+                      1,
+                      "2025-11-19T04:01:46.942402"
+                    ]
+                  ],
+                  "created_utc": 1763537931.0,
+                  "depth": 3,
+                  "permalink": "/r/AI_Agents/comments/1p0za51/ai_agent_to_compare_jira_tickets_to_deduplicate/npmvdc1/",
+                  "is_submitter": true,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "npmhzxw",
+      "parent_id": "t3_1p0za51",
+      "author": "AutoModerator",
+      "text_history": [
+        [
+          "Thank you for your submission, for any questions regarding AI, please check out our wiki at https://www.reddit.com/r/ai_agents/wiki (this is currently in test and we are actively adding to the wiki)\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/AI_Agents) if you have any questions or concerns.*",
+          "2025-11-19T03:50:46.456856"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T03:50:46.456856"
+        ],
+        [
+          1,
+          "2025-11-19T03:59:41.117199"
+        ],
+        [
+          1,
+          "2025-11-19T04:01:46.942402"
+        ]
+      ],
+      "created_utc": 1763530573.0,
+      "depth": 0,
+      "permalink": "/r/AI_Agents/comments/1p0za51/ai_agent_to_compare_jira_tickets_to_deduplicate/npmhzxw/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T04:01:46.942402",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/AI_Agents/comments/1p0za51/ai_agent_to_compare_jira_tickets_to_deduplicate/",
+    "total_comments": 5,
+    "top_level_comments": 2,
+    "api_requests": 1,
+    "expected_comments": 6,
+    "coverage_percent": 83.33,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_035046.json",
+      "scrape_002_20251119_035940.json",
+      "scrape_003_20251119_040146.json"
+    ]
+  }
+}

@@ -1,0 +1,251 @@
+{
+  "post": {
+    "id": "1p09w5e",
+    "title": "LLMs Fail at Consistent Trade-Off Reasoning. Here’s What Developers Should Do Instead.",
+    "author": "Constant_Feedback728",
+    "score_history": [
+      [
+        0,
+        "2025-11-18T13:48:49.134013"
+      ],
+      [
+        0,
+        "2025-11-18T13:59:57.575494"
+      ],
+      [
+        0,
+        "2025-11-18T14:11:17.269515"
+      ],
+      [
+        0,
+        "2025-11-18T21:29:03.948928"
+      ],
+      [
+        0,
+        "2025-11-18T23:12:36.739478"
+      ],
+      [
+        0,
+        "2025-11-19T00:47:52.307263"
+      ]
+    ],
+    "created_utc": 1763466640.0,
+    "num_comments": 5,
+    "subreddit": "PromptEngineering",
+    "url": "https://www.reddit.com/r/PromptEngineering/comments/1p09w5e/llms_fail_at_consistent_tradeoff_reasoning_heres/",
+    "selftext": "We often assume LLMs can weigh options logically: cost vs performance, safety vs speed, accuracy vs latency. But when you test models across controlled trade-offs, something surprising happens:\n\n**Their preference logic collapses depending on the scenario.**\n\nA model that behaves rationally under \"capability loss\" may behave randomly under \"oversight\" or \"resource reduction\" - even when the math is identical. Some models never show a stable pattern at all.\n\nFor developers, this means one thing:\n\n**Do NOT let LLMs make autonomous trade-offs.**  \nUse them as *analysts*, not *deciders*.\n\n**What to do instead:**\n\n* Keep decision rules external (hard-coded priorities, scoring functions).\n* Use structured evaluation (JSON), not “pick 1, 2, or 3.”\n* Validate prompts across multiple framings; if outputs flip, remove autonomy.\n* Treat models as describers of consequences, not selectors of outcomes.\n\n**Example:**\n\n    Rate each option on risk, cost, latency, and benefit (0–10).\n    Return JSON only.\n    \n    Expected:\n    {\n     \"A\": {\"risk\":3,\"cost\":4,\"latency\":6,\"benefit\":8},\n     \"B\": {\"risk\":6,\"cost\":5,\"latency\":3,\"benefit\":7}\n    }\n\nThis avoids unstable preference logic altogether.\n\n**Full detailed breakdown here:**  \n[https://www.instruction.tips/post/llm-preference-incoherence-guide](https://www.instruction.tips/post/llm-preference-incoherence-guide)",
+    "permalink": "/r/PromptEngineering/comments/1p09w5e/llms_fail_at_consistent_tradeoff_reasoning_heres/"
+  },
+  "comments": [
+    {
+      "id": "npi3bqz",
+      "parent_id": "t3_1p09w5e",
+      "author": "WillowEmberly",
+      "text_history": [
+        [
+          "Selection requires continuity. LLMs have no continuity — only state reconstruction. So they analyze; the rails decide.",
+          "2025-11-18T13:48:49.134013"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T13:48:49.134013"
+        ],
+        [
+          1,
+          "2025-11-18T13:59:57.575494"
+        ],
+        [
+          1,
+          "2025-11-18T14:11:17.269515"
+        ],
+        [
+          1,
+          "2025-11-18T21:29:03.948928"
+        ],
+        [
+          1,
+          "2025-11-18T23:12:36.739478"
+        ],
+        [
+          1,
+          "2025-11-19T00:47:52.307263"
+        ]
+      ],
+      "created_utc": 1763478027.0,
+      "depth": 0,
+      "permalink": "/r/PromptEngineering/comments/1p09w5e/llms_fail_at_consistent_tradeoff_reasoning_heres/npi3bqz/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npi3qu3",
+          "parent_id": "t1_npi3bqz",
+          "author": "Constant_Feedback728",
+          "text_history": [
+            [
+              "what are you talking about?",
+              "2025-11-18T13:48:49.134013"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T13:48:49.134013"
+            ],
+            [
+              1,
+              "2025-11-18T13:59:57.575494"
+            ],
+            [
+              1,
+              "2025-11-18T14:11:17.269515"
+            ],
+            [
+              1,
+              "2025-11-18T21:29:03.948928"
+            ],
+            [
+              1,
+              "2025-11-18T23:12:36.739478"
+            ],
+            [
+              1,
+              "2025-11-19T00:47:52.307263"
+            ]
+          ],
+          "created_utc": 1763478160.0,
+          "depth": 1,
+          "permalink": "/r/PromptEngineering/comments/1p09w5e/llms_fail_at_consistent_tradeoff_reasoning_heres/npi3qu3/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npi48sw",
+              "parent_id": "t1_npi3qu3",
+              "author": "WillowEmberly",
+              "text_history": [
+                [
+                  "LLMs recompute their entire semantic state from scratch every query.\nThey have no persistent identity, no internal utility vector, and no stable coherence field across frames.\n\nSo even mathematically equivalent trade-offs can collapse into drift.\n\nThe fix is the same one we use in control systems:\n\t•\texternal utility functions\n\t•\tstructured scoring\n\t•\tmulti-frame consistency checks\n\t•\tmodel = analysis layer, not selection layer\n\nThis keeps the model negentropically aligned and prevents preference collapse.",
+                  "2025-11-18T13:48:49.134013"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-18T13:48:49.134013"
+                ],
+                [
+                  1,
+                  "2025-11-18T13:59:57.575494"
+                ],
+                [
+                  1,
+                  "2025-11-18T14:11:17.269515"
+                ],
+                [
+                  1,
+                  "2025-11-18T21:29:03.948928"
+                ],
+                [
+                  1,
+                  "2025-11-18T23:12:36.739478"
+                ],
+                [
+                  1,
+                  "2025-11-19T00:47:52.307263"
+                ]
+              ],
+              "created_utc": 1763478317.0,
+              "depth": 2,
+              "permalink": "/r/PromptEngineering/comments/1p09w5e/llms_fail_at_consistent_tradeoff_reasoning_heres/npi48sw/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": [
+                {
+                  "id": "npi52d8",
+                  "parent_id": "t1_npi48sw",
+                  "author": "Constant_Feedback728",
+                  "text_history": [
+                    [
+                      "agree\nthis is what’s written in the post",
+                      "2025-11-18T13:48:49.134013"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      1,
+                      "2025-11-18T13:48:49.134013"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T13:59:57.575494"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T14:11:17.269515"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T21:29:03.948928"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T23:12:36.739478"
+                    ],
+                    [
+                      1,
+                      "2025-11-19T00:47:52.307263"
+                    ]
+                  ],
+                  "created_utc": 1763478575.0,
+                  "depth": 3,
+                  "permalink": "/r/PromptEngineering/comments/1p09w5e/llms_fail_at_consistent_tradeoff_reasoning_heres/npi52d8/",
+                  "is_submitter": true,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T00:47:52.307263",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/PromptEngineering/comments/1p09w5e/llms_fail_at_consistent_tradeoff_reasoning_heres/",
+    "total_comments": 4,
+    "top_level_comments": 1,
+    "api_requests": 1,
+    "expected_comments": 5,
+    "coverage_percent": 80.0,
+    "merged_snapshot_count": 6,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_134848.json",
+      "scrape_002_20251118_135957.json",
+      "scrape_003_20251118_141117.json",
+      "scrape_004_20251118_212903.json",
+      "scrape_005_20251118_231236.json",
+      "scrape_006_20251119_004752.json"
+    ]
+  }
+}

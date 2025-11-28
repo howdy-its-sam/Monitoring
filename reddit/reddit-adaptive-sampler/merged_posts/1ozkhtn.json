@@ -1,0 +1,425 @@
+{
+  "post": {
+    "id": "1ozkhtn",
+    "title": "What do startups actually look for in beginner ML hires or interns?",
+    "author": "Mammoth_Poetry_3844",
+    "score_history": [
+      [
+        15,
+        "2025-11-18T15:07:45.541526"
+      ],
+      [
+        15,
+        "2025-11-18T15:14:33.756739"
+      ],
+      [
+        16,
+        "2025-11-18T15:16:17.802189"
+      ],
+      [
+        15,
+        "2025-11-18T23:12:37.028691"
+      ],
+      [
+        17,
+        "2025-11-19T00:47:50.819340"
+      ],
+      [
+        19,
+        "2025-11-19T02:22:45.348546"
+      ]
+    ],
+    "created_utc": 1763396222.0,
+    "num_comments": 9,
+    "subreddit": "MLQuestions",
+    "url": "https://www.reddit.com/r/MLQuestions/comments/1ozkhtn/what_do_startups_actually_look_for_in_beginner_ml/",
+    "selftext": "hi r/MLQuestions !\n\nQuestion for startup founders or HR folks in the industry:\n\nI’d call myself a beginner in ML, and I’m trying to get some real-world experience by working with an actual company. I’ve built a few personal projects in neural networks and general ML/DL, and I’m pretty comfortable with frameworks like PyTorch, TensorFlow, and JAX.\n\nThat said, I don’t feel quite ready for production-level work yet. I saw a post recently saying that employers often care more about practical, hands-on skills — things like SQL, AWS, or data pipelines — which I don’t have much experience with.\n\nSo I’m curious: **what do you actually look for when hiring or taking on interns in AI/ML?**  \nAre there particular tools, projects, or skills that tend to stand out and make someone a stronger candidate?",
+    "permalink": "/r/MLQuestions/comments/1ozkhtn/what_do_startups_actually_look_for_in_beginner_ml/"
+  },
+  "comments": [
+    {
+      "id": "npczx0a",
+      "parent_id": "t3_1ozkhtn",
+      "author": "No_External7343",
+      "text_history": [
+        [
+          "Full-time hire: Just enough ML skills to get the modeling part solved, and enough practical skills to get it deployed and shipped to production.\n\n\nIntern: if it is a ML-centric start-up, the right kind of ML skills to solve a specific sub problem, otherwise see above.",
+          "2025-11-18T15:07:45.541526"
+        ]
+      ],
+      "score_history": [
+        [
+          3,
+          "2025-11-18T15:07:45.541526"
+        ],
+        [
+          3,
+          "2025-11-18T15:14:33.756739"
+        ],
+        [
+          3,
+          "2025-11-18T15:16:17.802189"
+        ],
+        [
+          3,
+          "2025-11-18T23:12:37.028691"
+        ],
+        [
+          3,
+          "2025-11-19T00:47:50.819340"
+        ],
+        [
+          3,
+          "2025-11-19T02:22:45.348546"
+        ]
+      ],
+      "created_utc": 1763405177.0,
+      "depth": 0,
+      "permalink": "/r/MLQuestions/comments/1ozkhtn/what_do_startups_actually_look_for_in_beginner_ml/npczx0a/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": 1763406266.0,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npfi1dk",
+      "parent_id": "t3_1ozkhtn",
+      "author": "YangBuildsAI",
+      "text_history": [
+        [
+          "Startups care way more about \"can you ship something that works\" than \"do you understand the theory.\" If you can show an end-to-end project (data collection → model → deployed somewhere people can use it), that's 10x more valuable than knowing every ML framework.\n\nThe SQL/AWS/pipeline stuff matters because that's 70% of the actual job - most ML work is wrangling messy data and getting models into production, not optimizing architectures. Build one project that goes all the way to deployment and you'll stand out from 90% of applicants who only have Kaggle notebooks.",
+          "2025-11-18T15:07:45.541526"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-18T15:07:45.541526"
+        ],
+        [
+          2,
+          "2025-11-18T15:14:33.756739"
+        ],
+        [
+          2,
+          "2025-11-18T15:16:17.802189"
+        ],
+        [
+          3,
+          "2025-11-18T23:12:37.028691"
+        ],
+        [
+          3,
+          "2025-11-19T00:47:50.819340"
+        ],
+        [
+          3,
+          "2025-11-19T02:22:45.348546"
+        ]
+      ],
+      "created_utc": 1763434636.0,
+      "depth": 0,
+      "permalink": "/r/MLQuestions/comments/1ozkhtn/what_do_startups_actually_look_for_in_beginner_ml/npfi1dk/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npm3avy",
+          "parent_id": "t1_npfi1dk",
+          "author": "Titolpro",
+          "text_history": [
+            [
+              "This ! I've been hiring ML Engineers on my team, and that's what I'm looking for. Proof that you can take ownership of some model. Something that shows that you might be able to figure out what was the reason your model didn't perform as expected. Show me that you know what are the main challenges that we will be facing when pushing a certain model to prod.\n\nAlso, don't forget soft skills. I've interviewed a lot of candidates that could fit the job, but were rejected in favor of people with less knowledge or experience but better communication skills",
+              "2025-11-18T23:12:37.028691"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T23:12:37.028691"
+            ],
+            [
+              1,
+              "2025-11-19T00:47:50.819340"
+            ],
+            [
+              1,
+              "2025-11-19T02:22:45.348546"
+            ]
+          ],
+          "created_utc": 1763524035.0,
+          "depth": 1,
+          "permalink": "/r/MLQuestions/comments/1ozkhtn/what_do_startups_actually_look_for_in_beginner_ml/npm3avy/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npci6z2",
+      "parent_id": "t3_1ozkhtn",
+      "author": "Long_Location_5747",
+      "text_history": [
+        [
+          "Small willies",
+          "2025-11-18T15:07:45.541526"
+        ]
+      ],
+      "score_history": [
+        [
+          4,
+          "2025-11-18T15:07:45.541526"
+        ],
+        [
+          4,
+          "2025-11-18T15:14:33.756739"
+        ],
+        [
+          4,
+          "2025-11-18T15:16:17.802189"
+        ],
+        [
+          5,
+          "2025-11-18T23:12:37.028691"
+        ],
+        [
+          5,
+          "2025-11-19T00:47:50.819340"
+        ],
+        [
+          5,
+          "2025-11-19T02:22:45.348546"
+        ]
+      ],
+      "created_utc": 1763400041.0,
+      "depth": 0,
+      "permalink": "/r/MLQuestions/comments/1ozkhtn/what_do_startups_actually_look_for_in_beginner_ml/npci6z2/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npeu9u6",
+      "parent_id": "t3_1ozkhtn",
+      "author": "ViciousIvy",
+      "text_history": [
+        [
+          "hey there! my company offers a free ai/ml engineering fundamentals course if you'd like to check it out feel free to message me\n\ni'm also building an ai/ml community on discord &gt; we share news + hold discussions on various topics and would love for u to come hang out \\^-\\^\n\n[https://discord.gg/WkSxFbJdpP](https://discord.gg/WkSxFbJdpP)",
+          "2025-11-18T15:07:45.541526"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T15:07:45.541526"
+        ],
+        [
+          1,
+          "2025-11-18T15:14:33.756739"
+        ],
+        [
+          1,
+          "2025-11-18T15:16:17.802189"
+        ],
+        [
+          1,
+          "2025-11-18T23:12:37.028691"
+        ],
+        [
+          1,
+          "2025-11-19T00:47:50.819340"
+        ],
+        [
+          1,
+          "2025-11-19T02:22:45.348546"
+        ]
+      ],
+      "created_utc": 1763426181.0,
+      "depth": 0,
+      "permalink": "/r/MLQuestions/comments/1ozkhtn/what_do_startups_actually_look_for_in_beginner_ml/npeu9u6/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npeyhux",
+      "parent_id": "t3_1ozkhtn",
+      "author": "Alukardo123",
+      "text_history": [
+        [
+          "Cheap labor. Startups are not a good place for juniors in ML.",
+          "2025-11-18T15:07:45.541526"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T15:07:45.541526"
+        ],
+        [
+          1,
+          "2025-11-18T15:14:33.756739"
+        ],
+        [
+          1,
+          "2025-11-18T15:16:17.802189"
+        ],
+        [
+          1,
+          "2025-11-18T23:12:37.028691"
+        ],
+        [
+          1,
+          "2025-11-19T00:47:50.819340"
+        ],
+        [
+          1,
+          "2025-11-19T02:22:45.348546"
+        ]
+      ],
+      "created_utc": 1763427665.0,
+      "depth": 0,
+      "permalink": "/r/MLQuestions/comments/1ozkhtn/what_do_startups_actually_look_for_in_beginner_ml/npeyhux/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npfy33a",
+      "parent_id": "t3_1ozkhtn",
+      "author": "AmolDavkhar",
+      "text_history": [
+        [
+          "Just saw this article - [https://www.reddit.com/r/MLQuestions/comments/1p00x30/most\\_of\\_you\\_are\\_learning\\_the\\_wrong\\_things](https://www.reddit.com/r/MLQuestions/comments/1p00x30/most_of_you_are_learning_the_wrong_things), Hope it helps!",
+          "2025-11-18T15:07:45.541526"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T15:07:45.541526"
+        ],
+        [
+          1,
+          "2025-11-18T15:14:33.756739"
+        ],
+        [
+          1,
+          "2025-11-18T15:16:17.802189"
+        ],
+        [
+          1,
+          "2025-11-18T23:12:37.028691"
+        ],
+        [
+          1,
+          "2025-11-19T00:47:50.819340"
+        ],
+        [
+          1,
+          "2025-11-19T02:22:45.348546"
+        ]
+      ],
+      "created_utc": 1763441038.0,
+      "depth": 0,
+      "permalink": "/r/MLQuestions/comments/1ozkhtn/what_do_startups_actually_look_for_in_beginner_ml/npfy33a/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npgmmhv",
+      "parent_id": "t3_1ozkhtn",
+      "author": "ProfessorPhi",
+      "text_history": [
+        [
+          "10 years experience",
+          "2025-11-18T15:07:45.541526"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T15:07:45.541526"
+        ],
+        [
+          1,
+          "2025-11-18T15:14:33.756739"
+        ],
+        [
+          1,
+          "2025-11-18T15:16:17.802189"
+        ],
+        [
+          1,
+          "2025-11-18T23:12:37.028691"
+        ],
+        [
+          1,
+          "2025-11-19T00:47:50.819340"
+        ],
+        [
+          1,
+          "2025-11-19T02:22:45.348546"
+        ]
+      ],
+      "created_utc": 1763454322.0,
+      "depth": 0,
+      "permalink": "/r/MLQuestions/comments/1ozkhtn/what_do_startups_actually_look_for_in_beginner_ml/npgmmhv/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T02:22:45.348546",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/MLQuestions/comments/1ozkhtn/what_do_startups_actually_look_for_in_beginner_ml/",
+    "total_comments": 8,
+    "top_level_comments": 7,
+    "api_requests": 1,
+    "expected_comments": 9,
+    "coverage_percent": 88.89,
+    "merged_snapshot_count": 6,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_150745.json",
+      "scrape_002_20251118_151433.json",
+      "scrape_003_20251118_151617.json",
+      "scrape_004_20251118_231236.json",
+      "scrape_005_20251119_004750.json",
+      "scrape_006_20251119_022245.json"
+    ]
+  }
+}

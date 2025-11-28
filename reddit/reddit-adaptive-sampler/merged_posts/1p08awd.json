@@ -1,0 +1,295 @@
+{
+  "post": {
+    "id": "1p08awd",
+    "title": "Issue with Desktop v iOS app.",
+    "author": "neptunesolarsystem",
+    "score_history": [
+      [
+        1,
+        "2025-11-19T03:18:09.149253"
+      ],
+      [
+        1,
+        "2025-11-19T03:25:39.649191"
+      ],
+      [
+        1,
+        "2025-11-19T03:28:52.306006"
+      ]
+    ],
+    "created_utc": 1763461014.0,
+    "num_comments": 7,
+    "subreddit": "ChatGPTPro",
+    "url": "https://www.reddit.com/r/ChatGPTPro/comments/1p08awd/issue_with_desktop_v_ios_app/",
+    "selftext": "When I use the desktop pro version and ask a question, I get 'Pro thinking' which I have found to be inferior to Pro Reasoning, however when I use the iOS app, I get 'reasoning' how do I enable it to be reasoning across the board? Is this a bug? ",
+    "permalink": "/r/ChatGPTPro/comments/1p08awd/issue_with_desktop_v_ios_app/"
+  },
+  "comments": [
+    {
+      "id": "npgx89w",
+      "parent_id": "t3_1p08awd",
+      "author": "qualityvote2",
+      "text_history": [
+        [
+          "Hello u/neptunesolarsystem 👋 Welcome to r/ChatGPTPro!  \nThis is a community for advanced ChatGPT, AI tools, and prompt engineering discussions.  \nOther members will now vote on whether your post fits our community guidelines.\n\n\n---\n\nFor other users, does this post fit the subreddit?\n\nIf so, **upvote this comment!**\n\nOtherwise, **downvote this comment!**\n\nAnd if it does break the rules, **downvote this comment and report this post!**",
+          "2025-11-19T03:18:09.149253"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T03:18:09.149253"
+        ],
+        [
+          1,
+          "2025-11-19T03:25:39.649191"
+        ],
+        [
+          1,
+          "2025-11-19T03:28:52.306006"
+        ]
+      ],
+      "created_utc": 1763461015.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTPro/comments/1p08awd/issue_with_desktop_v_ios_app/npgx89w/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npkm5ou",
+      "parent_id": "t3_1p08awd",
+      "author": "FreshRadish2957",
+      "text_history": [
+        [
+          "This is not a bug. The wording is just different between platforms.\n\nOn desktop you see “Pro Thinking”.\nOn the iOS app you see “Pro Reasoning”.\nThey both point to the same underlying model.\nThe app team and the web team just used different labels and never synced them.\n\nIf you want the strongest reasoning mode across everything, select:\n\nGPT-5.1 (Pro) on desktop\nReasoning mode inside the iOS app\n\nThey line up even though the text looks different.\n\nNothing for you to fix. The naming is just inconsistent across platforms.\nPerformance should be the same once you pick the highest tier on each device.",
+          "2025-11-19T03:18:09.149253"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-19T03:18:09.149253"
+        ],
+        [
+          2,
+          "2025-11-19T03:25:39.649191"
+        ],
+        [
+          2,
+          "2025-11-19T03:28:52.306006"
+        ]
+      ],
+      "created_utc": 1763505063.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTPro/comments/1p08awd/issue_with_desktop_v_ios_app/npkm5ou/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npkxurl",
+          "parent_id": "t1_npkm5ou",
+          "author": "neptunesolarsystem",
+          "text_history": [
+            [
+              "Are you sure this is the case, because up until very recently, it was doing pro reasoning on the desktop?",
+              "2025-11-19T03:18:09.149253"
+            ]
+          ],
+          "score_history": [
+            [
+              2,
+              "2025-11-19T03:18:09.149253"
+            ],
+            [
+              2,
+              "2025-11-19T03:25:39.649191"
+            ],
+            [
+              2,
+              "2025-11-19T03:28:52.306006"
+            ]
+          ],
+          "created_utc": 1763509074.0,
+          "depth": 1,
+          "permalink": "/r/ChatGPTPro/comments/1p08awd/issue_with_desktop_v_ios_app/npkxurl/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npl0d8o",
+              "parent_id": "t1_npkxurl",
+              "author": "FreshRadish2957",
+              "text_history": [
+                [
+                  "Pretty sure the confusion is because of the update on the 14th. They changed a few naming conventions and finally synced the behavior between desktop, iOS and Android. Before that update, the desktop version showed Pro Reasoning more clearly and the app versions lagged behind, which made it look like you were getting something “extra” on desktop.\n\nRight now GPT 5.1 on Plus and GPT 5.1 Pro on the subscription side are the same across platforms once you select the highest mode on each device. The wording just looks different depending on whether you are in the mobile app or on desktop.\n\nPerformance wise, it should still behave the same as it did before the update. The only real difference people are seeing is the labels. The update basically cleaned up some of the inconsistency and that is why it feels like things changed overnight.",
+                  "2025-11-19T03:18:09.149253"
+                ]
+              ],
+              "score_history": [
+                [
+                  2,
+                  "2025-11-19T03:18:09.149253"
+                ],
+                [
+                  2,
+                  "2025-11-19T03:25:39.649191"
+                ],
+                [
+                  2,
+                  "2025-11-19T03:28:52.306006"
+                ]
+              ],
+              "created_utc": 1763509973.0,
+              "depth": 2,
+              "permalink": "/r/ChatGPTPro/comments/1p08awd/issue_with_desktop_v_ios_app/npl0d8o/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": [
+                {
+                  "id": "npl0lhm",
+                  "parent_id": "t1_npl0d8o",
+                  "author": "neptunesolarsystem",
+                  "text_history": [
+                    [
+                      "Wow, thank you for the great insight into this, I was going crazy inputting data to my phone because I always thought reasoning was better than pro thinking. You’ve been of great help. Upvoted.",
+                      "2025-11-19T03:18:09.149253"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      2,
+                      "2025-11-19T03:18:09.149253"
+                    ],
+                    [
+                      2,
+                      "2025-11-19T03:25:39.649191"
+                    ],
+                    [
+                      2,
+                      "2025-11-19T03:28:52.306006"
+                    ]
+                  ],
+                  "created_utc": 1763510053.0,
+                  "depth": 3,
+                  "permalink": "/r/ChatGPTPro/comments/1p08awd/issue_with_desktop_v_ios_app/npl0lhm/",
+                  "is_submitter": true,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": [
+                    {
+                      "id": "npl8v8f",
+                      "parent_id": "t1_npl0lhm",
+                      "author": "FreshRadish2957",
+                      "text_history": [
+                        [
+                          "Glad it helped. The naming changes confused a lot of people this week.",
+                          "2025-11-19T03:18:09.149253"
+                        ]
+                      ],
+                      "score_history": [
+                        [
+                          2,
+                          "2025-11-19T03:18:09.149253"
+                        ],
+                        [
+                          2,
+                          "2025-11-19T03:25:39.649191"
+                        ],
+                        [
+                          2,
+                          "2025-11-19T03:28:52.306006"
+                        ]
+                      ],
+                      "created_utc": 1763512946.0,
+                      "depth": 4,
+                      "permalink": "/r/ChatGPTPro/comments/1p08awd/issue_with_desktop_v_ios_app/npl8v8f/",
+                      "is_submitter": false,
+                      "controversiality": 0,
+                      "gilded": 0,
+                      "edited": false,
+                      "deleted": false,
+                      "deleted_at": null,
+                      "replies": [
+                        {
+                          "id": "npldey4",
+                          "parent_id": "t1_npl8v8f",
+                          "author": "neptunesolarsystem",
+                          "text_history": [
+                            [
+                              "I’ll be pointing people to your comments if I see anyone confused. Thanks again.",
+                              "2025-11-19T03:18:09.149253"
+                            ]
+                          ],
+                          "score_history": [
+                            [
+                              1,
+                              "2025-11-19T03:18:09.149253"
+                            ],
+                            [
+                              1,
+                              "2025-11-19T03:25:39.649191"
+                            ],
+                            [
+                              1,
+                              "2025-11-19T03:28:52.306006"
+                            ]
+                          ],
+                          "created_utc": 1763514567.0,
+                          "depth": 5,
+                          "permalink": "/r/ChatGPTPro/comments/1p08awd/issue_with_desktop_v_ios_app/npldey4/",
+                          "is_submitter": true,
+                          "controversiality": 0,
+                          "gilded": 0,
+                          "edited": false,
+                          "deleted": false,
+                          "deleted_at": null,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:28:52.306006",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/ChatGPTPro/comments/1p08awd/issue_with_desktop_v_ios_app/",
+    "total_comments": 7,
+    "top_level_comments": 2,
+    "api_requests": 1,
+    "expected_comments": 7,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_031808.json",
+      "scrape_002_20251119_032539.json",
+      "scrape_003_20251119_032852.json"
+    ]
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "post": {
+    "id": "1p0az6u",
+    "title": "Built a multimodal AI system that can see, hear, and create",
+    "author": "SKD_Sumit",
+    "score_history": [
+      [
+        0,
+        "2025-11-18T14:45:23.858937"
+      ],
+      [
+        0,
+        "2025-11-18T14:53:15.424796"
+      ],
+      [
+        0,
+        "2025-11-18T14:54:34.698359"
+      ],
+      [
+        0,
+        "2025-11-18T22:20:28.285269"
+      ],
+      [
+        0,
+        "2025-11-18T23:54:50.180124"
+      ],
+      [
+        0,
+        "2025-11-19T01:28:59.327707"
+      ]
+    ],
+    "created_utc": 1763469934.0,
+    "num_comments": 1,
+    "subreddit": "Rag",
+    "url": "https://www.reddit.com/r/Rag/comments/1p0az6u/built_a_multimodal_ai_system_that_can_see_hear/",
+    "selftext": "Just spent the weekend building a **multimodal AI** system and honestly it's way simpler than I expected.\n\nUsing **LangChain** with **Gemini** and got it working with like merely 50 lines of code. The **base64** encoding part tripped me up at first but once you get the pattern it's pretty much similar for others.\n\nPut together a walkthrough if anyone's interested: [Multimodal AI with LangChain (Full Python Code Included)](https://www.youtube.com/watch?v=I3UaV7u4JBA&amp;list=PLAgxe7DpTXmei0IV7-u9Zt9aoWP3eAHRg&amp;index=7&amp;t=2s&amp;pp=gAQBiAQB)\n\nHas anyone else worked with multimodal models? Curious what you're building with them.",
+    "permalink": "/r/Rag/comments/1p0az6u/built_a_multimodal_ai_system_that_can_see_hear/"
+  },
+  "comments": [
+    {
+      "id": "nphfjsk",
+      "parent_id": "t3_1p0az6u",
+      "author": "max6296",
+      "text_history": [
+        [
+          "\"Built\" lmao",
+          "2025-11-18T14:45:23.858937"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-18T14:45:23.858937"
+        ],
+        [
+          2,
+          "2025-11-18T14:53:15.424796"
+        ],
+        [
+          2,
+          "2025-11-18T14:54:34.698359"
+        ],
+        [
+          2,
+          "2025-11-18T22:20:28.285269"
+        ],
+        [
+          2,
+          "2025-11-18T23:54:50.180124"
+        ],
+        [
+          2,
+          "2025-11-19T01:28:59.327707"
+        ]
+      ],
+      "created_utc": 1763470140.0,
+      "depth": 0,
+      "permalink": "/r/Rag/comments/1p0az6u/built_a_multimodal_ai_system_that_can_see_hear/nphfjsk/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T01:28:59.327707",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/Rag/comments/1p0az6u/built_a_multimodal_ai_system_that_can_see_hear/",
+    "total_comments": 1,
+    "top_level_comments": 1,
+    "api_requests": 1,
+    "expected_comments": 1,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 6,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_144523.json",
+      "scrape_002_20251118_145315.json",
+      "scrape_003_20251118_145434.json",
+      "scrape_004_20251118_222028.json",
+      "scrape_005_20251118_235449.json",
+      "scrape_006_20251119_012859.json"
+    ]
+  }
+}

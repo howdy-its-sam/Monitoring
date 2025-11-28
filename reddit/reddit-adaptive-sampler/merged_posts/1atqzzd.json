@@ -1,0 +1,44 @@
+{
+  "post": {
+    "id": "1atqzzd",
+    "title": "Jobs after Computational Linguistics",
+    "author": "Being-Nothingness",
+    "score_history": [
+      [
+        4,
+        "2025-11-18T14:53:15.654019"
+      ],
+      [
+        4,
+        "2025-11-18T14:56:12.090903"
+      ],
+      [
+        4,
+        "2025-11-18T15:04:18.998556"
+      ]
+    ],
+    "created_utc": 1708251520.0,
+    "num_comments": 0,
+    "subreddit": "compling",
+    "url": "/r/LanguageTechnology/comments/1atoxp9/jobs_after_computational_linguistics/",
+    "selftext": "",
+    "permalink": "/r/compling/comments/1atqzzd/jobs_after_computational_linguistics/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-18T15:04:18.998556",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/compling/comments/1atqzzd/jobs_after_computational_linguistics/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_145315.json",
+      "scrape_002_20251118_145611.json",
+      "scrape_003_20251118_150418.json"
+    ]
+  }
+}

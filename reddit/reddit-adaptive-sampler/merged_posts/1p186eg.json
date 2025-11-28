@@ -1,0 +1,129 @@
+{
+  "post": {
+    "id": "1p186eg",
+    "title": "After 2 production systems, I'm convinced most multi-agent \"frameworks\" are doing it wrong",
+    "author": "JFerzt",
+    "score_history": [
+      [
+        1,
+        "2025-11-19T05:50:57.608283"
+      ],
+      [
+        1,
+        "2025-11-19T05:50:57.819223"
+      ],
+      [
+        1,
+        "2025-11-19T05:50:58.056168"
+      ],
+      [
+        1,
+        "2025-11-19T05:50:58.256097"
+      ],
+      [
+        1,
+        "2025-11-19T05:50:58.497369"
+      ],
+      [
+        1,
+        "2025-11-19T05:50:58.714146"
+      ],
+      [
+        1,
+        "2025-11-19T05:50:58.945045"
+      ],
+      [
+        1,
+        "2025-11-19T05:50:59.148931"
+      ],
+      [
+        1,
+        "2025-11-19T05:50:59.397805"
+      ],
+      [
+        1,
+        "2025-11-19T05:50:59.619783"
+      ],
+      [
+        1,
+        "2025-11-19T05:50:59.869580"
+      ],
+      [
+        1,
+        "2025-11-19T05:51:00.086914"
+      ],
+      [
+        1,
+        "2025-11-19T05:51:00.319273"
+      ],
+      [
+        1,
+        "2025-11-19T05:51:00.533079"
+      ],
+      [
+        1,
+        "2025-11-19T05:51:00.776053"
+      ],
+      [
+        1,
+        "2025-11-19T05:51:01.014185"
+      ],
+      [
+        1,
+        "2025-11-19T05:51:01.263903"
+      ],
+      [
+        1,
+        "2025-11-19T05:51:01.482188"
+      ],
+      [
+        1,
+        "2025-11-19T05:51:01.738610"
+      ],
+      [
+        1,
+        "2025-11-19T05:51:01.955701"
+      ]
+    ],
+    "created_utc": 1763560187.0,
+    "num_comments": 0,
+    "subreddit": "PromptEngineering",
+    "url": "https://www.reddit.com/r/PromptEngineering/comments/1p186eg/after_2_production_systems_im_convinced_most/",
+    "selftext": "Anyone else tired of \"multi-agent frameworks\" that are just 15 prompts in a trench coat pretending to be a system?​\n\nI built Kairos Flow because every serious project kept collapsing under prompt bloat, token limits, and zero traceability once you chained more than 3 agents. After a year of running this in production for marketing workflows and WordPress plugin generation, I'm convinced most \"prompt engineering\" failures are context orchestration failures, not model failures.​\n\nThe core pattern is simple: one agent - one job, a shared JSON artifact standard for every input and output, and a context orchestrator that decides what each agent actually gets to see. That alone cut prompt complexity by around 80% in real pipelines while making debugging and audits bearable.​\n\nIf you're experimenting with multi-agent prompt systems and are sick of god-prompts, take a look at [`github.com/JavierBaal/KairosFlow`](http://github.com/JavierBaal/KairosFlow) and tell me what you'd break, change, or steal for your own stack.",
+    "permalink": "/r/PromptEngineering/comments/1p186eg/after_2_production_systems_im_convinced_most/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T05:51:01.955701",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/PromptEngineering/comments/1p186eg/after_2_production_systems_im_convinced_most/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 20,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_055057.json",
+      "scrape_002_20251119_055057.json",
+      "scrape_003_20251119_055057.json",
+      "scrape_004_20251119_055058.json",
+      "scrape_005_20251119_055058.json",
+      "scrape_006_20251119_055058.json",
+      "scrape_007_20251119_055058.json",
+      "scrape_008_20251119_055058.json",
+      "scrape_009_20251119_055059.json",
+      "scrape_010_20251119_055059.json",
+      "scrape_011_20251119_055059.json",
+      "scrape_012_20251119_055059.json",
+      "scrape_013_20251119_055100.json",
+      "scrape_014_20251119_055100.json",
+      "scrape_015_20251119_055100.json",
+      "scrape_016_20251119_055100.json",
+      "scrape_017_20251119_055101.json",
+      "scrape_018_20251119_055101.json",
+      "scrape_019_20251119_055101.json",
+      "scrape_020_20251119_055101.json"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "post": {
+    "id": "1otovil",
+    "title": "My Lovable-build is now at #4 – surreal!!",
+    "author": "No_Passion6608",
+    "score_history": [
+      [
+        2,
+        "2025-11-19T03:27:15.193197"
+      ],
+      [
+        2,
+        "2025-11-19T03:30:31.466997"
+      ],
+      [
+        2,
+        "2025-11-19T03:37:54.854296"
+      ]
+    ],
+    "created_utc": 1762806237.0,
+    "num_comments": 0,
+    "subreddit": "AI_developers",
+    "url": "https://i.redd.it/74bfcpwvnh0g1.jpeg",
+    "selftext": "Find Cal ID and help your boy get the top spot!",
+    "permalink": "/r/AI_developers/comments/1otovil/my_lovablebuild_is_now_at_4_surreal/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:37:54.854296",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/AI_developers/comments/1otovil/my_lovablebuild_is_now_at_4_surreal/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_032714.json",
+      "scrape_002_20251119_033031.json",
+      "scrape_003_20251119_033754.json"
+    ]
+  }
+}

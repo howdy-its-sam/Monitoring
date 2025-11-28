@@ -1,0 +1,44 @@
+{
+  "post": {
+    "id": "1p0m1yw",
+    "title": "Mathematics for Deep Learning",
+    "author": "Masonchiiik",
+    "score_history": [
+      [
+        1,
+        "2025-11-18T14:23:20.606625"
+      ],
+      [
+        1,
+        "2025-11-18T14:33:11.140945"
+      ],
+      [
+        1,
+        "2025-11-18T14:43:28.282291"
+      ]
+    ],
+    "created_utc": 1763495688.0,
+    "num_comments": 1,
+    "subreddit": "learnmachinelearning",
+    "url": "https://www.reddit.com/r/learnmachinelearning/comments/1p0m1yw/mathematics_for_deep_learning/",
+    "selftext": "I'm considering studying the \"Deep Learning\" book by Goodfellow, but my math skills are really holding me back. What resources can you recommend for brushing up on the math needed to grasp this book and deep learning in general?",
+    "permalink": "/r/learnmachinelearning/comments/1p0m1yw/mathematics_for_deep_learning/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-18T14:43:28.282291",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/learnmachinelearning/comments/1p0m1yw/mathematics_for_deep_learning/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 1,
+    "coverage_percent": 0.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_142320.json",
+      "scrape_002_20251118_143310.json",
+      "scrape_003_20251118_144328.json"
+    ]
+  }
+}

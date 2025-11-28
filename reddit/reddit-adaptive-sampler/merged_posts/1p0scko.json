@@ -1,0 +1,151 @@
+{
+  "post": {
+    "id": "1p0scko",
+    "title": "From Hospitality Leadership to Designing Agentic AI Systems — My First Year Transition",
+    "author": "CuriousSoul-007",
+    "score_history": [
+      [
+        0,
+        "2025-11-19T02:55:45.017741"
+      ],
+      [
+        0,
+        "2025-11-19T03:03:43.538386"
+      ],
+      [
+        0,
+        "2025-11-19T03:14:34.565652"
+      ]
+    ],
+    "created_utc": 1763510523.0,
+    "num_comments": 3,
+    "subreddit": "AI_Agents",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1p0scko/from_hospitality_leadership_to_designing_agentic/",
+    "selftext": "I don’t come from a traditional software engineering background — I describe myself as a rigorous “instruction follower” who learns through structured experimentation and iterative problem-solving. Two years ago, after a long career (30 years) in hospitality operations and customer experience, I made a strategic decision to fully transition into artificial intelligence. What began as curiosity quickly evolved into a deep focus on applied AI systems and agentic architecture.\n\nSince then, I’ve designed and built four AI agents end-to-end, including one that is already deployed and running in production, continuously fetching, enriching, and structuring real-world data. The work has involved everything from designing multi-step workflows, prompt-engineering frameworks, and data schemas, to integrating APIs, managing vectorized signals, and orchestrating automations across platforms like OpenAI, Pipedream, Airtable, and Make.com.\n\nThe journey has been demanding — long hours debugging pipelines, optimizing prompts, refining data structures, and learning how different LLMs behave under real operational constraints. I don’t yet know what the complete system will look like once the full agentic prototype is launched, but I’m committed to continuous iteration, better architectures, and higher-quality data flow over time.\n\nI’m now looking to connect with others who also transitioned from established careers into AI — people building agentic systems, automation stacks, LLM-based workflows, or applied intelligence solutions. If you’re navigating similar challenges, experimenting with architectures, or exploring the boundaries of what LLMs can do, I’d be glad to exchange experiences and insights.",
+    "permalink": "/r/AI_Agents/comments/1p0scko/from_hospitality_leadership_to_designing_agentic/"
+  },
+  "comments": [
+    {
+      "id": "npl3rby",
+      "parent_id": "t3_1p0scko",
+      "author": "AppropriateCommon651",
+      "text_history": [
+        [
+          "As with every post like this, I always wonder, ok, you made agents to do what?",
+          "2025-11-19T02:55:45.017741"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-19T02:55:45.017741"
+        ],
+        [
+          2,
+          "2025-11-19T03:03:43.538386"
+        ],
+        [
+          2,
+          "2025-11-19T03:14:34.565652"
+        ]
+      ],
+      "created_utc": 1763511164.0,
+      "depth": 0,
+      "permalink": "/r/AI_Agents/comments/1p0scko/from_hospitality_leadership_to_designing_agentic/npl3rby/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "nplm6ka",
+          "parent_id": "t1_npl3rby",
+          "author": "CuriousSoul-007",
+          "text_history": [
+            [
+              "\nGreat question — in my case the agents handle data ingestion, enrichment, and transformation.\n\nOne agent continuously fetches real-world signals, another processes emotion/pain-point metadata, and others convert those outputs into structured insights.\n\nI’m still in the internal R&amp;D phase, so the full application layer isn’t public yet, but the agents already automate analysis, decision-support, and workflow orchestration behind the scenes.\n\nHappy to share more about the architecture and agentic workflows — just not the specific solution direction until the first prototype launches (early 2026).",
+              "2025-11-19T02:55:45.017741"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-19T02:55:45.017741"
+            ],
+            [
+              1,
+              "2025-11-19T03:03:43.538386"
+            ],
+            [
+              1,
+              "2025-11-19T03:14:34.565652"
+            ]
+          ],
+          "created_utc": 1763517729.0,
+          "depth": 1,
+          "permalink": "/r/AI_Agents/comments/1p0scko/from_hospitality_leadership_to_designing_agentic/nplm6ka/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npl1xle",
+      "parent_id": "t3_1p0scko",
+      "author": "AutoModerator",
+      "text_history": [
+        [
+          "Thank you for your submission, for any questions regarding AI, please check out our wiki at https://www.reddit.com/r/ai_agents/wiki (this is currently in test and we are actively adding to the wiki)\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/AI_Agents) if you have any questions or concerns.*",
+          "2025-11-19T02:55:45.017741"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:55:45.017741"
+        ],
+        [
+          1,
+          "2025-11-19T03:03:43.538386"
+        ],
+        [
+          1,
+          "2025-11-19T03:14:34.565652"
+        ]
+      ],
+      "created_utc": 1763510523.0,
+      "depth": 0,
+      "permalink": "/r/AI_Agents/comments/1p0scko/from_hospitality_leadership_to_designing_agentic/npl1xle/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:14:34.565652",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/AI_Agents/comments/1p0scko/from_hospitality_leadership_to_designing_agentic/",
+    "total_comments": 3,
+    "top_level_comments": 2,
+    "api_requests": 1,
+    "expected_comments": 3,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_025544.json",
+      "scrape_002_20251119_030343.json",
+      "scrape_003_20251119_031434.json"
+    ]
+  }
+}

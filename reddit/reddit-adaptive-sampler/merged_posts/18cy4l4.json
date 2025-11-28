@@ -1,0 +1,154 @@
+{
+  "post": {
+    "id": "18cy4l4",
+    "title": "thinking about Computational Linguistics Masters",
+    "author": "jesterz602",
+    "score_history": [
+      [
+        9,
+        "2025-11-18T13:48:49.338458"
+      ],
+      [
+        8,
+        "2025-11-18T14:00:08.900506"
+      ],
+      [
+        8,
+        "2025-11-18T14:11:24.551113"
+      ],
+      [
+        8,
+        "2025-11-18T21:39:18.165259"
+      ],
+      [
+        8,
+        "2025-11-18T23:24:19.857533"
+      ],
+      [
+        9,
+        "2025-11-19T01:08:31.016246"
+      ]
+    ],
+    "created_utc": 1701963132.0,
+    "num_comments": 2,
+    "subreddit": "compling",
+    "url": "https://www.reddit.com/r/compling/comments/18cy4l4/thinking_about_computational_linguistics_masters/",
+    "selftext": "hi! a little background: i have a Linguistics BA from Michigan State, no coding experience, and i graduated in May of 2020. i haven’t directly used my degree in the workforce (i’m currently in software sales) so i’m pretty rusty on the linguistics side of things but it’s still a passion of mine. i have interest in NLP and was thinking of getting my masters in Comp Ling to pursue something like that career wise. \n\nany advice on how to prepare to apply to a masters program with no coding experience? i also did the minimum reqs for math in undergrad which i believe was some algebra and a statistics class which again, i am quite rusty on lol. should i set aside 2024 for application prep and submit apps for a Fall 2025 start? i’d love to start sooner, just concerned about getting into a program with my current experience and distance from undergrad",
+    "permalink": "/r/compling/comments/18cy4l4/thinking_about_computational_linguistics_masters/"
+  },
+  "comments": [
+    {
+      "id": "kcjl6e2",
+      "parent_id": "t3_18cy4l4",
+      "author": "121531",
+      "text_history": [
+        [
+          "There are some programs that assume no technical background. Brandeis's MSCL is one: https://www.brandeis.edu/computer-science/computational-linguistics/masters/prospective-students/index.html",
+          "2025-11-18T13:48:49.338458"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-18T13:48:49.338458"
+        ],
+        [
+          2,
+          "2025-11-18T14:00:08.900506"
+        ],
+        [
+          2,
+          "2025-11-18T14:11:24.551113"
+        ],
+        [
+          2,
+          "2025-11-18T21:39:18.165259"
+        ],
+        [
+          2,
+          "2025-11-18T23:24:19.857533"
+        ],
+        [
+          2,
+          "2025-11-19T01:08:31.016246"
+        ]
+      ],
+      "created_utc": 1702066102.0,
+      "depth": 0,
+      "permalink": "/r/compling/comments/18cy4l4/thinking_about_computational_linguistics_masters/kcjl6e2/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "ktq67nl",
+      "parent_id": "t3_18cy4l4",
+      "author": "sebastiandresilva",
+      "text_history": [
+        [
+          "How did it go? I'm kind of getting into a similar plan as yours. Did you get accepted at any masters program?",
+          "2025-11-18T13:48:49.338458"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T13:48:49.338458"
+        ],
+        [
+          1,
+          "2025-11-18T14:00:08.900506"
+        ],
+        [
+          1,
+          "2025-11-18T14:11:24.551113"
+        ],
+        [
+          1,
+          "2025-11-18T21:39:18.165259"
+        ],
+        [
+          1,
+          "2025-11-18T23:24:19.857533"
+        ],
+        [
+          1,
+          "2025-11-19T01:08:31.016246"
+        ]
+      ],
+      "created_utc": 1709789067.0,
+      "depth": 0,
+      "permalink": "/r/compling/comments/18cy4l4/thinking_about_computational_linguistics_masters/ktq67nl/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T01:08:31.016246",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/compling/comments/18cy4l4/thinking_about_computational_linguistics_masters/",
+    "total_comments": 2,
+    "top_level_comments": 2,
+    "api_requests": 1,
+    "expected_comments": 2,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 6,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_134849.json",
+      "scrape_002_20251118_140008.json",
+      "scrape_003_20251118_141124.json",
+      "scrape_004_20251118_213917.json",
+      "scrape_005_20251118_232419.json",
+      "scrape_006_20251119_010830.json"
+    ]
+  }
+}

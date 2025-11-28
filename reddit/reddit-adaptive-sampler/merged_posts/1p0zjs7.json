@@ -1,0 +1,142 @@
+{
+  "post": {
+    "id": "1p0zjs7",
+    "title": "Gemini 3 is what gpt 5 should have been. It's mindblowingly good",
+    "author": "Radiant_Truth_8743",
+    "score_history": [
+      [
+        1,
+        "2025-11-19T04:01:47.412780"
+      ],
+      [
+        1,
+        "2025-11-19T04:03:09.158081"
+      ],
+      [
+        1,
+        "2025-11-19T04:10:01.971692"
+      ],
+      [
+        0,
+        "2025-11-19T04:12:34.084860"
+      ],
+      [
+        1,
+        "2025-11-19T04:21:23.415604"
+      ]
+    ],
+    "created_utc": 1763531488.0,
+    "num_comments": 3,
+    "subreddit": "PromptEngineering",
+    "url": "https://www.reddit.com/r/PromptEngineering/comments/1p0zjs7/gemini_3_is_what_gpt_5_should_have_been_its/",
+    "selftext": "Gemini 3 is what gpt 5 should have been. It's mindblowingly good\n\nGemini 3 is what gpt 5 should have been. It's mindblowingly good especially in multi modal tasks. It's even tops the humanities last exam leaderboard without tool use and only a few noticed people noticed the tool use part.",
+    "permalink": "/r/PromptEngineering/comments/1p0zjs7/gemini_3_is_what_gpt_5_should_have_been_its/"
+  },
+  "comments": [
+    {
+      "id": "npmmp4g",
+      "parent_id": "t3_1p0zjs7",
+      "author": "JustSingingAlong",
+      "text_history": [
+        [
+          "But is it mindblowingly good?",
+          "2025-11-19T04:01:47.412780"
+        ]
+      ],
+      "score_history": [
+        [
+          7,
+          "2025-11-19T04:01:47.412780"
+        ],
+        [
+          7,
+          "2025-11-19T04:03:09.158081"
+        ],
+        [
+          9,
+          "2025-11-19T04:10:01.971692"
+        ],
+        [
+          7,
+          "2025-11-19T04:12:34.084860"
+        ],
+        [
+          8,
+          "2025-11-19T04:21:23.415604"
+        ]
+      ],
+      "created_utc": 1763532986.0,
+      "depth": 0,
+      "permalink": "/r/PromptEngineering/comments/1p0zjs7/gemini_3_is_what_gpt_5_should_have_been_its/npmmp4g/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npnabbz",
+          "parent_id": "t1_npmmp4g",
+          "author": "No-Vermicelli-8391",
+          "text_history": [
+            [
+              "From what I've seen online so far - it actually is good. Just got access to it today, will have to try it myself.",
+              "2025-11-19T04:01:47.412780"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-19T04:01:47.412780"
+            ],
+            [
+              1,
+              "2025-11-19T04:03:09.158081"
+            ],
+            [
+              1,
+              "2025-11-19T04:10:01.971692"
+            ],
+            [
+              1,
+              "2025-11-19T04:12:34.084860"
+            ],
+            [
+              1,
+              "2025-11-19T04:21:23.415604"
+            ]
+          ],
+          "created_utc": 1763547203.0,
+          "depth": 1,
+          "permalink": "/r/PromptEngineering/comments/1p0zjs7/gemini_3_is_what_gpt_5_should_have_been_its/npnabbz/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T04:21:23.415604",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/PromptEngineering/comments/1p0zjs7/gemini_3_is_what_gpt_5_should_have_been_its/",
+    "total_comments": 2,
+    "top_level_comments": 1,
+    "api_requests": 1,
+    "expected_comments": 3,
+    "coverage_percent": 66.67,
+    "merged_snapshot_count": 5,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_040147.json",
+      "scrape_002_20251119_040308.json",
+      "scrape_003_20251119_041001.json",
+      "scrape_004_20251119_041233.json",
+      "scrape_005_20251119_042123.json"
+    ]
+  }
+}

@@ -1,0 +1,435 @@
+{
+  "post": {
+    "id": "1ozlfnu",
+    "title": "Is there a way to have ChatGPT not pre-populate the chat box with chatbox text from a previous tab?",
+    "author": "notapersonaltrainer",
+    "score_history": [
+      [
+        1,
+        "2025-11-18T14:23:34.834964"
+      ],
+      [
+        1,
+        "2025-11-18T14:33:10.923683"
+      ],
+      [
+        1,
+        "2025-11-18T14:43:13.140378"
+      ]
+    ],
+    "created_utc": 1763398307.0,
+    "num_comments": 11,
+    "subreddit": "ChatGPTPro",
+    "url": "https://www.reddit.com/r/ChatGPTPro/comments/1ozlfnu/is_there_a_way_to_have_chatgpt_not_prepopulate/",
+    "selftext": "If I'm working on a prompt in one tab, then open another ChatGPT tab, the text from the previous tab pre-populates in the new tab. This is annoying as I have to delete the previous text. \n\nIs there any way to turn this off?",
+    "permalink": "/r/ChatGPTPro/comments/1ozlfnu/is_there_a_way_to_have_chatgpt_not_prepopulate/"
+  },
+  "comments": [
+    {
+      "id": "npcccia",
+      "parent_id": "t3_1ozlfnu",
+      "author": "qualityvote2",
+      "text_history": [
+        [
+          "Hello u/notapersonaltrainer 👋 Welcome to r/ChatGPTPro!  \nThis is a community for advanced ChatGPT, AI tools, and prompt engineering discussions.  \nOther members will now vote on whether your post fits our community guidelines.\n\n\n---\n\nFor other users, does this post fit the subreddit?\n\nIf so, **upvote this comment!**\n\nOtherwise, **downvote this comment!**\n\nAnd if it does break the rules, **downvote this comment and report this post!**",
+          "2025-11-18T14:23:34.834964"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:23:34.834964"
+        ],
+        [
+          1,
+          "2025-11-18T14:33:10.923683"
+        ],
+        [
+          1,
+          "2025-11-18T14:43:13.140378"
+        ]
+      ],
+      "created_utc": 1763398308.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTPro/comments/1ozlfnu/is_there_a_way_to_have_chatgpt_not_prepopulate/npcccia/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npcpmdx",
+      "parent_id": "t3_1ozlfnu",
+      "author": "Goofball-John-McGee",
+      "text_history": [
+        [
+          "Unfortunately for you, it’s not. \n\nHowever, I find it incredibly useful myself so I’m not sure why you would want to disable it? It’s a neat little QOL feature that allows me to easily test a query, slightly modified to get to an answer quicker/better plurality",
+          "2025-11-18T14:23:34.834964"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-18T14:23:34.834964"
+        ],
+        [
+          2,
+          "2025-11-18T14:33:10.923683"
+        ],
+        [
+          2,
+          "2025-11-18T14:43:13.140378"
+        ]
+      ],
+      "created_utc": 1763402225.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTPro/comments/1ozlfnu/is_there_a_way_to_have_chatgpt_not_prepopulate/npcpmdx/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npd22kv",
+          "parent_id": "t1_npcpmdx",
+          "author": "notapersonaltrainer",
+          "text_history": [
+            [
+              "Most of the time I might be working on a longer prompt, but open new tabs to ask side questions or something totally different.",
+              "2025-11-18T14:23:34.834964"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T14:23:34.834964"
+            ],
+            [
+              1,
+              "2025-11-18T14:33:10.923683"
+            ],
+            [
+              1,
+              "2025-11-18T14:43:13.140378"
+            ]
+          ],
+          "created_utc": 1763405804.0,
+          "depth": 1,
+          "permalink": "/r/ChatGPTPro/comments/1ozlfnu/is_there_a_way_to_have_chatgpt_not_prepopulate/npd22kv/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npd4ftg",
+      "parent_id": "t3_1ozlfnu",
+      "author": "JamesGriffing",
+      "text_history": [
+        [
+          "OpenAI does not have a setting to control this behavior. There is a way you can fix it yourself, though. Assuming you're using a desktop browser, you can install an extension called \"TamperMonkey\" that allows for custom JavaScript to be used (the code sites run on is JavaScript). This allows you to set up your own behaviors to overwrite what sites do by default.\n\nChatGPT is actually very good at making these types of scripts. I was able to make one to do what you wanted by giving ChatGPT the source code of ChatGPT itself with the following prompt \"Create a userscript that will do the following: when the url is exactly \"https://chatgpt.com/\" no params, or anything, then we must make sure that the text input field is empty. after loading it populates with the last unsent prompt, but we want to disable that.\"\n\nThis is the script it produced. Putting that into TamperMonkey will prevent the prompt input from keeping the last unsent prompt input.\n\nReddit won't let me post the comment with the userscript, here's a google doc with the code attached: [https://docs.google.com/document/d/1qeK2SFbcFylJPD66W1Lk5Ho4nMpl5jmtIiwYbvpTRrY/edit?usp=sharing](https://docs.google.com/document/d/1qeK2SFbcFylJPD66W1Lk5Ho4nMpl5jmtIiwYbvpTRrY/edit?usp=sharing)\n\nIf you do not know code, then do not trust random code on the internet. Ask any of your favorite LLMs about the code to ensure it's safe.",
+          "2025-11-18T14:23:34.834964"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-18T14:23:34.834964"
+        ],
+        [
+          2,
+          "2025-11-18T14:33:10.923683"
+        ],
+        [
+          2,
+          "2025-11-18T14:43:13.140378"
+        ]
+      ],
+      "created_utc": 1763406502.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTPro/comments/1ozlfnu/is_there_a_way_to_have_chatgpt_not_prepopulate/npd4ftg/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npcf1f1",
+      "parent_id": "t3_1ozlfnu",
+      "author": "SHS1955",
+      "text_history": [
+        [
+          "I don't know about turning it off, but I think you can Prompt things like:  \n1. Use this prompt only 1 times then forget it.  \n2. Let's start fresh with session, do not use previous prompts.  \n3. Here is a new prompt to use for this session.\n\nIf you use any of these prompts, I don't know if ChatGPT might also forget the Prompts when you return to the first tab. If that is the case, and you like the results... in the second prompt, then you can re-enter the original prompt in the 1st tab.\n\nI don't know if it is possible to have 2 or more completely independent sessions, running at the same time... But, that might be a good question for ChatGPT.",
+          "2025-11-18T14:23:34.834964"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:23:34.834964"
+        ],
+        [
+          1,
+          "2025-11-18T14:33:10.923683"
+        ],
+        [
+          1,
+          "2025-11-18T14:43:13.140378"
+        ]
+      ],
+      "created_utc": 1763399103.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTPro/comments/1ozlfnu/is_there_a_way_to_have_chatgpt_not_prepopulate/npcf1f1/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npcfsgl",
+          "parent_id": "t1_npcf1f1",
+          "author": "notapersonaltrainer",
+          "text_history": [
+            [
+              "I don't mean prompts I've submitted. I mean if I have one tab open where I have a half complete prompt (I haven't submitted anything yet) then open a new tab, the text from the previous tab will pre-populate in the chat box.",
+              "2025-11-18T14:23:34.834964"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T14:23:34.834964"
+            ],
+            [
+              1,
+              "2025-11-18T14:33:10.923683"
+            ],
+            [
+              1,
+              "2025-11-18T14:43:13.140378"
+            ]
+          ],
+          "created_utc": 1763399328.0,
+          "depth": 1,
+          "permalink": "/r/ChatGPTPro/comments/1ozlfnu/is_there_a_way_to_have_chatgpt_not_prepopulate/npcfsgl/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npcokhk",
+              "parent_id": "t1_npcfsgl",
+              "author": "SHS1955",
+              "text_history": [
+                [
+                  "Oh, OK. No, I don't know how to stop that \"initialization\" process. Sorry.",
+                  "2025-11-18T14:23:34.834964"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-18T14:23:34.834964"
+                ],
+                [
+                  1,
+                  "2025-11-18T14:33:10.923683"
+                ],
+                [
+                  1,
+                  "2025-11-18T14:43:13.140378"
+                ]
+              ],
+              "created_utc": 1763401926.0,
+              "depth": 2,
+              "permalink": "/r/ChatGPTPro/comments/1ozlfnu/is_there_a_way_to_have_chatgpt_not_prepopulate/npcokhk/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "npfqiym",
+      "parent_id": "t3_1ozlfnu",
+      "author": "pinksunsetflower",
+      "text_history": [
+        [
+          "Does it still happen if you use the branch conversation feature?",
+          "2025-11-18T14:23:34.834964"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:23:34.834964"
+        ],
+        [
+          1,
+          "2025-11-18T14:33:10.923683"
+        ],
+        [
+          1,
+          "2025-11-18T14:43:13.140378"
+        ]
+      ],
+      "created_utc": 1763437827.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTPro/comments/1ozlfnu/is_there_a_way_to_have_chatgpt_not_prepopulate/npfqiym/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npg3s8l",
+      "parent_id": "t3_1ozlfnu",
+      "author": "ogthesamurai",
+      "text_history": [
+        [
+          "I have no idea what you're describing",
+          "2025-11-18T14:23:34.834964"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:23:34.834964"
+        ],
+        [
+          1,
+          "2025-11-18T14:33:10.923683"
+        ],
+        [
+          1,
+          "2025-11-18T14:43:13.140378"
+        ]
+      ],
+      "created_utc": 1763443708.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTPro/comments/1ozlfnu/is_there_a_way_to_have_chatgpt_not_prepopulate/npg3s8l/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "nphbxlz",
+          "parent_id": "t1_npg3s8l",
+          "author": "uselessreditor998",
+          "text_history": [
+            [
+              "It's just a quirk of how the browser handles session data. You could try using incognito mode for a fresh session, or clear your cache after finishing a tab. That might help!",
+              "2025-11-18T14:23:34.834964"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T14:23:34.834964"
+            ],
+            [
+              1,
+              "2025-11-18T14:33:10.923683"
+            ],
+            [
+              1,
+              "2025-11-18T14:43:13.140378"
+            ]
+          ],
+          "created_utc": 1763468643.0,
+          "depth": 1,
+          "permalink": "/r/ChatGPTPro/comments/1ozlfnu/is_there_a_way_to_have_chatgpt_not_prepopulate/nphbxlz/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "nphuttt",
+              "parent_id": "t1_nphbxlz",
+              "author": "ogthesamurai",
+              "text_history": [
+                [
+                  "Oh! I only use chat gpt on my android phone. You must be talking about gpt in a desktop browser window? So you can have separate sessions remain active in different tabs? That would be super useful if so. I'll have to look into the desktop gpt. \n I use my phone mainly because I don't type so well on a desktop keypad but I can swipe on my android mostly without looking so I can work a lot faster. I should teach my self to type I guess.",
+                  "2025-11-18T14:23:34.834964"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-18T14:23:34.834964"
+                ],
+                [
+                  1,
+                  "2025-11-18T14:33:10.923683"
+                ],
+                [
+                  1,
+                  "2025-11-18T14:43:13.140378"
+                ]
+              ],
+              "created_utc": 1763475326.0,
+              "depth": 2,
+              "permalink": "/r/ChatGPTPro/comments/1ozlfnu/is_there_a_way_to_have_chatgpt_not_prepopulate/nphuttt/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-18T14:43:13.140378",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/ChatGPTPro/comments/1ozlfnu/is_there_a_way_to_have_chatgpt_not_prepopulate/",
+    "total_comments": 11,
+    "top_level_comments": 6,
+    "api_requests": 1,
+    "expected_comments": 11,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_142334.json",
+      "scrape_002_20251118_143310.json",
+      "scrape_003_20251118_144312.json"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "post": {
+    "id": "1p0efcx",
+    "title": "Question for people working in ML: are job roles splitting or still very vague?",
+    "author": "No_Wall_7585",
+    "score_history": [
+      [
+        5,
+        "2025-11-18T14:22:22.106827"
+      ],
+      [
+        5,
+        "2025-11-18T14:32:13.152215"
+      ],
+      [
+        5,
+        "2025-11-18T14:42:43.424675"
+      ]
+    ],
+    "created_utc": 1763478668.0,
+    "num_comments": 0,
+    "subreddit": "MLQuestions",
+    "url": "https://www.reddit.com/r/MLQuestions/comments/1p0efcx/question_for_people_working_in_ml_are_job_roles/",
+    "selftext": "Hi everyone,  \nI’m looking for some honest feedback from people working in AI/ML/Data.\n\nOver the last few months, I’ve noticed that a lot of companies and recruiters still see AI roles as one big “AI expert” who’s supposed to do everything: LLMs, data engineering, MLOps, research, deployment… kind of like the “computer guy” in the early 2000s.\n\nMy feeling (and I might be wrong) is that the field is naturally splitting into very different, specialized roles — but many companies still don’t really understand who they actually need.\n\nBecause of this, I’m talking with different people to understand whether it would make sense to build a space *only* for AI professionals — more technical than LinkedIn, no feed, no posts — just proper profiles filterable by real skills, so that:\n\n– people working in AI can clearly show what they actually do,  \n– companies know exactly which role they’re looking for,  \n– and both sides can match in a cleaner, more accurate way.\n\nI’m not selling anything and I’m not building anything yet — I’m just trying to understand whether this direction makes sense or if I’m completely overthinking it.\n\nSo I wanted to ask you:  \n**Do you think the “AI generalist / everything expert” problem is real today?**  \n**Would a highly specialized platform make sense, or not really?**  \n**What would it need (or avoid) to actually be useful for you?**\n\nAny opinion, criticism, personal experience, or even a “you’re totally wrong” is welcome.  \nThanks a lot to anyone who replies 🙏",
+    "permalink": "/r/MLQuestions/comments/1p0efcx/question_for_people_working_in_ml_are_job_roles/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-18T14:42:43.424675",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/MLQuestions/comments/1p0efcx/question_for_people_working_in_ml_are_job_roles/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_142221.json",
+      "scrape_002_20251118_143212.json",
+      "scrape_003_20251118_144243.json"
+    ]
+  }
+}

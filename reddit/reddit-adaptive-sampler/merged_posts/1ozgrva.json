@@ -1,0 +1,80 @@
+{
+  "post": {
+    "id": "1ozgrva",
+    "title": "Guidance Required !!",
+    "author": "Aromatic_Cow2368",
+    "score_history": [
+      [
+        1,
+        "2025-11-18T14:22:37.963214"
+      ],
+      [
+        1,
+        "2025-11-18T14:32:46.922227"
+      ],
+      [
+        1,
+        "2025-11-18T14:42:44.308380"
+      ]
+    ],
+    "created_utc": 1763387396.0,
+    "num_comments": 1,
+    "subreddit": "robotics",
+    "url": "https://www.reddit.com/r/robotics/comments/1ozgrva/guidance_required/",
+    "selftext": "Hi everyone,   \nAfter going in circles for months and buying hardware I later realised I didn’t even need, I’ve accepted that I need proper guidance — otherwise I’ll keep looping without making any real progress.   \n  \nGoal   \n  \nBuild a two-wheeled robot whose first milestone is autonomous SLAM (mapping + localization). Later I want to add more capabilities.   \n  \nHardware I have :\n\n* SLAMTEC RPLiDAR A1M8\n* Astra Pro Plus Depth Camera\n* Jetson Orin NANO\n* Raspberry Pi 3B\n* DC motors\n* 2 x nema 17 motors\n* MDD3A motor driver\n* L298 motor driver\n\nWhere I Am Right Now   \nSmall plate chassis: DC motors + MDD3A + Raspberry Pi is working.   \nLarge plate chassis: Just mounted 2 × NEMA-17 motors (no driver/wiring yet).   \n(Photos attached for reference.)   \n  \nWhat I Need Help With   \nThis is where I’m lost and would love guidance:\n\nSmall chassis (DC motors + MDD3A + Raspberry Pi 3B): After reading more, I realised this setup cannot give me proper differential drive or wheel-encoder feedback. Without that, I won’t get reliable odometry, which means SLAM won’t work properly.\n\nBig chassis (2 × NEMA-17 stepper motors): This also doesn’t feel right for differential drive. So I’m stuck on whether to salvage this or abandon it.\n\nPossibility of starting over: Because both existing setups seem incorrect for reliable SLAM, I might need to purchase a completely new chassis + correct motors + proper encoders, but I don’t know what’s the right direction.\n\nStuck before the “real work”: Since I don’t even have a confirmed hardware base (motors, encoders, chassis), all the other parts — LiDAR integration, camera fusion, SLAM packages, Jetson setup — feel very far away. \n\n\n\nAMA — I’m here to learn.  \n\n\n[Smaller Plate Chasis](https://preview.redd.it/3yb9567tnt1g1.jpg?width=770&amp;format=pjpg&amp;auto=webp&amp;s=6cb5ff284ec44e889a4d06d03ce80a25270d17bd)\n\n[Larger Plate Chasis](https://preview.redd.it/gvh8x67tnt1g1.jpg?width=2252&amp;format=pjpg&amp;auto=webp&amp;s=0d30c6c95d91e254c14a483d9d4fccb819cfdec6)\n\n  \n",
+    "permalink": "/r/robotics/comments/1ozgrva/guidance_required/"
+  },
+  "comments": [
+    {
+      "id": "npgx6j1",
+      "parent_id": "t3_1ozgrva",
+      "author": "Taiso_shonen",
+      "text_history": [
+        [
+          "I might be able to help you. You can dm me if you'd like so that we can discuss the details.",
+          "2025-11-18T14:22:37.963214"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:22:37.963214"
+        ],
+        [
+          1,
+          "2025-11-18T14:32:46.922227"
+        ],
+        [
+          1,
+          "2025-11-18T14:42:44.308380"
+        ]
+      ],
+      "created_utc": 1763460985.0,
+      "depth": 0,
+      "permalink": "/r/robotics/comments/1ozgrva/guidance_required/npgx6j1/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-18T14:42:44.308380",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/robotics/comments/1ozgrva/guidance_required/",
+    "total_comments": 1,
+    "top_level_comments": 1,
+    "api_requests": 1,
+    "expected_comments": 1,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_142237.json",
+      "scrape_002_20251118_143246.json",
+      "scrape_003_20251118_144244.json"
+    ]
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "post": {
+    "id": "1p0d409",
+    "title": "laptop guide",
+    "author": "Klutzy_Camel7219",
+    "score_history": [
+      [
+        0,
+        "2025-11-18T14:53:20.044079"
+      ],
+      [
+        0,
+        "2025-11-18T14:56:23.868004"
+      ],
+      [
+        0,
+        "2025-11-18T15:04:20.097337"
+      ]
+    ],
+    "created_utc": 1763475483.0,
+    "num_comments": 2,
+    "subreddit": "learnmachinelearning",
+    "url": "https://www.reddit.com/r/learnmachinelearning/comments/1p0d409/laptop_guide/",
+    "selftext": "I can only purchase up to an RTX 3050 laptop because of my budget. Should I purchase this now, or would it be preferable to purchase a laptop without a specialized GPU? I don't think a 3050 would be sufficient otherwise. I'm totally confused. Please assist me.  \nI'm only now beginning with AI/ML, thus I'm not sure if I'll use the cloud or local testing. None of that is known to me.  \n",
+    "permalink": "/r/learnmachinelearning/comments/1p0d409/laptop_guide/"
+  },
+  "comments": [
+    {
+      "id": "npi5ew2",
+      "parent_id": "t3_1p0d409",
+      "author": "i_xSunandan",
+      "text_history": [
+        [
+          "Rtx 3050 is enough to learn AI/ML, as if you are not running very large data sets. You can even trajn small llm models with ease and some minor lag with intermediate llm models. If you can go for more VRAM gpu then 3050 that would be much better.",
+          "2025-11-18T14:53:20.044079"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-18T14:53:20.044079"
+        ],
+        [
+          2,
+          "2025-11-18T14:56:23.868004"
+        ],
+        [
+          2,
+          "2025-11-18T15:04:20.097337"
+        ]
+      ],
+      "created_utc": 1763478685.0,
+      "depth": 0,
+      "permalink": "/r/learnmachinelearning/comments/1p0d409/laptop_guide/npi5ew2/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npi5lo5",
+          "parent_id": "t1_npi5ew2",
+          "author": "Klutzy_Camel7219",
+          "text_history": [
+            [
+              "thankyou for your advice",
+              "2025-11-18T14:53:20.044079"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T14:53:20.044079"
+            ],
+            [
+              1,
+              "2025-11-18T14:56:23.868004"
+            ],
+            [
+              1,
+              "2025-11-18T15:04:20.097337"
+            ]
+          ],
+          "created_utc": 1763478743.0,
+          "depth": 1,
+          "permalink": "/r/learnmachinelearning/comments/1p0d409/laptop_guide/npi5lo5/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-18T15:04:20.097337",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/learnmachinelearning/comments/1p0d409/laptop_guide/",
+    "total_comments": 2,
+    "top_level_comments": 1,
+    "api_requests": 1,
+    "expected_comments": 2,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_145319.json",
+      "scrape_002_20251118_145623.json",
+      "scrape_003_20251118_150419.json"
+    ]
+  }
+}

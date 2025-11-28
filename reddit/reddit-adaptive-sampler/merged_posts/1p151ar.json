@@ -1,0 +1,54 @@
+{
+  "post": {
+    "id": "1p151ar",
+    "title": "You don't need smarter agents, you need a boring orchestrator",
+    "author": "JFerzt",
+    "score_history": [
+      [
+        0,
+        "2025-11-19T04:01:47.651884"
+      ],
+      [
+        0,
+        "2025-11-19T04:03:09.395519"
+      ],
+      [
+        0,
+        "2025-11-19T04:10:02.397473"
+      ],
+      [
+        0,
+        "2025-11-19T04:12:34.531900"
+      ],
+      [
+        0,
+        "2025-11-19T04:21:23.655985"
+      ]
+    ],
+    "created_utc": 1763551219.0,
+    "num_comments": 0,
+    "subreddit": "AgentsOfAI",
+    "url": "https://www.reddit.com/r/AgentsOfAI/comments/1p151ar/you_dont_need_smarter_agents_you_need_a_boring/",
+    "selftext": "Anyone else feel like building multi agent systems has turned into wiring 10 \"genius\" bots together and praying the 3k token prompt holds everything together. Half the posts in agent communities are really people fighting orchestration, context bloat, and debugging, not \"intelligence\".\n\nI got tired of that and turned my own mess into a framework: Kairos Flow, a multi agent prompt framework that already powers a marketing platform and a WordPress dev platform in production. After shipping those two, I'm convinced the real unlock is boring structure - not yet another \"autonomous super agent\".\n\nCore pattern is simple: one agent - one job (Henry Ford style) so prompts stay small and debuggable. All agents talk through a standard JSON artifact so every decision is traceable instead of buried in chat logs.\\] A context orchestrator decides who actually needs to see what, which has cut prompt complexity by roughly 79-88 percent in real pipelines.\n\nThe repo is [\"JavierBaal/KairosFlow\"](https://github.com/JavierBaal/KairosFlow) on GitHub if anyone here wants to stress test the ideas or tell me where this breaks in your own agent stacks.",
+    "permalink": "/r/AgentsOfAI/comments/1p151ar/you_dont_need_smarter_agents_you_need_a_boring/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T04:21:23.655985",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/AgentsOfAI/comments/1p151ar/you_dont_need_smarter_agents_you_need_a_boring/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 5,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_040147.json",
+      "scrape_002_20251119_040309.json",
+      "scrape_003_20251119_041002.json",
+      "scrape_004_20251119_041234.json",
+      "scrape_005_20251119_042123.json"
+    ]
+  }
+}

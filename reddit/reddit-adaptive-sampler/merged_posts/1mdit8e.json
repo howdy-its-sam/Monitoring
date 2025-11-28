@@ -1,0 +1,150 @@
+{
+  "post": {
+    "id": "1mdit8e",
+    "title": "Anyone using tools to make sense of sudden LLM API cost spikes?",
+    "author": "Scary_Bar3035",
+    "score_history": [
+      [
+        0,
+        "2025-11-18T14:22:13.276438"
+      ],
+      [
+        0,
+        "2025-11-18T14:32:09.431573"
+      ],
+      [
+        0,
+        "2025-11-18T14:35:07.045067"
+      ]
+    ],
+    "created_utc": 1753910299.0,
+    "num_comments": 4,
+    "subreddit": "AutoGPT",
+    "url": "/r/LLM/comments/1md343d/anyone_using_tools_to_make_sense_of_sudden_llm/",
+    "selftext": "",
+    "permalink": "/r/AutoGPT/comments/1mdit8e/anyone_using_tools_to_make_sense_of_sudden_llm/"
+  },
+  "comments": [
+    {
+      "id": "n68hokf",
+      "parent_id": "t3_1mdit8e",
+      "author": "colmeneroio",
+      "text_history": [
+        [
+          "LLM cost spikes are honestly one of the most painful and common problems teams face when scaling AI applications, and the vendor dashboards are usually garbage for debugging this shit. I work at a consulting firm that helps companies optimize their AI operations, and cost monitoring is where most teams get blindsided.\n\nWhat actually works for cost visibility:\n\nLangfuse and LangSmith are probably your best bets for detailed LLM observability. They track token usage, model calls, and chain executions with enough granularity to spot the expensive operations.\n\nOpenLLMetry and other OpenTelemetry-based solutions can give you custom metrics around prompt lengths, retry patterns, and model fallback behavior.\n\nSimple logging middleware that captures token counts, model names, and request metadata before and after each API call. Most cost spikes come from a few specific operations that you can identify with basic instrumentation.\n\nRoll your own dashboard using your existing monitoring stack (Grafana, DataDog, etc.) to track cost per request, average token usage, and model distribution over time.\n\nCommon causes of cost spikes you should look for:\n\nPrompt bloat where context windows grow over time as conversations get longer or agents accumulate more information.\n\nRetry storms where failed requests get retried multiple times, often with exponential backoff that doesn't account for token costs.\n\nSilent fallbacks to expensive models when cheaper models hit rate limits or fail.\n\nAgent loops that generate way more API calls than expected during complex reasoning tasks.\n\nThe key is instrumenting at the application level, not relying on vendor dashboards that aggregate everything. You need to know which specific code paths are burning money.\n\nWhat kind of LLM workflow are you running? Agents, RAG, or something else? That affects the monitoring approach.",
+          "2025-11-18T14:22:13.276438"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-18T14:22:13.276438"
+        ],
+        [
+          2,
+          "2025-11-18T14:32:09.431573"
+        ],
+        [
+          2,
+          "2025-11-18T14:35:07.045067"
+        ]
+      ],
+      "created_utc": 1753995607.0,
+      "depth": 0,
+      "permalink": "/r/AutoGPT/comments/1mdit8e/anyone_using_tools_to_make_sense_of_sudden_llm/n68hokf/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "n6wskx5",
+      "parent_id": "t3_1mdit8e",
+      "author": "Time_Web488",
+      "text_history": [
+        [
+          "man, this struggle is too real, random API bill spikes with zero obvious traffic increase? yeah, been there. half the time, it’s stuff like silent retries, someone accidentally bumping the model tier, or a small prompt tweak that suddenly doubles token usage. and unless you're digging deep into logs, it's super hard to catch in the moment.\n\nagree that the default dashboards don’t cut it. even with itemized billing, figuring out *what* caused the spike means breaking everything down—model versions, prompt diffs, retry logic, you name it.\n\njust curious:\n\n– When you dug into it, were you able to catch any specific ghost patterns? like retry storms or fallback switches? or was it still kind of a black box?  \n– If you could magically add one thing to the usage dashboards, what would it be? per-call token + model cost? retry path tracing? Some kind of alert for unexpectedly expensive completions?\n\nwe’ve been knee-deep in the same mess, trying to catch retry loops and auto-model switches before they hit the wallet. would love to hear if you’ve found anything that works.",
+          "2025-11-18T14:22:13.276438"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-18T14:22:13.276438"
+        ],
+        [
+          2,
+          "2025-11-18T14:32:09.431573"
+        ],
+        [
+          2,
+          "2025-11-18T14:35:07.045067"
+        ]
+      ],
+      "created_utc": 1754330315.0,
+      "depth": 0,
+      "permalink": "/r/AutoGPT/comments/1mdit8e/anyone_using_tools_to_make_sense_of_sudden_llm/n6wskx5/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "n6bk8vy",
+      "parent_id": "t3_1mdit8e",
+      "author": "Previous_Ladder9278",
+      "text_history": [
+        [
+          "Definitely felt this pain, and yeah, it’s almost always the “invisible stuff” that eats your LLM budget: retries, fallback to GPT-4 when you thought you were on GPT-3.5, some evals or chains running with massive context, or that one agent loop that just... never ends.\n\n[Langwatch](https://github.com/langwatch/langwatch) built it exactly for this kind of visibility...\n\n* Per-call/token/user/customer cost breakdowns (token in/out, actual $$) basically any metric to track\n* Model/version visibility  see if you’re silently defaulting to a pricier model\n* Chain + agent tracing  see the actual steps, retries, evals, etc.\n* Cost diffs over time spot regressions or sudden spend spikes tied to specific routes or features\n* Prompt/test tracking  check if bloated prompts or eval runs are pushing limits\n\nIf you're self-hosting or running your own orchestration logic, LangWatch can sit on top of your logs or integrate directly into your LLM wrapper. We also support tools like LangChain, OpenAI SDKs, and most frameworks used for chaining/agent flows.\n\nHappy to show you how it plugs in or send a sample trace if you're curious.",
+          "2025-11-18T14:22:13.276438"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:22:13.276438"
+        ],
+        [
+          1,
+          "2025-11-18T14:32:09.431573"
+        ],
+        [
+          1,
+          "2025-11-18T14:35:07.045067"
+        ]
+      ],
+      "created_utc": 1754040782.0,
+      "depth": 0,
+      "permalink": "/r/AutoGPT/comments/1mdit8e/anyone_using_tools_to_make_sense_of_sudden_llm/n6bk8vy/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-18T14:35:07.045067",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/AutoGPT/comments/1mdit8e/anyone_using_tools_to_make_sense_of_sudden_llm/",
+    "total_comments": 3,
+    "top_level_comments": 3,
+    "api_requests": 1,
+    "expected_comments": 4,
+    "coverage_percent": 75.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_142212.json",
+      "scrape_002_20251118_143209.json",
+      "scrape_003_20251118_143506.json"
+    ]
+  }
+}

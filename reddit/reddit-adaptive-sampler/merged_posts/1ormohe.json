@@ -1,0 +1,54 @@
+{
+  "post": {
+    "id": "1ormohe",
+    "title": "Prior Labs Releases TabPFN-2.5: The Latest Version of TabPFN that Unlocks Scale and Speed for Tabular Foundation Models",
+    "author": "ai-lover",
+    "score_history": [
+      [
+        10,
+        "2025-11-18T13:49:48.466939"
+      ],
+      [
+        11,
+        "2025-11-18T14:01:00.537969"
+      ],
+      [
+        11,
+        "2025-11-18T14:12:27.522900"
+      ],
+      [
+        10,
+        "2025-11-18T22:10:13.347403"
+      ],
+      [
+        12,
+        "2025-11-19T07:22:38.528665"
+      ]
+    ],
+    "created_utc": 1762599695.0,
+    "num_comments": 0,
+    "subreddit": "machinelearningnews",
+    "url": "https://www.marktechpost.com/2025/11/08/prior-labs-releases-tabpfn-2-5-the-latest-version-of-tabpfn-that-unlocks-scale-and-speed-for-tabular-foundation-models/",
+    "selftext": "Tabular data is still where many important models run in production. Finance, healthcare, energy and industry teams work with tables of rows and columns, not images or long text. Prior Labs now extends this space with TabPFN-2.5, a new tabular foundation model that scales in context learning to 50,000 samples and 2,000 features while keeping a training free workflow.\n\nThe first TabPFN showed that a transformer can learn a Bayesian like inference procedure on synthetic tabular tasks. It handled up to about 1,000 samples and clean numerical features. TabPFNv2 extended this to messy real world data. It added support for categorical features, missing values and outliers, and was practical up to 10,000 samples and 500 features....\n\nFull analysis: [https://www.marktechpost.com/2025/11/08/prior-labs-releases-tabpfn-2-5-the-latest-version-of-tabpfn-that-unlocks-scale-and-speed-for-tabular-foundation-models/](https://www.marktechpost.com/2025/11/08/prior-labs-releases-tabpfn-2-5-the-latest-version-of-tabpfn-that-unlocks-scale-and-speed-for-tabular-foundation-models/)\n\nPaper: [https://priorlabs.ai/technical-reports/tabpfn-2-5-model-report](https://priorlabs.ai/technical-reports/tabpfn-2-5-model-report)\n\nModel weight: [https://huggingface.co/Prior-Labs/tabpfn\\_2\\_5](https://huggingface.co/Prior-Labs/tabpfn_2_5)\n\nRepo: [https://github.com/PriorLabs/TabPFN](https://github.com/PriorLabs/TabPFN)",
+    "permalink": "/r/machinelearningnews/comments/1ormohe/prior_labs_releases_tabpfn25_the_latest_version/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T07:22:38.528665",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/machinelearningnews/comments/1ormohe/prior_labs_releases_tabpfn25_the_latest_version/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 5,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_134948.json",
+      "scrape_002_20251118_140100.json",
+      "scrape_003_20251118_141227.json",
+      "scrape_004_20251118_221013.json",
+      "scrape_005_20251119_072238.json"
+    ]
+  }
+}

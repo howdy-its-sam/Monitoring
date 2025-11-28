@@ -1,0 +1,44 @@
+{
+  "post": {
+    "id": "ujuec5",
+    "title": "Made a short video about an interesting article concerning the use of AI in sepsis prevention you might enjoy!",
+    "author": "TheRealV1nn13",
+    "score_history": [
+      [
+        5,
+        "2025-11-18T15:16:50.090603"
+      ],
+      [
+        3,
+        "2025-11-18T23:13:58.453312"
+      ],
+      [
+        5,
+        "2025-11-19T01:08:29.419346"
+      ]
+    ],
+    "created_utc": 1651863045.0,
+    "num_comments": 0,
+    "subreddit": "HealthAI",
+    "url": "https://youtu.be/aQ3cQdPOn7k",
+    "selftext": "",
+    "permalink": "/r/HealthAI/comments/ujuec5/made_a_short_video_about_an_interesting_article/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T01:08:29.419346",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/HealthAI/comments/ujuec5/made_a_short_video_about_an_interesting_article/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_151649.json",
+      "scrape_002_20251118_231358.json",
+      "scrape_003_20251119_010829.json"
+    ]
+  }
+}

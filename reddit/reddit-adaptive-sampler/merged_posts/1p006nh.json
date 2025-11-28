@@ -1,0 +1,80 @@
+{
+  "post": {
+    "id": "1p006nh",
+    "title": "Defining AI Agent Actions with Custom Tools in ElevenLabs",
+    "author": "Lone_Admin",
+    "score_history": [
+      [
+        3,
+        "2025-11-18T14:22:10.038848"
+      ],
+      [
+        3,
+        "2025-11-18T14:32:46.707673"
+      ],
+      [
+        3,
+        "2025-11-18T14:42:47.126737"
+      ]
+    ],
+    "created_utc": 1763433191.0,
+    "num_comments": 1,
+    "subreddit": "AgentsOfAI",
+    "url": "https://v.redd.it/vzp6e454gx1g1",
+    "selftext": "The ElevenLabs Agent platform allows developers to enhance conversational AI by integrating custom tool calls to unlock specific actions.\n\nThis functionality is achieved by:\n\n* Building Custom Tool Calls: Defining functions that allow the agent to perform actions outside of its core LLM capability (e.g., scheduling, data retrieval).\n* Integrating Knowledge Bases: Connecting relevant data sources so the agent has information to draw upon.\n* Setting Triggers: Configuring the system so the AI determines the appropriate moment to utilize a specific tool based on the user's request.\n\nImplementation of this setup can be done manually within the ElevenLabs environment or by using tools like the BlackBox AI Builder, which provides pre-configured setups and integrations for ElevenLabs.\n\nWhat are your thoughts?",
+    "permalink": "/r/AgentsOfAI/comments/1p006nh/defining_ai_agent_actions_with_custom_tools_in/"
+  },
+  "comments": [
+    {
+      "id": "npgb6ri",
+      "parent_id": "t3_1p006nh",
+      "author": "SocialScope_0912",
+      "text_history": [
+        [
+          "This is the direction AI has to go LLMs + real actions. At MentTech Labs we see teams wanting exactly this kind of agent autonomy.",
+          "2025-11-18T14:22:10.038848"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:22:10.038848"
+        ],
+        [
+          1,
+          "2025-11-18T14:32:46.707673"
+        ],
+        [
+          1,
+          "2025-11-18T14:42:47.126737"
+        ]
+      ],
+      "created_utc": 1763447607.0,
+      "depth": 0,
+      "permalink": "/r/AgentsOfAI/comments/1p006nh/defining_ai_agent_actions_with_custom_tools_in/npgb6ri/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-18T14:42:47.126737",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/AgentsOfAI/comments/1p006nh/defining_ai_agent_actions_with_custom_tools_in/",
+    "total_comments": 1,
+    "top_level_comments": 1,
+    "api_requests": 1,
+    "expected_comments": 1,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_142209.json",
+      "scrape_002_20251118_143246.json",
+      "scrape_003_20251118_144246.json"
+    ]
+  }
+}

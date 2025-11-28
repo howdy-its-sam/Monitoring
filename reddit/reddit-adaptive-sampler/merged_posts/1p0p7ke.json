@@ -1,0 +1,610 @@
+{
+  "post": {
+    "id": "1p0p7ke",
+    "title": "Cyber Team Responsibilities",
+    "author": "will2learn64",
+    "score_history": [
+      [
+        15,
+        "2025-11-19T02:55:44.620112"
+      ],
+      [
+        15,
+        "2025-11-19T03:03:44.309967"
+      ],
+      [
+        16,
+        "2025-11-19T03:08:52.269038"
+      ]
+    ],
+    "created_utc": 1763502891.0,
+    "num_comments": 17,
+    "subreddit": "cybersecurity",
+    "url": "https://www.reddit.com/r/cybersecurity/comments/1p0p7ke/cyber_team_responsibilities/",
+    "selftext": "I am a Systems Admin (and then some, but you get the point) and I am currently running into some trouble with the Cyber team. \n\nThey recently started sending me reports of the vulnerabilities on the servers that I am in charge of. These are raw reports that are massive in row count. They are expecting my to go row by row and correct the vulns.  \n\nIn other organizations, we got reports from the Cyber team, but they were managed down and included mitigating factors, software limitations, vendor needs, and reconciliation recommendations.\n\nHow much of the lift is on the Cyber team and the admin team when it comes to patching vulns? \n\nIs it really expected for someone not on the Cyber team to parse all of that information and make the corrections?",
+    "permalink": "/r/cybersecurity/comments/1p0p7ke/cyber_team_responsibilities/"
+  },
+  "comments": [
+    {
+      "id": "npkhbpb",
+      "parent_id": "t3_1p0p7ke",
+      "author": "Alduin175",
+      "text_history": [
+        [
+          "will2learn64, reach out to your manager to coordinate a call with the CyberSec team's manager and one of their direct reports.\n\n\nThe call is not meant to point fingers, but to build a working relationship between both departments and of course, air out any grievances (i.e. the unparsed reports).\n\n\nGo with something like,\n\"Hi _mgr name_, can we have a meeting with cybersec_mgr_name to have their team produce appropriately parsed reports that reflect our security vulnerability remediation policy?\"\n\n\nIf a policy does not yet exist OR if your manager shuts it down, then request that they at least filter by vulnerability criticality.\n\n\nTLDR:\n* Ask manager to setup a call between departments.\n\n\n* If you're not comfortable or they shut it down, request the Cybersec team to provide vulnerability ratings by criticality.",
+          "2025-11-19T02:55:44.620112"
+        ]
+      ],
+      "score_history": [
+        [
+          15,
+          "2025-11-19T02:55:44.620112"
+        ],
+        [
+          14,
+          "2025-11-19T03:03:44.309967"
+        ],
+        [
+          14,
+          "2025-11-19T03:08:52.269038"
+        ]
+      ],
+      "created_utc": 1763503516.0,
+      "depth": 0,
+      "permalink": "/r/cybersecurity/comments/1p0p7ke/cyber_team_responsibilities/npkhbpb/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npkj4b9",
+          "parent_id": "t1_npkhbpb",
+          "author": "will2learn64",
+          "text_history": [
+            [
+              "Thanks for the response, We have a call tomorrow. I am just trying to understand more about the Cyber point of view so I can go into the meeting with some solutions in mind.",
+              "2025-11-19T02:55:44.620112"
+            ]
+          ],
+          "score_history": [
+            [
+              4,
+              "2025-11-19T02:55:44.620112"
+            ],
+            [
+              4,
+              "2025-11-19T03:03:44.309967"
+            ],
+            [
+              3,
+              "2025-11-19T03:08:52.269038"
+            ]
+          ],
+          "created_utc": 1763504083.0,
+          "depth": 1,
+          "permalink": "/r/cybersecurity/comments/1p0p7ke/cyber_team_responsibilities/npkj4b9/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npkkbyh",
+              "parent_id": "t1_npkj4b9",
+              "author": "Alduin175",
+              "text_history": [
+                [
+                  "No problem!\nEveryone's point of view is unique. The key is how to \"curb\" that in the workplace to avoid issues like this.\n\n\nIf it's not explicitly stated in a document/rule, they (cyber) may not care to go the extra step of filtering the results.\n\n\nIt's like saying, *\"give me the green m&amp;ms\"*. Someone pours the entire bag of m&amp;ms into the bowl and says *\"the green ones are mixed in there\"*.\n\n\nBut if a policy exists where it says *\"so and so will provide me with ONLY green m&amp;ms in a clean bowl and nothing else mixed in\"*, then there's no question about the delivery.",
+                  "2025-11-19T02:55:44.620112"
+                ]
+              ],
+              "score_history": [
+                [
+                  3,
+                  "2025-11-19T02:55:44.620112"
+                ],
+                [
+                  5,
+                  "2025-11-19T03:03:44.309967"
+                ],
+                [
+                  4,
+                  "2025-11-19T03:08:52.269038"
+                ]
+              ],
+              "created_utc": 1763504471.0,
+              "depth": 2,
+              "permalink": "/r/cybersecurity/comments/1p0p7ke/cyber_team_responsibilities/npkkbyh/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            },
+            {
+              "id": "npn9y2y",
+              "parent_id": "t1_npkj4b9",
+              "author": "Classic-Shake6517",
+              "text_history": [
+                [
+                  "It's likely different for everyone, but the way we do things is with a policy that defines clear SLAs based on criticality. We also take risk into account but aren't perfect and are open to a team pushing back if they have a valid reason. We give up to 30 days for lows, which I think is reasonable. Keeping the machines up to date can and should be automated as much as makes sense, so that by itself solves a huge portion of those big lists in my experience. That said, your security team shouldn't just be dumping raw reports on you. They should be working on a strategy to give you signal, not noise. Any idiot can set a tool up and parrot the results wholesale, the security team should be doing a good amount of heavy lifting before things get to you, but you might need to work with them initially to get exclusions in place where they make sense. If, on the flip side you're seeing vulnerabilities from 2019, you need to do some house cleaning on your end before expecting them to work around that.",
+                  "2025-11-19T02:55:44.620112"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-19T02:55:44.620112"
+                ],
+                [
+                  1,
+                  "2025-11-19T03:03:44.309967"
+                ],
+                [
+                  1,
+                  "2025-11-19T03:08:52.269038"
+                ]
+              ],
+              "created_utc": 1763546981.0,
+              "depth": 2,
+              "permalink": "/r/cybersecurity/comments/1p0p7ke/cyber_team_responsibilities/npn9y2y/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "npkgzo5",
+      "parent_id": "t3_1p0p7ke",
+      "author": "cyberguy2369",
+      "text_history": [
+        [
+          "its all about working together.\n\n\\- it might be as simple as just asking them for a different kind of report..  \n\\- it might be some kind of conversation about man power, time, and instead of going by vulnerability, go by systems. Which systems have the most risk and exposure.  \n\\- you might be able to mitigate 1000 vulnerabilities by just replacing one really old server with a cloud solution.\n\nbasically what I'm saying is.. instead of looking at the vulnerability number.. it should be more about the risk and exposure.. and the best approach as a whole to protecting the company and its data.. and that comes from communication and working together.\n\nMaybe by working together.. both your group and the security group you can convince management to upgrade old systems and put the company in a better place overall... a more \"hey security team.. you help me, I'll help you\" approach.",
+          "2025-11-19T02:55:44.620112"
+        ]
+      ],
+      "score_history": [
+        [
+          11,
+          "2025-11-19T02:55:44.620112"
+        ],
+        [
+          12,
+          "2025-11-19T03:03:44.309967"
+        ],
+        [
+          11,
+          "2025-11-19T03:08:52.269038"
+        ]
+      ],
+      "created_utc": 1763503413.0,
+      "depth": 0,
+      "permalink": "/r/cybersecurity/comments/1p0p7ke/cyber_team_responsibilities/npkgzo5/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npkiqrb",
+          "parent_id": "t1_npkgzo5",
+          "author": "will2learn64",
+          "text_history": [
+            [
+              "Thanks for the response and I have been trying to get more information and guidance from them, but I have basically been told to just fix the problems. \n\nIs there any Best Practice on the Cyber side of things that can show if a vulnerability is mitigated somewhere up the chain from a server IE server1 has port 80 open to talk to another server internally, but our core FW does not allow port 80 traffic in or out.  I am not sure if that makes sense at all, but I am pretty sure a team i previously worked with kept a \"mitigating factors\" spreadsheet and would send us only vulnerabilities that were not being mitigated one way or the other. Is something along those lines normal?",
+              "2025-11-19T02:55:44.620112"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-19T02:55:44.620112"
+            ],
+            [
+              1,
+              "2025-11-19T03:03:44.309967"
+            ],
+            [
+              1,
+              "2025-11-19T03:08:52.269038"
+            ]
+          ],
+          "created_utc": 1763503963.0,
+          "depth": 1,
+          "permalink": "/r/cybersecurity/comments/1p0p7ke/cyber_team_responsibilities/npkiqrb/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npkhg2l",
+      "parent_id": "t3_1p0p7ke",
+      "author": "Sqooky",
+      "text_history": [
+        [
+          "A conversation is probably the best way to resolve the issue; IT and Cyber require a partnership, not a one sided fence where findings are tossed over and you're just \"expected to fix it\". You need support. Good teams bring you the problem and help you work towards a solution.\n\nThere are tons of pointless vulnerabilities that may not affect your specific software due to configurations or any number of things.\n\nIn terms of prioritization, CISA maintains a list of key exploited vulnerabilities, if any of the vulns are on this list, start there for priority. If not, ask if they can indicate which have public Proof of Concepts. If none, sort by CVSS.\n\nBut - it all goes back to this needs to be a partnership and not a one sided fence.",
+          "2025-11-19T02:55:44.620112"
+        ]
+      ],
+      "score_history": [
+        [
+          4,
+          "2025-11-19T02:55:44.620112"
+        ],
+        [
+          4,
+          "2025-11-19T03:03:44.309967"
+        ],
+        [
+          5,
+          "2025-11-19T03:08:52.269038"
+        ]
+      ],
+      "created_utc": 1763503554.0,
+      "depth": 0,
+      "permalink": "/r/cybersecurity/comments/1p0p7ke/cyber_team_responsibilities/npkhg2l/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npkkx7l",
+          "parent_id": "t1_npkhg2l",
+          "author": "Alduin175",
+          "text_history": [
+            [
+              "Well said Spooky.\n\n\nUnderstanding what the security compliance factors are, becomes the driving force for the remediation timeline. \n\n\nOtherwise, Cybersec is to blame for failing due diligence and care by information dumping with no directive.",
+              "2025-11-19T02:55:44.620112"
+            ]
+          ],
+          "score_history": [
+            [
+              4,
+              "2025-11-19T02:55:44.620112"
+            ],
+            [
+              3,
+              "2025-11-19T03:03:44.309967"
+            ],
+            [
+              3,
+              "2025-11-19T03:08:52.269038"
+            ]
+          ],
+          "created_utc": 1763504661.0,
+          "depth": 1,
+          "permalink": "/r/cybersecurity/comments/1p0p7ke/cyber_team_responsibilities/npkkx7l/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npkknwk",
+      "parent_id": "t3_1p0p7ke",
+      "author": "Karbonatom",
+      "text_history": [
+        [
+          "I do vuln management and ZERO remediation. That task falls on the sysadmins and helpdesk. That's just how things are here and we are a larger company. I should point out that I have multiple meetings with all the teams doing the work to make sure we have better scans and legitimate work to be done.",
+          "2025-11-19T02:55:44.620112"
+        ]
+      ],
+      "score_history": [
+        [
+          5,
+          "2025-11-19T02:55:44.620112"
+        ],
+        [
+          5,
+          "2025-11-19T03:03:44.309967"
+        ],
+        [
+          5,
+          "2025-11-19T03:08:52.269038"
+        ]
+      ],
+      "created_utc": 1763504578.0,
+      "depth": 0,
+      "permalink": "/r/cybersecurity/comments/1p0p7ke/cyber_team_responsibilities/npkknwk/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npkjp13",
+      "parent_id": "t3_1p0p7ke",
+      "author": "_thos_",
+      "text_history": [
+        [
+          "Frame it as a win:win. You need clear actionable data. They need the red items to go away. The better and clearer the data they give you the faster they can close out tickets and improve their posture dashboard. \n\nAlso this kind of stuff should be automated. Kind of silly to be chasing a list of patches or config changes.",
+          "2025-11-19T02:55:44.620112"
+        ]
+      ],
+      "score_history": [
+        [
+          3,
+          "2025-11-19T02:55:44.620112"
+        ],
+        [
+          3,
+          "2025-11-19T03:03:44.309967"
+        ],
+        [
+          3,
+          "2025-11-19T03:08:52.269038"
+        ]
+      ],
+      "created_utc": 1763504267.0,
+      "depth": 0,
+      "permalink": "/r/cybersecurity/comments/1p0p7ke/cyber_team_responsibilities/npkjp13/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npkmqnj",
+          "parent_id": "t1_npkjp13",
+          "author": "Not-ur-Infosec-guy",
+          "text_history": [
+            [
+              "This.  If I was in OPs shoes, it use this as an opportunity to foster a good relationship between teams.",
+              "2025-11-19T02:55:44.620112"
+            ]
+          ],
+          "score_history": [
+            [
+              2,
+              "2025-11-19T02:55:44.620112"
+            ],
+            [
+              2,
+              "2025-11-19T03:03:44.309967"
+            ],
+            [
+              2,
+              "2025-11-19T03:08:52.269038"
+            ]
+          ],
+          "created_utc": 1763505256.0,
+          "depth": 1,
+          "permalink": "/r/cybersecurity/comments/1p0p7ke/cyber_team_responsibilities/npkmqnj/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npknb0u",
+      "parent_id": "t3_1p0p7ke",
+      "author": "Minute-Yoghurt-1265",
+      "text_history": [
+        [
+          "You need to push for a vulnerablity management policy agreed from a corporate risk appetite perspective from seniors. Other controls in place will reduce the criticality of the vulns which should be analysed, risk assessed and agreed from both sides. You cant and arguably shouldnt fix all vulns that are low risk and have had their risk score reduced to tolerable levels.",
+          "2025-11-19T02:55:44.620112"
+        ]
+      ],
+      "score_history": [
+        [
+          3,
+          "2025-11-19T02:55:44.620112"
+        ],
+        [
+          3,
+          "2025-11-19T03:03:44.309967"
+        ],
+        [
+          3,
+          "2025-11-19T03:08:52.269038"
+        ]
+      ],
+      "created_utc": 1763505444.0,
+      "depth": 0,
+      "permalink": "/r/cybersecurity/comments/1p0p7ke/cyber_team_responsibilities/npknb0u/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npktkks",
+      "parent_id": "t3_1p0p7ke",
+      "author": "Inf3c710n",
+      "text_history": [
+        [
+          "As a system owner/admin it is definitely in your wheelhouse to identify what vulnerabilities can be patched and which ones can be mitigated. As a system owner, you should be able to identify which of these solutions can just be patched or not without breaking production. Cyber teams, in a well built org, typically would not handle the patching or any admin controls over these vulnerabilities, but would instead report the vulnerabilities to the product owners",
+          "2025-11-19T02:55:44.620112"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-19T02:55:44.620112"
+        ],
+        [
+          2,
+          "2025-11-19T03:03:44.309967"
+        ],
+        [
+          2,
+          "2025-11-19T03:08:52.269038"
+        ]
+      ],
+      "created_utc": 1763507557.0,
+      "depth": 0,
+      "permalink": "/r/cybersecurity/comments/1p0p7ke/cyber_team_responsibilities/npktkks/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npm4a9l",
+      "parent_id": "t3_1p0p7ke",
+      "author": "theDigEx",
+      "text_history": [
+        [
+          "Is this a start-up or recent acquisition? Systems aside, there are some serious policy and process gaps that need patching too!\n\nThrowing arbitrary, unstructured, garbage over the fence and saying \"fix it!\" is cRaZytown.",
+          "2025-11-19T02:55:44.620112"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:55:44.620112"
+        ],
+        [
+          1,
+          "2025-11-19T03:03:44.309967"
+        ],
+        [
+          1,
+          "2025-11-19T03:08:52.269038"
+        ]
+      ],
+      "created_utc": 1763524424.0,
+      "depth": 0,
+      "permalink": "/r/cybersecurity/comments/1p0p7ke/cyber_team_responsibilities/npm4a9l/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npm5kgo",
+      "parent_id": "t3_1p0p7ke",
+      "author": "look_ima_frog",
+      "text_history": [
+        [
+          "Does your company permit the use of LLMs? If so, take their giant list they sent you, dump it into an AI. Ask it to summarize it. \n\nSend the summarized list back to Cyber and tell them what you did. See if their heads explode. If they do, then politely ask them to summarize their output instead of just sending you a mountain of unfiltered junk or at least assign a priority to them. \n\nIf they don't care that you fed internal company data to a public AI tool then, I would say you can kind of do anything. \n\nClearly this is bad advice, but it might be entertaining.",
+          "2025-11-19T02:55:44.620112"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:55:44.620112"
+        ],
+        [
+          1,
+          "2025-11-19T03:03:44.309967"
+        ],
+        [
+          1,
+          "2025-11-19T03:08:52.269038"
+        ]
+      ],
+      "created_utc": 1763524952.0,
+      "depth": 0,
+      "permalink": "/r/cybersecurity/comments/1p0p7ke/cyber_team_responsibilities/npm5kgo/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npl8aqy",
+      "parent_id": "t3_1p0p7ke",
+      "author": "NBA-014",
+      "text_history": [
+        [
+          "Your Cyber team sucks.   \n\nDumping a pile of crap with no guidance is unprofessional and speaks of significant immaturity.  \n\nYou need to address the vulns in order of risk.    Don’t waste your efforts on something that poses zero risks",
+          "2025-11-19T02:55:44.620112"
+        ]
+      ],
+      "score_history": [
+        [
+          0,
+          "2025-11-19T02:55:44.620112"
+        ],
+        [
+          0,
+          "2025-11-19T03:03:44.309967"
+        ],
+        [
+          0,
+          "2025-11-19T03:08:52.269038"
+        ]
+      ],
+      "created_utc": 1763512751.0,
+      "depth": 0,
+      "permalink": "/r/cybersecurity/comments/1p0p7ke/cyber_team_responsibilities/npl8aqy/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:08:52.269038",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/cybersecurity/comments/1p0p7ke/cyber_team_responsibilities/",
+    "total_comments": 16,
+    "top_level_comments": 10,
+    "api_requests": 1,
+    "expected_comments": 17,
+    "coverage_percent": 94.12,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_025544.json",
+      "scrape_002_20251119_030344.json",
+      "scrape_003_20251119_030851.json"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "post": {
+    "id": "1p0qbxm",
+    "title": "[ Removed by moderator ]",
+    "author": "-HTID-",
+    "score_history": [
+      [
+        0,
+        "2025-11-19T02:58:02.550374"
+      ],
+      [
+        0,
+        "2025-11-19T03:06:50.622312"
+      ],
+      [
+        0,
+        "2025-11-19T03:16:17.175290"
+      ]
+    ],
+    "created_utc": 1763505499.0,
+    "num_comments": 2,
+    "subreddit": "singularity",
+    "url": "https://www.reddit.com/r/singularity/comments/1p0qbxm/link_to_that_short_film/",
+    "selftext": "[removed]",
+    "permalink": "/r/singularity/comments/1p0qbxm/link_to_that_short_film/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:16:17.175290",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/singularity/comments/1p0qbxm/link_to_that_short_film/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 2,
+    "coverage_percent": 0.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_025802.json",
+      "scrape_002_20251119_030650.json",
+      "scrape_003_20251119_031616.json"
+    ]
+  }
+}

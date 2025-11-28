@@ -1,0 +1,107 @@
+{
+  "post": {
+    "id": "1ox6bgt",
+    "title": "HUGE project for app. Seeking interns full stack or experienced. Message me directly for project HIGH PAY",
+    "author": "InformationMaster971",
+    "score_history": [
+      [
+        0,
+        "2025-11-18T13:49:49.660279"
+      ],
+      [
+        0,
+        "2025-11-18T14:00:53.479836"
+      ],
+      [
+        0,
+        "2025-11-18T14:12:12.786933"
+      ],
+      [
+        0,
+        "2025-11-18T21:49:55.159167"
+      ],
+      [
+        0,
+        "2025-11-18T23:54:48.841427"
+      ],
+      [
+        0,
+        "2025-11-19T01:40:02.625620"
+      ]
+    ],
+    "created_utc": 1763149174.0,
+    "num_comments": 1,
+    "subreddit": "AI_developers",
+    "url": "https://www.reddit.com/r/AI_developers/comments/1ox6bgt/huge_project_for_app_seeking_interns_full_stack/",
+    "selftext": "#aiapp #aidevelopers",
+    "permalink": "/r/AI_developers/comments/1ox6bgt/huge_project_for_app_seeking_interns_full_stack/"
+  },
+  "comments": [
+    {
+      "id": "nov802z",
+      "parent_id": "t3_1ox6bgt",
+      "author": "robogame_dev",
+      "text_history": [
+        [
+          "Hi InformationMaster971,  \nthanks for posting this opportunity here,  \nas posted there's not quite enough info for someone to know if they should contact you, would you please add:\n\n\\- A short description of the project  \n\\- The pay range, at least a minimum number and note if it's full-time  \n\\- what skillsets / tech stack would be involved",
+          "2025-11-18T13:49:49.660279"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T13:49:49.660279"
+        ],
+        [
+          1,
+          "2025-11-18T14:00:53.479836"
+        ],
+        [
+          1,
+          "2025-11-18T14:12:12.786933"
+        ],
+        [
+          1,
+          "2025-11-18T21:49:55.159167"
+        ],
+        [
+          1,
+          "2025-11-18T23:54:48.841427"
+        ],
+        [
+          1,
+          "2025-11-19T01:40:02.625620"
+        ]
+      ],
+      "created_utc": 1763151537.0,
+      "depth": 0,
+      "permalink": "/r/AI_developers/comments/1ox6bgt/huge_project_for_app_seeking_interns_full_stack/nov802z/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T01:40:02.625620",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/AI_developers/comments/1ox6bgt/huge_project_for_app_seeking_interns_full_stack/",
+    "total_comments": 1,
+    "top_level_comments": 1,
+    "api_requests": 1,
+    "expected_comments": 1,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 6,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_134949.json",
+      "scrape_002_20251118_140053.json",
+      "scrape_003_20251118_141212.json",
+      "scrape_004_20251118_214954.json",
+      "scrape_005_20251118_235448.json",
+      "scrape_006_20251119_014002.json"
+    ]
+  }
+}

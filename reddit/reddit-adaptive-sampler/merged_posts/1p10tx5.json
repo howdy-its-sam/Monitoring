@@ -1,0 +1,115 @@
+{
+  "post": {
+    "id": "1p10tx5",
+    "title": "Final-year engineering student — I want to build something meaningful in AI. Need help choosing the right idea.",
+    "author": "omni_code",
+    "score_history": [
+      [
+        1,
+        "2025-11-19T03:50:45.157999"
+      ],
+      [
+        1,
+        "2025-11-19T03:58:27.652468"
+      ],
+      [
+        1,
+        "2025-11-19T04:01:43.060271"
+      ]
+    ],
+    "created_utc": 1763535986.0,
+    "num_comments": 2,
+    "subreddit": "AI_Agents",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1p10tx5/finalyear_engineering_student_i_want_to_build/",
+    "selftext": "Hey everyone,\n\nI’m a final-year engineering student, and my college is going to end soon — and honestly, that’s making me a bit tense.  \nBut at the same time, I have this burning desire to **build something impactful** in AI agents and automation.\n\nI really *love* the idea of AI agents, enterprise automation, and building systems that can actually replace repetitive workflows.  \nBut I’m stuck on **one core problem**:  \nI don’t know what exactly to build.\n\n  \nHere are some of the ideas floating in my mind (none of them are fully clear yet):\n\n* **Enterprise AI firewall / compliance layer** for companies that block ChatGPT, Claude, etc.\n* **Local agent runtime** for companies — like an internal GitHub for AI models, agents, tools, RBAC, policy control, etc.\n* **Secure on-prem AI agent system** that works even in regulated industries.\n* **Agent orchestration layer** that gives companies a safe way to deploy task-based autonomous agents.\n* Something around **agent security, observability, or policy enforcement**.\n\nI genuinely want to build something that solves a real problem — not just another demo.\n\nBut I need help narrowing down **what is actually worth building**, what companies will *pay for*, and what the real pain points are.\n\nIf you’re working with agents, enterprise AI, or building in this space, I’d love your advice:  \n**What’s the biggest unsolved problem you see?**  \n**Which of these directions has real demand?**  \n**Or should I think about something else entirely?**\n\nAny guidance would mean a lot.  \nThanks in advance 🙏",
+    "permalink": "/r/AI_Agents/comments/1p10tx5/finalyear_engineering_student_i_want_to_build/"
+  },
+  "comments": [
+    {
+      "id": "npms38y",
+      "parent_id": "t3_1p10tx5",
+      "author": "AutoModerator",
+      "text_history": [
+        [
+          "Thank you for your submission, for any questions regarding AI, please check out our wiki at https://www.reddit.com/r/ai_agents/wiki (this is currently in test and we are actively adding to the wiki)\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/AI_Agents) if you have any questions or concerns.*",
+          "2025-11-19T03:50:45.157999"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T03:50:45.157999"
+        ],
+        [
+          1,
+          "2025-11-19T03:58:27.652468"
+        ],
+        [
+          1,
+          "2025-11-19T04:01:43.060271"
+        ]
+      ],
+      "created_utc": 1763535987.0,
+      "depth": 0,
+      "permalink": "/r/AI_Agents/comments/1p10tx5/finalyear_engineering_student_i_want_to_build/npms38y/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npmsnt8",
+      "parent_id": "t3_1p10tx5",
+      "author": "ai-agents-qa-bot",
+      "text_history": [
+        [
+          "- **Enterprise AI Firewall / Compliance Layer**: This is increasingly relevant as companies look to manage AI usage while ensuring compliance with regulations. With many organizations blocking access to popular AI tools, a solution that allows safe usage while adhering to policies could be valuable.\n\n- **Local Agent Runtime**: This idea taps into the need for organizations to manage their AI resources internally. A system that allows for the deployment and management of AI models and agents with robust access controls could address significant operational challenges.\n\n- **Secure On-Prem AI Agent System**: In regulated industries, security and compliance are paramount. Developing a system that ensures AI agents can operate securely within these constraints could meet a critical need.\n\n- **Agent Orchestration Layer**: As companies adopt more AI agents, the need for effective orchestration becomes crucial. A solution that simplifies the deployment and management of task-based autonomous agents could be highly sought after.\n\n- **Agent Security, Observability, or Policy Enforcement**: These areas are essential as organizations scale their AI operations. Solutions that enhance security, provide insights into agent performance, or ensure adherence to policies could fill significant gaps in the market.\n\n### Considerations:\n- **Market Demand**: Research current trends in enterprise AI adoption and compliance needs. Engaging with potential users or companies could provide insights into their pain points and willingness to invest in solutions.\n\n- **Real-World Problems**: Focus on identifying specific challenges faced by organizations in implementing AI. This could involve interviews or surveys with industry professionals to understand their needs better.\n\n- **Scalability and Flexibility**: Ensure that whatever you build can adapt to changing requirements and scale with organizational growth.\n\nFor further insights on AI agents and their applications, you might find the following resources helpful:\n- [Agents, Assemble: A Field Guide to AI Agents](https://tinyurl.com/4sdfypyt)\n- [AI agent orchestration with OpenAI Agents SDK](https://tinyurl.com/3axssjh3)",
+          "2025-11-19T03:50:45.157999"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T03:50:45.157999"
+        ],
+        [
+          1,
+          "2025-11-19T03:58:27.652468"
+        ],
+        [
+          1,
+          "2025-11-19T04:01:43.060271"
+        ]
+      ],
+      "created_utc": 1763536315.0,
+      "depth": 0,
+      "permalink": "/r/AI_Agents/comments/1p10tx5/finalyear_engineering_student_i_want_to_build/npmsnt8/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T04:01:43.060271",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/AI_Agents/comments/1p10tx5/finalyear_engineering_student_i_want_to_build/",
+    "total_comments": 2,
+    "top_level_comments": 2,
+    "api_requests": 1,
+    "expected_comments": 2,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_035044.json",
+      "scrape_002_20251119_035827.json",
+      "scrape_003_20251119_040142.json"
+    ]
+  }
+}

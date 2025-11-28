@@ -1,0 +1,80 @@
+{
+  "post": {
+    "id": "1or08rf",
+    "title": "OpenAI Pushes to Label Datacenters as ‘American Manufacturing’ Seeking Federal Subsidies After Preaching Independence",
+    "author": "Ok-Breakfast-4676",
+    "score_history": [
+      [
+        15,
+        "2025-11-18T14:22:11.564004"
+      ],
+      [
+        17,
+        "2025-11-18T14:32:09.742254"
+      ],
+      [
+        17,
+        "2025-11-18T14:41:19.924505"
+      ]
+    ],
+    "created_utc": 1762535733.0,
+    "num_comments": 1,
+    "subreddit": "machinelearningnews",
+    "url": "https://i.redd.it/jq1jrz6kbvzf1.jpeg",
+    "selftext": "",
+    "permalink": "/r/machinelearningnews/comments/1or08rf/openai_pushes_to_label_datacenters_as_american/"
+  },
+  "comments": [
+    {
+      "id": "no236u2",
+      "parent_id": "t3_1or08rf",
+      "author": "always_going",
+      "text_history": [
+        [
+          "Just weird",
+          "2025-11-18T14:22:11.564004"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:22:11.564004"
+        ],
+        [
+          1,
+          "2025-11-18T14:32:09.742254"
+        ],
+        [
+          1,
+          "2025-11-18T14:41:19.924505"
+        ]
+      ],
+      "created_utc": 1762750163.0,
+      "depth": 0,
+      "permalink": "/r/machinelearningnews/comments/1or08rf/openai_pushes_to_label_datacenters_as_american/no236u2/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-18T14:41:19.924505",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/machinelearningnews/comments/1or08rf/openai_pushes_to_label_datacenters_as_american/",
+    "total_comments": 1,
+    "top_level_comments": 1,
+    "api_requests": 1,
+    "expected_comments": 1,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_142211.json",
+      "scrape_002_20251118_143209.json",
+      "scrape_003_20251118_144119.json"
+    ]
+  }
+}

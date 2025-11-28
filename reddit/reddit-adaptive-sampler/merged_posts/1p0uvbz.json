@@ -1,0 +1,362 @@
+{
+  "post": {
+    "id": "1p0uvbz",
+    "title": "Gemini 3 Pro solves most recent project euler GPT 5.1 Thinking couldn't.",
+    "author": "Gold_Palpitation8982",
+    "score_history": [
+      [
+        70,
+        "2025-11-19T03:19:53.975552"
+      ],
+      [
+        72,
+        "2025-11-19T03:26:59.783457"
+      ],
+      [
+        73,
+        "2025-11-19T03:28:43.583729"
+      ]
+    ],
+    "created_utc": 1763517356.0,
+    "num_comments": 9,
+    "subreddit": "singularity",
+    "url": "https://www.reddit.com/gallery/1p0uvbz",
+    "selftext": "GPT 5.1 Extended Thinking timed out at around 13 minutes of thinking, like always. Gemini correctly did it in less than 5.   \n  \nThe problem was released 2 days ago on the 16th. It only had code execution available and zero Google search. \n\nGreat model. ",
+    "permalink": "/r/singularity/comments/1p0uvbz/gemini_3_pro_solves_most_recent_project_euler_gpt/"
+  },
+  "comments": [
+    {
+      "id": "nplt6j6",
+      "parent_id": "t3_1p0uvbz",
+      "author": "FateOfMuffins",
+      "text_history": [
+        [
+          "https://matharena.ai/?comp=euler--euler\n\nPerhaps it's out of scope for Medium but GPT 5.1 High solved it 4/4 times and Gemini 3 solved it 3/4 times\n\nNote for Plus, Extended Thinking is only Medium. You can access High through codex",
+          "2025-11-19T03:19:53.975552"
+        ]
+      ],
+      "score_history": [
+        [
+          22,
+          "2025-11-19T03:19:53.975552"
+        ],
+        [
+          23,
+          "2025-11-19T03:26:59.783457"
+        ],
+        [
+          21,
+          "2025-11-19T03:28:43.583729"
+        ]
+      ],
+      "created_utc": 1763520234.0,
+      "depth": 0,
+      "permalink": "/r/singularity/comments/1p0uvbz/gemini_3_pro_solves_most_recent_project_euler_gpt/nplt6j6/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nplqmry",
+      "parent_id": "t3_1p0uvbz",
+      "author": "RedOneMonster",
+      "text_history": [
+        [
+          "I wonder what optimizations Google has found for their actual compute algorithms. 2.0 Flash+Pro actually generated real server savings with AlphaEvolve. Novel discoveries, in my opinion, already result to recursive self improvement.",
+          "2025-11-19T03:19:53.975552"
+        ]
+      ],
+      "score_history": [
+        [
+          7,
+          "2025-11-19T03:19:53.975552"
+        ],
+        [
+          7,
+          "2025-11-19T03:26:59.783457"
+        ],
+        [
+          7,
+          "2025-11-19T03:28:43.583729"
+        ]
+      ],
+      "created_utc": 1763519319.0,
+      "depth": 0,
+      "permalink": "/r/singularity/comments/1p0uvbz/gemini_3_pro_solves_most_recent_project_euler_gpt/nplqmry/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nplnala",
+      "parent_id": "t3_1p0uvbz",
+      "author": "RipleyVanDalen",
+      "text_history": [
+        [
+          "Wow",
+          "2025-11-19T03:19:53.975552"
+        ]
+      ],
+      "score_history": [
+        [
+          3,
+          "2025-11-19T03:19:53.975552"
+        ],
+        [
+          4,
+          "2025-11-19T03:26:59.783457"
+        ],
+        [
+          3,
+          "2025-11-19T03:28:43.583729"
+        ]
+      ],
+      "created_utc": 1763518117.0,
+      "depth": 0,
+      "permalink": "/r/singularity/comments/1p0uvbz/gemini_3_pro_solves_most_recent_project_euler_gpt/nplnala/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npm0ucl",
+      "parent_id": "t3_1p0uvbz",
+      "author": "Economy_Variation365",
+      "text_history": [
+        [
+          "I must be very naive. Why isn't H(2) just equal to 4?",
+          "2025-11-19T03:19:53.975552"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T03:19:53.975552"
+        ],
+        [
+          2,
+          "2025-11-19T03:26:59.783457"
+        ],
+        [
+          2,
+          "2025-11-19T03:28:43.583729"
+        ]
+      ],
+      "created_utc": 1763523058.0,
+      "depth": 0,
+      "permalink": "/r/singularity/comments/1p0uvbz/gemini_3_pro_solves_most_recent_project_euler_gpt/npm0ucl/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npmlmrh",
+          "parent_id": "t1_npm0ucl",
+          "author": "Dear-One-6884",
+          "text_history": [
+            [
+              "Long tail of very small hops skews the distribution (eg. the lowest number of hops is 2 because 1 then 1; but if by chance the kangaroo goes on a streak of small hops say 0.1, 0.1, 0.1 and so on then it would take 20 hops to get to 2. The lowest number of hops is 2 but the highest number is effectively infinite, so it skews the average)",
+              "2025-11-19T03:19:53.975552"
+            ]
+          ],
+          "score_history": [
+            [
+              2,
+              "2025-11-19T03:19:53.975552"
+            ],
+            [
+              3,
+              "2025-11-19T03:26:59.783457"
+            ],
+            [
+              3,
+              "2025-11-19T03:28:43.583729"
+            ]
+          ],
+          "created_utc": 1763532418.0,
+          "depth": 1,
+          "permalink": "/r/singularity/comments/1p0uvbz/gemini_3_pro_solves_most_recent_project_euler_gpt/npmlmrh/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        },
+        {
+          "id": "npmn0nf",
+          "parent_id": "t1_npm0ucl",
+          "author": "Necessary_Ganache911",
+          "text_history": [
+            [
+              "Because it’s expectation, not median. To illustrate, consider H(1) (spoiler: it equals e). Half the time, you will get there in two hops. But some chunk of the time it will take 3, 4, 5, etc. Average it all out and it is e. \n\nAnother way of thinking about it: Yes, the median outcome is 2n, but you can’t do it in less than n + 1. So the expectation should be greater than 2n. Second spoiler: H(n) will tend towards 2n + 2/3 as n gets large (hence the “first digits after the decimal point that aren’t 6” bit).",
+              "2025-11-19T03:19:53.975552"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-19T03:19:53.975552"
+            ],
+            [
+              2,
+              "2025-11-19T03:26:59.783457"
+            ],
+            [
+              2,
+              "2025-11-19T03:28:43.583729"
+            ]
+          ],
+          "created_utc": 1763533160.0,
+          "depth": 1,
+          "permalink": "/r/singularity/comments/1p0uvbz/gemini_3_pro_solves_most_recent_project_euler_gpt/npmn0nf/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        },
+        {
+          "id": "npmlzwy",
+          "parent_id": "t1_npm0ucl",
+          "author": "yaosio",
+          "text_history": [
+            [
+              "The jump distance it makes each time is randomly selected between 0 and 1. If you were to simulate the jumping 1000 times you would get a different answer. \n\nIt's a probability question. If I said a boss has a 10% chance to drop a weapon, that would mean you should expect to get that weapon after 10 runs. This question is asking something similar, how many hops should be expected to reach n? Because we are not limited to integers it's technically possible for the kangaroo to never reach n, although very unlikely because each number has an equal chance of being selected.\n\nI have no idea how to answer it because there's an infinite number of runs where the kangaroo never reaches n.\n\nEdit: ChatGPT said there are not an infinite number of runs that never reach n and it gave me a lot of confusing math to prove it",
+              "2025-11-19T03:19:53.975552"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-19T03:19:53.975552"
+            ],
+            [
+              1,
+              "2025-11-19T03:26:59.783457"
+            ],
+            [
+              1,
+              "2025-11-19T03:28:43.583729"
+            ]
+          ],
+          "created_utc": 1763532613.0,
+          "depth": 1,
+          "permalink": "/r/singularity/comments/1p0uvbz/gemini_3_pro_solves_most_recent_project_euler_gpt/npmlzwy/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": 1763532932.0,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npn2wwu",
+              "parent_id": "t1_npmlzwy",
+              "author": "biblecrumble",
+              "text_history": [
+                [
+                  "&gt; ChatGPT said there are not an infinite number of runs that never reach n and it gave me a lot of confusing math to prove it\n\n\nI guess the explanation is that although there IS an infinite number of values between 0 and 1, it is literally impossible for the sum of an infinite number of random values between them to never be great than one? You can be extremely unlucky and go on a looong streak of ever-decreasing, incredibly small numbers, but the law of large number dictates that as the sample size grows, its mean gets closer to the average of the overall population, ie the mean of all the random values generated will get closer and closer to 0.5, or as x grows, H(x) will get closer and closer to 2x.",
+                  "2025-11-19T03:19:53.975552"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-19T03:19:53.975552"
+                ],
+                [
+                  1,
+                  "2025-11-19T03:26:59.783457"
+                ],
+                [
+                  1,
+                  "2025-11-19T03:28:43.583729"
+                ]
+              ],
+              "created_utc": 1763542570.0,
+              "depth": 2,
+              "permalink": "/r/singularity/comments/1p0uvbz/gemini_3_pro_solves_most_recent_project_euler_gpt/npn2wwu/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "npmpz8g",
+      "parent_id": "t3_1p0uvbz",
+      "author": "GraceToSentience",
+      "text_history": [
+        [
+          "Gemini models on the Gemini app especially flash is definitely needed on the Gemini App Vs on AI studio there is no question about it.",
+          "2025-11-19T03:19:53.975552"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T03:19:53.975552"
+        ],
+        [
+          1,
+          "2025-11-19T03:26:59.783457"
+        ],
+        [
+          1,
+          "2025-11-19T03:28:43.583729"
+        ]
+      ],
+      "created_utc": 1763534793.0,
+      "depth": 0,
+      "permalink": "/r/singularity/comments/1p0uvbz/gemini_3_pro_solves_most_recent_project_euler_gpt/npmpz8g/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:28:43.583729",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/singularity/comments/1p0uvbz/gemini_3_pro_solves_most_recent_project_euler_gpt/",
+    "total_comments": 9,
+    "top_level_comments": 5,
+    "api_requests": 1,
+    "expected_comments": 9,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_031953.json",
+      "scrape_002_20251119_032659.json",
+      "scrape_003_20251119_032843.json"
+    ]
+  }
+}

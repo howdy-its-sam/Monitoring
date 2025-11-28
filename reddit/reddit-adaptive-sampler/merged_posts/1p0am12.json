@@ -1,0 +1,720 @@
+{
+  "post": {
+    "id": "1p0am12",
+    "title": "Cloudflare went offline globally and now ChatGPT, X, and dozens of major platforms are throwing errors",
+    "author": "AskGpts",
+    "score_history": [
+      [
+        39,
+        "2025-11-18T14:53:56.033254"
+      ],
+      [
+        39,
+        "2025-11-18T15:04:12.335856"
+      ],
+      [
+        39,
+        "2025-11-18T15:05:38.859888"
+      ],
+      [
+        46,
+        "2025-11-18T22:42:38.674913"
+      ],
+      [
+        47,
+        "2025-11-19T00:26:37.870538"
+      ],
+      [
+        46,
+        "2025-11-19T02:11:47.486283"
+      ]
+    ],
+    "created_utc": 1763468852.0,
+    "num_comments": 14,
+    "subreddit": "ChatGPTPro",
+    "url": "https://i.redd.it/sgo1hhbae02g1.jpeg",
+    "selftext": "Cloudflare just went offline globally and it’s taking half the internet with it. ChatGPT, X, games, and a bunch of major platforms are all throwing errors at the same time. Even Downdetector is struggling, which pretty much tells you how big this outage is.\n\nLooks like Cloudflare’s whole network is having issues, so any site using their CDN or security layer is basically down. Everything feels weirdly fragile when one company hiccups and the entire web falls apart.\n\nAnyone else seeing this across multiple apps?",
+    "permalink": "/r/ChatGPTPro/comments/1p0am12/cloudflare_went_offline_globally_and_now_chatgpt/"
+  },
+  "comments": [
+    {
+      "id": "nphqnz3",
+      "parent_id": "t3_1p0am12",
+      "author": "obadacharif",
+      "text_history": [
+        [
+          "The world is mroe fragile and mediocre then we think",
+          "2025-11-18T14:53:56.033254"
+        ]
+      ],
+      "score_history": [
+        [
+          4,
+          "2025-11-18T14:53:56.033254"
+        ],
+        [
+          3,
+          "2025-11-18T15:04:12.335856"
+        ],
+        [
+          4,
+          "2025-11-18T15:05:38.859888"
+        ],
+        [
+          5,
+          "2025-11-18T22:42:38.674913"
+        ],
+        [
+          6,
+          "2025-11-19T00:26:37.870538"
+        ],
+        [
+          5,
+          "2025-11-19T02:11:47.486283"
+        ]
+      ],
+      "created_utc": 1763473996.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTPro/comments/1p0am12/cloudflare_went_offline_globally_and_now_chatgpt/nphqnz3/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npjpm10",
+          "parent_id": "t1_nphqnz3",
+          "author": "Baaoh",
+          "text_history": [
+            [
+              "Crowdstrike was quite recent too",
+              "2025-11-18T14:53:56.033254"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T14:53:56.033254"
+            ],
+            [
+              1,
+              "2025-11-18T15:04:12.335856"
+            ],
+            [
+              1,
+              "2025-11-18T15:05:38.859888"
+            ],
+            [
+              1,
+              "2025-11-18T22:42:38.674913"
+            ],
+            [
+              1,
+              "2025-11-19T00:26:37.870538"
+            ],
+            [
+              1,
+              "2025-11-19T02:11:47.486283"
+            ]
+          ],
+          "created_utc": 1763495181.0,
+          "depth": 1,
+          "permalink": "/r/ChatGPTPro/comments/1p0am12/cloudflare_went_offline_globally_and_now_chatgpt/npjpm10/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "nphcfd5",
+      "parent_id": "t3_1p0am12",
+      "author": "qualityvote2",
+      "text_history": [
+        [
+          "Hello u/AskGpts 👋 Welcome to r/ChatGPTPro!  \nThis is a community for advanced ChatGPT, AI tools, and prompt engineering discussions.  \nOther members will now vote on whether your post fits our community guidelines.\n\n\n---\n\nFor other users, does this post fit the subreddit?\n\nIf so, **upvote this comment!**\n\nOtherwise, **downvote this comment!**\n\nAnd if it does break the rules, **downvote this comment and report this post!**",
+          "2025-11-18T14:53:56.033254"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-18T14:53:56.033254"
+        ],
+        [
+          2,
+          "2025-11-18T15:04:12.335856"
+        ],
+        [
+          2,
+          "2025-11-18T15:05:38.859888"
+        ],
+        [
+          2,
+          "2025-11-18T22:42:38.674913"
+        ],
+        [
+          2,
+          "2025-11-19T00:26:37.870538"
+        ],
+        [
+          2,
+          "2025-11-19T02:11:47.486283"
+        ]
+      ],
+      "created_utc": 1763468853.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTPro/comments/1p0am12/cloudflare_went_offline_globally_and_now_chatgpt/nphcfd5/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nphempi",
+      "parent_id": "t3_1p0am12",
+      "author": "Maze_of_Ith7",
+      "text_history": [
+        [
+          "Ah thanks, was wondering what was going on. Yes, multiple apps, including GPT/Sora are having issues for me",
+          "2025-11-18T14:53:56.033254"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-18T14:53:56.033254"
+        ],
+        [
+          2,
+          "2025-11-18T15:04:12.335856"
+        ],
+        [
+          2,
+          "2025-11-18T15:05:38.859888"
+        ],
+        [
+          2,
+          "2025-11-18T22:42:38.674913"
+        ],
+        [
+          2,
+          "2025-11-19T00:26:37.870538"
+        ],
+        [
+          2,
+          "2025-11-19T02:11:47.486283"
+        ]
+      ],
+      "created_utc": 1763469779.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTPro/comments/1p0am12/cloudflare_went_offline_globally_and_now_chatgpt/nphempi/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nphkm25",
+      "parent_id": "t3_1p0am12",
+      "author": "Chair-Short",
+      "text_history": [
+        [
+          "This has happened again. We just experienced an AWS outage not long ago.",
+          "2025-11-18T14:53:56.033254"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-18T14:53:56.033254"
+        ],
+        [
+          2,
+          "2025-11-18T15:04:12.335856"
+        ],
+        [
+          2,
+          "2025-11-18T15:05:38.859888"
+        ],
+        [
+          2,
+          "2025-11-18T22:42:38.674913"
+        ],
+        [
+          2,
+          "2025-11-19T00:26:37.870538"
+        ],
+        [
+          2,
+          "2025-11-19T02:11:47.486283"
+        ]
+      ],
+      "created_utc": 1763472011.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTPro/comments/1p0am12/cloudflare_went_offline_globally_and_now_chatgpt/nphkm25/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "nphxz0p",
+          "parent_id": "t1_nphkm25",
+          "author": "MyUnbannableAccount",
+          "text_history": [
+            [
+              "AWS was just one region.  Azure was globally down for a good chunk of a day a few weeks back.",
+              "2025-11-18T14:53:56.033254"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T14:53:56.033254"
+            ],
+            [
+              1,
+              "2025-11-18T15:04:12.335856"
+            ],
+            [
+              1,
+              "2025-11-18T15:05:38.859888"
+            ],
+            [
+              1,
+              "2025-11-18T22:42:38.674913"
+            ],
+            [
+              1,
+              "2025-11-19T00:26:37.870538"
+            ],
+            [
+              1,
+              "2025-11-19T02:11:47.486283"
+            ]
+          ],
+          "created_utc": 1763476314.0,
+          "depth": 1,
+          "permalink": "/r/ChatGPTPro/comments/1p0am12/cloudflare_went_offline_globally_and_now_chatgpt/nphxz0p/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "nphr6oc",
+      "parent_id": "t3_1p0am12",
+      "author": "Conscious_Mall38",
+      "text_history": [
+        [
+          "Gemini has no such issue. \n\nHaving their own 'cloudflare' is beneficial.",
+          "2025-11-18T14:53:56.033254"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-18T14:53:56.033254"
+        ],
+        [
+          2,
+          "2025-11-18T15:04:12.335856"
+        ],
+        [
+          2,
+          "2025-11-18T15:05:38.859888"
+        ],
+        [
+          2,
+          "2025-11-18T22:42:38.674913"
+        ],
+        [
+          2,
+          "2025-11-19T00:26:37.870538"
+        ],
+        [
+          2,
+          "2025-11-19T02:11:47.486283"
+        ]
+      ],
+      "created_utc": 1763474161.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTPro/comments/1p0am12/cloudflare_went_offline_globally_and_now_chatgpt/nphr6oc/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nphrgys",
+      "parent_id": "t3_1p0am12",
+      "author": "etherd0t",
+      "text_history": [
+        [
+          "ChatGPT (OpenAI) is partially dependent on Cloudflare. The model inference backend (OpenAI infra) is not behind Cloudflare. Only the web UI layer runs through Cloudflare. And Cloudflare’s failure today was partial, not total...\n\nX (Twitter) on the other hand -  is heavily Cloudflare-dependent X uses Cloudflare for:  \nDNS, CDN, Reverse proxy, WAF, API throttling / device fingerprinting, Mobile app API gateway, Bot filtering, Worker-level traffic shaping\n\nX is one of the heaviest Cloudflare consumers in the world.",
+          "2025-11-18T14:53:56.033254"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-18T14:53:56.033254"
+        ],
+        [
+          2,
+          "2025-11-18T15:04:12.335856"
+        ],
+        [
+          2,
+          "2025-11-18T15:05:38.859888"
+        ],
+        [
+          2,
+          "2025-11-18T22:42:38.674913"
+        ],
+        [
+          2,
+          "2025-11-19T00:26:37.870538"
+        ],
+        [
+          2,
+          "2025-11-19T02:11:47.486283"
+        ]
+      ],
+      "created_utc": 1763474251.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTPro/comments/1p0am12/cloudflare_went_offline_globally_and_now_chatgpt/nphrgys/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nphmi2f",
+      "parent_id": "t3_1p0am12",
+      "author": "Negative_Upstairs_36",
+      "text_history": [
+        [
+          "Yes Canva is down too",
+          "2025-11-18T14:53:56.033254"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:53:56.033254"
+        ],
+        [
+          1,
+          "2025-11-18T15:04:12.335856"
+        ],
+        [
+          1,
+          "2025-11-18T15:05:38.859888"
+        ],
+        [
+          1,
+          "2025-11-18T22:42:38.674913"
+        ],
+        [
+          1,
+          "2025-11-19T00:26:37.870538"
+        ],
+        [
+          1,
+          "2025-11-19T02:11:47.486283"
+        ]
+      ],
+      "created_utc": 1763472642.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTPro/comments/1p0am12/cloudflare_went_offline_globally_and_now_chatgpt/nphmi2f/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nphnx0o",
+      "parent_id": "t3_1p0am12",
+      "author": "Gibson_123",
+      "text_history": [
+        [
+          "Yes affecting Turboscribe. Any idea how long these outages last?",
+          "2025-11-18T14:53:56.033254"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:53:56.033254"
+        ],
+        [
+          1,
+          "2025-11-18T15:04:12.335856"
+        ],
+        [
+          1,
+          "2025-11-18T15:05:38.859888"
+        ],
+        [
+          1,
+          "2025-11-18T22:42:38.674913"
+        ],
+        [
+          1,
+          "2025-11-19T00:26:37.870538"
+        ],
+        [
+          1,
+          "2025-11-19T02:11:47.486283"
+        ]
+      ],
+      "created_utc": 1763473112.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTPro/comments/1p0am12/cloudflare_went_offline_globally_and_now_chatgpt/nphnx0o/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nphpjma",
+      "parent_id": "t3_1p0am12",
+      "author": "zeerebel",
+      "text_history": [
+        [
+          "Yep. Perplexity, etc",
+          "2025-11-18T14:53:56.033254"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:53:56.033254"
+        ],
+        [
+          1,
+          "2025-11-18T15:04:12.335856"
+        ],
+        [
+          1,
+          "2025-11-18T15:05:38.859888"
+        ],
+        [
+          1,
+          "2025-11-18T22:42:38.674913"
+        ],
+        [
+          1,
+          "2025-11-19T00:26:37.870538"
+        ],
+        [
+          1,
+          "2025-11-19T02:11:47.486283"
+        ]
+      ],
+      "created_utc": 1763473637.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTPro/comments/1p0am12/cloudflare_went_offline_globally_and_now_chatgpt/nphpjma/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nphr0sf",
+      "parent_id": "t3_1p0am12",
+      "author": "PuteMorte",
+      "text_history": [
+        [
+          "Deepseek still working as a temporary solution",
+          "2025-11-18T14:53:56.033254"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:53:56.033254"
+        ],
+        [
+          1,
+          "2025-11-18T15:04:12.335856"
+        ],
+        [
+          1,
+          "2025-11-18T15:05:38.859888"
+        ],
+        [
+          1,
+          "2025-11-18T22:42:38.674913"
+        ],
+        [
+          1,
+          "2025-11-19T00:26:37.870538"
+        ],
+        [
+          1,
+          "2025-11-19T02:11:47.486283"
+        ]
+      ],
+      "created_utc": 1763474109.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTPro/comments/1p0am12/cloudflare_went_offline_globally_and_now_chatgpt/nphr0sf/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nphwp1e",
+      "parent_id": "t3_1p0am12",
+      "author": "whatarenumbers365",
+      "text_history": [
+        [
+          "ChatGPT still works on the iOS app, just the website is down.",
+          "2025-11-18T14:53:56.033254"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:53:56.033254"
+        ],
+        [
+          1,
+          "2025-11-18T15:04:12.335856"
+        ],
+        [
+          1,
+          "2025-11-18T15:05:38.859888"
+        ],
+        [
+          1,
+          "2025-11-18T22:42:38.674913"
+        ],
+        [
+          1,
+          "2025-11-19T00:26:37.870538"
+        ],
+        [
+          1,
+          "2025-11-19T02:11:47.486283"
+        ]
+      ],
+      "created_utc": 1763475914.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTPro/comments/1p0am12/cloudflare_went_offline_globally_and_now_chatgpt/nphwp1e/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nphz9m8",
+      "parent_id": "t3_1p0am12",
+      "author": "Knight_Day23",
+      "text_history": [
+        [
+          "Wtf is Cloudflare",
+          "2025-11-18T14:53:56.033254"
+        ]
+      ],
+      "score_history": [
+        [
+          0,
+          "2025-11-18T14:53:56.033254"
+        ],
+        [
+          0,
+          "2025-11-18T15:04:12.335856"
+        ],
+        [
+          0,
+          "2025-11-18T15:05:38.859888"
+        ],
+        [
+          0,
+          "2025-11-18T22:42:38.674913"
+        ],
+        [
+          0,
+          "2025-11-19T00:26:37.870538"
+        ],
+        [
+          0,
+          "2025-11-19T02:11:47.486283"
+        ]
+      ],
+      "created_utc": 1763476728.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTPro/comments/1p0am12/cloudflare_went_offline_globally_and_now_chatgpt/nphz9m8/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T02:11:47.486283",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/ChatGPTPro/comments/1p0am12/cloudflare_went_offline_globally_and_now_chatgpt/",
+    "total_comments": 14,
+    "top_level_comments": 12,
+    "api_requests": 1,
+    "expected_comments": 14,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 6,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_145355.json",
+      "scrape_002_20251118_150412.json",
+      "scrape_003_20251118_150538.json",
+      "scrape_004_20251118_224238.json",
+      "scrape_005_20251119_002637.json",
+      "scrape_006_20251119_021147.json"
+    ]
+  }
+}

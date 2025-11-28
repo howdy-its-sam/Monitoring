@@ -62,7 +62,11 @@ class CostPredictor:
         self.depth_stats = {
             "shallow": deque(maxlen=200),
             "medium": deque(maxlen=200),
-            "deep": deque(maxlen=100)
+            "deep": deque(maxlen=100),
+            # New intensity profiles
+            "aggressive": deque(maxlen=200),
+            "balanced": deque(maxlen=200),
+            "conservative": deque(maxlen=200)
         }
         self.total_predictions = 0
         self.total_error = 0.0
@@ -84,7 +88,9 @@ class CostPredictor:
         }
         
         self.history.append(record)
-        self.depth_stats[depth_mode].append((num_comments, actual_cost))
+        # Handle unknown depth modes gracefully
+        if depth_mode in self.depth_stats:
+            self.depth_stats[depth_mode].append((num_comments, actual_cost))
         
         # Refinement #3: Clear history when full to prevent staleness
         if len(self.history) == self.history.maxlen:

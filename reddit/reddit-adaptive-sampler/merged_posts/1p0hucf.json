@@ -1,0 +1,115 @@
+{
+  "post": {
+    "id": "1p0hucf",
+    "title": "How do you test marketers now that everyone uses AI?",
+    "author": "RTB_Junkie",
+    "score_history": [
+      [
+        1,
+        "2025-11-18T14:23:41.388358"
+      ],
+      [
+        1,
+        "2025-11-18T14:33:28.226515"
+      ],
+      [
+        1,
+        "2025-11-18T14:43:21.851045"
+      ]
+    ],
+    "created_utc": 1763486344.0,
+    "num_comments": 2,
+    "subreddit": "DigitalMarketing",
+    "url": "/r/Entrepreneur/comments/1p0htav/how_do_you_test_marketers_now_that_everyone_uses/",
+    "selftext": "",
+    "permalink": "/r/DigitalMarketing/comments/1p0hucf/how_do_you_test_marketers_now_that_everyone_uses/"
+  },
+  "comments": [
+    {
+      "id": "npive71",
+      "parent_id": "t3_1p0hucf",
+      "author": "AutoModerator",
+      "text_history": [
+        [
+          "[If this post doesn't follow the rules report it to the mods](https://www.reddit.com/r/DigitalMarketing/about/rules/). Have more questions? [Join our community Discord!](https://discord.gg/looking-for-marketing-discussion-811236647760298024)\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/DigitalMarketing) if you have any questions or concerns.*",
+          "2025-11-18T14:23:41.388358"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:23:41.388358"
+        ],
+        [
+          1,
+          "2025-11-18T14:33:28.226515"
+        ],
+        [
+          1,
+          "2025-11-18T14:43:21.851045"
+        ]
+      ],
+      "created_utc": 1763486344.0,
+      "depth": 0,
+      "permalink": "/r/DigitalMarketing/comments/1p0hucf/how_do_you_test_marketers_now_that_everyone_uses/npive71/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npive8d",
+      "parent_id": "t3_1p0hucf",
+      "author": "AutoModerator",
+      "text_history": [
+        [
+          "Are you a marketing professional and have 15 minutes to share your insights? [Take our 2025 State of Marketing Survey](https://lookingformarketing.com/survey?utm_source=reddit&amp;utm_medium=social&amp;utm_campaign=survey&amp;utm_content=r_digitalmarketing).\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/DigitalMarketing) if you have any questions or concerns.*",
+          "2025-11-18T14:23:41.388358"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:23:41.388358"
+        ],
+        [
+          1,
+          "2025-11-18T14:33:28.226515"
+        ],
+        [
+          1,
+          "2025-11-18T14:43:21.851045"
+        ]
+      ],
+      "created_utc": 1763486344.0,
+      "depth": 0,
+      "permalink": "/r/DigitalMarketing/comments/1p0hucf/how_do_you_test_marketers_now_that_everyone_uses/npive8d/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-18T14:43:21.851045",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/DigitalMarketing/comments/1p0hucf/how_do_you_test_marketers_now_that_everyone_uses/",
+    "total_comments": 2,
+    "top_level_comments": 2,
+    "api_requests": 1,
+    "expected_comments": 2,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_142341.json",
+      "scrape_002_20251118_143327.json",
+      "scrape_003_20251118_144321.json"
+    ]
+  }
+}

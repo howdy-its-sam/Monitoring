@@ -1,0 +1,684 @@
+{
+  "post": {
+    "id": "1p0r5ww",
+    "title": "GLM 4.6 on 128 GB RAM with llama.cpp",
+    "author": "ilintar",
+    "score_history": [
+      [
+        80,
+        "2025-11-19T03:30:35.637853"
+      ],
+      [
+        82,
+        "2025-11-19T03:37:41.787324"
+      ],
+      [
+        84,
+        "2025-11-19T03:39:14.577955"
+      ]
+    ],
+    "created_utc": 1763507508.0,
+    "num_comments": 18,
+    "subreddit": "LocalLLaMA",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1p0r5ww/glm_46_on_128_gb_ram_with_llamacpp/",
+    "selftext": "Recently I got my hands on a new box at work with 128 GB RAM and 32 GB VRAM (it's a semi-budget option, with 2x5070, but it performs really well). I decided I'm going to try a few of the bigger models. Obviously, a very good model to run on this is GPT-OSS-120B and it's been the default model, but I've set my eyes on the big ones. The GLM 4.6 REAP was a bit overwhelming, but then I though \"what if I could get my hands on a good low quant that fits\"?\n\nSo, with the help of [https://huggingface.co/AesSedai](https://huggingface.co/AesSedai) I've obtained a really nice mixed quant: [https://huggingface.co/AesSedai/GLM-4.6-GGUF/tree/main/llama.cpp/GLM-4.6-Q6\\_K-IQ2\\_XS-IQ2\\_XS-IQ3\\_S](https://huggingface.co/AesSedai/GLM-4.6-GGUF/tree/main/llama.cpp/GLM-4.6-Q6_K-IQ2_XS-IQ2_XS-IQ3_S) \\- it's tuned to \\*just barely\\* fit in 128GB. What's surprising is how good quality it retains even at such low quant sizes - here's its analysis when I fed it the \\`modeling\\_kimi.py\\` file from Kimi Linear: [https://gist.github.com/pwilkin/7ee5672422bd30afdb47d3898680626b](https://gist.github.com/pwilkin/7ee5672422bd30afdb47d3898680626b)\n\nAnd on top of that, llama.cpp just merged the results of a few weeks of hard work of new contributor **hksdpc255** on XML tool calling, including GLM 4.6: [https://github.com/ggml-org/llama.cpp/commit/1920345c3bcec451421bb6abc4981678cc721154](https://github.com/ggml-org/llama.cpp/commit/1920345c3bcec451421bb6abc4981678cc721154)\n\nFeel free to give it a try - on my box it's getting around 40 t/s prompt processing and about 5 t/s generation, which is not lightning fast, but still a HUGE upgrade from the 5 t/s pp and 3 t/s tg when I tried just a slightly bigger quant.\n\nEdit: forgot to mention, the deployment has 80k context at quite good Q8_0 K/V quantization, so not a gimmick build.",
+    "permalink": "/r/LocalLLaMA/comments/1p0r5ww/glm_46_on_128_gb_ram_with_llamacpp/"
+  },
+  "comments": [
+    {
+      "id": "npm9811",
+      "parent_id": "t3_1p0r5ww",
+      "author": "Academic-Lead-5771",
+      "text_history": [
+        [
+          "oh that's gore of GLM 4.6 \n\nseriously though we are we stuffing comically low... actually, 6-bit is fine? but other weights are at 3 and 2? oh well. not the most heinous quant I guess.\n\nsome guy was trying to stuff a 1-bit GGUF of this model into his 3090+RAM and was posting threads wondering why it was misbehaving. hilarious.\n\nanyway how's the output quality? \n\nI love local LLM but at a certain point its worth paying a few bucks for near full precision on demand versus this silliness.",
+          "2025-11-19T03:30:35.637853"
+        ]
+      ],
+      "score_history": [
+        [
+          13,
+          "2025-11-19T03:30:35.637853"
+        ],
+        [
+          12,
+          "2025-11-19T03:37:41.787324"
+        ],
+        [
+          12,
+          "2025-11-19T03:39:14.577955"
+        ]
+      ],
+      "created_utc": 1763526514.0,
+      "depth": 0,
+      "permalink": "/r/LocalLLaMA/comments/1p0r5ww/glm_46_on_128_gb_ram_with_llamacpp/npm9811/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npms00z",
+          "parent_id": "t1_npm9811",
+          "author": "Front_Eagle739",
+          "text_history": [
+            [
+              "Ive been using the glm 4.6 iq2_xxs unsloth quant on my 128 gb mac. Best local model I've used by far for coding and creative writing.  It follows the prompt extremely well, feels as smart as the openrouter deepseek r1/v3 or better and pretty much never wanders off topic at long context.  Once in a long while it drops a chinese character but other then that i wouldn't know its heavily quantised at all. \n\n\nTried glm 4.5 air, minimax m2, deepseek, all the qwens, oss 120 etc. None of them come close for my use cases. \n\n\nOh also I get more like 9 to 15 tk/s gen as well. Not fast enough for really busy agentic stuff but for a lot of things its fine.\n\n\nI will say these deep quants just dont seem to work on mlx though. Anything below 4 bit there seems heavily lobotomised. ",
+              "2025-11-19T03:30:35.637853"
+            ]
+          ],
+          "score_history": [
+            [
+              8,
+              "2025-11-19T03:30:35.637853"
+            ],
+            [
+              7,
+              "2025-11-19T03:37:41.787324"
+            ],
+            [
+              7,
+              "2025-11-19T03:39:14.577955"
+            ]
+          ],
+          "created_utc": 1763535936.0,
+          "depth": 1,
+          "permalink": "/r/LocalLLaMA/comments/1p0r5ww/glm_46_on_128_gb_ram_with_llamacpp/npms00z/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": 1763544719.0,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        },
+        {
+          "id": "npn6re5",
+          "parent_id": "t1_npm9811",
+          "author": "Sorry_Ad191",
+          "text_history": [
+            [
+              "low bit quants are really good these days. halfway through the full polyglot with smol\\_iq3\\_ks for kimi k2 thinking and its beating claude, o3, grok 4 and on pair with gpt 5.\n\n`Progress:`\n\n`[######################## ] 48% (108/225)`\n\n`=== FULL STATS ===`\n\n`- dirname: 2025-11-18-10-02-47--smol_iq3_ks`\n\n`test_cases: 108`\n\n`model: openai/moonshotai/Kimi-K2-Thinking`\n\n`edit_format: diff`\n\n`commit_hash: c74f5ef`\n\n`pass_rate_1: 45.4`\n\n`pass_rate_2: 80.6`\n\n`pass_num_1: 49`\n\n`pass_num_2: 87`\n\n`percent_cases_well_formed: 95.4`",
+              "2025-11-19T03:30:35.637853"
+            ]
+          ],
+          "score_history": [
+            [
+              2,
+              "2025-11-19T03:30:35.637853"
+            ],
+            [
+              2,
+              "2025-11-19T03:37:41.787324"
+            ],
+            [
+              2,
+              "2025-11-19T03:39:14.577955"
+            ]
+          ],
+          "created_utc": 1763545023.0,
+          "depth": 1,
+          "permalink": "/r/LocalLLaMA/comments/1p0r5ww/glm_46_on_128_gb_ram_with_llamacpp/npn6re5/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": 1763545657.0,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        },
+        {
+          "id": "npma0l6",
+          "parent_id": "t1_npm9811",
+          "author": "blankboy2022",
+          "text_history": [
+            [
+              "I don't know much about LLM, is that actually too low? 1 bit seems too weird but what should be the acceptable quant?",
+              "2025-11-19T03:30:35.637853"
+            ]
+          ],
+          "score_history": [
+            [
+              2,
+              "2025-11-19T03:30:35.637853"
+            ],
+            [
+              2,
+              "2025-11-19T03:37:41.787324"
+            ],
+            [
+              2,
+              "2025-11-19T03:39:14.577955"
+            ]
+          ],
+          "created_utc": 1763526865.0,
+          "depth": 1,
+          "permalink": "/r/LocalLLaMA/comments/1p0r5ww/glm_46_on_128_gb_ram_with_llamacpp/npma0l6/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npmpd9x",
+              "parent_id": "t1_npma0l6",
+              "author": "No-Refrigerator-1672",
+              "text_history": [
+                [
+                  "A quick rule of thumb: Q4 is within 3-5% of original model's benchmarking scores; Q3 will have like 10% less, and Q1 like 30% less. Some authors manage to bring Q4 to be nearly identical to base model by strategically quantizing some of the layers to Q6 (i.e. Unsloth Dynamic series), but overall, Q3 and less should be avoided, those quants are more of an academic exercise than usrfull product.",
+                  "2025-11-19T03:30:35.637853"
+                ]
+              ],
+              "score_history": [
+                [
+                  5,
+                  "2025-11-19T03:30:35.637853"
+                ],
+                [
+                  5,
+                  "2025-11-19T03:37:41.787324"
+                ],
+                [
+                  6,
+                  "2025-11-19T03:39:14.577955"
+                ]
+              ],
+              "created_utc": 1763534457.0,
+              "depth": 2,
+              "permalink": "/r/LocalLLaMA/comments/1p0r5ww/glm_46_on_128_gb_ram_with_llamacpp/npmpd9x/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": [
+                {
+                  "id": "npn7lpv",
+                  "parent_id": "t1_npmpd9x",
+                  "author": "Sorry_Ad191",
+                  "text_history": [
+                    [
+                      "yes it should be stated that even somehting like a smol\\_iq3\\_ks can be 3.75bpw. due to the imatrix calibration  keeping many layers at 32, 16, 8, 6, 5, 4 bit etc. all good todays quants are like this",
+                      "2025-11-19T03:30:35.637853"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      3,
+                      "2025-11-19T03:30:35.637853"
+                    ],
+                    [
+                      3,
+                      "2025-11-19T03:37:41.787324"
+                    ],
+                    [
+                      3,
+                      "2025-11-19T03:39:14.577955"
+                    ]
+                  ],
+                  "created_utc": 1763545545.0,
+                  "depth": 3,
+                  "permalink": "/r/LocalLLaMA/comments/1p0r5ww/glm_46_on_128_gb_ram_with_llamacpp/npn7lpv/",
+                  "is_submitter": false,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "npn7c3p",
+              "parent_id": "t1_npma0l6",
+              "author": "Sorry_Ad191",
+              "text_history": [
+                [
+                  "its not too low. for good models like glm, deepseek, kimi k2 they are all good. Once you get to a good 3bit quant the gains up to fp8 are small. 3bit and below has a nice curve. for example full fp8 deepseek 3.1 scores 74 on a benchmark. 3bit might score 74 as well but might also do a little worse. but once you go below three bit it will be 68-65, and 1 bit is down closer to 50. So 1 bit probably oly for the big moes, 2 bit for big moes pretty good. 3bit and aboveyou are 99% there",
+                  "2025-11-19T03:30:35.637853"
+                ]
+              ],
+              "score_history": [
+                [
+                  2,
+                  "2025-11-19T03:30:35.637853"
+                ],
+                [
+                  2,
+                  "2025-11-19T03:37:41.787324"
+                ],
+                [
+                  2,
+                  "2025-11-19T03:39:14.577955"
+                ]
+              ],
+              "created_utc": 1763545380.0,
+              "depth": 2,
+              "permalink": "/r/LocalLLaMA/comments/1p0r5ww/glm_46_on_128_gb_ram_with_llamacpp/npn7c3p/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "npkuagt",
+      "parent_id": "t3_1p0r5ww",
+      "author": "TheActualStudy",
+      "text_history": [
+        [
+          "Can you run this on a box with a DE or does that \"just barely fits in 128GB\" not really allow for running it on your desktop?",
+          "2025-11-19T03:30:35.637853"
+        ]
+      ],
+      "score_history": [
+        [
+          3,
+          "2025-11-19T03:30:35.637853"
+        ],
+        [
+          3,
+          "2025-11-19T03:37:41.787324"
+        ],
+        [
+          3,
+          "2025-11-19T03:39:14.577955"
+        ]
+      ],
+      "created_utc": 1763507807.0,
+      "depth": 0,
+      "permalink": "/r/LocalLLaMA/comments/1p0r5ww/glm_46_on_128_gb_ram_with_llamacpp/npkuagt/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npkw97j",
+          "parent_id": "t1_npkuagt",
+          "author": "ilintar",
+          "text_history": [
+            [
+              "You mean with a desktop environment? The box has a Wayland session with Xrdp running in the background, does that qualify? 😃",
+              "2025-11-19T03:30:35.637853"
+            ]
+          ],
+          "score_history": [
+            [
+              10,
+              "2025-11-19T03:30:35.637853"
+            ],
+            [
+              10,
+              "2025-11-19T03:37:41.787324"
+            ],
+            [
+              9,
+              "2025-11-19T03:39:14.577955"
+            ]
+          ],
+          "created_utc": 1763508497.0,
+          "depth": 1,
+          "permalink": "/r/LocalLLaMA/comments/1p0r5ww/glm_46_on_128_gb_ram_with_llamacpp/npkw97j/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npmbehf",
+      "parent_id": "t3_1p0r5ww",
+      "author": "blbd",
+      "text_history": [
+        [
+          "Have you tried the unsloth dynamic quants?",
+          "2025-11-19T03:30:35.637853"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-19T03:30:35.637853"
+        ],
+        [
+          2,
+          "2025-11-19T03:37:41.787324"
+        ],
+        [
+          2,
+          "2025-11-19T03:39:14.577955"
+        ]
+      ],
+      "created_utc": 1763527481.0,
+      "depth": 0,
+      "permalink": "/r/LocalLLaMA/comments/1p0r5ww/glm_46_on_128_gb_ram_with_llamacpp/npmbehf/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npn23s0",
+      "parent_id": "t3_1p0r5ww",
+      "author": "wishstudio",
+      "text_history": [
+        [
+          "Congrats! 5 t/s tg is good but 40 t/s pp looks like something isn't right.",
+          "2025-11-19T03:30:35.637853"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-19T03:30:35.637853"
+        ],
+        [
+          2,
+          "2025-11-19T03:37:41.787324"
+        ],
+        [
+          2,
+          "2025-11-19T03:39:14.577955"
+        ]
+      ],
+      "created_utc": 1763542064.0,
+      "depth": 0,
+      "permalink": "/r/LocalLLaMA/comments/1p0r5ww/glm_46_on_128_gb_ram_with_llamacpp/npn23s0/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npn62cs",
+          "parent_id": "t1_npn23s0",
+          "author": "ilintar",
+          "text_history": [
+            [
+              "Might still be memory-constrained.",
+              "2025-11-19T03:30:35.637853"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-19T03:30:35.637853"
+            ],
+            [
+              1,
+              "2025-11-19T03:37:41.787324"
+            ],
+            [
+              1,
+              "2025-11-19T03:39:14.577955"
+            ]
+          ],
+          "created_utc": 1763544580.0,
+          "depth": 1,
+          "permalink": "/r/LocalLLaMA/comments/1p0r5ww/glm_46_on_128_gb_ram_with_llamacpp/npn62cs/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npn9lgr",
+              "parent_id": "t1_npn62cs",
+              "author": "Sorry_Ad191",
+              "text_history": [
+                [
+                  "might want to try ik\\_llama.cpp a fork of llama.cpp, got huge boost for gpu/cpu inference. especially for prompt proecessing. ubergarm on hf makes special quants for it too that might be even faster but it works with regular llama.cpp ggufs as well",
+                  "2025-11-19T03:30:35.637853"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-19T03:30:35.637853"
+                ],
+                [
+                  1,
+                  "2025-11-19T03:37:41.787324"
+                ],
+                [
+                  1,
+                  "2025-11-19T03:39:14.577955"
+                ]
+              ],
+              "created_utc": 1763546768.0,
+              "depth": 2,
+              "permalink": "/r/LocalLLaMA/comments/1p0r5ww/glm_46_on_128_gb_ram_with_llamacpp/npn9lgr/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": [
+                {
+                  "id": "npna79d",
+                  "parent_id": "t1_npn9lgr",
+                  "author": "ilintar",
+                  "text_history": [
+                    [
+                      "Yeah, the problem with ik\\_llama is I have no idea how the tool-calling status is there at the moment (a few months ago it completely didn't work, I know they forked the mainline chat templates since then but I don't know exactly about GLM).",
+                      "2025-11-19T03:30:35.637853"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      1,
+                      "2025-11-19T03:30:35.637853"
+                    ],
+                    [
+                      1,
+                      "2025-11-19T03:37:41.787324"
+                    ],
+                    [
+                      1,
+                      "2025-11-19T03:39:14.577955"
+                    ]
+                  ],
+                  "created_utc": 1763547134.0,
+                  "depth": 3,
+                  "permalink": "/r/LocalLLaMA/comments/1p0r5ww/glm_46_on_128_gb_ram_with_llamacpp/npna79d/",
+                  "is_submitter": true,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "npmxp6i",
+      "parent_id": "t3_1p0r5ww",
+      "author": "yazoniak",
+      "text_history": [
+        [
+          "Nice try but it is just useless.",
+          "2025-11-19T03:30:35.637853"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T03:30:35.637853"
+        ],
+        [
+          1,
+          "2025-11-19T03:37:41.787324"
+        ],
+        [
+          1,
+          "2025-11-19T03:39:14.577955"
+        ]
+      ],
+      "created_utc": 1763539321.0,
+      "depth": 0,
+      "permalink": "/r/LocalLLaMA/comments/1p0r5ww/glm_46_on_128_gb_ram_with_llamacpp/npmxp6i/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npn1lrk",
+          "parent_id": "t1_npmxp6i",
+          "author": "ilintar",
+          "text_history": [
+            [
+              "Why useless? I agree it's not a super-comfortable use case, but I tried really hard to \\*actually\\* make it useful - a slow but still usable processing speed, a context that can fit real use cases and a quantization that doesn't gimp the model too much. It's not one of those \"4096 context size with 0.1 t/s\" experiments, I actually wanted to have something I could at least try out for real-life stuff.",
+              "2025-11-19T03:30:35.637853"
+            ]
+          ],
+          "score_history": [
+            [
+              2,
+              "2025-11-19T03:30:35.637853"
+            ],
+            [
+              2,
+              "2025-11-19T03:37:41.787324"
+            ],
+            [
+              2,
+              "2025-11-19T03:39:14.577955"
+            ]
+          ],
+          "created_utc": 1763541752.0,
+          "depth": 1,
+          "permalink": "/r/LocalLLaMA/comments/1p0r5ww/glm_46_on_128_gb_ram_with_llamacpp/npn1lrk/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npn9qsm",
+              "parent_id": "t1_npn1lrk",
+              "author": "Sorry_Ad191",
+              "text_history": [
+                [
+                  "keep it up its far from useless",
+                  "2025-11-19T03:30:35.637853"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-19T03:30:35.637853"
+                ],
+                [
+                  1,
+                  "2025-11-19T03:37:41.787324"
+                ],
+                [
+                  1,
+                  "2025-11-19T03:39:14.577955"
+                ]
+              ],
+              "created_utc": 1763546858.0,
+              "depth": 2,
+              "permalink": "/r/LocalLLaMA/comments/1p0r5ww/glm_46_on_128_gb_ram_with_llamacpp/npn9qsm/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "npnbwym",
+      "parent_id": "t3_1p0r5ww",
+      "author": "ExcessiveEscargot",
+      "text_history": [
+        [
+          "Spotted the Wheel of Time fan!",
+          "2025-11-19T03:30:35.637853"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T03:30:35.637853"
+        ],
+        [
+          1,
+          "2025-11-19T03:37:41.787324"
+        ],
+        [
+          1,
+          "2025-11-19T03:39:14.577955"
+        ]
+      ],
+      "created_utc": 1763548168.0,
+      "depth": 0,
+      "permalink": "/r/LocalLLaMA/comments/1p0r5ww/glm_46_on_128_gb_ram_with_llamacpp/npnbwym/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:39:14.577955",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/LocalLLaMA/comments/1p0r5ww/glm_46_on_128_gb_ram_with_llamacpp/",
+    "total_comments": 18,
+    "top_level_comments": 6,
+    "api_requests": 1,
+    "expected_comments": 18,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_033035.json",
+      "scrape_002_20251119_033741.json",
+      "scrape_003_20251119_033914.json"
+    ]
+  }
+}

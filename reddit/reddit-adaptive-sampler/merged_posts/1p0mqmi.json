@@ -1,0 +1,143 @@
+{
+  "post": {
+    "id": "1p0mqmi",
+    "title": "What should I choose. Kindly suggest",
+    "author": "divyeshp_ftw",
+    "score_history": [
+      [
+        1,
+        "2025-11-18T15:07:46.351009"
+      ],
+      [
+        1,
+        "2025-11-18T15:14:31.213032"
+      ],
+      [
+        1,
+        "2025-11-18T15:16:18.003326"
+      ],
+      [
+        0,
+        "2025-11-18T23:33:16.897721"
+      ],
+      [
+        0,
+        "2025-11-19T01:18:46.148622"
+      ],
+      [
+        0,
+        "2025-11-19T02:33:27.762668"
+      ]
+    ],
+    "created_utc": 1763497220.0,
+    "num_comments": 2,
+    "subreddit": "learnmachinelearning",
+    "url": "https://www.reddit.com/r/learnmachinelearning/comments/1p0mqmi/what_should_i_choose_kindly_suggest/",
+    "selftext": "For covering neural networks what framework should I choose pytorch or Tensorflow?",
+    "permalink": "/r/learnmachinelearning/comments/1p0mqmi/what_should_i_choose_kindly_suggest/"
+  },
+  "comments": [
+    {
+      "id": "npkd0a4",
+      "parent_id": "t3_1p0mqmi",
+      "author": "Rare_Economist_2779",
+      "text_history": [
+        [
+          "pytorch",
+          "2025-11-18T15:07:46.351009"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T15:07:46.351009"
+        ],
+        [
+          1,
+          "2025-11-18T15:14:31.213032"
+        ],
+        [
+          1,
+          "2025-11-18T15:16:18.003326"
+        ],
+        [
+          2,
+          "2025-11-18T23:33:16.897721"
+        ],
+        [
+          2,
+          "2025-11-19T01:18:46.148622"
+        ],
+        [
+          2,
+          "2025-11-19T02:33:27.762668"
+        ]
+      ],
+      "created_utc": 1763502215.0,
+      "depth": 0,
+      "permalink": "/r/learnmachinelearning/comments/1p0mqmi/what_should_i_choose_kindly_suggest/npkd0a4/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npm69tl",
+          "parent_id": "t1_npkd0a4",
+          "author": "divyeshp_ftw",
+          "text_history": [
+            [
+              "Okay thanks",
+              "2025-11-18T23:33:16.897721"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T23:33:16.897721"
+            ],
+            [
+              1,
+              "2025-11-19T01:18:46.148622"
+            ],
+            [
+              1,
+              "2025-11-19T02:33:27.762668"
+            ]
+          ],
+          "created_utc": 1763525246.0,
+          "depth": 1,
+          "permalink": "/r/learnmachinelearning/comments/1p0mqmi/what_should_i_choose_kindly_suggest/npm69tl/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T02:33:27.762668",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/learnmachinelearning/comments/1p0mqmi/what_should_i_choose_kindly_suggest/",
+    "total_comments": 2,
+    "top_level_comments": 1,
+    "api_requests": 1,
+    "expected_comments": 2,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 6,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_150746.json",
+      "scrape_002_20251118_151430.json",
+      "scrape_003_20251118_151617.json",
+      "scrape_004_20251118_233316.json",
+      "scrape_005_20251119_011845.json",
+      "scrape_006_20251119_023327.json"
+    ]
+  }
+}

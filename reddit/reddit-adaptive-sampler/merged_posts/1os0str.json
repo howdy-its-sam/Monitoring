@@ -1,0 +1,80 @@
+{
+  "post": {
+    "id": "1os0str",
+    "title": "Google AI Introduce Nested Learning: A New Machine Learning Approach for Continual Learning that Views Models as Nested Optimization Problems to Enhance Long Context Processing",
+    "author": "ai-lover",
+    "score_history": [
+      [
+        35,
+        "2025-11-18T14:53:22.663589"
+      ],
+      [
+        34,
+        "2025-11-18T14:56:24.154298"
+      ],
+      [
+        36,
+        "2025-11-18T15:04:18.398384"
+      ]
+    ],
+    "created_utc": 1762636651.0,
+    "num_comments": 1,
+    "subreddit": "machinelearningnews",
+    "url": "https://www.marktechpost.com/2025/11/08/nested-learning-a-new-machine-learning-approach-for-continual-learning-that-views-models-as-nested-optimization-problems-to-enhance-long-context-processing/",
+    "selftext": "How can we build AI systems that keep learning new information over time without forgetting what they learned before or retraining from scratch? Google Researchers has introduced Nested Learning, a machine learning approach that treats a model as a collection of smaller nested optimization problems, instead of a single network trained by one outer loop. The goal is to attack catastrophic forgetting and move large models toward continual learning, closer to how biological brains manage memory and adaptation over time.\n\nThe research paper from Google ‘Nested Learning, The Illusion of Deep Learning Architectures’ models a complex neural network as a set of coherent optimization problems, nested or running in parallel, that are optimized together. Each internal problem has its own context flow, the sequence of inputs, gradients, or states that this component observes, and its own update frequency.....\n\nFull analysis: [https://www.marktechpost.com/2025/11/08/nested-learning-a-new-machine-learning-approach-for-continual-learning-that-views-models-as-nested-optimization-problems-to-enhance-long-context-processing/](https://www.marktechpost.com/2025/11/08/nested-learning-a-new-machine-learning-approach-for-continual-learning-that-views-models-as-nested-optimization-problems-to-enhance-long-context-processing/)\n\nPaper: [https://abehrouz.github.io/files/NL.pdf](https://abehrouz.github.io/files/NL.pdf)\n\nTechnical details: [https://research.google/blog/introducing-nested-learning-a-new-ml-paradigm-for-continual-learning/](https://research.google/blog/introducing-nested-learning-a-new-ml-paradigm-for-continual-learning/)",
+    "permalink": "/r/machinelearningnews/comments/1os0str/google_ai_introduce_nested_learning_a_new_machine/"
+  },
+  "comments": [
+    {
+      "id": "nnwu13h",
+      "parent_id": "t3_1os0str",
+      "author": "Gullible_Voice_8254",
+      "text_history": [
+        [
+          "I feel like it's good for experimentation and ml exploration but the pace of ai we have got used to could nt be achieved by its continual learning paradigm, as it's slow learner so not good for production oriented tasks\n\nWhat do you think?",
+          "2025-11-18T14:53:22.663589"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:53:22.663589"
+        ],
+        [
+          1,
+          "2025-11-18T14:56:24.154298"
+        ],
+        [
+          1,
+          "2025-11-18T15:04:18.398384"
+        ]
+      ],
+      "created_utc": 1762684821.0,
+      "depth": 0,
+      "permalink": "/r/machinelearningnews/comments/1os0str/google_ai_introduce_nested_learning_a_new_machine/nnwu13h/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-18T15:04:18.398384",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/machinelearningnews/comments/1os0str/google_ai_introduce_nested_learning_a_new_machine/",
+    "total_comments": 1,
+    "top_level_comments": 1,
+    "api_requests": 1,
+    "expected_comments": 1,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_145322.json",
+      "scrape_002_20251118_145623.json",
+      "scrape_003_20251118_150418.json"
+    ]
+  }
+}

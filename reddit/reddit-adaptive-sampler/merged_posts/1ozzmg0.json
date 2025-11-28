@@ -1,0 +1,59 @@
+{
+  "post": {
+    "id": "1ozzmg0",
+    "title": "Ongoing TRAE Team AMA if you are curious!",
+    "author": "AffectionateGain8888",
+    "score_history": [
+      [
+        0,
+        "2025-11-18T13:15:58.226427"
+      ],
+      [
+        0,
+        "2025-11-18T13:48:34.443007"
+      ],
+      [
+        0,
+        "2025-11-18T13:59:39.902206"
+      ],
+      [
+        0,
+        "2025-11-18T14:11:23.030924"
+      ],
+      [
+        0,
+        "2025-11-18T21:59:57.810782"
+      ],
+      [
+        0,
+        "2025-11-19T07:12:17.835162"
+      ]
+    ],
+    "created_utc": 1763431647.0,
+    "num_comments": 0,
+    "subreddit": "ChatGPTCoding",
+    "url": "/r/Trae_ai/comments/1ovm94w/trae_team_ama_the_breakthrough_solo_official/",
+    "selftext": "",
+    "permalink": "/r/ChatGPTCoding/comments/1ozzmg0/ongoing_trae_team_ama_if_you_are_curious/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T07:12:17.835162",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/ChatGPTCoding/comments/1ozzmg0/ongoing_trae_team_ama_if_you_are_curious/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 6,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_131557.json",
+      "scrape_002_20251118_134834.json",
+      "scrape_003_20251118_135939.json",
+      "scrape_004_20251118_141122.json",
+      "scrape_005_20251118_215957.json",
+      "scrape_006_20251119_071217.json"
+    ]
+  }
+}

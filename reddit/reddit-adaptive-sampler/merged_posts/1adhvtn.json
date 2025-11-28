@@ -1,0 +1,115 @@
+{
+  "post": {
+    "id": "1adhvtn",
+    "title": "I don’t understand CYK Parsing.",
+    "author": "felix_using_reddit",
+    "score_history": [
+      [
+        6,
+        "2025-11-19T03:19:50.014953"
+      ],
+      [
+        7,
+        "2025-11-19T03:25:41.587025"
+      ],
+      [
+        6,
+        "2025-11-19T03:27:15.937442"
+      ]
+    ],
+    "created_utc": 1706488331.0,
+    "num_comments": 2,
+    "subreddit": "compling",
+    "url": "https://www.reddit.com/r/compling/comments/1adhvtn/i_dont_understand_cyk_parsing/",
+    "selftext": "What‘s the best YouTube video you know on the matter? I have watched one and I understand its content but it confuses me because it seems to contradict what we learned in the lecture..",
+    "permalink": "/r/compling/comments/1adhvtn/i_dont_understand_cyk_parsing/"
+  },
+  "comments": [
+    {
+      "id": "kobrpjr",
+      "parent_id": "t3_1adhvtn",
+      "author": "Key-Passenger7403",
+      "text_history": [
+        [
+          "[https://www.youtube.com/watch?v=SFQ-owZaU\\_s](https://www.youtube.com/watch?v=SFQ-owZaU_s)  \n\n\nI found this to be intuitive and a good starting point. Good luck!",
+          "2025-11-19T03:19:50.014953"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T03:19:50.014953"
+        ],
+        [
+          1,
+          "2025-11-19T03:25:41.587025"
+        ],
+        [
+          1,
+          "2025-11-19T03:27:15.937442"
+        ]
+      ],
+      "created_utc": 1706730355.0,
+      "depth": 0,
+      "permalink": "/r/compling/comments/1adhvtn/i_dont_understand_cyk_parsing/kobrpjr/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "kogu7cm",
+      "parent_id": "t3_1adhvtn",
+      "author": "HistoricalRooster286",
+      "text_history": [
+        [
+          "[https://www.youtube.com/watch?v=17re2zDBuOM](https://www.youtube.com/watch?v=17re2zdbuom)\n\n  \nThis did it for me, but feel free to DM me if you need additional help.",
+          "2025-11-19T03:19:50.014953"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T03:19:50.014953"
+        ],
+        [
+          1,
+          "2025-11-19T03:25:41.587025"
+        ],
+        [
+          1,
+          "2025-11-19T03:27:15.937442"
+        ]
+      ],
+      "created_utc": 1706811156.0,
+      "depth": 0,
+      "permalink": "/r/compling/comments/1adhvtn/i_dont_understand_cyk_parsing/kogu7cm/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:27:15.937442",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/compling/comments/1adhvtn/i_dont_understand_cyk_parsing/",
+    "total_comments": 2,
+    "top_level_comments": 2,
+    "api_requests": 1,
+    "expected_comments": 2,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_031949.json",
+      "scrape_002_20251119_032541.json",
+      "scrape_003_20251119_032715.json"
+    ]
+  }
+}

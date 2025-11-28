@@ -1,0 +1,582 @@
+{
+  "post": {
+    "id": "1p0al6y",
+    "title": "what ai tools actually help when you’re deep in refactor hell?",
+    "author": "Tough_Reward3739",
+    "score_history": [
+      [
+        0,
+        "2025-11-18T13:48:35.159182"
+      ],
+      [
+        0,
+        "2025-11-18T13:59:56.879351"
+      ],
+      [
+        0,
+        "2025-11-18T14:11:13.423443"
+      ],
+      [
+        0,
+        "2025-11-18T21:29:07.993502"
+      ],
+      [
+        0,
+        "2025-11-18T23:13:57.962392"
+      ],
+      [
+        0,
+        "2025-11-19T00:58:03.522565"
+      ]
+    ],
+    "created_utc": 1763468780.0,
+    "num_comments": 11,
+    "subreddit": "ChatGPTCoding",
+    "url": "https://www.reddit.com/r/ChatGPTCoding/comments/1p0al6y/what_ai_tools_actually_help_when_youre_deep_in/",
+    "selftext": "been untangling a legacy python codebase this week and it’s wild how fast most ai tools tap out once you hit chaos. copilot keeps feeding me patterns we abandoned years ago, and chatgpt goes “idk bro” the moment i jump across more than two files.\n\ni’ve been testing a different mix lately, used gpt pilot to map out the bigger changes, tabnine for the smaller in-editor nudges, and even cody when i needed something a bit more structured. cosine ended up being the one thing that didn’t panic when i asked it to follow a weird chain of imports across half the repo. also gave cline’s free tier a spin for some batch cleanups, which wasn’t terrible tbh.\n\ncurious how everyone else survives legacy refactors, what tools actually keep their head together once the code stops being “tutorial-friendly”?",
+    "permalink": "/r/ChatGPTCoding/comments/1p0al6y/what_ai_tools_actually_help_when_youre_deep_in/"
+  },
+  "comments": [
+    {
+      "id": "npheg8z",
+      "parent_id": "t3_1p0al6y",
+      "author": "sok_pup_pit",
+      "text_history": [
+        [
+          "You and your LLM both might want to look up the mikado method.  For human and non human intelligences alike, step by step discovery of which threads you can tug on is the way to untangling a ball of mud.",
+          "2025-11-18T13:48:35.159182"
+        ]
+      ],
+      "score_history": [
+        [
+          3,
+          "2025-11-18T13:48:35.159182"
+        ],
+        [
+          3,
+          "2025-11-18T13:59:56.879351"
+        ],
+        [
+          3,
+          "2025-11-18T14:11:13.423443"
+        ],
+        [
+          3,
+          "2025-11-18T21:29:07.993502"
+        ],
+        [
+          3,
+          "2025-11-18T23:13:57.962392"
+        ],
+        [
+          3,
+          "2025-11-19T00:58:03.522565"
+        ]
+      ],
+      "created_utc": 1763469706.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTCoding/comments/1p0al6y/what_ai_tools_actually_help_when_youre_deep_in/npheg8z/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "nphluak",
+          "parent_id": "t1_npheg8z",
+          "author": "BingpotStudio",
+          "text_history": [
+            [
+              "Very nice, I wasn’t familiar with this method by name but that’s the perfect keyword to use so that your LLM of choice actually sticks to an approach. Much better if they can root their process in known industry practices.\n\nWith CC I’d write a skill to that effect if I had to refactor. Luckily I don’t write spaghetti /s\n\nIn general it is highly advisable to follow test led development with LLMs. If they can run code at key stages and expect a certain output they’ll be much better and finding issues before it’s too late.",
+              "2025-11-18T13:48:35.159182"
+            ]
+          ],
+          "score_history": [
+            [
+              2,
+              "2025-11-18T13:48:35.159182"
+            ],
+            [
+              2,
+              "2025-11-18T13:59:56.879351"
+            ],
+            [
+              2,
+              "2025-11-18T14:11:13.423443"
+            ],
+            [
+              2,
+              "2025-11-18T21:29:07.993502"
+            ],
+            [
+              2,
+              "2025-11-18T23:13:57.962392"
+            ],
+            [
+              2,
+              "2025-11-19T00:58:03.522565"
+            ]
+          ],
+          "created_utc": 1763472424.0,
+          "depth": 1,
+          "permalink": "/r/ChatGPTCoding/comments/1p0al6y/what_ai_tools_actually_help_when_youre_deep_in/nphluak/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "nphgm5m",
+      "parent_id": "t3_1p0al6y",
+      "author": "ToiletSenpai",
+      "text_history": [
+        [
+          "The thing with refactoring with ai is - there is no refactoring hell.\n\nThere is just insufficient planning and improper methodology.\n\nJust my 2 cents",
+          "2025-11-18T13:48:35.159182"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-18T13:48:35.159182"
+        ],
+        [
+          2,
+          "2025-11-18T13:59:56.879351"
+        ],
+        [
+          2,
+          "2025-11-18T14:11:13.423443"
+        ],
+        [
+          5,
+          "2025-11-18T21:29:07.993502"
+        ],
+        [
+          5,
+          "2025-11-18T23:13:57.962392"
+        ],
+        [
+          4,
+          "2025-11-19T00:58:03.522565"
+        ]
+      ],
+      "created_utc": 1763470552.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTCoding/comments/1p0al6y/what_ai_tools_actually_help_when_youre_deep_in/nphgm5m/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "nphwc99",
+          "parent_id": "t1_nphgm5m",
+          "author": "Ecstatic-Junket2196",
+          "text_history": [
+            [
+              "true, i noticed the planning part is even more serious than the planning part. usually start w chatgpt or traycer (more complex projects) to map out the whole logics be4 jumping in. do u also have any tips for better planning?",
+              "2025-11-18T13:48:35.159182"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T13:48:35.159182"
+            ],
+            [
+              1,
+              "2025-11-18T13:59:56.879351"
+            ],
+            [
+              1,
+              "2025-11-18T14:11:13.423443"
+            ],
+            [
+              1,
+              "2025-11-18T21:29:07.993502"
+            ],
+            [
+              1,
+              "2025-11-18T23:13:57.962392"
+            ],
+            [
+              1,
+              "2025-11-19T00:58:03.522565"
+            ]
+          ],
+          "created_utc": 1763475804.0,
+          "depth": 1,
+          "permalink": "/r/ChatGPTCoding/comments/1p0al6y/what_ai_tools_actually_help_when_youre_deep_in/nphwc99/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npie914",
+              "parent_id": "t1_nphwc99",
+              "author": "ToiletSenpai",
+              "text_history": [
+                [
+                  "I mostly rely on Claude and just start something like a brainstorming session - first figure out why I’m refactoring , do I really need a refactoring , what am I refactoring and what can I keep Then once I have these answers I often start a new session with just the context that matters to map out a plan / prd doc and then break it down to small issues that I inject into beads (one of the few complimentary tools I use with CC) or git hub issues - so Claude can just follow through. \n\nIt’s what works for me , but I guess you just have to find a flow that works for your process.",
+                  "2025-11-18T13:48:35.159182"
+                ]
+              ],
+              "score_history": [
+                [
+                  2,
+                  "2025-11-18T13:48:35.159182"
+                ],
+                [
+                  2,
+                  "2025-11-18T13:59:56.879351"
+                ],
+                [
+                  2,
+                  "2025-11-18T14:11:13.423443"
+                ],
+                [
+                  3,
+                  "2025-11-18T21:29:07.993502"
+                ],
+                [
+                  3,
+                  "2025-11-18T23:13:57.962392"
+                ],
+                [
+                  3,
+                  "2025-11-19T00:58:03.522565"
+                ]
+              ],
+              "created_utc": 1763481330.0,
+              "depth": 2,
+              "permalink": "/r/ChatGPTCoding/comments/1p0al6y/what_ai_tools_actually_help_when_youre_deep_in/npie914/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": [
+                {
+                  "id": "npingv6",
+                  "parent_id": "t1_npie914",
+                  "author": "Ecstatic-Junket2196",
+                  "text_history": [
+                    [
+                      "great to know still! thx u",
+                      "2025-11-18T13:48:35.159182"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      2,
+                      "2025-11-18T13:48:35.159182"
+                    ],
+                    [
+                      2,
+                      "2025-11-18T13:59:56.879351"
+                    ],
+                    [
+                      2,
+                      "2025-11-18T14:11:13.423443"
+                    ],
+                    [
+                      2,
+                      "2025-11-18T21:29:07.993502"
+                    ],
+                    [
+                      2,
+                      "2025-11-18T23:13:57.962392"
+                    ],
+                    [
+                      2,
+                      "2025-11-19T00:58:03.522565"
+                    ]
+                  ],
+                  "created_utc": 1763484015.0,
+                  "depth": 3,
+                  "permalink": "/r/ChatGPTCoding/comments/1p0al6y/what_ai_tools_actually_help_when_youre_deep_in/npingv6/",
+                  "is_submitter": false,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": [
+                    {
+                      "id": "npj6ovq",
+                      "parent_id": "t1_npingv6",
+                      "author": "ToiletSenpai",
+                      "text_history": [
+                        [
+                          "Sorry I didn’t even notice this is the gpt sub!\n\nFor what it’s worth - Claude is superb for coding . Give it a shot if you have never! You might be surprised",
+                          "2025-11-18T13:48:35.159182"
+                        ]
+                      ],
+                      "score_history": [
+                        [
+                          1,
+                          "2025-11-18T13:48:35.159182"
+                        ],
+                        [
+                          1,
+                          "2025-11-18T13:59:56.879351"
+                        ],
+                        [
+                          1,
+                          "2025-11-18T14:11:13.423443"
+                        ],
+                        [
+                          1,
+                          "2025-11-18T21:29:07.993502"
+                        ],
+                        [
+                          1,
+                          "2025-11-18T23:13:57.962392"
+                        ],
+                        [
+                          1,
+                          "2025-11-19T00:58:03.522565"
+                        ]
+                      ],
+                      "created_utc": 1763489642.0,
+                      "depth": 4,
+                      "permalink": "/r/ChatGPTCoding/comments/1p0al6y/what_ai_tools_actually_help_when_youre_deep_in/npj6ovq/",
+                      "is_submitter": false,
+                      "controversiality": 0,
+                      "gilded": 0,
+                      "edited": false,
+                      "deleted": false,
+                      "deleted_at": null,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "nphitj5",
+      "parent_id": "t3_1p0al6y",
+      "author": "popiazaza",
+      "text_history": [
+        [
+          "None of them work on auto. You could use AI to assist small step at a time and verify the result.",
+          "2025-11-18T13:48:35.159182"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T13:48:35.159182"
+        ],
+        [
+          1,
+          "2025-11-18T13:59:56.879351"
+        ],
+        [
+          1,
+          "2025-11-18T14:11:13.423443"
+        ],
+        [
+          1,
+          "2025-11-18T21:29:07.993502"
+        ],
+        [
+          1,
+          "2025-11-18T23:13:57.962392"
+        ],
+        [
+          1,
+          "2025-11-19T00:58:03.522565"
+        ]
+      ],
+      "created_utc": 1763471386.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTCoding/comments/1p0al6y/what_ai_tools_actually_help_when_youre_deep_in/nphitj5/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npi4shx",
+      "parent_id": "t3_1p0al6y",
+      "author": "petrus4",
+      "text_history": [
+        [
+          "AI should be used analogously to a potter's wheel; iteratively, at relatively high speed, with very small pieces of code.\n\nIn my observation, the primary difference between legacy and modern code, is modularity.  Older code is always written as a single, giant, monolithic sprawl.  Newer, more maintainable code is written as small, clearly seperated, individual parts which communicate in limited ways via I/O.  If you try and feed said monolithic sprawl into a language model, it will have as much difficulty as you do.  You need to split it up.",
+          "2025-11-18T13:48:35.159182"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T13:48:35.159182"
+        ],
+        [
+          1,
+          "2025-11-18T13:59:56.879351"
+        ],
+        [
+          1,
+          "2025-11-18T14:11:13.423443"
+        ],
+        [
+          1,
+          "2025-11-18T21:29:07.993502"
+        ],
+        [
+          1,
+          "2025-11-18T23:13:57.962392"
+        ],
+        [
+          1,
+          "2025-11-19T00:58:03.522565"
+        ]
+      ],
+      "created_utc": 1763478489.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTCoding/comments/1p0al6y/what_ai_tools_actually_help_when_youre_deep_in/npi4shx/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npi6hio",
+      "parent_id": "t3_1p0al6y",
+      "author": "Verzuchter",
+      "text_history": [
+        [
+          "AI gets worse on each iteration, so do small changes and accept them. Then start a new conversation. The way I like to work is work on a single library or component, then let the AI write documentation on what it did to rework it. This then creates a refactor guide FOR ITSELF. This of course only works if you have a solid approach on your codebase and didn't write extreme spaghetti code. \n\nBut yea, don't work iteratively in the same context window. Results get real bad in terms of code quality.",
+          "2025-11-18T13:48:35.159182"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T13:48:35.159182"
+        ],
+        [
+          1,
+          "2025-11-18T13:59:56.879351"
+        ],
+        [
+          1,
+          "2025-11-18T14:11:13.423443"
+        ],
+        [
+          1,
+          "2025-11-18T21:29:07.993502"
+        ],
+        [
+          1,
+          "2025-11-18T23:13:57.962392"
+        ],
+        [
+          1,
+          "2025-11-19T00:58:03.522565"
+        ]
+      ],
+      "created_utc": 1763479013.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTCoding/comments/1p0al6y/what_ai_tools_actually_help_when_youre_deep_in/npi6hio/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npk1s37",
+      "parent_id": "t3_1p0al6y",
+      "author": "No-Consequence-1779",
+      "text_history": [
+        [
+          "Never use llms for this. Use the IDE reflector tools. It knows the references and dependencies. \n\nThis is a common failure. Just skip it. ",
+          "2025-11-18T13:48:35.159182"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T13:48:35.159182"
+        ],
+        [
+          1,
+          "2025-11-18T13:59:56.879351"
+        ],
+        [
+          1,
+          "2025-11-18T14:11:13.423443"
+        ],
+        [
+          0,
+          "2025-11-18T21:29:07.993502"
+        ],
+        [
+          0,
+          "2025-11-18T23:13:57.962392"
+        ],
+        [
+          0,
+          "2025-11-19T00:58:03.522565"
+        ]
+      ],
+      "created_utc": 1763498871.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTCoding/comments/1p0al6y/what_ai_tools_actually_help_when_youre_deep_in/npk1s37/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T00:58:03.522565",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/ChatGPTCoding/comments/1p0al6y/what_ai_tools_actually_help_when_youre_deep_in/",
+    "total_comments": 11,
+    "top_level_comments": 6,
+    "api_requests": 1,
+    "expected_comments": 11,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 6,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_134834.json",
+      "scrape_002_20251118_135956.json",
+      "scrape_003_20251118_141113.json",
+      "scrape_004_20251118_212907.json",
+      "scrape_005_20251118_231357.json",
+      "scrape_006_20251119_005803.json"
+    ]
+  }
+}

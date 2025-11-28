@@ -1,0 +1,542 @@
+{
+  "post": {
+    "id": "1p09mae",
+    "title": "How are you deploying your AI agent?",
+    "author": "Breakertt",
+    "score_history": [
+      [
+        5,
+        "2025-11-18T12:51:33.783470"
+      ],
+      [
+        5,
+        "2025-11-18T13:03:51.916578"
+      ],
+      [
+        5,
+        "2025-11-18T13:15:44.700467"
+      ],
+      [
+        5,
+        "2025-11-18T13:46:24.812691"
+      ],
+      [
+        6,
+        "2025-11-18T13:49:04.035640"
+      ],
+      [
+        7,
+        "2025-11-18T13:49:42.514887"
+      ],
+      [
+        5,
+        "2025-11-18T13:59:25.613178"
+      ],
+      [
+        11,
+        "2025-11-18T21:29:04.504506"
+      ],
+      [
+        12,
+        "2025-11-18T23:14:02.589467"
+      ],
+      [
+        11,
+        "2025-11-19T00:58:04.722811"
+      ]
+    ],
+    "created_utc": 1763465727.0,
+    "num_comments": 10,
+    "subreddit": "AI_Agents",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1p09mae/how_are_you_deploying_your_ai_agent/",
+    "selftext": "I'm building AI agents with LangGraph, and I'm looking at deploying on LangSmith Cloud initially for maximum speed, and potentially migrating to AWS after product market fit.\n\nHow are you deploying your AI agents, specifically in early stage startups?",
+    "permalink": "/r/AI_Agents/comments/1p09mae/how_are_you_deploying_your_ai_agent/"
+  },
+  "comments": [
+    {
+      "id": "nph6rkr",
+      "parent_id": "t3_1p09mae",
+      "author": "sam5734",
+      "text_history": [
+        [
+          "Most early stage teams start by running agents on LangSmith or LangGraph Cloud since it’s quick and needs no infrastructure. Once usage grows and costs or scale become a factor, they shift to AWS Lambda or Fargate. It’s usually smarter to keep it simple at the start and only move when the load actually pushes you there.",
+          "2025-11-18T12:51:33.783470"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T12:51:33.783470"
+        ],
+        [
+          1,
+          "2025-11-18T13:03:51.916578"
+        ],
+        [
+          1,
+          "2025-11-18T13:15:44.700467"
+        ],
+        [
+          1,
+          "2025-11-18T13:46:24.812691"
+        ],
+        [
+          1,
+          "2025-11-18T13:49:04.035640"
+        ],
+        [
+          1,
+          "2025-11-18T13:49:42.514887"
+        ],
+        [
+          1,
+          "2025-11-18T13:59:25.613178"
+        ],
+        [
+          2,
+          "2025-11-18T21:29:04.504506"
+        ],
+        [
+          2,
+          "2025-11-18T23:14:02.589467"
+        ],
+        [
+          3,
+          "2025-11-19T00:58:04.722811"
+        ]
+      ],
+      "created_utc": 1763466357.0,
+      "depth": 0,
+      "permalink": "/r/AI_Agents/comments/1p09mae/how_are_you_deploying_your_ai_agent/nph6rkr/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nph904z",
+      "parent_id": "t3_1p09mae",
+      "author": "gopietz",
+      "text_history": [
+        [
+          "I'm using pydantic ai, wrapped into Fastapi endpoints, deployed to railway. However, deployment is such a no brainer for what I'm working on since the heavy lifting happens elsewhere.",
+          "2025-11-18T12:51:33.783470"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T12:51:33.783470"
+        ],
+        [
+          1,
+          "2025-11-18T13:03:51.916578"
+        ],
+        [
+          1,
+          "2025-11-18T13:15:44.700467"
+        ],
+        [
+          1,
+          "2025-11-18T13:46:24.812691"
+        ],
+        [
+          1,
+          "2025-11-18T13:49:04.035640"
+        ],
+        [
+          1,
+          "2025-11-18T13:49:42.514887"
+        ],
+        [
+          1,
+          "2025-11-18T13:59:25.613178"
+        ],
+        [
+          1,
+          "2025-11-18T21:29:04.504506"
+        ],
+        [
+          1,
+          "2025-11-18T23:14:02.589467"
+        ],
+        [
+          2,
+          "2025-11-19T00:58:04.722811"
+        ]
+      ],
+      "created_utc": 1763467375.0,
+      "depth": 0,
+      "permalink": "/r/AI_Agents/comments/1p09mae/how_are_you_deploying_your_ai_agent/nph904z/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nph5hc6",
+      "parent_id": "t3_1p09mae",
+      "author": "AutoModerator",
+      "text_history": [
+        [
+          "Thank you for your submission, for any questions regarding AI, please check out our wiki at https://www.reddit.com/r/ai_agents/wiki (this is currently in test and we are actively adding to the wiki)\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/AI_Agents) if you have any questions or concerns.*",
+          "2025-11-18T12:51:33.783470"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T12:51:33.783470"
+        ],
+        [
+          1,
+          "2025-11-18T13:03:51.916578"
+        ],
+        [
+          1,
+          "2025-11-18T13:15:44.700467"
+        ],
+        [
+          1,
+          "2025-11-18T13:46:24.812691"
+        ],
+        [
+          1,
+          "2025-11-18T13:49:04.035640"
+        ],
+        [
+          1,
+          "2025-11-18T13:49:42.514887"
+        ],
+        [
+          1,
+          "2025-11-18T13:59:25.613178"
+        ],
+        [
+          1,
+          "2025-11-18T21:29:04.504506"
+        ],
+        [
+          1,
+          "2025-11-18T23:14:02.589467"
+        ],
+        [
+          1,
+          "2025-11-19T00:58:04.722811"
+        ]
+      ],
+      "created_utc": 1763465727.0,
+      "depth": 0,
+      "permalink": "/r/AI_Agents/comments/1p09mae/how_are_you_deploying_your_ai_agent/nph5hc6/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npklqie",
+      "parent_id": "t3_1p09mae",
+      "author": "Gsdepp",
+      "text_history": [
+        [
+          "Depends on the kind of agent I guess. What are your requirements?",
+          "2025-11-18T21:29:04.504506"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T21:29:04.504506"
+        ],
+        [
+          1,
+          "2025-11-18T23:14:02.589467"
+        ],
+        [
+          1,
+          "2025-11-19T00:58:04.722811"
+        ]
+      ],
+      "created_utc": 1763504924.0,
+      "depth": 0,
+      "permalink": "/r/AI_Agents/comments/1p09mae/how_are_you_deploying_your_ai_agent/npklqie/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npkm4hy",
+      "parent_id": "t3_1p09mae",
+      "author": "Gsdepp",
+      "text_history": [
+        [
+          "Langgraph to me seems an over engineered solution with docs that look deceptively simple but are actually quite hard to read",
+          "2025-11-18T21:29:04.504506"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T21:29:04.504506"
+        ],
+        [
+          1,
+          "2025-11-18T23:14:02.589467"
+        ],
+        [
+          1,
+          "2025-11-19T00:58:04.722811"
+        ]
+      ],
+      "created_utc": 1763505051.0,
+      "depth": 0,
+      "permalink": "/r/AI_Agents/comments/1p09mae/how_are_you_deploying_your_ai_agent/npkm4hy/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npkz5yh",
+      "parent_id": "t3_1p09mae",
+      "author": "venuur",
+      "text_history": [
+        [
+          "I found AWS API gateway plus lambda backends nice for async agent workflows.",
+          "2025-11-18T21:29:04.504506"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T21:29:04.504506"
+        ],
+        [
+          1,
+          "2025-11-18T23:14:02.589467"
+        ],
+        [
+          1,
+          "2025-11-19T00:58:04.722811"
+        ]
+      ],
+      "created_utc": 1763509547.0,
+      "depth": 0,
+      "permalink": "/r/AI_Agents/comments/1p09mae/how_are_you_deploying_your_ai_agent/npkz5yh/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npl5bx7",
+      "parent_id": "t3_1p09mae",
+      "author": "Altruistic_Leek6283",
+      "text_history": [
+        [
+          "Google Cloud gave me a tombs of credit. I'm using since. Easy and clean. I have a good VM there.",
+          "2025-11-18T21:29:04.504506"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T21:29:04.504506"
+        ],
+        [
+          1,
+          "2025-11-18T23:14:02.589467"
+        ],
+        [
+          1,
+          "2025-11-19T00:58:04.722811"
+        ]
+      ],
+      "created_utc": 1763511715.0,
+      "depth": 0,
+      "permalink": "/r/AI_Agents/comments/1p09mae/how_are_you_deploying_your_ai_agent/npl5bx7/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nplqeso",
+      "parent_id": "t3_1p09mae",
+      "author": "mike-g2",
+      "text_history": [
+        [
+          "We use LangSmith (ex LangGraph platform) it accelerate us by taking care of infra, deployments, thread storage and monitoring. It saves us a good amount of time imho",
+          "2025-11-18T21:29:04.504506"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T21:29:04.504506"
+        ],
+        [
+          1,
+          "2025-11-18T23:14:02.589467"
+        ],
+        [
+          1,
+          "2025-11-19T00:58:04.722811"
+        ]
+      ],
+      "created_utc": 1763519238.0,
+      "depth": 0,
+      "permalink": "/r/AI_Agents/comments/1p09mae/how_are_you_deploying_your_ai_agent/nplqeso/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nplwd1k",
+      "parent_id": "t3_1p09mae",
+      "author": "Engineer_5983",
+      "text_history": [
+        [
+          "I use a Go API server with python code using OpenAI API.  It costs about $50/month.  It’s amazing how quickly the costs add up.",
+          "2025-11-18T21:29:04.504506"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T21:29:04.504506"
+        ],
+        [
+          1,
+          "2025-11-18T23:14:02.589467"
+        ],
+        [
+          1,
+          "2025-11-19T00:58:04.722811"
+        ]
+      ],
+      "created_utc": 1763521382.0,
+      "depth": 0,
+      "permalink": "/r/AI_Agents/comments/1p09mae/how_are_you_deploying_your_ai_agent/nplwd1k/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nph60ld",
+      "parent_id": "t3_1p09mae",
+      "author": "ai-agents-qa-bot",
+      "text_history": [
+        [
+          "- For deploying AI agents in early-stage startups, consider using platforms that simplify the deployment process, such as aiXplain, which allows for quick onboarding of models and provides instant API endpoints without infrastructure hassles. This can be particularly beneficial for startups looking to minimize overhead.\n- Another option is to utilize Apify, which offers serverless execution and stateful capabilities, making it easier to manage memory and scale as needed. You can define your agent's input and output schemas, integrate tools, and even monetize your agents through their platform.\n- If you're focused on building complex workflows, using frameworks like LangGraph can help streamline the development and deployment of your agents, allowing for easy integration with various tools and APIs.\n- Additionally, consider leveraging cloud services like Databricks for tuning and optimizing your models, which can enhance performance without the need for extensive labeled data.\n\nFor more details on deploying AI agents, you can check out [aiXplain Simplifies Hugging Face Deployment and Agent Building](https://tinyurl.com/573srp4w) and [How to build and monetize an AI agent on Apify](https://tinyurl.com/y7w2nmrj).",
+          "2025-11-18T12:51:33.783470"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T12:51:33.783470"
+        ],
+        [
+          1,
+          "2025-11-18T13:03:51.916578"
+        ],
+        [
+          1,
+          "2025-11-18T13:15:44.700467"
+        ],
+        [
+          1,
+          "2025-11-18T13:46:24.812691"
+        ],
+        [
+          1,
+          "2025-11-18T13:49:04.035640"
+        ],
+        [
+          1,
+          "2025-11-18T13:49:42.514887"
+        ],
+        [
+          1,
+          "2025-11-18T13:59:25.613178"
+        ],
+        [
+          0,
+          "2025-11-18T21:29:04.504506"
+        ],
+        [
+          0,
+          "2025-11-18T23:14:02.589467"
+        ],
+        [
+          0,
+          "2025-11-19T00:58:04.722811"
+        ]
+      ],
+      "created_utc": 1763465994.0,
+      "depth": 0,
+      "permalink": "/r/AI_Agents/comments/1p09mae/how_are_you_deploying_your_ai_agent/nph60ld/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T00:58:04.722811",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/AI_Agents/comments/1p09mae/how_are_you_deploying_your_ai_agent/",
+    "total_comments": 10,
+    "top_level_comments": 10,
+    "api_requests": 1,
+    "expected_comments": 10,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 10,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_125133.json",
+      "scrape_002_20251118_130351.json",
+      "scrape_003_20251118_131544.json",
+      "scrape_004_20251118_134624.json",
+      "scrape_005_20251118_134903.json",
+      "scrape_006_20251118_134942.json",
+      "scrape_007_20251118_135925.json",
+      "scrape_008_20251118_212904.json",
+      "scrape_009_20251118_231402.json",
+      "scrape_010_20251119_005804.json"
+    ]
+  }
+}

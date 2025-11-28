@@ -1,0 +1,233 @@
+{
+  "post": {
+    "id": "1p19n5v",
+    "title": "So many agentic frameworks out there? What's the point of it?",
+    "author": "Ok-Reflection-4049",
+    "score_history": [
+      [
+        1,
+        "2025-11-19T06:50:12.370674"
+      ],
+      [
+        1,
+        "2025-11-19T06:50:12.587067"
+      ],
+      [
+        1,
+        "2025-11-19T06:50:12.834546"
+      ],
+      [
+        1,
+        "2025-11-19T06:50:13.059135"
+      ],
+      [
+        1,
+        "2025-11-19T06:50:13.302782"
+      ],
+      [
+        1,
+        "2025-11-19T06:50:13.513564"
+      ],
+      [
+        1,
+        "2025-11-19T06:50:13.764419"
+      ],
+      [
+        1,
+        "2025-11-19T06:50:13.983885"
+      ],
+      [
+        1,
+        "2025-11-19T06:50:14.230181"
+      ],
+      [
+        1,
+        "2025-11-19T06:50:14.451722"
+      ],
+      [
+        1,
+        "2025-11-19T06:50:14.697667"
+      ],
+      [
+        1,
+        "2025-11-19T06:50:14.910340"
+      ],
+      [
+        1,
+        "2025-11-19T06:50:15.164040"
+      ],
+      [
+        1,
+        "2025-11-19T06:50:15.380932"
+      ],
+      [
+        1,
+        "2025-11-19T06:50:15.614278"
+      ],
+      [
+        1,
+        "2025-11-19T06:50:15.826591"
+      ],
+      [
+        1,
+        "2025-11-19T06:50:16.056717"
+      ],
+      [
+        1,
+        "2025-11-19T06:50:16.280978"
+      ],
+      [
+        1,
+        "2025-11-19T06:50:16.528655"
+      ],
+      [
+        1,
+        "2025-11-19T06:50:16.774554"
+      ]
+    ],
+    "created_utc": 1763563765.0,
+    "num_comments": 1,
+    "subreddit": "AI_Agents",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1p19n5v/so_many_agentic_frameworks_out_there_whats_the/",
+    "selftext": "So after being an agent developer for a couple of years, I’ve seen so many agentic frameworks pop up. They’re all adding memory, ReACT-style loops, deep research modes, “thinking,” and so on. Basically the same pattern with different flavors. I used to think LangGraph would be the perfect fit for most multi-agent cases, but even that is starting to feel overly complicated.\n\nIt’s made me wonder what’s the actual goal of all these agentic frameworks? Because whenever I talk to people, most of them just use a few custom functions with simple OpenAI calls.\n\nAm I wrong, or are you all seeing the same thing?",
+    "permalink": "/r/AI_Agents/comments/1p19n5v/so_many_agentic_frameworks_out_there_whats_the/"
+  },
+  "comments": [
+    {
+      "id": "npocpc1",
+      "parent_id": "t3_1p19n5v",
+      "author": "AutoModerator",
+      "text_history": [
+        [
+          "Thank you for your submission, for any questions regarding AI, please check out our wiki at https://www.reddit.com/r/ai_agents/wiki (this is currently in test and we are actively adding to the wiki)\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/AI_Agents) if you have any questions or concerns.*",
+          "2025-11-19T06:50:12.370674"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T06:50:12.370674"
+        ],
+        [
+          1,
+          "2025-11-19T06:50:12.587067"
+        ],
+        [
+          1,
+          "2025-11-19T06:50:12.834546"
+        ],
+        [
+          1,
+          "2025-11-19T06:50:13.059135"
+        ],
+        [
+          1,
+          "2025-11-19T06:50:13.302782"
+        ],
+        [
+          1,
+          "2025-11-19T06:50:13.513564"
+        ],
+        [
+          1,
+          "2025-11-19T06:50:13.764419"
+        ],
+        [
+          1,
+          "2025-11-19T06:50:13.983885"
+        ],
+        [
+          1,
+          "2025-11-19T06:50:14.230181"
+        ],
+        [
+          1,
+          "2025-11-19T06:50:14.451722"
+        ],
+        [
+          1,
+          "2025-11-19T06:50:14.697667"
+        ],
+        [
+          1,
+          "2025-11-19T06:50:14.910340"
+        ],
+        [
+          1,
+          "2025-11-19T06:50:15.164040"
+        ],
+        [
+          1,
+          "2025-11-19T06:50:15.380932"
+        ],
+        [
+          1,
+          "2025-11-19T06:50:15.614278"
+        ],
+        [
+          1,
+          "2025-11-19T06:50:15.826591"
+        ],
+        [
+          1,
+          "2025-11-19T06:50:16.056717"
+        ],
+        [
+          1,
+          "2025-11-19T06:50:16.280978"
+        ],
+        [
+          1,
+          "2025-11-19T06:50:16.528655"
+        ],
+        [
+          1,
+          "2025-11-19T06:50:16.774554"
+        ]
+      ],
+      "created_utc": 1763563765.0,
+      "depth": 0,
+      "permalink": "/r/AI_Agents/comments/1p19n5v/so_many_agentic_frameworks_out_there_whats_the/npocpc1/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T06:50:16.774554",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/AI_Agents/comments/1p19n5v/so_many_agentic_frameworks_out_there_whats_the/",
+    "total_comments": 1,
+    "top_level_comments": 1,
+    "api_requests": 1,
+    "expected_comments": 1,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 20,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_065012.json",
+      "scrape_002_20251119_065012.json",
+      "scrape_003_20251119_065012.json",
+      "scrape_004_20251119_065012.json",
+      "scrape_005_20251119_065013.json",
+      "scrape_006_20251119_065013.json",
+      "scrape_007_20251119_065013.json",
+      "scrape_008_20251119_065013.json",
+      "scrape_009_20251119_065014.json",
+      "scrape_010_20251119_065014.json",
+      "scrape_011_20251119_065014.json",
+      "scrape_012_20251119_065014.json",
+      "scrape_013_20251119_065014.json",
+      "scrape_014_20251119_065015.json",
+      "scrape_015_20251119_065015.json",
+      "scrape_016_20251119_065015.json",
+      "scrape_017_20251119_065015.json",
+      "scrape_018_20251119_065016.json",
+      "scrape_019_20251119_065016.json",
+      "scrape_020_20251119_065016.json"
+    ]
+  }
+}

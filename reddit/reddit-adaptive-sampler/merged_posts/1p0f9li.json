@@ -1,0 +1,164 @@
+{
+  "post": {
+    "id": "1p0f9li",
+    "title": "Anybody know a prompt for ChatGPT or Grok that will help with HTML coding?",
+    "author": "BiteMinimum8512",
+    "score_history": [
+      [
+        2,
+        "2025-11-18T14:22:25.057361"
+      ],
+      [
+        2,
+        "2025-11-18T14:32:15.905148"
+      ],
+      [
+        2,
+        "2025-11-18T14:35:02.779693"
+      ],
+      [
+        2,
+        "2025-11-18T14:43:26.838020"
+      ]
+    ],
+    "created_utc": 1763480629.0,
+    "num_comments": 3,
+    "subreddit": "ChatGPTPro",
+    "url": "https://www.reddit.com/r/ChatGPTPro/comments/1p0f9li/anybody_know_a_prompt_for_chatgpt_or_grok_that/",
+    "selftext": "I have the personal subscriptions to ChatGPT and Grok. I'm trying to redo my web site in actual HTML for faster loads and better stability. I used to know HTML well, but that's from before many of the people on Reddit were even born. I was using ChatGPT to makes pages but the problem I ran into was it would generate a page that was 80-90% right. I would ask it to change small details, and it would go nuts and change the whole page.\n\nEventually i developed a system of getting the first draft from ChatGPT and then switching to Grok. Worked great for about a day. Then Grok stared wandering. Today it decided to re-write all the text from one of my blog posts. I almost didn't catch it. It was nonsensical.\n\nIs there a prompt for ChatGPT and/or Grok that would make it so I can give them small changes to execute on something like a web page full of HTML without them randomly going interior decorator on it? Any help would be greatly appreciated.",
+    "permalink": "/r/ChatGPTPro/comments/1p0f9li/anybody_know_a_prompt_for_chatgpt_or_grok_that/"
+  },
+  "comments": [
+    {
+      "id": "npibw02",
+      "parent_id": "t3_1p0f9li",
+      "author": "qualityvote2",
+      "text_history": [
+        [
+          "Hello u/BiteMinimum8512 👋 Welcome to r/ChatGPTPro!  \nThis is a community for advanced ChatGPT, AI tools, and prompt engineering discussions.  \nOther members will now vote on whether your post fits our community guidelines.\n\n\n---\n\nFor other users, does this post fit the subreddit?\n\nIf so, **upvote this comment!**\n\nOtherwise, **downvote this comment!**\n\nAnd if it does break the rules, **downvote this comment and report this post!**",
+          "2025-11-18T14:22:25.057361"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:22:25.057361"
+        ],
+        [
+          1,
+          "2025-11-18T14:32:15.905148"
+        ],
+        [
+          1,
+          "2025-11-18T14:35:02.779693"
+        ],
+        [
+          1,
+          "2025-11-18T14:43:26.838020"
+        ]
+      ],
+      "created_utc": 1763480633.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTPro/comments/1p0f9li/anybody_know_a_prompt_for_chatgpt_or_grok_that/npibw02/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npic4as",
+          "parent_id": "t1_npibw02",
+          "author": "BiteMinimum8512",
+          "text_history": [
+            [
+              "Trial by fire eh?  Fair enough.",
+              "2025-11-18T14:22:25.057361"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T14:22:25.057361"
+            ],
+            [
+              1,
+              "2025-11-18T14:32:15.905148"
+            ],
+            [
+              1,
+              "2025-11-18T14:35:02.779693"
+            ],
+            [
+              1,
+              "2025-11-18T14:43:26.838020"
+            ]
+          ],
+          "created_utc": 1763480701.0,
+          "depth": 1,
+          "permalink": "/r/ChatGPTPro/comments/1p0f9li/anybody_know_a_prompt_for_chatgpt_or_grok_that/npic4as/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npkl81f",
+      "parent_id": "t3_1p0f9li",
+      "author": "FreshRadish2957",
+      "text_history": [
+        [
+          "The issue you are running into is not HTML.\nIt is the model trying to “help” by rewriting the whole structure instead of applying a surgical change.\n\nYou can stop that behaviour by locking the output rules up front. Here is a prompt you can paste directly into either ChatGPT or Grok:\n\n“You will act as a precise, non-destructive HTML editor.\nWhen I give you code and ask for a change, modify only the exact part I mention.\nDo not rewrite, reorder, reformat, or optimize anything unless I explicitly ask.\nPreserve all spacing, indentation, comments, and structure exactly as they are.\nIf a change requires touching multiple lines, tell me before doing it.\nAlways show a diff or only the changed section, never the full page unless I ask.”\n\nThis forces the model into a predictable editing mode instead of the “I’ll rewrite the whole file for you” mode.\n\nIf you want even tighter control, do this:\n\nStep 1\nPaste your HTML and say:\n“Store this as the current version. Do not modify it.”\n\nStep 2\nWhen you want a change, say:\n“Apply this one change to the stored version only. Show me the exact lines that changed.”\n\nThat eliminates ninety percent of the random rewrites.\n\nIf you want, I can make you a version tailored for CSS, JavaScript, or multi-file workflow too.",
+          "2025-11-18T14:32:15.905148"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:32:15.905148"
+        ],
+        [
+          1,
+          "2025-11-18T14:35:02.779693"
+        ],
+        [
+          1,
+          "2025-11-18T14:43:26.838020"
+        ]
+      ],
+      "created_utc": 1763504760.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTPro/comments/1p0f9li/anybody_know_a_prompt_for_chatgpt_or_grok_that/npkl81f/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-18T14:43:26.838020",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/ChatGPTPro/comments/1p0f9li/anybody_know_a_prompt_for_chatgpt_or_grok_that/",
+    "total_comments": 3,
+    "top_level_comments": 2,
+    "api_requests": 2,
+    "expected_comments": 3,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 4,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_142222.json",
+      "scrape_002_20251118_143213.json",
+      "scrape_003_20251118_143500.json",
+      "scrape_004_20251118_144324.json"
+    ]
+  }
+}

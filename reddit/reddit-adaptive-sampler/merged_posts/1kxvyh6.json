@@ -1,0 +1,54 @@
+{
+  "post": {
+    "id": "1kxvyh6",
+    "title": "Akool Live Camera can translate video calls in real time, swap faces, and get live virtual avatars to mimic human movements",
+    "author": "Excellent-Ad4589",
+    "score_history": [
+      [
+        3,
+        "2025-11-18T13:49:01.843796"
+      ],
+      [
+        3,
+        "2025-11-18T14:00:16.858971"
+      ],
+      [
+        3,
+        "2025-11-18T14:12:08.742325"
+      ],
+      [
+        3,
+        "2025-11-18T21:59:58.329592"
+      ],
+      [
+        3,
+        "2025-11-19T07:12:21.236429"
+      ]
+    ],
+    "created_utc": 1748475056.0,
+    "num_comments": 0,
+    "subreddit": "ainews",
+    "url": "https://venturebeat.com/games/akool-live-camera-can-translate-video-calls-in-real-time-swap-faces-and-get-virtual-avatars-to-mimic-human-movements/https://venturebeat.com/games/akool-live-camera-can-translate-video-calls-in-real-time-swap-faces-and-get-virtual-avatars-to-mimic-human-movements/",
+    "selftext": "",
+    "permalink": "/r/ainews/comments/1kxvyh6/akool_live_camera_can_translate_video_calls_in/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T07:12:21.236429",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/ainews/comments/1kxvyh6/akool_live_camera_can_translate_video_calls_in/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 5,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_134901.json",
+      "scrape_002_20251118_140016.json",
+      "scrape_003_20251118_141208.json",
+      "scrape_004_20251118_215958.json",
+      "scrape_005_20251119_071221.json"
+    ]
+  }
+}

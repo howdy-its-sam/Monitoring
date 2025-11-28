@@ -1,0 +1,500 @@
+{
+  "post": {
+    "id": "1p0e39v",
+    "title": "Saving Prompts",
+    "author": "DaCosmicOne",
+    "score_history": [
+      [
+        3,
+        "2025-11-18T14:22:40.119870"
+      ],
+      [
+        4,
+        "2025-11-18T14:32:50.171703"
+      ],
+      [
+        3,
+        "2025-11-18T14:42:49.144484"
+      ],
+      [
+        3,
+        "2025-11-18T14:43:33.307308"
+      ],
+      [
+        4,
+        "2025-11-18T14:52:58.926598"
+      ],
+      [
+        3,
+        "2025-11-18T22:32:20.215240"
+      ],
+      [
+        3,
+        "2025-11-19T00:36:47.780981"
+      ],
+      [
+        3,
+        "2025-11-19T02:11:54.260428"
+      ]
+    ],
+    "created_utc": 1763477889.0,
+    "num_comments": 10,
+    "subreddit": "PromptEngineering",
+    "url": "https://www.reddit.com/r/PromptEngineering/comments/1p0e39v/saving_prompts/",
+    "selftext": "Is there an app that helps you save and store prompts out there? \n\nCuzz I see this cloudfare shortage going on.",
+    "permalink": "/r/PromptEngineering/comments/1p0e39v/saving_prompts/"
+  },
+  "comments": [
+    {
+      "id": "npig6i2",
+      "parent_id": "t3_1p0e39v",
+      "author": "Public_Antelope4642",
+      "text_history": [
+        [
+          "Try Agentic Workers, you can save and organize prompts and execute them across all the popular models. Unaffected by this outage since you can just switch the model and keep working",
+          "2025-11-18T14:22:40.119870"
+        ]
+      ],
+      "score_history": [
+        [
+          3,
+          "2025-11-18T14:22:40.119870"
+        ],
+        [
+          3,
+          "2025-11-18T14:32:50.171703"
+        ],
+        [
+          3,
+          "2025-11-18T14:42:49.144484"
+        ],
+        [
+          3,
+          "2025-11-18T14:43:33.307308"
+        ],
+        [
+          3,
+          "2025-11-18T14:52:58.926598"
+        ],
+        [
+          3,
+          "2025-11-18T22:32:20.215240"
+        ],
+        [
+          3,
+          "2025-11-19T00:36:47.780981"
+        ],
+        [
+          3,
+          "2025-11-19T02:11:54.260428"
+        ]
+      ],
+      "created_utc": 1763481891.0,
+      "depth": 0,
+      "permalink": "/r/PromptEngineering/comments/1p0e39v/saving_prompts/npig6i2/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npj7caa",
+          "parent_id": "t1_npig6i2",
+          "author": "citruwasabi",
+          "text_history": [
+            [
+              "explain how to implement",
+              "2025-11-18T14:22:40.119870"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T14:22:40.119870"
+            ],
+            [
+              1,
+              "2025-11-18T14:32:50.171703"
+            ],
+            [
+              1,
+              "2025-11-18T14:42:49.144484"
+            ],
+            [
+              1,
+              "2025-11-18T14:43:33.307308"
+            ],
+            [
+              1,
+              "2025-11-18T14:52:58.926598"
+            ],
+            [
+              1,
+              "2025-11-18T22:32:20.215240"
+            ],
+            [
+              1,
+              "2025-11-19T00:36:47.780981"
+            ],
+            [
+              1,
+              "2025-11-19T02:11:54.260428"
+            ]
+          ],
+          "created_utc": 1763489825.0,
+          "depth": 1,
+          "permalink": "/r/PromptEngineering/comments/1p0e39v/saving_prompts/npj7caa/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npkhjdv",
+              "parent_id": "t1_npj7caa",
+              "author": "Public_Antelope4642",
+              "text_history": [
+                [
+                  "You sign up, and you can save your prompts as templates, which can have variables or be a chain of multiple prompts. Then you can just choose to run those templates on any of the AI models like GPT, Claude, Gemini, etc",
+                  "2025-11-18T14:22:40.119870"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-18T14:22:40.119870"
+                ],
+                [
+                  1,
+                  "2025-11-18T14:32:50.171703"
+                ],
+                [
+                  1,
+                  "2025-11-18T14:42:49.144484"
+                ],
+                [
+                  1,
+                  "2025-11-18T14:43:33.307308"
+                ],
+                [
+                  1,
+                  "2025-11-18T14:52:58.926598"
+                ],
+                [
+                  1,
+                  "2025-11-18T22:32:20.215240"
+                ],
+                [
+                  1,
+                  "2025-11-19T00:36:47.780981"
+                ],
+                [
+                  1,
+                  "2025-11-19T02:11:54.260428"
+                ]
+              ],
+              "created_utc": 1763503584.0,
+              "depth": 2,
+              "permalink": "/r/PromptEngineering/comments/1p0e39v/saving_prompts/npkhjdv/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "npii7w6",
+      "parent_id": "t3_1p0e39v",
+      "author": "Tiepolo-71",
+      "text_history": [
+        [
+          "You can try our site [musebox.io](https://musebox.io)\n\nIt serves the exact purpose you are looking for. We are still giving away free lifetime memberships. So if you or anyone else is interested, just DM me. We have been hard at work lately building new features",
+          "2025-11-18T14:22:40.119870"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:22:40.119870"
+        ],
+        [
+          1,
+          "2025-11-18T14:32:50.171703"
+        ],
+        [
+          2,
+          "2025-11-18T14:42:49.144484"
+        ],
+        [
+          2,
+          "2025-11-18T14:43:33.307308"
+        ],
+        [
+          2,
+          "2025-11-18T14:52:58.926598"
+        ],
+        [
+          2,
+          "2025-11-18T22:32:20.215240"
+        ],
+        [
+          4,
+          "2025-11-19T00:36:47.780981"
+        ],
+        [
+          2,
+          "2025-11-19T02:11:54.260428"
+        ]
+      ],
+      "created_utc": 1763482487.0,
+      "depth": 0,
+      "permalink": "/r/PromptEngineering/comments/1p0e39v/saving_prompts/npii7w6/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npitga1",
+          "parent_id": "t1_npii7w6",
+          "author": "Oshden",
+          "text_history": [
+            [
+              "DM sent!",
+              "2025-11-18T14:22:40.119870"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T14:22:40.119870"
+            ],
+            [
+              1,
+              "2025-11-18T14:32:50.171703"
+            ],
+            [
+              1,
+              "2025-11-18T14:42:49.144484"
+            ],
+            [
+              1,
+              "2025-11-18T14:43:33.307308"
+            ],
+            [
+              1,
+              "2025-11-18T14:52:58.926598"
+            ],
+            [
+              1,
+              "2025-11-18T22:32:20.215240"
+            ],
+            [
+              1,
+              "2025-11-19T00:36:47.780981"
+            ],
+            [
+              1,
+              "2025-11-19T02:11:54.260428"
+            ]
+          ],
+          "created_utc": 1763485770.0,
+          "depth": 1,
+          "permalink": "/r/PromptEngineering/comments/1p0e39v/saving_prompts/npitga1/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        },
+        {
+          "id": "nplenlt",
+          "parent_id": "t1_npii7w6",
+          "author": "HDGreendot",
+          "text_history": [
+            [
+              "sent!",
+              "2025-11-18T22:32:20.215240"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T22:32:20.215240"
+            ],
+            [
+              1,
+              "2025-11-19T00:36:47.780981"
+            ],
+            [
+              1,
+              "2025-11-19T02:11:54.260428"
+            ]
+          ],
+          "created_utc": 1763515018.0,
+          "depth": 1,
+          "permalink": "/r/PromptEngineering/comments/1p0e39v/saving_prompts/nplenlt/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npknywq",
+      "parent_id": "t3_1p0e39v",
+      "author": "Obvious_Pear_1848",
+      "text_history": [
+        [
+          "DM sent",
+          "2025-11-18T14:42:49.144484"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:42:49.144484"
+        ],
+        [
+          1,
+          "2025-11-18T14:43:33.307308"
+        ],
+        [
+          1,
+          "2025-11-18T14:52:58.926598"
+        ],
+        [
+          1,
+          "2025-11-18T22:32:20.215240"
+        ],
+        [
+          1,
+          "2025-11-19T00:36:47.780981"
+        ],
+        [
+          1,
+          "2025-11-19T02:11:54.260428"
+        ]
+      ],
+      "created_utc": 1763505662.0,
+      "depth": 0,
+      "permalink": "/r/PromptEngineering/comments/1p0e39v/saving_prompts/npknywq/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nplfnd3",
+      "parent_id": "t3_1p0e39v",
+      "author": "Jmccu7r",
+      "text_history": [
+        [
+          "Notion works good too",
+          "2025-11-18T22:32:20.215240"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T22:32:20.215240"
+        ],
+        [
+          1,
+          "2025-11-19T00:36:47.780981"
+        ],
+        [
+          1,
+          "2025-11-19T02:11:54.260428"
+        ]
+      ],
+      "created_utc": 1763515378.0,
+      "depth": 0,
+      "permalink": "/r/PromptEngineering/comments/1p0e39v/saving_prompts/nplfnd3/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nplovw7",
+      "parent_id": "t3_1p0e39v",
+      "author": "LongJohnBadBargin",
+      "text_history": [
+        [
+          "SnapPrompt, a chrome extension,  lets you save them then paste them into LLMs using keyboard shortcuts. I built it for my own use. Free so DM for the link",
+          "2025-11-18T22:32:20.215240"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T22:32:20.215240"
+        ],
+        [
+          1,
+          "2025-11-19T00:36:47.780981"
+        ],
+        [
+          1,
+          "2025-11-19T02:11:54.260428"
+        ]
+      ],
+      "created_utc": 1763518685.0,
+      "depth": 0,
+      "permalink": "/r/PromptEngineering/comments/1p0e39v/saving_prompts/nplovw7/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T02:11:54.260428",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/PromptEngineering/comments/1p0e39v/saving_prompts/",
+    "total_comments": 9,
+    "top_level_comments": 5,
+    "api_requests": 1,
+    "expected_comments": 10,
+    "coverage_percent": 90.0,
+    "merged_snapshot_count": 8,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_142239.json",
+      "scrape_002_20251118_143249.json",
+      "scrape_003_20251118_144248.json",
+      "scrape_004_20251118_144333.json",
+      "scrape_005_20251118_145258.json",
+      "scrape_006_20251118_223219.json",
+      "scrape_007_20251119_003647.json",
+      "scrape_008_20251119_021154.json"
+    ]
+  }
+}

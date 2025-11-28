@@ -1,0 +1,115 @@
+{
+  "post": {
+    "id": "1p0lrz2",
+    "title": "Unable to sign-in to the new Antigravity editor on Mac",
+    "author": "PriorConference1093",
+    "score_history": [
+      [
+        0,
+        "2025-11-18T14:23:53.658844"
+      ],
+      [
+        0,
+        "2025-11-18T14:33:27.479071"
+      ],
+      [
+        0,
+        "2025-11-18T14:43:22.368280"
+      ]
+    ],
+    "created_utc": 1763495052.0,
+    "num_comments": 2,
+    "subreddit": "ChatGPTCoding",
+    "url": "https://i.redd.it/pts0hrpaj22g1.png",
+    "selftext": "",
+    "permalink": "/r/ChatGPTCoding/comments/1p0lrz2/unable_to_signin_to_the_new_antigravity_editor_on/"
+  },
+  "comments": [
+    {
+      "id": "npjqq17",
+      "parent_id": "t3_1p0lrz2",
+      "author": "ruloqs",
+      "text_history": [
+        [
+          "I tried another Gmail account and it worked",
+          "2025-11-18T14:23:53.658844"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:23:53.658844"
+        ],
+        [
+          1,
+          "2025-11-18T14:33:27.479071"
+        ],
+        [
+          1,
+          "2025-11-18T14:43:22.368280"
+        ]
+      ],
+      "created_utc": 1763495512.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTCoding/comments/1p0lrz2/unable_to_signin_to_the_new_antigravity_editor_on/npjqq17/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npjuufa",
+      "parent_id": "t3_1p0lrz2",
+      "author": "nightman",
+      "text_history": [
+        [
+          "You are probably using your company's Google account. When I tried my private one, it worked.",
+          "2025-11-18T14:23:53.658844"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:23:53.658844"
+        ],
+        [
+          1,
+          "2025-11-18T14:33:27.479071"
+        ],
+        [
+          1,
+          "2025-11-18T14:43:22.368280"
+        ]
+      ],
+      "created_utc": 1763496754.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTCoding/comments/1p0lrz2/unable_to_signin_to_the_new_antigravity_editor_on/npjuufa/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-18T14:43:22.368280",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/ChatGPTCoding/comments/1p0lrz2/unable_to_signin_to_the_new_antigravity_editor_on/",
+    "total_comments": 2,
+    "top_level_comments": 2,
+    "api_requests": 1,
+    "expected_comments": 2,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_142353.json",
+      "scrape_002_20251118_143327.json",
+      "scrape_003_20251118_144322.json"
+    ]
+  }
+}

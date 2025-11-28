@@ -1,0 +1,399 @@
+{
+  "post": {
+    "id": "1p04c78",
+    "title": "new upgrades",
+    "author": "classical-pianist",
+    "score_history": [
+      [
+        134,
+        "2025-11-18T14:23:41.923429"
+      ],
+      [
+        133,
+        "2025-11-18T14:33:27.212722"
+      ],
+      [
+        137,
+        "2025-11-18T14:43:20.557551"
+      ]
+    ],
+    "created_utc": 1763445879.0,
+    "num_comments": 10,
+    "subreddit": "robotics",
+    "url": "https://v.redd.it/ajf54o8zhy1g1",
+    "selftext": "custom 3d printed parts\n\n\n\nadded an led and temp/humd sensor\n\n\n\nswitched to web app control\n\n\n\nnow working on improving design and movement but still need to trainAI models for autonomous behaviors",
+    "permalink": "/r/robotics/comments/1p04c78/new_upgrades/"
+  },
+  "comments": [
+    {
+      "id": "npga273",
+      "parent_id": "t3_1p04c78",
+      "author": "Cubinglove",
+      "text_history": [
+        [
+          "Cool, at first i thought it’s a drone",
+          "2025-11-18T14:23:41.923429"
+        ]
+      ],
+      "score_history": [
+        [
+          5,
+          "2025-11-18T14:23:41.923429"
+        ],
+        [
+          4,
+          "2025-11-18T14:33:27.212722"
+        ],
+        [
+          4,
+          "2025-11-18T14:43:20.557551"
+        ]
+      ],
+      "created_utc": 1763446994.0,
+      "depth": 0,
+      "permalink": "/r/robotics/comments/1p04c78/new_upgrades/npga273/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npgakzo",
+          "parent_id": "t1_npga273",
+          "author": "classical-pianist",
+          "text_history": [
+            [
+              "a walking drone lol",
+              "2025-11-18T14:23:41.923429"
+            ]
+          ],
+          "score_history": [
+            [
+              3,
+              "2025-11-18T14:23:41.923429"
+            ],
+            [
+              3,
+              "2025-11-18T14:33:27.212722"
+            ],
+            [
+              3,
+              "2025-11-18T14:43:20.557551"
+            ]
+          ],
+          "created_utc": 1763447280.0,
+          "depth": 1,
+          "permalink": "/r/robotics/comments/1p04c78/new_upgrades/npgakzo/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npgiimi",
+      "parent_id": "t3_1p04c78",
+      "author": "snozburger",
+      "text_history": [
+        [
+          "A replicator, coolcoolcool...",
+          "2025-11-18T14:23:41.923429"
+        ]
+      ],
+      "score_history": [
+        [
+          3,
+          "2025-11-18T14:23:41.923429"
+        ],
+        [
+          3,
+          "2025-11-18T14:33:27.212722"
+        ],
+        [
+          3,
+          "2025-11-18T14:43:20.557551"
+        ]
+      ],
+      "created_utc": 1763451803.0,
+      "depth": 0,
+      "permalink": "/r/robotics/comments/1p04c78/new_upgrades/npgiimi/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npgfvfb",
+      "parent_id": "t3_1p04c78",
+      "author": "Tentativ0",
+      "text_history": [
+        [
+          "Wow",
+          "2025-11-18T14:23:41.923429"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:23:41.923429"
+        ],
+        [
+          1,
+          "2025-11-18T14:33:27.212722"
+        ],
+        [
+          1,
+          "2025-11-18T14:43:20.557551"
+        ]
+      ],
+      "created_utc": 1763450201.0,
+      "depth": 0,
+      "permalink": "/r/robotics/comments/1p04c78/new_upgrades/npgfvfb/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npgg6tr",
+      "parent_id": "t3_1p04c78",
+      "author": "valkiii",
+      "text_history": [
+        [
+          "Are you going to share your build?",
+          "2025-11-18T14:23:41.923429"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:23:41.923429"
+        ],
+        [
+          1,
+          "2025-11-18T14:33:27.212722"
+        ],
+        [
+          1,
+          "2025-11-18T14:43:20.557551"
+        ]
+      ],
+      "created_utc": 1763450390.0,
+      "depth": 0,
+      "permalink": "/r/robotics/comments/1p04c78/new_upgrades/npgg6tr/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npggi4v",
+          "parent_id": "t1_npgg6tr",
+          "author": "classical-pianist",
+          "text_history": [
+            [
+              "yes   \nI already shared a full breakdown of the previous version on my youtube\n\nevery major change i'll post updates",
+              "2025-11-18T14:23:41.923429"
+            ]
+          ],
+          "score_history": [
+            [
+              3,
+              "2025-11-18T14:23:41.923429"
+            ],
+            [
+              3,
+              "2025-11-18T14:33:27.212722"
+            ],
+            [
+              3,
+              "2025-11-18T14:43:20.557551"
+            ]
+          ],
+          "created_utc": 1763450577.0,
+          "depth": 1,
+          "permalink": "/r/robotics/comments/1p04c78/new_upgrades/npggi4v/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npgoud6",
+              "parent_id": "t1_npggi4v",
+              "author": "valkiii",
+              "text_history": [
+                [
+                  "Great! Thank you!",
+                  "2025-11-18T14:23:41.923429"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-18T14:23:41.923429"
+                ],
+                [
+                  1,
+                  "2025-11-18T14:33:27.212722"
+                ],
+                [
+                  1,
+                  "2025-11-18T14:43:20.557551"
+                ]
+              ],
+              "created_utc": 1763455729.0,
+              "depth": 2,
+              "permalink": "/r/robotics/comments/1p04c78/new_upgrades/npgoud6/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            },
+            {
+              "id": "npgp494",
+              "parent_id": "t1_npggi4v",
+              "author": "valkiii",
+              "text_history": [
+                [
+                  "Can't see the breakdown on your yt page. Do you have a link?",
+                  "2025-11-18T14:23:41.923429"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-18T14:23:41.923429"
+                ],
+                [
+                  1,
+                  "2025-11-18T14:33:27.212722"
+                ],
+                [
+                  1,
+                  "2025-11-18T14:43:20.557551"
+                ]
+              ],
+              "created_utc": 1763455901.0,
+              "depth": 2,
+              "permalink": "/r/robotics/comments/1p04c78/new_upgrades/npgp494/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": [
+                {
+                  "id": "npgqxcb",
+                  "parent_id": "t1_npgp494",
+                  "author": "classical-pianist",
+                  "text_history": [
+                    [
+                      "[https://www.youtube.com/watch?v=-4j3rBsH2Vg](https://www.youtube.com/watch?v=-4j3rBsH2Vg)",
+                      "2025-11-18T14:23:41.923429"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      1,
+                      "2025-11-18T14:23:41.923429"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T14:33:27.212722"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T14:43:20.557551"
+                    ]
+                  ],
+                  "created_utc": 1763457047.0,
+                  "depth": 3,
+                  "permalink": "/r/robotics/comments/1p04c78/new_upgrades/npgqxcb/",
+                  "is_submitter": true,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "nphdg4q",
+      "parent_id": "t3_1p04c78",
+      "author": "hisatanhere",
+      "text_history": [
+        [
+          "Super cool!",
+          "2025-11-18T14:23:41.923429"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:23:41.923429"
+        ],
+        [
+          1,
+          "2025-11-18T14:33:27.212722"
+        ],
+        [
+          1,
+          "2025-11-18T14:43:20.557551"
+        ]
+      ],
+      "created_utc": 1763469281.0,
+      "depth": 0,
+      "permalink": "/r/robotics/comments/1p04c78/new_upgrades/nphdg4q/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-18T14:43:20.557551",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/robotics/comments/1p04c78/new_upgrades/",
+    "total_comments": 10,
+    "top_level_comments": 5,
+    "api_requests": 1,
+    "expected_comments": 10,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_142341.json",
+      "scrape_002_20251118_143326.json",
+      "scrape_003_20251118_144320.json"
+    ]
+  }
+}

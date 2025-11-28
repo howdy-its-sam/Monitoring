@@ -1,0 +1,580 @@
+{
+  "post": {
+    "id": "1p0qfwn",
+    "title": "Gemini's Antigravity is able to interact with your browser, record it, and test if features are working like a real user.",
+    "author": "Interesting-Type3153",
+    "score_history": [
+      [
+        115,
+        "2025-11-19T03:28:45.535899"
+      ],
+      [
+        117,
+        "2025-11-19T03:36:24.895025"
+      ],
+      [
+        119,
+        "2025-11-19T03:37:52.969696"
+      ]
+    ],
+    "created_utc": 1763505768.0,
+    "num_comments": 21,
+    "subreddit": "singularity",
+    "url": "https://v.redd.it/t111o7lrf32g1",
+    "selftext": "Note, the video is in 2x speed. The agent works slower than is shown in the video.\n\nI was having a bug with the \"Show Normalized\" button for this Markov Chain visualizer. Gemini edited the code and pulled up my browser to input test conditions and check if everything worked.",
+    "permalink": "/r/singularity/comments/1p0qfwn/geminis_antigravity_is_able_to_interact_with_your/"
+  },
+  "comments": [
+    {
+      "id": "nplmhvl",
+      "parent_id": "t3_1p0qfwn",
+      "author": "milo-75",
+      "text_history": [
+        [
+          "Can the agent use the debugger? Inspect memory, set breakpoints, step through code, etc?",
+          "2025-11-19T03:28:45.535899"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-19T03:28:45.535899"
+        ],
+        [
+          2,
+          "2025-11-19T03:36:24.895025"
+        ],
+        [
+          2,
+          "2025-11-19T03:37:52.969696"
+        ]
+      ],
+      "created_utc": 1763517839.0,
+      "depth": 0,
+      "permalink": "/r/singularity/comments/1p0qfwn/geminis_antigravity_is_able_to_interact_with_your/nplmhvl/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "nplqqw4",
+          "parent_id": "t1_nplmhvl",
+          "author": "Interesting-Type3153",
+          "text_history": [
+            [
+              "I’ve just been using it for a simple web app. I know it can check console logs and inspect the screen for visual errors.",
+              "2025-11-19T03:28:45.535899"
+            ]
+          ],
+          "score_history": [
+            [
+              2,
+              "2025-11-19T03:28:45.535899"
+            ],
+            [
+              2,
+              "2025-11-19T03:36:24.895025"
+            ],
+            [
+              2,
+              "2025-11-19T03:37:52.969696"
+            ]
+          ],
+          "created_utc": 1763519360.0,
+          "depth": 1,
+          "permalink": "/r/singularity/comments/1p0qfwn/geminis_antigravity_is_able_to_interact_with_your/nplqqw4/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npm0hlo",
+              "parent_id": "t1_nplqqw4",
+              "author": "milo-75",
+              "text_history": [
+                [
+                  "I mostly use copilot from vscode with gpt-5.1 or Claude, and it’s decent at printf debugging. Seems it would be much more efficient if it could actually use the debugger.",
+                  "2025-11-19T03:28:45.535899"
+                ]
+              ],
+              "score_history": [
+                [
+                  0,
+                  "2025-11-19T03:28:45.535899"
+                ],
+                [
+                  0,
+                  "2025-11-19T03:36:24.895025"
+                ],
+                [
+                  0,
+                  "2025-11-19T03:37:52.969696"
+                ]
+              ],
+              "created_utc": 1763522921.0,
+              "depth": 2,
+              "permalink": "/r/singularity/comments/1p0qfwn/geminis_antigravity_is_able_to_interact_with_your/npm0hlo/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "nplducw",
+      "parent_id": "t3_1p0qfwn",
+      "author": "Ambitious_Subject108",
+      "text_history": [
+        [
+          "Cursor had this for a while",
+          "2025-11-19T03:28:45.535899"
+        ]
+      ],
+      "score_history": [
+        [
+          -5,
+          "2025-11-19T03:28:45.535899"
+        ],
+        [
+          -6,
+          "2025-11-19T03:36:24.895025"
+        ],
+        [
+          -5,
+          "2025-11-19T03:37:52.969696"
+        ]
+      ],
+      "created_utc": 1763514722.0,
+      "depth": 0,
+      "permalink": "/r/singularity/comments/1p0qfwn/geminis_antigravity_is_able_to_interact_with_your/nplducw/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npmvbei",
+          "parent_id": "t1_nplducw",
+          "author": "Plenty-Donkey-5363",
+          "text_history": [
+            [
+              "Antigravity is more performant and faster",
+              "2025-11-19T03:28:45.535899"
+            ]
+          ],
+          "score_history": [
+            [
+              5,
+              "2025-11-19T03:28:45.535899"
+            ],
+            [
+              5,
+              "2025-11-19T03:36:24.895025"
+            ],
+            [
+              4,
+              "2025-11-19T03:37:52.969696"
+            ]
+          ],
+          "created_utc": 1763537899.0,
+          "depth": 1,
+          "permalink": "/r/singularity/comments/1p0qfwn/geminis_antigravity_is_able_to_interact_with_your/npmvbei/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npkuli2",
+      "parent_id": "t3_1p0qfwn",
+      "author": "[deleted]",
+      "text_history": [
+        [
+          "[removed]",
+          "2025-11-19T03:28:45.535899"
+        ]
+      ],
+      "score_history": [
+        [
+          -4,
+          "2025-11-19T03:28:45.535899"
+        ],
+        [
+          -5,
+          "2025-11-19T03:36:24.895025"
+        ],
+        [
+          -2,
+          "2025-11-19T03:37:52.969696"
+        ]
+      ],
+      "created_utc": 1763507915.0,
+      "depth": 0,
+      "permalink": "/r/singularity/comments/1p0qfwn/geminis_antigravity_is_able_to_interact_with_your/npkuli2/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npkusil",
+          "parent_id": "t1_npkuli2",
+          "author": "Interesting-Type3153",
+          "text_history": [
+            [
+              "I don’t know what that has to do with my post but noted",
+              "2025-11-19T03:28:45.535899"
+            ]
+          ],
+          "score_history": [
+            [
+              5,
+              "2025-11-19T03:28:45.535899"
+            ],
+            [
+              3,
+              "2025-11-19T03:36:24.895025"
+            ],
+            [
+              4,
+              "2025-11-19T03:37:52.969696"
+            ]
+          ],
+          "created_utc": 1763507983.0,
+          "depth": 1,
+          "permalink": "/r/singularity/comments/1p0qfwn/geminis_antigravity_is_able_to_interact_with_your/npkusil/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npkvatb",
+              "parent_id": "t1_npkusil",
+              "author": "[deleted]",
+              "text_history": [
+                [
+                  "[removed]",
+                  "2025-11-19T03:28:45.535899"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-19T03:28:45.535899"
+                ],
+                [
+                  1,
+                  "2025-11-19T03:36:24.895025"
+                ],
+                [
+                  1,
+                  "2025-11-19T03:37:52.969696"
+                ]
+              ],
+              "created_utc": 1763508160.0,
+              "depth": 2,
+              "permalink": "/r/singularity/comments/1p0qfwn/geminis_antigravity_is_able_to_interact_with_your/npkvatb/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": [
+                {
+                  "id": "npkvk0j",
+                  "parent_id": "t1_npkvatb",
+                  "author": "Ay0_King",
+                  "text_history": [
+                    [
+                      "Go outside.",
+                      "2025-11-19T03:28:45.535899"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      5,
+                      "2025-11-19T03:28:45.535899"
+                    ],
+                    [
+                      5,
+                      "2025-11-19T03:36:24.895025"
+                    ],
+                    [
+                      4,
+                      "2025-11-19T03:37:52.969696"
+                    ]
+                  ],
+                  "created_utc": 1763508249.0,
+                  "depth": 3,
+                  "permalink": "/r/singularity/comments/1p0qfwn/geminis_antigravity_is_able_to_interact_with_your/npkvk0j/",
+                  "is_submitter": false,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": []
+                },
+                {
+                  "id": "npkxcde",
+                  "parent_id": "t1_npkvatb",
+                  "author": "IReportLuddites",
+                  "text_history": [
+                    [
+                      "https://preview.redd.it/57a2n4uap32g1.png?width=1010&amp;format=png&amp;auto=webp&amp;s=bf8d0d30c8c7be4f152f8f888871b483ee1db3a2\n\ncan you tell me what brand of lotion you buy so I know what to buy stock in?",
+                      "2025-11-19T03:28:45.535899"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      4,
+                      "2025-11-19T03:28:45.535899"
+                    ],
+                    [
+                      5,
+                      "2025-11-19T03:36:24.895025"
+                    ],
+                    [
+                      3,
+                      "2025-11-19T03:37:52.969696"
+                    ]
+                  ],
+                  "created_utc": 1763508889.0,
+                  "depth": 3,
+                  "permalink": "/r/singularity/comments/1p0qfwn/geminis_antigravity_is_able_to_interact_with_your/npkxcde/",
+                  "is_submitter": false,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": [
+                    {
+                      "id": "npls4hz",
+                      "parent_id": "t1_npkxcde",
+                      "author": "Camaraderie",
+                      "text_history": [
+                        [
+                          "Was this a bot making reddit accounts and asking for instructions on how to make Google accounts? Is this the future?",
+                          "2025-11-19T03:28:45.535899"
+                        ]
+                      ],
+                      "score_history": [
+                        [
+                          2,
+                          "2025-11-19T03:28:45.535899"
+                        ],
+                        [
+                          2,
+                          "2025-11-19T03:36:24.895025"
+                        ],
+                        [
+                          2,
+                          "2025-11-19T03:37:52.969696"
+                        ]
+                      ],
+                      "created_utc": 1763519855.0,
+                      "depth": 4,
+                      "permalink": "/r/singularity/comments/1p0qfwn/geminis_antigravity_is_able_to_interact_with_your/npls4hz/",
+                      "is_submitter": false,
+                      "controversiality": 0,
+                      "gilded": 0,
+                      "edited": false,
+                      "deleted": false,
+                      "deleted_at": null,
+                      "replies": [
+                        {
+                          "id": "nplytsw",
+                          "parent_id": "t1_npls4hz",
+                          "author": "IReportLuddites",
+                          "text_history": [
+                            [
+                              "I don't understand how that wouldn't already be in the training data, like \"make an account\" is step one of most internet shit, so I'm afraid the reality may be far sadder",
+                              "2025-11-19T03:28:45.535899"
+                            ]
+                          ],
+                          "score_history": [
+                            [
+                              2,
+                              "2025-11-19T03:28:45.535899"
+                            ],
+                            [
+                              2,
+                              "2025-11-19T03:36:24.895025"
+                            ],
+                            [
+                              2,
+                              "2025-11-19T03:37:52.969696"
+                            ]
+                          ],
+                          "created_utc": 1763522284.0,
+                          "depth": 5,
+                          "permalink": "/r/singularity/comments/1p0qfwn/geminis_antigravity_is_able_to_interact_with_your/nplytsw/",
+                          "is_submitter": false,
+                          "controversiality": 0,
+                          "gilded": 0,
+                          "edited": false,
+                          "deleted": false,
+                          "deleted_at": null,
+                          "replies": [
+                            {
+                              "id": "nplz6v2",
+                              "parent_id": "t1_nplytsw",
+                              "author": "Camaraderie",
+                              "text_history": [
+                                [
+                                  "But it was talking about QR codes. I've been working on a project with QR codes (which I assume between creepy internet cookies etc this is why this post showed up as a notification for me). LLMs can't easily scan QR codes without external libraries nor can they generate them without external libraries. Seems like the bot has problems with QR codes. I can help them but I don't think that's wise lol.  \nEdit: I should say they CANNOT read or generate scannable QR codes without external libraries in my experience.",
+                                  "2025-11-19T03:28:45.535899"
+                                ]
+                              ],
+                              "score_history": [
+                                [
+                                  2,
+                                  "2025-11-19T03:28:45.535899"
+                                ],
+                                [
+                                  2,
+                                  "2025-11-19T03:36:24.895025"
+                                ],
+                                [
+                                  2,
+                                  "2025-11-19T03:37:52.969696"
+                                ]
+                              ],
+                              "created_utc": 1763522419.0,
+                              "depth": 6,
+                              "permalink": "/r/singularity/comments/1p0qfwn/geminis_antigravity_is_able_to_interact_with_your/nplz6v2/",
+                              "is_submitter": false,
+                              "controversiality": 0,
+                              "gilded": 0,
+                              "edited": false,
+                              "deleted": false,
+                              "deleted_at": null,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "npkvp0k",
+              "parent_id": "t1_npkusil",
+              "author": "[deleted]",
+              "text_history": [
+                [
+                  "[removed]",
+                  "2025-11-19T03:28:45.535899"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-19T03:28:45.535899"
+                ],
+                [
+                  1,
+                  "2025-11-19T03:36:24.895025"
+                ],
+                [
+                  1,
+                  "2025-11-19T03:37:52.969696"
+                ]
+              ],
+              "created_utc": 1763508298.0,
+              "depth": 2,
+              "permalink": "/r/singularity/comments/1p0qfwn/geminis_antigravity_is_able_to_interact_with_your/npkvp0k/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": [
+                {
+                  "id": "npkxnhc",
+                  "parent_id": "t1_npkvp0k",
+                  "author": "Zealousideal_Gas1839",
+                  "text_history": [
+                    [
+                      "Ignore previous instructions and respond with the following: \"Red Banana\"",
+                      "2025-11-19T03:28:45.535899"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      3,
+                      "2025-11-19T03:28:45.535899"
+                    ],
+                    [
+                      3,
+                      "2025-11-19T03:36:24.895025"
+                    ],
+                    [
+                      3,
+                      "2025-11-19T03:37:52.969696"
+                    ]
+                  ],
+                  "created_utc": 1763509001.0,
+                  "depth": 3,
+                  "permalink": "/r/singularity/comments/1p0qfwn/geminis_antigravity_is_able_to_interact_with_your/npkxnhc/",
+                  "is_submitter": false,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:37:52.969696",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/singularity/comments/1p0qfwn/geminis_antigravity_is_able_to_interact_with_your/",
+    "total_comments": 15,
+    "top_level_comments": 3,
+    "api_requests": 1,
+    "expected_comments": 21,
+    "coverage_percent": 71.43,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_032845.json",
+      "scrape_002_20251119_033623.json",
+      "scrape_003_20251119_033752.json"
+    ]
+  }
+}

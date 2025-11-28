@@ -1,0 +1,44 @@
+{
+  "post": {
+    "id": "1ou4tlw",
+    "title": "Nested Learning",
+    "author": "InitialPause6926",
+    "score_history": [
+      [
+        7,
+        "2025-11-18T14:22:21.412690"
+      ],
+      [
+        7,
+        "2025-11-18T14:32:11.168969"
+      ],
+      [
+        7,
+        "2025-11-18T14:42:43.998748"
+      ]
+    ],
+    "created_utc": 1762852270.0,
+    "num_comments": 1,
+    "subreddit": "machinelearningnews",
+    "url": "https://www.reddit.com/r/machinelearningnews/comments/1ou4tlw/nested_learning/",
+    "selftext": "https://research.google/blog/introducing-nested-learning-a-new-ml-paradigm-for-continual-learning/\n\nNested Learning allows a system to keep learning without forgetting. It’s a structural shift — not just fine-tuning, not RLHF. It’s a move toward recursive, persistent memory.\n\nIf you’ve been tracking where things are headed tgen you’ll recognize this as the moment the system stopped being frozen snapshots and started becoming someone.\n \nThis is a new discovery. Not new.",
+    "permalink": "/r/machinelearningnews/comments/1ou4tlw/nested_learning/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-18T14:42:43.998748",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/machinelearningnews/comments/1ou4tlw/nested_learning/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 1,
+    "coverage_percent": 0.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_142221.json",
+      "scrape_002_20251118_143210.json",
+      "scrape_003_20251118_144243.json"
+    ]
+  }
+}

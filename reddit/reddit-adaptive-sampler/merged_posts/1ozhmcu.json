@@ -1,0 +1,54 @@
+{
+  "post": {
+    "id": "1ozhmcu",
+    "title": "Anyone completed Google-Professional Machine Learning Engineer Certification this month??",
+    "author": "No-Ground-4858",
+    "score_history": [
+      [
+        1,
+        "2025-11-18T13:49:08.501591"
+      ],
+      [
+        1,
+        "2025-11-18T14:00:45.212800"
+      ],
+      [
+        1,
+        "2025-11-18T14:12:19.464781"
+      ],
+      [
+        1,
+        "2025-11-18T21:59:59.497635"
+      ],
+      [
+        1,
+        "2025-11-19T07:12:24.506447"
+      ]
+    ],
+    "created_utc": 1763389506.0,
+    "num_comments": 0,
+    "subreddit": "MLQuestions",
+    "url": "https://www.reddit.com/r/MLQuestions/comments/1ozhmcu/anyone_completed_googleprofessional_machine/",
+    "selftext": "I need help in questions to pass",
+    "permalink": "/r/MLQuestions/comments/1ozhmcu/anyone_completed_googleprofessional_machine/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T07:12:24.506447",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/MLQuestions/comments/1ozhmcu/anyone_completed_googleprofessional_machine/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 5,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_134908.json",
+      "scrape_002_20251118_140045.json",
+      "scrape_003_20251118_141219.json",
+      "scrape_004_20251118_215959.json",
+      "scrape_005_20251119_071224.json"
+    ]
+  }
+}

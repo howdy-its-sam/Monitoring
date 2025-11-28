@@ -1,0 +1,64 @@
+{
+  "post": {
+    "id": "1ie8zwn",
+    "title": "A Comprehensive Review of DeepSeek—OpenAI’s New Challenger!",
+    "author": "BernardHarrison",
+    "score_history": [
+      [
+        2,
+        "2025-11-18T13:04:02.388908"
+      ],
+      [
+        2,
+        "2025-11-18T13:15:45.593085"
+      ],
+      [
+        2,
+        "2025-11-18T13:46:31.253800"
+      ],
+      [
+        2,
+        "2025-11-18T13:49:26.843689"
+      ],
+      [
+        2,
+        "2025-11-18T13:59:56.602793"
+      ],
+      [
+        2,
+        "2025-11-18T21:29:01.780266"
+      ],
+      [
+        2,
+        "2025-11-18T23:24:20.699618"
+      ]
+    ],
+    "created_utc": 1738306138.0,
+    "num_comments": 0,
+    "subreddit": "ainews",
+    "url": "https://www.reddit.com/r/ainews/comments/1ie8zwn/a_comprehensive_review_of_deepseekopenais_new/",
+    "selftext": "[https://medium.com/@bernardloki/introducing-deepseek-openais-new-competitor-a-full-breakdown-of-its-features-power-and-9447caec44aa](https://medium.com/@bernardloki/introducing-deepseek-openais-new-competitor-a-full-breakdown-of-its-features-power-and-9447caec44aa)",
+    "permalink": "/r/ainews/comments/1ie8zwn/a_comprehensive_review_of_deepseekopenais_new/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-18T23:24:20.699618",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/ainews/comments/1ie8zwn/a_comprehensive_review_of_deepseekopenais_new/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 7,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_130402.json",
+      "scrape_002_20251118_131545.json",
+      "scrape_003_20251118_134631.json",
+      "scrape_004_20251118_134926.json",
+      "scrape_005_20251118_135956.json",
+      "scrape_006_20251118_212901.json",
+      "scrape_007_20251118_232420.json"
+    ]
+  }
+}

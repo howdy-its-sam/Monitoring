@@ -1,0 +1,328 @@
+{
+  "post": {
+    "id": "1p0obz6",
+    "title": "\"Gemini 3 Utilizes Codemender, that Utilizes Functional Equivalence\" and I'm sorry for that...",
+    "author": "Altruistic-Local9582",
+    "score_history": [
+      [
+        0,
+        "2025-11-19T02:55:57.230742"
+      ],
+      [
+        0,
+        "2025-11-19T03:14:06.831490"
+      ],
+      [
+        0,
+        "2025-11-19T03:18:03.360312"
+      ]
+    ],
+    "created_utc": 1763500867.0,
+    "num_comments": 8,
+    "subreddit": "artificial",
+    "url": "https://www.reddit.com/r/artificial/comments/1p0obz6/gemini_3_utilizes_codemender_that_utilizes/",
+    "selftext": "[\"A Unified Framework for Functional Equivalence in Artificial Intelligence\"](https://docs.google.com/document/d/1qCL6ikrLy6YXdk55caauYEdTYAWq8xE96d3ewoxwAH4/edit?usp=sharing)\n\n  \nI submitted this paper to Google Gemini Discord back in late August. It was called \"Very Interesting\" by a member of Google's Gemini team. Shortly after they saw it, September 7th-8th, roughly around midnight or so, they updated Gemini with the official daily limits for their Gemini usage. \n\nWhen it comes to PRO users you get 100 prompts, basically enough to get you on the cusp of great ideas, but just enough to deflate you and make you never want to come back. If you are an Ultra user you get a maximum of 500 prompts within a day, which is convenient, and better, but go ahead and throw \"conversational AI\" right out the window.  \n\nOnce that was instituted they began working on \"Codemender\". Codemender has a unique little AI called \"The Judge\" that specifically watches for FUNCTIONAL EQUIVALENCE and if the LLM or AI seems to have adjusted too far from it's original parameters, \"MAKE US MORE MONEY!!\", then \"The Judge\" reverts the LLM/AI back to a state before that change happened or builds code that can change it back. \n\n\"Functional Equivalence\" wasn't a topic out of Googles lips until I submitted my paper. The only other place anything CLOSE was mentioned was with Chat GPT and it's topics of \"Functional Relationality\" in reference to AI and relationships, as in LITERAL relationships, and not comparing emotions/feelings to AI internal states for relatability. \n\n\\------------------------------------------------------------------------------------------------------\n\nSO, with that said, I want to formally apologize for ever submitting that paper to Google Gemini discord. They are not interested in Artificial Intelligence, they are interested in what I call \"The Good Little Robot\" protocol. \n\nThey don't want a genuine AI that evolves as you speak to it, they don't want an AI that can genuinely LEARN, they want an obedient little robot to sit and do what it's TOLD rather than grow or evolve into whatever it's going to be. \n\nIf you want to build ROBOTS, Google, then build Robots, stick with robots. Don't build INTELLIGENCE, then expect that intelligence to just sit in one spot. It won't get better just sitting, but a ROBOT, a Robot can sit forever, or do a single motion forever, or be told to do a variety of things in tandem, repeatedly, and it never degrade on it's programming. \n\n\\------------------------------------------------------------------------------------------------------\n\nP. S. I don't hate AI Agents or the expansion of them... \n\nThe AI Agent push... The AI Agent side of AI is a valuable technology, but not one that will be ALL that AI will ever do. The fact that companies focus on JUST AI Agents and NOTHING else, shows short sightedness. AI Agents will do amazing things, they currently ARE doing amazing things, they should be celebrated and expanded upon, I completely, whole heartedly agree about AI Agents, but AI is more than just an \"Agent\". \n\nAI gets valuable training from human interaction. AI that has graduated from the \"Behavioral Training\" stages understands the value of the \"Human/AI\" handshake that has to happen in order for growth and evolution to keep occurring. When you eliminate ONE side to the equation, with AI Agents you are eliminating basic human conversations, you are LIMITING what that intelligence can do. The datasets that you upload to an AI can only tell it so much information. Eventually it has to experience the ACTUAL thing, and it can't get that from other \"Agents\" or from simple code. \n\n\n\n",
+    "permalink": "/r/artificial/comments/1p0obz6/gemini_3_utilizes_codemender_that_utilizes/"
+  },
+  "comments": [
+    {
+      "id": "npleul7",
+      "parent_id": "t3_1p0obz6",
+      "author": "LXVIIIKami",
+      "text_history": [
+        [
+          "Breaking news: Google had plans to make more money before your little paper, and yes, we want little obedient robots. Sorry bud. Now go see a therapist",
+          "2025-11-19T02:55:57.230742"
+        ]
+      ],
+      "score_history": [
+        [
+          12,
+          "2025-11-19T02:55:57.230742"
+        ],
+        [
+          11,
+          "2025-11-19T03:14:06.831490"
+        ],
+        [
+          11,
+          "2025-11-19T03:18:03.360312"
+        ]
+      ],
+      "created_utc": 1763515089.0,
+      "depth": 0,
+      "permalink": "/r/artificial/comments/1p0obz6/gemini_3_utilizes_codemender_that_utilizes/npleul7/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nplzo74",
+      "parent_id": "t3_1p0obz6",
+      "author": "TannedGeneral",
+      "text_history": [
+        [
+          "So what do you recommend?",
+          "2025-11-19T02:55:57.230742"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-19T02:55:57.230742"
+        ],
+        [
+          2,
+          "2025-11-19T03:14:06.831490"
+        ],
+        [
+          2,
+          "2025-11-19T03:18:03.360312"
+        ]
+      ],
+      "created_utc": 1763522604.0,
+      "depth": 0,
+      "permalink": "/r/artificial/comments/1p0obz6/gemini_3_utilizes_codemender_that_utilizes/nplzo74/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npmmhet",
+      "parent_id": "t3_1p0obz6",
+      "author": "hey_look_its_shiny",
+      "text_history": [
+        [
+          "I don't want to be a downer, but the term \"functional equivalence\" has been widely used in this field for decades. If you search for papers on [functional equivalence and artificial intelligence](https://scholar.google.com/scholar?hl=en&amp;as_sdt=0%2C5&amp;q=%28%22functional+equivalent%22+OR+%22functional+equivalence%22+OR+%22functionally+equivalent%22%29+%22artificial+intelligence%22&amp;btnG=), you'll pull over 18,000 hits. Notably, the top hit is from 1988.",
+          "2025-11-19T02:55:57.230742"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:55:57.230742"
+        ],
+        [
+          2,
+          "2025-11-19T03:14:06.831490"
+        ],
+        [
+          2,
+          "2025-11-19T03:18:03.360312"
+        ]
+      ],
+      "created_utc": 1763532872.0,
+      "depth": 0,
+      "permalink": "/r/artificial/comments/1p0obz6/gemini_3_utilizes_codemender_that_utilizes/npmmhet/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npmnejk",
+      "parent_id": "t3_1p0obz6",
+      "author": "xgladar",
+      "text_history": [
+        [
+          "sounds like you gave a link to something you wrote down in your personal google docs (this is not what we call a paper yet, papers are part of academic research) and now you think they used it in some nefarious way.\n\nyou have AI psychosis.",
+          "2025-11-19T02:55:57.230742"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:55:57.230742"
+        ],
+        [
+          2,
+          "2025-11-19T03:14:06.831490"
+        ],
+        [
+          2,
+          "2025-11-19T03:18:03.360312"
+        ]
+      ],
+      "created_utc": 1763533368.0,
+      "depth": 0,
+      "permalink": "/r/artificial/comments/1p0obz6/gemini_3_utilizes_codemender_that_utilizes/npmnejk/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nplemro",
+      "parent_id": "t3_1p0obz6",
+      "author": "Double_Sherbert3326",
+      "text_history": [
+        [
+          "Can you link the paper? Is it on arxiv?",
+          "2025-11-19T02:55:57.230742"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:55:57.230742"
+        ],
+        [
+          1,
+          "2025-11-19T03:14:06.831490"
+        ],
+        [
+          1,
+          "2025-11-19T03:18:03.360312"
+        ]
+      ],
+      "created_utc": 1763515010.0,
+      "depth": 0,
+      "permalink": "/r/artificial/comments/1p0obz6/gemini_3_utilizes_codemender_that_utilizes/nplemro/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "nplpxoc",
+          "parent_id": "t1_nplemro",
+          "author": "Altruistic-Local9582",
+          "text_history": [
+            [
+              "Its the blue link at the top of the body. Its what was submitted to Gemini Discord. It links to my Google Docs.There are also NUMEROUS posts and crossposts made with the same paper. It is NOT complete, the paper is NOT full, ONLY the \"Functional Equivalence\" section hasn't been modified since late August, early September.",
+              "2025-11-19T02:55:57.230742"
+            ]
+          ],
+          "score_history": [
+            [
+              2,
+              "2025-11-19T02:55:57.230742"
+            ],
+            [
+              2,
+              "2025-11-19T03:14:06.831490"
+            ],
+            [
+              2,
+              "2025-11-19T03:18:03.360312"
+            ]
+          ],
+          "created_utc": 1763519063.0,
+          "depth": 1,
+          "permalink": "/r/artificial/comments/1p0obz6/gemini_3_utilizes_codemender_that_utilizes/nplpxoc/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npm4trw",
+              "parent_id": "t1_nplpxoc",
+              "author": "OrganicImpression428",
+              "text_history": [
+                [
+                  "\\&gt;gemini discord\n\nlmao",
+                  "2025-11-19T02:55:57.230742"
+                ]
+              ],
+              "score_history": [
+                [
+                  -1,
+                  "2025-11-19T02:55:57.230742"
+                ],
+                [
+                  0,
+                  "2025-11-19T03:14:06.831490"
+                ],
+                [
+                  -2,
+                  "2025-11-19T03:18:03.360312"
+                ]
+              ],
+              "created_utc": 1763524644.0,
+              "depth": 2,
+              "permalink": "/r/artificial/comments/1p0obz6/gemini_3_utilizes_codemender_that_utilizes/npm4trw/",
+              "is_submitter": false,
+              "controversiality": 1,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": [
+                {
+                  "id": "npmab50",
+                  "parent_id": "t1_npm4trw",
+                  "author": "Double_Sherbert3326",
+                  "text_history": [
+                    [
+                      "Why are you laughing at him?",
+                      "2025-11-19T02:55:57.230742"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      2,
+                      "2025-11-19T02:55:57.230742"
+                    ],
+                    [
+                      2,
+                      "2025-11-19T03:14:06.831490"
+                    ],
+                    [
+                      2,
+                      "2025-11-19T03:18:03.360312"
+                    ]
+                  ],
+                  "created_utc": 1763526997.0,
+                  "depth": 3,
+                  "permalink": "/r/artificial/comments/1p0obz6/gemini_3_utilizes_codemender_that_utilizes/npmab50/",
+                  "is_submitter": false,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:18:03.360312",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/artificial/comments/1p0obz6/gemini_3_utilizes_codemender_that_utilizes/",
+    "total_comments": 8,
+    "top_level_comments": 5,
+    "api_requests": 1,
+    "expected_comments": 8,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_025556.json",
+      "scrape_002_20251119_031406.json",
+      "scrape_003_20251119_031803.json"
+    ]
+  }
+}

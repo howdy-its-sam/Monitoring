@@ -1,0 +1,107 @@
+{
+  "post": {
+    "id": "1p0exur",
+    "title": "AI Hacks AI: Cybercriminals Unleash An AI-Powered, Self-Replicating Botnet",
+    "author": "forbes",
+    "score_history": [
+      [
+        5,
+        "2025-11-18T13:49:29.425853"
+      ],
+      [
+        4,
+        "2025-11-18T14:00:39.845508"
+      ],
+      [
+        5,
+        "2025-11-18T14:12:07.119299"
+      ],
+      [
+        7,
+        "2025-11-18T21:39:23.851427"
+      ],
+      [
+        6,
+        "2025-11-18T23:34:37.172192"
+      ],
+      [
+        6,
+        "2025-11-19T01:18:45.129750"
+      ]
+    ],
+    "created_utc": 1763479854.0,
+    "num_comments": 1,
+    "subreddit": "artificial",
+    "url": "https://go.forbes.com/253KNC",
+    "selftext": "",
+    "permalink": "/r/artificial/comments/1p0exur/ai_hacks_ai_cybercriminals_unleash_an_aipowered/"
+  },
+  "comments": [
+    {
+      "id": "npi9bkd",
+      "parent_id": "t3_1p0exur",
+      "author": "forbes",
+      "text_history": [
+        [
+          "Hackers use AI to generate attack code targeting AI infrastructure, and then getting compromised AI systems to find others to attack, researchers warn in a new report.[](https://bertie.forbes.com/#/compose?id=691c779b17cb2de76953e687)\n\nRead more: [https://go.forbes.com/253KNC](https://go.forbes.com/253KNC)",
+          "2025-11-18T13:49:29.425853"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T13:49:29.425853"
+        ],
+        [
+          1,
+          "2025-11-18T14:00:39.845508"
+        ],
+        [
+          1,
+          "2025-11-18T14:12:07.119299"
+        ],
+        [
+          1,
+          "2025-11-18T21:39:23.851427"
+        ],
+        [
+          1,
+          "2025-11-18T23:34:37.172192"
+        ],
+        [
+          1,
+          "2025-11-19T01:18:45.129750"
+        ]
+      ],
+      "created_utc": 1763479866.0,
+      "depth": 0,
+      "permalink": "/r/artificial/comments/1p0exur/ai_hacks_ai_cybercriminals_unleash_an_aipowered/npi9bkd/",
+      "is_submitter": true,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T01:18:45.129750",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/artificial/comments/1p0exur/ai_hacks_ai_cybercriminals_unleash_an_aipowered/",
+    "total_comments": 1,
+    "top_level_comments": 1,
+    "api_requests": 1,
+    "expected_comments": 1,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 6,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_134929.json",
+      "scrape_002_20251118_140039.json",
+      "scrape_003_20251118_141206.json",
+      "scrape_004_20251118_213923.json",
+      "scrape_005_20251118_233436.json",
+      "scrape_006_20251119_011844.json"
+    ]
+  }
+}

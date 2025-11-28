@@ -1,0 +1,538 @@
+{
+  "post": {
+    "id": "1ozluwq",
+    "title": "Built a Modular Agentic RAG System – Zero Boilerplate, Full Customization",
+    "author": "CapitalShake3085",
+    "score_history": [
+      [
+        7,
+        "2025-11-18T13:49:03.772306"
+      ],
+      [
+        5,
+        "2025-11-18T14:00:39.141162"
+      ],
+      [
+        6,
+        "2025-11-18T14:12:08.204657"
+      ],
+      [
+        6,
+        "2025-11-18T21:39:24.928137"
+      ],
+      [
+        5,
+        "2025-11-18T23:24:20.481165"
+      ],
+      [
+        5,
+        "2025-11-19T01:08:28.630681"
+      ]
+    ],
+    "created_utc": 1763399242.0,
+    "num_comments": 10,
+    "subreddit": "LangChain",
+    "url": "https://v.redd.it/5p57e3i6nu1g1",
+    "selftext": "Hey everyone!\n\nLast month I released a GitHub repo to help people understand Agentic RAG with LangGraph quickly with minimal code. The feedback was amazing, so I decided to take it further and build a **fully modular system** alongside the tutorial. \n\n## True Modularity – Swap Any Component Instantly\n\n- **LLM Provider?** One line change: Ollama → OpenAI → Claude → Gemini\n- **Chunking Strategy?** Edit one file, everything else stays the same\n- **Vector DB?** Swap Qdrant for Pinecone/Weaviate without touching agent logic\n- **Agent Workflow?** Add/remove nodes and edges in the graph\n- **System Prompts?** Customize behavior without touching core logic\n- **Embedding Model?** Single config change\n\n## Key Features\n\n✅ **Hierarchical Indexing** – Balance precision with context \n\n✅ **Conversation Memory** – Maintain context across interactions \n\n✅ **Query Clarification** – Human-in-the-loop validation \n\n✅ **Self-Correcting Agent** – Automatic error recovery \n\n✅ **Provider Agnostic** – Works with any LLM/vector DB \n\n✅ **Full Gradio UI** – Ready-to-use interface\n\n## [Link GitHub](https://github.com/GiovanniPasq/Agentic-RAG-for-Dummies)",
+    "permalink": "/r/LangChain/comments/1ozluwq/built_a_modular_agentic_rag_system_zero/"
+  },
+  "comments": [
+    {
+      "id": "npe8rwf",
+      "parent_id": "t3_1ozluwq",
+      "author": "BeerBatteredHemroids",
+      "text_history": [
+        [
+          "This has been done a hundred different ways.",
+          "2025-11-18T13:49:03.772306"
+        ]
+      ],
+      "score_history": [
+        [
+          0,
+          "2025-11-18T13:49:03.772306"
+        ],
+        [
+          0,
+          "2025-11-18T14:00:39.141162"
+        ],
+        [
+          0,
+          "2025-11-18T14:12:08.204657"
+        ],
+        [
+          0,
+          "2025-11-18T21:39:24.928137"
+        ],
+        [
+          0,
+          "2025-11-18T23:24:20.481165"
+        ],
+        [
+          0,
+          "2025-11-19T01:08:28.630681"
+        ]
+      ],
+      "created_utc": 1763418776.0,
+      "depth": 0,
+      "permalink": "/r/LangChain/comments/1ozluwq/built_a_modular_agentic_rag_system_zero/npe8rwf/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npe9moc",
+          "parent_id": "t1_npe8rwf",
+          "author": "CapitalShake3085",
+          "text_history": [
+            [
+              "Well, then mine will be the 101st. Maybe you could criticize some aspect of the implementation instead of limiting yourself to useless comments. Can’t you do any better?",
+              "2025-11-18T13:49:03.772306"
+            ]
+          ],
+          "score_history": [
+            [
+              4,
+              "2025-11-18T13:49:03.772306"
+            ],
+            [
+              4,
+              "2025-11-18T14:00:39.141162"
+            ],
+            [
+              4,
+              "2025-11-18T14:12:08.204657"
+            ],
+            [
+              3,
+              "2025-11-18T21:39:24.928137"
+            ],
+            [
+              3,
+              "2025-11-18T23:24:20.481165"
+            ],
+            [
+              5,
+              "2025-11-19T01:08:28.630681"
+            ]
+          ],
+          "created_utc": 1763419056.0,
+          "depth": 1,
+          "permalink": "/r/LangChain/comments/1ozluwq/built_a_modular_agentic_rag_system_zero/npe9moc/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": 1763419754.0,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npcpl1s",
+      "parent_id": "t3_1ozluwq",
+      "author": "SerDetestable",
+      "text_history": [
+        [
+          "Stupid speeded up fake videos",
+          "2025-11-18T13:49:03.772306"
+        ]
+      ],
+      "score_history": [
+        [
+          -1,
+          "2025-11-18T13:49:03.772306"
+        ],
+        [
+          -1,
+          "2025-11-18T14:00:39.141162"
+        ],
+        [
+          -1,
+          "2025-11-18T14:12:08.204657"
+        ],
+        [
+          -1,
+          "2025-11-18T21:39:24.928137"
+        ],
+        [
+          -1,
+          "2025-11-18T23:24:20.481165"
+        ],
+        [
+          -1,
+          "2025-11-19T01:08:28.630681"
+        ]
+      ],
+      "created_utc": 1763402215.0,
+      "depth": 0,
+      "permalink": "/r/LangChain/comments/1ozluwq/built_a_modular_agentic_rag_system_zero/npcpl1s/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npct63f",
+          "parent_id": "t1_npcpl1s",
+          "author": "CapitalShake3085",
+          "text_history": [
+            [
+              "Did you try the repo? Or do you just like talking bullshit? 🤡",
+              "2025-11-18T13:49:03.772306"
+            ]
+          ],
+          "score_history": [
+            [
+              0,
+              "2025-11-18T13:49:03.772306"
+            ],
+            [
+              0,
+              "2025-11-18T14:00:39.141162"
+            ],
+            [
+              0,
+              "2025-11-18T14:12:08.204657"
+            ],
+            [
+              0,
+              "2025-11-18T21:39:24.928137"
+            ],
+            [
+              0,
+              "2025-11-18T23:24:20.481165"
+            ],
+            [
+              0,
+              "2025-11-19T01:08:28.630681"
+            ]
+          ],
+          "created_utc": 1763403238.0,
+          "depth": 1,
+          "permalink": "/r/LangChain/comments/1ozluwq/built_a_modular_agentic_rag_system_zero/npct63f/",
+          "is_submitter": true,
+          "controversiality": 1,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npcy17v",
+              "parent_id": "t1_npct63f",
+              "author": "SerDetestable",
+              "text_history": [
+                [
+                  "Is it bullshit? I think speeded up videos are red flags",
+                  "2025-11-18T13:49:03.772306"
+                ]
+              ],
+              "score_history": [
+                [
+                  -5,
+                  "2025-11-18T13:49:03.772306"
+                ],
+                [
+                  -3,
+                  "2025-11-18T14:00:39.141162"
+                ],
+                [
+                  -3,
+                  "2025-11-18T14:12:08.204657"
+                ],
+                [
+                  -3,
+                  "2025-11-18T21:39:24.928137"
+                ],
+                [
+                  -3,
+                  "2025-11-18T23:24:20.481165"
+                ],
+                [
+                  -4,
+                  "2025-11-19T01:08:28.630681"
+                ]
+              ],
+              "created_utc": 1763404632.0,
+              "depth": 2,
+              "permalink": "/r/LangChain/comments/1ozluwq/built_a_modular_agentic_rag_system_zero/npcy17v/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": [
+                {
+                  "id": "npd0m6u",
+                  "parent_id": "t1_npcy17v",
+                  "author": "Just-Message-9899",
+                  "text_history": [
+                    [
+                      "How stupid do you have to be to not realize that the video is deliberately sped up because its 100% of its purpose is to show the pipeline?",
+                      "2025-11-18T13:49:03.772306"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      2,
+                      "2025-11-18T13:49:03.772306"
+                    ],
+                    [
+                      2,
+                      "2025-11-18T14:00:39.141162"
+                    ],
+                    [
+                      2,
+                      "2025-11-18T14:12:08.204657"
+                    ],
+                    [
+                      2,
+                      "2025-11-18T21:39:24.928137"
+                    ],
+                    [
+                      2,
+                      "2025-11-18T23:24:20.481165"
+                    ],
+                    [
+                      2,
+                      "2025-11-19T01:08:28.630681"
+                    ]
+                  ],
+                  "created_utc": 1763405384.0,
+                  "depth": 3,
+                  "permalink": "/r/LangChain/comments/1ozluwq/built_a_modular_agentic_rag_system_zero/npd0m6u/",
+                  "is_submitter": false,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": [
+                    {
+                      "id": "npd78b3",
+                      "parent_id": "t1_npd0m6u",
+                      "author": "SerDetestable",
+                      "text_history": [
+                        [
+                          "Same pipeline as the other 1000 solutions. Processing time is a key point while comparing them. I assume that's obvious and for that reason discard anyone faking it.",
+                          "2025-11-18T13:49:03.772306"
+                        ]
+                      ],
+                      "score_history": [
+                        [
+                          -3,
+                          "2025-11-18T13:49:03.772306"
+                        ],
+                        [
+                          -2,
+                          "2025-11-18T14:00:39.141162"
+                        ],
+                        [
+                          -2,
+                          "2025-11-18T14:12:08.204657"
+                        ],
+                        [
+                          -3,
+                          "2025-11-18T21:39:24.928137"
+                        ],
+                        [
+                          -2,
+                          "2025-11-18T23:24:20.481165"
+                        ],
+                        [
+                          -4,
+                          "2025-11-19T01:08:28.630681"
+                        ]
+                      ],
+                      "created_utc": 1763407338.0,
+                      "depth": 4,
+                      "permalink": "/r/LangChain/comments/1ozluwq/built_a_modular_agentic_rag_system_zero/npd78b3/",
+                      "is_submitter": false,
+                      "controversiality": 0,
+                      "gilded": 0,
+                      "edited": false,
+                      "deleted": false,
+                      "deleted_at": null,
+                      "replies": [
+                        {
+                          "id": "npd8553",
+                          "parent_id": "t1_npd78b3",
+                          "author": "CapitalShake3085",
+                          "text_history": [
+                            [
+                              "**Processing time depends on the flow, hardware and the models you’re using; if you’re working through APIs, you also get internet latency and all that fun stuff, just so you know :) And anyway, if you don’t like the project (which is open source and MIT-licensed, so I’m not asking anything from anyone), you can just move on or look for something else. You don’t seem like a programmer to me, just a pain in the ass :D**\n\n**Also, you went from saying the video is fake to saying you don’t like it — learn to use the right words, kid**",
+                              "2025-11-18T13:49:03.772306"
+                            ]
+                          ],
+                          "score_history": [
+                            [
+                              2,
+                              "2025-11-18T13:49:03.772306"
+                            ],
+                            [
+                              2,
+                              "2025-11-18T14:00:39.141162"
+                            ],
+                            [
+                              2,
+                              "2025-11-18T14:12:08.204657"
+                            ],
+                            [
+                              2,
+                              "2025-11-18T21:39:24.928137"
+                            ],
+                            [
+                              2,
+                              "2025-11-18T23:24:20.481165"
+                            ],
+                            [
+                              2,
+                              "2025-11-19T01:08:28.630681"
+                            ]
+                          ],
+                          "created_utc": 1763407613.0,
+                          "depth": 5,
+                          "permalink": "/r/LangChain/comments/1ozluwq/built_a_modular_agentic_rag_system_zero/npd8553/",
+                          "is_submitter": true,
+                          "controversiality": 0,
+                          "gilded": 0,
+                          "edited": 1763410803.0,
+                          "deleted": false,
+                          "deleted_at": null,
+                          "replies": [
+                            {
+                              "id": "npdcgfo",
+                              "parent_id": "t1_npd8553",
+                              "author": "SerDetestable",
+                              "text_history": [
+                                [
+                                  "Now say it without crying",
+                                  "2025-11-18T13:49:03.772306"
+                                ]
+                              ],
+                              "score_history": [
+                                [
+                                  -2,
+                                  "2025-11-18T13:49:03.772306"
+                                ],
+                                [
+                                  -2,
+                                  "2025-11-18T14:00:39.141162"
+                                ],
+                                [
+                                  -2,
+                                  "2025-11-18T14:12:08.204657"
+                                ],
+                                [
+                                  -2,
+                                  "2025-11-18T21:39:24.928137"
+                                ],
+                                [
+                                  -2,
+                                  "2025-11-18T23:24:20.481165"
+                                ],
+                                [
+                                  -2,
+                                  "2025-11-19T01:08:28.630681"
+                                ]
+                              ],
+                              "created_utc": 1763408905.0,
+                              "depth": 6,
+                              "permalink": "/r/LangChain/comments/1ozluwq/built_a_modular_agentic_rag_system_zero/npdcgfo/",
+                              "is_submitter": false,
+                              "controversiality": 0,
+                              "gilded": 0,
+                              "edited": false,
+                              "deleted": false,
+                              "deleted_at": null,
+                              "replies": [
+                                {
+                                  "id": "npddk9a",
+                                  "parent_id": "t1_npdcgfo",
+                                  "author": "CapitalShake3085",
+                                  "text_history": [
+                                    [
+                                      "Yes, of course, you write with less frustration",
+                                      "2025-11-18T13:49:03.772306"
+                                    ]
+                                  ],
+                                  "score_history": [
+                                    [
+                                      3,
+                                      "2025-11-18T13:49:03.772306"
+                                    ],
+                                    [
+                                      3,
+                                      "2025-11-18T14:00:39.141162"
+                                    ],
+                                    [
+                                      3,
+                                      "2025-11-18T14:12:08.204657"
+                                    ],
+                                    [
+                                      3,
+                                      "2025-11-18T21:39:24.928137"
+                                    ],
+                                    [
+                                      3,
+                                      "2025-11-18T23:24:20.481165"
+                                    ],
+                                    [
+                                      3,
+                                      "2025-11-19T01:08:28.630681"
+                                    ]
+                                  ],
+                                  "created_utc": 1763409234.0,
+                                  "depth": 7,
+                                  "permalink": "/r/LangChain/comments/1ozluwq/built_a_modular_agentic_rag_system_zero/npddk9a/",
+                                  "is_submitter": true,
+                                  "controversiality": 0,
+                                  "gilded": 0,
+                                  "edited": false,
+                                  "deleted": false,
+                                  "deleted_at": null,
+                                  "replies": []
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T01:08:28.630681",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/LangChain/comments/1ozluwq/built_a_modular_agentic_rag_system_zero/",
+    "total_comments": 10,
+    "top_level_comments": 2,
+    "api_requests": 1,
+    "expected_comments": 10,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 6,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_134903.json",
+      "scrape_002_20251118_140038.json",
+      "scrape_003_20251118_141207.json",
+      "scrape_004_20251118_213924.json",
+      "scrape_005_20251118_232420.json",
+      "scrape_006_20251119_010828.json"
+    ]
+  }
+}

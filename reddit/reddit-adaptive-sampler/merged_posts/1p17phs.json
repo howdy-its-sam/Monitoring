@@ -1,0 +1,79 @@
+{
+  "post": {
+    "id": "1p17phs",
+    "title": "Where are all the great works done with the proliferation of intelligence/tools through AI(LLMs, image gen, sound gen etc.)?",
+    "author": "CheekyBastard55",
+    "score_history": [
+      [
+        1,
+        "2025-11-19T05:31:17.305212"
+      ],
+      [
+        1,
+        "2025-11-19T05:31:17.765953"
+      ],
+      [
+        1,
+        "2025-11-19T05:31:18.309648"
+      ],
+      [
+        1,
+        "2025-11-19T05:31:18.869296"
+      ],
+      [
+        1,
+        "2025-11-19T05:31:19.329990"
+      ],
+      [
+        1,
+        "2025-11-19T05:31:19.860382"
+      ],
+      [
+        1,
+        "2025-11-19T05:31:20.354558"
+      ],
+      [
+        1,
+        "2025-11-19T05:31:20.893152"
+      ],
+      [
+        1,
+        "2025-11-19T05:31:21.370816"
+      ],
+      [
+        1,
+        "2025-11-19T05:31:21.884401"
+      ]
+    ],
+    "created_utc": 1763558973.0,
+    "num_comments": 0,
+    "subreddit": "singularity",
+    "url": "https://www.reddit.com/r/singularity/comments/1p17phs/where_are_all_the_great_works_done_with_the/",
+    "selftext": "Always wondered with the hype AI tools get, why don't people create something with them? It's always a simple wrapper on a chatbot or image gen.\n\nWe have image gen for textures and everything, sound gen, music gen, voice gen, coding and creative help through the LLMs.\n\nAnyone have link to something impressive done with these tools? Maybe a game that isn't a single shot prompt of an already made game? Something that synergizes all the tools available.",
+    "permalink": "/r/singularity/comments/1p17phs/where_are_all_the_great_works_done_with_the/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T05:31:21.884401",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/singularity/comments/1p17phs/where_are_all_the_great_works_done_with_the/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 10,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_053117.json",
+      "scrape_002_20251119_053117.json",
+      "scrape_003_20251119_053118.json",
+      "scrape_004_20251119_053118.json",
+      "scrape_005_20251119_053119.json",
+      "scrape_006_20251119_053119.json",
+      "scrape_007_20251119_053120.json",
+      "scrape_008_20251119_053120.json",
+      "scrape_009_20251119_053121.json",
+      "scrape_010_20251119_053121.json"
+    ]
+  }
+}

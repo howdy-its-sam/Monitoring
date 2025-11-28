@@ -1,0 +1,69 @@
+{
+  "post": {
+    "id": "1p09uet",
+    "title": "\"You're absolutely right\"",
+    "author": "100xBot",
+    "score_history": [
+      [
+        0,
+        "2025-11-18T12:51:38.468822"
+      ],
+      [
+        0,
+        "2025-11-18T13:03:56.555070"
+      ],
+      [
+        0,
+        "2025-11-18T13:15:50.161326"
+      ],
+      [
+        0,
+        "2025-11-18T13:46:29.446133"
+      ],
+      [
+        0,
+        "2025-11-18T13:49:31.426490"
+      ],
+      [
+        0,
+        "2025-11-18T14:00:51.881272"
+      ],
+      [
+        0,
+        "2025-11-18T21:29:02.941953"
+      ],
+      [
+        0,
+        "2025-11-19T00:05:07.360100"
+      ]
+    ],
+    "created_utc": 1763466471.0,
+    "num_comments": 0,
+    "subreddit": "AgentsOfAI",
+    "url": "https://i.redd.it/pgwmotb7702g1.png",
+    "selftext": "",
+    "permalink": "/r/AgentsOfAI/comments/1p09uet/youre_absolutely_right/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T00:05:07.360100",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/AgentsOfAI/comments/1p09uet/youre_absolutely_right/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 8,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_125138.json",
+      "scrape_002_20251118_130356.json",
+      "scrape_003_20251118_131549.json",
+      "scrape_004_20251118_134629.json",
+      "scrape_005_20251118_134931.json",
+      "scrape_006_20251118_140051.json",
+      "scrape_007_20251118_212902.json",
+      "scrape_008_20251119_000507.json"
+    ]
+  }
+}

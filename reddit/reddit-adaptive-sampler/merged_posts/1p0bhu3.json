@@ -1,0 +1,186 @@
+{
+  "post": {
+    "id": "1p0bhu3",
+    "title": "Prompt to summarize reddit threads",
+    "author": "ins-trader",
+    "score_history": [
+      [
+        3,
+        "2025-11-19T03:29:07.801719"
+      ],
+      [
+        3,
+        "2025-11-19T03:39:12.705830"
+      ],
+      [
+        3,
+        "2025-11-19T03:41:29.350107"
+      ]
+    ],
+    "created_utc": 1763471364.0,
+    "num_comments": 4,
+    "subreddit": "ChatGPTPro",
+    "url": "https://www.reddit.com/r/ChatGPTPro/comments/1p0bhu3/prompt_to_summarize_reddit_threads/",
+    "selftext": "Hey everyone,\n\nI want to create an efficient workflow to summarize long Reddit threads using LLMs. My current idea is:\n\n1. Save the entire thread as a PDF (using tools like “Save to PDF”).\n2. Upload the PDF into ChatGPT or another LLM.\n3. Use an optimized prompt to generate a clear, organized, and useful summary.\n\n**1. Are there LLMs better than ChatGPT for summarizing long threads?**\n\nIf anyone has compared models (Claude, Gemini, Perplexity, Llama, Grok, etc.) specifically for long-text summarization, I’d love to hear your experiences.\n\nThanks in advance!",
+    "permalink": "/r/ChatGPTPro/comments/1p0bhu3/prompt_to_summarize_reddit_threads/"
+  },
+  "comments": [
+    {
+      "id": "nphirjo",
+      "parent_id": "t3_1p0bhu3",
+      "author": "qualityvote2",
+      "text_history": [
+        [
+          "Hello u/ins-trader 👋 Welcome to r/ChatGPTPro!  \nThis is a community for advanced ChatGPT, AI tools, and prompt engineering discussions.  \nOther members will now vote on whether your post fits our community guidelines.\n\n\n---\n\nFor other users, does this post fit the subreddit?\n\nIf so, **upvote this comment!**\n\nOtherwise, **downvote this comment!**\n\nAnd if it does break the rules, **downvote this comment and report this post!**",
+          "2025-11-19T03:29:07.801719"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T03:29:07.801719"
+        ],
+        [
+          1,
+          "2025-11-19T03:39:12.705830"
+        ],
+        [
+          1,
+          "2025-11-19T03:41:29.350107"
+        ]
+      ],
+      "created_utc": 1763471366.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTPro/comments/1p0bhu3/prompt_to_summarize_reddit_threads/nphirjo/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npkuouh",
+          "parent_id": "t1_nphirjo",
+          "author": "Whateverman1313",
+          "text_history": [
+            [
+              "This post seems fine to me! Summarizing threads is super useful and fits right in with AI discussions. Hope you get some good feedback on the LLM options!",
+              "2025-11-19T03:29:07.801719"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-19T03:29:07.801719"
+            ],
+            [
+              1,
+              "2025-11-19T03:39:12.705830"
+            ],
+            [
+              1,
+              "2025-11-19T03:41:29.350107"
+            ]
+          ],
+          "created_utc": 1763507947.0,
+          "depth": 1,
+          "permalink": "/r/ChatGPTPro/comments/1p0bhu3/prompt_to_summarize_reddit_threads/npkuouh/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npj5nhw",
+      "parent_id": "t3_1p0bhu3",
+      "author": "tarunag10",
+      "text_history": [
+        [
+          "ChatGPT should do your job well based on your use case.",
+          "2025-11-19T03:29:07.801719"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T03:29:07.801719"
+        ],
+        [
+          1,
+          "2025-11-19T03:39:12.705830"
+        ],
+        [
+          1,
+          "2025-11-19T03:41:29.350107"
+        ]
+      ],
+      "created_utc": 1763489344.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTPro/comments/1p0bhu3/prompt_to_summarize_reddit_threads/npj5nhw/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npmh7zs",
+      "parent_id": "t3_1p0bhu3",
+      "author": "Reidinski",
+      "text_history": [
+        [
+          "I honestly think all you need to do is feed it to Chat and tell it to give you a concise summary in paragraph form. (Otherwise you might get a buttload of bullet points)",
+          "2025-11-19T03:29:07.801719"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T03:29:07.801719"
+        ],
+        [
+          1,
+          "2025-11-19T03:39:12.705830"
+        ],
+        [
+          1,
+          "2025-11-19T03:41:29.350107"
+        ]
+      ],
+      "created_utc": 1763530193.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTPro/comments/1p0bhu3/prompt_to_summarize_reddit_threads/npmh7zs/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:41:29.350107",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/ChatGPTPro/comments/1p0bhu3/prompt_to_summarize_reddit_threads/",
+    "total_comments": 4,
+    "top_level_comments": 3,
+    "api_requests": 2,
+    "expected_comments": 4,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_032905.json",
+      "scrape_002_20251119_033910.json",
+      "scrape_003_20251119_034126.json"
+    ]
+  }
+}

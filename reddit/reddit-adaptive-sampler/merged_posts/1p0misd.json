@@ -1,0 +1,388 @@
+{
+  "post": {
+    "id": "1p0misd",
+    "title": "Is MOMENTUM BY movementlabs.ai GLM 4.6? I don't think so.",
+    "author": "Vast_Cupcake1039",
+    "score_history": [
+      [
+        35,
+        "2025-11-18T15:16:50.340193"
+      ],
+      [
+        35,
+        "2025-11-18T23:13:58.984149"
+      ],
+      [
+        33,
+        "2025-11-19T00:58:03.798593"
+      ],
+      [
+        31,
+        "2025-11-19T02:32:53.549587"
+      ],
+      [
+        31,
+        "2025-11-19T02:36:26.270582"
+      ]
+    ],
+    "created_utc": 1763496727.0,
+    "num_comments": 9,
+    "subreddit": "LocalLLaMA",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1p0misd/is_momentum_by_movementlabsai_glm_46_i_dont_think/",
+    "selftext": "After looking around the web i have decided to do a few tests myself for cerebers GLM 4.6 and Momentum by [movementlabs.ai](http://movementlabs.ai) \\- i decided to test this prompt for myself and boy oh boy totally different results\n\nhttps://reddit.com/link/1p0misd/video/o2di8w46o22g1/player\n\n\n\n[Movementlabs.ai pelican riding bike svg](https://reddit.com/link/1p0misd/video/hdd8nmbin22g1/player)\n\n[Cerebras Pelican riding bike svg test](https://preview.redd.it/kwxtxiybo22g1.png?width=2490&amp;format=png&amp;auto=webp&amp;s=e24064794b92d7236a70fa6f6e7a49733bc95a64)\n\nhttps://preview.redd.it/ymnyffmgo22g1.png?width=2948&amp;format=png&amp;auto=webp&amp;s=1271f5ec5fad4ebc6ea0d81e8fec2f72099f31f7\n\nhttps://preview.redd.it/kouvkd1io22g1.png?width=2350&amp;format=png&amp;auto=webp&amp;s=5cf3b4d8d54fe3753deede1c08d0cb71bcfeda4f\n\n  \n\n\nhttps://preview.redd.it/1dr8tnfuo22g1.png?width=1920&amp;format=png&amp;auto=webp&amp;s=60612b690a96fe2a9c6a7c5c2e68023040c63cdc\n\nhttps://preview.redd.it/g14yrt6zo22g1.png?width=1772&amp;format=png&amp;auto=webp&amp;s=aeb016ad37aef39b2f7f9313011cce3e253fe16c\n\n  \n\n\nhttps://preview.redd.it/4gouxbx0p22g1.png?width=1704&amp;format=png&amp;auto=webp&amp;s=a70e94a7efd85d5e2214d51ca8fae955616f2282\n\nLet me know your thoughts.. ",
+    "permalink": "/r/LocalLLaMA/comments/1p0misd/is_momentum_by_movementlabsai_glm_46_i_dont_think/"
+  },
+  "comments": [
+    {
+      "id": "npjz7zn",
+      "parent_id": "t3_1p0misd",
+      "author": "Cool-Chemical-5629",
+      "text_history": [
+        [
+          "\"Momentum was trained using a diverse mixture of high-quality open source models (including Qwen, the GLM series, Llama/Ollama variants, and others)...\"\n\n  \nI didn't know Ollama was a model... 😏",
+          "2025-11-18T15:16:50.340193"
+        ]
+      ],
+      "score_history": [
+        [
+          9,
+          "2025-11-18T15:16:50.340193"
+        ],
+        [
+          13,
+          "2025-11-18T23:13:58.984149"
+        ],
+        [
+          14,
+          "2025-11-19T00:58:03.798593"
+        ],
+        [
+          16,
+          "2025-11-19T02:32:53.549587"
+        ],
+        [
+          15,
+          "2025-11-19T02:36:26.270582"
+        ]
+      ],
+      "created_utc": 1763498095.0,
+      "depth": 0,
+      "permalink": "/r/LocalLLaMA/comments/1p0misd/is_momentum_by_movementlabsai_glm_46_i_dont_think/npjz7zn/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npko311",
+      "parent_id": "t3_1p0misd",
+      "author": "cosimoiaia",
+      "text_history": [
+        [
+          "It's a yet another data harvesting platform, why is it relevant to this sub? It's neither local or open.",
+          "2025-11-18T15:16:50.340193"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-18T15:16:50.340193"
+        ],
+        [
+          3,
+          "2025-11-18T23:13:58.984149"
+        ],
+        [
+          5,
+          "2025-11-19T00:58:03.798593"
+        ],
+        [
+          5,
+          "2025-11-19T02:32:53.549587"
+        ],
+        [
+          5,
+          "2025-11-19T02:36:26.270582"
+        ]
+      ],
+      "created_utc": 1763505699.0,
+      "depth": 0,
+      "permalink": "/r/LocalLLaMA/comments/1p0misd/is_momentum_by_movementlabsai_glm_46_i_dont_think/npko311/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npmpwfd",
+      "parent_id": "t3_1p0misd",
+      "author": "NandaVegg",
+      "text_history": [
+        [
+          "They are caught by Chinese forum using the Reflection method, but they are still trying to improve the pattern match.\n\nhttps://preview.redd.it/yj9zmfx3u52g1.png?width=1665&amp;format=png&amp;auto=webp&amp;s=5a08d0720b58bf6c1496db3534a3e029488014f8\n\nSee:  [https://linux.do/t/topic/1182920/65](https://linux.do/t/topic/1182920/65)",
+          "2025-11-18T23:13:58.984149"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-18T23:13:58.984149"
+        ],
+        [
+          3,
+          "2025-11-19T00:58:03.798593"
+        ],
+        [
+          3,
+          "2025-11-19T02:32:53.549587"
+        ],
+        [
+          3,
+          "2025-11-19T02:36:26.270582"
+        ]
+      ],
+      "created_utc": 1763534750.0,
+      "depth": 0,
+      "permalink": "/r/LocalLLaMA/comments/1p0misd/is_momentum_by_movementlabsai_glm_46_i_dont_think/npmpwfd/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npmxa63",
+      "parent_id": "t3_1p0misd",
+      "author": "RevolutionaryLime758",
+      "text_history": [
+        [
+          "Shill",
+          "2025-11-19T00:58:03.798593"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T00:58:03.798593"
+        ],
+        [
+          2,
+          "2025-11-19T02:32:53.549587"
+        ],
+        [
+          2,
+          "2025-11-19T02:36:26.270582"
+        ]
+      ],
+      "created_utc": 1763539076.0,
+      "depth": 0,
+      "permalink": "/r/LocalLLaMA/comments/1p0misd/is_momentum_by_movementlabsai_glm_46_i_dont_think/npmxa63/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npjv997",
+      "parent_id": "t3_1p0misd",
+      "author": "urekmazino_0",
+      "text_history": [
+        [
+          "First time hearing about it, is it open source?",
+          "2025-11-18T15:16:50.340193"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T15:16:50.340193"
+        ],
+        [
+          1,
+          "2025-11-18T23:13:58.984149"
+        ],
+        [
+          1,
+          "2025-11-19T00:58:03.798593"
+        ],
+        [
+          1,
+          "2025-11-19T02:32:53.549587"
+        ],
+        [
+          1,
+          "2025-11-19T02:36:26.270582"
+        ]
+      ],
+      "created_utc": 1763496879.0,
+      "depth": 0,
+      "permalink": "/r/LocalLLaMA/comments/1p0misd/is_momentum_by_movementlabsai_glm_46_i_dont_think/npjv997/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npjvjo2",
+          "parent_id": "t1_npjv997",
+          "author": "Vast_Cupcake1039",
+          "text_history": [
+            [
+              "not sure if open or not i think on discord someone did say they will open source a smaller model.",
+              "2025-11-18T15:16:50.340193"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T15:16:50.340193"
+            ],
+            [
+              1,
+              "2025-11-18T23:13:58.984149"
+            ],
+            [
+              -1,
+              "2025-11-19T00:58:03.798593"
+            ],
+            [
+              -1,
+              "2025-11-19T02:32:53.549587"
+            ],
+            [
+              -1,
+              "2025-11-19T02:36:26.270582"
+            ]
+          ],
+          "created_utc": 1763496967.0,
+          "depth": 1,
+          "permalink": "/r/LocalLLaMA/comments/1p0misd/is_momentum_by_movementlabsai_glm_46_i_dont_think/npjvjo2/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        },
+        {
+          "id": "npjvh2u",
+          "parent_id": "t1_npjv997",
+          "author": "Vast_Cupcake1039",
+          "text_history": [
+            [
+              "People around the web saying its GLM 4.6 but i highly doubt it so i open this thread. Try your own prompts with both sites and see.",
+              "2025-11-18T15:16:50.340193"
+            ]
+          ],
+          "score_history": [
+            [
+              0,
+              "2025-11-18T15:16:50.340193"
+            ],
+            [
+              0,
+              "2025-11-18T23:13:58.984149"
+            ],
+            [
+              -2,
+              "2025-11-19T00:58:03.798593"
+            ],
+            [
+              -2,
+              "2025-11-19T02:32:53.549587"
+            ],
+            [
+              -2,
+              "2025-11-19T02:36:26.270582"
+            ]
+          ],
+          "created_utc": 1763496946.0,
+          "depth": 1,
+          "permalink": "/r/LocalLLaMA/comments/1p0misd/is_momentum_by_movementlabsai_glm_46_i_dont_think/npjvh2u/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npjx4k4",
+      "parent_id": "t3_1p0misd",
+      "author": "ilintar",
+      "text_history": [
+        [
+          "My \"Momentum is not GLM 4.6\" t-shirt has a lot of people asking questions already answered by the shirt.",
+          "2025-11-18T15:16:50.340193"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T15:16:50.340193"
+        ],
+        [
+          1,
+          "2025-11-18T23:13:58.984149"
+        ],
+        [
+          1,
+          "2025-11-19T00:58:03.798593"
+        ],
+        [
+          1,
+          "2025-11-19T02:32:53.549587"
+        ],
+        [
+          1,
+          "2025-11-19T02:36:26.270582"
+        ]
+      ],
+      "created_utc": 1763497450.0,
+      "depth": 0,
+      "permalink": "/r/LocalLLaMA/comments/1p0misd/is_momentum_by_movementlabsai_glm_46_i_dont_think/npjx4k4/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T02:36:26.270582",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/LocalLLaMA/comments/1p0misd/is_momentum_by_movementlabsai_glm_46_i_dont_think/",
+    "total_comments": 8,
+    "top_level_comments": 6,
+    "api_requests": 1,
+    "expected_comments": 9,
+    "coverage_percent": 88.89,
+    "merged_snapshot_count": 5,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_151650.json",
+      "scrape_002_20251118_231358.json",
+      "scrape_003_20251119_005803.json",
+      "scrape_004_20251119_023253.json",
+      "scrape_005_20251119_023626.json"
+    ]
+  }
+}

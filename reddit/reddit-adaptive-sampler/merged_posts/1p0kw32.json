@@ -1,0 +1,1778 @@
+{
+  "post": {
+    "id": "1p0kw32",
+    "title": "7 fingers test",
+    "author": "Lazyworm1985",
+    "score_history": [
+      [
+        92,
+        "2025-11-19T02:55:37.614377"
+      ],
+      [
+        96,
+        "2025-11-19T03:03:40.665955"
+      ],
+      [
+        95,
+        "2025-11-19T03:06:54.835513"
+      ]
+    ],
+    "created_utc": 1763493041.0,
+    "num_comments": 50,
+    "subreddit": "singularity",
+    "url": "https://i.redd.it/scjihgs7e22g1.jpeg",
+    "selftext": "First test and Gemini got it wrong. I helped it multiple times. After a while, it understood that there are 7 digits. With a little more help, it finally understood that there are 2 thumbs and 5 fingers. A little disappointing. What is your experience?",
+    "permalink": "/r/singularity/comments/1p0kw32/7_fingers_test/"
+  },
+  "comments": [
+    {
+      "id": "npjmvh6",
+      "parent_id": "t3_1p0kw32",
+      "author": "Designer_Umpire3195",
+      "text_history": [
+        [
+          "https://preview.redd.it/h3ev9tf1i22g1.png?width=514&amp;format=png&amp;auto=webp&amp;s=cce3431fb1e65e26df96fe9962fc1c8e3fd25c2f\n\ndid it and it answered correctly on the first try. Idk which model you used",
+          "2025-11-19T02:55:37.614377"
+        ]
+      ],
+      "score_history": [
+        [
+          84,
+          "2025-11-19T02:55:37.614377"
+        ],
+        [
+          86,
+          "2025-11-19T03:03:40.665955"
+        ],
+        [
+          82,
+          "2025-11-19T03:06:54.835513"
+        ]
+      ],
+      "created_utc": 1763494360.0,
+      "depth": 0,
+      "permalink": "/r/singularity/comments/1p0kw32/7_fingers_test/npjmvh6/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npjrbpv",
+          "parent_id": "t1_npjmvh6",
+          "author": "Redditing-Dutchman",
+          "text_history": [
+            [
+              "I always think that different answers for different users is actually worse than just plain wrong every time. The absence of any sort of consistency is a big issue.",
+              "2025-11-19T02:55:37.614377"
+            ]
+          ],
+          "score_history": [
+            [
+              65,
+              "2025-11-19T02:55:37.614377"
+            ],
+            [
+              69,
+              "2025-11-19T03:03:40.665955"
+            ],
+            [
+              71,
+              "2025-11-19T03:06:54.835513"
+            ]
+          ],
+          "created_utc": 1763495688.0,
+          "depth": 1,
+          "permalink": "/r/singularity/comments/1p0kw32/7_fingers_test/npjrbpv/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npjts17",
+              "parent_id": "t1_npjrbpv",
+              "author": "[deleted]",
+              "text_history": [
+                [
+                  "100%",
+                  "2025-11-19T02:55:37.614377"
+                ]
+              ],
+              "score_history": [
+                [
+                  8,
+                  "2025-11-19T02:55:37.614377"
+                ],
+                [
+                  11,
+                  "2025-11-19T03:03:40.665955"
+                ],
+                [
+                  7,
+                  "2025-11-19T03:06:54.835513"
+                ]
+              ],
+              "created_utc": 1763496430.0,
+              "depth": 2,
+              "permalink": "/r/singularity/comments/1p0kw32/7_fingers_test/npjts17/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            },
+            {
+              "id": "npkqu1d",
+              "parent_id": "t1_npjrbpv",
+              "author": "dptgreg",
+              "text_history": [
+                [
+                  "Kinda like a human, huh?",
+                  "2025-11-19T02:55:37.614377"
+                ]
+              ],
+              "score_history": [
+                [
+                  4,
+                  "2025-11-19T02:55:37.614377"
+                ],
+                [
+                  7,
+                  "2025-11-19T03:03:40.665955"
+                ],
+                [
+                  6,
+                  "2025-11-19T03:06:54.835513"
+                ]
+              ],
+              "created_utc": 1763506616.0,
+              "depth": 2,
+              "permalink": "/r/singularity/comments/1p0kw32/7_fingers_test/npkqu1d/",
+              "is_submitter": false,
+              "controversiality": 1,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": [
+                {
+                  "id": "npktseo",
+                  "parent_id": "t1_npkqu1d",
+                  "author": "WhenRomeIn",
+                  "text_history": [
+                    [
+                      "We want it to be more reliable than a human.. that's then point.",
+                      "2025-11-19T02:55:37.614377"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      9,
+                      "2025-11-19T02:55:37.614377"
+                    ],
+                    [
+                      8,
+                      "2025-11-19T03:03:40.665955"
+                    ],
+                    [
+                      7,
+                      "2025-11-19T03:06:54.835513"
+                    ]
+                  ],
+                  "created_utc": 1763507633.0,
+                  "depth": 3,
+                  "permalink": "/r/singularity/comments/1p0kw32/7_fingers_test/npktseo/",
+                  "is_submitter": false,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": [
+                    {
+                      "id": "nplfh4o",
+                      "parent_id": "t1_npktseo",
+                      "author": "Alternative_Pilot_92",
+                      "text_history": [
+                        [
+                          "Damn that's an ironic typo.",
+                          "2025-11-19T02:55:37.614377"
+                        ]
+                      ],
+                      "score_history": [
+                        [
+                          10,
+                          "2025-11-19T02:55:37.614377"
+                        ],
+                        [
+                          9,
+                          "2025-11-19T03:03:40.665955"
+                        ],
+                        [
+                          10,
+                          "2025-11-19T03:06:54.835513"
+                        ]
+                      ],
+                      "created_utc": 1763515316.0,
+                      "depth": 4,
+                      "permalink": "/r/singularity/comments/1p0kw32/7_fingers_test/nplfh4o/",
+                      "is_submitter": false,
+                      "controversiality": 0,
+                      "gilded": 0,
+                      "edited": false,
+                      "deleted": false,
+                      "deleted_at": null,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "npnaxa5",
+                  "parent_id": "t1_npkqu1d",
+                  "author": "Kupo_Master",
+                  "text_history": [
+                    [
+                      "How reliable would a human be on this test you think?",
+                      "2025-11-19T02:55:37.614377"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      1,
+                      "2025-11-19T02:55:37.614377"
+                    ],
+                    [
+                      1,
+                      "2025-11-19T03:03:40.665955"
+                    ],
+                    [
+                      1,
+                      "2025-11-19T03:06:54.835513"
+                    ]
+                  ],
+                  "created_utc": 1763547573.0,
+                  "depth": 3,
+                  "permalink": "/r/singularity/comments/1p0kw32/7_fingers_test/npnaxa5/",
+                  "is_submitter": false,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "npmsitc",
+              "parent_id": "t1_npjrbpv",
+              "author": "MediumRay",
+              "text_history": [
+                [
+                  "They can control this by setting the ‘temperature’ of the model ",
+                  "2025-11-19T02:55:37.614377"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-19T02:55:37.614377"
+                ],
+                [
+                  1,
+                  "2025-11-19T03:03:40.665955"
+                ],
+                [
+                  1,
+                  "2025-11-19T03:06:54.835513"
+                ]
+              ],
+              "created_utc": 1763536235.0,
+              "depth": 2,
+              "permalink": "/r/singularity/comments/1p0kw32/7_fingers_test/npmsitc/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            },
+            {
+              "id": "npkvz0f",
+              "parent_id": "t1_npjrbpv",
+              "author": "RedErin",
+              "text_history": [
+                [
+                  "it's an issue in humans too, i'm thinking its a feature not a bug",
+                  "2025-11-19T02:55:37.614377"
+                ]
+              ],
+              "score_history": [
+                [
+                  -2,
+                  "2025-11-19T02:55:37.614377"
+                ],
+                [
+                  -5,
+                  "2025-11-19T03:03:40.665955"
+                ],
+                [
+                  -5,
+                  "2025-11-19T03:06:54.835513"
+                ]
+              ],
+              "created_utc": 1763508396.0,
+              "depth": 2,
+              "permalink": "/r/singularity/comments/1p0kw32/7_fingers_test/npkvz0f/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "npjs7s3",
+          "parent_id": "t1_npjmvh6",
+          "author": "plasticizers_",
+          "text_history": [
+            [
+              "Not for me, but it did try to demonstrate its reasoning with colors. https://imgur.com/a/vp268ji\n\nAfter I explained its error, it did come up with 7 fingers however https://imgur.com/a/mEh9pRR lol",
+              "2025-11-19T02:55:37.614377"
+            ]
+          ],
+          "score_history": [
+            [
+              11,
+              "2025-11-19T02:55:37.614377"
+            ],
+            [
+              10,
+              "2025-11-19T03:03:40.665955"
+            ],
+            [
+              9,
+              "2025-11-19T03:06:54.835513"
+            ]
+          ],
+          "created_utc": 1763495953.0,
+          "depth": 1,
+          "permalink": "/r/singularity/comments/1p0kw32/7_fingers_test/npjs7s3/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "nplrkyt",
+              "parent_id": "t1_npjs7s3",
+              "author": "LostRespectFeds",
+              "text_history": [
+                [
+                  "Gemini 3 Pro seems to be much better on AI Studio than the Gemini site for some reason. Got it right more times on AI Studio than the Gemini site.",
+                  "2025-11-19T02:55:37.614377"
+                ]
+              ],
+              "score_history": [
+                [
+                  5,
+                  "2025-11-19T02:55:37.614377"
+                ],
+                [
+                  5,
+                  "2025-11-19T03:03:40.665955"
+                ],
+                [
+                  4,
+                  "2025-11-19T03:06:54.835513"
+                ]
+              ],
+              "created_utc": 1763519660.0,
+              "depth": 2,
+              "permalink": "/r/singularity/comments/1p0kw32/7_fingers_test/nplrkyt/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": [
+                {
+                  "id": "npm0bvg",
+                  "parent_id": "t1_nplrkyt",
+                  "author": "redwins",
+                  "text_history": [
+                    [
+                      "The reason is that they're more interested in learning than in making a bit of money with the Gemini site. What they're making with the site is peanuts compared with what they'll make with a future model that will replace a large percentage of jobs.",
+                      "2025-11-19T02:55:37.614377"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      2,
+                      "2025-11-19T02:55:37.614377"
+                    ],
+                    [
+                      2,
+                      "2025-11-19T03:03:40.665955"
+                    ],
+                    [
+                      2,
+                      "2025-11-19T03:06:54.835513"
+                    ]
+                  ],
+                  "created_utc": 1763522858.0,
+                  "depth": 3,
+                  "permalink": "/r/singularity/comments/1p0kw32/7_fingers_test/npm0bvg/",
+                  "is_submitter": false,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "nplxzn6",
+          "parent_id": "t1_npjmvh6",
+          "author": "acowasacowshouldbe",
+          "text_history": [
+            [
+              "same for me it got it wrong but GPT 5.1 pro got it one shot and reasoned very well.",
+              "2025-11-19T02:55:37.614377"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-19T02:55:37.614377"
+            ],
+            [
+              1,
+              "2025-11-19T03:03:40.665955"
+            ],
+            [
+              1,
+              "2025-11-19T03:06:54.835513"
+            ]
+          ],
+          "created_utc": 1763521969.0,
+          "depth": 1,
+          "permalink": "/r/singularity/comments/1p0kw32/7_fingers_test/nplxzn6/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        },
+        {
+          "id": "npm5qp7",
+          "parent_id": "t1_npjmvh6",
+          "author": "Beneficial-Hall-6050",
+          "text_history": [
+            [
+              "You fucked up his question though.  You said digits, he asked fingers",
+              "2025-11-19T02:55:37.614377"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-19T02:55:37.614377"
+            ],
+            [
+              1,
+              "2025-11-19T03:03:40.665955"
+            ],
+            [
+              1,
+              "2025-11-19T03:06:54.835513"
+            ]
+          ],
+          "created_utc": 1763525024.0,
+          "depth": 1,
+          "permalink": "/r/singularity/comments/1p0kw32/7_fingers_test/npm5qp7/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        },
+        {
+          "id": "npjsjhh",
+          "parent_id": "t1_npjmvh6",
+          "author": "Necessary-Oil-4489",
+          "text_history": [
+            [
+              "OP asked about fingers but then compares the answer re digits as if that is what was asked.",
+              "2025-11-19T02:55:37.614377"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-19T02:55:37.614377"
+            ],
+            [
+              1,
+              "2025-11-19T03:03:40.665955"
+            ],
+            [
+              1,
+              "2025-11-19T03:06:54.835513"
+            ]
+          ],
+          "created_utc": 1763496051.0,
+          "depth": 1,
+          "permalink": "/r/singularity/comments/1p0kw32/7_fingers_test/npjsjhh/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        },
+        {
+          "id": "npjn98t",
+          "parent_id": "t1_npjmvh6",
+          "author": "Lazyworm1985",
+          "text_history": [
+            [
+              "I used the „thinking“ one.",
+              "2025-11-19T02:55:37.614377"
+            ]
+          ],
+          "score_history": [
+            [
+              -7,
+              "2025-11-19T02:55:37.614377"
+            ],
+            [
+              -6,
+              "2025-11-19T03:03:40.665955"
+            ],
+            [
+              -5,
+              "2025-11-19T03:06:54.835513"
+            ]
+          ],
+          "created_utc": 1763494474.0,
+          "depth": 1,
+          "permalink": "/r/singularity/comments/1p0kw32/7_fingers_test/npjn98t/",
+          "is_submitter": true,
+          "controversiality": 1,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "nplrn9d",
+              "parent_id": "t1_npjn98t",
+              "author": "LostRespectFeds",
+              "text_history": [
+                [
+                  "He did as well, are you blind?",
+                  "2025-11-19T02:55:37.614377"
+                ]
+              ],
+              "score_history": [
+                [
+                  -5,
+                  "2025-11-19T02:55:37.614377"
+                ],
+                [
+                  -4,
+                  "2025-11-19T03:03:40.665955"
+                ],
+                [
+                  -5,
+                  "2025-11-19T03:06:54.835513"
+                ]
+              ],
+              "created_utc": 1763519683.0,
+              "depth": 2,
+              "permalink": "/r/singularity/comments/1p0kw32/7_fingers_test/nplrn9d/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "npjyf72",
+      "parent_id": "t3_1p0kw32",
+      "author": "Completely-Real-1",
+      "text_history": [
+        [
+          "Just tried it: Gemini 3 Pro got it wrong (answered 6), GPT-5.1 got it right.",
+          "2025-11-19T02:55:37.614377"
+        ]
+      ],
+      "score_history": [
+        [
+          24,
+          "2025-11-19T02:55:37.614377"
+        ],
+        [
+          25,
+          "2025-11-19T03:03:40.665955"
+        ],
+        [
+          24,
+          "2025-11-19T03:06:54.835513"
+        ]
+      ],
+      "created_utc": 1763497848.0,
+      "depth": 0,
+      "permalink": "/r/singularity/comments/1p0kw32/7_fingers_test/npjyf72/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "nplrqip",
+          "parent_id": "t1_npjyf72",
+          "author": "LostRespectFeds",
+          "text_history": [
+            [
+              "Got it right in AI Studio multiple times for me, but wrong multiple times in the Gemini site.",
+              "2025-11-19T02:55:37.614377"
+            ]
+          ],
+          "score_history": [
+            [
+              6,
+              "2025-11-19T02:55:37.614377"
+            ],
+            [
+              6,
+              "2025-11-19T03:03:40.665955"
+            ],
+            [
+              6,
+              "2025-11-19T03:06:54.835513"
+            ]
+          ],
+          "created_utc": 1763519716.0,
+          "depth": 1,
+          "permalink": "/r/singularity/comments/1p0kw32/7_fingers_test/nplrqip/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        },
+        {
+          "id": "npk0kj1",
+          "parent_id": "t1_npjyf72",
+          "author": "aookami",
+          "text_history": [
+            [
+              "i asked 3 pro, it said 6, and then i asked it to use code to count the fingers, its spazzing out",
+              "2025-11-19T02:55:37.614377"
+            ]
+          ],
+          "score_history": [
+            [
+              5,
+              "2025-11-19T02:55:37.614377"
+            ],
+            [
+              7,
+              "2025-11-19T03:03:40.665955"
+            ],
+            [
+              6,
+              "2025-11-19T03:06:54.835513"
+            ]
+          ],
+          "created_utc": 1763498509.0,
+          "depth": 1,
+          "permalink": "/r/singularity/comments/1p0kw32/7_fingers_test/npk0kj1/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npk0puy",
+              "parent_id": "t1_npk0kj1",
+              "author": "aookami",
+              "text_history": [
+                [
+                  "edit: it reached a conclusion that there are six fingers, and ive blew my 3 pro quota lol",
+                  "2025-11-19T02:55:37.614377"
+                ]
+              ],
+              "score_history": [
+                [
+                  8,
+                  "2025-11-19T02:55:37.614377"
+                ],
+                [
+                  8,
+                  "2025-11-19T03:03:40.665955"
+                ],
+                [
+                  9,
+                  "2025-11-19T03:06:54.835513"
+                ]
+              ],
+              "created_utc": 1763498553.0,
+              "depth": 2,
+              "permalink": "/r/singularity/comments/1p0kw32/7_fingers_test/npk0puy/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "npjlatw",
+      "parent_id": "t3_1p0kw32",
+      "author": "Inevitable_Tea_5841",
+      "text_history": [
+        [
+          "Is this gemini 3?",
+          "2025-11-19T02:55:37.614377"
+        ]
+      ],
+      "score_history": [
+        [
+          8,
+          "2025-11-19T02:55:37.614377"
+        ],
+        [
+          8,
+          "2025-11-19T03:03:40.665955"
+        ],
+        [
+          8,
+          "2025-11-19T03:06:54.835513"
+        ]
+      ],
+      "created_utc": 1763493890.0,
+      "depth": 0,
+      "permalink": "/r/singularity/comments/1p0kw32/7_fingers_test/npjlatw/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npjljsi",
+          "parent_id": "t1_npjlatw",
+          "author": "Anxious-Yoghurt-9207",
+          "text_history": [
+            [
+              "I dont think this is on the Ai studio\n\nEdit: lol its on the app now",
+              "2025-11-19T02:55:37.614377"
+            ]
+          ],
+          "score_history": [
+            [
+              9,
+              "2025-11-19T02:55:37.614377"
+            ],
+            [
+              9,
+              "2025-11-19T03:03:40.665955"
+            ],
+            [
+              9,
+              "2025-11-19T03:06:54.835513"
+            ]
+          ],
+          "created_utc": 1763493964.0,
+          "depth": 1,
+          "permalink": "/r/singularity/comments/1p0kw32/7_fingers_test/npjljsi/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": 1763494756.0,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npjmjt4",
+              "parent_id": "t1_npjljsi",
+              "author": "Inevitable_Tea_5841",
+              "text_history": [
+                [
+                  "I just checked and my regular gemini chat has two new modes: fast and thinking. Thinking says it's gemini 3\n\nhttps://preview.redd.it/2az80eauh22g1.png?width=536&amp;format=png&amp;auto=webp&amp;s=3ab795e673dd85343a5df3336bde78d0d2017696",
+                  "2025-11-19T02:55:37.614377"
+                ]
+              ],
+              "score_history": [
+                [
+                  6,
+                  "2025-11-19T02:55:37.614377"
+                ],
+                [
+                  7,
+                  "2025-11-19T03:03:40.665955"
+                ],
+                [
+                  7,
+                  "2025-11-19T03:06:54.835513"
+                ]
+              ],
+              "created_utc": 1763494262.0,
+              "depth": 2,
+              "permalink": "/r/singularity/comments/1p0kw32/7_fingers_test/npjmjt4/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": [
+                {
+                  "id": "npjnxk0",
+                  "parent_id": "t1_npjmjt4",
+                  "author": "Anxious-Yoghurt-9207",
+                  "text_history": [
+                    [
+                      "Oh cool they added it to the main app, idk this could be real then",
+                      "2025-11-19T02:55:37.614377"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      1,
+                      "2025-11-19T02:55:37.614377"
+                    ],
+                    [
+                      1,
+                      "2025-11-19T03:03:40.665955"
+                    ],
+                    [
+                      1,
+                      "2025-11-19T03:06:54.835513"
+                    ]
+                  ],
+                  "created_utc": 1763494678.0,
+                  "depth": 3,
+                  "permalink": "/r/singularity/comments/1p0kw32/7_fingers_test/npjnxk0/",
+                  "is_submitter": false,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "npjxxc5",
+      "parent_id": "t3_1p0kw32",
+      "author": "uutnt",
+      "text_history": [
+        [
+          "Confirmed 3 Pro fails on this. Very interesting how it can be so smart in some complex tasks, but utterly stupid in others. This level of wrong seems to be limited to visual domain.",
+          "2025-11-19T02:55:37.614377"
+        ]
+      ],
+      "score_history": [
+        [
+          12,
+          "2025-11-19T02:55:37.614377"
+        ],
+        [
+          13,
+          "2025-11-19T03:03:40.665955"
+        ],
+        [
+          12,
+          "2025-11-19T03:06:54.835513"
+        ]
+      ],
+      "created_utc": 1763497695.0,
+      "depth": 0,
+      "permalink": "/r/singularity/comments/1p0kw32/7_fingers_test/npjxxc5/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npkxfbi",
+          "parent_id": "t1_npjxxc5",
+          "author": "raysar",
+          "text_history": [
+            [
+              "There is room to improvement 😆",
+              "2025-11-19T02:55:37.614377"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-19T02:55:37.614377"
+            ],
+            [
+              1,
+              "2025-11-19T03:03:40.665955"
+            ],
+            [
+              1,
+              "2025-11-19T03:06:54.835513"
+            ]
+          ],
+          "created_utc": 1763508919.0,
+          "depth": 1,
+          "permalink": "/r/singularity/comments/1p0kw32/7_fingers_test/npkxfbi/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npl9ssf",
+      "parent_id": "t3_1p0kw32",
+      "author": "mike_xy",
+      "text_history": [
+        [
+          "It’s weird because that is also a trick that people that do lucid dreaming try to understand if they are dreaming. \n\nI find that there are a lot of parallels between AI and the sleeping mind.",
+          "2025-11-19T02:55:37.614377"
+        ]
+      ],
+      "score_history": [
+        [
+          5,
+          "2025-11-19T02:55:37.614377"
+        ],
+        [
+          5,
+          "2025-11-19T03:03:40.665955"
+        ],
+        [
+          4,
+          "2025-11-19T03:06:54.835513"
+        ]
+      ],
+      "created_utc": 1763513270.0,
+      "depth": 0,
+      "permalink": "/r/singularity/comments/1p0kw32/7_fingers_test/npl9ssf/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npjuq0b",
+      "parent_id": "t3_1p0kw32",
+      "author": "EmotionalCockroach29",
+      "text_history": [
+        [
+          "https://preview.redd.it/o6gpn7i1p22g1.png?width=1188&amp;format=png&amp;auto=webp&amp;s=b59a76b0ab4a9e802344500884e3873d228c030d",
+          "2025-11-19T02:55:37.614377"
+        ]
+      ],
+      "score_history": [
+        [
+          4,
+          "2025-11-19T02:55:37.614377"
+        ],
+        [
+          4,
+          "2025-11-19T03:03:40.665955"
+        ],
+        [
+          4,
+          "2025-11-19T03:06:54.835513"
+        ]
+      ],
+      "created_utc": 1763496718.0,
+      "depth": 0,
+      "permalink": "/r/singularity/comments/1p0kw32/7_fingers_test/npjuq0b/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npmhd6i",
+      "parent_id": "t3_1p0kw32",
+      "author": "Lhun",
+      "text_history": [
+        [
+          "https://preview.redd.it/eltkw37wg52g1.jpeg?width=1080&amp;format=pjpg&amp;auto=webp&amp;s=9dc9cd7e22397c0b27d4be063e18c52314153aa3\n\nGrok 4.1 is confidently incorrect even when giving it all the descriptive hints It gets it horribly wrong when you ask how many fingers too.",
+          "2025-11-19T02:55:37.614377"
+        ]
+      ],
+      "score_history": [
+        [
+          4,
+          "2025-11-19T02:55:37.614377"
+        ],
+        [
+          4,
+          "2025-11-19T03:03:40.665955"
+        ],
+        [
+          5,
+          "2025-11-19T03:06:54.835513"
+        ]
+      ],
+      "created_utc": 1763530262.0,
+      "depth": 0,
+      "permalink": "/r/singularity/comments/1p0kw32/7_fingers_test/npmhd6i/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npjno37",
+      "parent_id": "t3_1p0kw32",
+      "author": "Puzzled_Cycle_71",
+      "text_history": [
+        [
+          "I ran it through some engineering drawing interpretation that could be understood by 3rd year engineering majors. Was really spotty. But don't worry we have the smartest people in the world on it and they're not stopping. \\*sigh\\*",
+          "2025-11-19T02:55:37.614377"
+        ]
+      ],
+      "score_history": [
+        [
+          5,
+          "2025-11-19T02:55:37.614377"
+        ],
+        [
+          5,
+          "2025-11-19T03:03:40.665955"
+        ],
+        [
+          6,
+          "2025-11-19T03:06:54.835513"
+        ]
+      ],
+      "created_utc": 1763494597.0,
+      "depth": 0,
+      "permalink": "/r/singularity/comments/1p0kw32/7_fingers_test/npjno37/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npjnacx",
+      "parent_id": "t3_1p0kw32",
+      "author": "mikesch811",
+      "text_history": [
+        [
+          "Same",
+          "2025-11-19T02:55:37.614377"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-19T02:55:37.614377"
+        ],
+        [
+          2,
+          "2025-11-19T03:03:40.665955"
+        ],
+        [
+          2,
+          "2025-11-19T03:06:54.835513"
+        ]
+      ],
+      "created_utc": 1763494483.0,
+      "depth": 0,
+      "permalink": "/r/singularity/comments/1p0kw32/7_fingers_test/npjnacx/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npk44du",
+      "parent_id": "t3_1p0kw32",
+      "author": "Defiant_Research_280",
+      "text_history": [
+        [
+          "You killed my father, now prepare to die",
+          "2025-11-19T02:55:37.614377"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-19T02:55:37.614377"
+        ],
+        [
+          2,
+          "2025-11-19T03:03:40.665955"
+        ],
+        [
+          2,
+          "2025-11-19T03:06:54.835513"
+        ]
+      ],
+      "created_utc": 1763499564.0,
+      "depth": 0,
+      "permalink": "/r/singularity/comments/1p0kw32/7_fingers_test/npk44du/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npjv3kl",
+      "parent_id": "t3_1p0kw32",
+      "author": "Calcularius",
+      "text_history": [
+        [
+          "ChatGPT got it right for me.",
+          "2025-11-19T02:55:37.614377"
+        ]
+      ],
+      "score_history": [
+        [
+          3,
+          "2025-11-19T02:55:37.614377"
+        ],
+        [
+          4,
+          "2025-11-19T03:03:40.665955"
+        ],
+        [
+          4,
+          "2025-11-19T03:06:54.835513"
+        ]
+      ],
+      "created_utc": 1763496831.0,
+      "depth": 0,
+      "permalink": "/r/singularity/comments/1p0kw32/7_fingers_test/npjv3kl/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npjvcau",
+      "parent_id": "t3_1p0kw32",
+      "author": "Puzzleheaded_Week_52",
+      "text_history": [
+        [
+          "Got the same results. Seems like agi will take some time. I agree with demis' timelines (5-10 years).",
+          "2025-11-19T02:55:37.614377"
+        ]
+      ],
+      "score_history": [
+        [
+          4,
+          "2025-11-19T02:55:37.614377"
+        ],
+        [
+          4,
+          "2025-11-19T03:03:40.665955"
+        ],
+        [
+          4,
+          "2025-11-19T03:06:54.835513"
+        ]
+      ],
+      "created_utc": 1763496905.0,
+      "depth": 0,
+      "permalink": "/r/singularity/comments/1p0kw32/7_fingers_test/npjvcau/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npjzbpn",
+      "parent_id": "t3_1p0kw32",
+      "author": "No_Fan7109",
+      "text_history": [
+        [
+          "idk it works for me \n\nhttps://preview.redd.it/8oxcxeuat22g1.png?width=767&amp;format=png&amp;auto=webp&amp;s=54dd0b712797a59425a1ca799f738b96c8b6228f",
+          "2025-11-19T02:55:37.614377"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-19T02:55:37.614377"
+        ],
+        [
+          2,
+          "2025-11-19T03:03:40.665955"
+        ],
+        [
+          2,
+          "2025-11-19T03:06:54.835513"
+        ]
+      ],
+      "created_utc": 1763498127.0,
+      "depth": 0,
+      "permalink": "/r/singularity/comments/1p0kw32/7_fingers_test/npjzbpn/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npmrin1",
+      "parent_id": "t3_1p0kw32",
+      "author": "PallasEm",
+      "text_history": [
+        [
+          "gpt 5.1 got it right on the first try.",
+          "2025-11-19T02:55:37.614377"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:55:37.614377"
+        ],
+        [
+          1,
+          "2025-11-19T03:03:40.665955"
+        ],
+        [
+          1,
+          "2025-11-19T03:06:54.835513"
+        ]
+      ],
+      "created_utc": 1763535660.0,
+      "depth": 0,
+      "permalink": "/r/singularity/comments/1p0kw32/7_fingers_test/npmrin1/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npmv34j",
+      "parent_id": "t3_1p0kw32",
+      "author": "qustrolabe",
+      "text_history": [
+        [
+          "https://preview.redd.it/vxfgs276362g1.jpeg?width=564&amp;format=pjpg&amp;auto=webp&amp;s=5dfcc247519c9599bf7fbb0d194883b6580f76c8",
+          "2025-11-19T02:55:37.614377"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:55:37.614377"
+        ],
+        [
+          1,
+          "2025-11-19T03:03:40.665955"
+        ],
+        [
+          1,
+          "2025-11-19T03:06:54.835513"
+        ]
+      ],
+      "created_utc": 1763537759.0,
+      "depth": 0,
+      "permalink": "/r/singularity/comments/1p0kw32/7_fingers_test/npmv34j/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npjso4r",
+      "parent_id": "t3_1p0kw32",
+      "author": "Necessary-Oil-4489",
+      "text_history": [
+        [
+          "OP what's the difference between a finger and a thumb?",
+          "2025-11-19T02:55:37.614377"
+        ]
+      ],
+      "score_history": [
+        [
+          0,
+          "2025-11-19T02:55:37.614377"
+        ],
+        [
+          0,
+          "2025-11-19T03:03:40.665955"
+        ],
+        [
+          0,
+          "2025-11-19T03:06:54.835513"
+        ]
+      ],
+      "created_utc": 1763496091.0,
+      "depth": 0,
+      "permalink": "/r/singularity/comments/1p0kw32/7_fingers_test/npjso4r/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npju0ew",
+          "parent_id": "t1_npjso4r",
+          "author": "[deleted]",
+          "text_history": [
+            [
+              "The thumb has only 1 joint, compared to each other finger having 2. \n\nThe thumb is still a finger.",
+              "2025-11-19T02:55:37.614377"
+            ]
+          ],
+          "score_history": [
+            [
+              3,
+              "2025-11-19T02:55:37.614377"
+            ],
+            [
+              3,
+              "2025-11-19T03:03:40.665955"
+            ],
+            [
+              3,
+              "2025-11-19T03:06:54.835513"
+            ]
+          ],
+          "created_utc": 1763496500.0,
+          "depth": 1,
+          "permalink": "/r/singularity/comments/1p0kw32/7_fingers_test/npju0ew/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        },
+        {
+          "id": "npjv3d6",
+          "parent_id": "t1_npjso4r",
+          "author": "Lazyworm1985",
+          "text_history": [
+            [
+              "I guess anatomically it would be 5 digits. 4 fingers and 1 thumb. I don’t want to downplay the amazing work Google does. It was just a weird experience for it to be the first test.",
+              "2025-11-19T02:55:37.614377"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-19T02:55:37.614377"
+            ],
+            [
+              1,
+              "2025-11-19T03:03:40.665955"
+            ],
+            [
+              1,
+              "2025-11-19T03:06:54.835513"
+            ]
+          ],
+          "created_utc": 1763496829.0,
+          "depth": 1,
+          "permalink": "/r/singularity/comments/1p0kw32/7_fingers_test/npjv3d6/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npjvwxu",
+      "parent_id": "t3_1p0kw32",
+      "author": "FarrisAT",
+      "text_history": [
+        [
+          "I see 5 fingers.\n\nEnglish is a difficult language for you all. So I then guess it’s difficult for a model to interpret what you literally write as well.",
+          "2025-11-19T02:55:37.614377"
+        ]
+      ],
+      "score_history": [
+        [
+          -3,
+          "2025-11-19T02:55:37.614377"
+        ],
+        [
+          -3,
+          "2025-11-19T03:03:40.665955"
+        ],
+        [
+          -3,
+          "2025-11-19T03:06:54.835513"
+        ]
+      ],
+      "created_utc": 1763497081.0,
+      "depth": 0,
+      "permalink": "/r/singularity/comments/1p0kw32/7_fingers_test/npjvwxu/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npjmuuq",
+      "parent_id": "t3_1p0kw32",
+      "author": "Lazyworm1985",
+      "text_history": [
+        [
+          "https://preview.redd.it/6expsn23i22g1.jpeg?width=1207&amp;format=pjpg&amp;auto=webp&amp;s=f055c4b45f4d47693876f4d08497bb60bb41c2a6\n\nThis is the model I took.",
+          "2025-11-19T02:55:37.614377"
+        ]
+      ],
+      "score_history": [
+        [
+          0,
+          "2025-11-19T02:55:37.614377"
+        ],
+        [
+          0,
+          "2025-11-19T03:03:40.665955"
+        ],
+        [
+          0,
+          "2025-11-19T03:06:54.835513"
+        ]
+      ],
+      "created_utc": 1763494354.0,
+      "depth": 0,
+      "permalink": "/r/singularity/comments/1p0kw32/7_fingers_test/npjmuuq/",
+      "is_submitter": true,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npl2hi9",
+          "parent_id": "t1_npjmuuq",
+          "author": "neox29",
+          "text_history": [
+            [
+              "Except when you ask the thinking model claiming to be Gemini 3 on the UI, “what model are you?” It says 2.5… so I don’t know what to believe",
+              "2025-11-19T02:55:37.614377"
+            ]
+          ],
+          "score_history": [
+            [
+              3,
+              "2025-11-19T02:55:37.614377"
+            ],
+            [
+              3,
+              "2025-11-19T03:03:40.665955"
+            ],
+            [
+              3,
+              "2025-11-19T03:06:54.835513"
+            ]
+          ],
+          "created_utc": 1763510720.0,
+          "depth": 1,
+          "permalink": "/r/singularity/comments/1p0kw32/7_fingers_test/npl2hi9/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npmnke4",
+              "parent_id": "t1_npl2hi9",
+              "author": "Lazyworm1985",
+              "text_history": [
+                [
+                  "I upgraded to Pro in the meantime (because I didn’t have enough tokens) and asked the question with digits instead of fingers. I heard from guys on reddit that they got the right answer. So I don’t know. Maybe I am misunderstanding something?\n\nhttps://preview.redd.it/mkvt85zdq52g1.jpeg?width=1039&amp;format=pjpg&amp;auto=webp&amp;s=cdc0bd341797c1c7a83791f6b3a3e27147da6c95",
+                  "2025-11-19T02:55:37.614377"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-19T02:55:37.614377"
+                ],
+                [
+                  1,
+                  "2025-11-19T03:03:40.665955"
+                ],
+                [
+                  1,
+                  "2025-11-19T03:06:54.835513"
+                ]
+              ],
+              "created_utc": 1763533457.0,
+              "depth": 2,
+              "permalink": "/r/singularity/comments/1p0kw32/7_fingers_test/npmnke4/",
+              "is_submitter": true,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "npjsfea",
+      "parent_id": "t3_1p0kw32",
+      "author": "Necessary-Oil-4489",
+      "text_history": [
+        [
+          "it answered your exact question correct. You asked about fingers. image has 5 fingers. this is the answer it gave you.",
+          "2025-11-19T02:55:37.614377"
+        ]
+      ],
+      "score_history": [
+        [
+          -6,
+          "2025-11-19T02:55:37.614377"
+        ],
+        [
+          -6,
+          "2025-11-19T03:03:40.665955"
+        ],
+        [
+          -6,
+          "2025-11-19T03:06:54.835513"
+        ]
+      ],
+      "created_utc": 1763496017.0,
+      "depth": 0,
+      "permalink": "/r/singularity/comments/1p0kw32/7_fingers_test/npjsfea/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npju6m6",
+          "parent_id": "t1_npjsfea",
+          "author": "[deleted]",
+          "text_history": [
+            [
+              "It also said there was only 1 thumb?",
+              "2025-11-19T02:55:37.614377"
+            ]
+          ],
+          "score_history": [
+            [
+              7,
+              "2025-11-19T02:55:37.614377"
+            ],
+            [
+              5,
+              "2025-11-19T03:03:40.665955"
+            ],
+            [
+              6,
+              "2025-11-19T03:06:54.835513"
+            ]
+          ],
+          "created_utc": 1763496553.0,
+          "depth": 1,
+          "permalink": "/r/singularity/comments/1p0kw32/7_fingers_test/npju6m6/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        },
+        {
+          "id": "npklcq2",
+          "parent_id": "t1_npjsfea",
+          "author": "ReMeDyIII",
+          "text_history": [
+            [
+              "If the AI had ended on just saying 5 fingers, then you'd be absolutely correct, but it didn't. The AI continues onto say there is only 1 thumb, which is wrong.\n\nFurthermore, the AI said there were 6 digits earlier, which no matter which way you interpret the visual exercise, is also wrong.",
+              "2025-11-19T02:55:37.614377"
+            ]
+          ],
+          "score_history": [
+            [
+              5,
+              "2025-11-19T02:55:37.614377"
+            ],
+            [
+              6,
+              "2025-11-19T03:03:40.665955"
+            ],
+            [
+              6,
+              "2025-11-19T03:06:54.835513"
+            ]
+          ],
+          "created_utc": 1763504802.0,
+          "depth": 1,
+          "permalink": "/r/singularity/comments/1p0kw32/7_fingers_test/npklcq2/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "nplou59",
+              "parent_id": "t1_npklcq2",
+              "author": "r5c1",
+              "text_history": [
+                [
+                  "why does it matter if its wrong about the stuff that it was not asked about?",
+                  "2025-11-19T02:55:37.614377"
+                ]
+              ],
+              "score_history": [
+                [
+                  -3,
+                  "2025-11-19T02:55:37.614377"
+                ],
+                [
+                  -2,
+                  "2025-11-19T03:03:40.665955"
+                ],
+                [
+                  -3,
+                  "2025-11-19T03:06:54.835513"
+                ]
+              ],
+              "created_utc": 1763518667.0,
+              "depth": 2,
+              "permalink": "/r/singularity/comments/1p0kw32/7_fingers_test/nplou59/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:06:54.835513",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/singularity/comments/1p0kw32/7_fingers_test/",
+    "total_comments": 49,
+    "top_level_comments": 19,
+    "api_requests": 1,
+    "expected_comments": 50,
+    "coverage_percent": 98.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_025537.json",
+      "scrape_002_20251119_030340.json",
+      "scrape_003_20251119_030654.json"
+    ]
+  }
+}

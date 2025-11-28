@@ -1,0 +1,115 @@
+{
+  "post": {
+    "id": "1oy3fk7",
+    "title": "Building Recommendations as a Full-Stack Dev — Where Do I Start?",
+    "author": "Fancy_Buy_7103",
+    "score_history": [
+      [
+        2,
+        "2025-11-18T14:23:41.650969"
+      ],
+      [
+        2,
+        "2025-11-18T14:33:41.566477"
+      ],
+      [
+        2,
+        "2025-11-18T14:43:27.063775"
+      ]
+    ],
+    "created_utc": 1763242082.0,
+    "num_comments": 3,
+    "subreddit": "MLQuestions",
+    "url": "https://www.reddit.com/r/MLQuestions/comments/1oy3fk7/building_recommendations_as_a_fullstack_dev_where/",
+    "selftext": "Hi everyone!\n\nIm a full-stack developer, and in some of the apps I’m building I need to add recommendation and prediction features, things like recommending products or predicting what a user might buy next.\n\nI’m not sure if using an LLM is the right approach for this, so I’m wondering:\n\n* Do I need to learn traditional machine learning to build these kinds of recommendation systems?\n* Or would existing APIs / no-code / low-code AI tools (like Amazon Personalize, for example) be enough?\n\nFor context, I dontt have an ML backgroud, so Id love some guidance on the best path forward. Thanks!",
+    "permalink": "/r/MLQuestions/comments/1oy3fk7/building_recommendations_as_a_fullstack_dev_where/"
+  },
+  "comments": [
+    {
+      "id": "npeuugl",
+      "parent_id": "t3_1oy3fk7",
+      "author": "ViciousIvy",
+      "text_history": [
+        [
+          "hey there! my company offers a free ai/ml engineering fundamentals course if you'd like to check it out feel free to message me\n\ni'm also building an ai/ml community on discord &gt; we share news + hold discussions on various topics and would love for u to come hang out \\^-\\^\n\n[https://discord.gg/WkSxFbJdpP](https://discord.gg/WkSxFbJdpP)",
+          "2025-11-18T14:23:41.650969"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:23:41.650969"
+        ],
+        [
+          1,
+          "2025-11-18T14:33:41.566477"
+        ],
+        [
+          1,
+          "2025-11-18T14:43:27.063775"
+        ]
+      ],
+      "created_utc": 1763426378.0,
+      "depth": 0,
+      "permalink": "/r/MLQuestions/comments/1oy3fk7/building_recommendations_as_a_fullstack_dev_where/npeuugl/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npi5fh8",
+      "parent_id": "t3_1oy3fk7",
+      "author": "Asleep-Fisherman3",
+      "text_history": [
+        [
+          "Read about content and collaborative filtering. A few mathematical models like SVD and cosine similarity. You should be good to go. I've implemented recommender systems using these in production for recommending videos.",
+          "2025-11-18T14:23:41.650969"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:23:41.650969"
+        ],
+        [
+          1,
+          "2025-11-18T14:33:41.566477"
+        ],
+        [
+          1,
+          "2025-11-18T14:43:27.063775"
+        ]
+      ],
+      "created_utc": 1763478690.0,
+      "depth": 0,
+      "permalink": "/r/MLQuestions/comments/1oy3fk7/building_recommendations_as_a_fullstack_dev_where/npi5fh8/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-18T14:43:27.063775",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/MLQuestions/comments/1oy3fk7/building_recommendations_as_a_fullstack_dev_where/",
+    "total_comments": 2,
+    "top_level_comments": 2,
+    "api_requests": 1,
+    "expected_comments": 3,
+    "coverage_percent": 66.67,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_142341.json",
+      "scrape_002_20251118_143341.json",
+      "scrape_003_20251118_144326.json"
+    ]
+  }
+}

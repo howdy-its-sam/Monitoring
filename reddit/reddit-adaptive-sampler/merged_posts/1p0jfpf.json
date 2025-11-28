@@ -1,0 +1,372 @@
+{
+  "post": {
+    "id": "1p0jfpf",
+    "title": "Building an AI Prospector with Claude Agent",
+    "author": "modassembly",
+    "score_history": [
+      [
+        1,
+        "2025-11-18T12:51:31.935352"
+      ],
+      [
+        1,
+        "2025-11-18T13:03:55.311836"
+      ],
+      [
+        1,
+        "2025-11-18T13:15:56.316200"
+      ],
+      [
+        1,
+        "2025-11-18T13:46:26.358314"
+      ],
+      [
+        1,
+        "2025-11-18T13:49:30.823818"
+      ],
+      [
+        1,
+        "2025-11-18T13:59:19.777081"
+      ],
+      [
+        1,
+        "2025-11-18T14:10:40.351501"
+      ]
+    ],
+    "created_utc": 1763489828.0,
+    "num_comments": 6,
+    "subreddit": "AI_Agents",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1p0jfpf/building_an_ai_prospector_with_claude_agent/",
+    "selftext": "I'm building AI Agents for SMB's (starting with customer service).\n\n**SMB's are particular in that there aren't very good ways to search for them** in Apollo, Clay or LinkedIn. The place where I start is Google. I do a few google searches for similar queries, visit their websites, qualify them a bit and collect the office number and email. Then I go on Apollo, try to find employees and try to get their emails. Then I go on LinkedIn and do the same.\n\nIt's evident that this process could be automated. So I started building an AI Agent to do this for me.\n\nI'm using the Claude Agent SDK to build agents because I know that Claude Code is pretty good and I want to use the same technology.\n\nI wanted to share some of the learnings and hiccups.\n\n# Challenges\n\n**Building MCP tools**\n\nThe agent has access to the following tools: do a google search, do a google places search, visit a website, get company employees from Apollo, enrich person data from Apollo, read a spreadsheet and edit a spreadsheet (I don't have a CRM yet, so I use Google Drive as my CRM).\n\nAll of the above have APIs so it's just a matter of integrating them. The tricky part is designing the inputs and, more importantly, what and how much data to return.\n\nGoogle/places search, the Apollo APIs and even reading a spreadsheet are somewhat straight forward. But what do you return when visiting a website - the entire html or just the text? For this use case, I just need the text and the links inside the page (so that the agent can make the decision of visiting more pages if necessary).\n\nFor editing a spreadsheet, the agent selects a range of rows and columns and passes a csv as inputs. Very rarely has it messed it up but I haven't spent much time optimizing this.\n\n**Integrations with no APIs**\n\nThe only part that I can't automate is LinkedIn. While there are some \"hacky\" solutions like Apify and browser automation, it violates the Terms of Use and I don't think it's worth the hassle. The next best option is to do a google search like `site:linkedin.com &lt;person's name and company&gt;`. LinkedIn public data is fair game.\n\nBut most of it I'll have to do manually.\n\n**Long running tasks**\n\nThe process that I described is pretty lengthy. I think that it's naive to think that I can tell the agent \"find me the emails of all the decision makers of 100 SMB's in NYC\". Available LLMs are not trained to do this yet.\n\nThe next best option is to do it iteratively over a conversation with multiple turns. What I found that works is to do it in batches. First, I ask the agent to find and qualify 10 companies. Then 10 more and so on. Then, I ask it to find me the decision makers of the top 10 and so on. Then I ask it to find me the emails of the top 10 and so on.\n\nYou can see how this task will have a few dozens of turns, each turn lasting a few minutes. What I do is go and do something else, while the agent runs, and come back and check.\n\nI'm still figuring out what is the best way improve this.\n\n**Instruction following**\n\nThis is not specific to this agent. It helps to be very specific about how you want things to be done. If I just ask it to find me 10 SMB's that qualify a certain ICP in NYC, it might do a few google searches and return 10.\n\nBecause I want this task to be done in a certain way, I have to be very specific: \"Find me 10 companies that satisfy this ICP... For each google search result, visit the home page plus at least 2 other pages on their website. To qualify 10 results, you must visit at least 30 pages\".\n\nThis gives me confidence that the model is not simply hallucinating and that it actually researched and qualified the prospects.\n\n**Cost**\n\nOutput of tools and length of tasks all add up to cost. Its not cheap to run this agent.\n\nThe agent has to visit multiple websites and consume their content. As I ask for more results and more thorough research, the costs keep increasing.\n\n# Next steps\n\nMost of these have ways of improving them - better models and prices going down is one way.\n\nThere are engineering solutions. Eg, the reason why it costs so much right now is because the model has to carry every content that it has seen over each turn, thus, increasing the number of tokens consumed. We could break it apart into subagents - one agent orchestrates the task and a bunch of subagents crawl websites and return what they found. Code execution + MCP is a another recent proposal by Anthropic.\n\nIMO, the most annoying one is LinkedIn. So much good automation is hindered by Terms of Use.\n\nLastly, if anyone is interested in trying this version, I'm happy to give you access. Ping me!",
+    "permalink": "/r/AI_Agents/comments/1p0jfpf/building_an_ai_prospector_with_claude_agent/"
+  },
+  "comments": [
+    {
+      "id": "npj7cuz",
+      "parent_id": "t3_1p0jfpf",
+      "author": "AutoModerator",
+      "text_history": [
+        [
+          "Thank you for your submission, for any questions regarding AI, please check out our wiki at https://www.reddit.com/r/ai_agents/wiki (this is currently in test and we are actively adding to the wiki)\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/AI_Agents) if you have any questions or concerns.*",
+          "2025-11-18T12:51:31.935352"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T12:51:31.935352"
+        ],
+        [
+          1,
+          "2025-11-18T13:03:55.311836"
+        ],
+        [
+          1,
+          "2025-11-18T13:15:56.316200"
+        ],
+        [
+          1,
+          "2025-11-18T13:46:26.358314"
+        ],
+        [
+          1,
+          "2025-11-18T13:49:30.823818"
+        ],
+        [
+          1,
+          "2025-11-18T13:59:19.777081"
+        ],
+        [
+          1,
+          "2025-11-18T14:10:40.351501"
+        ]
+      ],
+      "created_utc": 1763489830.0,
+      "depth": 0,
+      "permalink": "/r/AI_Agents/comments/1p0jfpf/building_an_ai_prospector_with_claude_agent/npj7cuz/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npj7k5o",
+      "parent_id": "t3_1p0jfpf",
+      "author": "modassembly",
+      "text_history": [
+        [
+          "https://preview.redd.it/88wrq6hs422g1.png?width=2052&amp;format=png&amp;auto=webp&amp;s=68f3d9e9ca08e3c36c8c5134849c6fe4e03d1a8e\n\nSome images of the process",
+          "2025-11-18T12:51:31.935352"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T12:51:31.935352"
+        ],
+        [
+          1,
+          "2025-11-18T13:03:55.311836"
+        ],
+        [
+          1,
+          "2025-11-18T13:15:56.316200"
+        ],
+        [
+          1,
+          "2025-11-18T13:46:26.358314"
+        ],
+        [
+          1,
+          "2025-11-18T13:49:30.823818"
+        ],
+        [
+          1,
+          "2025-11-18T13:59:19.777081"
+        ],
+        [
+          1,
+          "2025-11-18T14:10:40.351501"
+        ]
+      ],
+      "created_utc": 1763489887.0,
+      "depth": 0,
+      "permalink": "/r/AI_Agents/comments/1p0jfpf/building_an_ai_prospector_with_claude_agent/npj7k5o/",
+      "is_submitter": true,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npj7mos",
+          "parent_id": "t1_npj7k5o",
+          "author": "modassembly",
+          "text_history": [
+            [
+              "https://preview.redd.it/etsm5t5w422g1.png?width=2062&amp;format=png&amp;auto=webp&amp;s=e8f749ba8584911965fec286e630de78281d8d70",
+              "2025-11-18T12:51:31.935352"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T12:51:31.935352"
+            ],
+            [
+              1,
+              "2025-11-18T13:03:55.311836"
+            ],
+            [
+              1,
+              "2025-11-18T13:15:56.316200"
+            ],
+            [
+              1,
+              "2025-11-18T13:46:26.358314"
+            ],
+            [
+              1,
+              "2025-11-18T13:49:30.823818"
+            ],
+            [
+              1,
+              "2025-11-18T13:59:19.777081"
+            ],
+            [
+              1,
+              "2025-11-18T14:10:40.351501"
+            ]
+          ],
+          "created_utc": 1763489907.0,
+          "depth": 1,
+          "permalink": "/r/AI_Agents/comments/1p0jfpf/building_an_ai_prospector_with_claude_agent/npj7mos/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        },
+        {
+          "id": "npj9xwf",
+          "parent_id": "t1_npj7k5o",
+          "author": "modassembly",
+          "text_history": [
+            [
+              "https://preview.redd.it/xz4alqxu622g1.png?width=2940&amp;format=png&amp;auto=webp&amp;s=d9b43178bb2e64f5c3d3aed98119f3e78a93579d",
+              "2025-11-18T12:51:31.935352"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T12:51:31.935352"
+            ],
+            [
+              1,
+              "2025-11-18T13:03:55.311836"
+            ],
+            [
+              1,
+              "2025-11-18T13:15:56.316200"
+            ],
+            [
+              1,
+              "2025-11-18T13:46:26.358314"
+            ],
+            [
+              1,
+              "2025-11-18T13:49:30.823818"
+            ],
+            [
+              1,
+              "2025-11-18T13:59:19.777081"
+            ],
+            [
+              1,
+              "2025-11-18T14:10:40.351501"
+            ]
+          ],
+          "created_utc": 1763490569.0,
+          "depth": 1,
+          "permalink": "/r/AI_Agents/comments/1p0jfpf/building_an_ai_prospector_with_claude_agent/npj9xwf/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npj8d5i",
+      "parent_id": "t3_1p0jfpf",
+      "author": "modassembly",
+      "text_history": [
+        [
+          "Code execution + MCP: [https://www.anthropic.com/engineering/code-execution-with-mcp](https://www.anthropic.com/engineering/code-execution-with-mcp)",
+          "2025-11-18T12:51:31.935352"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T12:51:31.935352"
+        ],
+        [
+          1,
+          "2025-11-18T13:03:55.311836"
+        ],
+        [
+          1,
+          "2025-11-18T13:15:56.316200"
+        ],
+        [
+          1,
+          "2025-11-18T13:46:26.358314"
+        ],
+        [
+          1,
+          "2025-11-18T13:49:30.823818"
+        ],
+        [
+          1,
+          "2025-11-18T13:59:19.777081"
+        ],
+        [
+          1,
+          "2025-11-18T14:10:40.351501"
+        ]
+      ],
+      "created_utc": 1763490118.0,
+      "depth": 0,
+      "permalink": "/r/AI_Agents/comments/1p0jfpf/building_an_ai_prospector_with_claude_agent/npj8d5i/",
+      "is_submitter": true,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npjcztc",
+      "parent_id": "t3_1p0jfpf",
+      "author": "Holiday_Fact_3352",
+      "text_history": [
+        [
+          "I have just finished building the \n most awesome AI prospector platform using Claude called  Vira.Virtual Intelligence for revenue Acceleration.  The caveat is she talks and put in output NLP.",
+          "2025-11-18T12:51:31.935352"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T12:51:31.935352"
+        ],
+        [
+          1,
+          "2025-11-18T13:03:55.311836"
+        ],
+        [
+          1,
+          "2025-11-18T13:15:56.316200"
+        ],
+        [
+          1,
+          "2025-11-18T13:46:26.358314"
+        ],
+        [
+          1,
+          "2025-11-18T13:49:30.823818"
+        ],
+        [
+          1,
+          "2025-11-18T13:59:19.777081"
+        ],
+        [
+          1,
+          "2025-11-18T14:10:40.351501"
+        ]
+      ],
+      "created_utc": 1763491443.0,
+      "depth": 0,
+      "permalink": "/r/AI_Agents/comments/1p0jfpf/building_an_ai_prospector_with_claude_agent/npjcztc/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-18T14:10:40.351501",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/AI_Agents/comments/1p0jfpf/building_an_ai_prospector_with_claude_agent/",
+    "total_comments": 6,
+    "top_level_comments": 4,
+    "api_requests": 1,
+    "expected_comments": 6,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 7,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_125130.json",
+      "scrape_002_20251118_130355.json",
+      "scrape_003_20251118_131556.json",
+      "scrape_004_20251118_134626.json",
+      "scrape_005_20251118_134930.json",
+      "scrape_006_20251118_135919.json",
+      "scrape_007_20251118_141040.json"
+    ]
+  }
+}

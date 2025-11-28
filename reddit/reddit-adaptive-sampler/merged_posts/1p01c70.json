@@ -1,0 +1,2230 @@
+{
+  "post": {
+    "id": "1p01c70",
+    "title": "[D] Tsinghua ICLR paper withdrawn due to numerous AI generated citations",
+    "author": "fourDnet",
+    "score_history": [
+      [
+        269,
+        "2025-11-18T13:49:38.905338"
+      ],
+      [
+        268,
+        "2025-11-18T14:00:53.969800"
+      ],
+      [
+        267,
+        "2025-11-18T14:12:10.979893"
+      ],
+      [
+        282,
+        "2025-11-18T21:49:48.463007"
+      ],
+      [
+        283,
+        "2025-11-18T23:34:34.607525"
+      ],
+      [
+        289,
+        "2025-11-19T01:18:45.874909"
+      ],
+      [
+        292,
+        "2025-11-19T07:22:41.049121"
+      ]
+    ],
+    "created_utc": 1763436404.0,
+    "num_comments": 49,
+    "subreddit": "MachineLearning",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1p01c70/d_tsinghua_iclr_paper_withdrawn_due_to_numerous/",
+    "selftext": "Was browsing the ICLR withdrawn papers today:\n\n* Reviewers claiming [optimal transport is not related to machine learning](https://openreview.net/forum?id=L0DTflYss0)\n* Reviewers not reading the paper and the authors [withdrawing due to disappointment in ICLR review quality](https://openreview.net/forum?id=1jXc6SHcUV)\n* Clearly [AI generated reviews](https://openreview.net/forum?id=KFSv2egats&amp;noteId=v6noqyB4Ss)\n\nBut [this one stood out to me](https://openreview.net/forum?id=33zbWwsPI1), a paper led by two Tsinghua professors (a top university of China) who were formerly both MIT PhDs, which has the dubious honor of being called out by all four reviewers for AI generated citations and references. If this is the quality of research we can expect by the top institutions, what does this say about the fields current research culture, the research quality, and the degree of supervision advisors are exercising on the students?",
+    "permalink": "/r/MachineLearning/comments/1p01c70/d_tsinghua_iclr_paper_withdrawn_due_to_numerous/"
+  },
+  "comments": [
+    {
+      "id": "npfwof2",
+      "parent_id": "t3_1p01c70",
+      "author": "penifSMASH",
+      "text_history": [
+        [
+          "Haha one of the AI generated citations literally had Jane Doe as an author",
+          "2025-11-18T13:49:38.905338"
+        ]
+      ],
+      "score_history": [
+        [
+          132,
+          "2025-11-18T13:49:38.905338"
+        ],
+        [
+          130,
+          "2025-11-18T14:00:53.969800"
+        ],
+        [
+          134,
+          "2025-11-18T14:12:10.979893"
+        ],
+        [
+          143,
+          "2025-11-18T21:49:48.463007"
+        ],
+        [
+          142,
+          "2025-11-18T23:34:34.607525"
+        ],
+        [
+          145,
+          "2025-11-19T01:18:45.874909"
+        ],
+        [
+          152,
+          "2025-11-19T07:22:41.049121"
+        ]
+      ],
+      "created_utc": 1763440407.0,
+      "depth": 0,
+      "permalink": "/r/MachineLearning/comments/1p01c70/d_tsinghua_iclr_paper_withdrawn_due_to_numerous/npfwof2/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npgbmx1",
+          "parent_id": "t1_npfwof2",
+          "author": "kidfromtheast",
+          "text_history": [
+            [
+              "A ZJU lab also faked results on ICLR 2025. 2 papers",
+              "2025-11-18T13:49:38.905338"
+            ]
+          ],
+          "score_history": [
+            [
+              24,
+              "2025-11-18T13:49:38.905338"
+            ],
+            [
+              24,
+              "2025-11-18T14:00:53.969800"
+            ],
+            [
+              25,
+              "2025-11-18T14:12:10.979893"
+            ],
+            [
+              27,
+              "2025-11-18T21:49:48.463007"
+            ],
+            [
+              25,
+              "2025-11-18T23:34:34.607525"
+            ],
+            [
+              26,
+              "2025-11-19T01:18:45.874909"
+            ],
+            [
+              27,
+              "2025-11-19T07:22:41.049121"
+            ]
+          ],
+          "created_utc": 1763447847.0,
+          "depth": 1,
+          "permalink": "/r/MachineLearning/comments/1p01c70/d_tsinghua_iclr_paper_withdrawn_due_to_numerous/npgbmx1/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        },
+        {
+          "id": "npgbueb",
+          "parent_id": "t1_npfwof2",
+          "author": "NeighborhoodFatCat",
+          "text_history": [
+            [
+              "Better than the AI rat. Will never get that image out of my head now.",
+              "2025-11-18T13:49:38.905338"
+            ]
+          ],
+          "score_history": [
+            [
+              9,
+              "2025-11-18T13:49:38.905338"
+            ],
+            [
+              9,
+              "2025-11-18T14:00:53.969800"
+            ],
+            [
+              9,
+              "2025-11-18T14:12:10.979893"
+            ],
+            [
+              9,
+              "2025-11-18T21:49:48.463007"
+            ],
+            [
+              10,
+              "2025-11-18T23:34:34.607525"
+            ],
+            [
+              10,
+              "2025-11-19T01:18:45.874909"
+            ],
+            [
+              8,
+              "2025-11-19T07:22:41.049121"
+            ]
+          ],
+          "created_utc": 1763447961.0,
+          "depth": 1,
+          "permalink": "/r/MachineLearning/comments/1p01c70/d_tsinghua_iclr_paper_withdrawn_due_to_numerous/npgbueb/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npg0k6i",
+      "parent_id": "t3_1p01c70",
+      "author": "Packafan",
+      "text_history": [
+        [
+          "This is the third time in the last few months I have come across a Tsinghua paper with serious issues like this. Unfortunately I now question everything coming out of that institution. Publish or perish is everywhere but in China high impact factor and high citation counts are everything for faculty positions and tenure, which leads to crap like this. With reviewers stretched thin they just hope it can sneak through",
+          "2025-11-18T13:49:38.905338"
+        ]
+      ],
+      "score_history": [
+        [
+          72,
+          "2025-11-18T13:49:38.905338"
+        ],
+        [
+          72,
+          "2025-11-18T14:00:53.969800"
+        ],
+        [
+          73,
+          "2025-11-18T14:12:10.979893"
+        ],
+        [
+          78,
+          "2025-11-18T21:49:48.463007"
+        ],
+        [
+          75,
+          "2025-11-18T23:34:34.607525"
+        ],
+        [
+          79,
+          "2025-11-19T01:18:45.874909"
+        ],
+        [
+          81,
+          "2025-11-19T07:22:41.049121"
+        ]
+      ],
+      "created_utc": 1763442167.0,
+      "depth": 0,
+      "permalink": "/r/MachineLearning/comments/1p01c70/d_tsinghua_iclr_paper_withdrawn_due_to_numerous/npg0k6i/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npgf1wu",
+          "parent_id": "t1_npg0k6i",
+          "author": "NeighborhoodFatCat",
+          "text_history": [
+            [
+              "* Yujia Wang, John D Smith, and Jane Doe. Incorporating clip into brain decoding: Zero-shot learning for fmri analysis. NeuroImage, 250:118956, 2022.\n* Aoxiao Luo, John D Smith, and Jane Doe. Brain diffusion for visual exploration: Cortical discovery using large scale generative models. arXiv preprint arXiv:2306.03089, 2023.\n* Enrico Ferrante, John D Smith, and Jane Doe. Brain captioning: Decoding human brain activity into images and text. arXiv preprint arXiv:2305.11560, 2023.\n\nWhat do you mean these are fake citations?",
+              "2025-11-18T13:49:38.905338"
+            ]
+          ],
+          "score_history": [
+            [
+              41,
+              "2025-11-18T13:49:38.905338"
+            ],
+            [
+              43,
+              "2025-11-18T14:00:53.969800"
+            ],
+            [
+              40,
+              "2025-11-18T14:12:10.979893"
+            ],
+            [
+              45,
+              "2025-11-18T21:49:48.463007"
+            ],
+            [
+              45,
+              "2025-11-18T23:34:34.607525"
+            ],
+            [
+              45,
+              "2025-11-19T01:18:45.874909"
+            ],
+            [
+              48,
+              "2025-11-19T07:22:41.049121"
+            ]
+          ],
+          "created_utc": 1763449725.0,
+          "depth": 1,
+          "permalink": "/r/MachineLearning/comments/1p01c70/d_tsinghua_iclr_paper_withdrawn_due_to_numerous/npgf1wu/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npgqhzx",
+              "parent_id": "t1_npgf1wu",
+              "author": "A_Decemberist",
+              "text_history": [
+                [
+                  "John D Smith and Jane Doe are a powerhouse ML couple known around the world",
+                  "2025-11-18T13:49:38.905338"
+                ]
+              ],
+              "score_history": [
+                [
+                  46,
+                  "2025-11-18T13:49:38.905338"
+                ],
+                [
+                  45,
+                  "2025-11-18T14:00:53.969800"
+                ],
+                [
+                  46,
+                  "2025-11-18T14:12:10.979893"
+                ],
+                [
+                  53,
+                  "2025-11-18T21:49:48.463007"
+                ],
+                [
+                  52,
+                  "2025-11-18T23:34:34.607525"
+                ],
+                [
+                  55,
+                  "2025-11-19T01:18:45.874909"
+                ],
+                [
+                  54,
+                  "2025-11-19T07:22:41.049121"
+                ]
+              ],
+              "created_utc": 1763456774.0,
+              "depth": 2,
+              "permalink": "/r/MachineLearning/comments/1p01c70/d_tsinghua_iclr_paper_withdrawn_due_to_numerous/npgqhzx/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": [
+                {
+                  "id": "npgviuc",
+                  "parent_id": "t1_npgqhzx",
+                  "author": "muntoo",
+                  "text_history": [
+                    [
+                      "Mr. and Mrs. Smith (academically Doe) lead double lives: they are famous assassins that—unbeknownst to the adoring public—secretly moonlight as ML researchers.",
+                      "2025-11-18T13:49:38.905338"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      13,
+                      "2025-11-18T13:49:38.905338"
+                    ],
+                    [
+                      13,
+                      "2025-11-18T14:00:53.969800"
+                    ],
+                    [
+                      14,
+                      "2025-11-18T14:12:10.979893"
+                    ],
+                    [
+                      17,
+                      "2025-11-18T21:49:48.463007"
+                    ],
+                    [
+                      16,
+                      "2025-11-18T23:34:34.607525"
+                    ],
+                    [
+                      18,
+                      "2025-11-19T01:18:45.874909"
+                    ],
+                    [
+                      17,
+                      "2025-11-19T07:22:41.049121"
+                    ]
+                  ],
+                  "created_utc": 1763459975.0,
+                  "depth": 3,
+                  "permalink": "/r/MachineLearning/comments/1p01c70/d_tsinghua_iclr_paper_withdrawn_due_to_numerous/npgviuc/",
+                  "is_submitter": false,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": [
+                    {
+                      "id": "nph6szt",
+                      "parent_id": "t1_npgviuc",
+                      "author": "A_Decemberist",
+                      "text_history": [
+                        [
+                          "I really liked their international murder spree, but wasn’t a big fan of the ablations section of their most recent paper tbh",
+                          "2025-11-18T13:49:38.905338"
+                        ]
+                      ],
+                      "score_history": [
+                        [
+                          6,
+                          "2025-11-18T13:49:38.905338"
+                        ],
+                        [
+                          5,
+                          "2025-11-18T14:00:53.969800"
+                        ],
+                        [
+                          7,
+                          "2025-11-18T14:12:10.979893"
+                        ],
+                        [
+                          7,
+                          "2025-11-18T21:49:48.463007"
+                        ],
+                        [
+                          7,
+                          "2025-11-18T23:34:34.607525"
+                        ],
+                        [
+                          8,
+                          "2025-11-19T01:18:45.874909"
+                        ],
+                        [
+                          7,
+                          "2025-11-19T07:22:41.049121"
+                        ]
+                      ],
+                      "created_utc": 1763466376.0,
+                      "depth": 4,
+                      "permalink": "/r/MachineLearning/comments/1p01c70/d_tsinghua_iclr_paper_withdrawn_due_to_numerous/nph6szt/",
+                      "is_submitter": false,
+                      "controversiality": 0,
+                      "gilded": 0,
+                      "edited": false,
+                      "deleted": false,
+                      "deleted_at": null,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "nph5j2y",
+                  "parent_id": "t1_npgqhzx",
+                  "author": "NeighborhoodFatCat",
+                  "text_history": [
+                    [
+                      "I was curious to see if this was the only instance where John Smith and Jane Doe was cited. I quickly found another suspicious one\n\n**Example:**\n\nTrueGL: A Truthful, Reliable, and Unified Engine for Grounded Learning in Full-Stack Search \n\n[https://arxiv.org/html/2506.12072v2](https://arxiv.org/html/2506.12072v2)\n\nby Joydeep Chandra,  Aleksandr Algazinov, Satyam Kumar Navneet, Rim El Filali  \nMatt Laing, Andrew Hanna, ALSO from Tsinghua University. \n\nIt cites \"Pre-cofactv3: A comprehensive framework comprised of qa and text classification for fact verification\" by John Doe et al. But a quick Google scholar search cannot find this paper. \n\nSince these researchers do not understand the nuance of these names, therefore this may be a way to quickly detect AI generated citation (and let's face it, if the citation is fake then the research is probably also fake).",
+                      "2025-11-18T13:49:38.905338"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      19,
+                      "2025-11-18T13:49:38.905338"
+                    ],
+                    [
+                      18,
+                      "2025-11-18T14:00:53.969800"
+                    ],
+                    [
+                      18,
+                      "2025-11-18T14:12:10.979893"
+                    ],
+                    [
+                      19,
+                      "2025-11-18T21:49:48.463007"
+                    ],
+                    [
+                      21,
+                      "2025-11-18T23:34:34.607525"
+                    ],
+                    [
+                      20,
+                      "2025-11-19T01:18:45.874909"
+                    ],
+                    [
+                      21,
+                      "2025-11-19T07:22:41.049121"
+                    ]
+                  ],
+                  "created_utc": 1763465751.0,
+                  "depth": 3,
+                  "permalink": "/r/MachineLearning/comments/1p01c70/d_tsinghua_iclr_paper_withdrawn_due_to_numerous/nph5j2y/",
+                  "is_submitter": false,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": [
+                    {
+                      "id": "nph6blf",
+                      "parent_id": "t1_nph5j2y",
+                      "author": "A_Decemberist",
+                      "text_history": [
+                        [
+                          "lol I think you may be right that they don’t understand the nuances of the names, like an American wouldn’t be able to tell which hallucinated  Chinese names were legit or their connotations",
+                          "2025-11-18T13:49:38.905338"
+                        ]
+                      ],
+                      "score_history": [
+                        [
+                          18,
+                          "2025-11-18T13:49:38.905338"
+                        ],
+                        [
+                          17,
+                          "2025-11-18T14:00:53.969800"
+                        ],
+                        [
+                          18,
+                          "2025-11-18T14:12:10.979893"
+                        ],
+                        [
+                          19,
+                          "2025-11-18T21:49:48.463007"
+                        ],
+                        [
+                          18,
+                          "2025-11-18T23:34:34.607525"
+                        ],
+                        [
+                          18,
+                          "2025-11-19T01:18:45.874909"
+                        ],
+                        [
+                          18,
+                          "2025-11-19T07:22:41.049121"
+                        ]
+                      ],
+                      "created_utc": 1763466144.0,
+                      "depth": 4,
+                      "permalink": "/r/MachineLearning/comments/1p01c70/d_tsinghua_iclr_paper_withdrawn_due_to_numerous/nph6blf/",
+                      "is_submitter": false,
+                      "controversiality": 0,
+                      "gilded": 0,
+                      "edited": false,
+                      "deleted": false,
+                      "deleted_at": null,
+                      "replies": []
+                    },
+                    {
+                      "id": "nphtslr",
+                      "parent_id": "t1_nph5j2y",
+                      "author": "A_Decemberist",
+                      "text_history": [
+                        [
+                          "Thinking about this further, I wonder if these particular fake names popping up repeatedly are an artifact of one of the Chinese LLMs, or if it was a function of copy paste from the hallucinated names in other papers?",
+                          "2025-11-18T13:49:38.905338"
+                        ]
+                      ],
+                      "score_history": [
+                        [
+                          3,
+                          "2025-11-18T13:49:38.905338"
+                        ],
+                        [
+                          3,
+                          "2025-11-18T14:00:53.969800"
+                        ],
+                        [
+                          3,
+                          "2025-11-18T14:12:10.979893"
+                        ],
+                        [
+                          3,
+                          "2025-11-18T21:49:48.463007"
+                        ],
+                        [
+                          3,
+                          "2025-11-18T23:34:34.607525"
+                        ],
+                        [
+                          3,
+                          "2025-11-19T01:18:45.874909"
+                        ],
+                        [
+                          5,
+                          "2025-11-19T07:22:41.049121"
+                        ]
+                      ],
+                      "created_utc": 1763474996.0,
+                      "depth": 4,
+                      "permalink": "/r/MachineLearning/comments/1p01c70/d_tsinghua_iclr_paper_withdrawn_due_to_numerous/nphtslr/",
+                      "is_submitter": false,
+                      "controversiality": 0,
+                      "gilded": 0,
+                      "edited": false,
+                      "deleted": false,
+                      "deleted_at": null,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "npgnxm4",
+              "parent_id": "t1_npgf1wu",
+              "author": "Megneous",
+              "text_history": [
+                [
+                  "Jesus Christ, this is awful. I too write working papers/proposals using AI, but for the citations and bibliography I use BibTex citations and LaTeX to organize them...",
+                  "2025-11-18T13:49:38.905338"
+                ]
+              ],
+              "score_history": [
+                [
+                  9,
+                  "2025-11-18T13:49:38.905338"
+                ],
+                [
+                  8,
+                  "2025-11-18T14:00:53.969800"
+                ],
+                [
+                  9,
+                  "2025-11-18T14:12:10.979893"
+                ],
+                [
+                  9,
+                  "2025-11-18T21:49:48.463007"
+                ],
+                [
+                  8,
+                  "2025-11-18T23:34:34.607525"
+                ],
+                [
+                  10,
+                  "2025-11-19T01:18:45.874909"
+                ],
+                [
+                  9,
+                  "2025-11-19T07:22:41.049121"
+                ]
+              ],
+              "created_utc": 1763455150.0,
+              "depth": 2,
+              "permalink": "/r/MachineLearning/comments/1p01c70/d_tsinghua_iclr_paper_withdrawn_due_to_numerous/npgnxm4/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "npgk602",
+          "parent_id": "t1_npg0k6i",
+          "author": "One_Citron_4350",
+          "text_history": [
+            [
+              "Who would have expected coming from those \"elite institutions in China\". People should have known better.",
+              "2025-11-18T13:49:38.905338"
+            ]
+          ],
+          "score_history": [
+            [
+              -4,
+              "2025-11-18T13:49:38.905338"
+            ],
+            [
+              -4,
+              "2025-11-18T14:00:53.969800"
+            ],
+            [
+              -4,
+              "2025-11-18T14:12:10.979893"
+            ],
+            [
+              -6,
+              "2025-11-18T21:49:48.463007"
+            ],
+            [
+              -6,
+              "2025-11-18T23:34:34.607525"
+            ],
+            [
+              -6,
+              "2025-11-19T01:18:45.874909"
+            ],
+            [
+              -6,
+              "2025-11-19T07:22:41.049121"
+            ]
+          ],
+          "created_utc": 1763452797.0,
+          "depth": 1,
+          "permalink": "/r/MachineLearning/comments/1p01c70/d_tsinghua_iclr_paper_withdrawn_due_to_numerous/npgk602/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npi150b",
+              "parent_id": "t1_npgk602",
+              "author": "CuriousAIVillager",
+              "text_history": [
+                [
+                  "The institutions are elite for sure. But… idk",
+                  "2025-11-18T13:49:38.905338"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-18T13:49:38.905338"
+                ],
+                [
+                  1,
+                  "2025-11-18T14:00:53.969800"
+                ],
+                [
+                  1,
+                  "2025-11-18T14:12:10.979893"
+                ],
+                [
+                  1,
+                  "2025-11-18T21:49:48.463007"
+                ],
+                [
+                  1,
+                  "2025-11-18T23:34:34.607525"
+                ],
+                [
+                  1,
+                  "2025-11-19T01:18:45.874909"
+                ],
+                [
+                  1,
+                  "2025-11-19T07:22:41.049121"
+                ]
+              ],
+              "created_utc": 1763477330.0,
+              "depth": 2,
+              "permalink": "/r/MachineLearning/comments/1p01c70/d_tsinghua_iclr_paper_withdrawn_due_to_numerous/npi150b/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "npgbbxj",
+      "parent_id": "t3_1p01c70",
+      "author": "NeighborhoodFatCat",
+      "text_history": [
+        [
+          "Not surprised. A recent paper coming out FROM China is saying that most Chinese academics are engaging in misconduct\n\n[https://journals.sagepub.com/doi/10.1177/17470161241247720](https://journals.sagepub.com/doi/10.1177/17470161241247720)\n\nExcerpts\n\n* I admit that I indeed engaged in academic misconduct. However, if you (university and faculty leaders) had not implemented such inhumane policies and forced us so harshly \\[to publish as many articles as possible in SCI journals\\], I wouldn’t have resorted to unethical means.\n* As leaders, we are well aware of academic misconduct within the faculty. Apart from a few senior professors, most of the younger generation engage in various forms of misconduct with differing severity levels. They do so because they face difficulties meeting promotion criteria, and we do not want to complicate matters. As long as they publish their articles \\[in SCI journals\\], that is all the university and faculty need. (Interview A15, 2022, personal communication)\n* After being promoted to associate professor, I worried that my misconduct could be reported by others to the university. However, nothing has happened so far. I guess that the \\[faculty and department\\] leaders wanted to compensate for my contribution to the national project \\[by turning a blind eye to my unethical research activities\\]. (Interview A28, 2021, personal communication)\n* I had no choice but to commit \\[research\\] misconduct. I bought access to an official archive and altered the data to support my hypotheses. Moreover, I found someone who could help me write \\[up articles\\] and have them published. . . . Money is the answer to everything. I met all the required criteria in just a few months and eventually secured a permanent position in the faculty. (Interview A2, 2022, personal communication)\n* When we discussed these failed tenure cases and faculty members’ complaints about the promotion and tenure criteria with department heads and faculty deans, they informed us that they were fully aware of these complaints. However, these promotion criteria are non-negotiable. As one faculty leader explained: They \\[faculty members\\] have complaints about the promotion criteria; we are all aware of this. However, we have no choice. The university has set the goal, and it cannot be changed. If anyone cannot meet the criteria \\[concerning publications\\], I suggest that they leave as soon as possible. (Interview A20, 2021, personal communication)",
+          "2025-11-18T13:49:38.905338"
+        ]
+      ],
+      "score_history": [
+        [
+          76,
+          "2025-11-18T13:49:38.905338"
+        ],
+        [
+          80,
+          "2025-11-18T14:00:53.969800"
+        ],
+        [
+          80,
+          "2025-11-18T14:12:10.979893"
+        ],
+        [
+          85,
+          "2025-11-18T21:49:48.463007"
+        ],
+        [
+          86,
+          "2025-11-18T23:34:34.607525"
+        ],
+        [
+          85,
+          "2025-11-19T01:18:45.874909"
+        ],
+        [
+          85,
+          "2025-11-19T07:22:41.049121"
+        ]
+      ],
+      "created_utc": 1763447685.0,
+      "depth": 0,
+      "permalink": "/r/MachineLearning/comments/1p01c70/d_tsinghua_iclr_paper_withdrawn_due_to_numerous/npgbbxj/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "nphxctz",
+          "parent_id": "t1_npgbbxj",
+          "author": "Fresh-Opportunity989",
+          "text_history": [
+            [
+              "Dang.  No wonder there are so many junk submissions clogging up the works.",
+              "2025-11-18T13:49:38.905338"
+            ]
+          ],
+          "score_history": [
+            [
+              6,
+              "2025-11-18T13:49:38.905338"
+            ],
+            [
+              7,
+              "2025-11-18T14:00:53.969800"
+            ],
+            [
+              7,
+              "2025-11-18T14:12:10.979893"
+            ],
+            [
+              8,
+              "2025-11-18T21:49:48.463007"
+            ],
+            [
+              8,
+              "2025-11-18T23:34:34.607525"
+            ],
+            [
+              8,
+              "2025-11-19T01:18:45.874909"
+            ],
+            [
+              8,
+              "2025-11-19T07:22:41.049121"
+            ]
+          ],
+          "created_utc": 1763476121.0,
+          "depth": 1,
+          "permalink": "/r/MachineLearning/comments/1p01c70/d_tsinghua_iclr_paper_withdrawn_due_to_numerous/nphxctz/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npi9twh",
+              "parent_id": "t1_nphxctz",
+              "author": "NeighborhoodFatCat",
+              "text_history": [
+                [
+                  "Not just China.\n\n[https://arxiv.org/html/2509.07257v2](https://arxiv.org/html/2509.07257v2)\n\nMined the list of **highly cited researchers (HCR) in mathematics** (obviously based on publication and citation count and things like that) and they found most of them were from \"China medical University\" in Taiwan...\n\n...which has no math department. Stanford and UCLA (where Terence Tao is based) doesn't even come close.",
+                  "2025-11-18T13:49:38.905338"
+                ]
+              ],
+              "score_history": [
+                [
+                  8,
+                  "2025-11-18T13:49:38.905338"
+                ],
+                [
+                  7,
+                  "2025-11-18T14:00:53.969800"
+                ],
+                [
+                  8,
+                  "2025-11-18T14:12:10.979893"
+                ],
+                [
+                  7,
+                  "2025-11-18T21:49:48.463007"
+                ],
+                [
+                  8,
+                  "2025-11-18T23:34:34.607525"
+                ],
+                [
+                  7,
+                  "2025-11-19T01:18:45.874909"
+                ],
+                [
+                  8,
+                  "2025-11-19T07:22:41.049121"
+                ]
+              ],
+              "created_utc": 1763480020.0,
+              "depth": 2,
+              "permalink": "/r/MachineLearning/comments/1p01c70/d_tsinghua_iclr_paper_withdrawn_due_to_numerous/npi9twh/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "npg5nbh",
+      "parent_id": "t3_1p01c70",
+      "author": "ClearlyCylindrical",
+      "text_history": [
+        [
+          "Take anything coming out of a Chinese university with a grain of salt, lots of nonsense is coming from \"top\" Chinese universities these days. Lots of pressure to publish as much as possible without much regard to the quality of said research.",
+          "2025-11-18T13:49:38.905338"
+        ]
+      ],
+      "score_history": [
+        [
+          30,
+          "2025-11-18T13:49:38.905338"
+        ],
+        [
+          29,
+          "2025-11-18T14:00:53.969800"
+        ],
+        [
+          31,
+          "2025-11-18T14:12:10.979893"
+        ],
+        [
+          33,
+          "2025-11-18T21:49:48.463007"
+        ],
+        [
+          34,
+          "2025-11-18T23:34:34.607525"
+        ],
+        [
+          33,
+          "2025-11-19T01:18:45.874909"
+        ],
+        [
+          35,
+          "2025-11-19T07:22:41.049121"
+        ]
+      ],
+      "created_utc": 1763444653.0,
+      "depth": 0,
+      "permalink": "/r/MachineLearning/comments/1p01c70/d_tsinghua_iclr_paper_withdrawn_due_to_numerous/npg5nbh/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npg646y",
+          "parent_id": "t1_npg5nbh",
+          "author": "penifSMASH",
+          "text_history": [
+            [
+              "Been like this for a while in many fields. They have the highest retraction rates",
+              "2025-11-18T13:49:38.905338"
+            ]
+          ],
+          "score_history": [
+            [
+              11,
+              "2025-11-18T13:49:38.905338"
+            ],
+            [
+              11,
+              "2025-11-18T14:00:53.969800"
+            ],
+            [
+              11,
+              "2025-11-18T14:12:10.979893"
+            ],
+            [
+              11,
+              "2025-11-18T21:49:48.463007"
+            ],
+            [
+              11,
+              "2025-11-18T23:34:34.607525"
+            ],
+            [
+              11,
+              "2025-11-19T01:18:45.874909"
+            ],
+            [
+              12,
+              "2025-11-19T07:22:41.049121"
+            ]
+          ],
+          "created_utc": 1763444892.0,
+          "depth": 1,
+          "permalink": "/r/MachineLearning/comments/1p01c70/d_tsinghua_iclr_paper_withdrawn_due_to_numerous/npg646y/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        },
+        {
+          "id": "npgbe0o",
+          "parent_id": "t1_npg5nbh",
+          "author": "NeighborhoodFatCat",
+          "text_history": [
+            [
+              "Absolutely. Here is a paper from China criticizing the research in China. [https://journals.sagepub.com/doi/10.1177/17470161241247720](https://journals.sagepub.com/doi/10.1177/17470161241247720)",
+              "2025-11-18T13:49:38.905338"
+            ]
+          ],
+          "score_history": [
+            [
+              13,
+              "2025-11-18T13:49:38.905338"
+            ],
+            [
+              13,
+              "2025-11-18T14:00:53.969800"
+            ],
+            [
+              13,
+              "2025-11-18T14:12:10.979893"
+            ],
+            [
+              13,
+              "2025-11-18T21:49:48.463007"
+            ],
+            [
+              13,
+              "2025-11-18T23:34:34.607525"
+            ],
+            [
+              13,
+              "2025-11-19T01:18:45.874909"
+            ],
+            [
+              13,
+              "2025-11-19T07:22:41.049121"
+            ]
+          ],
+          "created_utc": 1763447716.0,
+          "depth": 1,
+          "permalink": "/r/MachineLearning/comments/1p01c70/d_tsinghua_iclr_paper_withdrawn_due_to_numerous/npgbe0o/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npgl5uy",
+      "parent_id": "t3_1p01c70",
+      "author": "impossiblefork",
+      "text_history": [
+        [
+          "ML was always iffy.\n\nThe culture was always sick compared to that in TCS and mathematics.",
+          "2025-11-18T13:49:38.905338"
+        ]
+      ],
+      "score_history": [
+        [
+          14,
+          "2025-11-18T13:49:38.905338"
+        ],
+        [
+          15,
+          "2025-11-18T14:00:53.969800"
+        ],
+        [
+          15,
+          "2025-11-18T14:12:10.979893"
+        ],
+        [
+          16,
+          "2025-11-18T21:49:48.463007"
+        ],
+        [
+          15,
+          "2025-11-18T23:34:34.607525"
+        ],
+        [
+          15,
+          "2025-11-19T01:18:45.874909"
+        ],
+        [
+          14,
+          "2025-11-19T07:22:41.049121"
+        ]
+      ],
+      "created_utc": 1763453413.0,
+      "depth": 0,
+      "permalink": "/r/MachineLearning/comments/1p01c70/d_tsinghua_iclr_paper_withdrawn_due_to_numerous/npgl5uy/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npgoueh",
+          "parent_id": "t1_npgl5uy",
+          "author": "SignificanceFit3409",
+          "text_history": [
+            [
+              "I completely agree. In TCS and formal methods the community is clearly better",
+              "2025-11-18T13:49:38.905338"
+            ]
+          ],
+          "score_history": [
+            [
+              8,
+              "2025-11-18T13:49:38.905338"
+            ],
+            [
+              9,
+              "2025-11-18T14:00:53.969800"
+            ],
+            [
+              8,
+              "2025-11-18T14:12:10.979893"
+            ],
+            [
+              9,
+              "2025-11-18T21:49:48.463007"
+            ],
+            [
+              9,
+              "2025-11-18T23:34:34.607525"
+            ],
+            [
+              9,
+              "2025-11-19T01:18:45.874909"
+            ],
+            [
+              11,
+              "2025-11-19T07:22:41.049121"
+            ]
+          ],
+          "created_utc": 1763455730.0,
+          "depth": 1,
+          "permalink": "/r/MachineLearning/comments/1p01c70/d_tsinghua_iclr_paper_withdrawn_due_to_numerous/npgoueh/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npfxhze",
+      "parent_id": "t3_1p01c70",
+      "author": "IndividualWitty1235",
+      "text_history": [
+        [
+          "Is 2026 ICLR a top-tier conference? Who can say for sure?",
+          "2025-11-18T13:49:38.905338"
+        ]
+      ],
+      "score_history": [
+        [
+          22,
+          "2025-11-18T13:49:38.905338"
+        ],
+        [
+          22,
+          "2025-11-18T14:00:53.969800"
+        ],
+        [
+          23,
+          "2025-11-18T14:12:10.979893"
+        ],
+        [
+          21,
+          "2025-11-18T21:49:48.463007"
+        ],
+        [
+          21,
+          "2025-11-18T23:34:34.607525"
+        ],
+        [
+          20,
+          "2025-11-19T01:18:45.874909"
+        ],
+        [
+          21,
+          "2025-11-19T07:22:41.049121"
+        ]
+      ],
+      "created_utc": 1763440775.0,
+      "depth": 0,
+      "permalink": "/r/MachineLearning/comments/1p01c70/d_tsinghua_iclr_paper_withdrawn_due_to_numerous/npfxhze/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npg8hax",
+          "parent_id": "t1_npfxhze",
+          "author": "Adventurous-Cut-7077",
+          "text_history": [
+            [
+              "As a reviewer and author for all big conferences this year. I can say that my personal rankings for papers I’ve seen this year are:\n\nNeurIPS &gt; ICML &gt;= AAAI &gt; ICLR \n\nSome people had their egos massively hurt by AAAI rejecting them in Phase 1 this year so they throw shade. I got rejected in Phase 2 of AAAI but it is what it is.",
+              "2025-11-18T13:49:38.905338"
+            ]
+          ],
+          "score_history": [
+            [
+              15,
+              "2025-11-18T13:49:38.905338"
+            ],
+            [
+              14,
+              "2025-11-18T14:00:53.969800"
+            ],
+            [
+              14,
+              "2025-11-18T14:12:10.979893"
+            ],
+            [
+              12,
+              "2025-11-18T21:49:48.463007"
+            ],
+            [
+              11,
+              "2025-11-18T23:34:34.607525"
+            ],
+            [
+              11,
+              "2025-11-19T01:18:45.874909"
+            ],
+            [
+              10,
+              "2025-11-19T07:22:41.049121"
+            ]
+          ],
+          "created_utc": 1763446143.0,
+          "depth": 1,
+          "permalink": "/r/MachineLearning/comments/1p01c70/d_tsinghua_iclr_paper_withdrawn_due_to_numerous/npg8hax/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npgvey1",
+              "parent_id": "t1_npg8hax",
+              "author": "felolorocher",
+              "text_history": [
+                [
+                  "The main issue of AAAI phase 1 rejection was not being able to even rebuttal. We got something like 6,5,5 with two reviewers giving absolutely trash reviews",
+                  "2025-11-18T13:49:38.905338"
+                ]
+              ],
+              "score_history": [
+                [
+                  8,
+                  "2025-11-18T13:49:38.905338"
+                ],
+                [
+                  9,
+                  "2025-11-18T14:00:53.969800"
+                ],
+                [
+                  8,
+                  "2025-11-18T14:12:10.979893"
+                ],
+                [
+                  8,
+                  "2025-11-18T21:49:48.463007"
+                ],
+                [
+                  9,
+                  "2025-11-18T23:34:34.607525"
+                ],
+                [
+                  7,
+                  "2025-11-19T01:18:45.874909"
+                ],
+                [
+                  7,
+                  "2025-11-19T07:22:41.049121"
+                ]
+              ],
+              "created_utc": 1763459909.0,
+              "depth": 2,
+              "permalink": "/r/MachineLearning/comments/1p01c70/d_tsinghua_iclr_paper_withdrawn_due_to_numerous/npgvey1/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": [
+                {
+                  "id": "npodm20",
+                  "parent_id": "t1_npgvey1",
+                  "author": "akward_tension",
+                  "text_history": [
+                    [
+                      "AAAI's mistake is to not communicate the Phase 1 SPC and AC reviews to the authors. I almost guarantee you that the meta-reviewers were actually experts of your field, and the decision was justified in the meta-reviews.",
+                      "2025-11-19T07:22:41.049121"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      2,
+                      "2025-11-19T07:22:41.049121"
+                    ]
+                  ],
+                  "created_utc": 1763564060.0,
+                  "depth": 3,
+                  "permalink": "/r/MachineLearning/comments/1p01c70/d_tsinghua_iclr_paper_withdrawn_due_to_numerous/npodm20/",
+                  "is_submitter": false,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": [
+                    {
+                      "id": "npoepeg",
+                      "parent_id": "t1_npodm20",
+                      "author": "felolorocher",
+                      "text_history": [
+                        [
+                          "Yes agreed. 100% sure it came down to the AC although AAAI’s decision to cap the number of vision papers ultimately does add a lot of randomness to it",
+                          "2025-11-19T07:22:41.049121"
+                        ]
+                      ],
+                      "score_history": [
+                        [
+                          1,
+                          "2025-11-19T07:22:41.049121"
+                        ]
+                      ],
+                      "created_utc": 1763564410.0,
+                      "depth": 4,
+                      "permalink": "/r/MachineLearning/comments/1p01c70/d_tsinghua_iclr_paper_withdrawn_due_to_numerous/npoepeg/",
+                      "is_submitter": false,
+                      "controversiality": 0,
+                      "gilded": 0,
+                      "edited": false,
+                      "deleted": false,
+                      "deleted_at": null,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "npg5rnz",
+          "parent_id": "t1_npfxhze",
+          "author": "Feuilius",
+          "text_history": [
+            [
+              "Is ICLR-26 &lt; AAAI-26?",
+              "2025-11-18T13:49:38.905338"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T13:49:38.905338"
+            ],
+            [
+              0,
+              "2025-11-18T14:00:53.969800"
+            ],
+            [
+              1,
+              "2025-11-18T14:12:10.979893"
+            ],
+            [
+              0,
+              "2025-11-18T21:49:48.463007"
+            ],
+            [
+              -1,
+              "2025-11-18T23:34:34.607525"
+            ],
+            [
+              -1,
+              "2025-11-19T01:18:45.874909"
+            ],
+            [
+              -2,
+              "2025-11-19T07:22:41.049121"
+            ]
+          ],
+          "created_utc": 1763444713.0,
+          "depth": 1,
+          "permalink": "/r/MachineLearning/comments/1p01c70/d_tsinghua_iclr_paper_withdrawn_due_to_numerous/npg5rnz/",
+          "is_submitter": false,
+          "controversiality": 1,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npg8p2s",
+              "parent_id": "t1_npg5rnz",
+              "author": "Dangerous-Hat1402",
+              "text_history": [
+                [
+                  "Aaai is the worst conference ever. They reject high score papers without giving any reason. I doubt that the senior PC simply rejected all competitive papers to enhance their own probability of being accepted. ",
+                  "2025-11-18T13:49:38.905338"
+                ]
+              ],
+              "score_history": [
+                [
+                  12,
+                  "2025-11-18T13:49:38.905338"
+                ],
+                [
+                  12,
+                  "2025-11-18T14:00:53.969800"
+                ],
+                [
+                  13,
+                  "2025-11-18T14:12:10.979893"
+                ],
+                [
+                  15,
+                  "2025-11-18T21:49:48.463007"
+                ],
+                [
+                  15,
+                  "2025-11-18T23:34:34.607525"
+                ],
+                [
+                  16,
+                  "2025-11-19T01:18:45.874909"
+                ],
+                [
+                  14,
+                  "2025-11-19T07:22:41.049121"
+                ]
+              ],
+              "created_utc": 1763446260.0,
+              "depth": 2,
+              "permalink": "/r/MachineLearning/comments/1p01c70/d_tsinghua_iclr_paper_withdrawn_due_to_numerous/npg8p2s/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": [
+                {
+                  "id": "npg8xjn",
+                  "parent_id": "t1_npg8p2s",
+                  "author": "Adventurous-Cut-7077",
+                  "text_history": [
+                    [
+                      "High scores don’t mean much when they’re ChatGPT generated scores. I’ve had to fight some reviewers who gave high scores because they missed key inconsistencies in papers and talk like they don’t understand the subject matter of the paper. The meta reviewer agreed with me and overrode their high scores to reject the paper I’m talking about.",
+                      "2025-11-18T13:49:38.905338"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      14,
+                      "2025-11-18T13:49:38.905338"
+                    ],
+                    [
+                      12,
+                      "2025-11-18T14:00:53.969800"
+                    ],
+                    [
+                      14,
+                      "2025-11-18T14:12:10.979893"
+                    ],
+                    [
+                      13,
+                      "2025-11-18T21:49:48.463007"
+                    ],
+                    [
+                      13,
+                      "2025-11-18T23:34:34.607525"
+                    ],
+                    [
+                      14,
+                      "2025-11-19T01:18:45.874909"
+                    ],
+                    [
+                      13,
+                      "2025-11-19T07:22:41.049121"
+                    ]
+                  ],
+                  "created_utc": 1763446386.0,
+                  "depth": 3,
+                  "permalink": "/r/MachineLearning/comments/1p01c70/d_tsinghua_iclr_paper_withdrawn_due_to_numerous/npg8xjn/",
+                  "is_submitter": false,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": []
+                },
+                {
+                  "id": "npgg9ba",
+                  "parent_id": "t1_npg8p2s",
+                  "author": "NeighborhoodFatCat",
+                  "text_history": [
+                    [
+                      "I would sincerely encourage people stop submitting to AAAI. AAAI have accepted some atrocious papers in a field that I am familiar with. Those papers are sitting with zero citations after many years and has caused massive confusion to new comers in the field because they show up whenever you google the topic.\n\nI am not some random AAAI hater and I have nothing to gain from this. They probably have good papers. But conferences/journals all have reputations to uphold, but they won't usually tell you the truth.",
+                      "2025-11-18T13:49:38.905338"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      4,
+                      "2025-11-18T13:49:38.905338"
+                    ],
+                    [
+                      3,
+                      "2025-11-18T14:00:53.969800"
+                    ],
+                    [
+                      3,
+                      "2025-11-18T14:12:10.979893"
+                    ],
+                    [
+                      2,
+                      "2025-11-18T21:49:48.463007"
+                    ],
+                    [
+                      2,
+                      "2025-11-18T23:34:34.607525"
+                    ],
+                    [
+                      3,
+                      "2025-11-19T01:18:45.874909"
+                    ],
+                    [
+                      3,
+                      "2025-11-19T07:22:41.049121"
+                    ]
+                  ],
+                  "created_utc": 1763450432.0,
+                  "depth": 3,
+                  "permalink": "/r/MachineLearning/comments/1p01c70/d_tsinghua_iclr_paper_withdrawn_due_to_numerous/npgg9ba/",
+                  "is_submitter": false,
+                  "controversiality": 1,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "npfwrix",
+      "parent_id": "t3_1p01c70",
+      "author": "treeman0469",
+      "text_history": [
+        [
+          "To be fair:   \n1. The OT paper is very interesting but needs to have an introduction, related works, discussion, experiments with ML tasks, etc. Otherwise, its utility is very unclear to the reader.   \n  \n2. Reviewers missing details, making mistakes, and having misconceptions always happens (this year, it happened quite a bit in my ICLR submission and also during the NeurIPS rebuttal process). I understand being fed up, but I think it is worth clarifying instead of withdrawing the paper outright. Also, saying \"It is a flagrant desecration of the reviewer's sacred duty\" makes the authors sound like they have been reading too many webnovels, lol.   \n  \n3. Not all of them were clearly AI generated; I'm not sure why the authors withdrew? They had a chance in the rebuttal process despite the 2s. \n\n4. Wow, the Tsinghua one is really bad.",
+          "2025-11-18T13:49:38.905338"
+        ]
+      ],
+      "score_history": [
+        [
+          26,
+          "2025-11-18T13:49:38.905338"
+        ],
+        [
+          27,
+          "2025-11-18T14:00:53.969800"
+        ],
+        [
+          27,
+          "2025-11-18T14:12:10.979893"
+        ],
+        [
+          26,
+          "2025-11-18T21:49:48.463007"
+        ],
+        [
+          27,
+          "2025-11-18T23:34:34.607525"
+        ],
+        [
+          27,
+          "2025-11-19T01:18:45.874909"
+        ],
+        [
+          27,
+          "2025-11-19T07:22:41.049121"
+        ]
+      ],
+      "created_utc": 1763440446.0,
+      "depth": 0,
+      "permalink": "/r/MachineLearning/comments/1p01c70/d_tsinghua_iclr_paper_withdrawn_due_to_numerous/npfwrix/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npghlis",
+          "parent_id": "t1_npfwrix",
+          "author": "NeighborhoodFatCat",
+          "text_history": [
+            [
+              "I ran through some other papers by the Tsinghua researchers [Zicong He](https://openreview.net/profile?id=~Zicong_He1), [ShiRunze](https://openreview.net/profile?id=~ShiRunze1), [Tianxing He](https://openreview.net/profile?id=~Tianxing_He1), [Lu Mi](https://openreview.net/profile?id=~Lu_Mi1) through ChatGPT and Chat gave me a list of citation errors just for one of their papers. Someone should dig into these people's publications.\n\nIt is not surprising at all if you've interacted or worked in a Chinese environment. Chinese students are notorious not obey any ethics and actually see ethics as kind of a barrier or a challenge. Just look at the academic misconduct report at any university in North America, Xu this, Li that, Zhang did that.\n\nBefore anyone call me a sinophobe or a racist, the most effective way for induce change within China is to apply external pressure. All I care about is maintaining an environment where honest people can succeed.",
+              "2025-11-18T13:49:38.905338"
+            ]
+          ],
+          "score_history": [
+            [
+              12,
+              "2025-11-18T13:49:38.905338"
+            ],
+            [
+              10,
+              "2025-11-18T14:00:53.969800"
+            ],
+            [
+              12,
+              "2025-11-18T14:12:10.979893"
+            ],
+            [
+              12,
+              "2025-11-18T21:49:48.463007"
+            ],
+            [
+              11,
+              "2025-11-18T23:34:34.607525"
+            ],
+            [
+              12,
+              "2025-11-19T01:18:45.874909"
+            ],
+            [
+              12,
+              "2025-11-19T07:22:41.049121"
+            ]
+          ],
+          "created_utc": 1763451238.0,
+          "depth": 1,
+          "permalink": "/r/MachineLearning/comments/1p01c70/d_tsinghua_iclr_paper_withdrawn_due_to_numerous/npghlis/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": 1763451428.0,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        },
+        {
+          "id": "npg900r",
+          "parent_id": "t1_npfwrix",
+          "author": "azraelxii",
+          "text_history": [
+            [
+              "I have withdrawn if it seems like an uphill battle or the reviewers seen unpersuadable. Easier to get it ready for the next deadline then waste time",
+              "2025-11-18T13:49:38.905338"
+            ]
+          ],
+          "score_history": [
+            [
+              3,
+              "2025-11-18T13:49:38.905338"
+            ],
+            [
+              3,
+              "2025-11-18T14:00:53.969800"
+            ],
+            [
+              3,
+              "2025-11-18T14:12:10.979893"
+            ],
+            [
+              3,
+              "2025-11-18T21:49:48.463007"
+            ],
+            [
+              3,
+              "2025-11-18T23:34:34.607525"
+            ],
+            [
+              3,
+              "2025-11-19T01:18:45.874909"
+            ],
+            [
+              4,
+              "2025-11-19T07:22:41.049121"
+            ]
+          ],
+          "created_utc": 1763446423.0,
+          "depth": 1,
+          "permalink": "/r/MachineLearning/comments/1p01c70/d_tsinghua_iclr_paper_withdrawn_due_to_numerous/npg900r/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        },
+        {
+          "id": "npguuxd",
+          "parent_id": "t1_npfwrix",
+          "author": "NamerNotLiteral",
+          "text_history": [
+            [
+              "The OT paper shouldn't be at ICLR anyway, it's too complex for 95% of the people publishing at ICLR to understand lol. \n\nThey would be better served submitting to AISTATS.",
+              "2025-11-18T13:49:38.905338"
+            ]
+          ],
+          "score_history": [
+            [
+              0,
+              "2025-11-18T13:49:38.905338"
+            ],
+            [
+              0,
+              "2025-11-18T14:00:53.969800"
+            ],
+            [
+              0,
+              "2025-11-18T14:12:10.979893"
+            ],
+            [
+              1,
+              "2025-11-18T21:49:48.463007"
+            ],
+            [
+              1,
+              "2025-11-18T23:34:34.607525"
+            ],
+            [
+              1,
+              "2025-11-19T01:18:45.874909"
+            ],
+            [
+              1,
+              "2025-11-19T07:22:41.049121"
+            ]
+          ],
+          "created_utc": 1763459569.0,
+          "depth": 1,
+          "permalink": "/r/MachineLearning/comments/1p01c70/d_tsinghua_iclr_paper_withdrawn_due_to_numerous/npguuxd/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npis37o",
+      "parent_id": "t3_1p01c70",
+      "author": "Efficient-Relief3890",
+      "text_history": [
+        [
+          "This case goes beyond a single Tsinghua paper to reveal a more serious problem in the current ML research ecosystem.  \nSeveral things are occurring simultaneously:  \n1. Publication pressure &gt; verification pressure  \nGenerative tools make it simple to \"fill in\" boilerplate or citations, and top labs are under tremendous pressure to produce papers quickly. That doesn't justify it, but it clarifies how mistakes can occur even in prestigious establishments.  \n2. Advisor supervision is overburdened  \n3. The review procedure is collapsing due to its size.  \n4. The incentives are not aligned.  \n  \nInstead of treating every withdrawn paper as a one-off, I'm curious how other people believe the field can actually address these structural issues.",
+          "2025-11-18T13:49:38.905338"
+        ]
+      ],
+      "score_history": [
+        [
+          4,
+          "2025-11-18T13:49:38.905338"
+        ],
+        [
+          4,
+          "2025-11-18T14:00:53.969800"
+        ],
+        [
+          3,
+          "2025-11-18T14:12:10.979893"
+        ],
+        [
+          5,
+          "2025-11-18T21:49:48.463007"
+        ],
+        [
+          5,
+          "2025-11-18T23:34:34.607525"
+        ],
+        [
+          4,
+          "2025-11-19T01:18:45.874909"
+        ],
+        [
+          7,
+          "2025-11-19T07:22:41.049121"
+        ]
+      ],
+      "created_utc": 1763485366.0,
+      "depth": 0,
+      "permalink": "/r/MachineLearning/comments/1p01c70/d_tsinghua_iclr_paper_withdrawn_due_to_numerous/npis37o/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npjpbzv",
+      "parent_id": "t3_1p01c70",
+      "author": "Slight_Antelope3099",
+      "text_history": [
+        [
+          "This is evil lmao\n\n&gt;I see another two references that are wrong, that I will not list here. I leave this as a challenge to the authors to identify the other references.",
+          "2025-11-18T13:49:38.905338"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T13:49:38.905338"
+        ],
+        [
+          1,
+          "2025-11-18T14:00:53.969800"
+        ],
+        [
+          2,
+          "2025-11-18T14:12:10.979893"
+        ],
+        [
+          2,
+          "2025-11-18T21:49:48.463007"
+        ],
+        [
+          2,
+          "2025-11-18T23:34:34.607525"
+        ],
+        [
+          3,
+          "2025-11-19T01:18:45.874909"
+        ],
+        [
+          4,
+          "2025-11-19T07:22:41.049121"
+        ]
+      ],
+      "created_utc": 1763495099.0,
+      "depth": 0,
+      "permalink": "/r/MachineLearning/comments/1p01c70/d_tsinghua_iclr_paper_withdrawn_due_to_numerous/npjpbzv/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nph5fjp",
+      "parent_id": "t3_1p01c70",
+      "author": "HumbleJiraiya",
+      "text_history": [
+        [
+          "Reviewers see top university, reviewers hit accept",
+          "2025-11-18T13:49:38.905338"
+        ]
+      ],
+      "score_history": [
+        [
+          5,
+          "2025-11-18T13:49:38.905338"
+        ],
+        [
+          5,
+          "2025-11-18T14:00:53.969800"
+        ],
+        [
+          4,
+          "2025-11-18T14:12:10.979893"
+        ],
+        [
+          4,
+          "2025-11-18T21:49:48.463007"
+        ],
+        [
+          4,
+          "2025-11-18T23:34:34.607525"
+        ],
+        [
+          4,
+          "2025-11-19T01:18:45.874909"
+        ],
+        [
+          6,
+          "2025-11-19T07:22:41.049121"
+        ]
+      ],
+      "created_utc": 1763465701.0,
+      "depth": 0,
+      "permalink": "/r/MachineLearning/comments/1p01c70/d_tsinghua_iclr_paper_withdrawn_due_to_numerous/nph5fjp/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npjlsl8",
+          "parent_id": "t1_nph5fjp",
+          "author": "tryingtobeastoic",
+          "text_history": [
+            [
+              "Isnt the process double-blind?",
+              "2025-11-18T13:49:38.905338"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T13:49:38.905338"
+            ],
+            [
+              1,
+              "2025-11-18T14:00:53.969800"
+            ],
+            [
+              1,
+              "2025-11-18T14:12:10.979893"
+            ],
+            [
+              1,
+              "2025-11-18T21:49:48.463007"
+            ],
+            [
+              1,
+              "2025-11-18T23:34:34.607525"
+            ],
+            [
+              1,
+              "2025-11-19T01:18:45.874909"
+            ],
+            [
+              1,
+              "2025-11-19T07:22:41.049121"
+            ]
+          ],
+          "created_utc": 1763494036.0,
+          "depth": 1,
+          "permalink": "/r/MachineLearning/comments/1p01c70/d_tsinghua_iclr_paper_withdrawn_due_to_numerous/npjlsl8/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npjpurb",
+              "parent_id": "t1_npjlsl8",
+              "author": "Slight_Antelope3099",
+              "text_history": [
+                [
+                  "Yeah but reviewers usually google the paper and they're often published as preprints on archive under the author's names",
+                  "2025-11-18T13:49:38.905338"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-18T13:49:38.905338"
+                ],
+                [
+                  1,
+                  "2025-11-18T14:00:53.969800"
+                ],
+                [
+                  1,
+                  "2025-11-18T14:12:10.979893"
+                ],
+                [
+                  1,
+                  "2025-11-18T21:49:48.463007"
+                ],
+                [
+                  1,
+                  "2025-11-18T23:34:34.607525"
+                ],
+                [
+                  1,
+                  "2025-11-19T01:18:45.874909"
+                ],
+                [
+                  2,
+                  "2025-11-19T07:22:41.049121"
+                ]
+              ],
+              "created_utc": 1763495254.0,
+              "depth": 2,
+              "permalink": "/r/MachineLearning/comments/1p01c70/d_tsinghua_iclr_paper_withdrawn_due_to_numerous/npjpurb/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "npjcmta",
+      "parent_id": "t3_1p01c70",
+      "author": "GroupFun5219",
+      "text_history": [
+        [
+          "Should have seen the ICML spotlight paper being withdrawn due to embedded code in the PDF to bias LLMs.",
+          "2025-11-18T13:49:38.905338"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-18T13:49:38.905338"
+        ],
+        [
+          2,
+          "2025-11-18T14:00:53.969800"
+        ],
+        [
+          2,
+          "2025-11-18T14:12:10.979893"
+        ],
+        [
+          2,
+          "2025-11-18T21:49:48.463007"
+        ],
+        [
+          2,
+          "2025-11-18T23:34:34.607525"
+        ],
+        [
+          2,
+          "2025-11-19T01:18:45.874909"
+        ],
+        [
+          2,
+          "2025-11-19T07:22:41.049121"
+        ]
+      ],
+      "created_utc": 1763491339.0,
+      "depth": 0,
+      "permalink": "/r/MachineLearning/comments/1p01c70/d_tsinghua_iclr_paper_withdrawn_due_to_numerous/npjcmta/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npjdo7q",
+      "parent_id": "t3_1p01c70",
+      "author": "dn8034",
+      "text_history": [
+        [
+          "Not surprised to see this, I had alot of reproducibility issues in several baselines, which was published by chinese authors at top conferences. Even the code provided by them was wrong at times but ofcourse no one cares when the paper is accepted.",
+          "2025-11-18T13:49:38.905338"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T13:49:38.905338"
+        ],
+        [
+          1,
+          "2025-11-18T14:00:53.969800"
+        ],
+        [
+          1,
+          "2025-11-18T14:12:10.979893"
+        ],
+        [
+          1,
+          "2025-11-18T21:49:48.463007"
+        ],
+        [
+          1,
+          "2025-11-18T23:34:34.607525"
+        ],
+        [
+          1,
+          "2025-11-19T01:18:45.874909"
+        ],
+        [
+          2,
+          "2025-11-19T07:22:41.049121"
+        ]
+      ],
+      "created_utc": 1763491638.0,
+      "depth": 0,
+      "permalink": "/r/MachineLearning/comments/1p01c70/d_tsinghua_iclr_paper_withdrawn_due_to_numerous/npjdo7q/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npka1em",
+      "parent_id": "t3_1p01c70",
+      "author": "chacharealrugged891",
+      "text_history": [
+        [
+          "Wow. From Tsinghua is unexpected",
+          "2025-11-18T13:49:38.905338"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T13:49:38.905338"
+        ],
+        [
+          1,
+          "2025-11-18T14:00:53.969800"
+        ],
+        [
+          1,
+          "2025-11-18T14:12:10.979893"
+        ],
+        [
+          1,
+          "2025-11-18T21:49:48.463007"
+        ],
+        [
+          1,
+          "2025-11-18T23:34:34.607525"
+        ],
+        [
+          1,
+          "2025-11-19T01:18:45.874909"
+        ],
+        [
+          2,
+          "2025-11-19T07:22:41.049121"
+        ]
+      ],
+      "created_utc": 1763501315.0,
+      "depth": 0,
+      "permalink": "/r/MachineLearning/comments/1p01c70/d_tsinghua_iclr_paper_withdrawn_due_to_numerous/npka1em/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T07:22:41.049121",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/MachineLearning/comments/1p01c70/d_tsinghua_iclr_paper_withdrawn_due_to_numerous/",
+    "total_comments": 43,
+    "top_level_comments": 13,
+    "api_requests": 1,
+    "expected_comments": 49,
+    "coverage_percent": 87.76,
+    "merged_snapshot_count": 7,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_134938.json",
+      "scrape_002_20251118_140053.json",
+      "scrape_003_20251118_141210.json",
+      "scrape_004_20251118_214948.json",
+      "scrape_005_20251118_233434.json",
+      "scrape_006_20251119_011845.json",
+      "scrape_007_20251119_072240.json"
+    ]
+  }
+}

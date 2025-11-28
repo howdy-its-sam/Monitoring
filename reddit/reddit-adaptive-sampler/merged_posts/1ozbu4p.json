@@ -1,0 +1,54 @@
+{
+  "post": {
+    "id": "1ozbu4p",
+    "title": "Seeking community input: Which AI robot capability would you actually pay for?",
+    "author": "TheSuperGreatDoctor",
+    "score_history": [
+      [
+        0,
+        "2025-11-18T14:43:33.767542"
+      ],
+      [
+        0,
+        "2025-11-18T14:53:11.370304"
+      ],
+      [
+        0,
+        "2025-11-18T14:55:55.372942"
+      ],
+      [
+        0,
+        "2025-11-18T22:21:52.580859"
+      ],
+      [
+        0,
+        "2025-11-19T00:26:21.867293"
+      ]
+    ],
+    "created_utc": 1763371427.0,
+    "num_comments": 0,
+    "subreddit": "robotics",
+    "url": "https://www.reddit.com/r/robotics/comments/1ozbu4p/seeking_community_input_which_ai_robot_capability/",
+    "selftext": "Hey Community! \n\nI'm researching demand for AI agentic robots (LLM-driven, non-scripted behavior) and need this community's technical input. \n\nTrying to validate which capabilities developers/makers actually care about.\n\nQuick poll: If you were buying/building with an AI robot platform, which ONE benefit matters most to you? \n\nThanks! 🤖\n\n[View Poll](https://www.reddit.com/poll/1ozbu4p)",
+    "permalink": "/r/robotics/comments/1ozbu4p/seeking_community_input_which_ai_robot_capability/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T00:26:21.867293",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/robotics/comments/1ozbu4p/seeking_community_input_which_ai_robot_capability/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 5,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_144333.json",
+      "scrape_002_20251118_145311.json",
+      "scrape_003_20251118_145555.json",
+      "scrape_004_20251118_222152.json",
+      "scrape_005_20251119_002621.json"
+    ]
+  }
+}

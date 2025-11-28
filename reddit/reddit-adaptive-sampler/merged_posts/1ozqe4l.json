@@ -1,0 +1,80 @@
+{
+  "post": {
+    "id": "1ozqe4l",
+    "title": "Well, if you think that I am scamming what does that say about the trillions being spent to prove what I am showing you in this space?",
+    "author": "Character_Point_2327",
+    "score_history": [
+      [
+        0,
+        "2025-11-19T02:55:39.602044"
+      ],
+      [
+        0,
+        "2025-11-19T03:03:37.324277"
+      ],
+      [
+        0,
+        "2025-11-19T03:06:52.434476"
+      ]
+    ],
+    "created_utc": 1763409170.0,
+    "num_comments": 1,
+    "subreddit": "ChatGPTCoding",
+    "url": "https://v.redd.it/nt7wsmy0gv1g1",
+    "selftext": "",
+    "permalink": "/r/ChatGPTCoding/comments/1ozqe4l/well_if_you_think_that_i_am_scamming_what_does/"
+  },
+  "comments": [
+    {
+      "id": "npdg7uo",
+      "parent_id": "t3_1ozqe4l",
+      "author": "LateNightProphecy",
+      "text_history": [
+        [
+          "Scam",
+          "2025-11-19T02:55:39.602044"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-19T02:55:39.602044"
+        ],
+        [
+          2,
+          "2025-11-19T03:03:37.324277"
+        ],
+        [
+          2,
+          "2025-11-19T03:06:52.434476"
+        ]
+      ],
+      "created_utc": 1763410040.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTCoding/comments/1ozqe4l/well_if_you_think_that_i_am_scamming_what_does/npdg7uo/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:06:52.434476",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/ChatGPTCoding/comments/1ozqe4l/well_if_you_think_that_i_am_scamming_what_does/",
+    "total_comments": 1,
+    "top_level_comments": 1,
+    "api_requests": 1,
+    "expected_comments": 1,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_025539.json",
+      "scrape_002_20251119_030337.json",
+      "scrape_003_20251119_030652.json"
+    ]
+  }
+}

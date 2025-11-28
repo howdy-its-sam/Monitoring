@@ -1,0 +1,80 @@
+{
+  "post": {
+    "id": "1apg2tm",
+    "title": "Question about comp ling at UW",
+    "author": "Only-Cranberry3559",
+    "score_history": [
+      [
+        2,
+        "2025-11-18T14:23:53.391487"
+      ],
+      [
+        2,
+        "2025-11-18T14:33:28.704748"
+      ],
+      [
+        2,
+        "2025-11-18T14:43:23.937169"
+      ]
+    ],
+    "created_utc": 1707784849.0,
+    "num_comments": 1,
+    "subreddit": "compling",
+    "url": "https://www.reddit.com/r/compling/comments/1apg2tm/question_about_comp_ling_at_uw/",
+    "selftext": "I am a current undergrad at UW and I am studying both phil and ling and plan to get majors in both of them. I knew I wanted to do phil going in so I knocked out almost all of the phil courses needed to get a degree, but now I still need about 60 to graduate and thought I might as well go the ling route because I thought I might like it. Turns out I do and I am thinking about eventually doing comp ling at UW as well! My only problem is that I have very little experience in math (I did SL math in IB), limited experience in CS (Took CSE 162 last year), and limited experience in stats (have AP credit for stat 290). I am curious if it would be best to start knocking some of the lower level math lectures off the list (calc series (CSE 12x or 14x), or to start doing ling electives and wait to do the math stuff until I am hitting the end of my ling degree. I just don't know how much math or CS I am expected to have done to be competitive when applying. If anyone with experience could let me know, that would be amazing. Thank you so much!!",
+    "permalink": "/r/compling/comments/1apg2tm/question_about_comp_ling_at_uw/"
+  },
+  "comments": [
+    {
+      "id": "kqapb26",
+      "parent_id": "t3_1apg2tm",
+      "author": "Legitimate_Aspect923",
+      "text_history": [
+        [
+          "I DMed you",
+          "2025-11-18T14:23:53.391487"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:23:53.391487"
+        ],
+        [
+          1,
+          "2025-11-18T14:33:28.704748"
+        ],
+        [
+          1,
+          "2025-11-18T14:43:23.937169"
+        ]
+      ],
+      "created_utc": 1707861555.0,
+      "depth": 0,
+      "permalink": "/r/compling/comments/1apg2tm/question_about_comp_ling_at_uw/kqapb26/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-18T14:43:23.937169",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/compling/comments/1apg2tm/question_about_comp_ling_at_uw/",
+    "total_comments": 1,
+    "top_level_comments": 1,
+    "api_requests": 1,
+    "expected_comments": 1,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_142353.json",
+      "scrape_002_20251118_143328.json",
+      "scrape_003_20251118_144323.json"
+    ]
+  }
+}

@@ -1,0 +1,336 @@
+{
+  "post": {
+    "id": "1p16jy5",
+    "title": "How to report on marketing ROI",
+    "author": "Sam_At_Patter",
+    "score_history": [
+      [
+        1,
+        "2025-11-19T04:37:36.423204"
+      ],
+      [
+        1,
+        "2025-11-19T04:37:36.654037"
+      ],
+      [
+        1,
+        "2025-11-19T04:37:36.891853"
+      ],
+      [
+        1,
+        "2025-11-19T04:37:37.098001"
+      ],
+      [
+        1,
+        "2025-11-19T04:37:37.385615"
+      ],
+      [
+        1,
+        "2025-11-19T04:37:37.591799"
+      ],
+      [
+        1,
+        "2025-11-19T04:37:37.843199"
+      ],
+      [
+        1,
+        "2025-11-19T04:37:38.055632"
+      ],
+      [
+        1,
+        "2025-11-19T04:37:38.296089"
+      ],
+      [
+        1,
+        "2025-11-19T04:37:38.525780"
+      ],
+      [
+        1,
+        "2025-11-19T04:37:38.834974"
+      ],
+      [
+        1,
+        "2025-11-19T04:37:39.038408"
+      ],
+      [
+        1,
+        "2025-11-19T04:37:39.307282"
+      ],
+      [
+        1,
+        "2025-11-19T04:37:39.518955"
+      ],
+      [
+        1,
+        "2025-11-19T04:37:39.764070"
+      ],
+      [
+        1,
+        "2025-11-19T04:37:39.979863"
+      ],
+      [
+        1,
+        "2025-11-19T04:37:40.222824"
+      ],
+      [
+        1,
+        "2025-11-19T04:37:40.426006"
+      ],
+      [
+        1,
+        "2025-11-19T04:37:40.690595"
+      ],
+      [
+        1,
+        "2025-11-19T04:37:40.918996"
+      ]
+    ],
+    "created_utc": 1763555795.0,
+    "num_comments": 2,
+    "subreddit": "DigitalMarketing",
+    "url": "https://www.reddit.com/r/DigitalMarketing/comments/1p16jy5/how_to_report_on_marketing_roi/",
+    "selftext": "I’ve worked in b2b SaaS for the last 5 years, and one thing that always comes up is “what’s the ROI of this channel / campaign / piece of content” etc.\n\nWhilst the board asking what the ROI is on a blog you wrote 3 years ago can be a little disheartening, I understand the point of ROI reporting, given marketing is often one of the biggest cost centres in a business.\n\nWanted to find out how everyone else reports on ROI / marketing-sourced pipeline / revenue?\n\nI’ve previously used HubSpot and HockeyStack to do this, happy to share details of how if anyone’s interested.",
+    "permalink": "/r/DigitalMarketing/comments/1p16jy5/how_to_report_on_marketing_roi/"
+  },
+  "comments": [
+    {
+      "id": "npnqvoa",
+      "parent_id": "t3_1p16jy5",
+      "author": "AutoModerator",
+      "text_history": [
+        [
+          "[If this post doesn't follow the rules report it to the mods](https://www.reddit.com/r/DigitalMarketing/about/rules/). Have more questions? [Join our community Discord!](https://discord.gg/looking-for-marketing-discussion-811236647760298024)\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/DigitalMarketing) if you have any questions or concerns.*",
+          "2025-11-19T04:37:36.423204"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T04:37:36.423204"
+        ],
+        [
+          1,
+          "2025-11-19T04:37:36.654037"
+        ],
+        [
+          1,
+          "2025-11-19T04:37:36.891853"
+        ],
+        [
+          1,
+          "2025-11-19T04:37:37.098001"
+        ],
+        [
+          1,
+          "2025-11-19T04:37:37.385615"
+        ],
+        [
+          1,
+          "2025-11-19T04:37:37.591799"
+        ],
+        [
+          1,
+          "2025-11-19T04:37:37.843199"
+        ],
+        [
+          1,
+          "2025-11-19T04:37:38.055632"
+        ],
+        [
+          1,
+          "2025-11-19T04:37:38.296089"
+        ],
+        [
+          1,
+          "2025-11-19T04:37:38.525780"
+        ],
+        [
+          1,
+          "2025-11-19T04:37:38.834974"
+        ],
+        [
+          1,
+          "2025-11-19T04:37:39.038408"
+        ],
+        [
+          1,
+          "2025-11-19T04:37:39.307282"
+        ],
+        [
+          1,
+          "2025-11-19T04:37:39.518955"
+        ],
+        [
+          1,
+          "2025-11-19T04:37:39.764070"
+        ],
+        [
+          1,
+          "2025-11-19T04:37:39.979863"
+        ],
+        [
+          1,
+          "2025-11-19T04:37:40.222824"
+        ],
+        [
+          1,
+          "2025-11-19T04:37:40.426006"
+        ],
+        [
+          1,
+          "2025-11-19T04:37:40.690595"
+        ],
+        [
+          1,
+          "2025-11-19T04:37:40.918996"
+        ]
+      ],
+      "created_utc": 1763555796.0,
+      "depth": 0,
+      "permalink": "/r/DigitalMarketing/comments/1p16jy5/how_to_report_on_marketing_roi/npnqvoa/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npnqvp9",
+      "parent_id": "t3_1p16jy5",
+      "author": "AutoModerator",
+      "text_history": [
+        [
+          "Are you a marketing professional and have 15 minutes to share your insights? [Take our 2025 State of Marketing Survey](https://lookingformarketing.com/survey?utm_source=reddit&amp;utm_medium=social&amp;utm_campaign=survey&amp;utm_content=r_digitalmarketing).\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/DigitalMarketing) if you have any questions or concerns.*",
+          "2025-11-19T04:37:36.423204"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T04:37:36.423204"
+        ],
+        [
+          1,
+          "2025-11-19T04:37:36.654037"
+        ],
+        [
+          1,
+          "2025-11-19T04:37:36.891853"
+        ],
+        [
+          1,
+          "2025-11-19T04:37:37.098001"
+        ],
+        [
+          1,
+          "2025-11-19T04:37:37.385615"
+        ],
+        [
+          1,
+          "2025-11-19T04:37:37.591799"
+        ],
+        [
+          1,
+          "2025-11-19T04:37:37.843199"
+        ],
+        [
+          1,
+          "2025-11-19T04:37:38.055632"
+        ],
+        [
+          1,
+          "2025-11-19T04:37:38.296089"
+        ],
+        [
+          1,
+          "2025-11-19T04:37:38.525780"
+        ],
+        [
+          1,
+          "2025-11-19T04:37:38.834974"
+        ],
+        [
+          1,
+          "2025-11-19T04:37:39.038408"
+        ],
+        [
+          1,
+          "2025-11-19T04:37:39.307282"
+        ],
+        [
+          1,
+          "2025-11-19T04:37:39.518955"
+        ],
+        [
+          1,
+          "2025-11-19T04:37:39.764070"
+        ],
+        [
+          1,
+          "2025-11-19T04:37:39.979863"
+        ],
+        [
+          1,
+          "2025-11-19T04:37:40.222824"
+        ],
+        [
+          1,
+          "2025-11-19T04:37:40.426006"
+        ],
+        [
+          1,
+          "2025-11-19T04:37:40.690595"
+        ],
+        [
+          1,
+          "2025-11-19T04:37:40.918996"
+        ]
+      ],
+      "created_utc": 1763555796.0,
+      "depth": 0,
+      "permalink": "/r/DigitalMarketing/comments/1p16jy5/how_to_report_on_marketing_roi/npnqvp9/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T04:37:40.918996",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/DigitalMarketing/comments/1p16jy5/how_to_report_on_marketing_roi/",
+    "total_comments": 2,
+    "top_level_comments": 2,
+    "api_requests": 1,
+    "expected_comments": 2,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 20,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_043736.json",
+      "scrape_002_20251119_043736.json",
+      "scrape_003_20251119_043736.json",
+      "scrape_004_20251119_043736.json",
+      "scrape_005_20251119_043737.json",
+      "scrape_006_20251119_043737.json",
+      "scrape_007_20251119_043737.json",
+      "scrape_008_20251119_043737.json",
+      "scrape_009_20251119_043738.json",
+      "scrape_010_20251119_043738.json",
+      "scrape_011_20251119_043738.json",
+      "scrape_012_20251119_043738.json",
+      "scrape_013_20251119_043739.json",
+      "scrape_014_20251119_043739.json",
+      "scrape_015_20251119_043739.json",
+      "scrape_016_20251119_043739.json",
+      "scrape_017_20251119_043740.json",
+      "scrape_018_20251119_043740.json",
+      "scrape_019_20251119_043740.json",
+      "scrape_020_20251119_043740.json"
+    ]
+  }
+}

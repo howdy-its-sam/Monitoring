@@ -1,0 +1,440 @@
+{
+  "post": {
+    "id": "1ovqip4",
+    "title": "small research team, small model but won big 🚀 HF uses Arch-Router to power Omni",
+    "author": "AdditionalWeb107",
+    "score_history": [
+      [
+        46,
+        "2025-11-18T14:45:23.157285"
+      ],
+      [
+        44,
+        "2025-11-18T14:53:13.906538"
+      ],
+      [
+        45,
+        "2025-11-18T14:54:22.310154"
+      ],
+      [
+        45,
+        "2025-11-18T22:32:19.980200"
+      ],
+      [
+        45,
+        "2025-11-19T00:15:44.805133"
+      ],
+      [
+        46,
+        "2025-11-19T02:01:31.040101"
+      ]
+    ],
+    "created_utc": 1763004381.0,
+    "num_comments": 8,
+    "subreddit": "machinelearningnews",
+    "url": "https://i.redd.it/kkbj65f61y0g1.jpeg",
+    "selftext": "A year in the making - we launched Arch-Router based on a simple insight: policy-based routing gives developers the constructs to achieve automatic behavior, grounded in their own evals of which LLMs are best for specific coding tasks. \n\nAnd it’s working. HuggingFace went live with this approach last Thursday, and now our router/egress functionality handles 1M+ user interactions, including coding use cases.\n\nHope the community finds it helpful. For more details on our GH project\n\nhttps://github.com/katanemo/archgw",
+    "permalink": "/r/machinelearningnews/comments/1ovqip4/small_research_team_small_model_but_won_big_hf/"
+  },
+  "comments": [
+    {
+      "id": "nokq7r4",
+      "parent_id": "t3_1ovqip4",
+      "author": "arousedsquirel",
+      "text_history": [
+        [
+          "This is nice work. Big cheers to the team! One question,  planning integration with cline code / local models  (llamacpp) and huggingface models combined?",
+          "2025-11-18T14:45:23.157285"
+        ]
+      ],
+      "score_history": [
+        [
+          6,
+          "2025-11-18T14:45:23.157285"
+        ],
+        [
+          6,
+          "2025-11-18T14:53:13.906538"
+        ],
+        [
+          6,
+          "2025-11-18T14:54:22.310154"
+        ],
+        [
+          6,
+          "2025-11-18T22:32:19.980200"
+        ],
+        [
+          5,
+          "2025-11-19T00:15:44.805133"
+        ],
+        [
+          7,
+          "2025-11-19T02:01:31.040101"
+        ]
+      ],
+      "created_utc": 1763005295.0,
+      "depth": 0,
+      "permalink": "/r/machinelearningnews/comments/1ovqip4/small_research_team_small_model_but_won_big_hf/nokq7r4/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": 1763005779.0,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "nokqqhm",
+          "parent_id": "t1_nokq7r4",
+          "author": "AdditionalWeb107",
+          "text_history": [
+            [
+              "Greatly appreciated 🩷",
+              "2025-11-18T14:45:23.157285"
+            ]
+          ],
+          "score_history": [
+            [
+              2,
+              "2025-11-18T14:45:23.157285"
+            ],
+            [
+              2,
+              "2025-11-18T14:53:13.906538"
+            ],
+            [
+              2,
+              "2025-11-18T14:54:22.310154"
+            ],
+            [
+              2,
+              "2025-11-18T22:32:19.980200"
+            ],
+            [
+              2,
+              "2025-11-19T00:15:44.805133"
+            ],
+            [
+              2,
+              "2025-11-19T02:01:31.040101"
+            ]
+          ],
+          "created_utc": 1763005497.0,
+          "depth": 1,
+          "permalink": "/r/machinelearningnews/comments/1ovqip4/small_research_team_small_model_but_won_big_hf/nokqqhm/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        },
+        {
+          "id": "nomhg1w",
+          "parent_id": "t1_nokq7r4",
+          "author": "AdditionalWeb107",
+          "text_history": [
+            [
+              "Yes - we have an integration with Claude Code (under demos/use\\_cases/claude\\_code\\_router) and easily portable to cline. And the model can run via Ollama although I haven't tested llama.cpp but it shuld work.",
+              "2025-11-18T14:45:23.157285"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T14:45:23.157285"
+            ],
+            [
+              1,
+              "2025-11-18T14:53:13.906538"
+            ],
+            [
+              1,
+              "2025-11-18T14:54:22.310154"
+            ],
+            [
+              1,
+              "2025-11-18T22:32:19.980200"
+            ],
+            [
+              1,
+              "2025-11-19T00:15:44.805133"
+            ],
+            [
+              1,
+              "2025-11-19T02:01:31.040101"
+            ]
+          ],
+          "created_utc": 1763038443.0,
+          "depth": 1,
+          "permalink": "/r/machinelearningnews/comments/1ovqip4/small_research_team_small_model_but_won_big_hf/nomhg1w/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "nondylv",
+              "parent_id": "t1_nomhg1w",
+              "author": "arousedsquirel",
+              "text_history": [
+                [
+                  "I am really looking forward to further integration refinement to facilitate the community.\nKeep it spinning🙏.\nBtw: ollama is not my thing, i prefer openai compatible endpoint yet that's personal flavor.",
+                  "2025-11-18T14:45:23.157285"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-18T14:45:23.157285"
+                ],
+                [
+                  1,
+                  "2025-11-18T14:53:13.906538"
+                ],
+                [
+                  1,
+                  "2025-11-18T14:54:22.310154"
+                ],
+                [
+                  1,
+                  "2025-11-18T22:32:19.980200"
+                ],
+                [
+                  1,
+                  "2025-11-19T00:15:44.805133"
+                ],
+                [
+                  1,
+                  "2025-11-19T02:01:31.040101"
+                ]
+              ],
+              "created_utc": 1763049235.0,
+              "depth": 2,
+              "permalink": "/r/machinelearningnews/comments/1ovqip4/small_research_team_small_model_but_won_big_hf/nondylv/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            },
+            {
+              "id": "noon77h",
+              "parent_id": "t1_nomhg1w",
+              "author": "smarkman19",
+              "text_history": [
+                [
+                  "Point Cline at Arch-Router’s OpenAI-compatible endpoint; use Ollama or llama.cpp server; route to Hugging Face on thresholds. Run llama.cpp server in OpenAI mode, map model ids, and set Cline’s OpenAI base URL to the router. For tools, Kong gateway, Postman mocks, and DreamFactory to spin REST endpoints from a DB the agent hits.",
+                  "2025-11-18T14:45:23.157285"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-18T14:45:23.157285"
+                ],
+                [
+                  1,
+                  "2025-11-18T14:53:13.906538"
+                ],
+                [
+                  1,
+                  "2025-11-18T14:54:22.310154"
+                ],
+                [
+                  1,
+                  "2025-11-18T22:32:19.980200"
+                ],
+                [
+                  1,
+                  "2025-11-19T00:15:44.805133"
+                ],
+                [
+                  1,
+                  "2025-11-19T02:01:31.040101"
+                ]
+              ],
+              "created_utc": 1763062458.0,
+              "depth": 2,
+              "permalink": "/r/machinelearningnews/comments/1ovqip4/small_research_team_small_model_but_won_big_hf/noon77h/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": [
+                {
+                  "id": "nooni5v",
+                  "parent_id": "t1_noon77h",
+                  "author": "AdditionalWeb107",
+                  "text_history": [
+                    [
+                      "Point cline to archgw and profit",
+                      "2025-11-18T14:45:23.157285"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      1,
+                      "2025-11-18T14:45:23.157285"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T14:53:13.906538"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T14:54:22.310154"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T22:32:19.980200"
+                    ],
+                    [
+                      1,
+                      "2025-11-19T00:15:44.805133"
+                    ],
+                    [
+                      1,
+                      "2025-11-19T02:01:31.040101"
+                    ]
+                  ],
+                  "created_utc": 1763062550.0,
+                  "depth": 3,
+                  "permalink": "/r/machinelearningnews/comments/1ovqip4/small_research_team_small_model_but_won_big_hf/nooni5v/",
+                  "is_submitter": true,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "nooscm6",
+      "parent_id": "t3_1ovqip4",
+      "author": "chuckaholic",
+      "text_history": [
+        [
+          "This makes no sense. OpenAI have obviously been doing this since the beginning. LLMs can't generate pictures or video. There has been a script running that rewords and redirects requests for media to diffusion models and then pipes the outputs back into the chat window. Is this an announcement about open sourcing the router platform?",
+          "2025-11-18T14:45:23.157285"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-18T14:45:23.157285"
+        ],
+        [
+          2,
+          "2025-11-18T14:53:13.906538"
+        ],
+        [
+          2,
+          "2025-11-18T14:54:22.310154"
+        ],
+        [
+          2,
+          "2025-11-18T22:32:19.980200"
+        ],
+        [
+          2,
+          "2025-11-19T00:15:44.805133"
+        ],
+        [
+          2,
+          "2025-11-19T02:01:31.040101"
+        ]
+      ],
+      "created_utc": 1763064007.0,
+      "depth": 0,
+      "permalink": "/r/machinelearningnews/comments/1ovqip4/small_research_team_small_model_but_won_big_hf/nooscm6/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "nootu56",
+          "parent_id": "t1_nooscm6",
+          "author": "AdditionalWeb107",
+          "text_history": [
+            [
+              "Yes - in many ways",
+              "2025-11-18T14:45:23.157285"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T14:45:23.157285"
+            ],
+            [
+              1,
+              "2025-11-18T14:53:13.906538"
+            ],
+            [
+              1,
+              "2025-11-18T14:54:22.310154"
+            ],
+            [
+              1,
+              "2025-11-18T22:32:19.980200"
+            ],
+            [
+              1,
+              "2025-11-19T00:15:44.805133"
+            ],
+            [
+              1,
+              "2025-11-19T02:01:31.040101"
+            ]
+          ],
+          "created_utc": 1763064457.0,
+          "depth": 1,
+          "permalink": "/r/machinelearningnews/comments/1ovqip4/small_research_team_small_model_but_won_big_hf/nootu56/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T02:01:31.040101",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/machinelearningnews/comments/1ovqip4/small_research_team_small_model_but_won_big_hf/",
+    "total_comments": 8,
+    "top_level_comments": 2,
+    "api_requests": 1,
+    "expected_comments": 8,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 6,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_144522.json",
+      "scrape_002_20251118_145313.json",
+      "scrape_003_20251118_145422.json",
+      "scrape_004_20251118_223219.json",
+      "scrape_005_20251119_001544.json",
+      "scrape_006_20251119_020130.json"
+    ]
+  }
+}

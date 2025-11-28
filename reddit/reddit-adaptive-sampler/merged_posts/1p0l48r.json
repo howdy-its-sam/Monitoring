@@ -1,0 +1,80 @@
+{
+  "post": {
+    "id": "1p0l48r",
+    "title": "When did we all collectively give up on account lockout policies?",
+    "author": "threat_researcher",
+    "score_history": [
+      [
+        1,
+        "2025-11-19T03:18:10.071388"
+      ],
+      [
+        1,
+        "2025-11-19T03:30:30.658438"
+      ],
+      [
+        1,
+        "2025-11-19T03:36:16.503112"
+      ]
+    ],
+    "created_utc": 1763493550.0,
+    "num_comments": 1,
+    "subreddit": "cybersecurity",
+    "url": "/r/FraudPrevention/comments/1p0jul3/when_did_we_all_collectively_give_up_on_account/",
+    "selftext": "",
+    "permalink": "/r/cybersecurity/comments/1p0l48r/when_did_we_all_collectively_give_up_on_account/"
+  },
+  "comments": [
+    {
+      "id": "npmlen4",
+      "parent_id": "t3_1p0l48r",
+      "author": "PwdRsch",
+      "text_history": [
+        [
+          "I tend to like to dig into the details on reports like this and, unfortunately, those don't seem to be available here. I would like to see the specific list of 11 sites you tested, your methodology for testing them, and what you evaluated to consider pass/fail or yes/no related to the characteristics you summarize.\n\nFor instance, you say 82% allow automated login attempts, and clarify that slightly on your site that you mean   \n\"without challenge\".  Maybe that means a CAPTCHA, a login attempt delay, or something else, but you don't specify.  You also mention 64% have no account lockout controls. While that is one basic method of protecting accounts against automated attacks, some sites have more advanced controls that allow them to prevent high risk logins without locking legitimate user accounts. You don't mention whether these controls were in place for the 64% as an alternative or whether you even considered investigating this.\n\nFinally, it seems like you are looking at MFA as a means of preventing mass fake account creation on these sites rather than the more commonly used purpose of protecting people's accounts.  In other words, whether these sites require something like SMS OTP enrollment in order to have a verified and unique phone number associated with an account. So that leads me to wonder if that's all you looked at or whether the 4 sites with 'zero MFA options' actually have options, but they just aren't required during the account creation flow.\n\nI recognize this report is mostly released for marketing your company, but I'd encourage you to be clearer about how the research was conducted if you'd like for it to be more useful to those of us interested in the details.",
+          "2025-11-19T03:18:10.071388"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T03:18:10.071388"
+        ],
+        [
+          1,
+          "2025-11-19T03:30:30.658438"
+        ],
+        [
+          1,
+          "2025-11-19T03:36:16.503112"
+        ]
+      ],
+      "created_utc": 1763532299.0,
+      "depth": 0,
+      "permalink": "/r/cybersecurity/comments/1p0l48r/when_did_we_all_collectively_give_up_on_account/npmlen4/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:36:16.503112",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/cybersecurity/comments/1p0l48r/when_did_we_all_collectively_give_up_on_account/",
+    "total_comments": 1,
+    "top_level_comments": 1,
+    "api_requests": 1,
+    "expected_comments": 1,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_031809.json",
+      "scrape_002_20251119_033030.json",
+      "scrape_003_20251119_033616.json"
+    ]
+  }
+}

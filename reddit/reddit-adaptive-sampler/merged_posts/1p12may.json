@@ -1,0 +1,227 @@
+{
+  "post": {
+    "id": "1p12may",
+    "title": "From experience: best multi-agent systems for AI agents, RAG pipelines and more",
+    "author": "NullPointerJack",
+    "score_history": [
+      [
+        8,
+        "2025-11-19T04:01:48.760895"
+      ],
+      [
+        8,
+        "2025-11-19T04:03:10.177708"
+      ],
+      [
+        7,
+        "2025-11-19T04:09:59.712968"
+      ],
+      [
+        7,
+        "2025-11-19T04:12:32.165286"
+      ],
+      [
+        8,
+        "2025-11-19T04:21:21.681279"
+      ]
+    ],
+    "created_utc": 1763542770.0,
+    "num_comments": 5,
+    "subreddit": "AI_Agents",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1p12may/from_experience_best_multiagent_systems_for_ai/",
+    "selftext": "So I’ll start out by saying I have been trying and testing a number of different methods of building multi-agent systems for a number of clients and after trial and error these seem to be the best fits and the best tools.\n\nSharing because I would have loved a guide like this when I was first starting out.\n\n**Long-document analysis: finance, legal, due diligence**\n\nUse the orchestration framework. It stops agents going off track and the steps are predictable. \n\nTry CrewAI, LangGraph, Maestro from AI21\n\n**Complex RAG pipelines: customer support search, knowledge base chat**\n\nThe pipeline chain is best when data has to pass through indexing, retrieval, re-ranking, summarization, validation in a strict sequence. \n\nGood tools are LCEL, LlamaIndex Pipelines, Haystack Pipelines\n\n**Open-ended problem solving: content generation, research**\n\nMessage passing agents are good for unstructured tasks because they can ask questions and develop ideas. With direct messaging you get unexpected strategy because the agents aren’t in a strict hierarchy.\n\nBuild with AutoGen, HuggingFace Agents, OpenAI Chat Completions with multi-agent loops\n\n**High accuracy reasoning tasks: coding agents, legal reasoning**\n\nYou need the supervisor and worker model for coding agents or legal reasoning and so on when safety is most important. Because the supervisor catches mistakes its good for when quality control is just non-negotiable.\n\nCheck out Maestro from AI21, AutoGen with a validator agent or LangGraph\n\n**Teams with fixed roles: UX audits, interview prep**\n\nIf the job has clear boundaries then assign fixed roles so you know which agent does the research, which is writing the final result, etc\n\nAutoGen, CrewAI, LangChain Agents are good for this one\n\n**Games and training environments: Logistics planning, robotics, traffic simulation**\n\nThis one is good for environment-driven agents because they observe the relevant environment and then update the state, so they are learning from consequences.\n\nTry using OpenAI Gym, PettingZoo, Unity ML-Agents",
+    "permalink": "/r/AI_Agents/comments/1p12may/from_experience_best_multiagent_systems_for_ai/"
+  },
+  "comments": [
+    {
+      "id": "npn38f8",
+      "parent_id": "t3_1p12may",
+      "author": "AutoModerator",
+      "text_history": [
+        [
+          "Thank you for your submission, for any questions regarding AI, please check out our wiki at https://www.reddit.com/r/ai_agents/wiki (this is currently in test and we are actively adding to the wiki)\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/AI_Agents) if you have any questions or concerns.*",
+          "2025-11-19T04:01:48.760895"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T04:01:48.760895"
+        ],
+        [
+          1,
+          "2025-11-19T04:03:10.177708"
+        ],
+        [
+          1,
+          "2025-11-19T04:09:59.712968"
+        ],
+        [
+          1,
+          "2025-11-19T04:12:32.165286"
+        ],
+        [
+          1,
+          "2025-11-19T04:21:21.681279"
+        ]
+      ],
+      "created_utc": 1763542771.0,
+      "depth": 0,
+      "permalink": "/r/AI_Agents/comments/1p12may/from_experience_best_multiagent_systems_for_ai/npn38f8/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npncrxj",
+      "parent_id": "t3_1p12may",
+      "author": "FreshRadish2957",
+      "text_history": [
+        [
+          "Thanks for the breakdown. I’m coming at this from the non-code side where I build multi-step reasoning frameworks inside prompts. It’s interesting how similar the structure is. Supervisor logic, role division, error-catching layers, etc. Looks like the same concepts but with actual agents and orchestration. This gives me a good sense of where the crossover points are, appreciate the guide.",
+          "2025-11-19T04:01:48.760895"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T04:01:48.760895"
+        ],
+        [
+          1,
+          "2025-11-19T04:03:10.177708"
+        ],
+        [
+          1,
+          "2025-11-19T04:09:59.712968"
+        ],
+        [
+          1,
+          "2025-11-19T04:12:32.165286"
+        ],
+        [
+          1,
+          "2025-11-19T04:21:21.681279"
+        ]
+      ],
+      "created_utc": 1763548685.0,
+      "depth": 0,
+      "permalink": "/r/AI_Agents/comments/1p12may/from_experience_best_multiagent_systems_for_ai/npncrxj/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npnfem4",
+      "parent_id": "t3_1p12may",
+      "author": "Moist_Ad1885",
+      "text_history": [
+        [
+          "Any recommendations for e-commerce nishe? \nFor customer support/ faq",
+          "2025-11-19T04:01:48.760895"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T04:01:48.760895"
+        ],
+        [
+          1,
+          "2025-11-19T04:03:10.177708"
+        ],
+        [
+          1,
+          "2025-11-19T04:09:59.712968"
+        ],
+        [
+          1,
+          "2025-11-19T04:12:32.165286"
+        ],
+        [
+          1,
+          "2025-11-19T04:21:21.681279"
+        ]
+      ],
+      "created_utc": 1763550185.0,
+      "depth": 0,
+      "permalink": "/r/AI_Agents/comments/1p12may/from_experience_best_multiagent_systems_for_ai/npnfem4/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npnk5nw",
+      "parent_id": "t3_1p12may",
+      "author": "Proof_Shift_9799",
+      "text_history": [
+        [
+          "Great breakdown, this is exactly the kind of framework I wish I had when we were building multi-agent orchestration for software dev workflows. One thing I’d add from my experience is that the *context and observability layer* often makes or breaks these setups. You can have the “best” tools, but if agents can’t reliably share structured context or you can’t trace their reasoning, you end up with weird drift or missed steps.\n\nFor coding agents specifically, we leaned heavily on a **supervisor + worker pattern**, but layered in automatic validation against coding standards, PR diff analysis, and backlog context. That made the agents’ outputs actionable, not just theoretically correct. For long-doc RAG pipelines, chunking alone isn’t enough. Embedding metadata about dependencies, links between sections, and prior decisions drastically improves retrieval relevance.\n\nI’m also finding that hybrid approaches work best: structured orchestration for predictable tasks, and message-passing agents for exploratory or research-heavy tasks. It’s like giving your team specialized roles but letting them collaborate organically. The surprise strategies that emerge are often the most useful.\n\nWould love to hear if anyone else has experimented with combining supervisor/worker with free-form message passing in the same system, it’s been a game changer for us.",
+          "2025-11-19T04:01:48.760895"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T04:01:48.760895"
+        ],
+        [
+          1,
+          "2025-11-19T04:03:10.177708"
+        ],
+        [
+          1,
+          "2025-11-19T04:09:59.712968"
+        ],
+        [
+          1,
+          "2025-11-19T04:12:32.165286"
+        ],
+        [
+          1,
+          "2025-11-19T04:21:21.681279"
+        ]
+      ],
+      "created_utc": 1763552707.0,
+      "depth": 0,
+      "permalink": "/r/AI_Agents/comments/1p12may/from_experience_best_multiagent_systems_for_ai/npnk5nw/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T04:21:21.681279",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/AI_Agents/comments/1p12may/from_experience_best_multiagent_systems_for_ai/",
+    "total_comments": 4,
+    "top_level_comments": 4,
+    "api_requests": 1,
+    "expected_comments": 5,
+    "coverage_percent": 80.0,
+    "merged_snapshot_count": 5,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_040148.json",
+      "scrape_002_20251119_040309.json",
+      "scrape_003_20251119_040959.json",
+      "scrape_004_20251119_041231.json",
+      "scrape_005_20251119_042121.json"
+    ]
+  }
+}

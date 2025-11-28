@@ -1,0 +1,154 @@
+{
+  "post": {
+    "id": "1ozdcrt",
+    "title": "Quick poll: Do you waste hours on AI dependency conflicts?",
+    "author": "Alive-Practice-5448",
+    "score_history": [
+      [
+        0,
+        "2025-11-18T14:53:55.772452"
+      ],
+      [
+        0,
+        "2025-11-18T15:04:13.802037"
+      ],
+      [
+        0,
+        "2025-11-18T15:05:49.204990"
+      ],
+      [
+        0,
+        "2025-11-18T22:41:20.763017"
+      ],
+      [
+        0,
+        "2025-11-19T00:26:28.228131"
+      ],
+      [
+        0,
+        "2025-11-19T02:11:47.740255"
+      ]
+    ],
+    "created_utc": 1763377183.0,
+    "num_comments": 2,
+    "subreddit": "LangChain",
+    "url": "https://www.reddit.com/r/LangChain/comments/1ozdcrt/quick_poll_do_you_waste_hours_on_ai_dependency/",
+    "selftext": "Working on Day 5 of my AI projects and hit dependency hell AGAIN. \n\nSpent 3 hours yesterday just getting LangChain + LlamaIndex to \n\nplay nice.\n\nQuick question: Is this your biggest pain point when starting \n\nnew AI projects?\n\nIf yes, would you use a CLI tool that auto-detects and fixes \n\nthese conflicts in 60 seconds?\n\nNot selling anything yet - just validating if I should build \n\nthis or focus elsewhere. Thanks!",
+    "permalink": "/r/LangChain/comments/1ozdcrt/quick_poll_do_you_waste_hours_on_ai_dependency/"
+  },
+  "comments": [
+    {
+      "id": "npatd68",
+      "parent_id": "t3_1ozdcrt",
+      "author": "stingraycharles",
+      "text_history": [
+        [
+          "Why are you suddenly posting this over all the AI subs after being a 2 year old entirely unused account?",
+          "2025-11-18T14:53:55.772452"
+        ]
+      ],
+      "score_history": [
+        [
+          4,
+          "2025-11-18T14:53:55.772452"
+        ],
+        [
+          4,
+          "2025-11-18T15:04:13.802037"
+        ],
+        [
+          5,
+          "2025-11-18T15:05:49.204990"
+        ],
+        [
+          3,
+          "2025-11-18T22:41:20.763017"
+        ],
+        [
+          4,
+          "2025-11-19T00:26:28.228131"
+        ],
+        [
+          4,
+          "2025-11-19T02:11:47.740255"
+        ]
+      ],
+      "created_utc": 1763378574.0,
+      "depth": 0,
+      "permalink": "/r/LangChain/comments/1ozdcrt/quick_poll_do_you_waste_hours_on_ai_dependency/npatd68/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npc07ny",
+      "parent_id": "t3_1ozdcrt",
+      "author": "Synyster328",
+      "text_history": [
+        [
+          "I built something similar for my frequent pains setting up Runpod instances to generate/train with models.\n\nhttps://github.com/NSFW-API/ML-Doctor",
+          "2025-11-18T14:53:55.772452"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-18T14:53:55.772452"
+        ],
+        [
+          2,
+          "2025-11-18T15:04:13.802037"
+        ],
+        [
+          2,
+          "2025-11-18T15:05:49.204990"
+        ],
+        [
+          2,
+          "2025-11-18T22:41:20.763017"
+        ],
+        [
+          2,
+          "2025-11-19T00:26:28.228131"
+        ],
+        [
+          2,
+          "2025-11-19T02:11:47.740255"
+        ]
+      ],
+      "created_utc": 1763394734.0,
+      "depth": 0,
+      "permalink": "/r/LangChain/comments/1ozdcrt/quick_poll_do_you_waste_hours_on_ai_dependency/npc07ny/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T02:11:47.740255",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/LangChain/comments/1ozdcrt/quick_poll_do_you_waste_hours_on_ai_dependency/",
+    "total_comments": 2,
+    "top_level_comments": 2,
+    "api_requests": 1,
+    "expected_comments": 2,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 6,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_145355.json",
+      "scrape_002_20251118_150413.json",
+      "scrape_003_20251118_150548.json",
+      "scrape_004_20251118_224120.json",
+      "scrape_005_20251119_002628.json",
+      "scrape_006_20251119_021147.json"
+    ]
+  }
+}

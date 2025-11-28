@@ -1,0 +1,1245 @@
+{
+  "post": {
+    "id": "1p08o8a",
+    "title": "Tangible from California just introduced Eggie, a home wheeled-humanoid robot with fully anthropomorphic hands",
+    "author": "Nunki08",
+    "score_history": [
+      [
+        155,
+        "2025-11-19T02:55:59.519212"
+      ],
+      [
+        155,
+        "2025-11-19T03:05:45.035188"
+      ],
+      [
+        154,
+        "2025-11-19T03:08:48.641529"
+      ]
+    ],
+    "created_utc": 1763462372.0,
+    "num_comments": 36,
+    "subreddit": "robotics",
+    "url": "https://v.redd.it/g84f4cdnuz1g1",
+    "selftext": "Website: [https://tangiblerobots.ai/](https://tangiblerobots.ai/)  \nFrom 𝕏: [https://x.com/tangiblerobots/status/1990467217452843022](https://x.com/tangiblerobots/status/1990467217452843022)",
+    "permalink": "/r/robotics/comments/1p08o8a/tangible_from_california_just_introduced_eggie_a/"
+  },
+  "comments": [
+    {
+      "id": "nph1rhf",
+      "parent_id": "t3_1p08o8a",
+      "author": "Larzus84",
+      "text_history": [
+        [
+          "Thanks, but I'm already pretty good at spilling my own coffee.",
+          "2025-11-19T02:55:59.519212"
+        ]
+      ],
+      "score_history": [
+        [
+          39,
+          "2025-11-19T02:55:59.519212"
+        ],
+        [
+          43,
+          "2025-11-19T03:05:45.035188"
+        ],
+        [
+          43,
+          "2025-11-19T03:08:48.641529"
+        ]
+      ],
+      "created_utc": 1763463691.0,
+      "depth": 0,
+      "permalink": "/r/robotics/comments/1p08o8a/tangible_from_california_just_introduced_eggie_a/nph1rhf/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nph2van",
+      "parent_id": "t3_1p08o8a",
+      "author": "Ambiorix33",
+      "text_history": [
+        [
+          "Its not sexy, but its doing a helll of a lot more than most so im for it",
+          "2025-11-19T02:55:59.519212"
+        ]
+      ],
+      "score_history": [
+        [
+          20,
+          "2025-11-19T02:55:59.519212"
+        ],
+        [
+          19,
+          "2025-11-19T03:05:45.035188"
+        ],
+        [
+          17,
+          "2025-11-19T03:08:48.641529"
+        ]
+      ],
+      "created_utc": 1763464320.0,
+      "depth": 0,
+      "permalink": "/r/robotics/comments/1p08o8a/tangible_from_california_just_introduced_eggie_a/nph2van/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npixmoy",
+      "parent_id": "t3_1p08o8a",
+      "author": "LessonStudio",
+      "text_history": [
+        [
+          "That very much looks sped up. It also reeks of the Willow Garage PR2.",
+          "2025-11-19T02:55:59.519212"
+        ]
+      ],
+      "score_history": [
+        [
+          9,
+          "2025-11-19T02:55:59.519212"
+        ],
+        [
+          9,
+          "2025-11-19T03:05:45.035188"
+        ],
+        [
+          10,
+          "2025-11-19T03:08:48.641529"
+        ]
+      ],
+      "created_utc": 1763487003.0,
+      "depth": 0,
+      "permalink": "/r/robotics/comments/1p08o8a/tangible_from_california_just_introduced_eggie_a/npixmoy/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nph3gyt",
+      "parent_id": "t3_1p08o8a",
+      "author": "Kellorian",
+      "text_history": [
+        [
+          "Looks like / reminds me of Baymax. Love the design.",
+          "2025-11-19T02:55:59.519212"
+        ]
+      ],
+      "score_history": [
+        [
+          15,
+          "2025-11-19T02:55:59.519212"
+        ],
+        [
+          16,
+          "2025-11-19T03:05:45.035188"
+        ],
+        [
+          14,
+          "2025-11-19T03:08:48.641529"
+        ]
+      ],
+      "created_utc": 1763464656.0,
+      "depth": 0,
+      "permalink": "/r/robotics/comments/1p08o8a/tangible_from_california_just_introduced_eggie_a/nph3gyt/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npiq4r1",
+          "parent_id": "t1_nph3gyt",
+          "author": "zhambe",
+          "text_history": [
+            [
+              "I know, right? It's the fat arms and the small head...",
+              "2025-11-19T02:55:59.519212"
+            ]
+          ],
+          "score_history": [
+            [
+              5,
+              "2025-11-19T02:55:59.519212"
+            ],
+            [
+              5,
+              "2025-11-19T03:05:45.035188"
+            ],
+            [
+              4,
+              "2025-11-19T03:08:48.641529"
+            ]
+          ],
+          "created_utc": 1763484793.0,
+          "depth": 1,
+          "permalink": "/r/robotics/comments/1p08o8a/tangible_from_california_just_introduced_eggie_a/npiq4r1/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npi9p9o",
+      "parent_id": "t3_1p08o8a",
+      "author": "Magrell",
+      "text_history": [
+        [
+          "I wanted to know what this \\*sounded\\* like.  Pretty neat, it sounds like birds calling.",
+          "2025-11-19T02:55:59.519212"
+        ]
+      ],
+      "score_history": [
+        [
+          5,
+          "2025-11-19T02:55:59.519212"
+        ],
+        [
+          5,
+          "2025-11-19T03:05:45.035188"
+        ],
+        [
+          5,
+          "2025-11-19T03:08:48.641529"
+        ]
+      ],
+      "created_utc": 1763479981.0,
+      "depth": 0,
+      "permalink": "/r/robotics/comments/1p08o8a/tangible_from_california_just_introduced_eggie_a/npi9p9o/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npj3o2l",
+          "parent_id": "t1_npi9p9o",
+          "author": "bamboob",
+          "text_history": [
+            [
+              "I don't trust that's the actual sound, because that video was sped up, yet the background noises from outside are not sped up",
+              "2025-11-19T02:55:59.519212"
+            ]
+          ],
+          "score_history": [
+            [
+              2,
+              "2025-11-19T02:55:59.519212"
+            ],
+            [
+              2,
+              "2025-11-19T03:05:45.035188"
+            ],
+            [
+              2,
+              "2025-11-19T03:08:48.641529"
+            ]
+          ],
+          "created_utc": 1763488769.0,
+          "depth": 1,
+          "permalink": "/r/robotics/comments/1p08o8a/tangible_from_california_just_introduced_eggie_a/npj3o2l/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npl96tv",
+      "parent_id": "t3_1p08o8a",
+      "author": "licenciadoenopinion",
+      "text_history": [
+        [
+          "Great stop-motion",
+          "2025-11-19T02:55:59.519212"
+        ]
+      ],
+      "score_history": [
+        [
+          3,
+          "2025-11-19T02:55:59.519212"
+        ],
+        [
+          3,
+          "2025-11-19T03:05:45.035188"
+        ],
+        [
+          3,
+          "2025-11-19T03:08:48.641529"
+        ]
+      ],
+      "created_utc": 1763513057.0,
+      "depth": 0,
+      "permalink": "/r/robotics/comments/1p08o8a/tangible_from_california_just_introduced_eggie_a/npl96tv/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npk5k4z",
+      "parent_id": "t3_1p08o8a",
+      "author": "avlbk",
+      "text_history": [
+        [
+          "How much does it bench?",
+          "2025-11-19T02:55:59.519212"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-19T02:55:59.519212"
+        ],
+        [
+          2,
+          "2025-11-19T03:05:45.035188"
+        ],
+        [
+          2,
+          "2025-11-19T03:08:48.641529"
+        ]
+      ],
+      "created_utc": 1763499991.0,
+      "depth": 0,
+      "permalink": "/r/robotics/comments/1p08o8a/tangible_from_california_just_introduced_eggie_a/npk5k4z/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nph8o79",
+      "parent_id": "t3_1p08o8a",
+      "author": "divinetribe1",
+      "text_history": [
+        [
+          "https://preview.redd.it/oaaoy0ff902g1.jpeg?width=1536&amp;format=pjpg&amp;auto=webp&amp;s=fb55ac5276cc0615143ac578da04500429690b14\n\nI’m trying to build one",
+          "2025-11-19T02:55:59.519212"
+        ]
+      ],
+      "score_history": [
+        [
+          7,
+          "2025-11-19T02:55:59.519212"
+        ],
+        [
+          7,
+          "2025-11-19T03:05:45.035188"
+        ],
+        [
+          6,
+          "2025-11-19T03:08:48.641529"
+        ]
+      ],
+      "created_utc": 1763467227.0,
+      "depth": 0,
+      "permalink": "/r/robotics/comments/1p08o8a/tangible_from_california_just_introduced_eggie_a/nph8o79/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "nphbopf",
+          "parent_id": "t1_nph8o79",
+          "author": "wensul",
+          "text_history": [
+            [
+              "oooh oooh, what about in the future have the base of the arms on rails so it can move back and forth on the base and use the base for cargo?\n\nor move the arms forward and allow it to rotate (if it can't already)..\n\n\\*shrug\\* - ideas.",
+              "2025-11-19T02:55:59.519212"
+            ]
+          ],
+          "score_history": [
+            [
+              4,
+              "2025-11-19T02:55:59.519212"
+            ],
+            [
+              4,
+              "2025-11-19T03:05:45.035188"
+            ],
+            [
+              5,
+              "2025-11-19T03:08:48.641529"
+            ]
+          ],
+          "created_utc": 1763468533.0,
+          "depth": 1,
+          "permalink": "/r/robotics/comments/1p08o8a/tangible_from_california_just_introduced_eggie_a/nphbopf/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npjsdu0",
+              "parent_id": "t1_nphbopf",
+              "author": "robogame_dev",
+              "text_history": [
+                [
+                  "My dream setup is to have the robot suspended from a cable at each corner of the ceiling - able to reach any point in the room while staying completely above any obstructions.\n\nExtreme cat lovers already have a leg up on this, have you seen these apartments with DIY catwalk access to all rooms and areas?",
+                  "2025-11-19T02:55:59.519212"
+                ]
+              ],
+              "score_history": [
+                [
+                  2,
+                  "2025-11-19T02:55:59.519212"
+                ],
+                [
+                  2,
+                  "2025-11-19T03:05:45.035188"
+                ],
+                [
+                  2,
+                  "2025-11-19T03:08:48.641529"
+                ]
+              ],
+              "created_utc": 1763496004.0,
+              "depth": 2,
+              "permalink": "/r/robotics/comments/1p08o8a/tangible_from_california_just_introduced_eggie_a/npjsdu0/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            },
+            {
+              "id": "npincnb",
+              "parent_id": "t1_nphbopf",
+              "author": "divinetribe1",
+              "text_history": [
+                [
+                  "Yeah, I was thinking that looking at it , having it be able to go up and down that rail and be able to spin around it would be ideal",
+                  "2025-11-19T02:55:59.519212"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-19T02:55:59.519212"
+                ],
+                [
+                  1,
+                  "2025-11-19T03:05:45.035188"
+                ],
+                [
+                  1,
+                  "2025-11-19T03:08:48.641529"
+                ]
+              ],
+              "created_utc": 1763483981.0,
+              "depth": 2,
+              "permalink": "/r/robotics/comments/1p08o8a/tangible_from_california_just_introduced_eggie_a/npincnb/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "nphcmjt",
+          "parent_id": "t1_nph8o79",
+          "author": "moarzi",
+          "text_history": [
+            [
+              "why does this pic look so ai then?",
+              "2025-11-19T02:55:59.519212"
+            ]
+          ],
+          "score_history": [
+            [
+              10,
+              "2025-11-19T02:55:59.519212"
+            ],
+            [
+              10,
+              "2025-11-19T03:05:45.035188"
+            ],
+            [
+              10,
+              "2025-11-19T03:08:48.641529"
+            ]
+          ],
+          "created_utc": 1763468936.0,
+          "depth": 1,
+          "permalink": "/r/robotics/comments/1p08o8a/tangible_from_california_just_introduced_eggie_a/nphcmjt/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "nphhkb1",
+              "parent_id": "t1_nphcmjt",
+              "author": "USS_Penterprise_1701",
+              "text_history": [
+                [
+                  "They actually have the base done enough to drive around (with no arms yet), and it's definitely more impressive than an AI pic. Shoulda posted the real one.",
+                  "2025-11-19T02:55:59.519212"
+                ]
+              ],
+              "score_history": [
+                [
+                  5,
+                  "2025-11-19T02:55:59.519212"
+                ],
+                [
+                  5,
+                  "2025-11-19T03:05:45.035188"
+                ],
+                [
+                  4,
+                  "2025-11-19T03:08:48.641529"
+                ]
+              ],
+              "created_utc": 1763470922.0,
+              "depth": 2,
+              "permalink": "/r/robotics/comments/1p08o8a/tangible_from_california_just_introduced_eggie_a/nphhkb1/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": [
+                {
+                  "id": "nphk6kw",
+                  "parent_id": "t1_nphhkb1",
+                  "author": "moarzi",
+                  "text_history": [
+                    [
+                      "Oh I see in his posts now, true. Thanks for clarifying! I guess we're at the point in history where AI feels scammy by default",
+                      "2025-11-19T02:55:59.519212"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      3,
+                      "2025-11-19T02:55:59.519212"
+                    ],
+                    [
+                      4,
+                      "2025-11-19T03:05:45.035188"
+                    ],
+                    [
+                      4,
+                      "2025-11-19T03:08:48.641529"
+                    ]
+                  ],
+                  "created_utc": 1763471864.0,
+                  "depth": 3,
+                  "permalink": "/r/robotics/comments/1p08o8a/tangible_from_california_just_introduced_eggie_a/nphk6kw/",
+                  "is_submitter": false,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": [
+                    {
+                      "id": "nphmxah",
+                      "parent_id": "t1_nphk6kw",
+                      "author": "USS_Penterprise_1701",
+                      "text_history": [
+                        [
+                          "I definitely agree. I think in this case it's perfectly acceptable to use a generated picture of what it will look like when complete. It's just that there are so many people showing off fake stuff and projects that appear to be completely done by AI.",
+                          "2025-11-19T02:55:59.519212"
+                        ]
+                      ],
+                      "score_history": [
+                        [
+                          5,
+                          "2025-11-19T02:55:59.519212"
+                        ],
+                        [
+                          4,
+                          "2025-11-19T03:05:45.035188"
+                        ],
+                        [
+                          5,
+                          "2025-11-19T03:08:48.641529"
+                        ]
+                      ],
+                      "created_utc": 1763472785.0,
+                      "depth": 4,
+                      "permalink": "/r/robotics/comments/1p08o8a/tangible_from_california_just_introduced_eggie_a/nphmxah/",
+                      "is_submitter": false,
+                      "controversiality": 0,
+                      "gilded": 0,
+                      "edited": false,
+                      "deleted": false,
+                      "deleted_at": null,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "npi7ik0",
+      "parent_id": "t3_1p08o8a",
+      "author": "theChaosBeast",
+      "text_history": [
+        [
+          "So we have legged humanoids in workshops where it's normally flat and wheeled systems in household that have steps and stairs...\n\nMakes sense",
+          "2025-11-19T02:55:59.519212"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-19T02:55:59.519212"
+        ],
+        [
+          2,
+          "2025-11-19T03:05:45.035188"
+        ],
+        [
+          2,
+          "2025-11-19T03:08:48.641529"
+        ]
+      ],
+      "created_utc": 1763479325.0,
+      "depth": 0,
+      "permalink": "/r/robotics/comments/1p08o8a/tangible_from_california_just_introduced_eggie_a/npi7ik0/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nphqew4",
+      "parent_id": "t3_1p08o8a",
+      "author": "nadmaximus",
+      "text_history": [
+        [
+          "Please do NOT tang.",
+          "2025-11-19T02:55:59.519212"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:55:59.519212"
+        ],
+        [
+          1,
+          "2025-11-19T03:05:45.035188"
+        ],
+        [
+          1,
+          "2025-11-19T03:08:48.641529"
+        ]
+      ],
+      "created_utc": 1763473916.0,
+      "depth": 0,
+      "permalink": "/r/robotics/comments/1p08o8a/tangible_from_california_just_introduced_eggie_a/nphqew4/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npir59z",
+      "parent_id": "t3_1p08o8a",
+      "author": "BenadrylTumblercatch",
+      "text_history": [
+        [
+          "Everybody wants to be Rosie, but only Rosie is Rosie",
+          "2025-11-19T02:55:59.519212"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:55:59.519212"
+        ],
+        [
+          1,
+          "2025-11-19T03:05:45.035188"
+        ],
+        [
+          1,
+          "2025-11-19T03:08:48.641529"
+        ]
+      ],
+      "created_utc": 1763485088.0,
+      "depth": 0,
+      "permalink": "/r/robotics/comments/1p08o8a/tangible_from_california_just_introduced_eggie_a/npir59z/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npkifac",
+      "parent_id": "t3_1p08o8a",
+      "author": "lennarn",
+      "text_history": [
+        [
+          "Cute face. Would adopt one of these.",
+          "2025-11-19T02:55:59.519212"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:55:59.519212"
+        ],
+        [
+          1,
+          "2025-11-19T03:05:45.035188"
+        ],
+        [
+          1,
+          "2025-11-19T03:08:48.641529"
+        ]
+      ],
+      "created_utc": 1763503863.0,
+      "depth": 0,
+      "permalink": "/r/robotics/comments/1p08o8a/tangible_from_california_just_introduced_eggie_a/npkifac/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nplab0l",
+      "parent_id": "t3_1p08o8a",
+      "author": "Hadleys158",
+      "text_history": [
+        [
+          "How do all these robots developers plan to stop cross contamination?\nYou see a lot of these videos, especially the toilet cleaning ones using same \"hands\" to clean everything.\n\nAlso, does this mean society is going to move even quicker to the WALLe universe where people are too lazy to pick up even the most basic stuff?\n\nDoing \"bigger\" jobs like washing, vacuuming and lawns etc. are an understandable way to save time, but simply cleaning up after yourself shouldn't be for able bodied young people.\n\nDisabled and aged people etc are the exception i'd say, but you can see people getting used to leaving stuff wherever because a bot will just clean it up for them.",
+          "2025-11-19T02:55:59.519212"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:55:59.519212"
+        ],
+        [
+          1,
+          "2025-11-19T03:05:45.035188"
+        ],
+        [
+          1,
+          "2025-11-19T03:08:48.641529"
+        ]
+      ],
+      "created_utc": 1763513445.0,
+      "depth": 0,
+      "permalink": "/r/robotics/comments/1p08o8a/tangible_from_california_just_introduced_eggie_a/nplab0l/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nplvtcn",
+      "parent_id": "t3_1p08o8a",
+      "author": "fc3sbob",
+      "text_history": [
+        [
+          "It looks like they grafted RoboCop's arms onto a post.",
+          "2025-11-19T02:55:59.519212"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:55:59.519212"
+        ],
+        [
+          1,
+          "2025-11-19T03:05:45.035188"
+        ],
+        [
+          1,
+          "2025-11-19T03:08:48.641529"
+        ]
+      ],
+      "created_utc": 1763521181.0,
+      "depth": 0,
+      "permalink": "/r/robotics/comments/1p08o8a/tangible_from_california_just_introduced_eggie_a/nplvtcn/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nplwlom",
+      "parent_id": "t3_1p08o8a",
+      "author": "OsakaWilson",
+      "text_history": [
+        [
+          "...and Popeye writsts.",
+          "2025-11-19T02:55:59.519212"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:55:59.519212"
+        ],
+        [
+          1,
+          "2025-11-19T03:05:45.035188"
+        ],
+        [
+          1,
+          "2025-11-19T03:08:48.641529"
+        ]
+      ],
+      "created_utc": 1763521473.0,
+      "depth": 0,
+      "permalink": "/r/robotics/comments/1p08o8a/tangible_from_california_just_introduced_eggie_a/nplwlom/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npm0tnk",
+      "parent_id": "t3_1p08o8a",
+      "author": "RobinIII",
+      "text_history": [
+        [
+          "So. GizmoDuck?",
+          "2025-11-19T02:55:59.519212"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:55:59.519212"
+        ],
+        [
+          1,
+          "2025-11-19T03:05:45.035188"
+        ],
+        [
+          1,
+          "2025-11-19T03:08:48.641529"
+        ]
+      ],
+      "created_utc": 1763523051.0,
+      "depth": 0,
+      "permalink": "/r/robotics/comments/1p08o8a/tangible_from_california_just_introduced_eggie_a/npm0tnk/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nphg2ej",
+      "parent_id": "t3_1p08o8a",
+      "author": "GreatPretender1894",
+      "text_history": [
+        [
+          "whoever trained this is doing a poor job at cleaning up. you don't wipe cups (or plates) with dirty cloth!\n\n\neven if the cup or plate itself is dirty, either you wipe the cup first with clean cloth before the table, or you wipe the table first and hold the cup above said cloth while taking it to the kitchen sink.",
+          "2025-11-19T02:55:59.519212"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:55:59.519212"
+        ],
+        [
+          0,
+          "2025-11-19T03:05:45.035188"
+        ],
+        [
+          1,
+          "2025-11-19T03:08:48.641529"
+        ]
+      ],
+      "created_utc": 1763470340.0,
+      "depth": 0,
+      "permalink": "/r/robotics/comments/1p08o8a/tangible_from_california_just_introduced_eggie_a/nphg2ej/",
+      "is_submitter": false,
+      "controversiality": 1,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "nphq2jf",
+          "parent_id": "t1_nphg2ej",
+          "author": "Rxke2",
+          "text_history": [
+            [
+              "...Indeed very icky to see.",
+              "2025-11-19T02:55:59.519212"
+            ]
+          ],
+          "score_history": [
+            [
+              0,
+              "2025-11-19T02:55:59.519212"
+            ],
+            [
+              0,
+              "2025-11-19T03:05:45.035188"
+            ],
+            [
+              0,
+              "2025-11-19T03:08:48.641529"
+            ]
+          ],
+          "created_utc": 1763473806.0,
+          "depth": 1,
+          "permalink": "/r/robotics/comments/1p08o8a/tangible_from_california_just_introduced_eggie_a/nphq2jf/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npkczl4",
+      "parent_id": "t3_1p08o8a",
+      "author": "sanjosekei",
+      "text_history": [
+        [
+          "4x? Who accepts a sped up demo these days.  SMH.",
+          "2025-11-19T02:55:59.519212"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:55:59.519212"
+        ],
+        [
+          1,
+          "2025-11-19T03:05:45.035188"
+        ],
+        [
+          1,
+          "2025-11-19T03:08:48.641529"
+        ]
+      ],
+      "created_utc": 1763502209.0,
+      "depth": 0,
+      "permalink": "/r/robotics/comments/1p08o8a/tangible_from_california_just_introduced_eggie_a/npkczl4/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npi02k9",
+      "parent_id": "t3_1p08o8a",
+      "author": "MrPrimal",
+      "text_history": [
+        [
+          "Absolutely not.",
+          "2025-11-19T02:55:59.519212"
+        ]
+      ],
+      "score_history": [
+        [
+          0,
+          "2025-11-19T02:55:59.519212"
+        ],
+        [
+          0,
+          "2025-11-19T03:05:45.035188"
+        ],
+        [
+          0,
+          "2025-11-19T03:08:48.641529"
+        ]
+      ],
+      "created_utc": 1763476986.0,
+      "depth": 0,
+      "permalink": "/r/robotics/comments/1p08o8a/tangible_from_california_just_introduced_eggie_a/npi02k9/",
+      "is_submitter": false,
+      "controversiality": 1,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nphjd5v",
+      "parent_id": "t3_1p08o8a",
+      "author": "0fearless-garbage0",
+      "text_history": [
+        [
+          "I'm imagining those fingers being used for things I shouldn't be imagining.",
+          "2025-11-19T02:55:59.519212"
+        ]
+      ],
+      "score_history": [
+        [
+          -1,
+          "2025-11-19T02:55:59.519212"
+        ],
+        [
+          -1,
+          "2025-11-19T03:05:45.035188"
+        ],
+        [
+          -1,
+          "2025-11-19T03:08:48.641529"
+        ]
+      ],
+      "created_utc": 1763471580.0,
+      "depth": 0,
+      "permalink": "/r/robotics/comments/1p08o8a/tangible_from_california_just_introduced_eggie_a/nphjd5v/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npkljpx",
+          "parent_id": "t1_nphjd5v",
+          "author": "OrganizationRich3923",
+          "text_history": [
+            [
+              "no, jus no",
+              "2025-11-19T02:55:59.519212"
+            ]
+          ],
+          "score_history": [
+            [
+              2,
+              "2025-11-19T02:55:59.519212"
+            ],
+            [
+              2,
+              "2025-11-19T03:05:45.035188"
+            ],
+            [
+              2,
+              "2025-11-19T03:08:48.641529"
+            ]
+          ],
+          "created_utc": 1763504863.0,
+          "depth": 1,
+          "permalink": "/r/robotics/comments/1p08o8a/tangible_from_california_just_introduced_eggie_a/npkljpx/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "nph2d3a",
+      "parent_id": "t3_1p08o8a",
+      "author": "hisatanhere",
+      "text_history": [
+        [
+          "Come on, people!\n\nWhy does every robot out of the US look like a fucking joke?",
+          "2025-11-19T02:55:59.519212"
+        ]
+      ],
+      "score_history": [
+        [
+          -10,
+          "2025-11-19T02:55:59.519212"
+        ],
+        [
+          -8,
+          "2025-11-19T03:05:45.035188"
+        ],
+        [
+          -9,
+          "2025-11-19T03:08:48.641529"
+        ]
+      ],
+      "created_utc": 1763464034.0,
+      "depth": 0,
+      "permalink": "/r/robotics/comments/1p08o8a/tangible_from_california_just_introduced_eggie_a/nph2d3a/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "nph73ff",
+          "parent_id": "t1_nph2d3a",
+          "author": "luvsads",
+          "text_history": [
+            [
+              "Compared to what?",
+              "2025-11-19T02:55:59.519212"
+            ]
+          ],
+          "score_history": [
+            [
+              7,
+              "2025-11-19T02:55:59.519212"
+            ],
+            [
+              7,
+              "2025-11-19T03:05:45.035188"
+            ],
+            [
+              6,
+              "2025-11-19T03:08:48.641529"
+            ]
+          ],
+          "created_utc": 1763466514.0,
+          "depth": 1,
+          "permalink": "/r/robotics/comments/1p08o8a/tangible_from_california_just_introduced_eggie_a/nph73ff/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        },
+        {
+          "id": "nphbuj2",
+          "parent_id": "t1_nph2d3a",
+          "author": "wensul",
+          "text_history": [
+            [
+              "at least the 'head' is just a rectangular enclosure for sensors, without trying to look humanoid-esque",
+              "2025-11-19T02:55:59.519212"
+            ]
+          ],
+          "score_history": [
+            [
+              4,
+              "2025-11-19T02:55:59.519212"
+            ],
+            [
+              3,
+              "2025-11-19T03:05:45.035188"
+            ],
+            [
+              2,
+              "2025-11-19T03:08:48.641529"
+            ]
+          ],
+          "created_utc": 1763468605.0,
+          "depth": 1,
+          "permalink": "/r/robotics/comments/1p08o8a/tangible_from_california_just_introduced_eggie_a/nphbuj2/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:08:48.641529",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/robotics/comments/1p08o8a/tangible_from_california_just_introduced_eggie_a/",
+    "total_comments": 34,
+    "top_level_comments": 21,
+    "api_requests": 1,
+    "expected_comments": 36,
+    "coverage_percent": 94.44,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_025559.json",
+      "scrape_002_20251119_030544.json",
+      "scrape_003_20251119_030848.json"
+    ]
+  }
+}

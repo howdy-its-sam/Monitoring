@@ -1,0 +1,44 @@
+{
+  "post": {
+    "id": "1p08orn",
+    "title": "Subnautica 2 Publisher Asked ChatGPT For Help Dumping Founders",
+    "author": "Negative-Art-4440",
+    "score_history": [
+      [
+        2,
+        "2025-11-19T03:27:17.162761"
+      ],
+      [
+        2,
+        "2025-11-19T03:30:31.006100"
+      ],
+      [
+        2,
+        "2025-11-19T03:36:25.163472"
+      ]
+    ],
+    "created_utc": 1763462426.0,
+    "num_comments": 0,
+    "subreddit": "artificial",
+    "url": "https://kotaku.com/subnautica-2-krafton-lawsuit-chatgpt-2000644792",
+    "selftext": "",
+    "permalink": "/r/artificial/comments/1p08orn/subnautica_2_publisher_asked_chatgpt_for_help/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:36:25.163472",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/artificial/comments/1p08orn/subnautica_2_publisher_asked_chatgpt_for_help/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_032716.json",
+      "scrape_002_20251119_033030.json",
+      "scrape_003_20251119_033624.json"
+    ]
+  }
+}

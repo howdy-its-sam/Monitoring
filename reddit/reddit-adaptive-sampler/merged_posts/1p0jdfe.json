@@ -1,0 +1,54 @@
+{
+  "post": {
+    "id": "1p0jdfe",
+    "title": "Recommend VDI for a startup with &lt;10 people",
+    "author": "Ok-Pepper-9019",
+    "score_history": [
+      [
+        1,
+        "2025-11-18T13:49:02.972185"
+      ],
+      [
+        1,
+        "2025-11-18T14:00:17.327894"
+      ],
+      [
+        1,
+        "2025-11-18T14:12:07.538575"
+      ],
+      [
+        1,
+        "2025-11-18T21:59:58.843180"
+      ],
+      [
+        1,
+        "2025-11-19T07:12:24.249661"
+      ]
+    ],
+    "created_utc": 1763489689.0,
+    "num_comments": 0,
+    "subreddit": "cybersecurity",
+    "url": "/r/sysadmin/comments/1p0jbhj/recommend_vdi_for_a_startup_with_10_people/",
+    "selftext": "",
+    "permalink": "/r/cybersecurity/comments/1p0jdfe/recommend_vdi_for_a_startup_with_10_people/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T07:12:24.249661",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/cybersecurity/comments/1p0jdfe/recommend_vdi_for_a_startup_with_10_people/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 5,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_134902.json",
+      "scrape_002_20251118_140017.json",
+      "scrape_003_20251118_141207.json",
+      "scrape_004_20251118_215958.json",
+      "scrape_005_20251119_071224.json"
+    ]
+  }
+}

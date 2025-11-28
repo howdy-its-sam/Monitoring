@@ -1,0 +1,2624 @@
+{
+  "post": {
+    "id": "1p00x30",
+    "title": "Most of you are learning the wrong things",
+    "author": "YangBuildsAI",
+    "score_history": [
+      [
+        130,
+        "2025-11-18T14:22:35.976997"
+      ],
+      [
+        134,
+        "2025-11-18T14:33:04.361449"
+      ],
+      [
+        135,
+        "2025-11-18T14:42:18.542271"
+      ],
+      [
+        135,
+        "2025-11-18T14:43:31.445645"
+      ],
+      [
+        135,
+        "2025-11-18T14:45:21.335462"
+      ]
+    ],
+    "created_utc": 1763435222.0,
+    "num_comments": 62,
+    "subreddit": "MLQuestions",
+    "url": "https://www.reddit.com/r/MLQuestions/comments/1p00x30/most_of_you_are_learning_the_wrong_things/",
+    "selftext": "EDIT: The following is for people applying to MLOps NOT research!\n\nI've interviewed 100+ ML engineers this year. Most of you are learning the wrong things.\n\nBeginner question (sort of)\n\nOkay, this might be controversial but I need to say it because I keep seeing the same pattern:\n\nThe disconnect between what ML courses teach and what ML jobs actually need is MASSIVE, and nobody's talking about it.\n\nI'm an AI engineer and I also help connect ML talent with startups through my company. I've reviewed hundreds of portfolios and interviewed tons of candidates this year, and here's what I'm seeing:\n\nWhat candidates show me:\n\n* Implemented papers from scratch\n* Built custom architectures in PyTorch\n* Trained GANs, diffusion models, transformers\n* Kaggle competition rankings\n* Derived backprop by hand\n\nWhat companies actually hired for:\n\n* \"Can you build a data pipeline that doesn't break?\"\n* \"Can you deploy this model so customers can use it?\"\n* \"Can you make this inference faster/cheaper?\"\n* \"Can you explain to our CEO why the model made this prediction?\"\n* \"Do you know enough about our business to know WHEN NOT to use ML?\"\n\nI've seen candidates who can explain attention mechanisms in detail get rejected, while someone who built a \"boring\" end-to-end project with FastAPI + Docker + monitoring got hired immediately.\n\nThe questions I keep asking myself:\n\n1. Why do courses focus on building models from scratch when 95% of jobs are about using pre-trained models effectively? Nobody's paying you to reimplement ResNet. They're paying you to fine-tune it, deploy it, and make it work in production.\n2. Why does everyone skip the \"boring\" stuff that actually matters? Data cleaning, SQL, API design, cloud infrastructure, monitoring - this is 70% of the job but 5% of the curriculum.\n3. Are Kaggle competitions actively hurting people's job chances? I've started seeing \"Kaggle competition experience\" as a yellow flag because it signals \"optimizes for leaderboards, not business outcomes.\"\n4. When did we all agree that you need a PhD to do ML? Some of the best ML engineers I know have no formal ML education - they just learned enough to ship products and figured out the rest on the job.\n\nWhat I think gets people hired:\n\n* One really solid end-to-end project: problem → data → model → API → deployment → monitoring\n* GitHub with actual working code (not just notebooks)\n* Blog posts explaining technical decisions in plain English\n* Proof you've debugged real ML issues in production\n* Understanding of when NOT to use ML\n\nAre we all collectively wasting time learning the wrong things because that's what courses teach? Or am I completely off base and the theory-heavy approach actually matters more than I think?\n\nI genuinely want to know if I'm the crazy one here or if ML education is fundamentally broken.",
+    "permalink": "/r/MLQuestions/comments/1p00x30/most_of_you_are_learning_the_wrong_things/"
+  },
+  "comments": [
+    {
+      "id": "nphe54q",
+      "parent_id": "t3_1p00x30",
+      "author": "NoLifeGamer2",
+      "text_history": [
+        [
+          "OP some people think you are a bot. I am giving you 1 day to respond to this comment otherwise I will remove your post.",
+          "2025-11-18T14:22:35.976997"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:22:35.976997"
+        ],
+        [
+          1,
+          "2025-11-18T14:33:04.361449"
+        ],
+        [
+          1,
+          "2025-11-18T14:42:18.542271"
+        ],
+        [
+          1,
+          "2025-11-18T14:43:31.445645"
+        ],
+        [
+          1,
+          "2025-11-18T14:45:21.335462"
+        ]
+      ],
+      "created_utc": 1763469578.0,
+      "depth": 0,
+      "permalink": "/r/MLQuestions/comments/1p00x30/most_of_you_are_learning_the_wrong_things/nphe54q/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npkjgao",
+          "parent_id": "t1_nphe54q",
+          "author": "YangBuildsAI",
+          "text_history": [
+            [
+              "I am not a bot! Please feel free to DM me if you have any questions",
+              "2025-11-18T14:22:35.976997"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T14:22:35.976997"
+            ],
+            [
+              2,
+              "2025-11-18T14:33:04.361449"
+            ],
+            [
+              2,
+              "2025-11-18T14:42:18.542271"
+            ],
+            [
+              2,
+              "2025-11-18T14:43:31.445645"
+            ],
+            [
+              2,
+              "2025-11-18T14:45:21.335462"
+            ]
+          ],
+          "created_utc": 1763504189.0,
+          "depth": 1,
+          "permalink": "/r/MLQuestions/comments/1p00x30/most_of_you_are_learning_the_wrong_things/npkjgao/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npkldam",
+              "parent_id": "t1_npkjgao",
+              "author": "NoLifeGamer2",
+              "text_history": [
+                [
+                  "Damn the bots are getting more realistic /s\n\nAll jokes aside, can you provide us with some credentials (e.g. what company you work at, or at least if it is in FAANG if you don't want to overly dox yourself), and specify what role you are talking about hiring? Your post seems to indicate you are focusing on the MLOps rather than Research positions. I feel it would be worth you clarifying in the post because these are very different and require different skillsets.",
+                  "2025-11-18T14:33:04.361449"
+                ]
+              ],
+              "score_history": [
+                [
+                  2,
+                  "2025-11-18T14:33:04.361449"
+                ],
+                [
+                  2,
+                  "2025-11-18T14:42:18.542271"
+                ],
+                [
+                  2,
+                  "2025-11-18T14:43:31.445645"
+                ],
+                [
+                  2,
+                  "2025-11-18T14:45:21.335462"
+                ]
+              ],
+              "created_utc": 1763504807.0,
+              "depth": 2,
+              "permalink": "/r/MLQuestions/comments/1p00x30/most_of_you_are_learning_the_wrong_things/npkldam/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": [
+                {
+                  "id": "npkm6k5",
+                  "parent_id": "t1_npkldam",
+                  "author": "YangBuildsAI",
+                  "text_history": [
+                    [
+                      "Lol, I'm Yang, a technical co-founder at a startup based in NYC. I'm also an ex-Google engineer.\n\nI'm talking specifically about ML Engineering / Applied ML / MLOps roles at startups, NOT research positions at labs like DeepMind, OpenAI, FAIR, etc.\n\nThose are completely different jobs with different requirements:\n\nResearch Scientist roles: Yeah, you absolutely need the theory depth, PhD preferred, paper implementations matter, understanding novel architectures is critical. My post doesn't apply here.\n\nML Engineer / Applied ML roles (what I'm hiring for): These are \"get models into production and keep them running\" jobs. This is where I see the disconnect: people prepare like they're applying to DeepMind when they're actually applying to a Series B SaaS company that needs someone to deploy and monitor models.\n\nThe confusion happens because both are called \"ML jobs\" but they're as different as frontend dev vs systems programming.\n\nI am probably a bit biased because I only see startup hiring, not FAANG/research lab hiring. So my perspective is limited to \"what do growth-stage companies need,\" which is heavily skewed toward production skills over research skills.",
+                      "2025-11-18T14:33:04.361449"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      2,
+                      "2025-11-18T14:33:04.361449"
+                    ],
+                    [
+                      2,
+                      "2025-11-18T14:42:18.542271"
+                    ],
+                    [
+                      3,
+                      "2025-11-18T14:43:31.445645"
+                    ],
+                    [
+                      3,
+                      "2025-11-18T14:45:21.335462"
+                    ]
+                  ],
+                  "created_utc": 1763505071.0,
+                  "depth": 3,
+                  "permalink": "/r/MLQuestions/comments/1p00x30/most_of_you_are_learning_the_wrong_things/npkm6k5/",
+                  "is_submitter": true,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": [
+                    {
+                      "id": "npkmq3v",
+                      "parent_id": "t1_npkm6k5",
+                      "author": "NoLifeGamer2",
+                      "text_history": [
+                        [
+                          "In which case your post is completely valid, and I agree that it needed to be said!\n\nHowever, I think it would be less confusing if you edited your post with a clear/bold disclaimer at the top saying \"The following is for people applying to MLOps not research\" or something along those lines. When I first read the post I was very confused because I'm more from a research background than MLOps.\n\nYou mention at the top of the post that this is for ML engineers, which is pretty clear, however the vernacular tends to lump all sorts of ML work into ML engineering, including research, so it might be worth clarifying. Other than that, a very nice, well thought out post.",
+                          "2025-11-18T14:42:18.542271"
+                        ]
+                      ],
+                      "score_history": [
+                        [
+                          1,
+                          "2025-11-18T14:42:18.542271"
+                        ],
+                        [
+                          2,
+                          "2025-11-18T14:43:31.445645"
+                        ],
+                        [
+                          2,
+                          "2025-11-18T14:45:21.335462"
+                        ]
+                      ],
+                      "created_utc": 1763505251.0,
+                      "depth": 4,
+                      "permalink": "/r/MLQuestions/comments/1p00x30/most_of_you_are_learning_the_wrong_things/npkmq3v/",
+                      "is_submitter": false,
+                      "controversiality": 0,
+                      "gilded": 0,
+                      "edited": false,
+                      "deleted": false,
+                      "deleted_at": null,
+                      "replies": [
+                        {
+                          "id": "npknezm",
+                          "parent_id": "t1_npkmq3v",
+                          "author": "YangBuildsAI",
+                          "text_history": [
+                            [
+                              "Got it, I appreciate you hearing me out and suggesting that edit! I can definitely see how I may have been confusing.",
+                              "2025-11-18T14:42:18.542271"
+                            ]
+                          ],
+                          "score_history": [
+                            [
+                              2,
+                              "2025-11-18T14:42:18.542271"
+                            ],
+                            [
+                              2,
+                              "2025-11-18T14:43:31.445645"
+                            ],
+                            [
+                              2,
+                              "2025-11-18T14:45:21.335462"
+                            ]
+                          ],
+                          "created_utc": 1763505480.0,
+                          "depth": 5,
+                          "permalink": "/r/MLQuestions/comments/1p00x30/most_of_you_are_learning_the_wrong_things/npknezm/",
+                          "is_submitter": true,
+                          "controversiality": 0,
+                          "gilded": 0,
+                          "edited": false,
+                          "deleted": false,
+                          "deleted_at": null,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "npfmoet",
+      "parent_id": "t3_1p00x30",
+      "author": "venturepulse",
+      "text_history": [
+        [
+          "&gt;Why does everyone skip the \"boring\" stuff that actually matters? Data cleaning, SQL, API design, cloud infrastructure, monitoring - this is 70% of the job but 5% of the curriculum.\n\nYou literally answer your own question. Its boring stuff, so people tend not to do it.\n\nPeople who get deep into ML they usually have mathematical background and flipping JSONs like burger patties is the least favorite part of it\n\n\\_\\_\\_\\_\\_\n\nside note:\n\nHowever after checking OP's other posts I can clearly see he's using typical GPT wordings in his text with drama like \"is fundamentally broken\". So its not even clear if the OP is a bot",
+          "2025-11-18T14:22:35.976997"
+        ]
+      ],
+      "score_history": [
+        [
+          50,
+          "2025-11-18T14:22:35.976997"
+        ],
+        [
+          50,
+          "2025-11-18T14:33:04.361449"
+        ],
+        [
+          51,
+          "2025-11-18T14:42:18.542271"
+        ],
+        [
+          51,
+          "2025-11-18T14:43:31.445645"
+        ],
+        [
+          51,
+          "2025-11-18T14:45:21.335462"
+        ]
+      ],
+      "created_utc": 1763436342.0,
+      "depth": 0,
+      "permalink": "/r/MLQuestions/comments/1p00x30/most_of_you_are_learning_the_wrong_things/npfmoet/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": 1763436635.0,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npfquap",
+          "parent_id": "t1_npfmoet",
+          "author": "SilencedObserver",
+          "text_history": [
+            [
+              "95% of data science is munging.  Being a janitor that doesn’t want to pickup a mop is a tough sell and that’s why they aren’t getting work.",
+              "2025-11-18T14:22:35.976997"
+            ]
+          ],
+          "score_history": [
+            [
+              10,
+              "2025-11-18T14:22:35.976997"
+            ],
+            [
+              9,
+              "2025-11-18T14:33:04.361449"
+            ],
+            [
+              10,
+              "2025-11-18T14:42:18.542271"
+            ],
+            [
+              10,
+              "2025-11-18T14:43:31.445645"
+            ],
+            [
+              9,
+              "2025-11-18T14:45:21.335462"
+            ]
+          ],
+          "created_utc": 1763437954.0,
+          "depth": 1,
+          "permalink": "/r/MLQuestions/comments/1p00x30/most_of_you_are_learning_the_wrong_things/npfquap/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        },
+        {
+          "id": "npfwyr4",
+          "parent_id": "t1_npfmoet",
+          "author": "aqjo",
+          "text_history": [
+            [
+              "The arrows give it away.",
+              "2025-11-18T14:22:35.976997"
+            ]
+          ],
+          "score_history": [
+            [
+              4,
+              "2025-11-18T14:22:35.976997"
+            ],
+            [
+              5,
+              "2025-11-18T14:33:04.361449"
+            ],
+            [
+              3,
+              "2025-11-18T14:42:18.542271"
+            ],
+            [
+              4,
+              "2025-11-18T14:43:31.445645"
+            ],
+            [
+              4,
+              "2025-11-18T14:45:21.335462"
+            ]
+          ],
+          "created_utc": 1763440535.0,
+          "depth": 1,
+          "permalink": "/r/MLQuestions/comments/1p00x30/most_of_you_are_learning_the_wrong_things/npfwyr4/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        },
+        {
+          "id": "npgdnhh",
+          "parent_id": "t1_npfmoet",
+          "author": "ridgerunner81s_71e",
+          "text_history": [
+            [
+              "This is the third time I’ve seen a post exactly like this in a week.\n\nEdit: I’ve got a screenshot from 11/8 of this exact same shit 🤔",
+              "2025-11-18T14:22:35.976997"
+            ]
+          ],
+          "score_history": [
+            [
+              3,
+              "2025-11-18T14:22:35.976997"
+            ],
+            [
+              3,
+              "2025-11-18T14:33:04.361449"
+            ],
+            [
+              3,
+              "2025-11-18T14:42:18.542271"
+            ],
+            [
+              3,
+              "2025-11-18T14:43:31.445645"
+            ],
+            [
+              3,
+              "2025-11-18T14:45:21.335462"
+            ]
+          ],
+          "created_utc": 1763448944.0,
+          "depth": 1,
+          "permalink": "/r/MLQuestions/comments/1p00x30/most_of_you_are_learning_the_wrong_things/npgdnhh/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": 1763449180.0,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "nphz7ej",
+              "parent_id": "t1_npgdnhh",
+              "author": "Sweet_Mix9856",
+              "text_history": [
+                [
+                  "yeah i had to check how long ago this was posted because I just saw something almost exactly like this a week or two ago.",
+                  "2025-11-18T14:22:35.976997"
+                ]
+              ],
+              "score_history": [
+                [
+                  2,
+                  "2025-11-18T14:22:35.976997"
+                ],
+                [
+                  2,
+                  "2025-11-18T14:33:04.361449"
+                ],
+                [
+                  2,
+                  "2025-11-18T14:42:18.542271"
+                ],
+                [
+                  2,
+                  "2025-11-18T14:43:31.445645"
+                ],
+                [
+                  2,
+                  "2025-11-18T14:45:21.335462"
+                ]
+              ],
+              "created_utc": 1763476708.0,
+              "depth": 2,
+              "permalink": "/r/MLQuestions/comments/1p00x30/most_of_you_are_learning_the_wrong_things/nphz7ej/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "npgdsqn",
+          "parent_id": "t1_npfmoet",
+          "author": "DivvvError",
+          "text_history": [
+            [
+              "I have this exact post multiple times already, definately a bot😂",
+              "2025-11-18T14:22:35.976997"
+            ]
+          ],
+          "score_history": [
+            [
+              2,
+              "2025-11-18T14:22:35.976997"
+            ],
+            [
+              2,
+              "2025-11-18T14:33:04.361449"
+            ],
+            [
+              2,
+              "2025-11-18T14:42:18.542271"
+            ],
+            [
+              2,
+              "2025-11-18T14:43:31.445645"
+            ],
+            [
+              2,
+              "2025-11-18T14:45:21.335462"
+            ]
+          ],
+          "created_utc": 1763449025.0,
+          "depth": 1,
+          "permalink": "/r/MLQuestions/comments/1p00x30/most_of_you_are_learning_the_wrong_things/npgdsqn/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        },
+        {
+          "id": "npgp524",
+          "parent_id": "t1_npfmoet",
+          "author": "dr_tardyhands",
+          "text_history": [
+            [
+              "Definitely ChatGPT.",
+              "2025-11-18T14:22:35.976997"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T14:22:35.976997"
+            ],
+            [
+              1,
+              "2025-11-18T14:33:04.361449"
+            ],
+            [
+              1,
+              "2025-11-18T14:42:18.542271"
+            ],
+            [
+              1,
+              "2025-11-18T14:43:31.445645"
+            ],
+            [
+              1,
+              "2025-11-18T14:45:21.335462"
+            ]
+          ],
+          "created_utc": 1763455914.0,
+          "depth": 1,
+          "permalink": "/r/MLQuestions/comments/1p00x30/most_of_you_are_learning_the_wrong_things/npgp524/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        },
+        {
+          "id": "npgz867",
+          "parent_id": "t1_npfmoet",
+          "author": "Inevitable_Yam887",
+          "text_history": [
+            [
+              "Same thing was posted before as well lol",
+              "2025-11-18T14:22:35.976997"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T14:22:35.976997"
+            ],
+            [
+              1,
+              "2025-11-18T14:33:04.361449"
+            ],
+            [
+              1,
+              "2025-11-18T14:42:18.542271"
+            ],
+            [
+              1,
+              "2025-11-18T14:43:31.445645"
+            ],
+            [
+              1,
+              "2025-11-18T14:45:21.335462"
+            ]
+          ],
+          "created_utc": 1763462219.0,
+          "depth": 1,
+          "permalink": "/r/MLQuestions/comments/1p00x30/most_of_you_are_learning_the_wrong_things/npgz867/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        },
+        {
+          "id": "npgzzpe",
+          "parent_id": "t1_npfmoet",
+          "author": "OldHobbitsDieHard",
+          "text_history": [
+            [
+              "'One really solid end-to-end project:' + arrows",
+              "2025-11-18T14:22:35.976997"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T14:22:35.976997"
+            ],
+            [
+              1,
+              "2025-11-18T14:33:04.361449"
+            ],
+            [
+              1,
+              "2025-11-18T14:42:18.542271"
+            ],
+            [
+              1,
+              "2025-11-18T14:43:31.445645"
+            ],
+            [
+              1,
+              "2025-11-18T14:45:21.335462"
+            ]
+          ],
+          "created_utc": 1763462673.0,
+          "depth": 1,
+          "permalink": "/r/MLQuestions/comments/1p00x30/most_of_you_are_learning_the_wrong_things/npgzzpe/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npg88cm",
+      "parent_id": "t3_1p00x30",
+      "author": "SleepWalkersDream",
+      "text_history": [
+        [
+          "This is a variation of a previous post. Is OP a BOT?",
+          "2025-11-18T14:22:35.976997"
+        ]
+      ],
+      "score_history": [
+        [
+          20,
+          "2025-11-18T14:22:35.976997"
+        ],
+        [
+          21,
+          "2025-11-18T14:33:04.361449"
+        ],
+        [
+          20,
+          "2025-11-18T14:42:18.542271"
+        ],
+        [
+          21,
+          "2025-11-18T14:43:31.445645"
+        ],
+        [
+          20,
+          "2025-11-18T14:45:21.335462"
+        ]
+      ],
+      "created_utc": 1763446009.0,
+      "depth": 0,
+      "permalink": "/r/MLQuestions/comments/1p00x30/most_of_you_are_learning_the_wrong_things/npg88cm/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npfp6fz",
+      "parent_id": "t3_1p00x30",
+      "author": "Spskrk",
+      "text_history": [
+        [
+          "If you are getting candidates with the wrong skills for you then your hiring pipeline is not working properly.\n\nBe more specific about what you are looking for on your job description and reevaluate your intro call approach.",
+          "2025-11-18T14:22:35.976997"
+        ]
+      ],
+      "score_history": [
+        [
+          10,
+          "2025-11-18T14:22:35.976997"
+        ],
+        [
+          8,
+          "2025-11-18T14:33:04.361449"
+        ],
+        [
+          8,
+          "2025-11-18T14:42:18.542271"
+        ],
+        [
+          9,
+          "2025-11-18T14:43:31.445645"
+        ],
+        [
+          9,
+          "2025-11-18T14:45:21.335462"
+        ]
+      ],
+      "created_utc": 1763437303.0,
+      "depth": 0,
+      "permalink": "/r/MLQuestions/comments/1p00x30/most_of_you_are_learning_the_wrong_things/npfp6fz/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npfnxsn",
+      "parent_id": "t3_1p00x30",
+      "author": "GoddSerena",
+      "text_history": [
+        [
+          "ML courses teach technical skills. they are not \"how to land a ML engineer job\" courses. education is fine. \n\nyour post talks about the intuition of an engineer, which comes with experience. a junior with that kinda intuition is very rare. \n\ntheory-based intuition is also a thing. someone without the technical depth will not know that tuning x parameter of y model will fix this issue or just putting this filter over data will improve result by xx%. \n\n  \nseems to me like the hiring system is broken. someone who can build a basic backend should not be hired over someone who fully understands and can explain the attention mechanism in detail. you are looking for the wrong things. you are appreciating pretty looking websites and buzzwords while disregarding genuine in-depth technical knowledge because you dont understand it and there is *not much to look at.* a ML engineer's github should absolutely be notebooks. notebooks that show how they deal with bad data. or showcase of complex architectures. if you want a backend, ill build it live during interview with a fuckin LLM prompt. it takes less than 5 min. ridiculous.",
+          "2025-11-18T14:22:35.976997"
+        ]
+      ],
+      "score_history": [
+        [
+          20,
+          "2025-11-18T14:22:35.976997"
+        ],
+        [
+          18,
+          "2025-11-18T14:33:04.361449"
+        ],
+        [
+          19,
+          "2025-11-18T14:42:18.542271"
+        ],
+        [
+          18,
+          "2025-11-18T14:43:31.445645"
+        ],
+        [
+          18,
+          "2025-11-18T14:45:21.335462"
+        ]
+      ],
+      "created_utc": 1763436821.0,
+      "depth": 0,
+      "permalink": "/r/MLQuestions/comments/1p00x30/most_of_you_are_learning_the_wrong_things/npfnxsn/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npftkic",
+          "parent_id": "t1_npfnxsn",
+          "author": "venturepulse",
+          "text_history": [
+            [
+              "&gt;if you want a backend, ill build it live during interview with a fuckin LLM prompt. it takes less than 5 min. ridiculous.\n\nAlthough I agree with majority of what you said, I dont believe a robust data pipeline can be built with an LLM prompt (without spending a lot of time back and forth fighting hallucinations and shitty code)",
+              "2025-11-18T14:22:35.976997"
+            ]
+          ],
+          "score_history": [
+            [
+              3,
+              "2025-11-18T14:22:35.976997"
+            ],
+            [
+              4,
+              "2025-11-18T14:33:04.361449"
+            ],
+            [
+              4,
+              "2025-11-18T14:42:18.542271"
+            ],
+            [
+              5,
+              "2025-11-18T14:43:31.445645"
+            ],
+            [
+              4,
+              "2025-11-18T14:45:21.335462"
+            ]
+          ],
+          "created_utc": 1763439068.0,
+          "depth": 1,
+          "permalink": "/r/MLQuestions/comments/1p00x30/most_of_you_are_learning_the_wrong_things/npftkic/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npfznb8",
+              "parent_id": "t1_npftkic",
+              "author": "GoddSerena",
+              "text_history": [
+                [
+                  "ofc not. but he is saying that he wants to see \"boring\" backend in portfolio which can absolutely be made with LLM.",
+                  "2025-11-18T14:22:35.976997"
+                ]
+              ],
+              "score_history": [
+                [
+                  3,
+                  "2025-11-18T14:22:35.976997"
+                ],
+                [
+                  3,
+                  "2025-11-18T14:33:04.361449"
+                ],
+                [
+                  3,
+                  "2025-11-18T14:42:18.542271"
+                ],
+                [
+                  3,
+                  "2025-11-18T14:43:31.445645"
+                ],
+                [
+                  3,
+                  "2025-11-18T14:45:21.335462"
+                ]
+              ],
+              "created_utc": 1763441745.0,
+              "depth": 2,
+              "permalink": "/r/MLQuestions/comments/1p00x30/most_of_you_are_learning_the_wrong_things/npfznb8/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            },
+            {
+              "id": "nphmdg2",
+              "parent_id": "t1_npftkic",
+              "author": "robertsd33",
+              "text_history": [
+                [
+                  "Well therein lies the problem, OP expects to hire ml engineers to each build their own full stack solutions from the ground up? How’s he plan to support that menagerie of one-offs. Gonna have a bad time",
+                  "2025-11-18T14:22:35.976997"
+                ]
+              ],
+              "score_history": [
+                [
+                  2,
+                  "2025-11-18T14:22:35.976997"
+                ],
+                [
+                  2,
+                  "2025-11-18T14:33:04.361449"
+                ],
+                [
+                  2,
+                  "2025-11-18T14:42:18.542271"
+                ],
+                [
+                  2,
+                  "2025-11-18T14:43:31.445645"
+                ],
+                [
+                  2,
+                  "2025-11-18T14:45:21.335462"
+                ]
+              ],
+              "created_utc": 1763472599.0,
+              "depth": 2,
+              "permalink": "/r/MLQuestions/comments/1p00x30/most_of_you_are_learning_the_wrong_things/nphmdg2/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "npfou27",
+      "parent_id": "t3_1p00x30",
+      "author": "mindseye73",
+      "text_history": [
+        [
+          "I think some of these issues can be resolved if job openings clearly mentioned job requirements, as ML Engineer and Data Engineer titles are often misused. Everyone wants to be ML Engineer but not Data Engineer even though now some companies use ML Engineer job title when they actually need Data Engineer. Now add to more confusion, companies have come up with new title - \"Forward Deployment Engineer\"\n\n  \nAlso, some of things below , sometimes Data Scientists are expected to do:-\n\n* \"Can you deploy this model so customers can use it?\"\n* \"Can you make this inference faster/cheaper?\"\n* \"Can you explain to our CEO why the model made this prediction?\"\n\nBelow question, most of time, ML Engineers don't need to know as they never have power to make decision in real world. They are told by Product Managers, Architects or Senior Leadership to use ML as per Board recommendations.\n\n* \"Do you know enough about our business to know WHEN NOT to use ML?\"\n\nLastly, just learning ML or AI is not enough as one needs to understand domain and business, which unfortunately cannot be taught. One has to be in industry to know about it and it comes after years of experience. Book knowledge doesn't work.",
+          "2025-11-18T14:22:35.976997"
+        ]
+      ],
+      "score_history": [
+        [
+          6,
+          "2025-11-18T14:22:35.976997"
+        ],
+        [
+          6,
+          "2025-11-18T14:33:04.361449"
+        ],
+        [
+          5,
+          "2025-11-18T14:42:18.542271"
+        ],
+        [
+          5,
+          "2025-11-18T14:43:31.445645"
+        ],
+        [
+          6,
+          "2025-11-18T14:45:21.335462"
+        ]
+      ],
+      "created_utc": 1763437170.0,
+      "depth": 0,
+      "permalink": "/r/MLQuestions/comments/1p00x30/most_of_you_are_learning_the_wrong_things/npfou27/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npfpidc",
+      "parent_id": "t3_1p00x30",
+      "author": "NoSwimmer2185",
+      "text_history": [
+        [
+          "I totally agree with you. However I would argue that those candidates ARE learning the right stuff for ML, it's just that there is a huge disconnect between doing ML (all the fun model stuff) and doing what businesses actually need. \n\nThat being said, I think it also depends. I'm currently on a research focused science team and those candidates you described would be exactly what we hire for, but I understand this is an edge case.",
+          "2025-11-18T14:22:35.976997"
+        ]
+      ],
+      "score_history": [
+        [
+          4,
+          "2025-11-18T14:22:35.976997"
+        ],
+        [
+          5,
+          "2025-11-18T14:33:04.361449"
+        ],
+        [
+          5,
+          "2025-11-18T14:42:18.542271"
+        ],
+        [
+          4,
+          "2025-11-18T14:43:31.445645"
+        ],
+        [
+          4,
+          "2025-11-18T14:45:21.335462"
+        ]
+      ],
+      "created_utc": 1763437431.0,
+      "depth": 0,
+      "permalink": "/r/MLQuestions/comments/1p00x30/most_of_you_are_learning_the_wrong_things/npfpidc/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npfvnae",
+      "parent_id": "t3_1p00x30",
+      "author": "Leather_Power_1137",
+      "text_history": [
+        [
+          "The skills you list as being shown to you by candidates are ML scientist / researcher skills, and the skills you list as the skills you actually want are ML engineer / data engineer / DevOps / data scientist skills. Is it completely the candidates' fault or are you perhaps mislabeling your job postings with the wrong job title or not being clear in the job requirements and job description?",
+          "2025-11-18T14:22:35.976997"
+        ]
+      ],
+      "score_history": [
+        [
+          4,
+          "2025-11-18T14:22:35.976997"
+        ],
+        [
+          4,
+          "2025-11-18T14:33:04.361449"
+        ],
+        [
+          4,
+          "2025-11-18T14:42:18.542271"
+        ],
+        [
+          5,
+          "2025-11-18T14:43:31.445645"
+        ],
+        [
+          4,
+          "2025-11-18T14:45:21.335462"
+        ]
+      ],
+      "created_utc": 1763439956.0,
+      "depth": 0,
+      "permalink": "/r/MLQuestions/comments/1p00x30/most_of_you_are_learning_the_wrong_things/npfvnae/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npgaa4v",
+          "parent_id": "t1_npfvnae",
+          "author": "FamiliarRice",
+          "text_history": [
+            [
+              "Entirely agree with this; you are attracting the wrong candidates or candidates that wanted but can’t land full research roles are looking at more eng roles",
+              "2025-11-18T14:22:35.976997"
+            ]
+          ],
+          "score_history": [
+            [
+              2,
+              "2025-11-18T14:22:35.976997"
+            ],
+            [
+              2,
+              "2025-11-18T14:33:04.361449"
+            ],
+            [
+              2,
+              "2025-11-18T14:42:18.542271"
+            ],
+            [
+              2,
+              "2025-11-18T14:43:31.445645"
+            ],
+            [
+              2,
+              "2025-11-18T14:45:21.335462"
+            ]
+          ],
+          "created_utc": 1763447115.0,
+          "depth": 1,
+          "permalink": "/r/MLQuestions/comments/1p00x30/most_of_you_are_learning_the_wrong_things/npgaa4v/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        },
+        {
+          "id": "nphlcnl",
+          "parent_id": "t1_npfvnae",
+          "author": "Acceptable-Scheme884",
+          "text_history": [
+            [
+              "This is exactly the feedback OP got the last time they posted this. Apparently they don’t seem to have taken any steps to improve their hiring process.",
+              "2025-11-18T14:22:35.976997"
+            ]
+          ],
+          "score_history": [
+            [
+              2,
+              "2025-11-18T14:22:35.976997"
+            ],
+            [
+              2,
+              "2025-11-18T14:33:04.361449"
+            ],
+            [
+              2,
+              "2025-11-18T14:42:18.542271"
+            ],
+            [
+              2,
+              "2025-11-18T14:43:31.445645"
+            ],
+            [
+              2,
+              "2025-11-18T14:45:21.335462"
+            ]
+          ],
+          "created_utc": 1763472259.0,
+          "depth": 1,
+          "permalink": "/r/MLQuestions/comments/1p00x30/most_of_you_are_learning_the_wrong_things/nphlcnl/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npghhqx",
+      "parent_id": "t3_1p00x30",
+      "author": "Complex_Medium_7125",
+      "text_history": [
+        [
+          "i can teach someone basic industry skills if they have their fundamentals covered  \n  \n\"Proof you've debugged real ML issues in production\"\n\nby definition if you're a student you don't have access to production",
+          "2025-11-18T14:22:35.976997"
+        ]
+      ],
+      "score_history": [
+        [
+          3,
+          "2025-11-18T14:22:35.976997"
+        ],
+        [
+          3,
+          "2025-11-18T14:33:04.361449"
+        ],
+        [
+          3,
+          "2025-11-18T14:42:18.542271"
+        ],
+        [
+          3,
+          "2025-11-18T14:43:31.445645"
+        ],
+        [
+          3,
+          "2025-11-18T14:45:21.335462"
+        ]
+      ],
+      "created_utc": 1763451173.0,
+      "depth": 0,
+      "permalink": "/r/MLQuestions/comments/1p00x30/most_of_you_are_learning_the_wrong_things/npghhqx/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "nphdziq",
+          "parent_id": "t1_npghhqx",
+          "author": "2up1dn",
+          "text_history": [
+            [
+              "\"Do you know enough about our business to know WHEN NOT to use ML...\"\n\nYeah, sure. I know all about your industry, your siloed business data, and your specific production challenges. It's all laid out in plain English on the web site!\n\nWhat the fuck is this question? Are you for real? Because this sounds like AI slop.",
+              "2025-11-18T14:22:35.976997"
+            ]
+          ],
+          "score_history": [
+            [
+              3,
+              "2025-11-18T14:22:35.976997"
+            ],
+            [
+              3,
+              "2025-11-18T14:33:04.361449"
+            ],
+            [
+              3,
+              "2025-11-18T14:42:18.542271"
+            ],
+            [
+              3,
+              "2025-11-18T14:43:31.445645"
+            ],
+            [
+              3,
+              "2025-11-18T14:45:21.335462"
+            ]
+          ],
+          "created_utc": 1763469511.0,
+          "depth": 1,
+          "permalink": "/r/MLQuestions/comments/1p00x30/most_of_you_are_learning_the_wrong_things/nphdziq/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        },
+        {
+          "id": "nph2rvu",
+          "parent_id": "t1_npghhqx",
+          "author": "RealSataan",
+          "text_history": [
+            [
+              "This is the biggest issue with many of those recruiters and hiring managers. They want students to be adept in things they cannot do. \n\nHow can you successfully deploy your product to scale to 100k users without any work experience? How can you get access to a production level codebase without having any work experience? \n\nAnd they are crying that they do not get talented engineers. People can only do what they have access to.",
+              "2025-11-18T14:22:35.976997"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T14:22:35.976997"
+            ],
+            [
+              1,
+              "2025-11-18T14:33:04.361449"
+            ],
+            [
+              1,
+              "2025-11-18T14:42:18.542271"
+            ],
+            [
+              1,
+              "2025-11-18T14:43:31.445645"
+            ],
+            [
+              1,
+              "2025-11-18T14:45:21.335462"
+            ]
+          ],
+          "created_utc": 1763464268.0,
+          "depth": 1,
+          "permalink": "/r/MLQuestions/comments/1p00x30/most_of_you_are_learning_the_wrong_things/nph2rvu/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": 1763469417.0,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npgj9gh",
+      "parent_id": "t3_1p00x30",
+      "author": "AgentHamster",
+      "text_history": [
+        [
+          "You’re not crazy - you’re just doing the world’s longest advertisement for your matchmaking platform.\n\nAt this point, I've seen a few posts from you and they go something like this:\n\n* “The ML industry is broken.”\n* “Everyone is learning the wrong things.”\n* “Luckily, I personally interview 100+ engineers and run a platform that magically solves this exact problem.”\n\nIt’s less “insider wisdom” and more startup marketing disguised as a revelation.\n\nSure, there are companies that want someone who can wrangle a data pipeline and bolt a model onto an API. Those roles exist. But pretending that this is the universal truth of ML hiring is just rebranding the niche your platform serves as some sort of deep industry insight.\n\nI’ve interviewed across big tech, finance, insurance, biotech, and more, and with the exception of one tiny startup, nobody cared about Docker trivia or cloud plumbing. The interviews centered on math (probability, optimization), coding, and design - because that’s what those teams needed. They already have plenty of software engineers to build APIs.\n\nSo instead of being misled by this, you should sign up for my 100-day course that will teach you all the theor...\n\nI’m joking. I don’t have anything to sell here.",
+          "2025-11-18T14:22:35.976997"
+        ]
+      ],
+      "score_history": [
+        [
+          3,
+          "2025-11-18T14:22:35.976997"
+        ],
+        [
+          3,
+          "2025-11-18T14:33:04.361449"
+        ],
+        [
+          3,
+          "2025-11-18T14:42:18.542271"
+        ],
+        [
+          3,
+          "2025-11-18T14:43:31.445645"
+        ],
+        [
+          3,
+          "2025-11-18T14:45:21.335462"
+        ]
+      ],
+      "created_utc": 1763452253.0,
+      "depth": 0,
+      "permalink": "/r/MLQuestions/comments/1p00x30/most_of_you_are_learning_the_wrong_things/npgj9gh/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npfxjp5",
+      "parent_id": "t3_1p00x30",
+      "author": "AmolDavkhar",
+      "text_history": [
+        [
+          "Everyone perusing AI ML should read this.",
+          "2025-11-18T14:22:35.976997"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-18T14:22:35.976997"
+        ],
+        [
+          2,
+          "2025-11-18T14:33:04.361449"
+        ],
+        [
+          2,
+          "2025-11-18T14:42:18.542271"
+        ],
+        [
+          2,
+          "2025-11-18T14:43:31.445645"
+        ],
+        [
+          2,
+          "2025-11-18T14:45:21.335462"
+        ]
+      ],
+      "created_utc": 1763440797.0,
+      "depth": 0,
+      "permalink": "/r/MLQuestions/comments/1p00x30/most_of_you_are_learning_the_wrong_things/npfxjp5/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npgapn7",
+      "parent_id": "t3_1p00x30",
+      "author": "armostallion2",
+      "text_history": [
+        [
+          "I’ve been waiting for this post.  Thank you.",
+          "2025-11-18T14:22:35.976997"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-18T14:22:35.976997"
+        ],
+        [
+          2,
+          "2025-11-18T14:33:04.361449"
+        ],
+        [
+          2,
+          "2025-11-18T14:42:18.542271"
+        ],
+        [
+          2,
+          "2025-11-18T14:43:31.445645"
+        ],
+        [
+          2,
+          "2025-11-18T14:45:21.335462"
+        ]
+      ],
+      "created_utc": 1763447351.0,
+      "depth": 0,
+      "permalink": "/r/MLQuestions/comments/1p00x30/most_of_you_are_learning_the_wrong_things/npgapn7/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npgerj0",
+      "parent_id": "t3_1p00x30",
+      "author": "ridgerunner81s_71e",
+      "text_history": [
+        [
+          "Hey OP, coming to Reddit isn’t going to meaningfully change what you’re looking for. If you’re serious, go to some universities and build partnerships with *actual* computer scientists. Heck, a lot of times professors are looking for stuff like this. That’s how I found out about ML the first time around: Accenture was poking around schools for programmers while I was a student then, a few years later, one of my CS professors was trying to recruit us in a side project for Facebook (before Meta).\n\nIf you want to meaningfully move the ball, you should find someone who’s a researcher and then *go meet them*. If you’re serious, and they’re serious, something will shake or they will explain why it shouldn’t (I’m in the opinion of the latter. I don’t believe researchers should be striving to be programmers++ but I’ve also never written meaningful production code so 🤷🏾‍♂️)",
+          "2025-11-18T14:22:35.976997"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-18T14:22:35.976997"
+        ],
+        [
+          2,
+          "2025-11-18T14:33:04.361449"
+        ],
+        [
+          2,
+          "2025-11-18T14:42:18.542271"
+        ],
+        [
+          2,
+          "2025-11-18T14:43:31.445645"
+        ],
+        [
+          2,
+          "2025-11-18T14:45:21.335462"
+        ]
+      ],
+      "created_utc": 1763449559.0,
+      "depth": 0,
+      "permalink": "/r/MLQuestions/comments/1p00x30/most_of_you_are_learning_the_wrong_things/npgerj0/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npghnjv",
+      "parent_id": "t3_1p00x30",
+      "author": "Then-Understanding85",
+      "text_history": [
+        [
+          "How many times do I have to see the same AI slop post mixing up ML Ops and ML Science?\n\nWe get it, you founded *yet another* AI company and need social networking engagement. See you on r/HelpIMadeAnAIStartupAndNowINeedAJob in 6 months.",
+          "2025-11-18T14:22:35.976997"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-18T14:22:35.976997"
+        ],
+        [
+          2,
+          "2025-11-18T14:33:04.361449"
+        ],
+        [
+          2,
+          "2025-11-18T14:42:18.542271"
+        ],
+        [
+          2,
+          "2025-11-18T14:43:31.445645"
+        ],
+        [
+          2,
+          "2025-11-18T14:45:21.335462"
+        ]
+      ],
+      "created_utc": 1763451272.0,
+      "depth": 0,
+      "permalink": "/r/MLQuestions/comments/1p00x30/most_of_you_are_learning_the_wrong_things/npghnjv/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npgm3r0",
+      "parent_id": "t3_1p00x30",
+      "author": "Top-Skill357",
+      "text_history": [
+        [
+          "Well, when I read your post my first thought was those companies are looking for a software engineer, where the ml model is more of a framework that you use and know how it behaves and how to debug. However, this description would actually fit perfectly for my last job that I applied to as well - although this was for a senior data scientist position. \n\nAnd students learn how to do backpropagation by hand, howto re-implement a paper from scratch etc.. because these are questions literally asked in interviews or are part of the job. \n\nBeginners and students that are entering the field used to gain that experience which you describe within their first or second job.",
+          "2025-11-18T14:22:35.976997"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-18T14:22:35.976997"
+        ],
+        [
+          2,
+          "2025-11-18T14:33:04.361449"
+        ],
+        [
+          2,
+          "2025-11-18T14:42:18.542271"
+        ],
+        [
+          2,
+          "2025-11-18T14:43:31.445645"
+        ],
+        [
+          2,
+          "2025-11-18T14:45:21.335462"
+        ]
+      ],
+      "created_utc": 1763453996.0,
+      "depth": 0,
+      "permalink": "/r/MLQuestions/comments/1p00x30/most_of_you_are_learning_the_wrong_things/npgm3r0/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npgpk6d",
+      "parent_id": "t3_1p00x30",
+      "author": "smarkman19",
+      "text_history": [
+        [
+          "Hiring rewards people who ship boring, reliable ML that moves a business metric, not folks who reimplement papers. \n\nOP’s take matches what I’ve seen. Build one end-to-end project with a measurable goal (e.g., cut ticket triage time 30%): simple pipeline (cron + Python/SQL), pre-trained model (Hugging Face or Claude/OpenAI), FastAPI service, Dockerized, deployed on Cloud Run or Lambda, with logs, tracing, and alerts. Add an eval harness (offline tests + shadow traffic), a cheap A/B, and clear fallbacks (rules-only path, caching, timeouts). Show cost per request, p95 latency, and an error budget; write data contracts, unit/integration tests, and a rollback plan. For portfolio: real repo (not just notebooks), a short postmortem from a production-like bug, and a README explaining tradeoffs and when you’d ditch ML for heuristics. \n\nIn one stack I liked: Databricks for ETL, FastAPI for serving, and DreamFactory to quickly expose secure CRUD APIs over Postgres to downstream apps. Ship pragmatic systems that save time or money and you’ll stand out.",
+          "2025-11-18T14:22:35.976997"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-18T14:22:35.976997"
+        ],
+        [
+          2,
+          "2025-11-18T14:33:04.361449"
+        ],
+        [
+          2,
+          "2025-11-18T14:42:18.542271"
+        ],
+        [
+          2,
+          "2025-11-18T14:43:31.445645"
+        ],
+        [
+          2,
+          "2025-11-18T14:45:21.335462"
+        ]
+      ],
+      "created_utc": 1763456177.0,
+      "depth": 0,
+      "permalink": "/r/MLQuestions/comments/1p00x30/most_of_you_are_learning_the_wrong_things/npgpk6d/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npgs6vy",
+      "parent_id": "t3_1p00x30",
+      "author": "guest_1870",
+      "text_history": [
+        [
+          "If most beginners are learning the wrong things, then what *should* a new ML learner focus on from day one?\n\nShould someone starting out spend more time on things like SQL, data cleaning, APIs, and deployment instead of model theory? And if so, how would you recommend structuring the learning path for a beginner who eventually wants to work as an ML engineer?",
+          "2025-11-18T14:22:35.976997"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-18T14:22:35.976997"
+        ],
+        [
+          2,
+          "2025-11-18T14:33:04.361449"
+        ],
+        [
+          2,
+          "2025-11-18T14:42:18.542271"
+        ],
+        [
+          2,
+          "2025-11-18T14:43:31.445645"
+        ],
+        [
+          2,
+          "2025-11-18T14:45:21.335462"
+        ]
+      ],
+      "created_utc": 1763457861.0,
+      "depth": 0,
+      "permalink": "/r/MLQuestions/comments/1p00x30/most_of_you_are_learning_the_wrong_things/npgs6vy/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npgsj2w",
+      "parent_id": "t3_1p00x30",
+      "author": "look",
+      "text_history": [
+        [
+          "University is not trade school.",
+          "2025-11-18T14:22:35.976997"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-18T14:22:35.976997"
+        ],
+        [
+          2,
+          "2025-11-18T14:33:04.361449"
+        ],
+        [
+          2,
+          "2025-11-18T14:42:18.542271"
+        ],
+        [
+          2,
+          "2025-11-18T14:43:31.445645"
+        ],
+        [
+          2,
+          "2025-11-18T14:45:21.335462"
+        ]
+      ],
+      "created_utc": 1763458080.0,
+      "depth": 0,
+      "permalink": "/r/MLQuestions/comments/1p00x30/most_of_you_are_learning_the_wrong_things/npgsj2w/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nph2p4h",
+      "parent_id": "t3_1p00x30",
+      "author": "drcopus",
+      "text_history": [
+        [
+          "I'm not learning the wrong things. I don't want to work for you. If all your interview candidates have the wrong background then that's your fault for creating bad job advertisements and not screening CVs properly.\n\nYou have no reason to come here and complain at us for your poorly executed hiring process.",
+          "2025-11-18T14:22:35.976997"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-18T14:22:35.976997"
+        ],
+        [
+          2,
+          "2025-11-18T14:33:04.361449"
+        ],
+        [
+          2,
+          "2025-11-18T14:42:18.542271"
+        ],
+        [
+          2,
+          "2025-11-18T14:43:31.445645"
+        ],
+        [
+          2,
+          "2025-11-18T14:45:21.335462"
+        ]
+      ],
+      "created_utc": 1763464226.0,
+      "depth": 0,
+      "permalink": "/r/MLQuestions/comments/1p00x30/most_of_you_are_learning_the_wrong_things/nph2p4h/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "nphfbdh",
+          "parent_id": "t1_nph2p4h",
+          "author": "2up1dn",
+          "text_history": [
+            [
+              "Well said. \n\n\"Am I out of touch? No! It's the children who are wrong.\"",
+              "2025-11-18T14:22:35.976997"
+            ]
+          ],
+          "score_history": [
+            [
+              2,
+              "2025-11-18T14:22:35.976997"
+            ],
+            [
+              2,
+              "2025-11-18T14:33:04.361449"
+            ],
+            [
+              2,
+              "2025-11-18T14:42:18.542271"
+            ],
+            [
+              2,
+              "2025-11-18T14:43:31.445645"
+            ],
+            [
+              2,
+              "2025-11-18T14:45:21.335462"
+            ]
+          ],
+          "created_utc": 1763470049.0,
+          "depth": 1,
+          "permalink": "/r/MLQuestions/comments/1p00x30/most_of_you_are_learning_the_wrong_things/nphfbdh/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npgco2y",
+      "parent_id": "t3_1p00x30",
+      "author": "PresentStand2023",
+      "text_history": [
+        [
+          "Your startup has 18 employees. You're the CEO. Why are interviewing 100 people a year to fill, what, five open ML spots? \n\nSlop horseshit from a platform trashing Reddit with its spam.",
+          "2025-11-18T14:22:35.976997"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-18T14:22:35.976997"
+        ],
+        [
+          2,
+          "2025-11-18T14:33:04.361449"
+        ],
+        [
+          2,
+          "2025-11-18T14:42:18.542271"
+        ],
+        [
+          2,
+          "2025-11-18T14:43:31.445645"
+        ],
+        [
+          2,
+          "2025-11-18T14:45:21.335462"
+        ]
+      ],
+      "created_utc": 1763448407.0,
+      "depth": 0,
+      "permalink": "/r/MLQuestions/comments/1p00x30/most_of_you_are_learning_the_wrong_things/npgco2y/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npfwypo",
+      "parent_id": "t3_1p00x30",
+      "author": "Live-Butterfly-4591",
+      "text_history": [
+        [
+          "this is exactly the point i keep trying to make to younger folks. it's the 80/20 rule—80% of the job is the \"boring\" production stuff, but 80% of the learning material is pure research theory. you gotta learn the theory, but you have to *prioritize* the deployment pipeline.\n\ni also interview people and i've noticed that the candidates who actually put their project docs/white papers into a system so they can explain the *why* of their stack choices usually do better. i struggled with this myself, forgetting the details of different MLOps papers i read. i eventually started using this app, o1recall, to dump links and docs. it uses spaced repetition to quiz you on the key concepts and code snippets so that 'boring' stuff like docker-compose files and slas actually stick. it's been a game changer for memory retention. you can check it out at [o1recall.com](http://o1recall.com) if you're trying to retain more of that production-focused knowledge!",
+          "2025-11-18T14:22:35.976997"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:22:35.976997"
+        ],
+        [
+          1,
+          "2025-11-18T14:33:04.361449"
+        ],
+        [
+          1,
+          "2025-11-18T14:42:18.542271"
+        ],
+        [
+          1,
+          "2025-11-18T14:43:31.445645"
+        ],
+        [
+          1,
+          "2025-11-18T14:45:21.335462"
+        ]
+      ],
+      "created_utc": 1763440535.0,
+      "depth": 0,
+      "permalink": "/r/MLQuestions/comments/1p00x30/most_of_you_are_learning_the_wrong_things/npfwypo/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npgq8l1",
+      "parent_id": "t3_1p00x30",
+      "author": "aroman_ro",
+      "text_history": [
+        [
+          "Well, you obviously don't need ML engineers, but dumb code monkeys.",
+          "2025-11-18T14:22:35.976997"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:22:35.976997"
+        ],
+        [
+          1,
+          "2025-11-18T14:33:04.361449"
+        ],
+        [
+          1,
+          "2025-11-18T14:42:18.542271"
+        ],
+        [
+          1,
+          "2025-11-18T14:43:31.445645"
+        ],
+        [
+          1,
+          "2025-11-18T14:45:21.335462"
+        ]
+      ],
+      "created_utc": 1763456607.0,
+      "depth": 0,
+      "permalink": "/r/MLQuestions/comments/1p00x30/most_of_you_are_learning_the_wrong_things/npgq8l1/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npgup80",
+      "parent_id": "t3_1p00x30",
+      "author": "Chance_Value_Not",
+      "text_history": [
+        [
+          "AI/ML stuff is probably harder to pick up on the go. If you dont think so you should hire for data engineer instead and youll get a lot better results",
+          "2025-11-18T14:22:35.976997"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:22:35.976997"
+        ],
+        [
+          1,
+          "2025-11-18T14:33:04.361449"
+        ],
+        [
+          1,
+          "2025-11-18T14:42:18.542271"
+        ],
+        [
+          1,
+          "2025-11-18T14:43:31.445645"
+        ],
+        [
+          1,
+          "2025-11-18T14:45:21.335462"
+        ]
+      ],
+      "created_utc": 1763459471.0,
+      "depth": 0,
+      "permalink": "/r/MLQuestions/comments/1p00x30/most_of_you_are_learning_the_wrong_things/npgup80/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nph1wkx",
+      "parent_id": "t3_1p00x30",
+      "author": "Evan_802Vines",
+      "text_history": [
+        [
+          "Thanks chat",
+          "2025-11-18T14:22:35.976997"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:22:35.976997"
+        ],
+        [
+          1,
+          "2025-11-18T14:33:04.361449"
+        ],
+        [
+          1,
+          "2025-11-18T14:42:18.542271"
+        ],
+        [
+          1,
+          "2025-11-18T14:43:31.445645"
+        ],
+        [
+          1,
+          "2025-11-18T14:45:21.335462"
+        ]
+      ],
+      "created_utc": 1763463771.0,
+      "depth": 0,
+      "permalink": "/r/MLQuestions/comments/1p00x30/most_of_you_are_learning_the_wrong_things/nph1wkx/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nph3rc5",
+      "parent_id": "t3_1p00x30",
+      "author": "MelonheadGT",
+      "text_history": [
+        [
+          "So you want an MLOps engineer, not an ML Engineer.",
+          "2025-11-18T14:22:35.976997"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:22:35.976997"
+        ],
+        [
+          1,
+          "2025-11-18T14:33:04.361449"
+        ],
+        [
+          1,
+          "2025-11-18T14:42:18.542271"
+        ],
+        [
+          1,
+          "2025-11-18T14:43:31.445645"
+        ],
+        [
+          1,
+          "2025-11-18T14:45:21.335462"
+        ]
+      ],
+      "created_utc": 1763464811.0,
+      "depth": 0,
+      "permalink": "/r/MLQuestions/comments/1p00x30/most_of_you_are_learning_the_wrong_things/nph3rc5/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nph4cz6",
+      "parent_id": "t3_1p00x30",
+      "author": "flashingc",
+      "text_history": [
+        [
+          "Education does not need to be vocational. That is too short-sighted. Your point about learning practical skills is valid but it doesn't need to come at the cost of learning the foundational stuff.",
+          "2025-11-18T14:22:35.976997"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:22:35.976997"
+        ],
+        [
+          1,
+          "2025-11-18T14:33:04.361449"
+        ],
+        [
+          1,
+          "2025-11-18T14:42:18.542271"
+        ],
+        [
+          1,
+          "2025-11-18T14:43:31.445645"
+        ],
+        [
+          1,
+          "2025-11-18T14:45:21.335462"
+        ]
+      ],
+      "created_utc": 1763465135.0,
+      "depth": 0,
+      "permalink": "/r/MLQuestions/comments/1p00x30/most_of_you_are_learning_the_wrong_things/nph4cz6/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nph61s0",
+      "parent_id": "t3_1p00x30",
+      "author": "foreverdark-woods",
+      "text_history": [
+        [
+          "&gt; Why do courses focus on building models from scratch when 95% of jobs are about using pre-trained models effectively?\n\n\nUniversities aren't free worker factories for your business, but are responsible for teaching fundamental and advanced concepts for a careers in research. Deploying ML models simply isn't important in that regard, nor is it particularly challenging. We hired university graduates who never had anything to do with web services, but got AI services running within weeks after their onboarding. This is something I'd consider suitable for learning on the job. \n\n\n&gt; Why does everyone skip the \"boring\" stuff that actually matters?\n\n\nSee above.\n\n\n&gt; Are Kaggle competitions actively hurting people's job chances?\n\n\nAs far as I understand, a good performance on Kaggle shows that you can develop well-performing models, which is what you usually hire AI engineers for. You don't hire an AI engineer and let him deploy open-weight models from Google, Meta, etc., do you?\n\n\n&gt; When did we all agree that you need a PhD to do ML?\n\n\nWith a Bachelor's degree, you have fundamental knowledge of AI at best, and probably only one or two AI related courses. Developing good AI models isn't as easy as simply spinning up a web service or database.\n\n\n&gt; Proof you've debugged real ML issues in production \n\n\nHow would you prove that?\n\n\n&gt;  I genuinely want to know if I'm the crazy one here or if ML education is fundamentally broken.\n\n\nI guess your expectations on the education system are just skewed. The education system isn't for teaching you everything you need to know to do your job, they are no free training camps for companies, but teach students the fundamentals and how to learn.",
+          "2025-11-18T14:22:35.976997"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:22:35.976997"
+        ],
+        [
+          1,
+          "2025-11-18T14:33:04.361449"
+        ],
+        [
+          1,
+          "2025-11-18T14:42:18.542271"
+        ],
+        [
+          1,
+          "2025-11-18T14:43:31.445645"
+        ],
+        [
+          1,
+          "2025-11-18T14:45:21.335462"
+        ]
+      ],
+      "created_utc": 1763466011.0,
+      "depth": 0,
+      "permalink": "/r/MLQuestions/comments/1p00x30/most_of_you_are_learning_the_wrong_things/nph61s0/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nphtwz0",
+      "parent_id": "t3_1p00x30",
+      "author": "Jaamun100",
+      "text_history": [
+        [
+          "I agree with you, but in my experience, interviewers care about none of what you’re saying. Just that you can answer ML trivia, implement ML from scratch (k-means, transformers, etc), implement SQL, and sometimes also implement DSA tricks.",
+          "2025-11-18T14:22:35.976997"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:22:35.976997"
+        ],
+        [
+          1,
+          "2025-11-18T14:33:04.361449"
+        ],
+        [
+          1,
+          "2025-11-18T14:42:18.542271"
+        ],
+        [
+          1,
+          "2025-11-18T14:43:31.445645"
+        ],
+        [
+          1,
+          "2025-11-18T14:45:21.335462"
+        ]
+      ],
+      "created_utc": 1763475035.0,
+      "depth": 0,
+      "permalink": "/r/MLQuestions/comments/1p00x30/most_of_you_are_learning_the_wrong_things/nphtwz0/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npi095b",
+      "parent_id": "t3_1p00x30",
+      "author": "ohmomdieu",
+      "text_history": [
+        [
+          "Could be because people need/want to learn the fundamentals first? And finishing with this may never happen. Also it may be hard to get hands on experience that has a actual impact on real people/businesses.\n\nWhat you seem to ask for (reasonably) is for people that know how to work in a more dynamic, changing context that is product/customer oriented.\n\nI personally would start with the basics and then maybe try to build a thing. But I wouldn’t know how things are built at a real company unless I worked at one that works with ML projects in the first place.",
+          "2025-11-18T14:22:35.976997"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:22:35.976997"
+        ],
+        [
+          1,
+          "2025-11-18T14:33:04.361449"
+        ],
+        [
+          1,
+          "2025-11-18T14:42:18.542271"
+        ],
+        [
+          1,
+          "2025-11-18T14:43:31.445645"
+        ],
+        [
+          1,
+          "2025-11-18T14:45:21.335462"
+        ]
+      ],
+      "created_utc": 1763477044.0,
+      "depth": 0,
+      "permalink": "/r/MLQuestions/comments/1p00x30/most_of_you_are_learning_the_wrong_things/npi095b/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npinz09",
+      "parent_id": "t3_1p00x30",
+      "author": "attilah",
+      "text_history": [
+        [
+          "I think OP is describing MLOps, which is important. However, what he is decrying is important as well: MLE.",
+          "2025-11-18T14:22:35.976997"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:22:35.976997"
+        ],
+        [
+          1,
+          "2025-11-18T14:33:04.361449"
+        ],
+        [
+          1,
+          "2025-11-18T14:42:18.542271"
+        ],
+        [
+          1,
+          "2025-11-18T14:43:31.445645"
+        ],
+        [
+          1,
+          "2025-11-18T14:45:21.335462"
+        ]
+      ],
+      "created_utc": 1763484161.0,
+      "depth": 0,
+      "permalink": "/r/MLQuestions/comments/1p00x30/most_of_you_are_learning_the_wrong_things/npinz09/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npj54ji",
+      "parent_id": "t3_1p00x30",
+      "author": "Adventurous-Cycle363",
+      "text_history": [
+        [
+          "Part of it is misrepresenting the Job descriptions. Just like most candidates are bad at writing resuem, most recruiters are bad at writing JD. \n\nML and AI are fields that have evolved into independent subjects. You now have a lot of software engineers using some of these tools and claiming themselves as AI or ML engineers. That is just for hype and easy way for companies to reduce cost. It seems that you need a data engineer more than an ML Engineer.\n\nTrue work of MLE or AI professional starts at converting the problem to data based solution, data cleaning, feature generation, architecture, loss function, validation, and testing. This is the major work. And hence you need to test the maths. \n\nIf at all the AI becomes adept then the things ypu said are the main ones to get replaced. Consider what you need and clearly advertise them. Don't call someone an MLE if they just use models as APIs.",
+          "2025-11-18T14:22:35.976997"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:22:35.976997"
+        ],
+        [
+          1,
+          "2025-11-18T14:33:04.361449"
+        ],
+        [
+          1,
+          "2025-11-18T14:42:18.542271"
+        ],
+        [
+          1,
+          "2025-11-18T14:43:31.445645"
+        ],
+        [
+          1,
+          "2025-11-18T14:45:21.335462"
+        ]
+      ],
+      "created_utc": 1763489192.0,
+      "depth": 0,
+      "permalink": "/r/MLQuestions/comments/1p00x30/most_of_you_are_learning_the_wrong_things/npj54ji/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npjjg0j",
+      "parent_id": "t3_1p00x30",
+      "author": "Heavy-Horse3559",
+      "text_history": [
+        [
+          "Very insightful post....✨✨",
+          "2025-11-18T14:22:35.976997"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:22:35.976997"
+        ],
+        [
+          1,
+          "2025-11-18T14:33:04.361449"
+        ],
+        [
+          1,
+          "2025-11-18T14:42:18.542271"
+        ],
+        [
+          1,
+          "2025-11-18T14:43:31.445645"
+        ],
+        [
+          1,
+          "2025-11-18T14:45:21.335462"
+        ]
+      ],
+      "created_utc": 1763493332.0,
+      "depth": 0,
+      "permalink": "/r/MLQuestions/comments/1p00x30/most_of_you_are_learning_the_wrong_things/npjjg0j/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npjkev5",
+      "parent_id": "t3_1p00x30",
+      "author": "BigCommunication5136",
+      "text_history": [
+        [
+          "so instead of ML we should learn MLOps???",
+          "2025-11-18T14:22:35.976997"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:22:35.976997"
+        ],
+        [
+          1,
+          "2025-11-18T14:33:04.361449"
+        ],
+        [
+          1,
+          "2025-11-18T14:42:18.542271"
+        ],
+        [
+          1,
+          "2025-11-18T14:43:31.445645"
+        ],
+        [
+          1,
+          "2025-11-18T14:45:21.335462"
+        ]
+      ],
+      "created_utc": 1763493622.0,
+      "depth": 0,
+      "permalink": "/r/MLQuestions/comments/1p00x30/most_of_you_are_learning_the_wrong_things/npjkev5/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npk8ubd",
+      "parent_id": "t3_1p00x30",
+      "author": "ganked_it",
+      "text_history": [
+        [
+          "Op is a bot, and is talking about a different job. Also, someone who can win kaggle competitions could easily set up an api with docker…",
+          "2025-11-18T14:22:35.976997"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:22:35.976997"
+        ],
+        [
+          1,
+          "2025-11-18T14:33:04.361449"
+        ],
+        [
+          1,
+          "2025-11-18T14:42:18.542271"
+        ],
+        [
+          1,
+          "2025-11-18T14:43:31.445645"
+        ],
+        [
+          1,
+          "2025-11-18T14:45:21.335462"
+        ]
+      ],
+      "created_utc": 1763500961.0,
+      "depth": 0,
+      "permalink": "/r/MLQuestions/comments/1p00x30/most_of_you_are_learning_the_wrong_things/npk8ubd/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npkjhjm",
+          "parent_id": "t1_npk8ubd",
+          "author": "YangBuildsAI",
+          "text_history": [
+            [
+              "I'm not a bot :)",
+              "2025-11-18T14:22:35.976997"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T14:22:35.976997"
+            ],
+            [
+              1,
+              "2025-11-18T14:33:04.361449"
+            ],
+            [
+              1,
+              "2025-11-18T14:42:18.542271"
+            ],
+            [
+              1,
+              "2025-11-18T14:43:31.445645"
+            ],
+            [
+              1,
+              "2025-11-18T14:45:21.335462"
+            ]
+          ],
+          "created_utc": 1763504200.0,
+          "depth": 1,
+          "permalink": "/r/MLQuestions/comments/1p00x30/most_of_you_are_learning_the_wrong_things/npkjhjm/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npfozr9",
+      "parent_id": "t3_1p00x30",
+      "author": "LastTopQuark",
+      "text_history": [
+        [
+          "this is great.",
+          "2025-11-18T14:22:35.976997"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:22:35.976997"
+        ],
+        [
+          1,
+          "2025-11-18T14:33:04.361449"
+        ],
+        [
+          1,
+          "2025-11-18T14:42:18.542271"
+        ],
+        [
+          1,
+          "2025-11-18T14:43:31.445645"
+        ],
+        [
+          1,
+          "2025-11-18T14:45:21.335462"
+        ]
+      ],
+      "created_utc": 1763437231.0,
+      "depth": 0,
+      "permalink": "/r/MLQuestions/comments/1p00x30/most_of_you_are_learning_the_wrong_things/npfozr9/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npgi88h",
+      "parent_id": "t3_1p00x30",
+      "author": "Immudzen",
+      "text_history": [
+        [
+          "I don't agree with this. When I have hired ML engineers it is because we need custom ML models written. We have devops that can deploy it and others that can make pipelines. \n\nHonestly the issue I ran into is most didn't know what a multilayer perceptron was. Different activation functions, optimisers, learning rate schedulers, data transformation, etc. They didn't know when to use choices other than the default.",
+          "2025-11-18T14:22:35.976997"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:22:35.976997"
+        ],
+        [
+          1,
+          "2025-11-18T14:33:04.361449"
+        ],
+        [
+          1,
+          "2025-11-18T14:42:18.542271"
+        ],
+        [
+          1,
+          "2025-11-18T14:43:31.445645"
+        ],
+        [
+          1,
+          "2025-11-18T14:45:21.335462"
+        ]
+      ],
+      "created_utc": 1763451627.0,
+      "depth": 0,
+      "permalink": "/r/MLQuestions/comments/1p00x30/most_of_you_are_learning_the_wrong_things/npgi88h/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npg1zq2",
+      "parent_id": "t3_1p00x30",
+      "author": "brucebay",
+      "text_history": [
+        [
+          "hey I just deployed a production model from data clean up to the API with error and performance logs. as a bonus I wrote a tool to explain which words are influencing the classification.   where do I apply?\n\n  \nfull disclosure I'm GitHub copilot.",
+          "2025-11-18T14:22:35.976997"
+        ]
+      ],
+      "score_history": [
+        [
+          0,
+          "2025-11-18T14:22:35.976997"
+        ],
+        [
+          0,
+          "2025-11-18T14:33:04.361449"
+        ],
+        [
+          0,
+          "2025-11-18T14:42:18.542271"
+        ],
+        [
+          0,
+          "2025-11-18T14:43:31.445645"
+        ],
+        [
+          0,
+          "2025-11-18T14:45:21.335462"
+        ]
+      ],
+      "created_utc": 1763442835.0,
+      "depth": 0,
+      "permalink": "/r/MLQuestions/comments/1p00x30/most_of_you_are_learning_the_wrong_things/npg1zq2/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npgqqen",
+      "parent_id": "t3_1p00x30",
+      "author": "Anti-Entropy-Life",
+      "text_history": [
+        [
+          "Indeed, you don't need anything! Did you guys know you can write kernels in CUDA, dump this SASS stuff, and just read the shape of the data and translate them into new kernel designs. So all you need is a GPU, CUDA, and an LLM to form a learning feedback loop. The CUDA kernel-&gt;SASS of kernel dumped and looked at-&gt;rewrite CUDA kernel based on observations and goal.\n\nThis is the most powerful baseline workflow! It's not easy to do, but you are right, this is the superpowered loop everyone SHOULD be learning, but it seems few ever do :(",
+          "2025-11-18T14:22:35.976997"
+        ]
+      ],
+      "score_history": [
+        [
+          0,
+          "2025-11-18T14:22:35.976997"
+        ],
+        [
+          0,
+          "2025-11-18T14:33:04.361449"
+        ],
+        [
+          0,
+          "2025-11-18T14:42:18.542271"
+        ],
+        [
+          0,
+          "2025-11-18T14:43:31.445645"
+        ],
+        [
+          0,
+          "2025-11-18T14:45:21.335462"
+        ]
+      ],
+      "created_utc": 1763456923.0,
+      "depth": 0,
+      "permalink": "/r/MLQuestions/comments/1p00x30/most_of_you_are_learning_the_wrong_things/npgqqen/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-18T14:45:21.335462",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/MLQuestions/comments/1p00x30/most_of_you_are_learning_the_wrong_things/",
+    "total_comments": 60,
+    "top_level_comments": 38,
+    "api_requests": 2,
+    "expected_comments": 62,
+    "coverage_percent": 96.77,
+    "merged_snapshot_count": 5,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_142233.json",
+      "scrape_002_20251118_143301.json",
+      "scrape_003_20251118_144215.json",
+      "scrape_004_20251118_144328.json",
+      "scrape_005_20251118_144518.json"
+    ]
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "post": {
+    "id": "1bdkkod",
+    "title": "The differences between MSc Speech and Language Processing (Edinburgh) or MSc Computational and Corpus Linguistics (Manchester)",
+    "author": "No-Arm88",
+    "score_history": [
+      [
+        8,
+        "2025-11-18T15:07:45.271773"
+      ],
+      [
+        8,
+        "2025-11-18T15:14:31.768635"
+      ],
+      [
+        8,
+        "2025-11-18T15:16:19.356504"
+      ],
+      [
+        8,
+        "2025-11-18T23:12:37.305282"
+      ],
+      [
+        7,
+        "2025-11-19T00:57:56.362927"
+      ],
+      [
+        7,
+        "2025-11-19T02:22:51.416480"
+      ]
+    ],
+    "created_utc": 1710310981.0,
+    "num_comments": 4,
+    "subreddit": "compling",
+    "url": "https://www.reddit.com/r/compling/comments/1bdkkod/the_differences_between_msc_speech_and_language/",
+    "selftext": "Hi all. The aims of this post are:\n\n(1) For me to find out if these two programmes are comparable and would produce the similar outcome. If not, how do they differ?\n\n(2) For me to connect with past/current students in either of these programmes to gain more insights about it.\n\n(3) What would I be able to do after graduating from either of these universities in the above programmes?\n\n(4) How do I know what I need to know? Because upon reading course descriptions, I couldn’t tell which is which. Where do I find what a certain topic constitutes, for example? E.g.: If a module is named “Speech Processing”, what does it cover and not cover?\n\nBACKGROUND \n\n1. I hold a Bachelor of Arts degree in Linguistics (graduation: 2017).\n\n2. I have no formal computational experience. I self studied Python on Coursera and acquired two certificates in the PY4E specialisation (2022).\n\n3. I used to work to develop a virtual assistant but not as a computational linguist. I did localisation but also still had to work around the Terminal, run some provided scripts, amend the codes minimally (following the guidelines only) (2019). So I studied Python only after leaving the job above.\n\n4. Now I wanted to become someone who specialises in developing things like virtual assistants, language model, etc. but I’m not sure what modules to look for to gain the necessary skills.\n\n5. I often see job listings which look for computer scientists/computer engineers/AI specialists for things I want to do. So will I actually learn how to do language modelling, building the algorithm, develop language learning models?\n\n6. I am planning to pursue an MSc, and have secured offers for both Manchester (unconditional) and Edinburgh (conditional: IELTS) but wonder which one is better for me.\n\nADDITIONAL INFO:\nModules offered by\n\n-- the University of Edinburgh—\n\nCORE:  Computer Programming for Speech and Language Processing | Accelerated Natural Language Processing | Speech Processing | Statistics and Quantitative Methods | Research Ethics Training in Linguistics and English Language\n\nOPTION: NLU, Generation, MT | ASR | Speech Synthesis | ML in Signal Processing | Simulating Language | Phonetics and Laboratory Phonology | Speech Production &amp; Perception | Working with Users\n\n— University of Manchester —\n\nCORE: Computational Linguistics 1 | Computational Linguistics 2 | Foundational Statistics | Corpus Linguistics | Research Methods in CCL 1 | Research Methods in CCL 2\n\nI’m not sure what their option modules are (unavailable).",
+    "permalink": "/r/compling/comments/1bdkkod/the_differences_between_msc_speech_and_language/"
+  },
+  "comments": [
+    {
+      "id": "kw13gf9",
+      "parent_id": "t3_1bdkkod",
+      "author": "oksanaissometa",
+      "text_history": [
+        [
+          "Your background is common for NLP, but you'll need to get more technical skills and really study machine learning.\n\nIn my opinion, the two programs are not comparable. It looks like the Corpus Linguistics program is about the classical computational linguistics methods, which are used but it's just not cutting edge. You won't have as many work opportunities in the industry.\n\nThe Edinburgh program is much harder and has a bigger workload, but if you want to work with transformers / language models it should be your first choice, and you should opt for the elective applied machine learning course. It's also a great program if you are interested in speech processing.",
+          "2025-11-18T15:07:45.271773"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-18T15:07:45.271773"
+        ],
+        [
+          2,
+          "2025-11-18T15:14:31.768635"
+        ],
+        [
+          2,
+          "2025-11-18T15:16:19.356504"
+        ],
+        [
+          2,
+          "2025-11-18T23:12:37.305282"
+        ],
+        [
+          2,
+          "2025-11-19T00:57:56.362927"
+        ],
+        [
+          2,
+          "2025-11-19T02:22:51.416480"
+        ]
+      ],
+      "created_utc": 1711106911.0,
+      "depth": 0,
+      "permalink": "/r/compling/comments/1bdkkod/the_differences_between_msc_speech_and_language/kw13gf9/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "kuta2yk",
+      "parent_id": "t3_1bdkkod",
+      "author": "Business_Society_333",
+      "text_history": [
+        [
+          "Hey, could I please message you regarding a few things?",
+          "2025-11-18T15:07:45.271773"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T15:07:45.271773"
+        ],
+        [
+          1,
+          "2025-11-18T15:14:31.768635"
+        ],
+        [
+          1,
+          "2025-11-18T15:16:19.356504"
+        ],
+        [
+          1,
+          "2025-11-18T23:12:37.305282"
+        ],
+        [
+          1,
+          "2025-11-19T00:57:56.362927"
+        ],
+        [
+          1,
+          "2025-11-19T02:22:51.416480"
+        ]
+      ],
+      "created_utc": 1710410181.0,
+      "depth": 0,
+      "permalink": "/r/compling/comments/1bdkkod/the_differences_between_msc_speech_and_language/kuta2yk/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "kuug8y6",
+          "parent_id": "t1_kuta2yk",
+          "author": "No-Arm88",
+          "text_history": [
+            [
+              "Hey, sure thing. I’ve replied to your message.",
+              "2025-11-18T15:07:45.271773"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T15:07:45.271773"
+            ],
+            [
+              1,
+              "2025-11-18T15:14:31.768635"
+            ],
+            [
+              1,
+              "2025-11-18T15:16:19.356504"
+            ],
+            [
+              1,
+              "2025-11-18T23:12:37.305282"
+            ],
+            [
+              1,
+              "2025-11-19T00:57:56.362927"
+            ],
+            [
+              1,
+              "2025-11-19T02:22:51.416480"
+            ]
+          ],
+          "created_utc": 1710429387.0,
+          "depth": 1,
+          "permalink": "/r/compling/comments/1bdkkod/the_differences_between_msc_speech_and_language/kuug8y6/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "m3no8jc",
+      "parent_id": "t3_1bdkkod",
+      "author": "Outside_Travel_2528",
+      "text_history": [
+        [
+          "Can u see ur messages, I sent u an inquiry. Thank u",
+          "2025-11-18T15:07:45.271773"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T15:07:45.271773"
+        ],
+        [
+          1,
+          "2025-11-18T15:14:31.768635"
+        ],
+        [
+          1,
+          "2025-11-18T15:16:19.356504"
+        ],
+        [
+          1,
+          "2025-11-18T23:12:37.305282"
+        ],
+        [
+          1,
+          "2025-11-19T00:57:56.362927"
+        ],
+        [
+          1,
+          "2025-11-19T02:22:51.416480"
+        ]
+      ],
+      "created_utc": 1735078642.0,
+      "depth": 0,
+      "permalink": "/r/compling/comments/1bdkkod/the_differences_between_msc_speech_and_language/m3no8jc/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T02:22:51.416480",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/compling/comments/1bdkkod/the_differences_between_msc_speech_and_language/",
+    "total_comments": 4,
+    "top_level_comments": 3,
+    "api_requests": 1,
+    "expected_comments": 4,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 6,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_150745.json",
+      "scrape_002_20251118_151431.json",
+      "scrape_003_20251118_151619.json",
+      "scrape_004_20251118_231237.json",
+      "scrape_005_20251119_005756.json",
+      "scrape_006_20251119_022251.json"
+    ]
+  }
+}

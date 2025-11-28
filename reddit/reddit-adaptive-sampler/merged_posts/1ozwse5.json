@@ -1,0 +1,80 @@
+{
+  "post": {
+    "id": "1ozwse5",
+    "title": "[11/18] How might the integration of AI systems in human behavioral management alter our understanding of human agency and decision-making?",
+    "author": "RealJoshUniverse",
+    "score_history": [
+      [
+        3,
+        "2025-11-18T14:23:37.185521"
+      ],
+      [
+        3,
+        "2025-11-18T14:33:18.557774"
+      ],
+      [
+        3,
+        "2025-11-18T14:42:52.386404"
+      ]
+    ],
+    "created_utc": 1763424072.0,
+    "num_comments": 1,
+    "subreddit": "Transhuman",
+    "url": "https://discord.gg/jrpH2qyjJk",
+    "selftext": "",
+    "permalink": "/r/Transhuman/comments/1ozwse5/1118_how_might_the_integration_of_ai_systems_in/"
+  },
+  "comments": [
+    {
+      "id": "npeo5vl",
+      "parent_id": "t3_1ozwse5",
+      "author": "AutoModerator",
+      "text_history": [
+        [
+          "Thanks for posting in /r/Transhuman! This post is automatically generated for all posts. Remember to upvote this post if you think it is relevant and suitable content for this sub and to downvote if it is not. Only report posts if they violate community guidelines - Let's democratize our moderation.\nIf you would like to get involved in project groups and upcoming opportunities, fill out our onboarding form here: https://uo5nnx2m4l0.typeform.com/to/cA1KinKJ Let's democratize our moderation. You can join our forums here: https://biohacking.forum/invites/1wQPgxwHkw, our Mastodon server here: https://science.social/ and our Discord server here: https://discord.gg/jrpH2qyjJk\n~ Josh Universe\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Transhuman) if you have any questions or concerns.*",
+          "2025-11-18T14:23:37.185521"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:23:37.185521"
+        ],
+        [
+          1,
+          "2025-11-18T14:33:18.557774"
+        ],
+        [
+          1,
+          "2025-11-18T14:42:52.386404"
+        ]
+      ],
+      "created_utc": 1763424073.0,
+      "depth": 0,
+      "permalink": "/r/Transhuman/comments/1ozwse5/1118_how_might_the_integration_of_ai_systems_in/npeo5vl/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-18T14:42:52.386404",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/Transhuman/comments/1ozwse5/1118_how_might_the_integration_of_ai_systems_in/",
+    "total_comments": 1,
+    "top_level_comments": 1,
+    "api_requests": 1,
+    "expected_comments": 1,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_142335.json",
+      "scrape_002_20251118_143315.json",
+      "scrape_003_20251118_144249.json"
+    ]
+  }
+}

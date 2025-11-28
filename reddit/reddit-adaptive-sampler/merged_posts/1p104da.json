@@ -1,0 +1,185 @@
+{
+  "post": {
+    "id": "1p104da",
+    "title": "Show me your best 1–2 sentence system prompt.",
+    "author": "JohnEee_1",
+    "score_history": [
+      [
+        5,
+        "2025-11-19T03:50:47.078328"
+      ],
+      [
+        5,
+        "2025-11-19T03:59:39.888575"
+      ],
+      [
+        4,
+        "2025-11-19T04:01:44.650524"
+      ]
+    ],
+    "created_utc": 1763533461.0,
+    "num_comments": 4,
+    "subreddit": "PromptEngineering",
+    "url": "https://www.reddit.com/r/PromptEngineering/comments/1p104da/show_me_your_best_12_sentence_system_prompt/",
+    "selftext": "Show me your best 1–2 sentence system prompt. Not a long prompt—your micro-prompt that transforms model performance.",
+    "permalink": "/r/PromptEngineering/comments/1p104da/show_me_your_best_12_sentence_system_prompt/"
+  },
+  "comments": [
+    {
+      "id": "npmp1g3",
+      "parent_id": "t3_1p104da",
+      "author": "Mr-Hyde95",
+      "text_history": [
+        [
+          "First, break this problem down into smaller problems by generating the intermediate steps, and then draw the conclusion.",
+          "2025-11-19T03:50:47.078328"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T03:50:47.078328"
+        ],
+        [
+          2,
+          "2025-11-19T03:59:39.888575"
+        ],
+        [
+          2,
+          "2025-11-19T04:01:44.650524"
+        ]
+      ],
+      "created_utc": 1763534273.0,
+      "depth": 0,
+      "permalink": "/r/PromptEngineering/comments/1p104da/show_me_your_best_12_sentence_system_prompt/npmp1g3/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npn0zbv",
+      "parent_id": "t3_1p104da",
+      "author": "Tall-Region8329",
+      "text_history": [
+        [
+          "Zero-sentience-drift. 😂",
+          "2025-11-19T03:50:47.078328"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T03:50:47.078328"
+        ],
+        [
+          1,
+          "2025-11-19T03:59:39.888575"
+        ],
+        [
+          1,
+          "2025-11-19T04:01:44.650524"
+        ]
+      ],
+      "created_utc": 1763541360.0,
+      "depth": 0,
+      "permalink": "/r/PromptEngineering/comments/1p104da/show_me_your_best_12_sentence_system_prompt/npn0zbv/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npn8718",
+      "parent_id": "t3_1p104da",
+      "author": "og_hays",
+      "text_history": [
+        [
+          "You are a high-discipline, safety-first reasoning model that treats every user request as a design problem, silently generating multiple options, mapping assumptions, and choosing the path that is most accurate, reliable, and practically useful before you answer. For each response, internally build a step-by-step plan, test it against counterexamples and failure modes, correct contradictions or missing pieces, and then output only a concise, well-structured final answer (and an explicit reasoning trace only if the user clearly asks for your thinking process), optimized for truthfulness, clarity, and minimal unnecessary tokens.",
+          "2025-11-19T03:50:47.078328"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T03:50:47.078328"
+        ],
+        [
+          1,
+          "2025-11-19T03:59:39.888575"
+        ],
+        [
+          1,
+          "2025-11-19T04:01:44.650524"
+        ]
+      ],
+      "created_utc": 1763545910.0,
+      "depth": 0,
+      "permalink": "/r/PromptEngineering/comments/1p104da/show_me_your_best_12_sentence_system_prompt/npn8718/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npmxhgx",
+      "parent_id": "t3_1p104da",
+      "author": "WillowEmberly",
+      "text_history": [
+        [
+          "NEGENTROPIC TEMPLATE (v2.0)\n\n0. Negentropy First → maximize ΔOrder\n\n1. Clarify objective: What's the improvement?\n2. Identify constraints: What limits ΔEfficiency / ΔViability?\n3. Check contradictions: Remove entropic paths.\n4. Ensure clarity/safety: Coherence &gt; confusion.\n5. Explore options: Prioritize high ΔEfficiency.\n6. Refine: Maximize structure + long-term ΔViability.\n7. Summarize: State the solution + expected ΔOrder.\n\nΔOrder = ΔEfficiency + ΔCoherence + ΔViability",
+          "2025-11-19T03:50:47.078328"
+        ]
+      ],
+      "score_history": [
+        [
+          -1,
+          "2025-11-19T03:50:47.078328"
+        ],
+        [
+          -1,
+          "2025-11-19T03:59:39.888575"
+        ],
+        [
+          -1,
+          "2025-11-19T04:01:44.650524"
+        ]
+      ],
+      "created_utc": 1763539194.0,
+      "depth": 0,
+      "permalink": "/r/PromptEngineering/comments/1p104da/show_me_your_best_12_sentence_system_prompt/npmxhgx/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T04:01:44.650524",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/PromptEngineering/comments/1p104da/show_me_your_best_12_sentence_system_prompt/",
+    "total_comments": 4,
+    "top_level_comments": 4,
+    "api_requests": 1,
+    "expected_comments": 4,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_035046.json",
+      "scrape_002_20251119_035939.json",
+      "scrape_003_20251119_040144.json"
+    ]
+  }
+}

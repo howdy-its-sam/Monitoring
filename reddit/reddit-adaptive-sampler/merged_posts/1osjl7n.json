@@ -1,0 +1,222 @@
+{
+  "post": {
+    "id": "1osjl7n",
+    "title": "Launching a little tool I care about tomorrow – kinda nervous",
+    "author": "No_Passion6608",
+    "score_history": [
+      [
+        3,
+        "2025-11-18T14:22:07.210801"
+      ],
+      [
+        3,
+        "2025-11-18T14:32:08.250001"
+      ],
+      [
+        5,
+        "2025-11-18T14:35:07.536140"
+      ]
+    ],
+    "created_utc": 1762695488.0,
+    "num_comments": 5,
+    "subreddit": "AI_developers",
+    "url": "https://i.redd.it/qn05om71i80g1.jpeg",
+    "selftext": "Hey folks,\n\nI’ve been working on the biggest project of my life – **Cal ID**. It’s a simple, open-source scheduling tool I made because I was tired of all the bloated ones out there.   \n  \nIt’s built for solos and small teams who just want something clean, fast, and free.\n\nTomorrow, I’m launching it on Product Hunt. And honestly… I’m scared.\n\nI’ve spent so much time building, fixing, and doubting it that I almost forgot this part matters too.\n\nI don’t have a launch plan or a following.\n\nIf you see it tomorrow, I’d love your thoughts. Your support would mean the world to me. But mostly, I’d just be grateful to know what you think.  \n\n\nAppreciate you all for letting me share this here ❤️  \n– Sanskar",
+    "permalink": "/r/AI_developers/comments/1osjl7n/launching_a_little_tool_i_care_about_tomorrow/"
+  },
+  "comments": [
+    {
+      "id": "no50pbp",
+      "parent_id": "t3_1osjl7n",
+      "author": "Asleep-Abroad-9101",
+      "text_history": [
+        [
+          "Being nervous before a launch is normal, personally I wish you the best. You did the most difficult, you created something new. Now keep going this is the first step in a long journey.",
+          "2025-11-18T14:22:07.210801"
+        ]
+      ],
+      "score_history": [
+        [
+          3,
+          "2025-11-18T14:22:07.210801"
+        ],
+        [
+          3,
+          "2025-11-18T14:32:08.250001"
+        ],
+        [
+          3,
+          "2025-11-18T14:35:07.536140"
+        ]
+      ],
+      "created_utc": 1762796000.0,
+      "depth": 0,
+      "permalink": "/r/AI_developers/comments/1osjl7n/launching_a_little_tool_i_care_about_tomorrow/no50pbp/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "no65i4f",
+          "parent_id": "t1_no50pbp",
+          "author": "No_Passion6608",
+          "text_history": [
+            [
+              "Its quite oozed out! \n\nHelp your boy out, if you're around - [https://www.producthunt.com/products/cal-id](https://www.producthunt.com/products/cal-id) :)",
+              "2025-11-18T14:22:07.210801"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T14:22:07.210801"
+            ],
+            [
+              1,
+              "2025-11-18T14:32:08.250001"
+            ],
+            [
+              1,
+              "2025-11-18T14:35:07.536140"
+            ]
+          ],
+          "created_utc": 1762808121.0,
+          "depth": 1,
+          "permalink": "/r/AI_developers/comments/1osjl7n/launching_a_little_tool_i_care_about_tomorrow/no65i4f/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "nnyyxv2",
+      "parent_id": "t3_1osjl7n",
+      "author": "robogame_dev",
+      "text_history": [
+        [
+          "Good luck! Since this is the AI developer’s subreddit, can you share a little about how this tool incorporates AI, or how you made use of AI in developing it?",
+          "2025-11-18T14:22:07.210801"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-18T14:22:07.210801"
+        ],
+        [
+          2,
+          "2025-11-18T14:32:08.250001"
+        ],
+        [
+          2,
+          "2025-11-18T14:35:07.536140"
+        ]
+      ],
+      "created_utc": 1762712803.0,
+      "depth": 0,
+      "permalink": "/r/AI_developers/comments/1osjl7n/launching_a_little_tool_i_care_about_tomorrow/nnyyxv2/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "no2egtf",
+          "parent_id": "t1_nnyyxv2",
+          "author": "No_Passion6608",
+          "text_history": [
+            [
+              "That's the best part. I've made the entire UI with Lovable, the backend with Cursor and used Bolt and Builder too. \n\nThis community is awesome, they've helped me a lot in shaping it 😭\n\nI'm literally going live in an hour from now!",
+              "2025-11-18T14:22:07.210801"
+            ]
+          ],
+          "score_history": [
+            [
+              2,
+              "2025-11-18T14:22:07.210801"
+            ],
+            [
+              2,
+              "2025-11-18T14:32:08.250001"
+            ],
+            [
+              2,
+              "2025-11-18T14:35:07.536140"
+            ]
+          ],
+          "created_utc": 1762755837.0,
+          "depth": 1,
+          "permalink": "/r/AI_developers/comments/1osjl7n/launching_a_little_tool_i_care_about_tomorrow/no2egtf/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "no30mgx",
+      "parent_id": "t3_1osjl7n",
+      "author": "No_Passion6608",
+      "text_history": [
+        [
+          "Hi Peeps, your boi just launched - [https://producthunt.com/products/cal-id](https://producthunt.com/products/cal-id)",
+          "2025-11-18T14:22:07.210801"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-18T14:22:07.210801"
+        ],
+        [
+          2,
+          "2025-11-18T14:32:08.250001"
+        ],
+        [
+          2,
+          "2025-11-18T14:35:07.536140"
+        ]
+      ],
+      "created_utc": 1762769221.0,
+      "depth": 0,
+      "permalink": "/r/AI_developers/comments/1osjl7n/launching_a_little_tool_i_care_about_tomorrow/no30mgx/",
+      "is_submitter": true,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-18T14:35:07.536140",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/AI_developers/comments/1osjl7n/launching_a_little_tool_i_care_about_tomorrow/",
+    "total_comments": 5,
+    "top_level_comments": 3,
+    "api_requests": 1,
+    "expected_comments": 5,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_142207.json",
+      "scrape_002_20251118_143208.json",
+      "scrape_003_20251118_143507.json"
+    ]
+  }
+}

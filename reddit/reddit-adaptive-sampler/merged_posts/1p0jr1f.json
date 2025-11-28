@@ -1,0 +1,1267 @@
+{
+  "post": {
+    "id": "1p0jr1f",
+    "title": "Mistral removing ton of old models from API (preparing for a new launch?)",
+    "author": "mpasila",
+    "score_history": [
+      [
+        36,
+        "2025-11-18T13:49:03.471096"
+      ],
+      [
+        35,
+        "2025-11-18T13:59:57.370788"
+      ],
+      [
+        37,
+        "2025-11-18T14:11:11.124937"
+      ],
+      [
+        89,
+        "2025-11-18T21:39:15.203985"
+      ],
+      [
+        98,
+        "2025-11-18T23:22:54.793594"
+      ],
+      [
+        106,
+        "2025-11-19T00:58:05.278807"
+      ],
+      [
+        109,
+        "2025-11-19T02:22:49.295875"
+      ],
+      [
+        109,
+        "2025-11-19T02:34:31.383794"
+      ],
+      [
+        109,
+        "2025-11-19T02:44:05.931292"
+      ],
+      [
+        109,
+        "2025-11-19T02:45:27.448802"
+      ],
+      [
+        111,
+        "2025-11-19T02:48:09.708121"
+      ]
+    ],
+    "created_utc": 1763490530.0,
+    "num_comments": 20,
+    "subreddit": "LocalLLaMA",
+    "url": "https://i.redd.it/tg4zaa7b622g1.png",
+    "selftext": "They are going to be removing 9 (screenshot is missing one) models from their API at the end of this month. So I wonder if that means they are preparing to release something early December? I sure hope I finally get Nemo 2.0 or something... (it's been over a year since that released).  \nSource: [https://docs.mistral.ai/getting-started/models#legacy-models](https://docs.mistral.ai/getting-started/models#legacy-models)",
+    "permalink": "/r/LocalLLaMA/comments/1p0jr1f/mistral_removing_ton_of_old_models_from_api/"
+  },
+  "comments": [
+    {
+      "id": "npjd5rq",
+      "parent_id": "t3_1p0jr1f",
+      "author": "Few_Painter_5588",
+      "text_history": [
+        [
+          "Possibly, they've been working on a new Mistral large for quite some time. It'd be cool to see a new Mixtral 8x22B",
+          "2025-11-18T13:49:03.471096"
+        ]
+      ],
+      "score_history": [
+        [
+          12,
+          "2025-11-18T13:49:03.471096"
+        ],
+        [
+          13,
+          "2025-11-18T13:59:57.370788"
+        ],
+        [
+          13,
+          "2025-11-18T14:11:11.124937"
+        ],
+        [
+          35,
+          "2025-11-18T21:39:15.203985"
+        ],
+        [
+          39,
+          "2025-11-18T23:22:54.793594"
+        ],
+        [
+          38,
+          "2025-11-19T00:58:05.278807"
+        ],
+        [
+          43,
+          "2025-11-19T02:22:49.295875"
+        ],
+        [
+          47,
+          "2025-11-19T02:34:31.383794"
+        ],
+        [
+          45,
+          "2025-11-19T02:44:05.931292"
+        ],
+        [
+          47,
+          "2025-11-19T02:45:27.448802"
+        ],
+        [
+          45,
+          "2025-11-19T02:48:09.708121"
+        ]
+      ],
+      "created_utc": 1763491490.0,
+      "depth": 0,
+      "permalink": "/r/LocalLLaMA/comments/1p0jr1f/mistral_removing_ton_of_old_models_from_api/npjd5rq/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npnbclf",
+          "parent_id": "t1_npjd5rq",
+          "author": "stoppableDissolution",
+          "text_history": [
+            [
+              "I really, _really_ hope new mistral large is still 120b dense and not huge ass moe that cant be run on a consumer hardware while being worse. I'm also, unfortunately, quite certain that it will in fact be a huge moe :c",
+              "2025-11-19T02:34:31.383794"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-19T02:34:31.383794"
+            ],
+            [
+              1,
+              "2025-11-19T02:44:05.931292"
+            ],
+            [
+              1,
+              "2025-11-19T02:45:27.448802"
+            ],
+            [
+              1,
+              "2025-11-19T02:48:09.708121"
+            ]
+          ],
+          "created_utc": 1763547831.0,
+          "depth": 1,
+          "permalink": "/r/LocalLLaMA/comments/1p0jr1f/mistral_removing_ton_of_old_models_from_api/npnbclf/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npndd4h",
+              "parent_id": "t1_npnbclf",
+              "author": "Few_Painter_5588",
+              "text_history": [
+                [
+                  "It's all about active parameters. Sure you can get a 235B22A model or a 681B31A model. But the big models like Claude 4.5 and Gemini have upwards of 100B active parameters in their MoE structure",
+                  "2025-11-19T02:44:05.931292"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-19T02:44:05.931292"
+                ],
+                [
+                  1,
+                  "2025-11-19T02:45:27.448802"
+                ],
+                [
+                  1,
+                  "2025-11-19T02:48:09.708121"
+                ]
+              ],
+              "created_utc": 1763549028.0,
+              "depth": 2,
+              "permalink": "/r/LocalLLaMA/comments/1p0jr1f/mistral_removing_ton_of_old_models_from_api/npndd4h/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "npk8352",
+      "parent_id": "t3_1p0jr1f",
+      "author": "AppearanceHeavy6724",
+      "text_history": [
+        [
+          "Well these are not popular- they are al derived from Small 3.0 base which has very stiff language and very, very prone to looping.i have long deleted 3 and 3.1 from my hdd.",
+          "2025-11-18T13:49:03.471096"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T13:49:03.471096"
+        ],
+        [
+          1,
+          "2025-11-18T13:59:57.370788"
+        ],
+        [
+          1,
+          "2025-11-18T14:11:11.124937"
+        ],
+        [
+          6,
+          "2025-11-18T21:39:15.203985"
+        ],
+        [
+          7,
+          "2025-11-18T23:22:54.793594"
+        ],
+        [
+          7,
+          "2025-11-19T00:58:05.278807"
+        ],
+        [
+          10,
+          "2025-11-19T02:22:49.295875"
+        ],
+        [
+          8,
+          "2025-11-19T02:34:31.383794"
+        ],
+        [
+          10,
+          "2025-11-19T02:44:05.931292"
+        ],
+        [
+          9,
+          "2025-11-19T02:45:27.448802"
+        ],
+        [
+          9,
+          "2025-11-19T02:48:09.708121"
+        ]
+      ],
+      "created_utc": 1763500740.0,
+      "depth": 0,
+      "permalink": "/r/LocalLLaMA/comments/1p0jr1f/mistral_removing_ton_of_old_models_from_api/npk8352/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npjeks8",
+      "parent_id": "t3_1p0jr1f",
+      "author": "VicboyV",
+      "text_history": [
+        [
+          "Or maybe they're cutting costs?",
+          "2025-11-18T13:49:03.471096"
+        ]
+      ],
+      "score_history": [
+        [
+          7,
+          "2025-11-18T13:49:03.471096"
+        ],
+        [
+          8,
+          "2025-11-18T13:59:57.370788"
+        ],
+        [
+          7,
+          "2025-11-18T14:11:11.124937"
+        ],
+        [
+          14,
+          "2025-11-18T21:39:15.203985"
+        ],
+        [
+          18,
+          "2025-11-18T23:22:54.793594"
+        ],
+        [
+          20,
+          "2025-11-19T00:58:05.278807"
+        ],
+        [
+          19,
+          "2025-11-19T02:22:49.295875"
+        ],
+        [
+          19,
+          "2025-11-19T02:34:31.383794"
+        ],
+        [
+          18,
+          "2025-11-19T02:44:05.931292"
+        ],
+        [
+          20,
+          "2025-11-19T02:45:27.448802"
+        ],
+        [
+          19,
+          "2025-11-19T02:48:09.708121"
+        ]
+      ],
+      "created_utc": 1763491898.0,
+      "depth": 0,
+      "permalink": "/r/LocalLLaMA/comments/1p0jr1f/mistral_removing_ton_of_old_models_from_api/npjeks8/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npjludn",
+          "parent_id": "t1_npjeks8",
+          "author": "Ill_Barber8709",
+          "text_history": [
+            [
+              "I'm not sure how removing old models helps cutting costs.",
+              "2025-11-18T13:49:03.471096"
+            ]
+          ],
+          "score_history": [
+            [
+              0,
+              "2025-11-18T13:49:03.471096"
+            ],
+            [
+              0,
+              "2025-11-18T13:59:57.370788"
+            ],
+            [
+              0,
+              "2025-11-18T14:11:11.124937"
+            ],
+            [
+              1,
+              "2025-11-18T21:39:15.203985"
+            ],
+            [
+              1,
+              "2025-11-18T23:22:54.793594"
+            ],
+            [
+              1,
+              "2025-11-19T00:58:05.278807"
+            ],
+            [
+              0,
+              "2025-11-19T02:22:49.295875"
+            ],
+            [
+              1,
+              "2025-11-19T02:34:31.383794"
+            ],
+            [
+              2,
+              "2025-11-19T02:44:05.931292"
+            ],
+            [
+              2,
+              "2025-11-19T02:45:27.448802"
+            ],
+            [
+              0,
+              "2025-11-19T02:48:09.708121"
+            ]
+          ],
+          "created_utc": 1763494051.0,
+          "depth": 1,
+          "permalink": "/r/LocalLLaMA/comments/1p0jr1f/mistral_removing_ton_of_old_models_from_api/npjludn/",
+          "is_submitter": false,
+          "controversiality": 1,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npjudy9",
+              "parent_id": "t1_npjludn",
+              "author": "Double_Cause4609",
+              "text_history": [
+                [
+                  "It's really hard to serve multiple models at varying levels of usage; every additional model you serve results in some underutilization of GPUs (unless you serve at high latency), so offering multiple variants of the same model gets really painful really quickly.\n\nThat is, if you need 100 GPUs to serve 1 model (just as an example) at full capacity, and you have, let's say, 150 GPUs worth of people using that one model, you need at least 200 GPUs, because you generally have to allocate GPUs in blocks (again, not the actual numbers, I'm just using easy, round numbers to illustrate).\n\nBut if you have, say, 4 versions of the same model, you now need 400 GPUs, even if you only have 150 GPUs worth of people using the models...And it gets potentially worse! If 101 GPUs-worth of people are using the newest model (and this is not an unusual pattern), you actually need to allocate 500 full GPUs (5 full blocks) to meet that demand, even if it only happens for like, 10% of the day!\n\nSo I think it's actually pretty intuitive that when you're serving at scale offering tons of different models at once is actually kind of brutal.",
+                  "2025-11-18T13:49:03.471096"
+                ]
+              ],
+              "score_history": [
+                [
+                  12,
+                  "2025-11-18T13:49:03.471096"
+                ],
+                [
+                  11,
+                  "2025-11-18T13:59:57.370788"
+                ],
+                [
+                  14,
+                  "2025-11-18T14:11:11.124937"
+                ],
+                [
+                  25,
+                  "2025-11-18T21:39:15.203985"
+                ],
+                [
+                  28,
+                  "2025-11-18T23:22:54.793594"
+                ],
+                [
+                  29,
+                  "2025-11-19T00:58:05.278807"
+                ],
+                [
+                  30,
+                  "2025-11-19T02:22:49.295875"
+                ],
+                [
+                  31,
+                  "2025-11-19T02:34:31.383794"
+                ],
+                [
+                  31,
+                  "2025-11-19T02:44:05.931292"
+                ],
+                [
+                  32,
+                  "2025-11-19T02:45:27.448802"
+                ],
+                [
+                  34,
+                  "2025-11-19T02:48:09.708121"
+                ]
+              ],
+              "created_utc": 1763496615.0,
+              "depth": 2,
+              "permalink": "/r/LocalLLaMA/comments/1p0jr1f/mistral_removing_ton_of_old_models_from_api/npjudy9/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": [
+                {
+                  "id": "npjvwxb",
+                  "parent_id": "t1_npjudy9",
+                  "author": "Cool-Chemical-5629",
+                  "text_history": [
+                    [
+                      "This. Some people don't seem to realize that these services run 24/7. It's not like your local LM Studio or whatever set up where you load your model when you actually need to use it and then you unload it when you're finished to be able to use those resources on different tasks. This is an online server which is a whole different world and the models must be loaded permanently even if they are never actually used by the end-users, so they still hog the resources that could be used on more recent models at least.",
+                      "2025-11-18T13:49:03.471096"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      7,
+                      "2025-11-18T13:49:03.471096"
+                    ],
+                    [
+                      7,
+                      "2025-11-18T13:59:57.370788"
+                    ],
+                    [
+                      8,
+                      "2025-11-18T14:11:11.124937"
+                    ],
+                    [
+                      14,
+                      "2025-11-18T21:39:15.203985"
+                    ],
+                    [
+                      16,
+                      "2025-11-18T23:22:54.793594"
+                    ],
+                    [
+                      17,
+                      "2025-11-19T00:58:05.278807"
+                    ],
+                    [
+                      16,
+                      "2025-11-19T02:22:49.295875"
+                    ],
+                    [
+                      17,
+                      "2025-11-19T02:34:31.383794"
+                    ],
+                    [
+                      16,
+                      "2025-11-19T02:44:05.931292"
+                    ],
+                    [
+                      17,
+                      "2025-11-19T02:45:27.448802"
+                    ],
+                    [
+                      16,
+                      "2025-11-19T02:48:09.708121"
+                    ]
+                  ],
+                  "created_utc": 1763497081.0,
+                  "depth": 3,
+                  "permalink": "/r/LocalLLaMA/comments/1p0jr1f/mistral_removing_ton_of_old_models_from_api/npjvwxb/",
+                  "is_submitter": false,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": [
+                    {
+                      "id": "npk185t",
+                      "parent_id": "t1_npjvwxb",
+                      "author": "Ill_Barber8709",
+                      "text_history": [
+                        [
+                          "And some people simply need an explanation because not everyone has all the answers.",
+                          "2025-11-18T13:49:03.471096"
+                        ]
+                      ],
+                      "score_history": [
+                        [
+                          1,
+                          "2025-11-18T13:49:03.471096"
+                        ],
+                        [
+                          1,
+                          "2025-11-18T13:59:57.370788"
+                        ],
+                        [
+                          1,
+                          "2025-11-18T14:11:11.124937"
+                        ],
+                        [
+                          1,
+                          "2025-11-18T21:39:15.203985"
+                        ],
+                        [
+                          0,
+                          "2025-11-18T23:22:54.793594"
+                        ],
+                        [
+                          1,
+                          "2025-11-19T00:58:05.278807"
+                        ],
+                        [
+                          1,
+                          "2025-11-19T02:22:49.295875"
+                        ],
+                        [
+                          2,
+                          "2025-11-19T02:34:31.383794"
+                        ],
+                        [
+                          2,
+                          "2025-11-19T02:44:05.931292"
+                        ],
+                        [
+                          2,
+                          "2025-11-19T02:45:27.448802"
+                        ],
+                        [
+                          2,
+                          "2025-11-19T02:48:09.708121"
+                        ]
+                      ],
+                      "created_utc": 1763498706.0,
+                      "depth": 4,
+                      "permalink": "/r/LocalLLaMA/comments/1p0jr1f/mistral_removing_ton_of_old_models_from_api/npk185t/",
+                      "is_submitter": false,
+                      "controversiality": 0,
+                      "gilded": 0,
+                      "edited": false,
+                      "deleted": false,
+                      "deleted_at": null,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "npk0ny5",
+                  "parent_id": "t1_npjudy9",
+                  "author": "Ill_Barber8709",
+                  "text_history": [
+                    [
+                      "Thanks for the explanation!",
+                      "2025-11-18T13:49:03.471096"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      2,
+                      "2025-11-18T13:49:03.471096"
+                    ],
+                    [
+                      2,
+                      "2025-11-18T13:59:57.370788"
+                    ],
+                    [
+                      2,
+                      "2025-11-18T14:11:11.124937"
+                    ],
+                    [
+                      3,
+                      "2025-11-18T21:39:15.203985"
+                    ],
+                    [
+                      3,
+                      "2025-11-18T23:22:54.793594"
+                    ],
+                    [
+                      3,
+                      "2025-11-19T00:58:05.278807"
+                    ],
+                    [
+                      3,
+                      "2025-11-19T02:22:49.295875"
+                    ],
+                    [
+                      4,
+                      "2025-11-19T02:34:31.383794"
+                    ],
+                    [
+                      4,
+                      "2025-11-19T02:44:05.931292"
+                    ],
+                    [
+                      5,
+                      "2025-11-19T02:45:27.448802"
+                    ],
+                    [
+                      4,
+                      "2025-11-19T02:48:09.708121"
+                    ]
+                  ],
+                  "created_utc": 1763498536.0,
+                  "depth": 3,
+                  "permalink": "/r/LocalLLaMA/comments/1p0jr1f/mistral_removing_ton_of_old_models_from_api/npk0ny5/",
+                  "is_submitter": false,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": []
+                },
+                {
+                  "id": "npl0gdd",
+                  "parent_id": "t1_npjudy9",
+                  "author": "EndlessZone123",
+                  "text_history": [
+                    [
+                      "I can't imagine the overhead is that high (100 vs 400) when the consept of serverless and dynamically allocated servers are an extremely common concept. There is no reason they couldn't just load a different model to each of their GPUs if demand changes. That takes only seconds.\n\nMaybe like 5-10% more, but not 100% more per model.",
+                      "2025-11-18T21:39:15.203985"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      0,
+                      "2025-11-18T21:39:15.203985"
+                    ],
+                    [
+                      -1,
+                      "2025-11-18T23:22:54.793594"
+                    ],
+                    [
+                      -1,
+                      "2025-11-19T00:58:05.278807"
+                    ],
+                    [
+                      -1,
+                      "2025-11-19T02:22:49.295875"
+                    ],
+                    [
+                      -1,
+                      "2025-11-19T02:34:31.383794"
+                    ],
+                    [
+                      -1,
+                      "2025-11-19T02:44:05.931292"
+                    ],
+                    [
+                      -1,
+                      "2025-11-19T02:45:27.448802"
+                    ],
+                    [
+                      -1,
+                      "2025-11-19T02:48:09.708121"
+                    ]
+                  ],
+                  "created_utc": 1763510002.0,
+                  "depth": 3,
+                  "permalink": "/r/LocalLLaMA/comments/1p0jr1f/mistral_removing_ton_of_old_models_from_api/npl0gdd/",
+                  "is_submitter": false,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": [
+                    {
+                      "id": "npma9xi",
+                      "parent_id": "t1_npl0gdd",
+                      "author": "Double_Cause4609",
+                      "text_history": [
+                        [
+                          "You are sort of right, but keep in mind that inference isn't clean like a lot of other service based workloads; you can't just spin up a single extra GPU to get a few more requests per second. There's actually minimum viable clusters necessary to be able to start serving a new batch.\n\nLike, if you think about how inference works at scales like these you have to allocate enough GPUs to load the model + decent concurrency (could be something like 2-4 for Mistral Small, for example. Might be 8 in an enterprise scenario), and \\*then\\* you can serve inference. This doesn't sound as bad as my example (especially if you're already serving like, 50,000 to 100,000 other people already), but selling per token (especially on a partially open source model stack) is an extremely low margin affair, and low GPU utilization in an allocated cluster means you're losing money if you priced tokens according to full allocation.\n\nAdditionally, it also depends on the deals you have with providers; when you're dealing in extremely large numbers of GPUs you actually do often have to commit to a certain number of them (tbh, it's kind of like having the worst parts of renting \\*and\\* owning), and you don't necessarily have the ability to scale up or down by thousands (which is often the order on which you're dealing with here.\n\nIt's extremely difficult to allocate these types of resources to a fine grained degree, and having to server multiple variants of every single model is really challenging.\n\nFeatherless had to produce a completely different serving model with a bespoke engine to be able to serve finetunes on demand, and it significantly hurt their ability to offer at a high rate (and in fact, at a low cost), which are also things that your users will complain about.",
+                          "2025-11-18T21:39:15.203985"
+                        ]
+                      ],
+                      "score_history": [
+                        [
+                          1,
+                          "2025-11-18T21:39:15.203985"
+                        ],
+                        [
+                          1,
+                          "2025-11-18T23:22:54.793594"
+                        ],
+                        [
+                          1,
+                          "2025-11-19T00:58:05.278807"
+                        ],
+                        [
+                          1,
+                          "2025-11-19T02:22:49.295875"
+                        ],
+                        [
+                          1,
+                          "2025-11-19T02:34:31.383794"
+                        ],
+                        [
+                          1,
+                          "2025-11-19T02:44:05.931292"
+                        ],
+                        [
+                          1,
+                          "2025-11-19T02:45:27.448802"
+                        ],
+                        [
+                          1,
+                          "2025-11-19T02:48:09.708121"
+                        ]
+                      ],
+                      "created_utc": 1763526981.0,
+                      "depth": 4,
+                      "permalink": "/r/LocalLLaMA/comments/1p0jr1f/mistral_removing_ton_of_old_models_from_api/npma9xi/",
+                      "is_submitter": false,
+                      "controversiality": 0,
+                      "gilded": 0,
+                      "edited": false,
+                      "deleted": false,
+                      "deleted_at": null,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "npjvhyz",
+      "parent_id": "t3_1p0jr1f",
+      "author": "usernameplshere",
+      "text_history": [
+        [
+          "I hope so, Mistral is lacking behind the asian models by a lot.",
+          "2025-11-18T13:49:03.471096"
+        ]
+      ],
+      "score_history": [
+        [
+          9,
+          "2025-11-18T13:49:03.471096"
+        ],
+        [
+          9,
+          "2025-11-18T13:59:57.370788"
+        ],
+        [
+          10,
+          "2025-11-18T14:11:11.124937"
+        ],
+        [
+          17,
+          "2025-11-18T21:39:15.203985"
+        ],
+        [
+          17,
+          "2025-11-18T23:22:54.793594"
+        ],
+        [
+          19,
+          "2025-11-19T00:58:05.278807"
+        ],
+        [
+          19,
+          "2025-11-19T02:22:49.295875"
+        ],
+        [
+          18,
+          "2025-11-19T02:34:31.383794"
+        ],
+        [
+          21,
+          "2025-11-19T02:44:05.931292"
+        ],
+        [
+          21,
+          "2025-11-19T02:45:27.448802"
+        ],
+        [
+          20,
+          "2025-11-19T02:48:09.708121"
+        ]
+      ],
+      "created_utc": 1763496953.0,
+      "depth": 0,
+      "permalink": "/r/LocalLLaMA/comments/1p0jr1f/mistral_removing_ton_of_old_models_from_api/npjvhyz/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npmg839",
+          "parent_id": "t1_npjvhyz",
+          "author": "AppearanceHeavy6724",
+          "text_history": [
+            [
+              "Mistral 3.2 is far far better generalist than almost all Chinese model of comparable size, except GLM 4 32b, but the latter has its own quirks.",
+              "2025-11-18T21:39:15.203985"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T21:39:15.203985"
+            ],
+            [
+              3,
+              "2025-11-18T23:22:54.793594"
+            ],
+            [
+              5,
+              "2025-11-19T00:58:05.278807"
+            ],
+            [
+              4,
+              "2025-11-19T02:22:49.295875"
+            ],
+            [
+              4,
+              "2025-11-19T02:34:31.383794"
+            ],
+            [
+              5,
+              "2025-11-19T02:44:05.931292"
+            ],
+            [
+              6,
+              "2025-11-19T02:45:27.448802"
+            ],
+            [
+              6,
+              "2025-11-19T02:48:09.708121"
+            ]
+          ],
+          "created_utc": 1763529709.0,
+          "depth": 1,
+          "permalink": "/r/LocalLLaMA/comments/1p0jr1f/mistral_removing_ton_of_old_models_from_api/npmg839/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npn1zml",
+              "parent_id": "t1_npmg839",
+              "author": "Xandred_the_thicc",
+              "text_history": [
+                [
+                  "qwen's instruction following is atrocious compared to magistral 2509, imo. I've noticed the chinese models tend to outright ignore instructions that \"don't align with the community guidelines of...\" no matter how extensively you explain how stupid of a reason that is to refuse to translate \"controversial\" text or transcibe an image.",
+                  "2025-11-19T00:58:05.278807"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-19T00:58:05.278807"
+                ],
+                [
+                  1,
+                  "2025-11-19T02:22:49.295875"
+                ],
+                [
+                  1,
+                  "2025-11-19T02:34:31.383794"
+                ],
+                [
+                  1,
+                  "2025-11-19T02:44:05.931292"
+                ],
+                [
+                  1,
+                  "2025-11-19T02:45:27.448802"
+                ],
+                [
+                  1,
+                  "2025-11-19T02:48:09.708121"
+                ]
+              ],
+              "created_utc": 1763541993.0,
+              "depth": 2,
+              "permalink": "/r/LocalLLaMA/comments/1p0jr1f/mistral_removing_ton_of_old_models_from_api/npn1zml/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "npk8nwe",
+          "parent_id": "t1_npjvhyz",
+          "author": "My_Unbiased_Opinion",
+          "text_history": [
+            [
+              "Idk Magistral 1.2 is very solid. Not super verbose, but gets to the point. ",
+              "2025-11-18T13:49:03.471096"
+            ]
+          ],
+          "score_history": [
+            [
+              2,
+              "2025-11-18T13:49:03.471096"
+            ],
+            [
+              3,
+              "2025-11-18T13:59:57.370788"
+            ],
+            [
+              3,
+              "2025-11-18T14:11:11.124937"
+            ],
+            [
+              9,
+              "2025-11-18T21:39:15.203985"
+            ],
+            [
+              8,
+              "2025-11-18T23:22:54.793594"
+            ],
+            [
+              7,
+              "2025-11-19T00:58:05.278807"
+            ],
+            [
+              8,
+              "2025-11-19T02:22:49.295875"
+            ],
+            [
+              7,
+              "2025-11-19T02:34:31.383794"
+            ],
+            [
+              9,
+              "2025-11-19T02:44:05.931292"
+            ],
+            [
+              8,
+              "2025-11-19T02:45:27.448802"
+            ],
+            [
+              8,
+              "2025-11-19T02:48:09.708121"
+            ]
+          ],
+          "created_utc": 1763500909.0,
+          "depth": 1,
+          "permalink": "/r/LocalLLaMA/comments/1p0jr1f/mistral_removing_ton_of_old_models_from_api/npk8nwe/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        },
+        {
+          "id": "npkr2m4",
+          "parent_id": "t1_npjvhyz",
+          "author": "Sea-Rope-31",
+          "text_history": [
+            [
+              "I always forget these guys exist tbh",
+              "2025-11-18T21:39:15.203985"
+            ]
+          ],
+          "score_history": [
+            [
+              3,
+              "2025-11-18T21:39:15.203985"
+            ],
+            [
+              5,
+              "2025-11-18T23:22:54.793594"
+            ],
+            [
+              5,
+              "2025-11-19T00:58:05.278807"
+            ],
+            [
+              5,
+              "2025-11-19T02:22:49.295875"
+            ],
+            [
+              5,
+              "2025-11-19T02:34:31.383794"
+            ],
+            [
+              3,
+              "2025-11-19T02:44:05.931292"
+            ],
+            [
+              4,
+              "2025-11-19T02:45:27.448802"
+            ],
+            [
+              4,
+              "2025-11-19T02:48:09.708121"
+            ]
+          ],
+          "created_utc": 1763506697.0,
+          "depth": 1,
+          "permalink": "/r/LocalLLaMA/comments/1p0jr1f/mistral_removing_ton_of_old_models_from_api/npkr2m4/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npl43k7",
+              "parent_id": "t1_npkr2m4",
+              "author": "xxPoLyGLoTxx",
+              "text_history": [
+                [
+                  "Dunno why you are downvoted but it’s the same for me. It’s a crowded space now.",
+                  "2025-11-18T21:39:15.203985"
+                ]
+              ],
+              "score_history": [
+                [
+                  4,
+                  "2025-11-18T21:39:15.203985"
+                ],
+                [
+                  6,
+                  "2025-11-18T23:22:54.793594"
+                ],
+                [
+                  6,
+                  "2025-11-19T00:58:05.278807"
+                ],
+                [
+                  7,
+                  "2025-11-19T02:22:49.295875"
+                ],
+                [
+                  7,
+                  "2025-11-19T02:34:31.383794"
+                ],
+                [
+                  6,
+                  "2025-11-19T02:44:05.931292"
+                ],
+                [
+                  5,
+                  "2025-11-19T02:45:27.448802"
+                ],
+                [
+                  5,
+                  "2025-11-19T02:48:09.708121"
+                ]
+              ],
+              "created_utc": 1763511283.0,
+              "depth": 2,
+              "permalink": "/r/LocalLLaMA/comments/1p0jr1f/mistral_removing_ton_of_old_models_from_api/npl43k7/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "npkoctz",
+      "parent_id": "t3_1p0jr1f",
+      "author": "FullOf_Bad_Ideas",
+      "text_history": [
+        [
+          "I am sure it makes sense for them, but what should devs/consultants should built apps on if they don't want to use OpenAI/Google models and they want a project to stay without maintenance for years?\n\nLet's say you have a client that wants some workflow to be executed periodically, let's say some report generated for every incoming invoice.\n\nYou want to ideally just set it up with some API, deploy it and let the app live forever. The less maintenance, the better, and sometimes you can't just swap the model endpoint to a new recommended one and not run into any undesired changes.\n\nWith open model that's trivial to do with autoscaling serving platforms where you're running a custom app that has weights downloaded to local storage and you can freeze the whole workflow to be stable regardless of dependencies and API depreciations (that's not an ad so I won't name them here)\n\nBut how to do that with a closed model from a company like Mistral if they'll depreciate the model 12 months after release?\n\nQuick depreciation schedule is something that will make some customers think twice about building a small project on a given API model. gpt-3.5-turbo-1106 from November 2023 is still on the API and I am sure they still have some customers.\n\nI think there's surely some smart autoscaling setup they could do internally or outsource it to a third party for this kind of a \"barely but still there\" API longevity.",
+          "2025-11-18T21:39:15.203985"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T21:39:15.203985"
+        ],
+        [
+          1,
+          "2025-11-18T23:22:54.793594"
+        ],
+        [
+          1,
+          "2025-11-19T00:58:05.278807"
+        ],
+        [
+          1,
+          "2025-11-19T02:22:49.295875"
+        ],
+        [
+          1,
+          "2025-11-19T02:34:31.383794"
+        ],
+        [
+          1,
+          "2025-11-19T02:44:05.931292"
+        ],
+        [
+          1,
+          "2025-11-19T02:45:27.448802"
+        ],
+        [
+          1,
+          "2025-11-19T02:48:09.708121"
+        ]
+      ],
+      "created_utc": 1763505788.0,
+      "depth": 0,
+      "permalink": "/r/LocalLLaMA/comments/1p0jr1f/mistral_removing_ton_of_old_models_from_api/npkoctz/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npmlb6l",
+      "parent_id": "t3_1p0jr1f",
+      "author": "macumazana",
+      "text_history": [
+        [
+          "does it mean you cannot use them via api even if you were using them in your production?\n\nwhat happens - do you get error on request now or they redirect you to a newer model?",
+          "2025-11-18T23:22:54.793594"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T23:22:54.793594"
+        ],
+        [
+          1,
+          "2025-11-19T00:58:05.278807"
+        ],
+        [
+          1,
+          "2025-11-19T02:22:49.295875"
+        ],
+        [
+          1,
+          "2025-11-19T02:34:31.383794"
+        ],
+        [
+          1,
+          "2025-11-19T02:44:05.931292"
+        ],
+        [
+          1,
+          "2025-11-19T02:45:27.448802"
+        ],
+        [
+          1,
+          "2025-11-19T02:48:09.708121"
+        ]
+      ],
+      "created_utc": 1763532249.0,
+      "depth": 0,
+      "permalink": "/r/LocalLLaMA/comments/1p0jr1f/mistral_removing_ton_of_old_models_from_api/npmlb6l/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T02:48:09.708121",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/LocalLLaMA/comments/1p0jr1f/mistral_removing_ton_of_old_models_from_api/",
+    "total_comments": 20,
+    "top_level_comments": 6,
+    "api_requests": 1,
+    "expected_comments": 20,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 11,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_134903.json",
+      "scrape_002_20251118_135957.json",
+      "scrape_003_20251118_141110.json",
+      "scrape_004_20251118_213914.json",
+      "scrape_005_20251118_232254.json",
+      "scrape_006_20251119_005805.json",
+      "scrape_007_20251119_022248.json",
+      "scrape_008_20251119_023431.json",
+      "scrape_009_20251119_024405.json",
+      "scrape_010_20251119_024527.json",
+      "scrape_011_20251119_024809.json"
+    ]
+  }
+}

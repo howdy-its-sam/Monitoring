@@ -1,0 +1,80 @@
+{
+  "post": {
+    "id": "1p0u60m",
+    "title": "Justice Department Announces Nationwide Actions to Combat Illicit North Korean Government Revenue Generation",
+    "author": "Afraid-Quail51",
+    "score_history": [
+      [
+        10,
+        "2025-11-19T03:41:50.855008"
+      ],
+      [
+        9,
+        "2025-11-19T03:48:47.446579"
+      ],
+      [
+        10,
+        "2025-11-19T03:50:44.286861"
+      ]
+    ],
+    "created_utc": 1763515421.0,
+    "num_comments": 1,
+    "subreddit": "cybersecurity",
+    "url": "https://www.justice.gov/opa/pr/justice-department-announces-nationwide-actions-combat-illicit-north-korean-government",
+    "selftext": "TL;DR\n\nThe U.S. Justice Department announced nationwide enforcement actions revealing that North Korea used fraudulent remote-work identities and large-scale cryptocurrency theft to infiltrate over a hundred American companies and generate millions in illicit funding, leading to multiple guilty pleas and significant asset seizures.",
+    "permalink": "/r/cybersecurity/comments/1p0u60m/justice_department_announces_nationwide_actions/"
+  },
+  "comments": [
+    {
+      "id": "nplomfu",
+      "parent_id": "t3_1p0u60m",
+      "author": "Wonder_Weenis",
+      "text_history": [
+        [
+          "Keep in mind that North Korea signed knowledge transfer and University exchange agreements with Nigeria in 2014. ",
+          "2025-11-19T03:41:50.855008"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-19T03:41:50.855008"
+        ],
+        [
+          2,
+          "2025-11-19T03:48:47.446579"
+        ],
+        [
+          2,
+          "2025-11-19T03:50:44.286861"
+        ]
+      ],
+      "created_utc": 1763518589.0,
+      "depth": 0,
+      "permalink": "/r/cybersecurity/comments/1p0u60m/justice_department_announces_nationwide_actions/nplomfu/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:50:44.286861",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/cybersecurity/comments/1p0u60m/justice_department_announces_nationwide_actions/",
+    "total_comments": 1,
+    "top_level_comments": 1,
+    "api_requests": 1,
+    "expected_comments": 1,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_034150.json",
+      "scrape_002_20251119_034847.json",
+      "scrape_003_20251119_035044.json"
+    ]
+  }
+}

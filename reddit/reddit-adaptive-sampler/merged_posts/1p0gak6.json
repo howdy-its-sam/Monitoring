@@ -1,0 +1,894 @@
+{
+  "post": {
+    "id": "1p0gak6",
+    "title": "I can't find even a single reliable beginner friendly course for ML. Please help",
+    "author": "RutabagaJumpy3956",
+    "score_history": [
+      [
+        0,
+        "2025-11-19T02:55:38.525894"
+      ],
+      [
+        0,
+        "2025-11-19T03:03:42.184236"
+      ],
+      [
+        0,
+        "2025-11-19T03:06:54.180730"
+      ]
+    ],
+    "created_utc": 1763482915.0,
+    "num_comments": 24,
+    "subreddit": "learnmachinelearning",
+    "url": "https://www.reddit.com/r/learnmachinelearning/comments/1p0gak6/i_cant_find_even_a_single_reliable_beginner/",
+    "selftext": "Everybody says go watch Andrew Ng course here and there, but his courses are either staying behind paywalls on platforms such as Coursera and Deeplearningai or being too long to stay focused on Youtube. I am trying to learn it all by myself and I have both mathematics and programming foundation. Moreover I couldn't find the wiki of this subreddits wiki helpful either. I just need a beginning to end comprehensive course or book. Do you guys have any suggestions? Just to mention, I am a student and I don't have much money at all.",
+    "permalink": "/r/learnmachinelearning/comments/1p0gak6/i_cant_find_even_a_single_reliable_beginner/"
+  },
+  "comments": [
+    {
+      "id": "npilv7f",
+      "parent_id": "t3_1p0gak6",
+      "author": "Chruman",
+      "text_history": [
+        [
+          "There are no shortcuts. There is no quick lectures to teach you ML to any reasonable understanding, unless this is just for curiosity. \n\nAndrew ng's course is probably the best for an introduction. If you'd rather have a book, I think Introduction to Statistical Learning is pretty good.",
+          "2025-11-19T02:55:38.525894"
+        ]
+      ],
+      "score_history": [
+        [
+          15,
+          "2025-11-19T02:55:38.525894"
+        ],
+        [
+          14,
+          "2025-11-19T03:03:42.184236"
+        ],
+        [
+          14,
+          "2025-11-19T03:06:54.180730"
+        ]
+      ],
+      "created_utc": 1763483546.0,
+      "depth": 0,
+      "permalink": "/r/learnmachinelearning/comments/1p0gak6/i_cant_find_even_a_single_reliable_beginner/npilv7f/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npmp61h",
+          "parent_id": "t1_npilv7f",
+          "author": "CKoenig",
+          "text_history": [
+            [
+              "+1 for ISLP - it's kindof free (https://www.statlearning.com/) plus there is a lecture-series from the authors available as well",
+              "2025-11-19T02:55:38.525894"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-19T02:55:38.525894"
+            ],
+            [
+              1,
+              "2025-11-19T03:03:42.184236"
+            ],
+            [
+              1,
+              "2025-11-19T03:06:54.180730"
+            ]
+          ],
+          "created_utc": 1763534345.0,
+          "depth": 1,
+          "permalink": "/r/learnmachinelearning/comments/1p0gak6/i_cant_find_even_a_single_reliable_beginner/npmp61h/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npjt2df",
+      "parent_id": "t3_1p0gak6",
+      "author": "tregnoc",
+      "text_history": [
+        [
+          "You can apply for financial aid on Coursera. It will not be an easy or quick journey. No one course is going to get you to proficiency. Apply for financial aid to Andrew Ng’s ML spec and also the math for ML spec. Good start.",
+          "2025-11-19T02:55:38.525894"
+        ]
+      ],
+      "score_history": [
+        [
+          3,
+          "2025-11-19T02:55:38.525894"
+        ],
+        [
+          3,
+          "2025-11-19T03:03:42.184236"
+        ],
+        [
+          3,
+          "2025-11-19T03:06:54.180730"
+        ]
+      ],
+      "created_utc": 1763496212.0,
+      "depth": 0,
+      "permalink": "/r/learnmachinelearning/comments/1p0gak6/i_cant_find_even_a_single_reliable_beginner/npjt2df/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npk6uo3",
+          "parent_id": "t1_npjt2df",
+          "author": "chaitanyathengdi",
+          "text_history": [
+            [
+              "What does that take though? If it has a low barrier for entry, everyone would exploit it till they drop it entirely.",
+              "2025-11-19T02:55:38.525894"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-19T02:55:38.525894"
+            ],
+            [
+              1,
+              "2025-11-19T03:03:42.184236"
+            ],
+            [
+              1,
+              "2025-11-19T03:06:54.180730"
+            ]
+          ],
+          "created_utc": 1763500370.0,
+          "depth": 1,
+          "permalink": "/r/learnmachinelearning/comments/1p0gak6/i_cant_find_even_a_single_reliable_beginner/npk6uo3/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npk7ean",
+              "parent_id": "t1_npk6uo3",
+              "author": "tregnoc",
+              "text_history": [
+                [
+                  "They ask for you to write a couple of responses explaining your goals and how that particular course will benefit you in your journey. They ask how much your salary is and how much you can afford to pay.",
+                  "2025-11-19T02:55:38.525894"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-19T02:55:38.525894"
+                ],
+                [
+                  1,
+                  "2025-11-19T03:03:42.184236"
+                ],
+                [
+                  1,
+                  "2025-11-19T03:06:54.180730"
+                ]
+              ],
+              "created_utc": 1763500534.0,
+              "depth": 2,
+              "permalink": "/r/learnmachinelearning/comments/1p0gak6/i_cant_find_even_a_single_reliable_beginner/npk7ean/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "npiobmr",
+      "parent_id": "t3_1p0gak6",
+      "author": "NoSwimmer2185",
+      "text_history": [
+        [
+          "A beginning to end comprehensive course book. Bruh, do you have any idea how big that book would be? You don't even know what you are asking for, ML is a huge topic. You could spend your entire life just reading about clustering. Also, ML isn't for beginners. You need to know probability, statistics, and linear algebra. people paid money and put in the work to learn and master this knowledge, and you expect to get it for free?",
+          "2025-11-19T02:55:38.525894"
+        ]
+      ],
+      "score_history": [
+        [
+          4,
+          "2025-11-19T02:55:38.525894"
+        ],
+        [
+          2,
+          "2025-11-19T03:03:42.184236"
+        ],
+        [
+          2,
+          "2025-11-19T03:06:54.180730"
+        ]
+      ],
+      "created_utc": 1763484263.0,
+      "depth": 0,
+      "permalink": "/r/learnmachinelearning/comments/1p0gak6/i_cant_find_even_a_single_reliable_beginner/npiobmr/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npj5cnd",
+          "parent_id": "t1_npiobmr",
+          "author": "doctor-squidward",
+          "text_history": [
+            [
+              "Well tbh it is available for free. I just feel that all the resources are very scattered especially with all the noisy slop we have right now.",
+              "2025-11-19T02:55:38.525894"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-19T02:55:38.525894"
+            ],
+            [
+              1,
+              "2025-11-19T03:03:42.184236"
+            ],
+            [
+              1,
+              "2025-11-19T03:06:54.180730"
+            ]
+          ],
+          "created_utc": 1763489257.0,
+          "depth": 1,
+          "permalink": "/r/learnmachinelearning/comments/1p0gak6/i_cant_find_even_a_single_reliable_beginner/npj5cnd/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npimq2f",
+      "parent_id": "t3_1p0gak6",
+      "author": "[deleted]",
+      "text_history": [
+        [
+          "[deleted]",
+          "2025-11-19T02:55:38.525894"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:55:38.525894"
+        ],
+        [
+          1,
+          "2025-11-19T03:03:42.184236"
+        ],
+        [
+          1,
+          "2025-11-19T03:06:54.180730"
+        ]
+      ],
+      "created_utc": 1763483798.0,
+      "depth": 0,
+      "permalink": "/r/learnmachinelearning/comments/1p0gak6/i_cant_find_even_a_single_reliable_beginner/npimq2f/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npioir6",
+          "parent_id": "t1_npimq2f",
+          "author": "RutabagaJumpy3956",
+          "text_history": [
+            [
+              "I am not cheapskate, I just don't have money bro and I am a student. You probably have no idea about how high the exchange rate of dollar in some countries is.",
+              "2025-11-19T02:55:38.525894"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-19T02:55:38.525894"
+            ],
+            [
+              1,
+              "2025-11-19T03:03:42.184236"
+            ],
+            [
+              1,
+              "2025-11-19T03:06:54.180730"
+            ]
+          ],
+          "created_utc": 1763484321.0,
+          "depth": 1,
+          "permalink": "/r/learnmachinelearning/comments/1p0gak6/i_cant_find_even_a_single_reliable_beginner/npioir6/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npk5kqg",
+              "parent_id": "t1_npioir6",
+              "author": "chaitanyathengdi",
+              "text_history": [
+                [
+                  "Coursera is not just in dollars.",
+                  "2025-11-19T02:55:38.525894"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-19T02:55:38.525894"
+                ],
+                [
+                  1,
+                  "2025-11-19T03:03:42.184236"
+                ],
+                [
+                  1,
+                  "2025-11-19T03:06:54.180730"
+                ]
+              ],
+              "created_utc": 1763499996.0,
+              "depth": 2,
+              "permalink": "/r/learnmachinelearning/comments/1p0gak6/i_cant_find_even_a_single_reliable_beginner/npk5kqg/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "npio6zd",
+      "parent_id": "t3_1p0gak6",
+      "author": "cwakare",
+      "text_history": [
+        [
+          "Making Friends with AI by Cassie Kozyrkov\n\nhttps://youtube.com/playlist?list=PLRKtJ4IpxJpDxl0NTvNYQWKCYzHNuy2xG&amp;si=1b9mgK3HYQJDCIP-\n\n\nMachine Learning Crash Course by Google\n\nhttps://developers.google.com/machine-learning/crash-course",
+          "2025-11-19T02:55:38.525894"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:55:38.525894"
+        ],
+        [
+          1,
+          "2025-11-19T03:03:42.184236"
+        ],
+        [
+          1,
+          "2025-11-19T03:06:54.180730"
+        ]
+      ],
+      "created_utc": 1763484225.0,
+      "depth": 0,
+      "permalink": "/r/learnmachinelearning/comments/1p0gak6/i_cant_find_even_a_single_reliable_beginner/npio6zd/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npj415v",
+      "parent_id": "t3_1p0gak6",
+      "author": "doctor-squidward",
+      "text_history": [
+        [
+          "I think you only pay in coursera if you want the certificate right ?\n\nAlso what do you mean by comprehensive? No book/course is gonna have everything about ML ever 😂\n\nThis might be a bit more advanced if you aren’t good at programming and math already, but Andrej Karpathy’s NN zero to hero series is really high quality. But if I were you, I would do it after doing some problems by hand from a textbook or something.",
+          "2025-11-19T02:55:38.525894"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:55:38.525894"
+        ],
+        [
+          1,
+          "2025-11-19T03:03:42.184236"
+        ],
+        [
+          1,
+          "2025-11-19T03:06:54.180730"
+        ]
+      ],
+      "created_utc": 1763488873.0,
+      "depth": 0,
+      "permalink": "/r/learnmachinelearning/comments/1p0gak6/i_cant_find_even_a_single_reliable_beginner/npj415v/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": 1763489151.0,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npj8emb",
+          "parent_id": "t1_npj415v",
+          "author": "EntrepreneurHuge5008",
+          "text_history": [
+            [
+              "&gt;I think you only pay in coursera if you want the certificate right ?\n\nThis changed a few months ago. They got rid of auditing in favor of a \"preview\" mode, where everything beyond the first module is locked behind a paywall.",
+              "2025-11-19T02:55:38.525894"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-19T02:55:38.525894"
+            ],
+            [
+              1,
+              "2025-11-19T03:03:42.184236"
+            ],
+            [
+              1,
+              "2025-11-19T03:06:54.180730"
+            ]
+          ],
+          "created_utc": 1763490130.0,
+          "depth": 1,
+          "permalink": "/r/learnmachinelearning/comments/1p0gak6/i_cant_find_even_a_single_reliable_beginner/npj8emb/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npk61i8",
+              "parent_id": "t1_npj8emb",
+              "author": "chaitanyathengdi",
+              "text_history": [
+                [
+                  "You can still do videos only on Deeplearning.ai for free IIRC",
+                  "2025-11-19T02:55:38.525894"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-19T02:55:38.525894"
+                ],
+                [
+                  1,
+                  "2025-11-19T03:03:42.184236"
+                ],
+                [
+                  1,
+                  "2025-11-19T03:06:54.180730"
+                ]
+              ],
+              "created_utc": 1763500133.0,
+              "depth": 2,
+              "permalink": "/r/learnmachinelearning/comments/1p0gak6/i_cant_find_even_a_single_reliable_beginner/npk61i8/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "npj846v",
+      "parent_id": "t3_1p0gak6",
+      "author": "EntrepreneurHuge5008",
+      "text_history": [
+        [
+          "&gt;Everybody says go watch Andrew Ng course here and there... or being too long to stay focused on Youtube\n\nThis is the most reliable beginner-friendly course for ML.\n\nWhat you mean to say is \"I can't find a ***free*** beginner-friendly course for ML that is neatly broken down into small digestible parts.\"",
+          "2025-11-19T02:55:38.525894"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:55:38.525894"
+        ],
+        [
+          1,
+          "2025-11-19T03:03:42.184236"
+        ],
+        [
+          1,
+          "2025-11-19T03:06:54.180730"
+        ]
+      ],
+      "created_utc": 1763490047.0,
+      "depth": 0,
+      "permalink": "/r/learnmachinelearning/comments/1p0gak6/i_cant_find_even_a_single_reliable_beginner/npj846v/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npjb8h8",
+      "parent_id": "t3_1p0gak6",
+      "author": "ViciousIvy",
+      "text_history": [
+        [
+          "hey there! my company offers a free ai/ml engineering fundamentals course if you'd like to check it out feel free to message me\n\ni'm also building an ai/ml community on discord &gt; we share news + hold discussions on various topics and would love for u to come hang out \\^-\\^ link is in my bio ",
+          "2025-11-19T02:55:38.525894"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:55:38.525894"
+        ],
+        [
+          1,
+          "2025-11-19T03:03:42.184236"
+        ],
+        [
+          1,
+          "2025-11-19T03:06:54.180730"
+        ]
+      ],
+      "created_utc": 1763490940.0,
+      "depth": 0,
+      "permalink": "/r/learnmachinelearning/comments/1p0gak6/i_cant_find_even_a_single_reliable_beginner/npjb8h8/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npk4xvg",
+      "parent_id": "t3_1p0gak6",
+      "author": "chaitanyathengdi",
+      "text_history": [
+        [
+          "I'm doing the ML Specialization. It's paid, but if you want free you can watch only the videos. No graded labs or quizzes (I think).",
+          "2025-11-19T02:55:38.525894"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:55:38.525894"
+        ],
+        [
+          1,
+          "2025-11-19T03:03:42.184236"
+        ],
+        [
+          1,
+          "2025-11-19T03:06:54.180730"
+        ]
+      ],
+      "created_utc": 1763499806.0,
+      "depth": 0,
+      "permalink": "/r/learnmachinelearning/comments/1p0gak6/i_cant_find_even_a_single_reliable_beginner/npk4xvg/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npk9pww",
+      "parent_id": "t3_1p0gak6",
+      "author": "Old-School8916",
+      "text_history": [
+        [
+          "read this book, its free and very up to date:\n\nhttps://deeplearningwithpython.io/\n\nit goes directly into deep learning, covering machine learning things you need to know.",
+          "2025-11-19T02:55:38.525894"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:55:38.525894"
+        ],
+        [
+          1,
+          "2025-11-19T03:03:42.184236"
+        ],
+        [
+          1,
+          "2025-11-19T03:06:54.180730"
+        ]
+      ],
+      "created_utc": 1763501220.0,
+      "depth": 0,
+      "permalink": "/r/learnmachinelearning/comments/1p0gak6/i_cant_find_even_a_single_reliable_beginner/npk9pww/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npkou83",
+      "parent_id": "t3_1p0gak6",
+      "author": "Old_Protection2570",
+      "text_history": [
+        [
+          "Google have some ML crash courses that are good for beginners",
+          "2025-11-19T02:55:38.525894"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:55:38.525894"
+        ],
+        [
+          1,
+          "2025-11-19T03:03:42.184236"
+        ],
+        [
+          1,
+          "2025-11-19T03:06:54.180730"
+        ]
+      ],
+      "created_utc": 1763505947.0,
+      "depth": 0,
+      "permalink": "/r/learnmachinelearning/comments/1p0gak6/i_cant_find_even_a_single_reliable_beginner/npkou83/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npkwaj5",
+      "parent_id": "t3_1p0gak6",
+      "author": "KosmoanutOfficial",
+      "text_history": [
+        [
+          "I have been enjoying the book why machines learn and that has helped me know what I would like to study next",
+          "2025-11-19T02:55:38.525894"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:55:38.525894"
+        ],
+        [
+          1,
+          "2025-11-19T03:03:42.184236"
+        ],
+        [
+          1,
+          "2025-11-19T03:06:54.180730"
+        ]
+      ],
+      "created_utc": 1763508510.0,
+      "depth": 0,
+      "permalink": "/r/learnmachinelearning/comments/1p0gak6/i_cant_find_even_a_single_reliable_beginner/npkwaj5/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nplh2pz",
+      "parent_id": "t3_1p0gak6",
+      "author": "Nadim-Daniel",
+      "text_history": [
+        [
+          "I also had a really hard time getting any traction initially. This [Tutorial](https://www.youtube.com/watch?v=L8ypSXwyBds) by Patrick Loeber is what gave me a solid start. Since then I did extensive changes to the base code and eventually ported the whole thing from *matplotlib + pygame* to [Textual](https://textual.textualize.io/). You can checkout my spin off project, the [AI Snake Lab](https://snakelab.osoyalce.com/).",
+          "2025-11-19T02:55:38.525894"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:55:38.525894"
+        ],
+        [
+          1,
+          "2025-11-19T03:03:42.184236"
+        ],
+        [
+          1,
+          "2025-11-19T03:06:54.180730"
+        ]
+      ],
+      "created_utc": 1763515900.0,
+      "depth": 0,
+      "permalink": "/r/learnmachinelearning/comments/1p0gak6/i_cant_find_even_a_single_reliable_beginner/nplh2pz/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npm1lfo",
+      "parent_id": "t3_1p0gak6",
+      "author": "Nunuvin",
+      "text_history": [
+        [
+          "Andrew Ngs youtube lectures are great. All lectures are boring to some degree... I do not think there are shortcuts my friend... Anything comprehensive will require more effort than watching Andrew's youtube lecture series... Tbh his coursera course is no where close to what you learn in the youtube series.\n\nYou need to adjust some hyperparameters, either you get attention or recall and its biased. Ok I will stop.\n\nKaggle tutorials might be ok for you.\n\nhands on machine learning is great but requires attention, if its chapter 3 end to end project is too much, I would suggest doing something else for now and getting back later...\n\nReading through / mimicking kaggle notebooks can be an option.",
+          "2025-11-19T02:55:38.525894"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:55:38.525894"
+        ],
+        [
+          1,
+          "2025-11-19T03:03:42.184236"
+        ],
+        [
+          1,
+          "2025-11-19T03:06:54.180730"
+        ]
+      ],
+      "created_utc": 1763523358.0,
+      "depth": 0,
+      "permalink": "/r/learnmachinelearning/comments/1p0gak6/i_cant_find_even_a_single_reliable_beginner/npm1lfo/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npinnf6",
+      "parent_id": "t3_1p0gak6",
+      "author": "Top-Dragonfruit-5156",
+      "text_history": [
+        [
+          "I’m part of a Discord community with people who are learning AI and ML together. Instead of just following courses, we focus on understanding concepts quickly and building real projects as we go.\n\nIt’s been helpful for staying consistent and actually applying what we learn. If anyone’s interested in joining, here’s the invite:\n\n[https://discord.com/invite/nhgKMuJrnR](https://discord.com/invite/nhgKMuJrnR)",
+          "2025-11-19T02:55:38.525894"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:55:38.525894"
+        ],
+        [
+          1,
+          "2025-11-19T03:03:42.184236"
+        ],
+        [
+          1,
+          "2025-11-19T03:06:54.180730"
+        ]
+      ],
+      "created_utc": 1763484068.0,
+      "depth": 0,
+      "permalink": "/r/learnmachinelearning/comments/1p0gak6/i_cant_find_even_a_single_reliable_beginner/npinnf6/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npk55w3",
+          "parent_id": "t1_npinnf6",
+          "author": "chaitanyathengdi",
+          "text_history": [
+            [
+              "https://discord.gg/ZVqs3Wy4X\n\nThis is another one I came across.",
+              "2025-11-19T02:55:38.525894"
+            ]
+          ],
+          "score_history": [
+            [
+              0,
+              "2025-11-19T02:55:38.525894"
+            ],
+            [
+              0,
+              "2025-11-19T03:03:42.184236"
+            ],
+            [
+              0,
+              "2025-11-19T03:06:54.180730"
+            ]
+          ],
+          "created_utc": 1763499873.0,
+          "depth": 1,
+          "permalink": "/r/learnmachinelearning/comments/1p0gak6/i_cant_find_even_a_single_reliable_beginner/npk55w3/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:06:54.180730",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/learnmachinelearning/comments/1p0gak6/i_cant_find_even_a_single_reliable_beginner/",
+    "total_comments": 24,
+    "top_level_comments": 15,
+    "api_requests": 1,
+    "expected_comments": 24,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_025538.json",
+      "scrape_002_20251119_030341.json",
+      "scrape_003_20251119_030653.json"
+    ]
+  }
+}

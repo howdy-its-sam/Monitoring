@@ -1,0 +1,80 @@
+{
+  "post": {
+    "id": "1p0g3is",
+    "title": "Google’s new Gemini 3 vibe-codes its responses and comes with its own agent",
+    "author": "techreview",
+    "score_history": [
+      [
+        0,
+        "2025-11-19T03:29:04.518028"
+      ],
+      [
+        0,
+        "2025-11-19T03:36:27.834857"
+      ],
+      [
+        0,
+        "2025-11-19T03:39:10.250767"
+      ]
+    ],
+    "created_utc": 1763482481.0,
+    "num_comments": 1,
+    "subreddit": "technews",
+    "url": "https://www.technologyreview.com/2025/11/18/1128065/googles-gemini-3/?utm_medium=tr_social&amp;utm_source=reddit&amp;utm_campaign=site_visitor.unpaid.engagement",
+    "selftext": "",
+    "permalink": "/r/technews/comments/1p0g3is/googles_new_gemini_3_vibecodes_its_responses_and/"
+  },
+  "comments": [
+    {
+      "id": "npii8ib",
+      "parent_id": "t3_1p0g3is",
+      "author": "techreview",
+      "text_history": [
+        [
+          "**From the article:**\n\nGoogle today unveiled Gemini 3, a major upgrade to its flagship multimodal model. The firm says the new model is better at reasoning, has more fluid multimodal capabilities (the ability to work across voice, text or images), and will work like an agent. \n\nThe previous model, Gemini 2.5, supports multimodal input. Users can feed it images, handwriting, or voice. But it usually requires explicit instructions about the format the user wants back, and it defaults to plain text regardless. \n\nBut Gemini 3 introduces what Google calls “generative interfaces,” which allow the model to make its own choices about what kind of output fits the prompt best, assembling visual layouts and dynamic views on its own instead of returning a block of text. ",
+          "2025-11-19T03:29:04.518028"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T03:29:04.518028"
+        ],
+        [
+          1,
+          "2025-11-19T03:36:27.834857"
+        ],
+        [
+          1,
+          "2025-11-19T03:39:10.250767"
+        ]
+      ],
+      "created_utc": 1763482492.0,
+      "depth": 0,
+      "permalink": "/r/technews/comments/1p0g3is/googles_new_gemini_3_vibecodes_its_responses_and/npii8ib/",
+      "is_submitter": true,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:39:10.250767",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/technews/comments/1p0g3is/googles_new_gemini_3_vibecodes_its_responses_and/",
+    "total_comments": 1,
+    "top_level_comments": 1,
+    "api_requests": 1,
+    "expected_comments": 1,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_032904.json",
+      "scrape_002_20251119_033627.json",
+      "scrape_003_20251119_033910.json"
+    ]
+  }
+}

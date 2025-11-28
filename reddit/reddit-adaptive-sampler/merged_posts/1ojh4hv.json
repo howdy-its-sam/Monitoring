@@ -1,0 +1,107 @@
+{
+  "post": {
+    "id": "1ojh4hv",
+    "title": "I made a small tool that checks when AI companies change their AI docs",
+    "author": "Helpful_Nectarine923",
+    "score_history": [
+      [
+        0,
+        "2025-11-18T13:48:42.069563"
+      ],
+      [
+        0,
+        "2025-11-18T14:00:05.040508"
+      ],
+      [
+        0,
+        "2025-11-18T14:11:18.535880"
+      ],
+      [
+        0,
+        "2025-11-18T21:29:06.114715"
+      ],
+      [
+        0,
+        "2025-11-18T23:14:03.128831"
+      ],
+      [
+        0,
+        "2025-11-19T01:08:22.464719"
+      ]
+    ],
+    "created_utc": 1761773142.0,
+    "num_comments": 1,
+    "subreddit": "AI_developers",
+    "url": "/r/aipromptprogramming/comments/1ojh3dq/i_made_a_small_tool_that_checks_when_ai_companies/",
+    "selftext": "",
+    "permalink": "/r/AI_developers/comments/1ojh4hv/i_made_a_small_tool_that_checks_when_ai_companies/"
+  },
+  "comments": [
+    {
+      "id": "nm3fz8s",
+      "parent_id": "t3_1ojh4hv",
+      "author": "Empty-Poetry8197",
+      "text_history": [
+        [
+          "That's cool and useful i could use some help. I have to get my karma up so I can post. While I do that, can you check out my repo? I made an AI data optimization compression pipeline that saves on compute and bandwidth, plus lowers latency and I can't get anyone to check it out cause i don't have any social media clout [https://github.com/hendrixx-cnc/AURA](https://github.com/hendrixx-cnc/AURA)",
+          "2025-11-18T13:48:42.069563"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T13:48:42.069563"
+        ],
+        [
+          1,
+          "2025-11-18T14:00:05.040508"
+        ],
+        [
+          1,
+          "2025-11-18T14:11:18.535880"
+        ],
+        [
+          1,
+          "2025-11-18T21:29:06.114715"
+        ],
+        [
+          1,
+          "2025-11-18T23:14:03.128831"
+        ],
+        [
+          1,
+          "2025-11-19T01:08:22.464719"
+        ]
+      ],
+      "created_utc": 1761778502.0,
+      "depth": 0,
+      "permalink": "/r/AI_developers/comments/1ojh4hv/i_made_a_small_tool_that_checks_when_ai_companies/nm3fz8s/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T01:08:22.464719",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/AI_developers/comments/1ojh4hv/i_made_a_small_tool_that_checks_when_ai_companies/",
+    "total_comments": 1,
+    "top_level_comments": 1,
+    "api_requests": 1,
+    "expected_comments": 1,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 6,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_134841.json",
+      "scrape_002_20251118_140004.json",
+      "scrape_003_20251118_141118.json",
+      "scrape_004_20251118_212905.json",
+      "scrape_005_20251118_231402.json",
+      "scrape_006_20251119_010822.json"
+    ]
+  }
+}

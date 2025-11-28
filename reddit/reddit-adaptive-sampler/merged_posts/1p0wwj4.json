@@ -1,0 +1,185 @@
+{
+  "post": {
+    "id": "1p0wwj4",
+    "title": "Best orchestrator for cab booking agent",
+    "author": "localhost3002",
+    "score_history": [
+      [
+        1,
+        "2025-11-19T02:55:52.890335"
+      ],
+      [
+        1,
+        "2025-11-19T03:06:59.366118"
+      ],
+      [
+        1,
+        "2025-11-19T03:17:24.719891"
+      ]
+    ],
+    "created_utc": 1763523108.0,
+    "num_comments": 4,
+    "subreddit": "AI_Agents",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1p0wwj4/best_orchestrator_for_cab_booking_agent/",
+    "selftext": "I am building a cab booking agent, now there are various touch points - type of transfer(airport pickup, hourly, etc)\n\nThen show some services and when user selects, ask for details like flight number, date, time, pax, etc\nNow a single prompt can never handle this, it loses context or what not\n\nSo added a context doc to keep extracting useful fields and save them and then decide next question.\nIt works but hallucinates a lot as soon as user starts having real conversations or goes out of context\n\nI’ve spent weeks working with the prompt but it breaks at one point or another\n\nCan anyone please suggest what should be best way to do this, which part to do via code and what to do via LLM.\nAlso, which strategies should I follow to write the prompt\nAny examples or reference prompts\n",
+    "permalink": "/r/AI_Agents/comments/1p0wwj4/best_orchestrator_for_cab_booking_agent/"
+  },
+  "comments": [
+    {
+      "id": "npm4jhq",
+      "parent_id": "t3_1p0wwj4",
+      "author": "Hungry_Jackfruit_338",
+      "text_history": [
+        [
+          "use our software, be up and running in 2 weeks. never deal with code or anything else. \n\nwe DO what you need.\n\n[www.neverclosed.ai](http://www.neverclosed.ai)",
+          "2025-11-19T02:55:52.890335"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-19T02:55:52.890335"
+        ],
+        [
+          2,
+          "2025-11-19T03:06:59.366118"
+        ],
+        [
+          2,
+          "2025-11-19T03:17:24.719891"
+        ]
+      ],
+      "created_utc": 1763524527.0,
+      "depth": 0,
+      "permalink": "/r/AI_Agents/comments/1p0wwj4/best_orchestrator_for_cab_booking_agent/npm4jhq/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npm0ywr",
+      "parent_id": "t3_1p0wwj4",
+      "author": "AutoModerator",
+      "text_history": [
+        [
+          "Thank you for your submission, for any questions regarding AI, please check out our wiki at https://www.reddit.com/r/ai_agents/wiki (this is currently in test and we are actively adding to the wiki)\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/AI_Agents) if you have any questions or concerns.*",
+          "2025-11-19T02:55:52.890335"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:55:52.890335"
+        ],
+        [
+          1,
+          "2025-11-19T03:06:59.366118"
+        ],
+        [
+          1,
+          "2025-11-19T03:17:24.719891"
+        ]
+      ],
+      "created_utc": 1763523108.0,
+      "depth": 0,
+      "permalink": "/r/AI_Agents/comments/1p0wwj4/best_orchestrator_for_cab_booking_agent/npm0ywr/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npm84i2",
+      "parent_id": "t3_1p0wwj4",
+      "author": "Hot_Substance_9432",
+      "text_history": [
+        [
+          "LangGraph or Pydantic AI should do it\n\nSome more info but you need to dig deeper  [https://langchain-ai.github.io/langgraph/tutorials/customer-support/customer-support/#hotels](https://langchain-ai.github.io/langgraph/tutorials/customer-support/customer-support/#hotels)",
+          "2025-11-19T02:55:52.890335"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:55:52.890335"
+        ],
+        [
+          1,
+          "2025-11-19T03:06:59.366118"
+        ],
+        [
+          1,
+          "2025-11-19T03:17:24.719891"
+        ]
+      ],
+      "created_utc": 1763526031.0,
+      "depth": 0,
+      "permalink": "/r/AI_Agents/comments/1p0wwj4/best_orchestrator_for_cab_booking_agent/npm84i2/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npm27lc",
+      "parent_id": "t3_1p0wwj4",
+      "author": "ai-agents-qa-bot",
+      "text_history": [
+        [
+          "For building a cab booking agent that effectively manages various touchpoints and maintains context throughout user interactions, consider the following strategies and tools:\n\n- **Orchestrator Choice**: Using an LLM-based orchestrator can enhance flexibility and context management. Tools like the OpenAI Agents SDK can help coordinate multiple specialized agents, each handling different aspects of the booking process (e.g., flight details, passenger information).\n\n- **Context Management**: Implement a state management system that retains user inputs and relevant context. This can involve:\n  - **Session-based memory**: Store information during the active session to maintain continuity.\n  - **Persisted state**: Use a database to retain user preferences and previous interactions for future sessions.\n\n- **Prompt Design**: Craft prompts that are clear and specific. Consider the following strategies:\n  - **Break down the conversation**: Instead of a single prompt, use a series of prompts that guide the user through the booking process step-by-step.\n  - **Provide clear instructions**: Specify what information is needed at each stage (e.g., \"Please provide your flight number and date\").\n  - **Use examples**: Offer examples of expected responses to guide the user.\n\n- **Iterative Refinement**: Continuously test and refine your prompts based on user interactions. Fine-tuning the prompts can help reduce hallucinations and improve the accuracy of responses.\n\n- **Reference Prompts**: Look for examples of prompts used in similar applications, such as:\n  - \"What type of transfer do you need? (e.g., airport pickup, hourly)\"\n  - \"Please provide your flight number, date, and time for the pickup.\"\n\nFor further reading and examples, you might find the following resources helpful:\n- [AI agent orchestration with OpenAI Agents SDK](https://tinyurl.com/3axssjh3)\n- [Mastering Agents: Build And Evaluate A Deep Research Agent with o3 and 4o - Galileo AI](https://tinyurl.com/3ppvudxd)\n\nThese documents provide insights into orchestrating AI agents and managing context effectively in conversational applications.",
+          "2025-11-19T02:55:52.890335"
+        ]
+      ],
+      "score_history": [
+        [
+          0,
+          "2025-11-19T02:55:52.890335"
+        ],
+        [
+          0,
+          "2025-11-19T03:06:59.366118"
+        ],
+        [
+          0,
+          "2025-11-19T03:17:24.719891"
+        ]
+      ],
+      "created_utc": 1763523606.0,
+      "depth": 0,
+      "permalink": "/r/AI_Agents/comments/1p0wwj4/best_orchestrator_for_cab_booking_agent/npm27lc/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:17:24.719891",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/AI_Agents/comments/1p0wwj4/best_orchestrator_for_cab_booking_agent/",
+    "total_comments": 4,
+    "top_level_comments": 4,
+    "api_requests": 1,
+    "expected_comments": 4,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_025552.json",
+      "scrape_002_20251119_030659.json",
+      "scrape_003_20251119_031724.json"
+    ]
+  }
+}

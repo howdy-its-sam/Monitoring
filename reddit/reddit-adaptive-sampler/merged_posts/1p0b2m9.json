@@ -1,0 +1,152 @@
+{
+  "post": {
+    "id": "1p0b2m9",
+    "title": "Ideal Chunking Strategy",
+    "author": "davidmezzetti",
+    "score_history": [
+      [
+        3,
+        "2025-11-18T14:23:54.649591"
+      ],
+      [
+        3,
+        "2025-11-18T14:33:28.933982"
+      ],
+      [
+        3,
+        "2025-11-18T14:43:21.134196"
+      ]
+    ],
+    "created_utc": 1763470213.0,
+    "num_comments": 3,
+    "subreddit": "Rag",
+    "url": "https://www.reddit.com/r/Rag/comments/1p0b2m9/ideal_chunking_strategy/",
+    "selftext": "One of the best places to start with your RAG chunking strategy is by section. Tools like Docling can easily transform documents into Markdown.\n\nThe author has already effectively chunked the data for you with sections. Why not use them?\n\nExample: [https://gist.github.com/davidmezzetti/ac55ee9e229b94443a8789cc15cceb3e](https://gist.github.com/davidmezzetti/ac55ee9e229b94443a8789cc15cceb3e)",
+    "permalink": "/r/Rag/comments/1p0b2m9/ideal_chunking_strategy/"
+  },
+  "comments": [
+    {
+      "id": "npih9f8",
+      "parent_id": "t3_1p0b2m9",
+      "author": "durable-racoon",
+      "text_history": [
+        [
+          "sections might be too big. Small chunks good for retrieval. large context good for generation. small chunks also let you embed summaries and expanded context with each chunk; cause you have the space to do it.\n\nIn general 200-300 chunksize is actually good so long as you have a way to expand that for the generation phase.\n\n  \nbut yeah section based chunking is really good. Just be prepared to have a 2nd layer of chunking beyond that. stopping at headings is a good idea.",
+          "2025-11-18T14:23:54.649591"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:23:54.649591"
+        ],
+        [
+          1,
+          "2025-11-18T14:33:28.933982"
+        ],
+        [
+          1,
+          "2025-11-18T14:43:21.134196"
+        ]
+      ],
+      "created_utc": 1763482206.0,
+      "depth": 0,
+      "permalink": "/r/Rag/comments/1p0b2m9/ideal_chunking_strategy/npih9f8/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npk8xbs",
+          "parent_id": "t1_npih9f8",
+          "author": "scolemann",
+          "text_history": [
+            [
+              "New to RAG, what do you mean by 2nd layer?  Do you have to keep a second vector db with different size chunks for different purposes?  \n\nSo you search on the smaller chunks then pull the larger chunks when you want to feed the data to the LLM to generate a response?",
+              "2025-11-18T14:23:54.649591"
+            ]
+          ],
+          "score_history": [
+            [
+              2,
+              "2025-11-18T14:23:54.649591"
+            ],
+            [
+              2,
+              "2025-11-18T14:33:28.933982"
+            ],
+            [
+              2,
+              "2025-11-18T14:43:21.134196"
+            ]
+          ],
+          "created_utc": 1763500986.0,
+          "depth": 1,
+          "permalink": "/r/Rag/comments/1p0b2m9/ideal_chunking_strategy/npk8xbs/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npk9702",
+              "parent_id": "t1_npk8xbs",
+              "author": "durable-racoon",
+              "text_history": [
+                [
+                  "'So you search on the smaller chunks then pull the larger chunks when you want to feed the data to the LLM to generate a response?'   \nyes this is almost always what you should be doing.",
+                  "2025-11-18T14:23:54.649591"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-18T14:23:54.649591"
+                ],
+                [
+                  1,
+                  "2025-11-18T14:33:28.933982"
+                ],
+                [
+                  1,
+                  "2025-11-18T14:43:21.134196"
+                ]
+              ],
+              "created_utc": 1763501064.0,
+              "depth": 2,
+              "permalink": "/r/Rag/comments/1p0b2m9/ideal_chunking_strategy/npk9702/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-18T14:43:21.134196",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/Rag/comments/1p0b2m9/ideal_chunking_strategy/",
+    "total_comments": 3,
+    "top_level_comments": 1,
+    "api_requests": 1,
+    "expected_comments": 3,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_142354.json",
+      "scrape_002_20251118_143328.json",
+      "scrape_003_20251118_144320.json"
+    ]
+  }
+}

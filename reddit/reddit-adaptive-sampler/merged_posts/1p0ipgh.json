@@ -1,0 +1,121 @@
+{
+  "post": {
+    "id": "1p0ipgh",
+    "title": "Zoox to begin offering robotaxi rides to public in San Francisco",
+    "author": "[deleted]",
+    "score_history": [
+      [
+        3,
+        "2025-11-18T13:15:57.072779"
+      ],
+      [
+        2,
+        "2025-11-18T13:48:33.275562"
+      ],
+      [
+        4,
+        "2025-11-18T13:59:51.560689"
+      ],
+      [
+        3,
+        "2025-11-18T14:11:13.168637"
+      ],
+      [
+        3,
+        "2025-11-18T21:29:06.710095"
+      ],
+      [
+        3,
+        "2025-11-18T23:13:59.757899"
+      ],
+      [
+        3,
+        "2025-11-19T00:58:01.607800"
+      ],
+      [
+        0,
+        "2025-11-19T07:22:52.351651"
+      ]
+    ],
+    "created_utc": 1763488237.0,
+    "num_comments": 1,
+    "subreddit": "technology",
+    "url": "",
+    "selftext": "[deleted]",
+    "permalink": "/r/technology/comments/1p0ipgh/zoox_to_begin_offering_robotaxi_rides_to_public/"
+  },
+  "comments": [
+    {
+      "id": "npk97cc",
+      "parent_id": "t3_1p0ipgh",
+      "author": "celtic1888",
+      "text_history": [
+        [
+          "The light bars on those things are crazy bright. It looks like a tank is rolling towards you\n\nIt's also got the chassis of a golf cart so I wouldn't want to be in a wreck in one",
+          "2025-11-18T13:48:33.275562"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T13:48:33.275562"
+        ],
+        [
+          1,
+          "2025-11-18T13:59:51.560689"
+        ],
+        [
+          1,
+          "2025-11-18T14:11:13.168637"
+        ],
+        [
+          1,
+          "2025-11-18T21:29:06.710095"
+        ],
+        [
+          1,
+          "2025-11-18T23:13:59.757899"
+        ],
+        [
+          1,
+          "2025-11-19T00:58:01.607800"
+        ],
+        [
+          1,
+          "2025-11-19T07:22:52.351651"
+        ]
+      ],
+      "created_utc": 1763501067.0,
+      "depth": 0,
+      "permalink": "/r/technology/comments/1p0ipgh/zoox_to_begin_offering_robotaxi_rides_to_public/npk97cc/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T07:22:52.351651",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/technology/comments/1p0ipgh/zoox_to_begin_offering_robotaxi_rides_to_public/",
+    "total_comments": 1,
+    "top_level_comments": 1,
+    "api_requests": 1,
+    "expected_comments": 1,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 8,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_131556.json",
+      "scrape_002_20251118_134833.json",
+      "scrape_003_20251118_135951.json",
+      "scrape_004_20251118_141112.json",
+      "scrape_005_20251118_212906.json",
+      "scrape_006_20251118_231359.json",
+      "scrape_007_20251119_005801.json",
+      "scrape_008_20251119_072252.json"
+    ]
+  }
+}

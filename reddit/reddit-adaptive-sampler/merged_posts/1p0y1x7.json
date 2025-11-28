@@ -1,0 +1,80 @@
+{
+  "post": {
+    "id": "1p0y1x7",
+    "title": "Looking for sponsors",
+    "author": "Slow-Technician1465",
+    "score_history": [
+      [
+        0,
+        "2025-11-19T03:41:50.205085"
+      ],
+      [
+        0,
+        "2025-11-19T03:47:25.979390"
+      ],
+      [
+        0,
+        "2025-11-19T03:48:46.942636"
+      ]
+    ],
+    "created_utc": 1763526590.0,
+    "num_comments": 1,
+    "subreddit": "cybersecurity",
+    "url": "https://www.reddit.com/r/cybersecurity/comments/1p0y1x7/looking_for_sponsors/",
+    "selftext": "I am looking for sponsors to help me get the OSCP+ exam.",
+    "permalink": "/r/cybersecurity/comments/1p0y1x7/looking_for_sponsors/"
+  },
+  "comments": [
+    {
+      "id": "npnb6xw",
+      "parent_id": "t3_1p0y1x7",
+      "author": "levu12",
+      "text_history": [
+        [
+          "Is there a reason for someone to sponsor you? You need to advertise that.\n\nAlso if anyone who knows people in charge of sponsorships is reading this, UofTCTF is looking for sponsors.",
+          "2025-11-19T03:41:50.205085"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T03:41:50.205085"
+        ],
+        [
+          1,
+          "2025-11-19T03:47:25.979390"
+        ],
+        [
+          1,
+          "2025-11-19T03:48:46.942636"
+        ]
+      ],
+      "created_utc": 1763547737.0,
+      "depth": 0,
+      "permalink": "/r/cybersecurity/comments/1p0y1x7/looking_for_sponsors/npnb6xw/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:48:46.942636",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/cybersecurity/comments/1p0y1x7/looking_for_sponsors/",
+    "total_comments": 1,
+    "top_level_comments": 1,
+    "api_requests": 1,
+    "expected_comments": 1,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_034149.json",
+      "scrape_002_20251119_034725.json",
+      "scrape_003_20251119_034846.json"
+    ]
+  }
+}

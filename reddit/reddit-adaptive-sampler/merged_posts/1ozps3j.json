@@ -1,0 +1,826 @@
+{
+  "post": {
+    "id": "1ozps3j",
+    "title": "When should BatchNorm be used and when should LayerNorm be used?",
+    "author": "OmYeole",
+    "score_history": [
+      [
+        30,
+        "2025-11-19T03:18:04.853133"
+      ],
+      [
+        30,
+        "2025-11-19T03:25:23.906519"
+      ],
+      [
+        30,
+        "2025-11-19T03:27:00.165874"
+      ]
+    ],
+    "created_utc": 1763407783.0,
+    "num_comments": 23,
+    "subreddit": "deeplearning",
+    "url": "https://www.reddit.com/r/deeplearning/comments/1ozps3j/when_should_batchnorm_be_used_and_when_should/",
+    "selftext": "Is there any general rule of thumb?",
+    "permalink": "/r/deeplearning/comments/1ozps3j/when_should_batchnorm_be_used_and_when_should/"
+  },
+  "comments": [
+    {
+      "id": "npdjg6r",
+      "parent_id": "t3_1ozps3j",
+      "author": "Leather_Power_1137",
+      "text_history": [
+        [
+          "IMO BatchNorm is archaic and there's really no reason to use it when LayerNorm and GroupNorm exist. It just so happened to be the first intermediate normalization layer we came up with that worked reasonably well, but then others took the idea and applied it in better ways.\n\nI don't have empirical justification but just from a casual theoretical / conceptual standpoint it seems much worse in my opinion to normalize across randomly selected small batches, or to estimate centering and scaling factors using exponential moving averages, than to just normalize across layers, or groups of layers. I also was never able to get comfortable with the idea of \"learning\" centering and scaling factors for BatchNorm layers during training and then freezing them and using them at inference. It feels really sketchy and unjustified.\n\nMaybe this is a hot take but I think in 2025 the people using BatchNorm are doing so because of inertia rather than an actual good reason.",
+          "2025-11-19T03:18:04.853133"
+        ]
+      ],
+      "score_history": [
+        [
+          21,
+          "2025-11-19T03:18:04.853133"
+        ],
+        [
+          20,
+          "2025-11-19T03:25:23.906519"
+        ],
+        [
+          21,
+          "2025-11-19T03:27:00.165874"
+        ]
+      ],
+      "created_utc": 1763411018.0,
+      "depth": 0,
+      "permalink": "/r/deeplearning/comments/1ozps3j/when_should_batchnorm_be_used_and_when_should/npdjg6r/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npeskwq",
+          "parent_id": "t1_npdjg6r",
+          "author": "hammouse",
+          "text_history": [
+            [
+              "I completely agree. I feel like much of the initial idea came from the fact that we typically standardize input features for stability. As we started building bigger models with more layers, poor initialization can lead to very unstable intermediate outputs which hamper learning. So we take the logic of standardizing inputs, start putting in *every* layer, give it a fancy name like \"internal covariate shift\", and we get BatchNorm. \n\nFor OP, this [paper](https://arxiv.org/abs/1805.11604) may be good to look at as it suggests the efficacy of BatchNorm may be in its smoothing effect on the loss surface therefore stabler gradients. Personally, I've had several models where BatchNorm completely kills training (very spiky losses).  Like above, it also feels very theoretically sketchy to me - especially since each sample in a batch is typically assumed i.i.d. so this idea of centering/scaling each batch feels absurd statistically.",
+              "2025-11-19T03:18:04.853133"
+            ]
+          ],
+          "score_history": [
+            [
+              7,
+              "2025-11-19T03:18:04.853133"
+            ],
+            [
+              8,
+              "2025-11-19T03:25:23.906519"
+            ],
+            [
+              8,
+              "2025-11-19T03:27:00.165874"
+            ]
+          ],
+          "created_utc": 1763425597.0,
+          "depth": 1,
+          "permalink": "/r/deeplearning/comments/1ozps3j/when_should_batchnorm_be_used_and_when_should/npeskwq/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npffr36",
+              "parent_id": "t1_npeskwq",
+              "author": "Leather_Power_1137",
+              "text_history": [
+                [
+                  "Well I think the original motivation was really sound, and it's that you do not want inputs to middle layers to decay to zero or blow up to large magnitudes because in either case your activation function gradients go to zero and the model can't learn (or with ReLU the activation function ceases being non-linear). They just picked the wrong dimension to normalize across.",
+                  "2025-11-19T03:18:04.853133"
+                ]
+              ],
+              "score_history": [
+                [
+                  3,
+                  "2025-11-19T03:18:04.853133"
+                ],
+                [
+                  5,
+                  "2025-11-19T03:25:23.906519"
+                ],
+                [
+                  5,
+                  "2025-11-19T03:27:00.165874"
+                ]
+              ],
+              "created_utc": 1763433841.0,
+              "depth": 2,
+              "permalink": "/r/deeplearning/comments/1ozps3j/when_should_batchnorm_be_used_and_when_should/npffr36/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            },
+            {
+              "id": "npgsxzl",
+              "parent_id": "t1_npeskwq",
+              "author": "OmYeole",
+              "text_history": [
+                [
+                  "Thx for paper",
+                  "2025-11-19T03:18:04.853133"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-19T03:18:04.853133"
+                ],
+                [
+                  1,
+                  "2025-11-19T03:25:23.906519"
+                ],
+                [
+                  1,
+                  "2025-11-19T03:27:00.165874"
+                ]
+              ],
+              "created_utc": 1763458350.0,
+              "depth": 2,
+              "permalink": "/r/deeplearning/comments/1ozps3j/when_should_batchnorm_be_used_and_when_should/npgsxzl/",
+              "is_submitter": true,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "npg3os7",
+          "parent_id": "t1_npdjg6r",
+          "author": "xEdwin23x",
+          "text_history": [
+            [
+              "Definitely a hot take, specially considering our theoretical understanding of deep learning is almost completely disconnected from the empirical results.\n\nIn a particular use case I had the BatchNorm model performed much better (relatively) compared to the LayerNorm one across a variety of settings; in certain cases the LayerNorm one would not even converge (NaN loss). This is of course anecdotal but I think simplifying it to LayerNorm &gt; BatchNorm is too absolute.\n\nAlso, from a computational standpoint it's more cheap to just rescale using fixed values (can be even fused with previous or post operators) than computing layer statistics during inference.",
+              "2025-11-19T03:18:04.853133"
+            ]
+          ],
+          "score_history": [
+            [
+              2,
+              "2025-11-19T03:18:04.853133"
+            ],
+            [
+              2,
+              "2025-11-19T03:25:23.906519"
+            ],
+            [
+              2,
+              "2025-11-19T03:27:00.165874"
+            ]
+          ],
+          "created_utc": 1763443659.0,
+          "depth": 1,
+          "permalink": "/r/deeplearning/comments/1ozps3j/when_should_batchnorm_be_used_and_when_should/npg3os7/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npg5udz",
+              "parent_id": "t1_npg3os7",
+              "author": "Leather_Power_1137",
+              "text_history": [
+                [
+                  "I guess it is interesting to hear about counterexamples to my opinion but I do question why LayerNorm would cause a model to diverge while BatchNorm wouldn't.. perhaps a layer ordering issue? Did you ever figure out why the divergence happened or you just switched the norm layer out for a different one and it worked and you moved on?",
+                  "2025-11-19T03:18:04.853133"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-19T03:18:04.853133"
+                ],
+                [
+                  1,
+                  "2025-11-19T03:25:23.906519"
+                ],
+                [
+                  1,
+                  "2025-11-19T03:27:00.165874"
+                ]
+              ],
+              "created_utc": 1763444751.0,
+              "depth": 2,
+              "permalink": "/r/deeplearning/comments/1ozps3j/when_should_batchnorm_be_used_and_when_should/npg5udz/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": [
+                {
+                  "id": "npg6g8r",
+                  "parent_id": "t1_npg5udz",
+                  "author": "xEdwin23x",
+                  "text_history": [
+                    [
+                      "Haven't figured a concrete reason yet. Previously we were looking at the computed statistics of BatchNorm vs LayerNorm but didn't reach a conclusion so we shelved the study temporarily.",
+                      "2025-11-19T03:18:04.853133"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      1,
+                      "2025-11-19T03:18:04.853133"
+                    ],
+                    [
+                      1,
+                      "2025-11-19T03:25:23.906519"
+                    ],
+                    [
+                      1,
+                      "2025-11-19T03:27:00.165874"
+                    ]
+                  ],
+                  "created_utc": 1763445065.0,
+                  "depth": 3,
+                  "permalink": "/r/deeplearning/comments/1ozps3j/when_should_batchnorm_be_used_and_when_should/npg6g8r/",
+                  "is_submitter": false,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "npgx9ru",
+          "parent_id": "t1_npdjg6r",
+          "author": "aegismuzuz",
+          "text_history": [
+            [
+              "That sketchy feeling likely comes from BatchNorm's core assumption: that your random mini-batch is a good statistical proxy for the entire dataset. For most tasks that's just not true.\n\nLayerNorm is much more honest in that regard; it makes no assumptions about its neighbors in the batch, which makes it more robust and predictable",
+              "2025-11-19T03:18:04.853133"
+            ]
+          ],
+          "score_history": [
+            [
+              2,
+              "2025-11-19T03:18:04.853133"
+            ],
+            [
+              2,
+              "2025-11-19T03:25:23.906519"
+            ],
+            [
+              2,
+              "2025-11-19T03:27:00.165874"
+            ]
+          ],
+          "created_utc": 1763461040.0,
+          "depth": 1,
+          "permalink": "/r/deeplearning/comments/1ozps3j/when_should_batchnorm_be_used_and_when_should/npgx9ru/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npf2ljz",
+      "parent_id": "t3_1ozps3j",
+      "author": "daking999",
+      "text_history": [
+        [
+          "personally i like to do x = F.batch\\_norm(x) if torch.rand() &lt; 0.5 else F.layer\\_norm(x)\n\nkeep everyone guessing",
+          "2025-11-19T03:18:04.853133"
+        ]
+      ],
+      "score_history": [
+        [
+          10,
+          "2025-11-19T03:18:04.853133"
+        ],
+        [
+          8,
+          "2025-11-19T03:25:23.906519"
+        ],
+        [
+          8,
+          "2025-11-19T03:27:00.165874"
+        ]
+      ],
+      "created_utc": 1763429163.0,
+      "depth": 0,
+      "permalink": "/r/deeplearning/comments/1ozps3j/when_should_batchnorm_be_used_and_when_should/npf2ljz/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npkpit7",
+          "parent_id": "t1_npf2ljz",
+          "author": "salehrayan246",
+          "text_history": [
+            [
+              "You did the worst of both worlds",
+              "2025-11-19T03:18:04.853133"
+            ]
+          ],
+          "score_history": [
+            [
+              3,
+              "2025-11-19T03:18:04.853133"
+            ],
+            [
+              3,
+              "2025-11-19T03:25:23.906519"
+            ],
+            [
+              3,
+              "2025-11-19T03:27:00.165874"
+            ]
+          ],
+          "created_utc": 1763506175.0,
+          "depth": 1,
+          "permalink": "/r/deeplearning/comments/1ozps3j/when_should_batchnorm_be_used_and_when_should/npkpit7/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npks9ub",
+              "parent_id": "t1_npkpit7",
+              "author": "daking999",
+              "text_history": [
+                [
+                  "Almost surely.",
+                  "2025-11-19T03:18:04.853133"
+                ]
+              ],
+              "score_history": [
+                [
+                  2,
+                  "2025-11-19T03:18:04.853133"
+                ],
+                [
+                  2,
+                  "2025-11-19T03:25:23.906519"
+                ],
+                [
+                  2,
+                  "2025-11-19T03:27:00.165874"
+                ]
+              ],
+              "created_utc": 1763507108.0,
+              "depth": 2,
+              "permalink": "/r/deeplearning/comments/1ozps3j/when_should_batchnorm_be_used_and_when_should/npks9ub/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "npeizdz",
+      "parent_id": "t3_1ozps3j",
+      "author": "Pyrrolic_Victory",
+      "text_history": [
+        [
+          "I was playing around with this and trying to figure out why my model seemed to have a learning disability. It was because I had added a batchnorm in, replacing it with layernorm fixed the problem. Anecdotal? Yes, but did it make sense once I looked into the logic and theory? Also yes",
+          "2025-11-19T03:18:04.853133"
+        ]
+      ],
+      "score_history": [
+        [
+          4,
+          "2025-11-19T03:18:04.853133"
+        ],
+        [
+          5,
+          "2025-11-19T03:25:23.906519"
+        ],
+        [
+          5,
+          "2025-11-19T03:27:00.165874"
+        ]
+      ],
+      "created_utc": 1763422246.0,
+      "depth": 0,
+      "permalink": "/r/deeplearning/comments/1ozps3j/when_should_batchnorm_be_used_and_when_should/npeizdz/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npf656f",
+          "parent_id": "t1_npeizdz",
+          "author": "Effective-Law-4003",
+          "text_history": [
+            [
+              "Batch norm is arbitrary I mean why are we normalising over batch size or any size. Normalize over the dimensions of the model not how much data it processes. And I hope you guys are doing hard learning and recursion on you llms - same price as batch learning.",
+              "2025-11-19T03:18:04.853133"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-19T03:18:04.853133"
+            ],
+            [
+              1,
+              "2025-11-19T03:25:23.906519"
+            ],
+            [
+              1,
+              "2025-11-19T03:27:00.165874"
+            ]
+          ],
+          "created_utc": 1763430456.0,
+          "depth": 1,
+          "permalink": "/r/deeplearning/comments/1ozps3j/when_should_batchnorm_be_used_and_when_should/npf656f/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npffwk9",
+              "parent_id": "t1_npf656f",
+              "author": "Pyrrolic_Victory",
+              "text_history": [
+                [
+                  "I’m not doing LLM, I’m using a conv net into a transformer to analyse instrument signals for chemicals combined with their chemical structures and instrument method details for multimodal input.",
+                  "2025-11-19T03:18:04.853133"
+                ]
+              ],
+              "score_history": [
+                [
+                  2,
+                  "2025-11-19T03:18:04.853133"
+                ],
+                [
+                  2,
+                  "2025-11-19T03:25:23.906519"
+                ],
+                [
+                  2,
+                  "2025-11-19T03:27:00.165874"
+                ]
+              ],
+              "created_utc": 1763433893.0,
+              "depth": 2,
+              "permalink": "/r/deeplearning/comments/1ozps3j/when_should_batchnorm_be_used_and_when_should/npffwk9/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": [
+                {
+                  "id": "npij61x",
+                  "parent_id": "t1_npffwk9",
+                  "author": "Effective-Law-4003",
+                  "text_history": [
+                    [
+                      "Wow sounds interesting. But to me the same applies batch norm should not be used. Normalise on dim of model.",
+                      "2025-11-19T03:18:04.853133"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      1,
+                      "2025-11-19T03:18:04.853133"
+                    ],
+                    [
+                      1,
+                      "2025-11-19T03:25:23.906519"
+                    ],
+                    [
+                      1,
+                      "2025-11-19T03:27:00.165874"
+                    ]
+                  ],
+                  "created_utc": 1763482763.0,
+                  "depth": 3,
+                  "permalink": "/r/deeplearning/comments/1ozps3j/when_should_batchnorm_be_used_and_when_should/npij61x/",
+                  "is_submitter": false,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "npgzfpx",
+          "parent_id": "t1_npeizdz",
+          "author": "aegismuzuz",
+          "text_history": [
+            [
+              "In stories like this BatchNorm's dependency on batch size is almost always the culprit. You likely used a different batch size during training versus validation, which skewed the running statistics. \n\nLayerNorm is indifferent to batch size, which is exactly why it's a much safer and more predictable choice from an MLOps perspective, especially for systems where the batch size can vary (like in real-time inference)",
+              "2025-11-19T03:18:04.853133"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-19T03:18:04.853133"
+            ],
+            [
+              1,
+              "2025-11-19T03:25:23.906519"
+            ],
+            [
+              1,
+              "2025-11-19T03:27:00.165874"
+            ]
+          ],
+          "created_utc": 1763462344.0,
+          "depth": 1,
+          "permalink": "/r/deeplearning/comments/1ozps3j/when_should_batchnorm_be_used_and_when_should/npgzfpx/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "nphmwjl",
+              "parent_id": "t1_npgzfpx",
+              "author": "Pyrrolic_Victory",
+              "text_history": [
+                [
+                  "Oooo yep you right. In training I was doing gradient accumulation for 2 or 3 batches, and in validation I wasn’t. Batch size was technically the same but it was accumulating the gradient over 3 batches for training, does that explain it?",
+                  "2025-11-19T03:18:04.853133"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-19T03:18:04.853133"
+                ],
+                [
+                  1,
+                  "2025-11-19T03:25:23.906519"
+                ],
+                [
+                  1,
+                  "2025-11-19T03:27:00.165874"
+                ]
+              ],
+              "created_utc": 1763472778.0,
+              "depth": 2,
+              "permalink": "/r/deeplearning/comments/1ozps3j/when_should_batchnorm_be_used_and_when_should/nphmwjl/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "npgvhv2",
+      "parent_id": "t3_1ozps3j",
+      "author": "aegismuzuz",
+      "text_history": [
+        [
+          "The main difference is in their worldview. BatchNorm assumes all examples in a batch are similar. It looks at feature #5 (e.g., the activation from a \"vertical line\" filter) and normalizes it across all 32 images in the batch - works great for CV.\n\nLayerNorm doesn't trust the batch at all. It looks at a single example (e.g., one sentence) and normalizes all of its features (all 768 dimensions of an embedding) against each other. It treats each example as its own universe. For NLP, where sequence lengths and content are all over the place, this is the only sane approach",
+          "2025-11-19T03:18:04.853133"
+        ]
+      ],
+      "score_history": [
+        [
+          5,
+          "2025-11-19T03:18:04.853133"
+        ],
+        [
+          5,
+          "2025-11-19T03:25:23.906519"
+        ],
+        [
+          6,
+          "2025-11-19T03:27:00.165874"
+        ]
+      ],
+      "created_utc": 1763459958.0,
+      "depth": 0,
+      "permalink": "/r/deeplearning/comments/1ozps3j/when_should_batchnorm_be_used_and_when_should/npgvhv2/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "nphls9a",
+          "parent_id": "t1_npgvhv2",
+          "author": "OmYeole",
+          "text_history": [
+            [
+              "However, I am still amazed by why BatchNorm works well for CV tasks and why LayerNorm works well for NLP tasks.",
+              "2025-11-19T03:18:04.853133"
+            ]
+          ],
+          "score_history": [
+            [
+              3,
+              "2025-11-19T03:18:04.853133"
+            ],
+            [
+              3,
+              "2025-11-19T03:25:23.906519"
+            ],
+            [
+              3,
+              "2025-11-19T03:27:00.165874"
+            ]
+          ],
+          "created_utc": 1763472405.0,
+          "depth": 1,
+          "permalink": "/r/deeplearning/comments/1ozps3j/when_should_batchnorm_be_used_and_when_should/nphls9a/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npg90hk",
+      "parent_id": "t3_1ozps3j",
+      "author": "KeyChampionship9113",
+      "text_history": [
+        [
+          "Batch norm for CNN conputer vision since images across batches share similar pixels and values \n\nLayer norm for RNN transformer type due to different sequence length across batches",
+          "2025-11-19T03:18:04.853133"
+        ]
+      ],
+      "score_history": [
+        [
+          8,
+          "2025-11-19T03:18:04.853133"
+        ],
+        [
+          8,
+          "2025-11-19T03:25:23.906519"
+        ],
+        [
+          7,
+          "2025-11-19T03:27:00.165874"
+        ]
+      ],
+      "created_utc": 1763446430.0,
+      "depth": 0,
+      "permalink": "/r/deeplearning/comments/1ozps3j/when_should_batchnorm_be_used_and_when_should/npg90hk/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npmc89i",
+      "parent_id": "t3_1ozps3j",
+      "author": "retoxite",
+      "text_history": [
+        [
+          "BatchNorm can be easily fused into a Conv, making it faster for edge devices. Many backends do it automatically. LayerNorm cannot be fused.",
+          "2025-11-19T03:18:04.853133"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T03:18:04.853133"
+        ],
+        [
+          1,
+          "2025-11-19T03:25:23.906519"
+        ],
+        [
+          1,
+          "2025-11-19T03:27:00.165874"
+        ]
+      ],
+      "created_utc": 1763527848.0,
+      "depth": 0,
+      "permalink": "/r/deeplearning/comments/1ozps3j/when_should_batchnorm_be_used_and_when_should/npmc89i/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npds6fg",
+      "parent_id": "t3_1ozps3j",
+      "author": "john0201",
+      "text_history": [
+        [
+          "I am using groupnorm in a convLSTM I am working on and it seems to be the best option.\n\nBatchnorm I would think doesn’t work well with small batches, so unless you have 96GB+ (or a Mac) seems like not one you’d use often.",
+          "2025-11-19T03:18:04.853133"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T03:18:04.853133"
+        ],
+        [
+          1,
+          "2025-11-19T03:25:23.906519"
+        ],
+        [
+          1,
+          "2025-11-19T03:27:00.165874"
+        ]
+      ],
+      "created_utc": 1763413684.0,
+      "depth": 0,
+      "permalink": "/r/deeplearning/comments/1ozps3j/when_should_batchnorm_be_used_and_when_should/npds6fg/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:27:00.165874",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/deeplearning/comments/1ozps3j/when_should_batchnorm_be_used_and_when_should/",
+    "total_comments": 22,
+    "top_level_comments": 7,
+    "api_requests": 1,
+    "expected_comments": 23,
+    "coverage_percent": 95.65,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_031804.json",
+      "scrape_002_20251119_032523.json",
+      "scrape_003_20251119_032659.json"
+    ]
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "post": {
+    "id": "1p0e7dk",
+    "title": "Long Term Memory - Mem0/Zep/LangMem - what made you choose it?",
+    "author": "nicoloboschi",
+    "score_history": [
+      [
+        2,
+        "2025-11-19T03:18:05.283689"
+      ],
+      [
+        2,
+        "2025-11-19T03:25:39.398619"
+      ],
+      [
+        2,
+        "2025-11-19T03:27:14.068900"
+      ]
+    ],
+    "created_utc": 1763478144.0,
+    "num_comments": 1,
+    "subreddit": "PromptEngineering",
+    "url": "https://www.reddit.com/r/PromptEngineering/comments/1p0e7dk/long_term_memory_mem0zeplangmem_what_made_you/",
+    "selftext": "I'm evaluating memory solutions for AI agents and curious about real-world experiences.\n\nFor those using Mem0, Zep, or similar tools:\n\n\\- What initially attracted you to it?\n\n\\- What's working well?\n\n\\- What pain points remain?\n\n\\- What would make you switch to something else?",
+    "permalink": "/r/PromptEngineering/comments/1p0e7dk/long_term_memory_mem0zeplangmem_what_made_you/"
+  },
+  "comments": [
+    {
+      "id": "npjpvz3",
+      "parent_id": "t3_1p0e7dk",
+      "author": "FreshRadish2957",
+      "text_history": [
+        [
+          "Most people overthink long term memory. The real choice usually comes down to what you need the system to remember and how stable you want that memory to be.\n\nMem0 is good if you want something quick to set up with decent human readable memory. Zep is stronger if you want vector search and heavier data storage to scale later. LangMem is the safest option if you want structure and cleaner context rules.\n\nI look at the pain points like this:\n\nMem0\nGood for small personal projects or lightweight agents. Gets messy once storage grows.\n\nZep\nSolid retrieval. Needs a bit more setup work. Better for bigger projects.\n\nLangMem\nMost consistent behaviour but feels slower to adapt. Good if you want predictable output.\n\nIf you share what type of agent you’re building or what kind of memory you want to store, I can point you to the best one for your use case.",
+          "2025-11-19T03:18:05.283689"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-19T03:18:05.283689"
+        ],
+        [
+          2,
+          "2025-11-19T03:25:39.398619"
+        ],
+        [
+          2,
+          "2025-11-19T03:27:14.068900"
+        ]
+      ],
+      "created_utc": 1763495264.0,
+      "depth": 0,
+      "permalink": "/r/PromptEngineering/comments/1p0e7dk/long_term_memory_mem0zeplangmem_what_made_you/npjpvz3/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:27:14.068900",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/PromptEngineering/comments/1p0e7dk/long_term_memory_mem0zeplangmem_what_made_you/",
+    "total_comments": 1,
+    "top_level_comments": 1,
+    "api_requests": 1,
+    "expected_comments": 1,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_031805.json",
+      "scrape_002_20251119_032539.json",
+      "scrape_003_20251119_032713.json"
+    ]
+  }
+}

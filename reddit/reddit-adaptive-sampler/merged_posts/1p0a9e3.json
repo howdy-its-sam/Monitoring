@@ -1,0 +1,80 @@
+{
+  "post": {
+    "id": "1p0a9e3",
+    "title": "Discussion - Did vector databases live up to the hype?",
+    "author": "Creepy-Row970",
+    "score_history": [
+      [
+        5,
+        "2025-11-18T14:22:03.793960"
+      ],
+      [
+        4,
+        "2025-11-18T14:32:45.966029"
+      ],
+      [
+        5,
+        "2025-11-18T14:42:45.442374"
+      ]
+    ],
+    "created_utc": 1763467779.0,
+    "num_comments": 1,
+    "subreddit": "ChatGPTCoding",
+    "url": "https://venturebeat.com/ai/from-shiny-object-to-sober-reality-the-vector-database-story-two-years-later",
+    "selftext": "Curious to know more from the audience about your opinions regarding this article. I definitely agree that vector databases these days alone might not be 100% useful, especially as we are moving towards agentic / graph approaches but there a lot of niche use-cases where a simple vector search is enough - like image / audio embeddings are still use-ful. Companies needing a basic RAG support is still a very viable use-case for a pure vector search.\n\n  \n",
+    "permalink": "/r/ChatGPTCoding/comments/1p0a9e3/discussion_did_vector_databases_live_up_to_the/"
+  },
+  "comments": [
+    {
+      "id": "nphwkxb",
+      "parent_id": "t3_1p0a9e3",
+      "author": "Western_Objective209",
+      "text_history": [
+        [
+          "There's never really a case when pure vector is better than hybrid, so should definitely be taken into account. I built out a RAG for my dept, we have about 1 billion tokens of pretty high quality documentation, and it works extremely well. I think companies with good documentation are going to see a lot of benefits, and those without it are going to see little gain",
+          "2025-11-18T14:22:03.793960"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-18T14:22:03.793960"
+        ],
+        [
+          2,
+          "2025-11-18T14:32:45.966029"
+        ],
+        [
+          2,
+          "2025-11-18T14:42:45.442374"
+        ]
+      ],
+      "created_utc": 1763475878.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTCoding/comments/1p0a9e3/discussion_did_vector_databases_live_up_to_the/nphwkxb/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-18T14:42:45.442374",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/ChatGPTCoding/comments/1p0a9e3/discussion_did_vector_databases_live_up_to_the/",
+    "total_comments": 1,
+    "top_level_comments": 1,
+    "api_requests": 1,
+    "expected_comments": 1,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_142203.json",
+      "scrape_002_20251118_143245.json",
+      "scrape_003_20251118_144245.json"
+    ]
+  }
+}

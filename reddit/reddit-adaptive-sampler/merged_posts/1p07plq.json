@@ -1,0 +1,80 @@
+{
+  "post": {
+    "id": "1p07plq",
+    "title": "Recovering a chatgpt account tied to a deleted Google account",
+    "author": "SunsetLoverHealing",
+    "score_history": [
+      [
+        2,
+        "2025-11-18T15:07:41.118385"
+      ],
+      [
+        2,
+        "2025-11-18T15:14:32.306120"
+      ],
+      [
+        2,
+        "2025-11-18T15:16:37.183351"
+      ]
+    ],
+    "created_utc": 1763458750.0,
+    "num_comments": 1,
+    "subreddit": "ChatGPTPro",
+    "url": "https://www.reddit.com/r/ChatGPTPro/comments/1p07plq/recovering_a_chatgpt_account_tied_to_a_deleted/",
+    "selftext": "Hi\n\nI am not sure if my question fits here but I had a chatgpt account associated with a google acc I have already deleted and it's no longer possible to recover it. \n\nNow that I tried to log in, (I know the password), it requires entering a verification code sent to the mail adress which no longer exists. I tried to contact customer service but couldn't really find how.\n\nAnyone knows what I can do?\n\n",
+    "permalink": "/r/ChatGPTPro/comments/1p07plq/recovering_a_chatgpt_account_tied_to_a_deleted/"
+  },
+  "comments": [
+    {
+      "id": "npgtk7l",
+      "parent_id": "t3_1p07plq",
+      "author": "qualityvote2",
+      "text_history": [
+        [
+          "Hello u/SunsetLoverHealing 👋 Welcome to r/ChatGPTPro!  \nThis is a community for advanced ChatGPT, AI tools, and prompt engineering discussions.  \nOther members will now vote on whether your post fits our community guidelines.\n\n\n---\n\nFor other users, does this post fit the subreddit?\n\nIf so, **upvote this comment!**\n\nOtherwise, **downvote this comment!**\n\nAnd if it does break the rules, **downvote this comment and report this post!**",
+          "2025-11-18T15:07:41.118385"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T15:07:41.118385"
+        ],
+        [
+          1,
+          "2025-11-18T15:14:32.306120"
+        ],
+        [
+          1,
+          "2025-11-18T15:16:37.183351"
+        ]
+      ],
+      "created_utc": 1763458751.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTPro/comments/1p07plq/recovering_a_chatgpt_account_tied_to_a_deleted/npgtk7l/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-18T15:16:37.183351",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/ChatGPTPro/comments/1p07plq/recovering_a_chatgpt_account_tied_to_a_deleted/",
+    "total_comments": 1,
+    "top_level_comments": 1,
+    "api_requests": 1,
+    "expected_comments": 1,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_150740.json",
+      "scrape_002_20251118_151432.json",
+      "scrape_003_20251118_151636.json"
+    ]
+  }
+}

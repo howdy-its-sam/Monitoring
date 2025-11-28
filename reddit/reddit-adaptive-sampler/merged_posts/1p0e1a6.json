@@ -1,0 +1,54 @@
+{
+  "post": {
+    "id": "1p0e1a6",
+    "title": "AI Sports Book App",
+    "author": "DaCosmicOne",
+    "score_history": [
+      [
+        0,
+        "2025-11-18T13:49:49.899946"
+      ],
+      [
+        0,
+        "2025-11-18T14:00:58.091259"
+      ],
+      [
+        0,
+        "2025-11-18T14:12:21.121188"
+      ],
+      [
+        0,
+        "2025-11-18T22:00:00.865140"
+      ],
+      [
+        0,
+        "2025-11-19T07:12:22.703332"
+      ]
+    ],
+    "created_utc": 1763477754.0,
+    "num_comments": 0,
+    "subreddit": "PromptEngineering",
+    "url": "https://www.reddit.com/r/PromptEngineering/comments/1p0e1a6/ai_sports_book_app/",
+    "selftext": "I want to build an app with ai that runs all the daily sports book odds in real time and separates them in 3 categories (1. Overall odds, 2. Odds where Vegas Wins, 3. Odds where Vegas Loses) which AI will help me with that cuzz open ai won’t touch shit that involves gambling.\n\n\nIs there a prompt for that???",
+    "permalink": "/r/PromptEngineering/comments/1p0e1a6/ai_sports_book_app/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T07:12:22.703332",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/PromptEngineering/comments/1p0e1a6/ai_sports_book_app/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 5,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_134949.json",
+      "scrape_002_20251118_140057.json",
+      "scrape_003_20251118_141220.json",
+      "scrape_004_20251118_220000.json",
+      "scrape_005_20251119_071222.json"
+    ]
+  }
+}

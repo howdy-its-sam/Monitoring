@@ -1,0 +1,107 @@
+{
+  "post": {
+    "id": "1p02d9s",
+    "title": "Launching: a script generator that learns your style + tracks trends for your niche videos",
+    "author": "cgmaster07",
+    "score_history": [
+      [
+        3,
+        "2025-11-18T14:53:56.790135"
+      ],
+      [
+        3,
+        "2025-11-18T15:04:12.039484"
+      ],
+      [
+        3,
+        "2025-11-18T15:05:39.602954"
+      ],
+      [
+        3,
+        "2025-11-18T22:42:38.389402"
+      ],
+      [
+        3,
+        "2025-11-19T00:26:38.417064"
+      ],
+      [
+        3,
+        "2025-11-19T02:01:32.538656"
+      ]
+    ],
+    "created_utc": 1763439444.0,
+    "num_comments": 1,
+    "subreddit": "LangChain",
+    "url": "https://www.reddit.com/r/LangChain/comments/1p02d9s/launching_a_script_generator_that_learns_your/",
+    "selftext": "Hey everyone 👋  \nI’m the founder of **Artilow** . Built for creators, influencers &amp; brands making short-form videos.\n\n**Here’s what it does:**\n\n* Analyses your past scripts/posts so your tone stays consistent.\n* Lets you choose tone + audience + duration + language.\n* Generates ready-to-use scripts for reels/shorts.\n* SyncTrend: tracks current trends around your topic so your content is timely.\n* Multiple-model facility: keeps past context for consistency across videos.\n\nIf you make reels/shorts:\n\n* Give it a try and tell me what works / what’s missing.\n* What extra tone/audience/language options would you love?\n* What’s your hardest part of script-writing now?\n* What would make you pay for a tool like this?\n\nThanks so much — excited to hear your thoughts!!",
+    "permalink": "/r/LangChain/comments/1p02d9s/launching_a_script_generator_that_learns_your/"
+  },
+  "comments": [
+    {
+      "id": "npfujhv",
+      "parent_id": "t3_1p02d9s",
+      "author": "cgmaster07",
+      "text_history": [
+        [
+          "![gif](giphy|s6U8VsORvbEezlbf8s)",
+          "2025-11-18T14:53:56.790135"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-18T14:53:56.790135"
+        ],
+        [
+          2,
+          "2025-11-18T15:04:12.039484"
+        ],
+        [
+          2,
+          "2025-11-18T15:05:39.602954"
+        ],
+        [
+          2,
+          "2025-11-18T22:42:38.389402"
+        ],
+        [
+          2,
+          "2025-11-19T00:26:38.417064"
+        ],
+        [
+          2,
+          "2025-11-19T02:01:32.538656"
+        ]
+      ],
+      "created_utc": 1763439476.0,
+      "depth": 0,
+      "permalink": "/r/LangChain/comments/1p02d9s/launching_a_script_generator_that_learns_your/npfujhv/",
+      "is_submitter": true,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T02:01:32.538656",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/LangChain/comments/1p02d9s/launching_a_script_generator_that_learns_your/",
+    "total_comments": 1,
+    "top_level_comments": 1,
+    "api_requests": 1,
+    "expected_comments": 1,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 6,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_145356.json",
+      "scrape_002_20251118_150411.json",
+      "scrape_003_20251118_150539.json",
+      "scrape_004_20251118_224238.json",
+      "scrape_005_20251119_002638.json",
+      "scrape_006_20251119_020132.json"
+    ]
+  }
+}

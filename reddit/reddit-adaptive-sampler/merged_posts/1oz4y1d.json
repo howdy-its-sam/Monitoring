@@ -1,0 +1,203 @@
+{
+  "post": {
+    "id": "1oz4y1d",
+    "title": "Ultra-strict Python template v2 (uv + ruff + basedpyright)",
+    "author": "Ranteck",
+    "score_history": [
+      [
+        4,
+        "2025-11-18T13:49:48.226257"
+      ],
+      [
+        4,
+        "2025-11-18T14:01:00.339940"
+      ],
+      [
+        4,
+        "2025-11-18T14:12:15.367387"
+      ],
+      [
+        4,
+        "2025-11-18T21:49:49.075795"
+      ],
+      [
+        5,
+        "2025-11-18T23:24:21.953820"
+      ],
+      [
+        3,
+        "2025-11-19T01:08:30.379085"
+      ]
+    ],
+    "created_utc": 1763347658.0,
+    "num_comments": 3,
+    "subreddit": "LangChain",
+    "url": "/r/Python/comments/1oz4x0f/ultrastrict_python_template_v2_uv_ruff/",
+    "selftext": "",
+    "permalink": "/r/LangChain/comments/1oz4y1d/ultrastrict_python_template_v2_uv_ruff/"
+  },
+  "comments": [
+    {
+      "id": "np9u7k7",
+      "parent_id": "t3_1oz4y1d",
+      "author": "absqroot",
+      "text_history": [
+        [
+          "why is this related to Langchain though",
+          "2025-11-18T13:49:48.226257"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T13:49:48.226257"
+        ],
+        [
+          1,
+          "2025-11-18T14:01:00.339940"
+        ],
+        [
+          1,
+          "2025-11-18T14:12:15.367387"
+        ],
+        [
+          1,
+          "2025-11-18T21:49:49.075795"
+        ],
+        [
+          1,
+          "2025-11-18T23:24:21.953820"
+        ],
+        [
+          1,
+          "2025-11-19T01:08:30.379085"
+        ]
+      ],
+      "created_utc": 1763357646.0,
+      "depth": 0,
+      "permalink": "/r/LangChain/comments/1oz4y1d/ultrastrict_python_template_v2_uv_ruff/np9u7k7/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npan7bh",
+          "parent_id": "t1_np9u7k7",
+          "author": "Ranteck",
+          "text_history": [
+            [
+              "Because is python and I want to help to new develops. If it bothers, I'll delete it.",
+              "2025-11-18T13:49:48.226257"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T13:49:48.226257"
+            ],
+            [
+              1,
+              "2025-11-18T14:01:00.339940"
+            ],
+            [
+              1,
+              "2025-11-18T14:12:15.367387"
+            ],
+            [
+              1,
+              "2025-11-18T21:49:49.075795"
+            ],
+            [
+              1,
+              "2025-11-18T23:24:21.953820"
+            ],
+            [
+              1,
+              "2025-11-19T01:08:30.379085"
+            ]
+          ],
+          "created_utc": 1763374976.0,
+          "depth": 1,
+          "permalink": "/r/LangChain/comments/1oz4y1d/ultrastrict_python_template_v2_uv_ruff/npan7bh/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npapfv1",
+              "parent_id": "t1_npan7bh",
+              "author": "absqroot",
+              "text_history": [
+                [
+                  "No it’s fine I like your template I was just curious",
+                  "2025-11-18T13:49:48.226257"
+                ]
+              ],
+              "score_history": [
+                [
+                  2,
+                  "2025-11-18T13:49:48.226257"
+                ],
+                [
+                  2,
+                  "2025-11-18T14:01:00.339940"
+                ],
+                [
+                  2,
+                  "2025-11-18T14:12:15.367387"
+                ],
+                [
+                  2,
+                  "2025-11-18T21:49:49.075795"
+                ],
+                [
+                  2,
+                  "2025-11-18T23:24:21.953820"
+                ],
+                [
+                  2,
+                  "2025-11-19T01:08:30.379085"
+                ]
+              ],
+              "created_utc": 1763376337.0,
+              "depth": 2,
+              "permalink": "/r/LangChain/comments/1oz4y1d/ultrastrict_python_template_v2_uv_ruff/npapfv1/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T01:08:30.379085",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/LangChain/comments/1oz4y1d/ultrastrict_python_template_v2_uv_ruff/",
+    "total_comments": 3,
+    "top_level_comments": 1,
+    "api_requests": 1,
+    "expected_comments": 3,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 6,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_134947.json",
+      "scrape_002_20251118_140059.json",
+      "scrape_003_20251118_141215.json",
+      "scrape_004_20251118_214948.json",
+      "scrape_005_20251118_232421.json",
+      "scrape_006_20251119_010830.json"
+    ]
+  }
+}

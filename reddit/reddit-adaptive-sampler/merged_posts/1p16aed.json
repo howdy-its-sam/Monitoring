@@ -1,0 +1,167 @@
+{
+  "post": {
+    "id": "1p16aed",
+    "title": "Need help for a small research.",
+    "author": "No_Lunch_5610",
+    "score_history": [
+      [
+        1,
+        "2025-11-19T04:28:21.518035"
+      ],
+      [
+        1,
+        "2025-11-19T04:31:05.047477"
+      ],
+      [
+        1,
+        "2025-11-19T04:31:40.869692"
+      ],
+      [
+        1,
+        "2025-11-19T04:32:07.227917"
+      ],
+      [
+        1,
+        "2025-11-19T04:32:28.612974"
+      ],
+      [
+        1,
+        "2025-11-19T04:32:49.796469"
+      ],
+      [
+        1,
+        "2025-11-19T04:33:11.250900"
+      ]
+    ],
+    "created_utc": 1763555036.0,
+    "num_comments": 2,
+    "subreddit": "DigitalMarketing",
+    "url": "https://www.reddit.com/r/DigitalMarketing/comments/1p16aed/need_help_for_a_small_research/",
+    "selftext": "I have few questions for all of you. What are your MoM change in\n\n1. AI Traffic share increment?\n2. Decrease in Organic (Google) Traffic? \n3. In Addition, if you have received a lead from AI platform, how much time it took to convert and how much time it took earlier? Is there a difference?",
+    "permalink": "/r/DigitalMarketing/comments/1p16aed/need_help_for_a_small_research/"
+  },
+  "comments": [
+    {
+      "id": "npnp5gq",
+      "parent_id": "t3_1p16aed",
+      "author": "AutoModerator",
+      "text_history": [
+        [
+          "[If this post doesn't follow the rules report it to the mods](https://www.reddit.com/r/DigitalMarketing/about/rules/). Have more questions? [Join our community Discord!](https://discord.gg/looking-for-marketing-discussion-811236647760298024)\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/DigitalMarketing) if you have any questions or concerns.*",
+          "2025-11-19T04:28:21.518035"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T04:28:21.518035"
+        ],
+        [
+          1,
+          "2025-11-19T04:31:05.047477"
+        ],
+        [
+          1,
+          "2025-11-19T04:31:40.869692"
+        ],
+        [
+          1,
+          "2025-11-19T04:32:07.227917"
+        ],
+        [
+          1,
+          "2025-11-19T04:32:28.612974"
+        ],
+        [
+          1,
+          "2025-11-19T04:32:49.796469"
+        ],
+        [
+          1,
+          "2025-11-19T04:33:11.250900"
+        ]
+      ],
+      "created_utc": 1763555036.0,
+      "depth": 0,
+      "permalink": "/r/DigitalMarketing/comments/1p16aed/need_help_for_a_small_research/npnp5gq/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npnp5if",
+      "parent_id": "t3_1p16aed",
+      "author": "AutoModerator",
+      "text_history": [
+        [
+          "Are you a marketing professional and have 15 minutes to share your insights? [Take our 2025 State of Marketing Survey](https://lookingformarketing.com/survey?utm_source=reddit&amp;utm_medium=social&amp;utm_campaign=survey&amp;utm_content=r_digitalmarketing).\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/DigitalMarketing) if you have any questions or concerns.*",
+          "2025-11-19T04:28:21.518035"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T04:28:21.518035"
+        ],
+        [
+          1,
+          "2025-11-19T04:31:05.047477"
+        ],
+        [
+          1,
+          "2025-11-19T04:31:40.869692"
+        ],
+        [
+          1,
+          "2025-11-19T04:32:07.227917"
+        ],
+        [
+          1,
+          "2025-11-19T04:32:28.612974"
+        ],
+        [
+          1,
+          "2025-11-19T04:32:49.796469"
+        ],
+        [
+          1,
+          "2025-11-19T04:33:11.250900"
+        ]
+      ],
+      "created_utc": 1763555037.0,
+      "depth": 0,
+      "permalink": "/r/DigitalMarketing/comments/1p16aed/need_help_for_a_small_research/npnp5if/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T04:33:11.250900",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/DigitalMarketing/comments/1p16aed/need_help_for_a_small_research/",
+    "total_comments": 2,
+    "top_level_comments": 2,
+    "api_requests": 1,
+    "expected_comments": 2,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 7,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_042821.json",
+      "scrape_002_20251119_043104.json",
+      "scrape_003_20251119_043140.json",
+      "scrape_004_20251119_043207.json",
+      "scrape_005_20251119_043228.json",
+      "scrape_006_20251119_043249.json",
+      "scrape_007_20251119_043311.json"
+    ]
+  }
+}

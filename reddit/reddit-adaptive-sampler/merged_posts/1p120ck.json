@@ -1,0 +1,44 @@
+{
+  "post": {
+    "id": "1p120ck",
+    "title": "I keep seeing drama on AI Threads about people “stealing prompts”",
+    "author": "Background-Pirate250",
+    "score_history": [
+      [
+        4,
+        "2025-11-19T03:28:54.653993"
+      ],
+      [
+        4,
+        "2025-11-19T03:37:52.348366"
+      ],
+      [
+        3,
+        "2025-11-19T03:39:38.705451"
+      ]
+    ],
+    "created_utc": 1763540528.0,
+    "num_comments": 2,
+    "subreddit": "PromptEngineering",
+    "url": "https://www.reddit.com/r/PromptEngineering/comments/1p120ck/i_keep_seeing_drama_on_ai_threads_about_people/",
+    "selftext": "Some creators are reporting others, shouting that someone copied their work, and demanding credit or watermarks. Let’s be real for a moment 👇🏻😩\n\nA prompt is plain text. It is not a novel, not a painting, and not a protected piece of art. It is a set of instructions for an AI. When you publish that text publicly for free, you cannot complain when someone else uses it.\n\nIf you don’t want people using your prompt, stop posting it publicly. Nobody asked you to give it away 🤷‍♀️\n\nAnd if someone sells a prompt that produces a similar output to yours, that does not automatically mean they stole anything. Many people are not prompt engineers, so they assume their basic text is unique. In reality, many creators reach similar outputs with completely different logic. Thinking your prompt is so special that everyone wants to copy it is a bit delusional.\n\nI am also a prompt creator. To avoid this nonsense, I keep my logic private. I publish my prompts on some platform that can keep them in a pack with many categories, like BetterPrompt. It’s where people can use them for free but cannot see or copy the structure. No drama. No “you stole mine.” No credit wars.\n\nIf you want your work protected, stop posting raw prompts on public feeds. Use platforms built for creators. If you choose to share everything in the open, then don’t complain when the internet behaves like the internet.\n\nWhat do you think? Do you agree with this or see it differently? I’m curious how others feel about this whole “prompt stealing” drama …",
+    "permalink": "/r/PromptEngineering/comments/1p120ck/i_keep_seeing_drama_on_ai_threads_about_people/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:39:38.705451",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/PromptEngineering/comments/1p120ck/i_keep_seeing_drama_on_ai_threads_about_people/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 2,
+    "coverage_percent": 0.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_032854.json",
+      "scrape_002_20251119_033752.json",
+      "scrape_003_20251119_033938.json"
+    ]
+  }
+}

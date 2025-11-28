@@ -1,0 +1,5062 @@
+{
+  "post": {
+    "id": "1p0fr1y",
+    "title": "Google announces Gemini 3 as battle with OpenAI intensifies",
+    "author": "Puginator",
+    "score_history": [
+      [
+        109,
+        "2025-11-18T13:48:59.062373"
+      ],
+      [
+        117,
+        "2025-11-18T14:00:15.759845"
+      ],
+      [
+        126,
+        "2025-11-18T14:11:01.727815"
+      ],
+      [
+        125,
+        "2025-11-18T14:12:31.061007"
+      ],
+      [
+        136,
+        "2025-11-18T14:21:11.063071"
+      ],
+      [
+        133,
+        "2025-11-18T14:22:02.065306"
+      ],
+      [
+        139,
+        "2025-11-18T14:23:10.156660"
+      ],
+      [
+        139,
+        "2025-11-18T14:23:53.185994"
+      ],
+      [
+        148,
+        "2025-11-18T14:32:03.021683"
+      ],
+      [
+        146,
+        "2025-11-18T14:34:58.291266"
+      ],
+      [
+        158,
+        "2025-11-18T14:43:28.067279"
+      ],
+      [
+        162,
+        "2025-11-18T14:45:22.423517"
+      ]
+    ],
+    "created_utc": 1763481733.0,
+    "num_comments": 76,
+    "subreddit": "technology",
+    "url": "https://www.cnbc.com/2025/11/18/google-announces-gemini-3-as-battle-with-openai-intensifies.html",
+    "selftext": "",
+    "permalink": "/r/technology/comments/1p0fr1y/google_announces_gemini_3_as_battle_with_openai/"
+  },
+  "comments": [
+    {
+      "id": "npigfgn",
+      "parent_id": "t3_1p0fr1y",
+      "author": "Dannyz",
+      "text_history": [
+        [
+          "Holy shit, the guy who bet millions on this was right",
+          "2025-11-18T13:48:59.062373"
+        ]
+      ],
+      "score_history": [
+        [
+          44,
+          "2025-11-18T13:48:59.062373"
+        ],
+        [
+          45,
+          "2025-11-18T14:00:15.759845"
+        ],
+        [
+          49,
+          "2025-11-18T14:11:01.727815"
+        ],
+        [
+          49,
+          "2025-11-18T14:12:31.061007"
+        ],
+        [
+          50,
+          "2025-11-18T14:21:11.063071"
+        ],
+        [
+          52,
+          "2025-11-18T14:22:02.065306"
+        ],
+        [
+          51,
+          "2025-11-18T14:23:10.156660"
+        ],
+        [
+          49,
+          "2025-11-18T14:23:53.185994"
+        ],
+        [
+          54,
+          "2025-11-18T14:32:03.021683"
+        ],
+        [
+          56,
+          "2025-11-18T14:34:58.291266"
+        ],
+        [
+          58,
+          "2025-11-18T14:43:28.067279"
+        ],
+        [
+          57,
+          "2025-11-18T14:45:22.423517"
+        ]
+      ],
+      "created_utc": 1763481964.0,
+      "depth": 0,
+      "permalink": "/r/technology/comments/1p0fr1y/google_announces_gemini_3_as_battle_with_openai/npigfgn/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npihtsl",
+          "parent_id": "t1_npigfgn",
+          "author": "musafir6",
+          "text_history": [
+            [
+              "Probably a Google Employee.",
+              "2025-11-18T13:48:59.062373"
+            ]
+          ],
+          "score_history": [
+            [
+              27,
+              "2025-11-18T13:48:59.062373"
+            ],
+            [
+              27,
+              "2025-11-18T14:00:15.759845"
+            ],
+            [
+              27,
+              "2025-11-18T14:11:01.727815"
+            ],
+            [
+              27,
+              "2025-11-18T14:12:31.061007"
+            ],
+            [
+              26,
+              "2025-11-18T14:21:11.063071"
+            ],
+            [
+              27,
+              "2025-11-18T14:22:02.065306"
+            ],
+            [
+              27,
+              "2025-11-18T14:23:10.156660"
+            ],
+            [
+              28,
+              "2025-11-18T14:23:53.185994"
+            ],
+            [
+              28,
+              "2025-11-18T14:32:03.021683"
+            ],
+            [
+              29,
+              "2025-11-18T14:34:58.291266"
+            ],
+            [
+              31,
+              "2025-11-18T14:43:28.067279"
+            ],
+            [
+              32,
+              "2025-11-18T14:45:22.423517"
+            ]
+          ],
+          "created_utc": 1763482372.0,
+          "depth": 1,
+          "permalink": "/r/technology/comments/1p0fr1y/google_announces_gemini_3_as_battle_with_openai/npihtsl/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        },
+        {
+          "id": "npjdepo",
+          "parent_id": "t1_npigfgn",
+          "author": "peanut-britle-latte",
+          "text_history": [
+            [
+              "They were clearly an insider.",
+              "2025-11-18T13:48:59.062373"
+            ]
+          ],
+          "score_history": [
+            [
+              8,
+              "2025-11-18T13:48:59.062373"
+            ],
+            [
+              8,
+              "2025-11-18T14:00:15.759845"
+            ],
+            [
+              9,
+              "2025-11-18T14:11:01.727815"
+            ],
+            [
+              9,
+              "2025-11-18T14:12:31.061007"
+            ],
+            [
+              10,
+              "2025-11-18T14:21:11.063071"
+            ],
+            [
+              9,
+              "2025-11-18T14:22:02.065306"
+            ],
+            [
+              10,
+              "2025-11-18T14:23:10.156660"
+            ],
+            [
+              8,
+              "2025-11-18T14:23:53.185994"
+            ],
+            [
+              9,
+              "2025-11-18T14:32:03.021683"
+            ],
+            [
+              11,
+              "2025-11-18T14:34:58.291266"
+            ],
+            [
+              11,
+              "2025-11-18T14:43:28.067279"
+            ],
+            [
+              11,
+              "2025-11-18T14:45:22.423517"
+            ]
+          ],
+          "created_utc": 1763491561.0,
+          "depth": 1,
+          "permalink": "/r/technology/comments/1p0fr1y/google_announces_gemini_3_as_battle_with_openai/npjdepo/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        },
+        {
+          "id": "npjdw0x",
+          "parent_id": "t1_npigfgn",
+          "author": "element-94",
+          "text_history": [
+            [
+              "What was the bet?",
+              "2025-11-18T13:48:59.062373"
+            ]
+          ],
+          "score_history": [
+            [
+              4,
+              "2025-11-18T13:48:59.062373"
+            ],
+            [
+              5,
+              "2025-11-18T14:00:15.759845"
+            ],
+            [
+              4,
+              "2025-11-18T14:11:01.727815"
+            ],
+            [
+              4,
+              "2025-11-18T14:12:31.061007"
+            ],
+            [
+              4,
+              "2025-11-18T14:21:11.063071"
+            ],
+            [
+              4,
+              "2025-11-18T14:22:02.065306"
+            ],
+            [
+              4,
+              "2025-11-18T14:23:10.156660"
+            ],
+            [
+              4,
+              "2025-11-18T14:23:53.185994"
+            ],
+            [
+              4,
+              "2025-11-18T14:32:03.021683"
+            ],
+            [
+              4,
+              "2025-11-18T14:34:58.291266"
+            ],
+            [
+              4,
+              "2025-11-18T14:43:28.067279"
+            ],
+            [
+              3,
+              "2025-11-18T14:45:22.423517"
+            ]
+          ],
+          "created_utc": 1763491700.0,
+          "depth": 1,
+          "permalink": "/r/technology/comments/1p0fr1y/google_announces_gemini_3_as_battle_with_openai/npjdw0x/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npjef5f",
+              "parent_id": "t1_npjdw0x",
+              "author": "Dannyz",
+              "text_history": [
+                [
+                  "A couple million Gemini 3 would be released in november",
+                  "2025-11-18T13:48:59.062373"
+                ]
+              ],
+              "score_history": [
+                [
+                  5,
+                  "2025-11-18T13:48:59.062373"
+                ],
+                [
+                  4,
+                  "2025-11-18T14:00:15.759845"
+                ],
+                [
+                  3,
+                  "2025-11-18T14:11:01.727815"
+                ],
+                [
+                  4,
+                  "2025-11-18T14:12:31.061007"
+                ],
+                [
+                  4,
+                  "2025-11-18T14:21:11.063071"
+                ],
+                [
+                  5,
+                  "2025-11-18T14:22:02.065306"
+                ],
+                [
+                  5,
+                  "2025-11-18T14:23:10.156660"
+                ],
+                [
+                  6,
+                  "2025-11-18T14:23:53.185994"
+                ],
+                [
+                  5,
+                  "2025-11-18T14:32:03.021683"
+                ],
+                [
+                  7,
+                  "2025-11-18T14:34:58.291266"
+                ],
+                [
+                  5,
+                  "2025-11-18T14:43:28.067279"
+                ],
+                [
+                  7,
+                  "2025-11-18T14:45:22.423517"
+                ]
+              ],
+              "created_utc": 1763491853.0,
+              "depth": 2,
+              "permalink": "/r/technology/comments/1p0fr1y/google_announces_gemini_3_as_battle_with_openai/npjef5f/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": [
+                {
+                  "id": "npjohic",
+                  "parent_id": "t1_npjef5f",
+                  "author": "down_up__left_right",
+                  "text_history": [
+                    [
+                      "Who took the bet?\n\nGenerally sports books, or at least the legitimate onshore ones, have bet limits on anything that’s possible for some people to fully know before hand like Oscar winners or Superbowl Gatorade colors.",
+                      "2025-11-18T13:48:59.062373"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      2,
+                      "2025-11-18T13:48:59.062373"
+                    ],
+                    [
+                      2,
+                      "2025-11-18T14:00:15.759845"
+                    ],
+                    [
+                      2,
+                      "2025-11-18T14:11:01.727815"
+                    ],
+                    [
+                      2,
+                      "2025-11-18T14:12:31.061007"
+                    ],
+                    [
+                      2,
+                      "2025-11-18T14:21:11.063071"
+                    ],
+                    [
+                      2,
+                      "2025-11-18T14:22:02.065306"
+                    ],
+                    [
+                      2,
+                      "2025-11-18T14:23:10.156660"
+                    ],
+                    [
+                      2,
+                      "2025-11-18T14:23:53.185994"
+                    ],
+                    [
+                      2,
+                      "2025-11-18T14:32:03.021683"
+                    ],
+                    [
+                      2,
+                      "2025-11-18T14:34:58.291266"
+                    ],
+                    [
+                      2,
+                      "2025-11-18T14:43:28.067279"
+                    ],
+                    [
+                      2,
+                      "2025-11-18T14:45:22.423517"
+                    ]
+                  ],
+                  "created_utc": 1763494844.0,
+                  "depth": 3,
+                  "permalink": "/r/technology/comments/1p0fr1y/google_announces_gemini_3_as_battle_with_openai/npjohic/",
+                  "is_submitter": false,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": [
+                    {
+                      "id": "npjshji",
+                      "parent_id": "t1_npjohic",
+                      "author": "Dannyz",
+                      "text_history": [
+                        [
+                          "I can’t remember which “prediction-market”and can’t find the post. Some of them will take very large bets as long as there is sufficient counterparty liquidity. I also don’t know if it was a series of bets to establish a position or just one large bet.",
+                          "2025-11-18T13:48:59.062373"
+                        ]
+                      ],
+                      "score_history": [
+                        [
+                          1,
+                          "2025-11-18T13:48:59.062373"
+                        ],
+                        [
+                          1,
+                          "2025-11-18T14:00:15.759845"
+                        ],
+                        [
+                          1,
+                          "2025-11-18T14:11:01.727815"
+                        ],
+                        [
+                          1,
+                          "2025-11-18T14:12:31.061007"
+                        ],
+                        [
+                          1,
+                          "2025-11-18T14:21:11.063071"
+                        ],
+                        [
+                          1,
+                          "2025-11-18T14:22:02.065306"
+                        ],
+                        [
+                          1,
+                          "2025-11-18T14:23:10.156660"
+                        ],
+                        [
+                          1,
+                          "2025-11-18T14:23:53.185994"
+                        ],
+                        [
+                          1,
+                          "2025-11-18T14:32:03.021683"
+                        ],
+                        [
+                          1,
+                          "2025-11-18T14:34:58.291266"
+                        ],
+                        [
+                          1,
+                          "2025-11-18T14:43:28.067279"
+                        ],
+                        [
+                          1,
+                          "2025-11-18T14:45:22.423517"
+                        ]
+                      ],
+                      "created_utc": 1763496035.0,
+                      "depth": 4,
+                      "permalink": "/r/technology/comments/1p0fr1y/google_announces_gemini_3_as_battle_with_openai/npjshji/",
+                      "is_submitter": false,
+                      "controversiality": 0,
+                      "gilded": 0,
+                      "edited": false,
+                      "deleted": false,
+                      "deleted_at": null,
+                      "replies": [
+                        {
+                          "id": "npjvjw4",
+                          "parent_id": "t1_npjshji",
+                          "author": "LufyCZ",
+                          "text_history": [
+                            [
+                              "Think it was Polymarket",
+                              "2025-11-18T13:48:59.062373"
+                            ]
+                          ],
+                          "score_history": [
+                            [
+                              2,
+                              "2025-11-18T13:48:59.062373"
+                            ],
+                            [
+                              2,
+                              "2025-11-18T14:00:15.759845"
+                            ],
+                            [
+                              2,
+                              "2025-11-18T14:11:01.727815"
+                            ],
+                            [
+                              2,
+                              "2025-11-18T14:12:31.061007"
+                            ],
+                            [
+                              2,
+                              "2025-11-18T14:21:11.063071"
+                            ],
+                            [
+                              2,
+                              "2025-11-18T14:22:02.065306"
+                            ],
+                            [
+                              2,
+                              "2025-11-18T14:23:10.156660"
+                            ],
+                            [
+                              2,
+                              "2025-11-18T14:23:53.185994"
+                            ],
+                            [
+                              2,
+                              "2025-11-18T14:32:03.021683"
+                            ],
+                            [
+                              2,
+                              "2025-11-18T14:34:58.291266"
+                            ],
+                            [
+                              2,
+                              "2025-11-18T14:43:28.067279"
+                            ],
+                            [
+                              3,
+                              "2025-11-18T14:45:22.423517"
+                            ]
+                          ],
+                          "created_utc": 1763496969.0,
+                          "depth": 5,
+                          "permalink": "/r/technology/comments/1p0fr1y/google_announces_gemini_3_as_battle_with_openai/npjvjw4/",
+                          "is_submitter": false,
+                          "controversiality": 0,
+                          "gilded": 0,
+                          "edited": false,
+                          "deleted": false,
+                          "deleted_at": null,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "npirl7g",
+      "parent_id": "t3_1p0fr1y",
+      "author": "From-UoM",
+      "text_history": [
+        [
+          "OpenAI is getting beaten in the enterprise side by Anthropic and getting beaten in the consumer side by Gemini.\n\nxAI has twitter and Meta has Facebook. So they can't get into the social media side.\n\nMicrosoft and Apple Siri re holding their numbers, but Microsoft, Nvidia and Anthropic just announced a partnership focusing on Enterprise. While Apple is heavily rumoured to switch to Gemini for Siri\n\nNot a good position for OpenAI.",
+          "2025-11-18T13:48:59.062373"
+        ]
+      ],
+      "score_history": [
+        [
+          60,
+          "2025-11-18T13:48:59.062373"
+        ],
+        [
+          62,
+          "2025-11-18T14:00:15.759845"
+        ],
+        [
+          65,
+          "2025-11-18T14:11:01.727815"
+        ],
+        [
+          69,
+          "2025-11-18T14:12:31.061007"
+        ],
+        [
+          75,
+          "2025-11-18T14:21:11.063071"
+        ],
+        [
+          75,
+          "2025-11-18T14:22:02.065306"
+        ],
+        [
+          80,
+          "2025-11-18T14:23:10.156660"
+        ],
+        [
+          79,
+          "2025-11-18T14:23:53.185994"
+        ],
+        [
+          77,
+          "2025-11-18T14:32:03.021683"
+        ],
+        [
+          80,
+          "2025-11-18T14:34:58.291266"
+        ],
+        [
+          85,
+          "2025-11-18T14:43:28.067279"
+        ],
+        [
+          83,
+          "2025-11-18T14:45:22.423517"
+        ]
+      ],
+      "created_utc": 1763485217.0,
+      "depth": 0,
+      "permalink": "/r/technology/comments/1p0fr1y/google_announces_gemini_3_as_battle_with_openai/npirl7g/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npitev0",
+          "parent_id": "t1_npirl7g",
+          "author": "FourEightNineOneOne",
+          "text_history": [
+            [
+              "It's all but certain that Siri will use Gemini as its backend. They just won't announce it loudly because Apple wants to keep it quiet that they had to use Google to make their product work",
+              "2025-11-18T13:48:59.062373"
+            ]
+          ],
+          "score_history": [
+            [
+              38,
+              "2025-11-18T13:48:59.062373"
+            ],
+            [
+              40,
+              "2025-11-18T14:00:15.759845"
+            ],
+            [
+              39,
+              "2025-11-18T14:11:01.727815"
+            ],
+            [
+              38,
+              "2025-11-18T14:12:31.061007"
+            ],
+            [
+              42,
+              "2025-11-18T14:21:11.063071"
+            ],
+            [
+              43,
+              "2025-11-18T14:22:02.065306"
+            ],
+            [
+              43,
+              "2025-11-18T14:23:10.156660"
+            ],
+            [
+              39,
+              "2025-11-18T14:23:53.185994"
+            ],
+            [
+              44,
+              "2025-11-18T14:32:03.021683"
+            ],
+            [
+              43,
+              "2025-11-18T14:34:58.291266"
+            ],
+            [
+              44,
+              "2025-11-18T14:43:28.067279"
+            ],
+            [
+              44,
+              "2025-11-18T14:45:22.423517"
+            ]
+          ],
+          "created_utc": 1763485758.0,
+          "depth": 1,
+          "permalink": "/r/technology/comments/1p0fr1y/google_announces_gemini_3_as_battle_with_openai/npitev0/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npj0ues",
+              "parent_id": "t1_npitev0",
+              "author": "From-UoM",
+              "text_history": [
+                [
+                  "They will also probably use Nvidia servers but keep quite about it. There were reports they were buying GB300s\n\nhttps://youtu.be/n-rw1BwbsPA?si=DEq-3EA_Xcz5p5O7\n\nGemini for local Enterprises does run Nvidia GPUs through Google Distributed Cloud.\n\nhttps://cloud.google.com/blog/products/ai-machine-learning/run-gemini-and-ai-on-prem-with-google-distributed-cloud\n\nSo apple using Nvidia servers to keep things \"Private\" is possible.",
+                  "2025-11-18T13:48:59.062373"
+                ]
+              ],
+              "score_history": [
+                [
+                  8,
+                  "2025-11-18T13:48:59.062373"
+                ],
+                [
+                  10,
+                  "2025-11-18T14:00:15.759845"
+                ],
+                [
+                  10,
+                  "2025-11-18T14:11:01.727815"
+                ],
+                [
+                  11,
+                  "2025-11-18T14:12:31.061007"
+                ],
+                [
+                  11,
+                  "2025-11-18T14:21:11.063071"
+                ],
+                [
+                  10,
+                  "2025-11-18T14:22:02.065306"
+                ],
+                [
+                  10,
+                  "2025-11-18T14:23:10.156660"
+                ],
+                [
+                  10,
+                  "2025-11-18T14:23:53.185994"
+                ],
+                [
+                  11,
+                  "2025-11-18T14:32:03.021683"
+                ],
+                [
+                  11,
+                  "2025-11-18T14:34:58.291266"
+                ],
+                [
+                  11,
+                  "2025-11-18T14:43:28.067279"
+                ],
+                [
+                  11,
+                  "2025-11-18T14:45:22.423517"
+                ]
+              ],
+              "created_utc": 1763487958.0,
+              "depth": 2,
+              "permalink": "/r/technology/comments/1p0fr1y/google_announces_gemini_3_as_battle_with_openai/npj0ues/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": [
+                {
+                  "id": "npjc4ek",
+                  "parent_id": "t1_npj0ues",
+                  "author": "Headless_Human",
+                  "text_history": [
+                    [
+                      "Why would that be controversial? Apple and Nvidia are no direct competitors in any segment.",
+                      "2025-11-18T13:48:59.062373"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      6,
+                      "2025-11-18T13:48:59.062373"
+                    ],
+                    [
+                      5,
+                      "2025-11-18T14:00:15.759845"
+                    ],
+                    [
+                      7,
+                      "2025-11-18T14:11:01.727815"
+                    ],
+                    [
+                      7,
+                      "2025-11-18T14:12:31.061007"
+                    ],
+                    [
+                      6,
+                      "2025-11-18T14:21:11.063071"
+                    ],
+                    [
+                      6,
+                      "2025-11-18T14:22:02.065306"
+                    ],
+                    [
+                      6,
+                      "2025-11-18T14:23:10.156660"
+                    ],
+                    [
+                      6,
+                      "2025-11-18T14:23:53.185994"
+                    ],
+                    [
+                      6,
+                      "2025-11-18T14:32:03.021683"
+                    ],
+                    [
+                      6,
+                      "2025-11-18T14:34:58.291266"
+                    ],
+                    [
+                      6,
+                      "2025-11-18T14:43:28.067279"
+                    ],
+                    [
+                      5,
+                      "2025-11-18T14:45:22.423517"
+                    ]
+                  ],
+                  "created_utc": 1763491193.0,
+                  "depth": 3,
+                  "permalink": "/r/technology/comments/1p0fr1y/google_announces_gemini_3_as_battle_with_openai/npjc4ek/",
+                  "is_submitter": false,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": [
+                    {
+                      "id": "npjdqip",
+                      "parent_id": "t1_npjc4ek",
+                      "author": "From-UoM",
+                      "text_history": [
+                        [
+                          "Apple and Nvidia do have bad blood between them. The whole defective chip issue and there was also some fighting between Cuda v Metal.\n\n So there is that.",
+                          "2025-11-18T13:48:59.062373"
+                        ]
+                      ],
+                      "score_history": [
+                        [
+                          4,
+                          "2025-11-18T13:48:59.062373"
+                        ],
+                        [
+                          5,
+                          "2025-11-18T14:00:15.759845"
+                        ],
+                        [
+                          5,
+                          "2025-11-18T14:11:01.727815"
+                        ],
+                        [
+                          5,
+                          "2025-11-18T14:12:31.061007"
+                        ],
+                        [
+                          4,
+                          "2025-11-18T14:21:11.063071"
+                        ],
+                        [
+                          5,
+                          "2025-11-18T14:22:02.065306"
+                        ],
+                        [
+                          5,
+                          "2025-11-18T14:23:10.156660"
+                        ],
+                        [
+                          5,
+                          "2025-11-18T14:23:53.185994"
+                        ],
+                        [
+                          5,
+                          "2025-11-18T14:32:03.021683"
+                        ],
+                        [
+                          5,
+                          "2025-11-18T14:34:58.291266"
+                        ],
+                        [
+                          5,
+                          "2025-11-18T14:43:28.067279"
+                        ],
+                        [
+                          5,
+                          "2025-11-18T14:45:22.423517"
+                        ]
+                      ],
+                      "created_utc": 1763491656.0,
+                      "depth": 4,
+                      "permalink": "/r/technology/comments/1p0fr1y/google_announces_gemini_3_as_battle_with_openai/npjdqip/",
+                      "is_submitter": false,
+                      "controversiality": 0,
+                      "gilded": 0,
+                      "edited": false,
+                      "deleted": false,
+                      "deleted_at": null,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "npjw6do",
+              "parent_id": "t1_npitev0",
+              "author": "DjPersh",
+              "text_history": [
+                [
+                  "Is it being kept quiet if dozens of media outlets have reported on it?",
+                  "2025-11-18T13:48:59.062373"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-18T13:48:59.062373"
+                ],
+                [
+                  1,
+                  "2025-11-18T14:00:15.759845"
+                ],
+                [
+                  1,
+                  "2025-11-18T14:11:01.727815"
+                ],
+                [
+                  1,
+                  "2025-11-18T14:12:31.061007"
+                ],
+                [
+                  1,
+                  "2025-11-18T14:21:11.063071"
+                ],
+                [
+                  1,
+                  "2025-11-18T14:22:02.065306"
+                ],
+                [
+                  1,
+                  "2025-11-18T14:23:10.156660"
+                ],
+                [
+                  1,
+                  "2025-11-18T14:23:53.185994"
+                ],
+                [
+                  1,
+                  "2025-11-18T14:32:03.021683"
+                ],
+                [
+                  1,
+                  "2025-11-18T14:34:58.291266"
+                ],
+                [
+                  1,
+                  "2025-11-18T14:43:28.067279"
+                ],
+                [
+                  1,
+                  "2025-11-18T14:45:22.423517"
+                ]
+              ],
+              "created_utc": 1763497160.0,
+              "depth": 2,
+              "permalink": "/r/technology/comments/1p0fr1y/google_announces_gemini_3_as_battle_with_openai/npjw6do/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": [
+                {
+                  "id": "npjwdmh",
+                  "parent_id": "t1_npjw6do",
+                  "author": "FourEightNineOneOne",
+                  "text_history": [
+                    [
+                      "Because it's \"news\" but neither Apple or Google have said anything about it thenselves",
+                      "2025-11-18T13:48:59.062373"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      3,
+                      "2025-11-18T13:48:59.062373"
+                    ],
+                    [
+                      3,
+                      "2025-11-18T14:00:15.759845"
+                    ],
+                    [
+                      3,
+                      "2025-11-18T14:11:01.727815"
+                    ],
+                    [
+                      3,
+                      "2025-11-18T14:12:31.061007"
+                    ],
+                    [
+                      3,
+                      "2025-11-18T14:21:11.063071"
+                    ],
+                    [
+                      3,
+                      "2025-11-18T14:22:02.065306"
+                    ],
+                    [
+                      3,
+                      "2025-11-18T14:23:10.156660"
+                    ],
+                    [
+                      3,
+                      "2025-11-18T14:23:53.185994"
+                    ],
+                    [
+                      3,
+                      "2025-11-18T14:32:03.021683"
+                    ],
+                    [
+                      3,
+                      "2025-11-18T14:34:58.291266"
+                    ],
+                    [
+                      3,
+                      "2025-11-18T14:43:28.067279"
+                    ],
+                    [
+                      3,
+                      "2025-11-18T14:45:22.423517"
+                    ]
+                  ],
+                  "created_utc": 1763497222.0,
+                  "depth": 3,
+                  "permalink": "/r/technology/comments/1p0fr1y/google_announces_gemini_3_as_battle_with_openai/npjwdmh/",
+                  "is_submitter": false,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "npj9sss",
+          "parent_id": "t1_npirl7g",
+          "author": "Particular-Break-205",
+          "text_history": [
+            [
+              "Altman is not a seasoned CEO and seems to have a pattern of almost being ousted by the board each time he is the CEO.\n\nHe might be a good product/visionary, but it’s rare for that to translate to execution/business. Altman is no Steve Jobs.",
+              "2025-11-18T13:48:59.062373"
+            ]
+          ],
+          "score_history": [
+            [
+              5,
+              "2025-11-18T13:48:59.062373"
+            ],
+            [
+              5,
+              "2025-11-18T14:00:15.759845"
+            ],
+            [
+              6,
+              "2025-11-18T14:11:01.727815"
+            ],
+            [
+              5,
+              "2025-11-18T14:12:31.061007"
+            ],
+            [
+              6,
+              "2025-11-18T14:21:11.063071"
+            ],
+            [
+              5,
+              "2025-11-18T14:22:02.065306"
+            ],
+            [
+              6,
+              "2025-11-18T14:23:10.156660"
+            ],
+            [
+              6,
+              "2025-11-18T14:23:53.185994"
+            ],
+            [
+              6,
+              "2025-11-18T14:32:03.021683"
+            ],
+            [
+              6,
+              "2025-11-18T14:34:58.291266"
+            ],
+            [
+              6,
+              "2025-11-18T14:43:28.067279"
+            ],
+            [
+              6,
+              "2025-11-18T14:45:22.423517"
+            ]
+          ],
+          "created_utc": 1763490529.0,
+          "depth": 1,
+          "permalink": "/r/technology/comments/1p0fr1y/google_announces_gemini_3_as_battle_with_openai/npj9sss/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npjfkr5",
+              "parent_id": "t1_npj9sss",
+              "author": "From-UoM",
+              "text_history": [
+                [
+                  "I really don't get how is he projecting so much demand when they don't have proper outlets for ChatGPT.\n\nThey don't have devices, software and OS like Apple and Google.\n\nThey don't have social media like xAI and Meta\n\nThey made their own browser and guess what? Its made with chromium lmao. And that isn't going to take any market share from Chrome.\n\nA mobile app and the website isn't good enough. Especially cause to access those, you need a device or browsers that will already have Gemini integrated.",
+                  "2025-11-18T13:48:59.062373"
+                ]
+              ],
+              "score_history": [
+                [
+                  6,
+                  "2025-11-18T13:48:59.062373"
+                ],
+                [
+                  6,
+                  "2025-11-18T14:00:15.759845"
+                ],
+                [
+                  6,
+                  "2025-11-18T14:11:01.727815"
+                ],
+                [
+                  6,
+                  "2025-11-18T14:12:31.061007"
+                ],
+                [
+                  7,
+                  "2025-11-18T14:21:11.063071"
+                ],
+                [
+                  6,
+                  "2025-11-18T14:22:02.065306"
+                ],
+                [
+                  8,
+                  "2025-11-18T14:23:10.156660"
+                ],
+                [
+                  7,
+                  "2025-11-18T14:23:53.185994"
+                ],
+                [
+                  6,
+                  "2025-11-18T14:32:03.021683"
+                ],
+                [
+                  7,
+                  "2025-11-18T14:34:58.291266"
+                ],
+                [
+                  7,
+                  "2025-11-18T14:43:28.067279"
+                ],
+                [
+                  7,
+                  "2025-11-18T14:45:22.423517"
+                ]
+              ],
+              "created_utc": 1763492186.0,
+              "depth": 2,
+              "permalink": "/r/technology/comments/1p0fr1y/google_announces_gemini_3_as_battle_with_openai/npjfkr5/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": 1763494793.0,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": [
+                {
+                  "id": "npjm79h",
+                  "parent_id": "t1_npjfkr5",
+                  "author": "Particular-Break-205",
+                  "text_history": [
+                    [
+                      "Agreed. And Microsoft failed to gain even a few percent browser/search market share from Google with their browser and portfolio of applications and computers.\n\nOpenAI needs to convince users they’re that much better than Google to want to download a separate app or browser and migrate/change their patterns. I don’t think they’ve done that.\n\nPersonally, I’m going to use Safari’s default search because it’s one app to login to whatever website I need and if I need AI, there’s Gemini built in.",
+                      "2025-11-18T13:48:59.062373"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      2,
+                      "2025-11-18T13:48:59.062373"
+                    ],
+                    [
+                      2,
+                      "2025-11-18T14:00:15.759845"
+                    ],
+                    [
+                      2,
+                      "2025-11-18T14:11:01.727815"
+                    ],
+                    [
+                      2,
+                      "2025-11-18T14:12:31.061007"
+                    ],
+                    [
+                      2,
+                      "2025-11-18T14:21:11.063071"
+                    ],
+                    [
+                      2,
+                      "2025-11-18T14:22:02.065306"
+                    ],
+                    [
+                      2,
+                      "2025-11-18T14:23:10.156660"
+                    ],
+                    [
+                      2,
+                      "2025-11-18T14:23:53.185994"
+                    ],
+                    [
+                      2,
+                      "2025-11-18T14:32:03.021683"
+                    ],
+                    [
+                      3,
+                      "2025-11-18T14:34:58.291266"
+                    ],
+                    [
+                      3,
+                      "2025-11-18T14:43:28.067279"
+                    ],
+                    [
+                      3,
+                      "2025-11-18T14:45:22.423517"
+                    ]
+                  ],
+                  "created_utc": 1763494158.0,
+                  "depth": 3,
+                  "permalink": "/r/technology/comments/1p0fr1y/google_announces_gemini_3_as_battle_with_openai/npjm79h/",
+                  "is_submitter": false,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": []
+                },
+                {
+                  "id": "npkccn9",
+                  "parent_id": "t1_npjfkr5",
+                  "author": "Olangotang",
+                  "text_history": [
+                    [
+                      "Easy. He turned Google Deepmind's Transformer technology into this hype shit show that we have now. OpenAI gets to pretend like they are more important than Google.",
+                      "2025-11-18T13:48:59.062373"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      1,
+                      "2025-11-18T13:48:59.062373"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T14:00:15.759845"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T14:11:01.727815"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T14:12:31.061007"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T14:21:11.063071"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T14:22:02.065306"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T14:23:10.156660"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T14:23:53.185994"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T14:32:03.021683"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T14:34:58.291266"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T14:43:28.067279"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T14:45:22.423517"
+                    ]
+                  ],
+                  "created_utc": 1763502016.0,
+                  "depth": 3,
+                  "permalink": "/r/technology/comments/1p0fr1y/google_announces_gemini_3_as_battle_with_openai/npkccn9/",
+                  "is_submitter": false,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "npjmbuz",
+          "parent_id": "t1_npirl7g",
+          "author": "Bob-BS",
+          "text_history": [
+            [
+              "Microsoft Copilot is essentially ChatGPT as of now, and I think we can expect OpenAI to be fully aquired by Microsoft within the next 1-2 years.",
+              "2025-11-18T13:48:59.062373"
+            ]
+          ],
+          "score_history": [
+            [
+              4,
+              "2025-11-18T13:48:59.062373"
+            ],
+            [
+              4,
+              "2025-11-18T14:00:15.759845"
+            ],
+            [
+              5,
+              "2025-11-18T14:11:01.727815"
+            ],
+            [
+              5,
+              "2025-11-18T14:12:31.061007"
+            ],
+            [
+              5,
+              "2025-11-18T14:21:11.063071"
+            ],
+            [
+              7,
+              "2025-11-18T14:22:02.065306"
+            ],
+            [
+              5,
+              "2025-11-18T14:23:10.156660"
+            ],
+            [
+              5,
+              "2025-11-18T14:23:53.185994"
+            ],
+            [
+              5,
+              "2025-11-18T14:32:03.021683"
+            ],
+            [
+              6,
+              "2025-11-18T14:34:58.291266"
+            ],
+            [
+              7,
+              "2025-11-18T14:43:28.067279"
+            ],
+            [
+              5,
+              "2025-11-18T14:45:22.423517"
+            ]
+          ],
+          "created_utc": 1763494197.0,
+          "depth": 1,
+          "permalink": "/r/technology/comments/1p0fr1y/google_announces_gemini_3_as_battle_with_openai/npjmbuz/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        },
+        {
+          "id": "npkjpzi",
+          "parent_id": "t1_npirl7g",
+          "author": "Shadowolf75",
+          "text_history": [
+            [
+              "Chatgpt let's me scan 5 files per day and make something out of them... Gemini doesn't have a limit so far...",
+              "2025-11-18T14:21:11.063071"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T14:21:11.063071"
+            ],
+            [
+              1,
+              "2025-11-18T14:22:02.065306"
+            ],
+            [
+              1,
+              "2025-11-18T14:23:10.156660"
+            ],
+            [
+              1,
+              "2025-11-18T14:23:53.185994"
+            ],
+            [
+              2,
+              "2025-11-18T14:32:03.021683"
+            ],
+            [
+              2,
+              "2025-11-18T14:34:58.291266"
+            ],
+            [
+              2,
+              "2025-11-18T14:43:28.067279"
+            ],
+            [
+              2,
+              "2025-11-18T14:45:22.423517"
+            ]
+          ],
+          "created_utc": 1763504275.0,
+          "depth": 1,
+          "permalink": "/r/technology/comments/1p0fr1y/google_announces_gemini_3_as_battle_with_openai/npkjpzi/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        },
+        {
+          "id": "npj5a7d",
+          "parent_id": "t1_npirl7g",
+          "author": "hclpfan",
+          "text_history": [
+            [
+              "&gt; \"OpenAI is getting beaten in the consumer side by Gemini\"\n\nWhat are you basing this claim on? The article linked in this post says that ChatGPT has the same(ish) number of weekly users that Gemini has monthly. Also ChatGPT is absolutely ubiquitous in the consumer world.\n\nEven if Gemini 3 scores better that doesn't mean its winning in consumer (at least not yet)",
+              "2025-11-18T13:48:59.062373"
+            ]
+          ],
+          "score_history": [
+            [
+              2,
+              "2025-11-18T13:48:59.062373"
+            ],
+            [
+              0,
+              "2025-11-18T14:00:15.759845"
+            ],
+            [
+              2,
+              "2025-11-18T14:11:01.727815"
+            ],
+            [
+              2,
+              "2025-11-18T14:12:31.061007"
+            ],
+            [
+              3,
+              "2025-11-18T14:21:11.063071"
+            ],
+            [
+              2,
+              "2025-11-18T14:22:02.065306"
+            ],
+            [
+              2,
+              "2025-11-18T14:23:10.156660"
+            ],
+            [
+              2,
+              "2025-11-18T14:23:53.185994"
+            ],
+            [
+              1,
+              "2025-11-18T14:32:03.021683"
+            ],
+            [
+              2,
+              "2025-11-18T14:34:58.291266"
+            ],
+            [
+              1,
+              "2025-11-18T14:43:28.067279"
+            ],
+            [
+              1,
+              "2025-11-18T14:45:22.423517"
+            ]
+          ],
+          "created_utc": 1763489237.0,
+          "depth": 1,
+          "permalink": "/r/technology/comments/1p0fr1y/google_announces_gemini_3_as_battle_with_openai/npj5a7d/",
+          "is_submitter": false,
+          "controversiality": 1,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npj7rdp",
+              "parent_id": "t1_npj5a7d",
+              "author": "From-UoM",
+              "text_history": [
+                [
+                  "Every single android device in the world will have Gemini. Chrome, Youtube, Google, Gmail and Docs, will also use Gemini.\n\nBasically consumer devices and websites, that billions of people already use on a regular basis, will have easy and convenient Gemini access.\n\nThe consumer side isn't looking good for OpenAI.\n\nOpenAI's biggest consumer share undoubtedly comes from Apple who have ChatGPT integrated with Siri and other software. Now that is rumored to be replaced by Gemini.\n\nMicrosoft with Copilot is the only one left, but no one likes that.\n\nSo yeah. OpenAI are going to have something much better to make sure people still use it.",
+                  "2025-11-18T13:48:59.062373"
+                ]
+              ],
+              "score_history": [
+                [
+                  13,
+                  "2025-11-18T13:48:59.062373"
+                ],
+                [
+                  14,
+                  "2025-11-18T14:00:15.759845"
+                ],
+                [
+                  13,
+                  "2025-11-18T14:11:01.727815"
+                ],
+                [
+                  14,
+                  "2025-11-18T14:12:31.061007"
+                ],
+                [
+                  13,
+                  "2025-11-18T14:21:11.063071"
+                ],
+                [
+                  14,
+                  "2025-11-18T14:22:02.065306"
+                ],
+                [
+                  14,
+                  "2025-11-18T14:23:10.156660"
+                ],
+                [
+                  13,
+                  "2025-11-18T14:23:53.185994"
+                ],
+                [
+                  16,
+                  "2025-11-18T14:32:03.021683"
+                ],
+                [
+                  16,
+                  "2025-11-18T14:34:58.291266"
+                ],
+                [
+                  14,
+                  "2025-11-18T14:43:28.067279"
+                ],
+                [
+                  14,
+                  "2025-11-18T14:45:22.423517"
+                ]
+              ],
+              "created_utc": 1763489945.0,
+              "depth": 2,
+              "permalink": "/r/technology/comments/1p0fr1y/google_announces_gemini_3_as_battle_with_openai/npj7rdp/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": [
+                {
+                  "id": "npjcu28",
+                  "parent_id": "t1_npj7rdp",
+                  "author": "obliviousofobvious",
+                  "text_history": [
+                    [
+                      "Not to mention that Google is something OpenAI is not: Profitable.\n\nAlphabet can affort to keep throwing money at Gemini. It's money they don't have to beg for.\n\nMeanwhile OpenAI is signing 200 Billion agreements of sale while making 16 Billion in revenue.",
+                      "2025-11-18T13:48:59.062373"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      8,
+                      "2025-11-18T13:48:59.062373"
+                    ],
+                    [
+                      9,
+                      "2025-11-18T14:00:15.759845"
+                    ],
+                    [
+                      9,
+                      "2025-11-18T14:11:01.727815"
+                    ],
+                    [
+                      9,
+                      "2025-11-18T14:12:31.061007"
+                    ],
+                    [
+                      9,
+                      "2025-11-18T14:21:11.063071"
+                    ],
+                    [
+                      9,
+                      "2025-11-18T14:22:02.065306"
+                    ],
+                    [
+                      9,
+                      "2025-11-18T14:23:10.156660"
+                    ],
+                    [
+                      9,
+                      "2025-11-18T14:23:53.185994"
+                    ],
+                    [
+                      8,
+                      "2025-11-18T14:32:03.021683"
+                    ],
+                    [
+                      9,
+                      "2025-11-18T14:34:58.291266"
+                    ],
+                    [
+                      10,
+                      "2025-11-18T14:43:28.067279"
+                    ],
+                    [
+                      9,
+                      "2025-11-18T14:45:22.423517"
+                    ]
+                  ],
+                  "created_utc": 1763491397.0,
+                  "depth": 3,
+                  "permalink": "/r/technology/comments/1p0fr1y/google_announces_gemini_3_as_battle_with_openai/npjcu28/",
+                  "is_submitter": false,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": []
+                },
+                {
+                  "id": "npjj8nq",
+                  "parent_id": "t1_npj7rdp",
+                  "author": "hclpfan",
+                  "text_history": [
+                    [
+                      "So you’re just talking about hypotheticals in the future then….got it\n\nI was talking about current reality",
+                      "2025-11-18T13:48:59.062373"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      0,
+                      "2025-11-18T13:48:59.062373"
+                    ],
+                    [
+                      -1,
+                      "2025-11-18T14:00:15.759845"
+                    ],
+                    [
+                      -1,
+                      "2025-11-18T14:11:01.727815"
+                    ],
+                    [
+                      -1,
+                      "2025-11-18T14:12:31.061007"
+                    ],
+                    [
+                      -1,
+                      "2025-11-18T14:21:11.063071"
+                    ],
+                    [
+                      -1,
+                      "2025-11-18T14:22:02.065306"
+                    ],
+                    [
+                      -1,
+                      "2025-11-18T14:23:10.156660"
+                    ],
+                    [
+                      -1,
+                      "2025-11-18T14:23:53.185994"
+                    ],
+                    [
+                      -2,
+                      "2025-11-18T14:32:03.021683"
+                    ],
+                    [
+                      -2,
+                      "2025-11-18T14:34:58.291266"
+                    ],
+                    [
+                      -2,
+                      "2025-11-18T14:43:28.067279"
+                    ],
+                    [
+                      -2,
+                      "2025-11-18T14:45:22.423517"
+                    ]
+                  ],
+                  "created_utc": 1763493270.0,
+                  "depth": 3,
+                  "permalink": "/r/technology/comments/1p0fr1y/google_announces_gemini_3_as_battle_with_openai/npjj8nq/",
+                  "is_submitter": false,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": [
+                    {
+                      "id": "npjknqc",
+                      "parent_id": "t1_npjj8nq",
+                      "author": "From-UoM",
+                      "text_history": [
+                        [
+                          "Google released numbers recently.\n\nThey are growing exponentially fast.\n\nhttps://x.com/sundarpichai/status/1983627221425156144",
+                          "2025-11-18T13:48:59.062373"
+                        ]
+                      ],
+                      "score_history": [
+                        [
+                          8,
+                          "2025-11-18T13:48:59.062373"
+                        ],
+                        [
+                          7,
+                          "2025-11-18T14:00:15.759845"
+                        ],
+                        [
+                          7,
+                          "2025-11-18T14:11:01.727815"
+                        ],
+                        [
+                          7,
+                          "2025-11-18T14:12:31.061007"
+                        ],
+                        [
+                          6,
+                          "2025-11-18T14:21:11.063071"
+                        ],
+                        [
+                          7,
+                          "2025-11-18T14:22:02.065306"
+                        ],
+                        [
+                          7,
+                          "2025-11-18T14:23:10.156660"
+                        ],
+                        [
+                          7,
+                          "2025-11-18T14:23:53.185994"
+                        ],
+                        [
+                          8,
+                          "2025-11-18T14:32:03.021683"
+                        ],
+                        [
+                          8,
+                          "2025-11-18T14:34:58.291266"
+                        ],
+                        [
+                          6,
+                          "2025-11-18T14:43:28.067279"
+                        ],
+                        [
+                          7,
+                          "2025-11-18T14:45:22.423517"
+                        ]
+                      ],
+                      "created_utc": 1763493696.0,
+                      "depth": 4,
+                      "permalink": "/r/technology/comments/1p0fr1y/google_announces_gemini_3_as_battle_with_openai/npjknqc/",
+                      "is_submitter": false,
+                      "controversiality": 0,
+                      "gilded": 0,
+                      "edited": false,
+                      "deleted": false,
+                      "deleted_at": null,
+                      "replies": [
+                        {
+                          "id": "npjky9p",
+                          "parent_id": "t1_npjknqc",
+                          "author": "hclpfan",
+                          "text_history": [
+                            [
+                              "The article we are literally all commenting on has numbers in it showcasing OpenAI in the lead. \n\nSure if Gemini growth trends continue then in the future they might overtake - but right now that’s not the case",
+                              "2025-11-18T13:48:59.062373"
+                            ]
+                          ],
+                          "score_history": [
+                            [
+                              2,
+                              "2025-11-18T13:48:59.062373"
+                            ],
+                            [
+                              2,
+                              "2025-11-18T14:00:15.759845"
+                            ],
+                            [
+                              3,
+                              "2025-11-18T14:11:01.727815"
+                            ],
+                            [
+                              3,
+                              "2025-11-18T14:12:31.061007"
+                            ],
+                            [
+                              3,
+                              "2025-11-18T14:21:11.063071"
+                            ],
+                            [
+                              3,
+                              "2025-11-18T14:22:02.065306"
+                            ],
+                            [
+                              3,
+                              "2025-11-18T14:23:10.156660"
+                            ],
+                            [
+                              3,
+                              "2025-11-18T14:23:53.185994"
+                            ],
+                            [
+                              3,
+                              "2025-11-18T14:32:03.021683"
+                            ],
+                            [
+                              3,
+                              "2025-11-18T14:34:58.291266"
+                            ],
+                            [
+                              3,
+                              "2025-11-18T14:43:28.067279"
+                            ],
+                            [
+                              3,
+                              "2025-11-18T14:45:22.423517"
+                            ]
+                          ],
+                          "created_utc": 1763493785.0,
+                          "depth": 5,
+                          "permalink": "/r/technology/comments/1p0fr1y/google_announces_gemini_3_as_battle_with_openai/npjky9p/",
+                          "is_submitter": false,
+                          "controversiality": 0,
+                          "gilded": 0,
+                          "edited": false,
+                          "deleted": false,
+                          "deleted_at": null,
+                          "replies": [
+                            {
+                              "id": "npjnzin",
+                              "parent_id": "t1_npjky9p",
+                              "author": "From-UoM",
+                              "text_history": [
+                                [
+                                  "If Gemini can that get much traction with a weaker model, just imagine what they can do with a better one.\n\nAlso there is the apple angle who is looking likely to use Gemini for Siri.",
+                                  "2025-11-18T13:48:59.062373"
+                                ]
+                              ],
+                              "score_history": [
+                                [
+                                  3,
+                                  "2025-11-18T13:48:59.062373"
+                                ],
+                                [
+                                  3,
+                                  "2025-11-18T14:00:15.759845"
+                                ],
+                                [
+                                  3,
+                                  "2025-11-18T14:11:01.727815"
+                                ],
+                                [
+                                  3,
+                                  "2025-11-18T14:12:31.061007"
+                                ],
+                                [
+                                  3,
+                                  "2025-11-18T14:21:11.063071"
+                                ],
+                                [
+                                  3,
+                                  "2025-11-18T14:22:02.065306"
+                                ],
+                                [
+                                  3,
+                                  "2025-11-18T14:23:10.156660"
+                                ],
+                                [
+                                  3,
+                                  "2025-11-18T14:23:53.185994"
+                                ],
+                                [
+                                  3,
+                                  "2025-11-18T14:32:03.021683"
+                                ],
+                                [
+                                  3,
+                                  "2025-11-18T14:34:58.291266"
+                                ],
+                                [
+                                  3,
+                                  "2025-11-18T14:43:28.067279"
+                                ],
+                                [
+                                  3,
+                                  "2025-11-18T14:45:22.423517"
+                                ]
+                              ],
+                              "created_utc": 1763494694.0,
+                              "depth": 6,
+                              "permalink": "/r/technology/comments/1p0fr1y/google_announces_gemini_3_as_battle_with_openai/npjnzin/",
+                              "is_submitter": false,
+                              "controversiality": 0,
+                              "gilded": 0,
+                              "edited": false,
+                              "deleted": false,
+                              "deleted_at": null,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "npj8m53",
+                  "parent_id": "t1_npj7rdp",
+                  "author": "EscapeFacebook",
+                  "text_history": [
+                    [
+                      "If Apple integrates Gemini there's no point to owning an apple anymore. The future sucks.",
+                      "2025-11-18T13:48:59.062373"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      -6,
+                      "2025-11-18T13:48:59.062373"
+                    ],
+                    [
+                      -5,
+                      "2025-11-18T14:00:15.759845"
+                    ],
+                    [
+                      -6,
+                      "2025-11-18T14:11:01.727815"
+                    ],
+                    [
+                      -6,
+                      "2025-11-18T14:12:31.061007"
+                    ],
+                    [
+                      -6,
+                      "2025-11-18T14:21:11.063071"
+                    ],
+                    [
+                      -6,
+                      "2025-11-18T14:22:02.065306"
+                    ],
+                    [
+                      -7,
+                      "2025-11-18T14:23:10.156660"
+                    ],
+                    [
+                      -5,
+                      "2025-11-18T14:23:53.185994"
+                    ],
+                    [
+                      -7,
+                      "2025-11-18T14:32:03.021683"
+                    ],
+                    [
+                      -7,
+                      "2025-11-18T14:34:58.291266"
+                    ],
+                    [
+                      -6,
+                      "2025-11-18T14:43:28.067279"
+                    ],
+                    [
+                      -7,
+                      "2025-11-18T14:45:22.423517"
+                    ]
+                  ],
+                  "created_utc": 1763490191.0,
+                  "depth": 3,
+                  "permalink": "/r/technology/comments/1p0fr1y/google_announces_gemini_3_as_battle_with_openai/npj8m53/",
+                  "is_submitter": false,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": [
+                    {
+                      "id": "npj93uj",
+                      "parent_id": "t1_npj8m53",
+                      "author": "From-UoM",
+                      "text_history": [
+                        [
+                          "That's why i said they might use Nvidia servers in a comment above and keep everything inhouse instead of all the data going to google.",
+                          "2025-11-18T13:48:59.062373"
+                        ]
+                      ],
+                      "score_history": [
+                        [
+                          3,
+                          "2025-11-18T13:48:59.062373"
+                        ],
+                        [
+                          3,
+                          "2025-11-18T14:00:15.759845"
+                        ],
+                        [
+                          3,
+                          "2025-11-18T14:11:01.727815"
+                        ],
+                        [
+                          3,
+                          "2025-11-18T14:12:31.061007"
+                        ],
+                        [
+                          3,
+                          "2025-11-18T14:21:11.063071"
+                        ],
+                        [
+                          3,
+                          "2025-11-18T14:22:02.065306"
+                        ],
+                        [
+                          3,
+                          "2025-11-18T14:23:10.156660"
+                        ],
+                        [
+                          3,
+                          "2025-11-18T14:23:53.185994"
+                        ],
+                        [
+                          3,
+                          "2025-11-18T14:32:03.021683"
+                        ],
+                        [
+                          3,
+                          "2025-11-18T14:34:58.291266"
+                        ],
+                        [
+                          3,
+                          "2025-11-18T14:43:28.067279"
+                        ],
+                        [
+                          3,
+                          "2025-11-18T14:45:22.423517"
+                        ]
+                      ],
+                      "created_utc": 1763490331.0,
+                      "depth": 4,
+                      "permalink": "/r/technology/comments/1p0fr1y/google_announces_gemini_3_as_battle_with_openai/npj93uj/",
+                      "is_submitter": false,
+                      "controversiality": 0,
+                      "gilded": 0,
+                      "edited": false,
+                      "deleted": false,
+                      "deleted_at": null,
+                      "replies": [
+                        {
+                          "id": "npjhys3",
+                          "parent_id": "t1_npj93uj",
+                          "author": "EscapeFacebook",
+                          "text_history": [
+                            [
+                              "That'll be great until users complain that they're Gemini on their phone doesn't work with the Gemini on their other devices.",
+                              "2025-11-18T13:48:59.062373"
+                            ]
+                          ],
+                          "score_history": [
+                            [
+                              1,
+                              "2025-11-18T13:48:59.062373"
+                            ],
+                            [
+                              1,
+                              "2025-11-18T14:00:15.759845"
+                            ],
+                            [
+                              1,
+                              "2025-11-18T14:11:01.727815"
+                            ],
+                            [
+                              1,
+                              "2025-11-18T14:12:31.061007"
+                            ],
+                            [
+                              1,
+                              "2025-11-18T14:21:11.063071"
+                            ],
+                            [
+                              1,
+                              "2025-11-18T14:22:02.065306"
+                            ],
+                            [
+                              1,
+                              "2025-11-18T14:23:10.156660"
+                            ],
+                            [
+                              1,
+                              "2025-11-18T14:23:53.185994"
+                            ],
+                            [
+                              1,
+                              "2025-11-18T14:32:03.021683"
+                            ],
+                            [
+                              1,
+                              "2025-11-18T14:34:58.291266"
+                            ],
+                            [
+                              1,
+                              "2025-11-18T14:43:28.067279"
+                            ],
+                            [
+                              1,
+                              "2025-11-18T14:45:22.423517"
+                            ]
+                          ],
+                          "created_utc": 1763492893.0,
+                          "depth": 5,
+                          "permalink": "/r/technology/comments/1p0fr1y/google_announces_gemini_3_as_battle_with_openai/npjhys3/",
+                          "is_submitter": false,
+                          "controversiality": 0,
+                          "gilded": 0,
+                          "edited": false,
+                          "deleted": false,
+                          "deleted_at": null,
+                          "replies": [
+                            {
+                              "id": "npjjrpf",
+                              "parent_id": "t1_npjhys3",
+                              "author": "From-UoM",
+                              "text_history": [
+                                [
+                                  "Well it won't be exactly Gemini per say.\n\nSiri will be using, in simple terms, a customized Gemini designed to work within Apple's ecosystem rather than Google's ecosystem.",
+                                  "2025-11-18T13:48:59.062373"
+                                ]
+                              ],
+                              "score_history": [
+                                [
+                                  1,
+                                  "2025-11-18T13:48:59.062373"
+                                ],
+                                [
+                                  1,
+                                  "2025-11-18T14:00:15.759845"
+                                ],
+                                [
+                                  1,
+                                  "2025-11-18T14:11:01.727815"
+                                ],
+                                [
+                                  1,
+                                  "2025-11-18T14:12:31.061007"
+                                ],
+                                [
+                                  1,
+                                  "2025-11-18T14:21:11.063071"
+                                ],
+                                [
+                                  1,
+                                  "2025-11-18T14:22:02.065306"
+                                ],
+                                [
+                                  1,
+                                  "2025-11-18T14:23:10.156660"
+                                ],
+                                [
+                                  1,
+                                  "2025-11-18T14:23:53.185994"
+                                ],
+                                [
+                                  1,
+                                  "2025-11-18T14:32:03.021683"
+                                ],
+                                [
+                                  1,
+                                  "2025-11-18T14:34:58.291266"
+                                ],
+                                [
+                                  1,
+                                  "2025-11-18T14:43:28.067279"
+                                ],
+                                [
+                                  1,
+                                  "2025-11-18T14:45:22.423517"
+                                ]
+                              ],
+                              "created_utc": 1763493429.0,
+                              "depth": 6,
+                              "permalink": "/r/technology/comments/1p0fr1y/google_announces_gemini_3_as_battle_with_openai/npjjrpf/",
+                              "is_submitter": false,
+                              "controversiality": 0,
+                              "gilded": 0,
+                              "edited": false,
+                              "deleted": false,
+                              "deleted_at": null,
+                              "replies": [
+                                {
+                                  "id": "npjr0v5",
+                                  "parent_id": "t1_npjjrpf",
+                                  "author": "EscapeFacebook",
+                                  "text_history": [
+                                    [
+                                      "I understand, time will tell. Reality is always stranger than fiction so I'll get the popcorn for us to watch.",
+                                      "2025-11-18T13:48:59.062373"
+                                    ]
+                                  ],
+                                  "score_history": [
+                                    [
+                                      1,
+                                      "2025-11-18T13:48:59.062373"
+                                    ],
+                                    [
+                                      1,
+                                      "2025-11-18T14:00:15.759845"
+                                    ],
+                                    [
+                                      1,
+                                      "2025-11-18T14:11:01.727815"
+                                    ],
+                                    [
+                                      1,
+                                      "2025-11-18T14:12:31.061007"
+                                    ],
+                                    [
+                                      1,
+                                      "2025-11-18T14:21:11.063071"
+                                    ],
+                                    [
+                                      1,
+                                      "2025-11-18T14:22:02.065306"
+                                    ],
+                                    [
+                                      1,
+                                      "2025-11-18T14:23:10.156660"
+                                    ],
+                                    [
+                                      1,
+                                      "2025-11-18T14:23:53.185994"
+                                    ],
+                                    [
+                                      1,
+                                      "2025-11-18T14:32:03.021683"
+                                    ],
+                                    [
+                                      1,
+                                      "2025-11-18T14:34:58.291266"
+                                    ],
+                                    [
+                                      1,
+                                      "2025-11-18T14:43:28.067279"
+                                    ],
+                                    [
+                                      1,
+                                      "2025-11-18T14:45:22.423517"
+                                    ]
+                                  ],
+                                  "created_utc": 1763495600.0,
+                                  "depth": 7,
+                                  "permalink": "/r/technology/comments/1p0fr1y/google_announces_gemini_3_as_battle_with_openai/npjr0v5/",
+                                  "is_submitter": false,
+                                  "controversiality": 0,
+                                  "gilded": 0,
+                                  "edited": false,
+                                  "deleted": false,
+                                  "deleted_at": null,
+                                  "replies": []
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "npkhzhl",
+          "parent_id": "t1_npirl7g",
+          "author": "JohrDinh",
+          "text_history": [
+            [
+              "&gt; OpenAI is getting beaten in the enterprise side by Anthropic\n\nI dislike AI thus far, but I do appreciate Anthropic's marketing (Apple/human tool vibes) and their affinity for the arts/studies so far. As soon as OpenAI went porn bot I kinda lost interest entirely anyways, and Google I haven't used much but it's Google so I probably shouldn't count it out by default. Grok...idk it's just there but def continues to disappoint and becomes more corrupted as it goes from what I've been seeing.",
+              "2025-11-18T14:11:01.727815"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T14:11:01.727815"
+            ],
+            [
+              1,
+              "2025-11-18T14:12:31.061007"
+            ],
+            [
+              1,
+              "2025-11-18T14:21:11.063071"
+            ],
+            [
+              1,
+              "2025-11-18T14:22:02.065306"
+            ],
+            [
+              1,
+              "2025-11-18T14:23:10.156660"
+            ],
+            [
+              1,
+              "2025-11-18T14:23:53.185994"
+            ],
+            [
+              1,
+              "2025-11-18T14:32:03.021683"
+            ],
+            [
+              1,
+              "2025-11-18T14:34:58.291266"
+            ],
+            [
+              1,
+              "2025-11-18T14:43:28.067279"
+            ],
+            [
+              1,
+              "2025-11-18T14:45:22.423517"
+            ]
+          ],
+          "created_utc": 1763503725.0,
+          "depth": 1,
+          "permalink": "/r/technology/comments/1p0fr1y/google_announces_gemini_3_as_battle_with_openai/npkhzhl/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npikfrx",
+      "parent_id": "t3_1p0fr1y",
+      "author": "FollowingFeisty5321",
+      "text_history": [
+        [
+          "TBH the \"battle\" with OpenAI is probably over now that Google's monopoly abuse conviction let them keep Chrome and Android, keep buying default search engine status across all significant web browsers, and will now power the default voice assistant for iPhone too.  This puts OpenAI about where Firefox and DuckDuckGo are.",
+          "2025-11-18T13:48:59.062373"
+        ]
+      ],
+      "score_history": [
+        [
+          16,
+          "2025-11-18T13:48:59.062373"
+        ],
+        [
+          16,
+          "2025-11-18T14:00:15.759845"
+        ],
+        [
+          22,
+          "2025-11-18T14:11:01.727815"
+        ],
+        [
+          20,
+          "2025-11-18T14:12:31.061007"
+        ],
+        [
+          22,
+          "2025-11-18T14:21:11.063071"
+        ],
+        [
+          25,
+          "2025-11-18T14:22:02.065306"
+        ],
+        [
+          24,
+          "2025-11-18T14:23:10.156660"
+        ],
+        [
+          23,
+          "2025-11-18T14:23:53.185994"
+        ],
+        [
+          22,
+          "2025-11-18T14:32:03.021683"
+        ],
+        [
+          23,
+          "2025-11-18T14:34:58.291266"
+        ],
+        [
+          24,
+          "2025-11-18T14:43:28.067279"
+        ],
+        [
+          26,
+          "2025-11-18T14:45:22.423517"
+        ]
+      ],
+      "created_utc": 1763483129.0,
+      "depth": 0,
+      "permalink": "/r/technology/comments/1p0fr1y/google_announces_gemini_3_as_battle_with_openai/npikfrx/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npjd2qw",
+          "parent_id": "t1_npikfrx",
+          "author": "Headless_Human",
+          "text_history": [
+            [
+              "&gt;This puts OpenAI about where Firefox and DuckDuckGo are. \n\nNope even worse. FF and DDG at least make money and can mostly support themselves while OpenAI is losing a ton of money.",
+              "2025-11-18T13:48:59.062373"
+            ]
+          ],
+          "score_history": [
+            [
+              8,
+              "2025-11-18T13:48:59.062373"
+            ],
+            [
+              8,
+              "2025-11-18T14:00:15.759845"
+            ],
+            [
+              8,
+              "2025-11-18T14:11:01.727815"
+            ],
+            [
+              9,
+              "2025-11-18T14:12:31.061007"
+            ],
+            [
+              9,
+              "2025-11-18T14:21:11.063071"
+            ],
+            [
+              9,
+              "2025-11-18T14:22:02.065306"
+            ],
+            [
+              10,
+              "2025-11-18T14:23:10.156660"
+            ],
+            [
+              9,
+              "2025-11-18T14:23:53.185994"
+            ],
+            [
+              10,
+              "2025-11-18T14:32:03.021683"
+            ],
+            [
+              10,
+              "2025-11-18T14:34:58.291266"
+            ],
+            [
+              10,
+              "2025-11-18T14:43:28.067279"
+            ],
+            [
+              10,
+              "2025-11-18T14:45:22.423517"
+            ]
+          ],
+          "created_utc": 1763491466.0,
+          "depth": 1,
+          "permalink": "/r/technology/comments/1p0fr1y/google_announces_gemini_3_as_battle_with_openai/npjd2qw/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        },
+        {
+          "id": "npj5i73",
+          "parent_id": "t1_npikfrx",
+          "author": "hclpfan",
+          "text_history": [
+            [
+              "&gt; keep buying default search engine status across all significant web browsers\n\nI thought that was the only thing that *did* come out of the courts cases. Are they still able to buy?",
+              "2025-11-18T13:48:59.062373"
+            ]
+          ],
+          "score_history": [
+            [
+              0,
+              "2025-11-18T13:48:59.062373"
+            ],
+            [
+              0,
+              "2025-11-18T14:00:15.759845"
+            ],
+            [
+              0,
+              "2025-11-18T14:11:01.727815"
+            ],
+            [
+              0,
+              "2025-11-18T14:12:31.061007"
+            ],
+            [
+              0,
+              "2025-11-18T14:21:11.063071"
+            ],
+            [
+              0,
+              "2025-11-18T14:22:02.065306"
+            ],
+            [
+              0,
+              "2025-11-18T14:23:10.156660"
+            ],
+            [
+              0,
+              "2025-11-18T14:23:53.185994"
+            ],
+            [
+              0,
+              "2025-11-18T14:32:03.021683"
+            ],
+            [
+              0,
+              "2025-11-18T14:34:58.291266"
+            ],
+            [
+              0,
+              "2025-11-18T14:43:28.067279"
+            ],
+            [
+              0,
+              "2025-11-18T14:45:22.423517"
+            ]
+          ],
+          "created_utc": 1763489301.0,
+          "depth": 1,
+          "permalink": "/r/technology/comments/1p0fr1y/google_announces_gemini_3_as_battle_with_openai/npj5i73/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npja6go",
+              "parent_id": "t1_npj5i73",
+              "author": "FollowingFeisty5321",
+              "text_history": [
+                [
+                  "They're able to buy but it can't be exclusive, so if someone else comes up with a bigger offer (hah) they could be the default.",
+                  "2025-11-18T13:48:59.062373"
+                ]
+              ],
+              "score_history": [
+                [
+                  6,
+                  "2025-11-18T13:48:59.062373"
+                ],
+                [
+                  5,
+                  "2025-11-18T14:00:15.759845"
+                ],
+                [
+                  7,
+                  "2025-11-18T14:11:01.727815"
+                ],
+                [
+                  6,
+                  "2025-11-18T14:12:31.061007"
+                ],
+                [
+                  6,
+                  "2025-11-18T14:21:11.063071"
+                ],
+                [
+                  5,
+                  "2025-11-18T14:22:02.065306"
+                ],
+                [
+                  6,
+                  "2025-11-18T14:23:10.156660"
+                ],
+                [
+                  5,
+                  "2025-11-18T14:23:53.185994"
+                ],
+                [
+                  6,
+                  "2025-11-18T14:32:03.021683"
+                ],
+                [
+                  7,
+                  "2025-11-18T14:34:58.291266"
+                ],
+                [
+                  7,
+                  "2025-11-18T14:43:28.067279"
+                ],
+                [
+                  6,
+                  "2025-11-18T14:45:22.423517"
+                ]
+              ],
+              "created_utc": 1763490637.0,
+              "depth": 2,
+              "permalink": "/r/technology/comments/1p0fr1y/google_announces_gemini_3_as_battle_with_openai/npja6go/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": [
+                {
+                  "id": "npjf70t",
+                  "parent_id": "t1_npja6go",
+                  "author": "hclpfan",
+                  "text_history": [
+                    [
+                      "Aaahhh got it. Yeah nobody is going to be able to outspend them",
+                      "2025-11-18T13:48:59.062373"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      1,
+                      "2025-11-18T13:48:59.062373"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T14:00:15.759845"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T14:11:01.727815"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T14:12:31.061007"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T14:21:11.063071"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T14:22:02.065306"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T14:23:10.156660"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T14:23:53.185994"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T14:32:03.021683"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T14:34:58.291266"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T14:43:28.067279"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T14:45:22.423517"
+                    ]
+                  ],
+                  "created_utc": 1763492075.0,
+                  "depth": 3,
+                  "permalink": "/r/technology/comments/1p0fr1y/google_announces_gemini_3_as_battle_with_openai/npjf70t/",
+                  "is_submitter": false,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "npjvj1a",
+      "parent_id": "t3_1p0fr1y",
+      "author": "caverunner17",
+      "text_history": [
+        [
+          "I just wish Gemini had the ability to create groupings of prompts like ChatGPT can",
+          "2025-11-18T13:48:59.062373"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-18T13:48:59.062373"
+        ],
+        [
+          2,
+          "2025-11-18T14:00:15.759845"
+        ],
+        [
+          2,
+          "2025-11-18T14:11:01.727815"
+        ],
+        [
+          3,
+          "2025-11-18T14:12:31.061007"
+        ],
+        [
+          3,
+          "2025-11-18T14:21:11.063071"
+        ],
+        [
+          3,
+          "2025-11-18T14:22:02.065306"
+        ],
+        [
+          4,
+          "2025-11-18T14:23:10.156660"
+        ],
+        [
+          3,
+          "2025-11-18T14:23:53.185994"
+        ],
+        [
+          4,
+          "2025-11-18T14:32:03.021683"
+        ],
+        [
+          4,
+          "2025-11-18T14:34:58.291266"
+        ],
+        [
+          6,
+          "2025-11-18T14:43:28.067279"
+        ],
+        [
+          5,
+          "2025-11-18T14:45:22.423517"
+        ]
+      ],
+      "created_utc": 1763496962.0,
+      "depth": 0,
+      "permalink": "/r/technology/comments/1p0fr1y/google_announces_gemini_3_as_battle_with_openai/npjvj1a/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npjfv7m",
+      "parent_id": "t3_1p0fr1y",
+      "author": "Daharka",
+      "text_history": [
+        [
+          "Also Sundar Pichai: [don't blindly trust AI, the tech isn't there](https://www.bbc.co.uk/news/articles/c8drzv37z4jo).",
+          "2025-11-18T13:48:59.062373"
+        ]
+      ],
+      "score_history": [
+        [
+          3,
+          "2025-11-18T13:48:59.062373"
+        ],
+        [
+          4,
+          "2025-11-18T14:00:15.759845"
+        ],
+        [
+          6,
+          "2025-11-18T14:11:01.727815"
+        ],
+        [
+          6,
+          "2025-11-18T14:12:31.061007"
+        ],
+        [
+          6,
+          "2025-11-18T14:21:11.063071"
+        ],
+        [
+          6,
+          "2025-11-18T14:22:02.065306"
+        ],
+        [
+          6,
+          "2025-11-18T14:23:10.156660"
+        ],
+        [
+          7,
+          "2025-11-18T14:23:53.185994"
+        ],
+        [
+          6,
+          "2025-11-18T14:32:03.021683"
+        ],
+        [
+          6,
+          "2025-11-18T14:34:58.291266"
+        ],
+        [
+          6,
+          "2025-11-18T14:43:28.067279"
+        ],
+        [
+          6,
+          "2025-11-18T14:45:22.423517"
+        ]
+      ],
+      "created_utc": 1763492270.0,
+      "depth": 0,
+      "permalink": "/r/technology/comments/1p0fr1y/google_announces_gemini_3_as_battle_with_openai/npjfv7m/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npjti7c",
+      "parent_id": "t3_1p0fr1y",
+      "author": "RamenAfterRain",
+      "text_history": [
+        [
+          "This sub always told me that AI is a hoax und just hype. The same sub tells everyone that AI is dangerous and stealing jobs. /s\n\nThe benchmarks of Gemini 3 are mind blowing. And I’m very afraid of the future we are heading too. You can take AI seriously and still dislike it. \n\nEveryone who thinks AI is just hype is a moron",
+          "2025-11-18T13:48:59.062373"
+        ]
+      ],
+      "score_history": [
+        [
+          5,
+          "2025-11-18T13:48:59.062373"
+        ],
+        [
+          8,
+          "2025-11-18T14:00:15.759845"
+        ],
+        [
+          7,
+          "2025-11-18T14:11:01.727815"
+        ],
+        [
+          7,
+          "2025-11-18T14:12:31.061007"
+        ],
+        [
+          5,
+          "2025-11-18T14:21:11.063071"
+        ],
+        [
+          6,
+          "2025-11-18T14:22:02.065306"
+        ],
+        [
+          6,
+          "2025-11-18T14:23:10.156660"
+        ],
+        [
+          7,
+          "2025-11-18T14:23:53.185994"
+        ],
+        [
+          6,
+          "2025-11-18T14:32:03.021683"
+        ],
+        [
+          8,
+          "2025-11-18T14:34:58.291266"
+        ],
+        [
+          6,
+          "2025-11-18T14:43:28.067279"
+        ],
+        [
+          5,
+          "2025-11-18T14:45:22.423517"
+        ]
+      ],
+      "created_utc": 1763496346.0,
+      "depth": 0,
+      "permalink": "/r/technology/comments/1p0fr1y/google_announces_gemini_3_as_battle_with_openai/npjti7c/",
+      "is_submitter": false,
+      "controversiality": 1,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npjvntk",
+          "parent_id": "t1_npjti7c",
+          "author": "94746382926",
+          "text_history": [
+            [
+              "This sub is full of a bunch of people who hate technology",
+              "2025-11-18T13:48:59.062373"
+            ]
+          ],
+          "score_history": [
+            [
+              7,
+              "2025-11-18T13:48:59.062373"
+            ],
+            [
+              9,
+              "2025-11-18T14:00:15.759845"
+            ],
+            [
+              6,
+              "2025-11-18T14:11:01.727815"
+            ],
+            [
+              7,
+              "2025-11-18T14:12:31.061007"
+            ],
+            [
+              6,
+              "2025-11-18T14:21:11.063071"
+            ],
+            [
+              8,
+              "2025-11-18T14:22:02.065306"
+            ],
+            [
+              6,
+              "2025-11-18T14:23:10.156660"
+            ],
+            [
+              8,
+              "2025-11-18T14:23:53.185994"
+            ],
+            [
+              7,
+              "2025-11-18T14:32:03.021683"
+            ],
+            [
+              8,
+              "2025-11-18T14:34:58.291266"
+            ],
+            [
+              8,
+              "2025-11-18T14:43:28.067279"
+            ],
+            [
+              8,
+              "2025-11-18T14:45:22.423517"
+            ]
+          ],
+          "created_utc": 1763497003.0,
+          "depth": 1,
+          "permalink": "/r/technology/comments/1p0fr1y/google_announces_gemini_3_as_battle_with_openai/npjvntk/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npkma3l",
+              "parent_id": "t1_npjvntk",
+              "author": "grchelp2018",
+              "text_history": [
+                [
+                  "A lot of people are scared and trying to manifest failure by speaking negatively about it.",
+                  "2025-11-18T14:32:03.021683"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-18T14:32:03.021683"
+                ],
+                [
+                  1,
+                  "2025-11-18T14:34:58.291266"
+                ],
+                [
+                  2,
+                  "2025-11-18T14:43:28.067279"
+                ],
+                [
+                  1,
+                  "2025-11-18T14:45:22.423517"
+                ]
+              ],
+              "created_utc": 1763505102.0,
+              "depth": 2,
+              "permalink": "/r/technology/comments/1p0fr1y/google_announces_gemini_3_as_battle_with_openai/npkma3l/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "npklh0c",
+          "parent_id": "t1_npjti7c",
+          "author": "blueSGL",
+          "text_history": [
+            [
+              "&gt;This sub always told me that AI is a hoax und just hype. The same sub tells everyone that AI is dangerous and stealing jobs. \n\nNo. This place is pretty consistent. \n\nWhenever a \"Stealing Jobs\" post get made people either say the company is performing layoffs for other reasons / outsourcing by a different name. AI = Actually Indians, ergo the AI does not work as advertised. \n\nand when people say the tech is dangerous they do so by pointing to the misinformation it gives to users, so that is another angle on it not working correctly.",
+              "2025-11-18T14:32:03.021683"
+            ]
+          ],
+          "score_history": [
+            [
+              2,
+              "2025-11-18T14:32:03.021683"
+            ],
+            [
+              2,
+              "2025-11-18T14:34:58.291266"
+            ],
+            [
+              2,
+              "2025-11-18T14:43:28.067279"
+            ],
+            [
+              1,
+              "2025-11-18T14:45:22.423517"
+            ]
+          ],
+          "created_utc": 1763504840.0,
+          "depth": 1,
+          "permalink": "/r/technology/comments/1p0fr1y/google_announces_gemini_3_as_battle_with_openai/npklh0c/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npira6h",
+      "parent_id": "t3_1p0fr1y",
+      "author": "Marha01",
+      "text_history": [
+        [
+          "The benchmarks are **very** good, it's the best AI model to date.\n\nLuddites and decels blown the f*ck out. AI progress continues.\n\n/r/accelerate",
+          "2025-11-18T13:48:59.062373"
+        ]
+      ],
+      "score_history": [
+        [
+          8,
+          "2025-11-18T13:48:59.062373"
+        ],
+        [
+          11,
+          "2025-11-18T14:00:15.759845"
+        ],
+        [
+          9,
+          "2025-11-18T14:11:01.727815"
+        ],
+        [
+          10,
+          "2025-11-18T14:12:31.061007"
+        ],
+        [
+          13,
+          "2025-11-18T14:21:11.063071"
+        ],
+        [
+          9,
+          "2025-11-18T14:22:02.065306"
+        ],
+        [
+          9,
+          "2025-11-18T14:23:10.156660"
+        ],
+        [
+          11,
+          "2025-11-18T14:23:53.185994"
+        ],
+        [
+          10,
+          "2025-11-18T14:32:03.021683"
+        ],
+        [
+          10,
+          "2025-11-18T14:34:58.291266"
+        ],
+        [
+          9,
+          "2025-11-18T14:43:28.067279"
+        ],
+        [
+          12,
+          "2025-11-18T14:45:22.423517"
+        ]
+      ],
+      "created_utc": 1763485128.0,
+      "depth": 0,
+      "permalink": "/r/technology/comments/1p0fr1y/google_announces_gemini_3_as_battle_with_openai/npira6h/",
+      "is_submitter": false,
+      "controversiality": 1,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npixk3h",
+          "parent_id": "t1_npira6h",
+          "author": "marlinspike",
+          "text_history": [
+            [
+              "How do you justify the claim that LLMs are plateauing after those numbers? Google cooked, and they’re just hitting their stride.",
+              "2025-11-18T13:48:59.062373"
+            ]
+          ],
+          "score_history": [
+            [
+              11,
+              "2025-11-18T13:48:59.062373"
+            ],
+            [
+              9,
+              "2025-11-18T14:00:15.759845"
+            ],
+            [
+              9,
+              "2025-11-18T14:11:01.727815"
+            ],
+            [
+              8,
+              "2025-11-18T14:12:31.061007"
+            ],
+            [
+              11,
+              "2025-11-18T14:21:11.063071"
+            ],
+            [
+              9,
+              "2025-11-18T14:22:02.065306"
+            ],
+            [
+              10,
+              "2025-11-18T14:23:10.156660"
+            ],
+            [
+              9,
+              "2025-11-18T14:23:53.185994"
+            ],
+            [
+              12,
+              "2025-11-18T14:32:03.021683"
+            ],
+            [
+              9,
+              "2025-11-18T14:34:58.291266"
+            ],
+            [
+              10,
+              "2025-11-18T14:43:28.067279"
+            ],
+            [
+              9,
+              "2025-11-18T14:45:22.423517"
+            ]
+          ],
+          "created_utc": 1763486982.0,
+          "depth": 1,
+          "permalink": "/r/technology/comments/1p0fr1y/google_announces_gemini_3_as_battle_with_openai/npixk3h/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npiyy70",
+              "parent_id": "t1_npixk3h",
+              "author": "Marha01",
+              "text_history": [
+                [
+                  "Yup. Progress is clearly possible. And I want to point out that there is zero evidence for any regress or \"model collapse\" that anti-AIs promised us.",
+                  "2025-11-18T13:48:59.062373"
+                ]
+              ],
+              "score_history": [
+                [
+                  7,
+                  "2025-11-18T13:48:59.062373"
+                ],
+                [
+                  8,
+                  "2025-11-18T14:00:15.759845"
+                ],
+                [
+                  7,
+                  "2025-11-18T14:11:01.727815"
+                ],
+                [
+                  8,
+                  "2025-11-18T14:12:31.061007"
+                ],
+                [
+                  7,
+                  "2025-11-18T14:21:11.063071"
+                ],
+                [
+                  6,
+                  "2025-11-18T14:22:02.065306"
+                ],
+                [
+                  8,
+                  "2025-11-18T14:23:10.156660"
+                ],
+                [
+                  6,
+                  "2025-11-18T14:23:53.185994"
+                ],
+                [
+                  6,
+                  "2025-11-18T14:32:03.021683"
+                ],
+                [
+                  7,
+                  "2025-11-18T14:34:58.291266"
+                ],
+                [
+                  7,
+                  "2025-11-18T14:43:28.067279"
+                ],
+                [
+                  8,
+                  "2025-11-18T14:45:22.423517"
+                ]
+              ],
+              "created_utc": 1763487398.0,
+              "depth": 2,
+              "permalink": "/r/technology/comments/1p0fr1y/google_announces_gemini_3_as_battle_with_openai/npiyy70/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "npkmkyq",
+          "parent_id": "t1_npira6h",
+          "author": "EricSanderson",
+          "text_history": [
+            [
+              "Lol tell me you have every penny invested in AI without saying you have every penny invested in AI.\n\nYou sound *exactly* like the GME bagholders, talking about benchmarks and shills and using fucking hashtags on reddit.",
+              "2025-11-18T14:34:58.291266"
+            ],
+            [
+              "Lol tell me you have every penny invested in AI without saying you have every penny invested in AI.\n\nYou sound *exactly* like the GME bagholders",
+              "2025-11-18T14:43:28.067279"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T14:34:58.291266"
+            ],
+            [
+              2,
+              "2025-11-18T14:43:28.067279"
+            ],
+            [
+              2,
+              "2025-11-18T14:45:22.423517"
+            ]
+          ],
+          "created_utc": 1763505203.0,
+          "depth": 1,
+          "permalink": "/r/technology/comments/1p0fr1y/google_announces_gemini_3_as_battle_with_openai/npkmkyq/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        },
+        {
+          "id": "npiz926",
+          "parent_id": "t1_npira6h",
+          "author": "Southern-Rest-8681",
+          "text_history": [
+            [
+              "Can you let me in on the secret stash of money or resources you have after everything inevitably collapses thanks to this acceleration and total political inaction?",
+              "2025-11-18T13:48:59.062373"
+            ]
+          ],
+          "score_history": [
+            [
+              -1,
+              "2025-11-18T13:48:59.062373"
+            ],
+            [
+              0,
+              "2025-11-18T14:00:15.759845"
+            ],
+            [
+              4,
+              "2025-11-18T14:11:01.727815"
+            ],
+            [
+              3,
+              "2025-11-18T14:12:31.061007"
+            ],
+            [
+              3,
+              "2025-11-18T14:21:11.063071"
+            ],
+            [
+              3,
+              "2025-11-18T14:22:02.065306"
+            ],
+            [
+              4,
+              "2025-11-18T14:23:10.156660"
+            ],
+            [
+              3,
+              "2025-11-18T14:23:53.185994"
+            ],
+            [
+              3,
+              "2025-11-18T14:32:03.021683"
+            ],
+            [
+              2,
+              "2025-11-18T14:34:58.291266"
+            ],
+            [
+              3,
+              "2025-11-18T14:43:28.067279"
+            ],
+            [
+              4,
+              "2025-11-18T14:45:22.423517"
+            ]
+          ],
+          "created_utc": 1763487489.0,
+          "depth": 1,
+          "permalink": "/r/technology/comments/1p0fr1y/google_announces_gemini_3_as_battle_with_openai/npiz926/",
+          "is_submitter": false,
+          "controversiality": 1,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npj00gm",
+              "parent_id": "t1_npiz926",
+              "author": "Marha01",
+              "text_history": [
+                [
+                  "Apocalypse prophecies are so 10th century A. D.\n\nRelax, it will be OK.",
+                  "2025-11-18T13:48:59.062373"
+                ]
+              ],
+              "score_history": [
+                [
+                  3,
+                  "2025-11-18T13:48:59.062373"
+                ],
+                [
+                  5,
+                  "2025-11-18T14:00:15.759845"
+                ],
+                [
+                  4,
+                  "2025-11-18T14:11:01.727815"
+                ],
+                [
+                  3,
+                  "2025-11-18T14:12:31.061007"
+                ],
+                [
+                  2,
+                  "2025-11-18T14:21:11.063071"
+                ],
+                [
+                  3,
+                  "2025-11-18T14:22:02.065306"
+                ],
+                [
+                  2,
+                  "2025-11-18T14:23:10.156660"
+                ],
+                [
+                  2,
+                  "2025-11-18T14:23:53.185994"
+                ],
+                [
+                  1,
+                  "2025-11-18T14:32:03.021683"
+                ],
+                [
+                  0,
+                  "2025-11-18T14:34:58.291266"
+                ],
+                [
+                  3,
+                  "2025-11-18T14:43:28.067279"
+                ],
+                [
+                  1,
+                  "2025-11-18T14:45:22.423517"
+                ]
+              ],
+              "created_utc": 1763487713.0,
+              "depth": 2,
+              "permalink": "/r/technology/comments/1p0fr1y/google_announces_gemini_3_as_battle_with_openai/npj00gm/",
+              "is_submitter": false,
+              "controversiality": 1,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": [
+                {
+                  "id": "npj1cqh",
+                  "parent_id": "t1_npj00gm",
+                  "author": "LucasJ218",
+                  "text_history": [
+                    [
+                      "RemindMe! 1 year",
+                      "2025-11-18T13:48:59.062373"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      2,
+                      "2025-11-18T13:48:59.062373"
+                    ],
+                    [
+                      3,
+                      "2025-11-18T14:00:15.759845"
+                    ],
+                    [
+                      6,
+                      "2025-11-18T14:11:01.727815"
+                    ],
+                    [
+                      5,
+                      "2025-11-18T14:12:31.061007"
+                    ],
+                    [
+                      6,
+                      "2025-11-18T14:21:11.063071"
+                    ],
+                    [
+                      6,
+                      "2025-11-18T14:22:02.065306"
+                    ],
+                    [
+                      6,
+                      "2025-11-18T14:23:10.156660"
+                    ],
+                    [
+                      6,
+                      "2025-11-18T14:23:53.185994"
+                    ],
+                    [
+                      6,
+                      "2025-11-18T14:32:03.021683"
+                    ],
+                    [
+                      6,
+                      "2025-11-18T14:34:58.291266"
+                    ],
+                    [
+                      6,
+                      "2025-11-18T14:43:28.067279"
+                    ],
+                    [
+                      5,
+                      "2025-11-18T14:45:22.423517"
+                    ]
+                  ],
+                  "created_utc": 1763488106.0,
+                  "depth": 3,
+                  "permalink": "/r/technology/comments/1p0fr1y/google_announces_gemini_3_as_battle_with_openai/npj1cqh/",
+                  "is_submitter": false,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": [
+                    {
+                      "id": "npj1mu1",
+                      "parent_id": "t1_npj1cqh",
+                      "author": "Marha01",
+                      "text_history": [
+                        [
+                          "RemindMe! 1 year",
+                          "2025-11-18T13:48:59.062373"
+                        ]
+                      ],
+                      "score_history": [
+                        [
+                          5,
+                          "2025-11-18T13:48:59.062373"
+                        ],
+                        [
+                          6,
+                          "2025-11-18T14:00:15.759845"
+                        ],
+                        [
+                          8,
+                          "2025-11-18T14:11:01.727815"
+                        ],
+                        [
+                          7,
+                          "2025-11-18T14:12:31.061007"
+                        ],
+                        [
+                          7,
+                          "2025-11-18T14:21:11.063071"
+                        ],
+                        [
+                          5,
+                          "2025-11-18T14:22:02.065306"
+                        ],
+                        [
+                          8,
+                          "2025-11-18T14:23:10.156660"
+                        ],
+                        [
+                          6,
+                          "2025-11-18T14:23:53.185994"
+                        ],
+                        [
+                          5,
+                          "2025-11-18T14:32:03.021683"
+                        ],
+                        [
+                          6,
+                          "2025-11-18T14:34:58.291266"
+                        ],
+                        [
+                          8,
+                          "2025-11-18T14:43:28.067279"
+                        ],
+                        [
+                          7,
+                          "2025-11-18T14:45:22.423517"
+                        ]
+                      ],
+                      "created_utc": 1763488188.0,
+                      "depth": 4,
+                      "permalink": "/r/technology/comments/1p0fr1y/google_announces_gemini_3_as_battle_with_openai/npj1mu1/",
+                      "is_submitter": false,
+                      "controversiality": 0,
+                      "gilded": 0,
+                      "edited": false,
+                      "deleted": false,
+                      "deleted_at": null,
+                      "replies": [
+                        {
+                          "id": "npj1y2y",
+                          "parent_id": "t1_npj1mu1",
+                          "author": "LucasJ218",
+                          "text_history": [
+                            [
+                              "You're so tech saavy you \"got me\" with a redundant notification for you to see in a year? Damn dude!",
+                              "2025-11-18T13:48:59.062373"
+                            ]
+                          ],
+                          "score_history": [
+                            [
+                              -2,
+                              "2025-11-18T13:48:59.062373"
+                            ],
+                            [
+                              -2,
+                              "2025-11-18T14:00:15.759845"
+                            ],
+                            [
+                              0,
+                              "2025-11-18T14:11:01.727815"
+                            ],
+                            [
+                              0,
+                              "2025-11-18T14:12:31.061007"
+                            ],
+                            [
+                              -1,
+                              "2025-11-18T14:21:11.063071"
+                            ],
+                            [
+                              1,
+                              "2025-11-18T14:22:02.065306"
+                            ],
+                            [
+                              0,
+                              "2025-11-18T14:23:10.156660"
+                            ],
+                            [
+                              0,
+                              "2025-11-18T14:23:53.185994"
+                            ],
+                            [
+                              0,
+                              "2025-11-18T14:32:03.021683"
+                            ],
+                            [
+                              -1,
+                              "2025-11-18T14:34:58.291266"
+                            ],
+                            [
+                              -1,
+                              "2025-11-18T14:43:28.067279"
+                            ],
+                            [
+                              -2,
+                              "2025-11-18T14:45:22.423517"
+                            ]
+                          ],
+                          "created_utc": 1763488277.0,
+                          "depth": 5,
+                          "permalink": "/r/technology/comments/1p0fr1y/google_announces_gemini_3_as_battle_with_openai/npj1y2y/",
+                          "is_submitter": false,
+                          "controversiality": 1,
+                          "gilded": 0,
+                          "edited": false,
+                          "deleted": false,
+                          "deleted_at": null,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "npj23c0",
+                  "parent_id": "t1_npj00gm",
+                  "author": "Southern-Rest-8681",
+                  "text_history": [
+                    [
+                      "No apocalypse, just slow and ugly decay. Please enlighten me on what is your source of optimism.",
+                      "2025-11-18T13:48:59.062373"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      1,
+                      "2025-11-18T13:48:59.062373"
+                    ],
+                    [
+                      2,
+                      "2025-11-18T14:00:15.759845"
+                    ],
+                    [
+                      4,
+                      "2025-11-18T14:11:01.727815"
+                    ],
+                    [
+                      5,
+                      "2025-11-18T14:12:31.061007"
+                    ],
+                    [
+                      2,
+                      "2025-11-18T14:21:11.063071"
+                    ],
+                    [
+                      3,
+                      "2025-11-18T14:22:02.065306"
+                    ],
+                    [
+                      6,
+                      "2025-11-18T14:23:10.156660"
+                    ],
+                    [
+                      4,
+                      "2025-11-18T14:23:53.185994"
+                    ],
+                    [
+                      2,
+                      "2025-11-18T14:32:03.021683"
+                    ],
+                    [
+                      5,
+                      "2025-11-18T14:34:58.291266"
+                    ],
+                    [
+                      4,
+                      "2025-11-18T14:43:28.067279"
+                    ],
+                    [
+                      4,
+                      "2025-11-18T14:45:22.423517"
+                    ]
+                  ],
+                  "created_utc": 1763488319.0,
+                  "depth": 3,
+                  "permalink": "/r/technology/comments/1p0fr1y/google_announces_gemini_3_as_battle_with_openai/npj23c0/",
+                  "is_submitter": false,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": [
+                    {
+                      "id": "npj344y",
+                      "parent_id": "t1_npj23c0",
+                      "author": "Marha01",
+                      "text_history": [
+                        [
+                          "AI getting better is my source of optimism. AGI can solve a lot of humanity's issues.",
+                          "2025-11-18T13:48:59.062373"
+                        ]
+                      ],
+                      "score_history": [
+                        [
+                          4,
+                          "2025-11-18T13:48:59.062373"
+                        ],
+                        [
+                          4,
+                          "2025-11-18T14:00:15.759845"
+                        ],
+                        [
+                          6,
+                          "2025-11-18T14:11:01.727815"
+                        ],
+                        [
+                          4,
+                          "2025-11-18T14:12:31.061007"
+                        ],
+                        [
+                          3,
+                          "2025-11-18T14:21:11.063071"
+                        ],
+                        [
+                          3,
+                          "2025-11-18T14:22:02.065306"
+                        ],
+                        [
+                          5,
+                          "2025-11-18T14:23:10.156660"
+                        ],
+                        [
+                          4,
+                          "2025-11-18T14:23:53.185994"
+                        ],
+                        [
+                          4,
+                          "2025-11-18T14:32:03.021683"
+                        ],
+                        [
+                          3,
+                          "2025-11-18T14:34:58.291266"
+                        ],
+                        [
+                          5,
+                          "2025-11-18T14:43:28.067279"
+                        ],
+                        [
+                          4,
+                          "2025-11-18T14:45:22.423517"
+                        ]
+                      ],
+                      "created_utc": 1763488609.0,
+                      "depth": 4,
+                      "permalink": "/r/technology/comments/1p0fr1y/google_announces_gemini_3_as_battle_with_openai/npj344y/",
+                      "is_submitter": false,
+                      "controversiality": 0,
+                      "gilded": 0,
+                      "edited": false,
+                      "deleted": false,
+                      "deleted_at": null,
+                      "replies": [
+                        {
+                          "id": "npj3ww8",
+                          "parent_id": "t1_npj344y",
+                          "author": "historianLA",
+                          "text_history": [
+                            [
+                              "Not unless there is political will to tax the extreme wealth of the billionaires and corporations that profit from it. But since they have bought the politicians we're just headed for a dystopian future where humans don't have jobs and somehow billionaires circle jerk themselves into trillionaires",
+                              "2025-11-18T13:48:59.062373"
+                            ]
+                          ],
+                          "score_history": [
+                            [
+                              0,
+                              "2025-11-18T13:48:59.062373"
+                            ],
+                            [
+                              0,
+                              "2025-11-18T14:00:15.759845"
+                            ],
+                            [
+                              1,
+                              "2025-11-18T14:11:01.727815"
+                            ],
+                            [
+                              2,
+                              "2025-11-18T14:12:31.061007"
+                            ],
+                            [
+                              3,
+                              "2025-11-18T14:21:11.063071"
+                            ],
+                            [
+                              3,
+                              "2025-11-18T14:22:02.065306"
+                            ],
+                            [
+                              3,
+                              "2025-11-18T14:23:10.156660"
+                            ],
+                            [
+                              3,
+                              "2025-11-18T14:23:53.185994"
+                            ],
+                            [
+                              4,
+                              "2025-11-18T14:32:03.021683"
+                            ],
+                            [
+                              5,
+                              "2025-11-18T14:34:58.291266"
+                            ],
+                            [
+                              5,
+                              "2025-11-18T14:43:28.067279"
+                            ],
+                            [
+                              5,
+                              "2025-11-18T14:45:22.423517"
+                            ]
+                          ],
+                          "created_utc": 1763488839.0,
+                          "depth": 5,
+                          "permalink": "/r/technology/comments/1p0fr1y/google_announces_gemini_3_as_battle_with_openai/npj3ww8/",
+                          "is_submitter": false,
+                          "controversiality": 0,
+                          "gilded": 0,
+                          "edited": false,
+                          "deleted": false,
+                          "deleted_at": null,
+                          "replies": [
+                            {
+                              "id": "npj4kvs",
+                              "parent_id": "t1_npj3ww8",
+                              "author": "Marha01",
+                              "text_history": [
+                                [
+                                  "Technology is the one thing that historically always trickles down. If AGI is invented, it is only a matter of time before average humans, not just billionaries, can control and use it. Current open AI models are only a few months behind closed AI models.",
+                                  "2025-11-18T13:48:59.062373"
+                                ]
+                              ],
+                              "score_history": [
+                                [
+                                  2,
+                                  "2025-11-18T13:48:59.062373"
+                                ],
+                                [
+                                  2,
+                                  "2025-11-18T14:00:15.759845"
+                                ],
+                                [
+                                  2,
+                                  "2025-11-18T14:11:01.727815"
+                                ],
+                                [
+                                  2,
+                                  "2025-11-18T14:12:31.061007"
+                                ],
+                                [
+                                  2,
+                                  "2025-11-18T14:21:11.063071"
+                                ],
+                                [
+                                  2,
+                                  "2025-11-18T14:22:02.065306"
+                                ],
+                                [
+                                  2,
+                                  "2025-11-18T14:23:10.156660"
+                                ],
+                                [
+                                  2,
+                                  "2025-11-18T14:23:53.185994"
+                                ],
+                                [
+                                  2,
+                                  "2025-11-18T14:32:03.021683"
+                                ],
+                                [
+                                  2,
+                                  "2025-11-18T14:34:58.291266"
+                                ],
+                                [
+                                  2,
+                                  "2025-11-18T14:43:28.067279"
+                                ],
+                                [
+                                  2,
+                                  "2025-11-18T14:45:22.423517"
+                                ]
+                              ],
+                              "created_utc": 1763489031.0,
+                              "depth": 6,
+                              "permalink": "/r/technology/comments/1p0fr1y/google_announces_gemini_3_as_battle_with_openai/npj4kvs/",
+                              "is_submitter": false,
+                              "controversiality": 0,
+                              "gilded": 0,
+                              "edited": false,
+                              "deleted": false,
+                              "deleted_at": null,
+                              "replies": [
+                                {
+                                  "id": "npj4scl",
+                                  "parent_id": "t1_npj4kvs",
+                                  "author": "Southern-Rest-8681",
+                                  "text_history": [
+                                    [
+                                      "And you have the super expensive compute to run anything comparable to state of the art models at home?",
+                                      "2025-11-18T13:48:59.062373"
+                                    ]
+                                  ],
+                                  "score_history": [
+                                    [
+                                      0,
+                                      "2025-11-18T13:48:59.062373"
+                                    ],
+                                    [
+                                      1,
+                                      "2025-11-18T14:00:15.759845"
+                                    ],
+                                    [
+                                      2,
+                                      "2025-11-18T14:11:01.727815"
+                                    ],
+                                    [
+                                      2,
+                                      "2025-11-18T14:12:31.061007"
+                                    ],
+                                    [
+                                      4,
+                                      "2025-11-18T14:21:11.063071"
+                                    ],
+                                    [
+                                      4,
+                                      "2025-11-18T14:22:02.065306"
+                                    ],
+                                    [
+                                      3,
+                                      "2025-11-18T14:23:10.156660"
+                                    ],
+                                    [
+                                      1,
+                                      "2025-11-18T14:23:53.185994"
+                                    ],
+                                    [
+                                      4,
+                                      "2025-11-18T14:32:03.021683"
+                                    ],
+                                    [
+                                      5,
+                                      "2025-11-18T14:34:58.291266"
+                                    ],
+                                    [
+                                      3,
+                                      "2025-11-18T14:43:28.067279"
+                                    ],
+                                    [
+                                      5,
+                                      "2025-11-18T14:45:22.423517"
+                                    ]
+                                  ],
+                                  "created_utc": 1763489092.0,
+                                  "depth": 7,
+                                  "permalink": "/r/technology/comments/1p0fr1y/google_announces_gemini_3_as_battle_with_openai/npj4scl/",
+                                  "is_submitter": false,
+                                  "controversiality": 0,
+                                  "gilded": 0,
+                                  "edited": false,
+                                  "deleted": false,
+                                  "deleted_at": null,
+                                  "replies": [
+                                    {
+                                      "id": "npj57ou",
+                                      "parent_id": "t1_npj4scl",
+                                      "author": "Marha01",
+                                      "text_history": [
+                                        [
+                                          "Look at /r/LocalLLaMA . It's not that expensive. Higher middle class territory perhaps, but not billionaire territory.",
+                                          "2025-11-18T13:48:59.062373"
+                                        ]
+                                      ],
+                                      "score_history": [
+                                        [
+                                          3,
+                                          "2025-11-18T13:48:59.062373"
+                                        ],
+                                        [
+                                          4,
+                                          "2025-11-18T14:00:15.759845"
+                                        ],
+                                        [
+                                          4,
+                                          "2025-11-18T14:11:01.727815"
+                                        ],
+                                        [
+                                          3,
+                                          "2025-11-18T14:12:31.061007"
+                                        ],
+                                        [
+                                          4,
+                                          "2025-11-18T14:21:11.063071"
+                                        ],
+                                        [
+                                          3,
+                                          "2025-11-18T14:22:02.065306"
+                                        ],
+                                        [
+                                          4,
+                                          "2025-11-18T14:23:10.156660"
+                                        ],
+                                        [
+                                          6,
+                                          "2025-11-18T14:23:53.185994"
+                                        ],
+                                        [
+                                          2,
+                                          "2025-11-18T14:32:03.021683"
+                                        ],
+                                        [
+                                          3,
+                                          "2025-11-18T14:34:58.291266"
+                                        ],
+                                        [
+                                          3,
+                                          "2025-11-18T14:43:28.067279"
+                                        ],
+                                        [
+                                          3,
+                                          "2025-11-18T14:45:22.423517"
+                                        ]
+                                      ],
+                                      "created_utc": 1763489217.0,
+                                      "depth": 8,
+                                      "permalink": "/r/technology/comments/1p0fr1y/google_announces_gemini_3_as_battle_with_openai/npj57ou/",
+                                      "is_submitter": false,
+                                      "controversiality": 0,
+                                      "gilded": 0,
+                                      "edited": false,
+                                      "deleted": false,
+                                      "deleted_at": null,
+                                      "replies": []
+                                    }
+                                  ]
+                                },
+                                {
+                                  "id": "npkklmc",
+                                  "parent_id": "t1_npj4kvs",
+                                  "author": "Hypercles",
+                                  "text_history": [
+                                    [
+                                      "And how exactly does that help you when can you get made redundant because your boss decides ai can do your job better than you and your power gets shit off because you can no longer afford the sky rocketing prices as more and more of the aging grid is diverted to power data centres? ",
+                                      "2025-11-18T14:23:10.156660"
+                                    ]
+                                  ],
+                                  "score_history": [
+                                    [
+                                      1,
+                                      "2025-11-18T14:23:10.156660"
+                                    ],
+                                    [
+                                      1,
+                                      "2025-11-18T14:23:53.185994"
+                                    ],
+                                    [
+                                      2,
+                                      "2025-11-18T14:32:03.021683"
+                                    ],
+                                    [
+                                      2,
+                                      "2025-11-18T14:34:58.291266"
+                                    ],
+                                    [
+                                      2,
+                                      "2025-11-18T14:43:28.067279"
+                                    ],
+                                    [
+                                      2,
+                                      "2025-11-18T14:45:22.423517"
+                                    ]
+                                  ],
+                                  "created_utc": 1763504557.0,
+                                  "depth": 7,
+                                  "permalink": "/r/technology/comments/1p0fr1y/google_announces_gemini_3_as_battle_with_openai/npkklmc/",
+                                  "is_submitter": false,
+                                  "controversiality": 0,
+                                  "gilded": 0,
+                                  "edited": false,
+                                  "deleted": false,
+                                  "deleted_at": null,
+                                  "replies": [
+                                    {
+                                      "id": "npkly85",
+                                      "parent_id": "t1_npkklmc",
+                                      "author": "Marha01",
+                                      "text_history": [
+                                        [
+                                          "If AGI is invented and generally available, everyone is obsolete, including the boss. There will be no skyrocketing prices, quite the opposite: ubiquitous robotic labor would result in very significant price decreases across the board.",
+                                          "2025-11-18T14:32:03.021683"
+                                        ]
+                                      ],
+                                      "score_history": [
+                                        [
+                                          0,
+                                          "2025-11-18T14:32:03.021683"
+                                        ],
+                                        [
+                                          0,
+                                          "2025-11-18T14:34:58.291266"
+                                        ],
+                                        [
+                                          0,
+                                          "2025-11-18T14:43:28.067279"
+                                        ],
+                                        [
+                                          0,
+                                          "2025-11-18T14:45:22.423517"
+                                        ]
+                                      ],
+                                      "created_utc": 1763504994.0,
+                                      "depth": 8,
+                                      "permalink": "/r/technology/comments/1p0fr1y/google_announces_gemini_3_as_battle_with_openai/npkly85/",
+                                      "is_submitter": false,
+                                      "controversiality": 0,
+                                      "gilded": 0,
+                                      "edited": false,
+                                      "deleted": false,
+                                      "deleted_at": null,
+                                      "replies": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "id": "npj3xb0",
+                          "parent_id": "t1_npj344y",
+                          "author": "Southern-Rest-8681",
+                          "text_history": [
+                            [
+                              "What makes you certain you are part of that humanity that will get their issues solved? Do you assume the corporations are empathetic? Sorry, I’m genuinely struggling to understand your perspective here. These companies don’t have humanity’s best interests in mind when working towards agi",
+                              "2025-11-18T13:48:59.062373"
+                            ]
+                          ],
+                          "score_history": [
+                            [
+                              -1,
+                              "2025-11-18T13:48:59.062373"
+                            ],
+                            [
+                              0,
+                              "2025-11-18T14:00:15.759845"
+                            ],
+                            [
+                              0,
+                              "2025-11-18T14:11:01.727815"
+                            ],
+                            [
+                              3,
+                              "2025-11-18T14:12:31.061007"
+                            ],
+                            [
+                              3,
+                              "2025-11-18T14:21:11.063071"
+                            ],
+                            [
+                              4,
+                              "2025-11-18T14:22:02.065306"
+                            ],
+                            [
+                              2,
+                              "2025-11-18T14:23:10.156660"
+                            ],
+                            [
+                              2,
+                              "2025-11-18T14:23:53.185994"
+                            ],
+                            [
+                              4,
+                              "2025-11-18T14:32:03.021683"
+                            ],
+                            [
+                              4,
+                              "2025-11-18T14:34:58.291266"
+                            ],
+                            [
+                              4,
+                              "2025-11-18T14:43:28.067279"
+                            ],
+                            [
+                              4,
+                              "2025-11-18T14:45:22.423517"
+                            ]
+                          ],
+                          "created_utc": 1763488842.0,
+                          "depth": 5,
+                          "permalink": "/r/technology/comments/1p0fr1y/google_announces_gemini_3_as_battle_with_openai/npj3xb0/",
+                          "is_submitter": false,
+                          "controversiality": 0,
+                          "gilded": 0,
+                          "edited": false,
+                          "deleted": false,
+                          "deleted_at": null,
+                          "replies": [
+                            {
+                              "id": "npj4qet",
+                              "parent_id": "t1_npj3xb0",
+                              "author": "Marha01",
+                              "text_history": [
+                                [
+                                  "I can just paste my other comment here:\n\nTechnology is the one thing that historically always trickles down. If AGI is invented, it is only a matter of time before average humans, not just billionaries, can control and use it. Current open AI models are only a few months behind closed AI models.",
+                                  "2025-11-18T13:48:59.062373"
+                                ]
+                              ],
+                              "score_history": [
+                                [
+                                  2,
+                                  "2025-11-18T13:48:59.062373"
+                                ],
+                                [
+                                  2,
+                                  "2025-11-18T14:00:15.759845"
+                                ],
+                                [
+                                  2,
+                                  "2025-11-18T14:11:01.727815"
+                                ],
+                                [
+                                  2,
+                                  "2025-11-18T14:12:31.061007"
+                                ],
+                                [
+                                  2,
+                                  "2025-11-18T14:21:11.063071"
+                                ],
+                                [
+                                  4,
+                                  "2025-11-18T14:22:02.065306"
+                                ],
+                                [
+                                  3,
+                                  "2025-11-18T14:23:10.156660"
+                                ],
+                                [
+                                  4,
+                                  "2025-11-18T14:23:53.185994"
+                                ],
+                                [
+                                  3,
+                                  "2025-11-18T14:32:03.021683"
+                                ],
+                                [
+                                  3,
+                                  "2025-11-18T14:34:58.291266"
+                                ],
+                                [
+                                  3,
+                                  "2025-11-18T14:43:28.067279"
+                                ],
+                                [
+                                  5,
+                                  "2025-11-18T14:45:22.423517"
+                                ]
+                              ],
+                              "created_utc": 1763489076.0,
+                              "depth": 6,
+                              "permalink": "/r/technology/comments/1p0fr1y/google_announces_gemini_3_as_battle_with_openai/npj4qet/",
+                              "is_submitter": false,
+                              "controversiality": 0,
+                              "gilded": 0,
+                              "edited": false,
+                              "deleted": false,
+                              "deleted_at": null,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "npj4chk",
+                      "parent_id": "t1_npj23c0",
+                      "author": "feo_sucio",
+                      "text_history": [
+                        [
+                          "Don’t bother with him, he’s an idiot.",
+                          "2025-11-18T13:48:59.062373"
+                        ]
+                      ],
+                      "score_history": [
+                        [
+                          1,
+                          "2025-11-18T13:48:59.062373"
+                        ],
+                        [
+                          1,
+                          "2025-11-18T14:00:15.759845"
+                        ],
+                        [
+                          2,
+                          "2025-11-18T14:11:01.727815"
+                        ],
+                        [
+                          4,
+                          "2025-11-18T14:12:31.061007"
+                        ],
+                        [
+                          2,
+                          "2025-11-18T14:21:11.063071"
+                        ],
+                        [
+                          4,
+                          "2025-11-18T14:22:02.065306"
+                        ],
+                        [
+                          2,
+                          "2025-11-18T14:23:10.156660"
+                        ],
+                        [
+                          3,
+                          "2025-11-18T14:23:53.185994"
+                        ],
+                        [
+                          0,
+                          "2025-11-18T14:32:03.021683"
+                        ],
+                        [
+                          4,
+                          "2025-11-18T14:34:58.291266"
+                        ],
+                        [
+                          2,
+                          "2025-11-18T14:43:28.067279"
+                        ],
+                        [
+                          0,
+                          "2025-11-18T14:45:22.423517"
+                        ]
+                      ],
+                      "created_utc": 1763488963.0,
+                      "depth": 4,
+                      "permalink": "/r/technology/comments/1p0fr1y/google_announces_gemini_3_as_battle_with_openai/npj4chk/",
+                      "is_submitter": false,
+                      "controversiality": 0,
+                      "gilded": 0,
+                      "edited": false,
+                      "deleted": false,
+                      "deleted_at": null,
+                      "replies": []
+                    },
+                    {
+                      "id": "npkeroq",
+                      "parent_id": "t1_npj23c0",
+                      "author": "topyTheorist",
+                      "text_history": [
+                        [
+                          "What decay? We are witnessing an incredible technological advancement. The opposite of decay.",
+                          "2025-11-18T14:00:15.759845"
+                        ]
+                      ],
+                      "score_history": [
+                        [
+                          1,
+                          "2025-11-18T14:00:15.759845"
+                        ],
+                        [
+                          1,
+                          "2025-11-18T14:11:01.727815"
+                        ],
+                        [
+                          1,
+                          "2025-11-18T14:12:31.061007"
+                        ],
+                        [
+                          1,
+                          "2025-11-18T14:21:11.063071"
+                        ],
+                        [
+                          1,
+                          "2025-11-18T14:22:02.065306"
+                        ],
+                        [
+                          1,
+                          "2025-11-18T14:23:10.156660"
+                        ],
+                        [
+                          1,
+                          "2025-11-18T14:23:53.185994"
+                        ],
+                        [
+                          0,
+                          "2025-11-18T14:32:03.021683"
+                        ],
+                        [
+                          0,
+                          "2025-11-18T14:34:58.291266"
+                        ],
+                        [
+                          0,
+                          "2025-11-18T14:43:28.067279"
+                        ],
+                        [
+                          0,
+                          "2025-11-18T14:45:22.423517"
+                        ]
+                      ],
+                      "created_utc": 1763502739.0,
+                      "depth": 4,
+                      "permalink": "/r/technology/comments/1p0fr1y/google_announces_gemini_3_as_battle_with_openai/npkeroq/",
+                      "is_submitter": false,
+                      "controversiality": 0,
+                      "gilded": 0,
+                      "edited": false,
+                      "deleted": false,
+                      "deleted_at": null,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "npjz24i",
+      "parent_id": "t3_1p0fr1y",
+      "author": "dohn_joe1",
+      "text_history": [
+        [
+          "Just tried it. Claude is still unmatched. Sonnet 4.5 eats Gemini Pro 3 for dinner.",
+          "2025-11-18T13:48:59.062373"
+        ]
+      ],
+      "score_history": [
+        [
+          0,
+          "2025-11-18T13:48:59.062373"
+        ],
+        [
+          0,
+          "2025-11-18T14:00:15.759845"
+        ],
+        [
+          0,
+          "2025-11-18T14:11:01.727815"
+        ],
+        [
+          0,
+          "2025-11-18T14:12:31.061007"
+        ],
+        [
+          0,
+          "2025-11-18T14:21:11.063071"
+        ],
+        [
+          -1,
+          "2025-11-18T14:22:02.065306"
+        ],
+        [
+          -2,
+          "2025-11-18T14:23:10.156660"
+        ],
+        [
+          -1,
+          "2025-11-18T14:23:53.185994"
+        ],
+        [
+          -2,
+          "2025-11-18T14:32:03.021683"
+        ],
+        [
+          -1,
+          "2025-11-18T14:34:58.291266"
+        ],
+        [
+          -1,
+          "2025-11-18T14:43:28.067279"
+        ],
+        [
+          -1,
+          "2025-11-18T14:45:22.423517"
+        ]
+      ],
+      "created_utc": 1763498045.0,
+      "depth": 0,
+      "permalink": "/r/technology/comments/1p0fr1y/google_announces_gemini_3_as_battle_with_openai/npjz24i/",
+      "is_submitter": false,
+      "controversiality": 1,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npiwaz3",
+      "parent_id": "t3_1p0fr1y",
+      "author": "CoupleClothing",
+      "text_history": [
+        [
+          "We dont give a shit about how good you think a text generator is. its not intelligent. It will never be intelligent. Go away, cultists",
+          "2025-11-18T13:48:59.062373"
+        ]
+      ],
+      "score_history": [
+        [
+          -22,
+          "2025-11-18T13:48:59.062373"
+        ],
+        [
+          -24,
+          "2025-11-18T14:00:15.759845"
+        ],
+        [
+          -23,
+          "2025-11-18T14:11:01.727815"
+        ],
+        [
+          -22,
+          "2025-11-18T14:12:31.061007"
+        ],
+        [
+          -22,
+          "2025-11-18T14:21:11.063071"
+        ],
+        [
+          -23,
+          "2025-11-18T14:22:02.065306"
+        ],
+        [
+          -24,
+          "2025-11-18T14:23:10.156660"
+        ],
+        [
+          -24,
+          "2025-11-18T14:23:53.185994"
+        ],
+        [
+          -24,
+          "2025-11-18T14:32:03.021683"
+        ],
+        [
+          -24,
+          "2025-11-18T14:34:58.291266"
+        ],
+        [
+          -26,
+          "2025-11-18T14:43:28.067279"
+        ],
+        [
+          -23,
+          "2025-11-18T14:45:22.423517"
+        ]
+      ],
+      "created_utc": 1763486613.0,
+      "depth": 0,
+      "permalink": "/r/technology/comments/1p0fr1y/google_announces_gemini_3_as_battle_with_openai/npiwaz3/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npjf1y1",
+          "parent_id": "t1_npiwaz3",
+          "author": "Fearless-Big1058",
+          "text_history": [
+            [
+              "Avatar checks out lmao",
+              "2025-11-18T13:48:59.062373"
+            ]
+          ],
+          "score_history": [
+            [
+              7,
+              "2025-11-18T13:48:59.062373"
+            ],
+            [
+              8,
+              "2025-11-18T14:00:15.759845"
+            ],
+            [
+              7,
+              "2025-11-18T14:11:01.727815"
+            ],
+            [
+              6,
+              "2025-11-18T14:12:31.061007"
+            ],
+            [
+              7,
+              "2025-11-18T14:21:11.063071"
+            ],
+            [
+              8,
+              "2025-11-18T14:22:02.065306"
+            ],
+            [
+              8,
+              "2025-11-18T14:23:10.156660"
+            ],
+            [
+              7,
+              "2025-11-18T14:23:53.185994"
+            ],
+            [
+              6,
+              "2025-11-18T14:32:03.021683"
+            ],
+            [
+              8,
+              "2025-11-18T14:34:58.291266"
+            ],
+            [
+              7,
+              "2025-11-18T14:43:28.067279"
+            ],
+            [
+              7,
+              "2025-11-18T14:45:22.423517"
+            ]
+          ],
+          "created_utc": 1763492035.0,
+          "depth": 1,
+          "permalink": "/r/technology/comments/1p0fr1y/google_announces_gemini_3_as_battle_with_openai/npjf1y1/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npjy0e5",
+      "parent_id": "t3_1p0fr1y",
+      "author": "Icedvelvet",
+      "text_history": [
+        [
+          "Gemini sucks. Can’t even get a day and date right.",
+          "2025-11-18T13:48:59.062373"
+        ]
+      ],
+      "score_history": [
+        [
+          -4,
+          "2025-11-18T13:48:59.062373"
+        ],
+        [
+          -3,
+          "2025-11-18T14:00:15.759845"
+        ],
+        [
+          -3,
+          "2025-11-18T14:11:01.727815"
+        ],
+        [
+          -3,
+          "2025-11-18T14:12:31.061007"
+        ],
+        [
+          -3,
+          "2025-11-18T14:21:11.063071"
+        ],
+        [
+          -3,
+          "2025-11-18T14:22:02.065306"
+        ],
+        [
+          -6,
+          "2025-11-18T14:23:10.156660"
+        ],
+        [
+          -4,
+          "2025-11-18T14:23:53.185994"
+        ],
+        [
+          -5,
+          "2025-11-18T14:32:03.021683"
+        ],
+        [
+          -5,
+          "2025-11-18T14:34:58.291266"
+        ],
+        [
+          -6,
+          "2025-11-18T14:43:28.067279"
+        ],
+        [
+          -7,
+          "2025-11-18T14:45:22.423517"
+        ]
+      ],
+      "created_utc": 1763497721.0,
+      "depth": 0,
+      "permalink": "/r/technology/comments/1p0fr1y/google_announces_gemini_3_as_battle_with_openai/npjy0e5/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npiyzn1",
+      "parent_id": "t3_1p0fr1y",
+      "author": "moonjabes",
+      "text_history": [
+        [
+          "I hate Gemini",
+          "2025-11-18T13:48:59.062373"
+        ]
+      ],
+      "score_history": [
+        [
+          -11,
+          "2025-11-18T13:48:59.062373"
+        ],
+        [
+          -12,
+          "2025-11-18T14:00:15.759845"
+        ],
+        [
+          -9,
+          "2025-11-18T14:11:01.727815"
+        ],
+        [
+          -10,
+          "2025-11-18T14:12:31.061007"
+        ],
+        [
+          -10,
+          "2025-11-18T14:21:11.063071"
+        ],
+        [
+          -10,
+          "2025-11-18T14:22:02.065306"
+        ],
+        [
+          -11,
+          "2025-11-18T14:23:10.156660"
+        ],
+        [
+          -10,
+          "2025-11-18T14:23:53.185994"
+        ],
+        [
+          -11,
+          "2025-11-18T14:32:03.021683"
+        ],
+        [
+          -11,
+          "2025-11-18T14:34:58.291266"
+        ],
+        [
+          -9,
+          "2025-11-18T14:43:28.067279"
+        ],
+        [
+          -9,
+          "2025-11-18T14:45:22.423517"
+        ]
+      ],
+      "created_utc": 1763487410.0,
+      "depth": 0,
+      "permalink": "/r/technology/comments/1p0fr1y/google_announces_gemini_3_as_battle_with_openai/npiyzn1/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npk7sip",
+      "parent_id": "t3_1p0fr1y",
+      "author": "stowgood",
+      "text_history": [
+        [
+          "I don't really care about any of this. Giant bubble.",
+          "2025-11-18T13:48:59.062373"
+        ]
+      ],
+      "score_history": [
+        [
+          -1,
+          "2025-11-18T13:48:59.062373"
+        ],
+        [
+          -1,
+          "2025-11-18T14:00:15.759845"
+        ],
+        [
+          -1,
+          "2025-11-18T14:11:01.727815"
+        ],
+        [
+          -1,
+          "2025-11-18T14:12:31.061007"
+        ],
+        [
+          -1,
+          "2025-11-18T14:21:11.063071"
+        ],
+        [
+          -2,
+          "2025-11-18T14:22:02.065306"
+        ],
+        [
+          -2,
+          "2025-11-18T14:23:10.156660"
+        ],
+        [
+          -2,
+          "2025-11-18T14:23:53.185994"
+        ],
+        [
+          -2,
+          "2025-11-18T14:32:03.021683"
+        ],
+        [
+          -3,
+          "2025-11-18T14:34:58.291266"
+        ],
+        [
+          -2,
+          "2025-11-18T14:43:28.067279"
+        ],
+        [
+          -4,
+          "2025-11-18T14:45:22.423517"
+        ]
+      ],
+      "created_utc": 1763500652.0,
+      "depth": 0,
+      "permalink": "/r/technology/comments/1p0fr1y/google_announces_gemini_3_as_battle_with_openai/npk7sip/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-18T14:45:22.423517",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/technology/comments/1p0fr1y/google_announces_gemini_3_as_battle_with_openai/",
+    "total_comments": 72,
+    "top_level_comments": 12,
+    "api_requests": 1,
+    "expected_comments": 76,
+    "coverage_percent": 94.74,
+    "merged_snapshot_count": 12,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_134858.json",
+      "scrape_002_20251118_140015.json",
+      "scrape_003_20251118_141101.json",
+      "scrape_004_20251118_141230.json",
+      "scrape_005_20251118_142110.json",
+      "scrape_006_20251118_142201.json",
+      "scrape_007_20251118_142309.json",
+      "scrape_008_20251118_142352.json",
+      "scrape_009_20251118_143202.json",
+      "scrape_010_20251118_143457.json",
+      "scrape_011_20251118_144327.json",
+      "scrape_012_20251118_144521.json"
+    ]
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "post": {
+    "id": "1ou5ihu",
+    "title": "How do you handle clients who keep asking for “just a few more edits”?",
+    "author": "massiew18",
+    "score_history": [
+      [
+        3,
+        "2025-11-19T02:54:07.973653"
+      ],
+      [
+        3,
+        "2025-11-19T03:03:29.066544"
+      ],
+      [
+        3,
+        "2025-11-19T03:06:51.708622"
+      ]
+    ],
+    "created_utc": 1762854983.0,
+    "num_comments": 1,
+    "subreddit": "ContentMarketing",
+    "url": "/r/u_massiew18/comments/1ou5ib9/how_do_you_handle_clients_who_keep_asking_for/",
+    "selftext": "",
+    "permalink": "/r/ContentMarketing/comments/1ou5ihu/how_do_you_handle_clients_who_keep_asking_for/"
+  },
+  "comments": [
+    {
+      "id": "no9z7be",
+      "parent_id": "t3_1ou5ihu",
+      "author": "Greedy-Credit-1943",
+      "text_history": [
+        [
+          "I've rarely faced this situation, but one time I had a similar client asking for revisions back-to-back. I clearly communicated that I can offer up to 3 rounds of revision for free (considering the scope or direction of the project hasn't changed), after that, there may be additional charges.",
+          "2025-11-19T02:54:07.973653"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-19T02:54:07.973653"
+        ],
+        [
+          2,
+          "2025-11-19T03:03:29.066544"
+        ],
+        [
+          2,
+          "2025-11-19T03:06:51.708622"
+        ]
+      ],
+      "created_utc": 1762867333.0,
+      "depth": 0,
+      "permalink": "/r/ContentMarketing/comments/1ou5ihu/how_do_you_handle_clients_who_keep_asking_for/no9z7be/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:06:51.708622",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/ContentMarketing/comments/1ou5ihu/how_do_you_handle_clients_who_keep_asking_for/",
+    "total_comments": 1,
+    "top_level_comments": 1,
+    "api_requests": 1,
+    "expected_comments": 1,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_025407.json",
+      "scrape_002_20251119_030328.json",
+      "scrape_003_20251119_030651.json"
+    ]
+  }
+}

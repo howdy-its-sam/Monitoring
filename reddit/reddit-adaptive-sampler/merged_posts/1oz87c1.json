@@ -1,0 +1,44 @@
+{
+  "post": {
+    "id": "1oz87c1",
+    "title": "I made a fast, structured PDF extractor for RAG",
+    "author": "absqroot",
+    "score_history": [
+      [
+        1,
+        "2025-11-18T15:07:48.865952"
+      ],
+      [
+        1,
+        "2025-11-18T15:14:32.572840"
+      ],
+      [
+        1,
+        "2025-11-18T15:16:39.366014"
+      ]
+    ],
+    "created_utc": 1763357678.0,
+    "num_comments": 0,
+    "subreddit": "LangChain",
+    "url": "/r/Rag/comments/1oz5oc7/i_made_a_fast_structured_pdf_extractor_for_rag/",
+    "selftext": "",
+    "permalink": "/r/LangChain/comments/1oz87c1/i_made_a_fast_structured_pdf_extractor_for_rag/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-18T15:16:39.366014",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/LangChain/comments/1oz87c1/i_made_a_fast_structured_pdf_extractor_for_rag/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_150748.json",
+      "scrape_002_20251118_151432.json",
+      "scrape_003_20251118_151637.json"
+    ]
+  }
+}

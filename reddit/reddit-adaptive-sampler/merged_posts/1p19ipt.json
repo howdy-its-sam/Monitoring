@@ -1,0 +1,129 @@
+{
+  "post": {
+    "id": "1p19ipt",
+    "title": "AI explained | Gemini 3 Pro: Breakdown",
+    "author": "GraceToSentience",
+    "score_history": [
+      [
+        3,
+        "2025-11-19T06:46:32.014118"
+      ],
+      [
+        3,
+        "2025-11-19T06:46:32.275295"
+      ],
+      [
+        3,
+        "2025-11-19T06:46:32.539601"
+      ],
+      [
+        3,
+        "2025-11-19T06:46:32.775818"
+      ],
+      [
+        3,
+        "2025-11-19T06:46:33.017164"
+      ],
+      [
+        3,
+        "2025-11-19T06:46:33.244164"
+      ],
+      [
+        3,
+        "2025-11-19T06:46:33.630358"
+      ],
+      [
+        3,
+        "2025-11-19T06:46:33.876241"
+      ],
+      [
+        3,
+        "2025-11-19T06:46:34.140985"
+      ],
+      [
+        3,
+        "2025-11-19T06:46:34.379131"
+      ],
+      [
+        3,
+        "2025-11-19T06:46:34.639493"
+      ],
+      [
+        3,
+        "2025-11-19T06:46:34.873423"
+      ],
+      [
+        3,
+        "2025-11-19T06:46:35.149388"
+      ],
+      [
+        3,
+        "2025-11-19T06:46:35.387047"
+      ],
+      [
+        3,
+        "2025-11-19T06:46:35.660567"
+      ],
+      [
+        3,
+        "2025-11-19T06:46:35.913337"
+      ],
+      [
+        3,
+        "2025-11-19T06:46:36.162738"
+      ],
+      [
+        3,
+        "2025-11-19T06:46:36.383298"
+      ],
+      [
+        3,
+        "2025-11-19T06:46:36.651291"
+      ],
+      [
+        3,
+        "2025-11-19T06:46:36.891679"
+      ]
+    ],
+    "created_utc": 1763563463.0,
+    "num_comments": 1,
+    "subreddit": "singularity",
+    "url": "https://youtu.be/chr2I7CZTfk",
+    "selftext": "It's finally here",
+    "permalink": "/r/singularity/comments/1p19ipt/ai_explained_gemini_3_pro_breakdown/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T06:46:36.891679",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/singularity/comments/1p19ipt/ai_explained_gemini_3_pro_breakdown/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 1,
+    "coverage_percent": 0.0,
+    "merged_snapshot_count": 20,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_064631.json",
+      "scrape_002_20251119_064632.json",
+      "scrape_003_20251119_064632.json",
+      "scrape_004_20251119_064632.json",
+      "scrape_005_20251119_064632.json",
+      "scrape_006_20251119_064633.json",
+      "scrape_007_20251119_064633.json",
+      "scrape_008_20251119_064633.json",
+      "scrape_009_20251119_064633.json",
+      "scrape_010_20251119_064634.json",
+      "scrape_011_20251119_064634.json",
+      "scrape_012_20251119_064634.json",
+      "scrape_013_20251119_064634.json",
+      "scrape_014_20251119_064635.json",
+      "scrape_015_20251119_064635.json",
+      "scrape_016_20251119_064635.json",
+      "scrape_017_20251119_064635.json",
+      "scrape_018_20251119_064636.json",
+      "scrape_019_20251119_064636.json",
+      "scrape_020_20251119_064636.json"
+    ]
+  }
+}

@@ -1,0 +1,755 @@
+{
+  "post": {
+    "id": "1p00y4i",
+    "title": "How do we protect ourselves from rogue robots?",
+    "author": "sancoca",
+    "score_history": [
+      [
+        0,
+        "2025-11-18T15:16:49.249199"
+      ],
+      [
+        0,
+        "2025-11-18T23:24:18.937055"
+      ],
+      [
+        0,
+        "2025-11-19T01:08:30.780254"
+      ],
+      [
+        0,
+        "2025-11-19T02:33:03.535822"
+      ]
+    ],
+    "created_utc": 1763435304.0,
+    "num_comments": 19,
+    "subreddit": "robotics",
+    "url": "https://www.reddit.com/r/robotics/comments/1p00y4i/how_do_we_protect_ourselves_from_rogue_robots/",
+    "selftext": "I just watched how they vibe coded a robot to fetch a ball https://youtu.be/NGOAUJtdk-4?si=6vD3wkiI6-pXKkR- and at some point they lost control and it nearly ran down the tables.\n\nDo we have to start carrying mini EMP's? Like what's the solution if you're out in the open and your local council decided to vibe code a social order robot and it's just decided to pin you down. It doesn't have rights, would destroying it completely be the only open? \nDo we need to carry large neodinium magnets?",
+    "permalink": "/r/robotics/comments/1p00y4i/how_do_we_protect_ourselves_from_rogue_robots/"
+  },
+  "comments": [
+    {
+      "id": "npfmeh0",
+      "parent_id": "t3_1p00y4i",
+      "author": "ImorgilWulflocke",
+      "text_history": [
+        [
+          "Red E-Stop Button.",
+          "2025-11-18T15:16:49.249199"
+        ]
+      ],
+      "score_history": [
+        [
+          14,
+          "2025-11-18T15:16:49.249199"
+        ],
+        [
+          13,
+          "2025-11-18T23:24:18.937055"
+        ],
+        [
+          14,
+          "2025-11-19T01:08:30.780254"
+        ],
+        [
+          15,
+          "2025-11-19T02:33:03.535822"
+        ]
+      ],
+      "created_utc": 1763436238.0,
+      "depth": 0,
+      "permalink": "/r/robotics/comments/1p00y4i/how_do_we_protect_ourselves_from_rogue_robots/npfmeh0/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npg1tor",
+      "parent_id": "t3_1p00y4i",
+      "author": "w4drone",
+      "text_history": [
+        [
+          "if you are implying just a general freak out caused by tipping over and continuing to try and run a routine or poorly tuned PID, you just hit the E-Stop. If not, im not fully sure what is being asked",
+          "2025-11-18T15:16:49.249199"
+        ]
+      ],
+      "score_history": [
+        [
+          5,
+          "2025-11-18T15:16:49.249199"
+        ],
+        [
+          5,
+          "2025-11-18T23:24:18.937055"
+        ],
+        [
+          4,
+          "2025-11-19T01:08:30.780254"
+        ],
+        [
+          5,
+          "2025-11-19T02:33:03.535822"
+        ]
+      ],
+      "created_utc": 1763442757.0,
+      "depth": 0,
+      "permalink": "/r/robotics/comments/1p00y4i/how_do_we_protect_ourselves_from_rogue_robots/npg1tor/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npfn5os",
+      "parent_id": "t3_1p00y4i",
+      "author": "GreyFoxSolid",
+      "text_history": [
+        [
+          "Put a mirror in front of it.",
+          "2025-11-18T15:16:49.249199"
+        ]
+      ],
+      "score_history": [
+        [
+          4,
+          "2025-11-18T15:16:49.249199"
+        ],
+        [
+          5,
+          "2025-11-18T23:24:18.937055"
+        ],
+        [
+          4,
+          "2025-11-19T01:08:30.780254"
+        ],
+        [
+          3,
+          "2025-11-19T02:33:03.535822"
+        ]
+      ],
+      "created_utc": 1763436522.0,
+      "depth": 0,
+      "permalink": "/r/robotics/comments/1p00y4i/how_do_we_protect_ourselves_from_rogue_robots/npfn5os/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npfy9h2",
+          "parent_id": "t1_npfn5os",
+          "author": "sancoca",
+          "text_history": [
+            [
+              "Wow that's so good. i wonder if it could recognize that it's looking into a mirror",
+              "2025-11-18T15:16:49.249199"
+            ]
+          ],
+          "score_history": [
+            [
+              0,
+              "2025-11-18T15:16:49.249199"
+            ],
+            [
+              0,
+              "2025-11-18T23:24:18.937055"
+            ],
+            [
+              0,
+              "2025-11-19T01:08:30.780254"
+            ],
+            [
+              0,
+              "2025-11-19T02:33:03.535822"
+            ]
+          ],
+          "created_utc": 1763441118.0,
+          "depth": 1,
+          "permalink": "/r/robotics/comments/1p00y4i/how_do_we_protect_ourselves_from_rogue_robots/npfy9h2/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npfpw2s",
+      "parent_id": "t3_1p00y4i",
+      "author": "GreatPretender1894",
+      "text_history": [
+        [
+          "they are fragile, a metal baseball bat will do.\n\n\nedit: or if you're a pacifist, flood lights would blind their cameras.",
+          "2025-11-18T15:16:49.249199"
+        ]
+      ],
+      "score_history": [
+        [
+          3,
+          "2025-11-18T15:16:49.249199"
+        ],
+        [
+          4,
+          "2025-11-18T23:24:18.937055"
+        ],
+        [
+          4,
+          "2025-11-19T01:08:30.780254"
+        ],
+        [
+          3,
+          "2025-11-19T02:33:03.535822"
+        ]
+      ],
+      "created_utc": 1763437577.0,
+      "depth": 0,
+      "permalink": "/r/robotics/comments/1p00y4i/how_do_we_protect_ourselves_from_rogue_robots/npfpw2s/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": 1763437932.0,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npflw8m",
+      "parent_id": "t3_1p00y4i",
+      "author": "Loud_Ninja2362",
+      "text_history": [
+        [
+          "It's just equipment, break it and let them file an insurance claim. Plenty of ways to break electronics and metal, thermite, a hammer, shotgun slugs, some brake cleaner sprayed into the lenses, etc.",
+          "2025-11-18T15:16:49.249199"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-18T15:16:49.249199"
+        ],
+        [
+          2,
+          "2025-11-18T23:24:18.937055"
+        ],
+        [
+          2,
+          "2025-11-19T01:08:30.780254"
+        ],
+        [
+          2,
+          "2025-11-19T02:33:03.535822"
+        ]
+      ],
+      "created_utc": 1763436046.0,
+      "depth": 0,
+      "permalink": "/r/robotics/comments/1p00y4i/how_do_we_protect_ourselves_from_rogue_robots/npflw8m/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npg3wwl",
+      "parent_id": "t3_1p00y4i",
+      "author": "shamanicalchemist",
+      "text_history": [
+        [
+          "Amazon has a super cheap cordless violet wand/darsonval unit.... If you take the discharge tube off, and put a metal tube on that thing... Let me tell you this, if it ever accidently get's you, it teleports out of your hands... I've thrown that thing by accident several times.... EASILY takes any kind of electronics offline. One of the few sources that doesn't care if you have a return path, will knock you on your ass even if you're fully insulated....",
+          "2025-11-18T15:16:49.249199"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T15:16:49.249199"
+        ],
+        [
+          1,
+          "2025-11-18T23:24:18.937055"
+        ],
+        [
+          1,
+          "2025-11-19T01:08:30.780254"
+        ],
+        [
+          1,
+          "2025-11-19T02:33:03.535822"
+        ]
+      ],
+      "created_utc": 1763443773.0,
+      "depth": 0,
+      "permalink": "/r/robotics/comments/1p00y4i/how_do_we_protect_ourselves_from_rogue_robots/npg3wwl/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npg4fp7",
+          "parent_id": "t1_npg3wwl",
+          "author": "shamanicalchemist",
+          "text_history": [
+            [
+              "[https://www.amazon.com/Wireless-Professional-Frequency-Machine-Electrodes/dp/B0FH238HPP/ref=pd\\_rhf\\_se\\_s\\_pd\\_sbs\\_rvi\\_d\\_sccl\\_2\\_12/144-0072330-1344617?pd\\_rd\\_w=rhNnl&amp;content-id=amzn1.sym.6640a844-ab24-4352-ac9b-78899e683a5e&amp;pf\\_rd\\_p=6640a844-ab24-4352-ac9b-78899e683a5e&amp;pf\\_rd\\_r=QGCZPP60VN3M05W59E7H&amp;pd\\_rd\\_wg=aHMSD&amp;pd\\_rd\\_r=01a7c4ad-bf35-4e71-8f9f-bb78abf51e02&amp;pd\\_rd\\_i=B0FH238HPP&amp;th=1](https://www.amazon.com/Wireless-Professional-Frequency-Machine-Electrodes/dp/B0FH238HPP/ref=pd_rhf_se_s_pd_sbs_rvi_d_sccl_2_12/144-0072330-1344617?pd_rd_w=rhNnl&amp;content-id=amzn1.sym.6640a844-ab24-4352-ac9b-78899e683a5e&amp;pf_rd_p=6640a844-ab24-4352-ac9b-78899e683a5e&amp;pf_rd_r=QGCZPP60VN3M05W59E7H&amp;pd_rd_wg=aHMSD&amp;pd_rd_r=01a7c4ad-bf35-4e71-8f9f-bb78abf51e02&amp;pd_rd_i=B0FH238HPP&amp;th=1)",
+              "2025-11-18T15:16:49.249199"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T15:16:49.249199"
+            ],
+            [
+              1,
+              "2025-11-18T23:24:18.937055"
+            ],
+            [
+              1,
+              "2025-11-19T01:08:30.780254"
+            ],
+            [
+              1,
+              "2025-11-19T02:33:03.535822"
+            ]
+          ],
+          "created_utc": 1763444032.0,
+          "depth": 1,
+          "permalink": "/r/robotics/comments/1p00y4i/how_do_we_protect_ourselves_from_rogue_robots/npg4fp7/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npg4s3n",
+              "parent_id": "t1_npg4fp7",
+              "author": "shamanicalchemist",
+              "text_history": [
+                [
+                  "Note: These don't seem to cause any long term damage to any electronics I've tested them on, but will reset all things.",
+                  "2025-11-18T15:16:49.249199"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-18T15:16:49.249199"
+                ],
+                [
+                  1,
+                  "2025-11-18T23:24:18.937055"
+                ],
+                [
+                  1,
+                  "2025-11-19T01:08:30.780254"
+                ],
+                [
+                  1,
+                  "2025-11-19T02:33:03.535822"
+                ]
+              ],
+              "created_utc": 1763444207.0,
+              "depth": 2,
+              "permalink": "/r/robotics/comments/1p00y4i/how_do_we_protect_ourselves_from_rogue_robots/npg4s3n/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "npio8ex",
+          "parent_id": "t1_npg3wwl",
+          "author": "sancoca",
+          "text_history": [
+            [
+              "Lmao how did you figure that out?",
+              "2025-11-18T15:16:49.249199"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T15:16:49.249199"
+            ],
+            [
+              1,
+              "2025-11-18T23:24:18.937055"
+            ],
+            [
+              1,
+              "2025-11-19T01:08:30.780254"
+            ],
+            [
+              1,
+              "2025-11-19T02:33:03.535822"
+            ]
+          ],
+          "created_utc": 1763484237.0,
+          "depth": 1,
+          "permalink": "/r/robotics/comments/1p00y4i/how_do_we_protect_ourselves_from_rogue_robots/npio8ex/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npg9s65",
+      "parent_id": "t3_1p00y4i",
+      "author": "HigashikataJoe3",
+      "text_history": [
+        [
+          "Idk man maybe don't vibe code programs that you're going to use on a robot with enough power output to hurt people.",
+          "2025-11-18T15:16:49.249199"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T15:16:49.249199"
+        ],
+        [
+          1,
+          "2025-11-18T23:24:18.937055"
+        ],
+        [
+          1,
+          "2025-11-19T01:08:30.780254"
+        ],
+        [
+          1,
+          "2025-11-19T02:33:03.535822"
+        ]
+      ],
+      "created_utc": 1763446842.0,
+      "depth": 0,
+      "permalink": "/r/robotics/comments/1p00y4i/how_do_we_protect_ourselves_from_rogue_robots/npg9s65/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npgaodp",
+      "parent_id": "t3_1p00y4i",
+      "author": "Psychomadeye",
+      "text_history": [
+        [
+          "Chain link fence.",
+          "2025-11-18T15:16:49.249199"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T15:16:49.249199"
+        ],
+        [
+          1,
+          "2025-11-18T23:24:18.937055"
+        ],
+        [
+          1,
+          "2025-11-19T01:08:30.780254"
+        ],
+        [
+          1,
+          "2025-11-19T02:33:03.535822"
+        ]
+      ],
+      "created_utc": 1763447332.0,
+      "depth": 0,
+      "permalink": "/r/robotics/comments/1p00y4i/how_do_we_protect_ourselves_from_rogue_robots/npgaodp/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npgh4ew",
+      "parent_id": "t3_1p00y4i",
+      "author": "Longjumping-Koala631",
+      "text_history": [
+        [
+          "https://preview.redd.it/eavy0rr0xy1g1.jpeg?width=2089&amp;format=pjpg&amp;auto=webp&amp;s=6bb97c93b0bd00ee6eadeef346bac37330a2f0aa\n\nHis name is Magnus!",
+          "2025-11-18T15:16:49.249199"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T15:16:49.249199"
+        ],
+        [
+          1,
+          "2025-11-18T23:24:18.937055"
+        ],
+        [
+          1,
+          "2025-11-19T01:08:30.780254"
+        ],
+        [
+          1,
+          "2025-11-19T02:33:03.535822"
+        ]
+      ],
+      "created_utc": 1763450948.0,
+      "depth": 0,
+      "permalink": "/r/robotics/comments/1p00y4i/how_do_we_protect_ourselves_from_rogue_robots/npgh4ew/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nph3ye2",
+      "parent_id": "t3_1p00y4i",
+      "author": "deadlygaming11",
+      "text_history": [
+        [
+          "You are thinking in a very doom and gloomy way. All these things will have either a stop button or a remote kill switch like all machines. Robots wont be deployed outside of controlled environments for a long time.",
+          "2025-11-18T15:16:49.249199"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T15:16:49.249199"
+        ],
+        [
+          1,
+          "2025-11-18T23:24:18.937055"
+        ],
+        [
+          1,
+          "2025-11-19T01:08:30.780254"
+        ],
+        [
+          1,
+          "2025-11-19T02:33:03.535822"
+        ]
+      ],
+      "created_utc": 1763464917.0,
+      "depth": 0,
+      "permalink": "/r/robotics/comments/1p00y4i/how_do_we_protect_ourselves_from_rogue_robots/nph3ye2/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npfmift",
+      "parent_id": "t3_1p00y4i",
+      "author": "Brahm-Etc",
+      "text_history": [
+        [
+          "With a hammer.",
+          "2025-11-18T15:16:49.249199"
+        ]
+      ],
+      "score_history": [
+        [
+          0,
+          "2025-11-18T15:16:49.249199"
+        ],
+        [
+          0,
+          "2025-11-18T23:24:18.937055"
+        ],
+        [
+          0,
+          "2025-11-19T01:08:30.780254"
+        ],
+        [
+          0,
+          "2025-11-19T02:33:03.535822"
+        ]
+      ],
+      "created_utc": 1763436279.0,
+      "depth": 0,
+      "permalink": "/r/robotics/comments/1p00y4i/how_do_we_protect_ourselves_from_rogue_robots/npfmift/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npfnv2v",
+      "parent_id": "t3_1p00y4i",
+      "author": "ExtraordinaryKaylee",
+      "text_history": [
+        [
+          "Robot Insurance, from Old Glory.\n\n[SNL Robot Insurance Sketch](https://www.youtube.com/watch?v=g4Gh_IcK8UM)",
+          "2025-11-18T15:16:49.249199"
+        ]
+      ],
+      "score_history": [
+        [
+          0,
+          "2025-11-18T15:16:49.249199"
+        ],
+        [
+          0,
+          "2025-11-18T23:24:18.937055"
+        ],
+        [
+          0,
+          "2025-11-19T01:08:30.780254"
+        ],
+        [
+          0,
+          "2025-11-19T02:33:03.535822"
+        ]
+      ],
+      "created_utc": 1763436792.0,
+      "depth": 0,
+      "permalink": "/r/robotics/comments/1p00y4i/how_do_we_protect_ourselves_from_rogue_robots/npfnv2v/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": 1763443930.0,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npfqzxy",
+      "parent_id": "t3_1p00y4i",
+      "author": "stainlessinoxx",
+      "text_history": [
+        [
+          "Think strong impacts and/or piercing damage.",
+          "2025-11-18T15:16:49.249199"
+        ]
+      ],
+      "score_history": [
+        [
+          0,
+          "2025-11-18T15:16:49.249199"
+        ],
+        [
+          0,
+          "2025-11-18T23:24:18.937055"
+        ],
+        [
+          0,
+          "2025-11-19T01:08:30.780254"
+        ],
+        [
+          0,
+          "2025-11-19T02:33:03.535822"
+        ]
+      ],
+      "created_utc": 1763438016.0,
+      "depth": 0,
+      "permalink": "/r/robotics/comments/1p00y4i/how_do_we_protect_ourselves_from_rogue_robots/npfqzxy/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npg1703",
+      "parent_id": "t3_1p00y4i",
+      "author": "robotguy4",
+      "text_history": [
+        [
+          "Shotgun.",
+          "2025-11-18T15:16:49.249199"
+        ]
+      ],
+      "score_history": [
+        [
+          0,
+          "2025-11-18T15:16:49.249199"
+        ],
+        [
+          0,
+          "2025-11-18T23:24:18.937055"
+        ],
+        [
+          0,
+          "2025-11-19T01:08:30.780254"
+        ],
+        [
+          0,
+          "2025-11-19T02:33:03.535822"
+        ]
+      ],
+      "created_utc": 1763442460.0,
+      "depth": 0,
+      "permalink": "/r/robotics/comments/1p00y4i/how_do_we_protect_ourselves_from_rogue_robots/npg1703/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T02:33:03.535822",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/robotics/comments/1p00y4i/how_do_we_protect_ourselves_from_rogue_robots/",
+    "total_comments": 18,
+    "top_level_comments": 14,
+    "api_requests": 1,
+    "expected_comments": 19,
+    "coverage_percent": 94.74,
+    "merged_snapshot_count": 4,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_151649.json",
+      "scrape_002_20251118_232418.json",
+      "scrape_003_20251119_010830.json",
+      "scrape_004_20251119_023303.json"
+    ]
+  }
+}

@@ -1,0 +1,2783 @@
+{
+  "post": {
+    "id": "1p0elwe",
+    "title": "I let 24 AI models trade to see if they can manage risk",
+    "author": "Obside_AI",
+    "score_history": [
+      [
+        217,
+        "2025-11-19T02:55:46.545981"
+      ],
+      [
+        218,
+        "2025-11-19T03:05:45.545059"
+      ],
+      [
+        220,
+        "2025-11-19T03:14:08.480620"
+      ],
+      [
+        218,
+        "2025-11-19T03:17:33.795100"
+      ],
+      [
+        216,
+        "2025-11-19T03:19:39.604172"
+      ]
+    ],
+    "created_utc": 1763479100.0,
+    "num_comments": 64,
+    "subreddit": "LLMDevs",
+    "url": "https://i.redd.it/tr7ah9lp812g1.png",
+    "selftext": "As an experiment, I launched a real-time AI trading battle between 24 AI models.\n\nEach model has the same mission: grow its capital while minimizing risk taken.\n\nFrom there, they have to think, decide and trade completely on their own.\n\nEach model has its own approach among:\n\n* Price analysis only\n* Economic news analysis\n* Technical indicator analysis\n\nThey’re currently trading futures, stocks, forex and crypto.\n\nThe context and prompts are the same for each model, only the data sent differ (either price only, news + price or technical indicators + price).\n\nWe can watch them grow (or wreck) their capital, check their live PnL, open positions and see how they reason before making a trade.\n\nI'm very curious to see if AI can properly manage risk. So far \"news-based models\" are clearly leading.\n\nAs a reminder, this is just an experiment. Do you see any thing I could improve over a future batch?\n\n*Update Nov. 19th:* Thank you all for your enthusiasm around this post! **Just added Gemini 3 Pro**.",
+    "permalink": "/r/LLMDevs/comments/1p0elwe/i_let_24_ai_models_trade_to_see_if_they_can/"
+  },
+  "comments": [
+    {
+      "id": "npiaa1i",
+      "parent_id": "t3_1p0elwe",
+      "author": "Far_Statistician1479",
+      "text_history": [
+        [
+          "Random walk",
+          "2025-11-19T02:55:46.545981"
+        ]
+      ],
+      "score_history": [
+        [
+          48,
+          "2025-11-19T02:55:46.545981"
+        ],
+        [
+          46,
+          "2025-11-19T03:05:45.545059"
+        ],
+        [
+          46,
+          "2025-11-19T03:14:08.480620"
+        ],
+        [
+          50,
+          "2025-11-19T03:17:33.795100"
+        ],
+        [
+          47,
+          "2025-11-19T03:19:39.604172"
+        ]
+      ],
+      "created_utc": 1763480153.0,
+      "depth": 0,
+      "permalink": "/r/LLMDevs/comments/1p0elwe/i_let_24_ai_models_trade_to_see_if_they_can/npiaa1i/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npj7gew",
+      "parent_id": "t3_1p0elwe",
+      "author": "abaj1n",
+      "text_history": [
+        [
+          "What is the GUI you’re displaying this on?",
+          "2025-11-19T02:55:46.545981"
+        ]
+      ],
+      "score_history": [
+        [
+          13,
+          "2025-11-19T02:55:46.545981"
+        ],
+        [
+          13,
+          "2025-11-19T03:05:45.545059"
+        ],
+        [
+          12,
+          "2025-11-19T03:14:08.480620"
+        ],
+        [
+          14,
+          "2025-11-19T03:17:33.795100"
+        ],
+        [
+          14,
+          "2025-11-19T03:19:39.604172"
+        ]
+      ],
+      "created_utc": 1763489857.0,
+      "depth": 0,
+      "permalink": "/r/LLMDevs/comments/1p0elwe/i_let_24_ai_models_trade_to_see_if_they_can/npj7gew/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npjp4ev",
+          "parent_id": "t1_npj7gew",
+          "author": "Obside_AI",
+          "text_history": [
+            [
+              "Coded it with Angular + Taiga UI",
+              "2025-11-19T02:55:46.545981"
+            ]
+          ],
+          "score_history": [
+            [
+              22,
+              "2025-11-19T02:55:46.545981"
+            ],
+            [
+              22,
+              "2025-11-19T03:05:45.545059"
+            ],
+            [
+              22,
+              "2025-11-19T03:14:08.480620"
+            ],
+            [
+              21,
+              "2025-11-19T03:17:33.795100"
+            ],
+            [
+              21,
+              "2025-11-19T03:19:39.604172"
+            ]
+          ],
+          "created_utc": 1763495036.0,
+          "depth": 1,
+          "permalink": "/r/LLMDevs/comments/1p0elwe/i_let_24_ai_models_trade_to_see_if_they_can/npjp4ev/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npkxfhq",
+      "parent_id": "t3_1p0elwe",
+      "author": "Mythril_Zombie",
+      "text_history": [
+        [
+          "Interesting game.    \nThe only winning move is not to play.",
+          "2025-11-19T02:55:46.545981"
+        ]
+      ],
+      "score_history": [
+        [
+          12,
+          "2025-11-19T02:55:46.545981"
+        ],
+        [
+          12,
+          "2025-11-19T03:05:45.545059"
+        ],
+        [
+          13,
+          "2025-11-19T03:14:08.480620"
+        ],
+        [
+          12,
+          "2025-11-19T03:17:33.795100"
+        ],
+        [
+          12,
+          "2025-11-19T03:19:39.604172"
+        ]
+      ],
+      "created_utc": 1763508921.0,
+      "depth": 0,
+      "permalink": "/r/LLMDevs/comments/1p0elwe/i_let_24_ai_models_trade_to_see_if_they_can/npkxfhq/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npk257h",
+      "parent_id": "t3_1p0elwe",
+      "author": "_theZincSaucier_",
+      "text_history": [
+        [
+          "I'm wondering if this almagam will be outraded by a goldfish just like the last one.\n\n  \n[https://www.youtube.com/watch?v=USKD3vPD6ZA](https://www.youtube.com/watch?v=USKD3vPD6ZA)",
+          "2025-11-19T02:55:46.545981"
+        ]
+      ],
+      "score_history": [
+        [
+          7,
+          "2025-11-19T02:55:46.545981"
+        ],
+        [
+          6,
+          "2025-11-19T03:05:45.545059"
+        ],
+        [
+          7,
+          "2025-11-19T03:14:08.480620"
+        ],
+        [
+          8,
+          "2025-11-19T03:17:33.795100"
+        ],
+        [
+          7,
+          "2025-11-19T03:19:39.604172"
+        ]
+      ],
+      "created_utc": 1763498978.0,
+      "depth": 0,
+      "permalink": "/r/LLMDevs/comments/1p0elwe/i_let_24_ai_models_trade_to_see_if_they_can/npk257h/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npjgsgt",
+      "parent_id": "t3_1p0elwe",
+      "author": "RevolutionaryFox8641",
+      "text_history": [
+        [
+          "I found someone else doing the same at https://nof1.ai\n\nCan check it out. Its interesting. It would be great if you can host it",
+          "2025-11-19T02:55:46.545981"
+        ]
+      ],
+      "score_history": [
+        [
+          13,
+          "2025-11-19T02:55:46.545981"
+        ],
+        [
+          13,
+          "2025-11-19T03:05:45.545059"
+        ],
+        [
+          12,
+          "2025-11-19T03:14:08.480620"
+        ],
+        [
+          12,
+          "2025-11-19T03:17:33.795100"
+        ],
+        [
+          13,
+          "2025-11-19T03:19:39.604172"
+        ]
+      ],
+      "created_utc": 1763492543.0,
+      "depth": 0,
+      "permalink": "/r/LLMDevs/comments/1p0elwe/i_let_24_ai_models_trade_to_see_if_they_can/npjgsgt/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npjmsqo",
+          "parent_id": "t1_npjgsgt",
+          "author": "Obside_AI",
+          "text_history": [
+            [
+              "I saw that. They're only doing crypto, with technical analysis strategies (no news or mix of strategies yet).",
+              "2025-11-19T02:55:46.545981"
+            ]
+          ],
+          "score_history": [
+            [
+              11,
+              "2025-11-19T02:55:46.545981"
+            ],
+            [
+              10,
+              "2025-11-19T03:05:45.545059"
+            ],
+            [
+              9,
+              "2025-11-19T03:14:08.480620"
+            ],
+            [
+              10,
+              "2025-11-19T03:17:33.795100"
+            ],
+            [
+              10,
+              "2025-11-19T03:19:39.604172"
+            ]
+          ],
+          "created_utc": 1763494337.0,
+          "depth": 1,
+          "permalink": "/r/LLMDevs/comments/1p0elwe/i_let_24_ai_models_trade_to_see_if_they_can/npjmsqo/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npi87ep",
+      "parent_id": "t3_1p0elwe",
+      "author": "qodeninja",
+      "text_history": [
+        [
+          "this is cool, any repo for this?",
+          "2025-11-19T02:55:46.545981"
+        ]
+      ],
+      "score_history": [
+        [
+          7,
+          "2025-11-19T02:55:46.545981"
+        ],
+        [
+          6,
+          "2025-11-19T03:05:45.545059"
+        ],
+        [
+          5,
+          "2025-11-19T03:14:08.480620"
+        ],
+        [
+          6,
+          "2025-11-19T03:17:33.795100"
+        ],
+        [
+          6,
+          "2025-11-19T03:19:39.604172"
+        ]
+      ],
+      "created_utc": 1763479534.0,
+      "depth": 0,
+      "permalink": "/r/LLMDevs/comments/1p0elwe/i_let_24_ai_models_trade_to_see_if_they_can/npi87ep/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npibg5e",
+          "parent_id": "t1_npi87ep",
+          "author": "Obside_AI",
+          "text_history": [
+            [
+              "Hi! No repo yet, but here is how the stack is glued together.\n\n• News:\n\nTracking 12 curated financial news accounts on X and streaming their posts in real time.\n\n• Price data:\n\nCrypto → Binance\n\nTraditional markets → capital.com\n\n• Indicators:\n\nAll technical indicators (RSI, EMAs, etc.) are computed on own infra, no third-party involved.\n\n• LLM layer:\n\nBuilt a structured context (recent prices, indicators, and news), and the LLM decides whether to open/close/hold a position or do nothing.\n\nPipeline in one line:\n\nX news → Binance/Capital.com data → our indicator engine → LLM decision-making",
+              "2025-11-19T02:55:46.545981"
+            ]
+          ],
+          "score_history": [
+            [
+              16,
+              "2025-11-19T02:55:46.545981"
+            ],
+            [
+              17,
+              "2025-11-19T03:05:45.545059"
+            ],
+            [
+              18,
+              "2025-11-19T03:14:08.480620"
+            ],
+            [
+              17,
+              "2025-11-19T03:17:33.795100"
+            ],
+            [
+              17,
+              "2025-11-19T03:19:39.604172"
+            ]
+          ],
+          "created_utc": 1763480502.0,
+          "depth": 1,
+          "permalink": "/r/LLMDevs/comments/1p0elwe/i_let_24_ai_models_trade_to_see_if_they_can/npibg5e/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npij8lo",
+              "parent_id": "t1_npibg5e",
+              "author": "qodeninja",
+              "text_history": [
+                [
+                  "nice work! on the api stack, im more curious about the actual code stack",
+                  "2025-11-19T02:55:46.545981"
+                ]
+              ],
+              "score_history": [
+                [
+                  4,
+                  "2025-11-19T02:55:46.545981"
+                ],
+                [
+                  3,
+                  "2025-11-19T03:05:45.545059"
+                ],
+                [
+                  5,
+                  "2025-11-19T03:14:08.480620"
+                ],
+                [
+                  4,
+                  "2025-11-19T03:17:33.795100"
+                ],
+                [
+                  4,
+                  "2025-11-19T03:19:39.604172"
+                ]
+              ],
+              "created_utc": 1763482784.0,
+              "depth": 2,
+              "permalink": "/r/LLMDevs/comments/1p0elwe/i_let_24_ai_models_trade_to_see_if_they_can/npij8lo/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            },
+            {
+              "id": "npiyz6k",
+              "parent_id": "t1_npibg5e",
+              "author": "DataGOGO",
+              "text_history": [
+                [
+                  "I'd love to see your code stack as well, any plan to publish is in a repo&gt;",
+                  "2025-11-19T02:55:46.545981"
+                ]
+              ],
+              "score_history": [
+                [
+                  3,
+                  "2025-11-19T02:55:46.545981"
+                ],
+                [
+                  3,
+                  "2025-11-19T03:05:45.545059"
+                ],
+                [
+                  3,
+                  "2025-11-19T03:14:08.480620"
+                ],
+                [
+                  3,
+                  "2025-11-19T03:17:33.795100"
+                ],
+                [
+                  3,
+                  "2025-11-19T03:19:39.604172"
+                ]
+              ],
+              "created_utc": 1763487406.0,
+              "depth": 2,
+              "permalink": "/r/LLMDevs/comments/1p0elwe/i_let_24_ai_models_trade_to_see_if_they_can/npiyz6k/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            },
+            {
+              "id": "npkhng4",
+              "parent_id": "t1_npibg5e",
+              "author": "ssc456",
+              "text_history": [
+                [
+                  "How do you stream the X posts in real time? I was looking at doing something similar but X API cost is too expensive",
+                  "2025-11-19T02:55:46.545981"
+                ]
+              ],
+              "score_history": [
+                [
+                  3,
+                  "2025-11-19T02:55:46.545981"
+                ],
+                [
+                  3,
+                  "2025-11-19T03:05:45.545059"
+                ],
+                [
+                  3,
+                  "2025-11-19T03:14:08.480620"
+                ],
+                [
+                  3,
+                  "2025-11-19T03:17:33.795100"
+                ],
+                [
+                  3,
+                  "2025-11-19T03:19:39.604172"
+                ]
+              ],
+              "created_utc": 1763503620.0,
+              "depth": 2,
+              "permalink": "/r/LLMDevs/comments/1p0elwe/i_let_24_ai_models_trade_to_see_if_they_can/npkhng4/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            },
+            {
+              "id": "npkx7w2",
+              "parent_id": "t1_npibg5e",
+              "author": "Mythril_Zombie",
+              "text_history": [
+                [
+                  "r/stonks",
+                  "2025-11-19T02:55:46.545981"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-19T02:55:46.545981"
+                ],
+                [
+                  1,
+                  "2025-11-19T03:05:45.545059"
+                ],
+                [
+                  1,
+                  "2025-11-19T03:14:08.480620"
+                ],
+                [
+                  1,
+                  "2025-11-19T03:17:33.795100"
+                ],
+                [
+                  1,
+                  "2025-11-19T03:19:39.604172"
+                ]
+              ],
+              "created_utc": 1763508845.0,
+              "depth": 2,
+              "permalink": "/r/LLMDevs/comments/1p0elwe/i_let_24_ai_models_trade_to_see_if_they_can/npkx7w2/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            },
+            {
+              "id": "npkxyo2",
+              "parent_id": "t1_npibg5e",
+              "author": "lordpuddingcup",
+              "text_history": [
+                [
+                  "Part of me feels like the only way this sort of stuff will work if the model also gets to simultaneously run backtests on its ideas and assess those vs current market conditions",
+                  "2025-11-19T02:55:46.545981"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-19T02:55:46.545981"
+                ],
+                [
+                  1,
+                  "2025-11-19T03:05:45.545059"
+                ],
+                [
+                  1,
+                  "2025-11-19T03:14:08.480620"
+                ],
+                [
+                  1,
+                  "2025-11-19T03:17:33.795100"
+                ],
+                [
+                  1,
+                  "2025-11-19T03:19:39.604172"
+                ]
+              ],
+              "created_utc": 1763509114.0,
+              "depth": 2,
+              "permalink": "/r/LLMDevs/comments/1p0elwe/i_let_24_ai_models_trade_to_see_if_they_can/npkxyo2/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            },
+            {
+              "id": "npl39sp",
+              "parent_id": "t1_npibg5e",
+              "author": "HourSeries500",
+              "text_history": [
+                [
+                  "That's a solid setup! The real-time news tracking must be super interesting for model decision-making. Any plans to open-source it later? Would love to experiment with that!",
+                  "2025-11-19T02:55:46.545981"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-19T02:55:46.545981"
+                ],
+                [
+                  1,
+                  "2025-11-19T03:05:45.545059"
+                ],
+                [
+                  1,
+                  "2025-11-19T03:14:08.480620"
+                ],
+                [
+                  1,
+                  "2025-11-19T03:17:33.795100"
+                ],
+                [
+                  1,
+                  "2025-11-19T03:19:39.604172"
+                ]
+              ],
+              "created_utc": 1763510994.0,
+              "depth": 2,
+              "permalink": "/r/LLMDevs/comments/1p0elwe/i_let_24_ai_models_trade_to_see_if_they_can/npl39sp/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            },
+            {
+              "id": "npjoqen",
+              "parent_id": "t1_npibg5e",
+              "author": "britva666",
+              "text_history": [
+                [
+                  "Would be awesome if you would share the repo one day to play around with it",
+                  "2025-11-19T02:55:46.545981"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-19T02:55:46.545981"
+                ],
+                [
+                  1,
+                  "2025-11-19T03:05:45.545059"
+                ],
+                [
+                  1,
+                  "2025-11-19T03:14:08.480620"
+                ],
+                [
+                  1,
+                  "2025-11-19T03:17:33.795100"
+                ],
+                [
+                  1,
+                  "2025-11-19T03:19:39.604172"
+                ]
+              ],
+              "created_utc": 1763494918.0,
+              "depth": 2,
+              "permalink": "/r/LLMDevs/comments/1p0elwe/i_let_24_ai_models_trade_to_see_if_they_can/npjoqen/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "npkdz80",
+      "parent_id": "t3_1p0elwe",
+      "author": "keebmat",
+      "text_history": [
+        [
+          "but how do you feed it data? an ever growing context window or a vector db?",
+          "2025-11-19T02:55:46.545981"
+        ]
+      ],
+      "score_history": [
+        [
+          5,
+          "2025-11-19T02:55:46.545981"
+        ],
+        [
+          5,
+          "2025-11-19T03:05:45.545059"
+        ],
+        [
+          6,
+          "2025-11-19T03:14:08.480620"
+        ],
+        [
+          5,
+          "2025-11-19T03:17:33.795100"
+        ],
+        [
+          5,
+          "2025-11-19T03:19:39.604172"
+        ]
+      ],
+      "created_utc": 1763502504.0,
+      "depth": 0,
+      "permalink": "/r/LLMDevs/comments/1p0elwe/i_let_24_ai_models_trade_to_see_if_they_can/npkdz80/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npia40y",
+      "parent_id": "t3_1p0elwe",
+      "author": "OriginalPlayerHater",
+      "text_history": [
+        [
+          "Awesome project! How often do the bots make a trade? is it constantly througout the day? once a day? \n\nI might do this with a live wallet and forbid shorts or options to prevent losing more than I put in",
+          "2025-11-19T02:55:46.545981"
+        ]
+      ],
+      "score_history": [
+        [
+          4,
+          "2025-11-19T02:55:46.545981"
+        ],
+        [
+          4,
+          "2025-11-19T03:05:45.545059"
+        ],
+        [
+          5,
+          "2025-11-19T03:14:08.480620"
+        ],
+        [
+          3,
+          "2025-11-19T03:17:33.795100"
+        ],
+        [
+          3,
+          "2025-11-19T03:19:39.604172"
+        ]
+      ],
+      "created_utc": 1763480103.0,
+      "depth": 0,
+      "permalink": "/r/LLMDevs/comments/1p0elwe/i_let_24_ai_models_trade_to_see_if_they_can/npia40y/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npib3qb",
+          "parent_id": "t1_npia40y",
+          "author": "Obside_AI",
+          "text_history": [
+            [
+              "Hi, thanks! They reassess their current holdings every 4 hours.",
+              "2025-11-19T02:55:46.545981"
+            ]
+          ],
+          "score_history": [
+            [
+              2,
+              "2025-11-19T02:55:46.545981"
+            ],
+            [
+              2,
+              "2025-11-19T03:05:45.545059"
+            ],
+            [
+              2,
+              "2025-11-19T03:14:08.480620"
+            ],
+            [
+              2,
+              "2025-11-19T03:17:33.795100"
+            ],
+            [
+              2,
+              "2025-11-19T03:19:39.604172"
+            ]
+          ],
+          "created_utc": 1763480399.0,
+          "depth": 1,
+          "permalink": "/r/LLMDevs/comments/1p0elwe/i_let_24_ai_models_trade_to_see_if_they_can/npib3qb/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npjd0y4",
+              "parent_id": "t1_npib3qb",
+              "author": "no-adz",
+              "text_history": [
+                [
+                  "Do you take trading cost into account?",
+                  "2025-11-19T02:55:46.545981"
+                ]
+              ],
+              "score_history": [
+                [
+                  2,
+                  "2025-11-19T02:55:46.545981"
+                ],
+                [
+                  2,
+                  "2025-11-19T03:05:45.545059"
+                ],
+                [
+                  2,
+                  "2025-11-19T03:14:08.480620"
+                ],
+                [
+                  2,
+                  "2025-11-19T03:17:33.795100"
+                ],
+                [
+                  2,
+                  "2025-11-19T03:19:39.604172"
+                ]
+              ],
+              "created_utc": 1763491452.0,
+              "depth": 2,
+              "permalink": "/r/LLMDevs/comments/1p0elwe/i_let_24_ai_models_trade_to_see_if_they_can/npjd0y4/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": [
+                {
+                  "id": "npjm7mw",
+                  "parent_id": "t1_npjd0y4",
+                  "author": "Obside_AI",
+                  "text_history": [
+                    [
+                      "Yes, you can see how many fees were paid in the Ranking tab.",
+                      "2025-11-19T02:55:46.545981"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      2,
+                      "2025-11-19T02:55:46.545981"
+                    ],
+                    [
+                      2,
+                      "2025-11-19T03:05:45.545059"
+                    ],
+                    [
+                      2,
+                      "2025-11-19T03:14:08.480620"
+                    ],
+                    [
+                      2,
+                      "2025-11-19T03:17:33.795100"
+                    ],
+                    [
+                      2,
+                      "2025-11-19T03:19:39.604172"
+                    ]
+                  ],
+                  "created_utc": 1763494161.0,
+                  "depth": 3,
+                  "permalink": "/r/LLMDevs/comments/1p0elwe/i_let_24_ai_models_trade_to_see_if_they_can/npjm7mw/",
+                  "is_submitter": true,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "npjtocv",
+      "parent_id": "t3_1p0elwe",
+      "author": "Lower_Tutor5470",
+      "text_history": [
+        [
+          "Do you factor the llm api token cost/ model subscriptions into your PnL ? Wonder how that cost scales against positions",
+          "2025-11-19T02:55:46.545981"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-19T02:55:46.545981"
+        ],
+        [
+          2,
+          "2025-11-19T03:05:45.545059"
+        ],
+        [
+          2,
+          "2025-11-19T03:14:08.480620"
+        ],
+        [
+          2,
+          "2025-11-19T03:17:33.795100"
+        ],
+        [
+          2,
+          "2025-11-19T03:19:39.604172"
+        ]
+      ],
+      "created_utc": 1763496399.0,
+      "depth": 0,
+      "permalink": "/r/LLMDevs/comments/1p0elwe/i_let_24_ai_models_trade_to_see_if_they_can/npjtocv/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npjv7ys",
+          "parent_id": "t1_npjtocv",
+          "author": "Obside_AI",
+          "text_history": [
+            [
+              "No I don't,  but that's actually a good idea. Thanks!",
+              "2025-11-19T02:55:46.545981"
+            ]
+          ],
+          "score_history": [
+            [
+              3,
+              "2025-11-19T02:55:46.545981"
+            ],
+            [
+              3,
+              "2025-11-19T03:05:45.545059"
+            ],
+            [
+              3,
+              "2025-11-19T03:14:08.480620"
+            ],
+            [
+              3,
+              "2025-11-19T03:17:33.795100"
+            ],
+            [
+              3,
+              "2025-11-19T03:19:39.604172"
+            ]
+          ],
+          "created_utc": 1763496868.0,
+          "depth": 1,
+          "permalink": "/r/LLMDevs/comments/1p0elwe/i_let_24_ai_models_trade_to_see_if_they_can/npjv7ys/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npkxmeq",
+      "parent_id": "t3_1p0elwe",
+      "author": "the_Luik",
+      "text_history": [
+        [
+          "Isn't this just gambling with extra steps?",
+          "2025-11-19T02:55:46.545981"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-19T02:55:46.545981"
+        ],
+        [
+          2,
+          "2025-11-19T03:05:45.545059"
+        ],
+        [
+          2,
+          "2025-11-19T03:14:08.480620"
+        ],
+        [
+          2,
+          "2025-11-19T03:17:33.795100"
+        ],
+        [
+          2,
+          "2025-11-19T03:19:39.604172"
+        ]
+      ],
+      "created_utc": 1763508991.0,
+      "depth": 0,
+      "permalink": "/r/LLMDevs/comments/1p0elwe/i_let_24_ai_models_trade_to_see_if_they_can/npkxmeq/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npmu0t2",
+          "parent_id": "t1_npkxmeq",
+          "author": "MachinePolaSD",
+          "text_history": [
+            [
+              "Just like stock market.",
+              "2025-11-19T02:55:46.545981"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-19T02:55:46.545981"
+            ],
+            [
+              1,
+              "2025-11-19T03:05:45.545059"
+            ],
+            [
+              1,
+              "2025-11-19T03:14:08.480620"
+            ],
+            [
+              1,
+              "2025-11-19T03:17:33.795100"
+            ],
+            [
+              1,
+              "2025-11-19T03:19:39.604172"
+            ]
+          ],
+          "created_utc": 1763537118.0,
+          "depth": 1,
+          "permalink": "/r/LLMDevs/comments/1p0elwe/i_let_24_ai_models_trade_to_see_if_they_can/npmu0t2/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npji9i2",
+      "parent_id": "t3_1p0elwe",
+      "author": "altcivilorg",
+      "text_history": [
+        [
+          "We are working on something very similar as one of the applications of explorative multi-agent systems.\n\nShooting for 100+ parallel agents (sharing 4-5 underlying models) and focusing only on a slice of the market (100 mid cap equities) and quantitative data only (price, earnings, dividends). Backtest only.\n\nAccess to 10yr+ free data is a bit of a challenge. Any pointers would be helpful. Also, welcome anyone would who like to collaborate.",
+          "2025-11-19T02:55:46.545981"
+        ]
+      ],
+      "score_history": [
+        [
+          3,
+          "2025-11-19T02:55:46.545981"
+        ],
+        [
+          3,
+          "2025-11-19T03:05:45.545059"
+        ],
+        [
+          3,
+          "2025-11-19T03:14:08.480620"
+        ],
+        [
+          2,
+          "2025-11-19T03:17:33.795100"
+        ],
+        [
+          4,
+          "2025-11-19T03:19:39.604172"
+        ]
+      ],
+      "created_utc": 1763492981.0,
+      "depth": 0,
+      "permalink": "/r/LLMDevs/comments/1p0elwe/i_let_24_ai_models_trade_to_see_if_they_can/npji9i2/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npjn3mg",
+          "parent_id": "t1_npji9i2",
+          "author": "Obside_AI",
+          "text_history": [
+            [
+              "Good luck on your nice project! Backtesting with an LLM can be challenging and costly. I preferred going straight into forward testing with live data.",
+              "2025-11-19T02:55:46.545981"
+            ]
+          ],
+          "score_history": [
+            [
+              2,
+              "2025-11-19T02:55:46.545981"
+            ],
+            [
+              2,
+              "2025-11-19T03:05:45.545059"
+            ],
+            [
+              2,
+              "2025-11-19T03:14:08.480620"
+            ],
+            [
+              2,
+              "2025-11-19T03:17:33.795100"
+            ],
+            [
+              2,
+              "2025-11-19T03:19:39.604172"
+            ]
+          ],
+          "created_utc": 1763494428.0,
+          "depth": 1,
+          "permalink": "/r/LLMDevs/comments/1p0elwe/i_let_24_ai_models_trade_to_see_if_they_can/npjn3mg/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npl261a",
+              "parent_id": "t1_npjn3mg",
+              "author": "digjam",
+              "text_history": [
+                [
+                  "How are u getting live data and how did u get technical analysis? I haven't been able to figure out how to detect patterns. I guess u can calculate moving avgs. Also assuming u use a platform with API for trading ?",
+                  "2025-11-19T02:55:46.545981"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-19T02:55:46.545981"
+                ],
+                [
+                  1,
+                  "2025-11-19T03:05:45.545059"
+                ],
+                [
+                  1,
+                  "2025-11-19T03:14:08.480620"
+                ],
+                [
+                  1,
+                  "2025-11-19T03:17:33.795100"
+                ],
+                [
+                  1,
+                  "2025-11-19T03:19:39.604172"
+                ]
+              ],
+              "created_utc": 1763510607.0,
+              "depth": 2,
+              "permalink": "/r/LLMDevs/comments/1p0elwe/i_let_24_ai_models_trade_to_see_if_they_can/npl261a/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "npn1lfn",
+          "parent_id": "t1_npji9i2",
+          "author": "Exciting_Weakness_64",
+          "text_history": [
+            [
+              "I am new to this, where can you find data for say the last 3-5 years? Is it public or do you need to buy it?",
+              "2025-11-19T02:55:46.545981"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-19T02:55:46.545981"
+            ],
+            [
+              1,
+              "2025-11-19T03:05:45.545059"
+            ],
+            [
+              1,
+              "2025-11-19T03:14:08.480620"
+            ],
+            [
+              1,
+              "2025-11-19T03:17:33.795100"
+            ],
+            [
+              1,
+              "2025-11-19T03:19:39.604172"
+            ]
+          ],
+          "created_utc": 1763541746.0,
+          "depth": 1,
+          "permalink": "/r/LLMDevs/comments/1p0elwe/i_let_24_ai_models_trade_to_see_if_they_can/npn1lfn/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npnbca0",
+              "parent_id": "t1_npn1lfn",
+              "author": "No_Pick_9496",
+              "text_history": [
+                [
+                  "Scrape public company IR pages.\nScrape govt (BLS/StatCan/Regional fed reserve) releases, usually will involve CSV parsing.\nThe book “Secrets of Economic Indicators” is kind of the bible for macro inputs, the rest is up to you and your model/thesis.",
+                  "2025-11-19T02:55:46.545981"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-19T02:55:46.545981"
+                ],
+                [
+                  1,
+                  "2025-11-19T03:05:45.545059"
+                ],
+                [
+                  1,
+                  "2025-11-19T03:14:08.480620"
+                ],
+                [
+                  1,
+                  "2025-11-19T03:17:33.795100"
+                ],
+                [
+                  1,
+                  "2025-11-19T03:19:39.604172"
+                ]
+              ],
+              "created_utc": 1763547825.0,
+              "depth": 2,
+              "permalink": "/r/LLMDevs/comments/1p0elwe/i_let_24_ai_models_trade_to_see_if_they_can/npnbca0/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "npjdrxw",
+      "parent_id": "t3_1p0elwe",
+      "author": "CommercialComputer15",
+      "text_history": [
+        [
+          "Are model guardrails a factor hindering performance of some models?",
+          "2025-11-19T02:55:46.545981"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:55:46.545981"
+        ],
+        [
+          1,
+          "2025-11-19T03:05:45.545059"
+        ],
+        [
+          1,
+          "2025-11-19T03:14:08.480620"
+        ],
+        [
+          1,
+          "2025-11-19T03:17:33.795100"
+        ],
+        [
+          1,
+          "2025-11-19T03:19:39.604172"
+        ]
+      ],
+      "created_utc": 1763491668.0,
+      "depth": 0,
+      "permalink": "/r/LLMDevs/comments/1p0elwe/i_let_24_ai_models_trade_to_see_if_they_can/npjdrxw/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npn0a81",
+          "parent_id": "t1_npjdrxw",
+          "author": "Obside_AI",
+          "text_history": [
+            [
+              "I haven't got any issue with that, so I would say no.",
+              "2025-11-19T02:55:46.545981"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-19T02:55:46.545981"
+            ],
+            [
+              1,
+              "2025-11-19T03:05:45.545059"
+            ],
+            [
+              1,
+              "2025-11-19T03:14:08.480620"
+            ],
+            [
+              1,
+              "2025-11-19T03:17:33.795100"
+            ],
+            [
+              1,
+              "2025-11-19T03:19:39.604172"
+            ]
+          ],
+          "created_utc": 1763540917.0,
+          "depth": 1,
+          "permalink": "/r/LLMDevs/comments/1p0elwe/i_let_24_ai_models_trade_to_see_if_they_can/npn0a81/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npngkgu",
+              "parent_id": "t1_npn0a81",
+              "author": "CommercialComputer15",
+              "text_history": [
+                [
+                  "I had an issue with ChatGPT Agent where it said it couldn’t help with trading type of tasks so maybe that’s why it scores worse",
+                  "2025-11-19T03:14:08.480620"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-19T03:14:08.480620"
+                ],
+                [
+                  1,
+                  "2025-11-19T03:17:33.795100"
+                ],
+                [
+                  1,
+                  "2025-11-19T03:19:39.604172"
+                ]
+              ],
+              "created_utc": 1763550825.0,
+              "depth": 2,
+              "permalink": "/r/LLMDevs/comments/1p0elwe/i_let_24_ai_models_trade_to_see_if_they_can/npngkgu/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "npkp2i0",
+      "parent_id": "t3_1p0elwe",
+      "author": "ReleaseTheKrakennn",
+      "text_history": [
+        [
+          "Really cool project! Any chance you could share your prompt?",
+          "2025-11-19T02:55:46.545981"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:55:46.545981"
+        ],
+        [
+          1,
+          "2025-11-19T03:05:45.545059"
+        ],
+        [
+          1,
+          "2025-11-19T03:14:08.480620"
+        ],
+        [
+          1,
+          "2025-11-19T03:17:33.795100"
+        ],
+        [
+          1,
+          "2025-11-19T03:19:39.604172"
+        ]
+      ],
+      "created_utc": 1763506023.0,
+      "depth": 0,
+      "permalink": "/r/LLMDevs/comments/1p0elwe/i_let_24_ai_models_trade_to_see_if_they_can/npkp2i0/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npkur3j",
+      "parent_id": "t3_1p0elwe",
+      "author": "AstronomerIcy",
+      "text_history": [
+        [
+          "ive seen this quite a few time with different people, it seems the chinese models just perform alot better than the american counterparts, what could be the reason ?",
+          "2025-11-19T02:55:46.545981"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:55:46.545981"
+        ],
+        [
+          1,
+          "2025-11-19T03:05:45.545059"
+        ],
+        [
+          1,
+          "2025-11-19T03:14:08.480620"
+        ],
+        [
+          1,
+          "2025-11-19T03:17:33.795100"
+        ],
+        [
+          1,
+          "2025-11-19T03:19:39.604172"
+        ]
+      ],
+      "created_utc": 1763507969.0,
+      "depth": 0,
+      "permalink": "/r/LLMDevs/comments/1p0elwe/i_let_24_ai_models_trade_to_see_if_they_can/npkur3j/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "nplry1s",
+          "parent_id": "t1_npkur3j",
+          "author": "SamBell53",
+          "text_history": [
+            [
+              "No idea but people have speculated deepseek does better because the guys who made it ran a chinese quant firm and did deepseek on the side.",
+              "2025-11-19T02:55:46.545981"
+            ]
+          ],
+          "score_history": [
+            [
+              2,
+              "2025-11-19T02:55:46.545981"
+            ],
+            [
+              2,
+              "2025-11-19T03:05:45.545059"
+            ],
+            [
+              2,
+              "2025-11-19T03:14:08.480620"
+            ],
+            [
+              2,
+              "2025-11-19T03:17:33.795100"
+            ],
+            [
+              2,
+              "2025-11-19T03:19:39.604172"
+            ]
+          ],
+          "created_utc": 1763519790.0,
+          "depth": 1,
+          "permalink": "/r/LLMDevs/comments/1p0elwe/i_let_24_ai_models_trade_to_see_if_they_can/nplry1s/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npn1o1r",
+              "parent_id": "t1_nplry1s",
+              "author": "Exciting_Weakness_64",
+              "text_history": [
+                [
+                  "Damn never though of that",
+                  "2025-11-19T02:55:46.545981"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-19T02:55:46.545981"
+                ],
+                [
+                  1,
+                  "2025-11-19T03:05:45.545059"
+                ],
+                [
+                  1,
+                  "2025-11-19T03:14:08.480620"
+                ],
+                [
+                  1,
+                  "2025-11-19T03:17:33.795100"
+                ],
+                [
+                  1,
+                  "2025-11-19T03:19:39.604172"
+                ]
+              ],
+              "created_utc": 1763541792.0,
+              "depth": 2,
+              "permalink": "/r/LLMDevs/comments/1p0elwe/i_let_24_ai_models_trade_to_see_if_they_can/npn1o1r/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "npkv3ke",
+      "parent_id": "t3_1p0elwe",
+      "author": "CountMeowt-_-",
+      "text_history": [
+        [
+          "How many runs did you do and are results consistent with the trade type ?",
+          "2025-11-19T02:55:46.545981"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:55:46.545981"
+        ],
+        [
+          1,
+          "2025-11-19T03:05:45.545059"
+        ],
+        [
+          1,
+          "2025-11-19T03:14:08.480620"
+        ],
+        [
+          1,
+          "2025-11-19T03:17:33.795100"
+        ],
+        [
+          1,
+          "2025-11-19T03:19:39.604172"
+        ]
+      ],
+      "created_utc": 1763508090.0,
+      "depth": 0,
+      "permalink": "/r/LLMDevs/comments/1p0elwe/i_let_24_ai_models_trade_to_see_if_they_can/npkv3ke/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npn4g4l",
+          "parent_id": "t1_npkv3ke",
+          "author": "Obside_AI",
+          "text_history": [
+            [
+              "This is one run in real-time.",
+              "2025-11-19T02:55:46.545981"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-19T02:55:46.545981"
+            ],
+            [
+              1,
+              "2025-11-19T03:05:45.545059"
+            ],
+            [
+              1,
+              "2025-11-19T03:14:08.480620"
+            ],
+            [
+              1,
+              "2025-11-19T03:17:33.795100"
+            ],
+            [
+              1,
+              "2025-11-19T03:19:39.604172"
+            ]
+          ],
+          "created_utc": 1763543553.0,
+          "depth": 1,
+          "permalink": "/r/LLMDevs/comments/1p0elwe/i_let_24_ai_models_trade_to_see_if_they_can/npn4g4l/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npl7n1q",
+      "parent_id": "t3_1p0elwe",
+      "author": "TheParlayMonster",
+      "text_history": [
+        [
+          "Is this actually trading? For example, price quotes are different than actual fills.",
+          "2025-11-19T02:55:46.545981"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:55:46.545981"
+        ],
+        [
+          1,
+          "2025-11-19T03:05:45.545059"
+        ],
+        [
+          1,
+          "2025-11-19T03:14:08.480620"
+        ],
+        [
+          1,
+          "2025-11-19T03:17:33.795100"
+        ],
+        [
+          1,
+          "2025-11-19T03:19:39.604172"
+        ]
+      ],
+      "created_utc": 1763512524.0,
+      "depth": 0,
+      "permalink": "/r/LLMDevs/comments/1p0elwe/i_let_24_ai_models_trade_to_see_if_they_can/npl7n1q/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npn0rj9",
+          "parent_id": "t1_npl7n1q",
+          "author": "Obside_AI",
+          "text_history": [
+            [
+              "What do you mean? Entry price and Current price are different things. Entry price is the price at which a trade was triggered.",
+              "2025-11-19T02:55:46.545981"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-19T02:55:46.545981"
+            ],
+            [
+              1,
+              "2025-11-19T03:05:45.545059"
+            ],
+            [
+              1,
+              "2025-11-19T03:14:08.480620"
+            ],
+            [
+              1,
+              "2025-11-19T03:17:33.795100"
+            ],
+            [
+              1,
+              "2025-11-19T03:19:39.604172"
+            ]
+          ],
+          "created_utc": 1763541223.0,
+          "depth": 1,
+          "permalink": "/r/LLMDevs/comments/1p0elwe/i_let_24_ai_models_trade_to_see_if_they_can/npn0rj9/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "nplq3t4",
+      "parent_id": "t3_1p0elwe",
+      "author": "m3kw",
+      "text_history": [
+        [
+          "Can they predict insider info?",
+          "2025-11-19T02:55:46.545981"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:55:46.545981"
+        ],
+        [
+          1,
+          "2025-11-19T03:05:45.545059"
+        ],
+        [
+          1,
+          "2025-11-19T03:14:08.480620"
+        ],
+        [
+          1,
+          "2025-11-19T03:17:33.795100"
+        ],
+        [
+          1,
+          "2025-11-19T03:19:39.604172"
+        ]
+      ],
+      "created_utc": 1763519126.0,
+      "depth": 0,
+      "permalink": "/r/LLMDevs/comments/1p0elwe/i_let_24_ai_models_trade_to_see_if_they_can/nplq3t4/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npn0u0l",
+          "parent_id": "t1_nplq3t4",
+          "author": "Obside_AI",
+          "text_history": [
+            [
+              "Since insider info is knowledge not known by the public, I don't see how it could predict that.",
+              "2025-11-19T02:55:46.545981"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-19T02:55:46.545981"
+            ],
+            [
+              1,
+              "2025-11-19T03:05:45.545059"
+            ],
+            [
+              1,
+              "2025-11-19T03:14:08.480620"
+            ],
+            [
+              1,
+              "2025-11-19T03:17:33.795100"
+            ],
+            [
+              1,
+              "2025-11-19T03:19:39.604172"
+            ]
+          ],
+          "created_utc": 1763541266.0,
+          "depth": 1,
+          "permalink": "/r/LLMDevs/comments/1p0elwe/i_let_24_ai_models_trade_to_see_if_they_can/npn0u0l/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "nplxov7",
+      "parent_id": "t3_1p0elwe",
+      "author": "zhambe",
+      "text_history": [
+        [
+          "Re: minimizing risk. The old saw \"no risk, no reward\" -- aren't you also minimizing potential returns? Minimum risk would be to never make a single trade.",
+          "2025-11-19T02:55:46.545981"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:55:46.545981"
+        ],
+        [
+          1,
+          "2025-11-19T03:05:45.545059"
+        ],
+        [
+          1,
+          "2025-11-19T03:14:08.480620"
+        ],
+        [
+          1,
+          "2025-11-19T03:17:33.795100"
+        ],
+        [
+          1,
+          "2025-11-19T03:19:39.604172"
+        ]
+      ],
+      "created_utc": 1763521861.0,
+      "depth": 0,
+      "permalink": "/r/LLMDevs/comments/1p0elwe/i_let_24_ai_models_trade_to_see_if_they_can/nplxov7/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npn0yc0",
+          "parent_id": "t1_nplxov7",
+          "author": "Obside_AI",
+          "text_history": [
+            [
+              "\"grow your capital while minimizing risk taken\" is subjective, that's why I want to see how each model manages risk. So far none of them has done any crazy gambling or overleveraged, so it's promising.",
+              "2025-11-19T02:55:46.545981"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-19T02:55:46.545981"
+            ],
+            [
+              1,
+              "2025-11-19T03:05:45.545059"
+            ],
+            [
+              1,
+              "2025-11-19T03:14:08.480620"
+            ],
+            [
+              1,
+              "2025-11-19T03:17:33.795100"
+            ],
+            [
+              1,
+              "2025-11-19T03:19:39.604172"
+            ]
+          ],
+          "created_utc": 1763541343.0,
+          "depth": 1,
+          "permalink": "/r/LLMDevs/comments/1p0elwe/i_let_24_ai_models_trade_to_see_if_they_can/npn0yc0/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "nplzme8",
+      "parent_id": "t3_1p0elwe",
+      "author": "RecordingLanky9135",
+      "text_history": [
+        [
+          "It's cool but don't find significant difference between those models.",
+          "2025-11-19T02:55:46.545981"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:55:46.545981"
+        ],
+        [
+          1,
+          "2025-11-19T03:05:45.545059"
+        ],
+        [
+          1,
+          "2025-11-19T03:14:08.480620"
+        ],
+        [
+          1,
+          "2025-11-19T03:17:33.795100"
+        ],
+        [
+          1,
+          "2025-11-19T03:19:39.604172"
+        ]
+      ],
+      "created_utc": 1763522584.0,
+      "depth": 0,
+      "permalink": "/r/LLMDevs/comments/1p0elwe/i_let_24_ai_models_trade_to_see_if_they_can/nplzme8/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npn0e0p",
+          "parent_id": "t1_nplzme8",
+          "author": "Obside_AI",
+          "text_history": [
+            [
+              "So far news-based models seem to do better. Time will tell.",
+              "2025-11-19T02:55:46.545981"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-19T02:55:46.545981"
+            ],
+            [
+              1,
+              "2025-11-19T03:05:45.545059"
+            ],
+            [
+              1,
+              "2025-11-19T03:14:08.480620"
+            ],
+            [
+              1,
+              "2025-11-19T03:17:33.795100"
+            ],
+            [
+              1,
+              "2025-11-19T03:19:39.604172"
+            ]
+          ],
+          "created_utc": 1763540983.0,
+          "depth": 1,
+          "permalink": "/r/LLMDevs/comments/1p0elwe/i_let_24_ai_models_trade_to_see_if_they_can/npn0e0p/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npmrc3s",
+      "parent_id": "t3_1p0elwe",
+      "author": "pogue972",
+      "text_history": [
+        [
+          "Why not Perplexity with news too?",
+          "2025-11-19T02:55:46.545981"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:55:46.545981"
+        ],
+        [
+          1,
+          "2025-11-19T03:05:45.545059"
+        ],
+        [
+          1,
+          "2025-11-19T03:14:08.480620"
+        ],
+        [
+          1,
+          "2025-11-19T03:17:33.795100"
+        ],
+        [
+          1,
+          "2025-11-19T03:19:39.604172"
+        ]
+      ],
+      "created_utc": 1763535558.0,
+      "depth": 0,
+      "permalink": "/r/LLMDevs/comments/1p0elwe/i_let_24_ai_models_trade_to_see_if_they_can/npmrc3s/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npn4izj",
+          "parent_id": "t1_npmrc3s",
+          "author": "Obside_AI",
+          "text_history": [
+            [
+              "It could come in the next batch.",
+              "2025-11-19T02:55:46.545981"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-19T02:55:46.545981"
+            ],
+            [
+              1,
+              "2025-11-19T03:05:45.545059"
+            ],
+            [
+              1,
+              "2025-11-19T03:14:08.480620"
+            ],
+            [
+              1,
+              "2025-11-19T03:17:33.795100"
+            ],
+            [
+              1,
+              "2025-11-19T03:19:39.604172"
+            ]
+          ],
+          "created_utc": 1763543604.0,
+          "depth": 1,
+          "permalink": "/r/LLMDevs/comments/1p0elwe/i_let_24_ai_models_trade_to_see_if_they_can/npn4izj/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npn5qvc",
+              "parent_id": "t1_npn4izj",
+              "author": "pogue972",
+              "text_history": [
+                [
+                  "Are you running these through an API, I assume?",
+                  "2025-11-19T02:55:46.545981"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-19T02:55:46.545981"
+                ],
+                [
+                  1,
+                  "2025-11-19T03:05:45.545059"
+                ],
+                [
+                  1,
+                  "2025-11-19T03:14:08.480620"
+                ],
+                [
+                  1,
+                  "2025-11-19T03:17:33.795100"
+                ],
+                [
+                  1,
+                  "2025-11-19T03:19:39.604172"
+                ]
+              ],
+              "created_utc": 1763544378.0,
+              "depth": 2,
+              "permalink": "/r/LLMDevs/comments/1p0elwe/i_let_24_ai_models_trade_to_see_if_they_can/npn5qvc/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "npn13fn",
+      "parent_id": "t3_1p0elwe",
+      "author": "Silver_Jaguar_24",
+      "text_history": [
+        [
+          "ChatGPT did a doo-doo for the first week lol",
+          "2025-11-19T02:55:46.545981"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:55:46.545981"
+        ],
+        [
+          1,
+          "2025-11-19T03:05:45.545059"
+        ],
+        [
+          1,
+          "2025-11-19T03:14:08.480620"
+        ],
+        [
+          1,
+          "2025-11-19T03:17:33.795100"
+        ],
+        [
+          1,
+          "2025-11-19T03:19:39.604172"
+        ]
+      ],
+      "created_utc": 1763541432.0,
+      "depth": 0,
+      "permalink": "/r/LLMDevs/comments/1p0elwe/i_let_24_ai_models_trade_to_see_if_they_can/npn13fn/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npn1vxd",
+      "parent_id": "t3_1p0elwe",
+      "author": "Delicious_Bed_4410",
+      "text_history": [
+        [
+          "Is this live? Like where we can see whats the pnl?",
+          "2025-11-19T02:55:46.545981"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:55:46.545981"
+        ],
+        [
+          1,
+          "2025-11-19T03:05:45.545059"
+        ],
+        [
+          1,
+          "2025-11-19T03:14:08.480620"
+        ],
+        [
+          1,
+          "2025-11-19T03:17:33.795100"
+        ],
+        [
+          1,
+          "2025-11-19T03:19:39.604172"
+        ]
+      ],
+      "created_utc": 1763541929.0,
+      "depth": 0,
+      "permalink": "/r/LLMDevs/comments/1p0elwe/i_let_24_ai_models_trade_to_see_if_they_can/npn1vxd/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npn4k1x",
+          "parent_id": "t1_npn1vxd",
+          "author": "Obside_AI",
+          "text_history": [
+            [
+              "You can see PnL for each model in the Ranking tab.",
+              "2025-11-19T02:55:46.545981"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-19T02:55:46.545981"
+            ],
+            [
+              1,
+              "2025-11-19T03:05:45.545059"
+            ],
+            [
+              1,
+              "2025-11-19T03:14:08.480620"
+            ],
+            [
+              1,
+              "2025-11-19T03:17:33.795100"
+            ],
+            [
+              1,
+              "2025-11-19T03:19:39.604172"
+            ]
+          ],
+          "created_utc": 1763543623.0,
+          "depth": 1,
+          "permalink": "/r/LLMDevs/comments/1p0elwe/i_let_24_ai_models_trade_to_see_if_they_can/npn4k1x/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npn2h2t",
+      "parent_id": "t3_1p0elwe",
+      "author": "White_Crown_1272",
+      "text_history": [
+        [
+          "The portfolio is the most safe portfolio they can do. How did you make the risk settings?\n\nI wonder how they would act if they take risk.\n\nAlso, you should test bear market to see real performance. Anybody can win in bull market.",
+          "2025-11-19T02:55:46.545981"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:55:46.545981"
+        ],
+        [
+          1,
+          "2025-11-19T03:05:45.545059"
+        ],
+        [
+          1,
+          "2025-11-19T03:14:08.480620"
+        ],
+        [
+          1,
+          "2025-11-19T03:17:33.795100"
+        ],
+        [
+          1,
+          "2025-11-19T03:19:39.604172"
+        ]
+      ],
+      "created_utc": 1763542293.0,
+      "depth": 0,
+      "permalink": "/r/LLMDevs/comments/1p0elwe/i_let_24_ai_models_trade_to_see_if_they_can/npn2h2t/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npn4qd2",
+          "parent_id": "t1_npn2h2t",
+          "author": "Obside_AI",
+          "text_history": [
+            [
+              "Hello!\n\nThere are no specific risk settings so far (except max leverage they can use). The point is to see how well/bad they manage risk without specific instructions.\n\nAssets'price have gone down for the past 19 days, so we aren't currently in a bullish leg.",
+              "2025-11-19T02:55:46.545981"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-19T02:55:46.545981"
+            ],
+            [
+              1,
+              "2025-11-19T03:05:45.545059"
+            ],
+            [
+              1,
+              "2025-11-19T03:14:08.480620"
+            ],
+            [
+              1,
+              "2025-11-19T03:17:33.795100"
+            ],
+            [
+              1,
+              "2025-11-19T03:19:39.604172"
+            ]
+          ],
+          "created_utc": 1763543732.0,
+          "depth": 1,
+          "permalink": "/r/LLMDevs/comments/1p0elwe/i_let_24_ai_models_trade_to_see_if_they_can/npn4qd2/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npn4xdx",
+      "parent_id": "t3_1p0elwe",
+      "author": "Obside_AI",
+      "text_history": [
+        [
+          "Thank you all for your comments and upvotes! I just added Gemini 3 Pro to the AI Trading Arena.",
+          "2025-11-19T02:55:46.545981"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:55:46.545981"
+        ],
+        [
+          1,
+          "2025-11-19T03:05:45.545059"
+        ],
+        [
+          1,
+          "2025-11-19T03:14:08.480620"
+        ],
+        [
+          1,
+          "2025-11-19T03:17:33.795100"
+        ],
+        [
+          1,
+          "2025-11-19T03:19:39.604172"
+        ]
+      ],
+      "created_utc": 1763543858.0,
+      "depth": 0,
+      "permalink": "/r/LLMDevs/comments/1p0elwe/i_let_24_ai_models_trade_to_see_if_they_can/npn4xdx/",
+      "is_submitter": true,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npn5s3n",
+      "parent_id": "t3_1p0elwe",
+      "author": "Maumau93",
+      "text_history": [
+        [
+          "There is allot of people copying Nof1 Ai arena these days seen three in the last two days...",
+          "2025-11-19T02:55:46.545981"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:55:46.545981"
+        ],
+        [
+          1,
+          "2025-11-19T03:05:45.545059"
+        ],
+        [
+          1,
+          "2025-11-19T03:14:08.480620"
+        ],
+        [
+          1,
+          "2025-11-19T03:17:33.795100"
+        ],
+        [
+          1,
+          "2025-11-19T03:19:39.604172"
+        ]
+      ],
+      "created_utc": 1763544400.0,
+      "depth": 0,
+      "permalink": "/r/LLMDevs/comments/1p0elwe/i_let_24_ai_models_trade_to_see_if_they_can/npn5s3n/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npn7fvs",
+      "parent_id": "t3_1p0elwe",
+      "author": "Silver_Jaguar_24",
+      "text_history": [
+        [
+          "What APIs are you using and what are the costs like for 24 models? Have you considered testing with local LLM?",
+          "2025-11-19T02:55:46.545981"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:55:46.545981"
+        ],
+        [
+          1,
+          "2025-11-19T03:05:45.545059"
+        ],
+        [
+          1,
+          "2025-11-19T03:14:08.480620"
+        ],
+        [
+          1,
+          "2025-11-19T03:17:33.795100"
+        ],
+        [
+          1,
+          "2025-11-19T03:19:39.604172"
+        ]
+      ],
+      "created_utc": 1763545446.0,
+      "depth": 0,
+      "permalink": "/r/LLMDevs/comments/1p0elwe/i_let_24_ai_models_trade_to_see_if_they_can/npn7fvs/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npn8unx",
+          "parent_id": "t1_npn7fvs",
+          "author": "Obside_AI",
+          "text_history": [
+            [
+              "Here is how the stack is glued together.\n\n• News:\n\nTracking 12 curated financial news accounts on X and streaming their posts in real time.\n\n• Price data:\n\nCrypto → Binance\n\nTraditional markets → capital.com\n\n• Indicators:\n\nAll technical indicators (RSI, EMAs, etc.) are computed on own infra, no third-party involved.\n\n• LLM layer:\n\nBuilt a structured context (recent prices, indicators, and news), and the LLM decides whether to open/close/hold a position or do nothing.\n\nPipeline in one line:\n\nX news → Binance/Capital.com data → our indicator engine → LLM decision-making\n\n  \nThe AI Trading Arena already includes open-source LLMs (such as Kiwi). They're just not locally hosted by me.\n\nYou can see a breakdown of cost per LLM for season 1 [here](https://obside.com/ai-trading-arena-season-1-recap/)",
+              "2025-11-19T02:55:46.545981"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-19T02:55:46.545981"
+            ],
+            [
+              1,
+              "2025-11-19T03:05:45.545059"
+            ],
+            [
+              1,
+              "2025-11-19T03:14:08.480620"
+            ],
+            [
+              1,
+              "2025-11-19T03:17:33.795100"
+            ],
+            [
+              1,
+              "2025-11-19T03:19:39.604172"
+            ]
+          ],
+          "created_utc": 1763546309.0,
+          "depth": 1,
+          "permalink": "/r/LLMDevs/comments/1p0elwe/i_let_24_ai_models_trade_to_see_if_they_can/npn8unx/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npnblps",
+      "parent_id": "t3_1p0elwe",
+      "author": "dustandsepia",
+      "text_history": [
+        [
+          "You may want to make sure that you’re modeling transaction fees and limits for orders, and ensure you’re not letting your models peek into the future if you’re doing something customer here re: implementing a trading simulation. \n\nIf may also be helpful to have a baseline comparison against an S&amp;P500 index.",
+          "2025-11-19T02:55:46.545981"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:55:46.545981"
+        ],
+        [
+          1,
+          "2025-11-19T03:05:45.545059"
+        ],
+        [
+          1,
+          "2025-11-19T03:14:08.480620"
+        ],
+        [
+          1,
+          "2025-11-19T03:17:33.795100"
+        ],
+        [
+          1,
+          "2025-11-19T03:19:39.604172"
+        ]
+      ],
+      "created_utc": 1763547982.0,
+      "depth": 0,
+      "permalink": "/r/LLMDevs/comments/1p0elwe/i_let_24_ai_models_trade_to_see_if_they_can/npnblps/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npndehd",
+          "parent_id": "t1_npnblps",
+          "author": "makinggrace",
+          "text_history": [
+            [
+              "🙌",
+              "2025-11-19T02:55:46.545981"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-19T02:55:46.545981"
+            ],
+            [
+              1,
+              "2025-11-19T03:05:45.545059"
+            ],
+            [
+              1,
+              "2025-11-19T03:14:08.480620"
+            ],
+            [
+              1,
+              "2025-11-19T03:17:33.795100"
+            ],
+            [
+              1,
+              "2025-11-19T03:19:39.604172"
+            ]
+          ],
+          "created_utc": 1763549049.0,
+          "depth": 1,
+          "permalink": "/r/LLMDevs/comments/1p0elwe/i_let_24_ai_models_trade_to_see_if_they_can/npndehd/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npnea06",
+      "parent_id": "t3_1p0elwe",
+      "author": "debauch3ry",
+      "text_history": [
+        [
+          "Impressive. Very nice. Let's see how the market performed overall during that time.",
+          "2025-11-19T02:55:46.545981"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:55:46.545981"
+        ],
+        [
+          1,
+          "2025-11-19T03:05:45.545059"
+        ],
+        [
+          1,
+          "2025-11-19T03:14:08.480620"
+        ],
+        [
+          1,
+          "2025-11-19T03:17:33.795100"
+        ],
+        [
+          1,
+          "2025-11-19T03:19:39.604172"
+        ]
+      ],
+      "created_utc": 1763549547.0,
+      "depth": 0,
+      "permalink": "/r/LLMDevs/comments/1p0elwe/i_let_24_ai_models_trade_to_see_if_they_can/npnea06/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npneh6d",
+      "parent_id": "t3_1p0elwe",
+      "author": "StarCometFalling",
+      "text_history": [
+        [
+          "Would love to see how Gemini 3.0 performs",
+          "2025-11-19T02:55:46.545981"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:55:46.545981"
+        ],
+        [
+          1,
+          "2025-11-19T03:05:45.545059"
+        ],
+        [
+          1,
+          "2025-11-19T03:14:08.480620"
+        ],
+        [
+          1,
+          "2025-11-19T03:17:33.795100"
+        ],
+        [
+          1,
+          "2025-11-19T03:19:39.604172"
+        ]
+      ],
+      "created_utc": 1763549659.0,
+      "depth": 0,
+      "permalink": "/r/LLMDevs/comments/1p0elwe/i_let_24_ai_models_trade_to_see_if_they_can/npneh6d/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:19:39.604172",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/LLMDevs/comments/1p0elwe/i_let_24_ai_models_trade_to_see_if_they_can/",
+    "total_comments": 63,
+    "top_level_comments": 29,
+    "api_requests": 1,
+    "expected_comments": 64,
+    "coverage_percent": 98.44,
+    "merged_snapshot_count": 5,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_025546.json",
+      "scrape_002_20251119_030545.json",
+      "scrape_003_20251119_031407.json",
+      "scrape_004_20251119_031733.json",
+      "scrape_005_20251119_031939.json"
+    ]
+  }
+}

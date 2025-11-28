@@ -1,0 +1,44 @@
+{
+  "post": {
+    "id": "1p0wops",
+    "title": "Self-replicating botnet attacks Ray clusters",
+    "author": "NISMO1968",
+    "score_history": [
+      [
+        1,
+        "2025-11-19T03:48:59.480622"
+      ],
+      [
+        1,
+        "2025-11-19T03:52:30.144352"
+      ],
+      [
+        1,
+        "2025-11-19T03:59:43.305847"
+      ]
+    ],
+    "created_utc": 1763522484.0,
+    "num_comments": 0,
+    "subreddit": "cybersecurity",
+    "url": "https://www.theregister.com/2025/11/18/selfreplicating_botnet_ray_clusters/",
+    "selftext": "",
+    "permalink": "/r/cybersecurity/comments/1p0wops/selfreplicating_botnet_attacks_ray_clusters/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:59:43.305847",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/cybersecurity/comments/1p0wops/selfreplicating_botnet_attacks_ray_clusters/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_034859.json",
+      "scrape_002_20251119_035229.json",
+      "scrape_003_20251119_035943.json"
+    ]
+  }
+}

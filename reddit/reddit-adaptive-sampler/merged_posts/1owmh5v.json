@@ -1,0 +1,44 @@
+{
+  "post": {
+    "id": "1owmh5v",
+    "title": "Free AI API",
+    "author": "ExtensionAlbatross99",
+    "score_history": [
+      [
+        1,
+        "2025-11-19T02:55:51.367108"
+      ],
+      [
+        1,
+        "2025-11-19T03:07:00.633202"
+      ],
+      [
+        1,
+        "2025-11-19T03:17:34.405043"
+      ]
+    ],
+    "created_utc": 1763092993.0,
+    "num_comments": 0,
+    "subreddit": "AutoGPT",
+    "url": "/r/AIhunterpro/comments/1owmfqz/free_ai_api/",
+    "selftext": "",
+    "permalink": "/r/AutoGPT/comments/1owmh5v/free_ai_api/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:17:34.405043",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/AutoGPT/comments/1owmh5v/free_ai_api/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_025551.json",
+      "scrape_002_20251119_030700.json",
+      "scrape_003_20251119_031734.json"
+    ]
+  }
+}

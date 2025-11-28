@@ -1,0 +1,80 @@
+{
+  "post": {
+    "id": "1ozd0ic",
+    "title": "Agent ignoring tool response and using its own reasoning instead",
+    "author": "bolnuevo6",
+    "score_history": [
+      [
+        7,
+        "2025-11-18T14:22:38.379890"
+      ],
+      [
+        6,
+        "2025-11-18T14:33:04.587739"
+      ],
+      [
+        7,
+        "2025-11-18T14:43:06.576749"
+      ]
+    ],
+    "created_utc": 1763375930.0,
+    "num_comments": 1,
+    "subreddit": "LangChain",
+    "url": "https://www.reddit.com/r/LangChain/comments/1ozd0ic/agent_ignoring_tool_response_and_using_its_own/",
+    "selftext": "I have a tool that takes text as input. when my agent calls it, the tool searches a database for information associated with that text and returns the output.\n\nvery simplified example =&gt;   \nInput send by the agent to the tool: \"Who's the best DC comics hero?\"\n\ndatabase of the tool:  \n\\[  {\"input\": \"best DC comics hero\", \"output\": \"Batman\"},\n\n  {\"input\": \"best japan anime hero\", \"output\": \"Luffy\"},  \n... \\]\n\nExpected output: \"Batman\"\n\nthis part works fine. However the agent ignores the tool response (\"Batman\") and uses its own reasoning instead, answering something like \"Superman\" for example. But in my use case, i need it to be Batman (the tool's answer). \n\nI've already specified in the tool description and agent context that this tool is the source of truth and should be trusted\n\nwhy does an agent ignore a tool response, and how can I fix this?  \nTo much context ? Tool response not authoritarian enough ?\n\nthanks ",
+    "permalink": "/r/LangChain/comments/1ozd0ic/agent_ignoring_tool_response_and_using_its_own/"
+  },
+  "comments": [
+    {
+      "id": "npbss4m",
+      "parent_id": "t3_1ozd0ic",
+      "author": "Neither-Love6541",
+      "text_history": [
+        [
+          "Debug your agent step by step and check and see if it's actually calling the tool, and if the tool response is going back to the LLM before it responds. Agent is just the wrapper at the end of the day. Make sure your LLM is getting the right context from the tool response and also improve your system prompt otherwise.",
+          "2025-11-18T14:22:38.379890"
+        ]
+      ],
+      "score_history": [
+        [
+          3,
+          "2025-11-18T14:22:38.379890"
+        ],
+        [
+          3,
+          "2025-11-18T14:33:04.587739"
+        ],
+        [
+          3,
+          "2025-11-18T14:43:06.576749"
+        ]
+      ],
+      "created_utc": 1763392482.0,
+      "depth": 0,
+      "permalink": "/r/LangChain/comments/1ozd0ic/agent_ignoring_tool_response_and_using_its_own/npbss4m/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-18T14:43:06.576749",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/LangChain/comments/1ozd0ic/agent_ignoring_tool_response_and_using_its_own/",
+    "total_comments": 1,
+    "top_level_comments": 1,
+    "api_requests": 1,
+    "expected_comments": 1,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_142238.json",
+      "scrape_002_20251118_143304.json",
+      "scrape_003_20251118_144306.json"
+    ]
+  }
+}

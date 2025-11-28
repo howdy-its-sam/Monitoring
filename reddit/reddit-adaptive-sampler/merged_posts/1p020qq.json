@@ -1,0 +1,206 @@
+{
+  "post": {
+    "id": "1p020qq",
+    "title": "What’s the best interface for Ai agents?",
+    "author": "TheOdbball",
+    "score_history": [
+      [
+        3,
+        "2025-11-18T12:51:37.379151"
+      ],
+      [
+        3,
+        "2025-11-18T13:03:59.993632"
+      ],
+      [
+        3,
+        "2025-11-18T13:15:55.084383"
+      ],
+      [
+        3,
+        "2025-11-18T13:46:30.832634"
+      ],
+      [
+        3,
+        "2025-11-18T13:49:08.297012"
+      ],
+      [
+        3,
+        "2025-11-18T13:49:43.319374"
+      ],
+      [
+        3,
+        "2025-11-18T13:59:26.712518"
+      ],
+      [
+        3,
+        "2025-11-18T21:29:05.039292"
+      ],
+      [
+        3,
+        "2025-11-18T23:54:37.765872"
+      ],
+      [
+        3,
+        "2025-11-19T01:40:02.344270"
+      ]
+    ],
+    "created_utc": 1763438394.0,
+    "num_comments": 3,
+    "subreddit": "AI_Agents",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1p020qq/whats_the_best_interface_for_ai_agents/",
+    "selftext": "//▙▖▙▖▞▞▙▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂\n\nI keep running into this idea across the internet. Everyone has their ai they prefer now. API is a standard. You can run most thru their app platforms while devs and the best of us, move to CLI based space like Claude Code and Codex. Personally I am working on telegram as a baseline as they cover my legacy ai project needs. \n\nBut as we see apps integrating ai day by day, is this really the best option we have? \n\nI’d take RCS messages from companies before I commit another decade of company led user interfacing . \n\nSo I’m sitting at a QT pondering. When I go home and start building out my agent on a VPS for the first time. How should I be looking at this interface? Is CLI the best we got? What do you all use? \n\nCursor is what I’m using now and it works until I need to brainstorm, then I start losing momentum to half baked artifacts\n\n⟦⎊⟧ :: ∎\n\n//▙▖▙▖▞▞▙▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂\n\n[View Poll](https://www.reddit.com/poll/1p020qq)",
+    "permalink": "/r/AI_Agents/comments/1p020qq/whats_the_best_interface_for_ai_agents/"
+  },
+  "comments": [
+    {
+      "id": "npfrxeb",
+      "parent_id": "t3_1p020qq",
+      "author": "AutoModerator",
+      "text_history": [
+        [
+          "Thank you for your submission, for any questions regarding AI, please check out our wiki at https://www.reddit.com/r/ai_agents/wiki (this is currently in test and we are actively adding to the wiki)\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/AI_Agents) if you have any questions or concerns.*",
+          "2025-11-18T12:51:37.379151"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T12:51:37.379151"
+        ],
+        [
+          1,
+          "2025-11-18T13:03:59.993632"
+        ],
+        [
+          1,
+          "2025-11-18T13:15:55.084383"
+        ],
+        [
+          1,
+          "2025-11-18T13:46:30.832634"
+        ],
+        [
+          1,
+          "2025-11-18T13:49:08.297012"
+        ],
+        [
+          1,
+          "2025-11-18T13:49:43.319374"
+        ],
+        [
+          1,
+          "2025-11-18T13:59:26.712518"
+        ],
+        [
+          1,
+          "2025-11-18T21:29:05.039292"
+        ],
+        [
+          1,
+          "2025-11-18T23:54:37.765872"
+        ],
+        [
+          1,
+          "2025-11-19T01:40:02.344270"
+        ]
+      ],
+      "created_utc": 1763438395.0,
+      "depth": 0,
+      "permalink": "/r/AI_Agents/comments/1p020qq/whats_the_best_interface_for_ai_agents/npfrxeb/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npibeyt",
+      "parent_id": "t3_1p020qq",
+      "author": "micseydel",
+      "text_history": [
+        [
+          "Transcribed voice memos for input, and (I know this is weird) a plaintext wiki for as much of the rest as possible. In my case \"plaintext wiki\" means Markdown files viewed in Obsidian, but in my experience the linked nature of the wiki ends up naturally moving to workflows when each note in the wiki can have an \"atomic agent\" associated with it. This could apply to any notes app really though, I don't use tags or folders as much as \\[\\[wikilink\\]\\] hyperlinks.\n\nFor HITL, I use an Obsidian pane for my \\[\\[Notification Center\\]\\]. I'd like something more Jarvis-like one day, but HITL is really a last resort so I've been keeping my day-to-day simple.",
+          "2025-11-18T12:51:37.379151"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T12:51:37.379151"
+        ],
+        [
+          1,
+          "2025-11-18T13:03:59.993632"
+        ],
+        [
+          1,
+          "2025-11-18T13:15:55.084383"
+        ],
+        [
+          1,
+          "2025-11-18T13:46:30.832634"
+        ],
+        [
+          1,
+          "2025-11-18T13:49:08.297012"
+        ],
+        [
+          1,
+          "2025-11-18T13:49:43.319374"
+        ],
+        [
+          1,
+          "2025-11-18T13:59:26.712518"
+        ],
+        [
+          1,
+          "2025-11-18T21:29:05.039292"
+        ],
+        [
+          1,
+          "2025-11-18T23:54:37.765872"
+        ],
+        [
+          1,
+          "2025-11-19T01:40:02.344270"
+        ]
+      ],
+      "created_utc": 1763480493.0,
+      "depth": 0,
+      "permalink": "/r/AI_Agents/comments/1p020qq/whats_the_best_interface_for_ai_agents/npibeyt/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T01:40:02.344270",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/AI_Agents/comments/1p020qq/whats_the_best_interface_for_ai_agents/",
+    "total_comments": 2,
+    "top_level_comments": 2,
+    "api_requests": 1,
+    "expected_comments": 3,
+    "coverage_percent": 66.67,
+    "merged_snapshot_count": 10,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_125136.json",
+      "scrape_002_20251118_130359.json",
+      "scrape_003_20251118_131554.json",
+      "scrape_004_20251118_134630.json",
+      "scrape_005_20251118_134907.json",
+      "scrape_006_20251118_134943.json",
+      "scrape_007_20251118_135926.json",
+      "scrape_008_20251118_212904.json",
+      "scrape_009_20251118_235437.json",
+      "scrape_010_20251119_014002.json"
+    ]
+  }
+}

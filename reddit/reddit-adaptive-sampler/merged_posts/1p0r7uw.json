@@ -1,0 +1,396 @@
+{
+  "post": {
+    "id": "1p0r7uw",
+    "title": "CodeMode vs Traditional MCP benchmark",
+    "author": "juanviera23",
+    "score_history": [
+      [
+        47,
+        "2025-11-19T02:57:53.957752"
+      ],
+      [
+        47,
+        "2025-11-19T03:05:50.816030"
+      ],
+      [
+        49,
+        "2025-11-19T03:14:07.378740"
+      ]
+    ],
+    "created_utc": 1763507636.0,
+    "num_comments": 10,
+    "subreddit": "LocalLLaMA",
+    "url": "https://i.redd.it/js0ua9ikl32g1.png",
+    "selftext": "",
+    "permalink": "/r/LocalLLaMA/comments/1p0r7uw/codemode_vs_traditional_mcp_benchmark/"
+  },
+  "comments": [
+    {
+      "id": "npll3cx",
+      "parent_id": "t3_1p0r7uw",
+      "author": "EffectiveCeilingFan",
+      "text_history": [
+        [
+          "They're lying about the source of their data. They state:\n\n&gt;**Research from** [**Apple**](https://machinelearning.apple.com/research/codeact)**,** [**Cloudflare**](https://blog.cloudflare.com/code-mode/) **and** [**Anthropic**](https://www.anthropic.com/engineering/code-execution-with-mcp) **proves:**\n\n&gt;**60% faster execution** than traditional tool calling\n\n&gt;**68% fewer tokens** consumed\n\n&gt;**88% fewer API round trips**\n\n&gt;**98.7% reduction in context overhead** for complex workflows\n\nBut this mostly isn't true. The Anthropic study does contain that \"98.7%\" value, but it's misleading to say that it is for complex workflows. Anthropic noted, as far as I can tell (their article is weirdly vague), that a single tool from the Salesforce or Google Drive MCP servers rewritten in Typescript is only around 2k tokens, whereas the entirety of the normal Salesforce and Google Drive MCP servers combined are around 150k tokens. So, in order to use 98.7% less tokens, this \"complex workflow\" would only involve a single tool.\n\nThe rest of the numbers are not from any of the Apple, Cloudflare, and Anthropic research. They are actually from   a different benchmark that is a bit less prestigious than \"Apple, Cloudflare, and Anthropic research\": [https://github.com/imran31415/codemode\\_python\\_benchmark](https://github.com/imran31415/codemode_python_benchmark)\n\nThe real benchmark used for this data tests Claude 3 Haiku across 8 basic tests and Gemini 2.0 Flash Experimental across 2/8 of those tasks (I don't know why they didn't test all 8).\n\nEvery benchmark is basically the same: \"do XYZ several times\" where none of the tasks depend on each other or require any processing in between and the model only has access to a \"do XYZ one time\" tool. Also, the Code Mode model has access to a full Python environment outside of the tools themselves, whereas the normal model doesn't, which seems a bit unfair.\n\nAs far as I can tell, the API round trips number is also comletely wrong. I have no idea how they arived at that number, it appears to be made up. There is no logic in their benchmark code that calculates such a number.\n\nThe graphic has the same fake citations. They cite 2 &amp; 4 for the benchmarks, but citations 2 &amp; 4 contain no mention of latency or API round-trips. The numbers are all from citation 3. I have no idea why the top cites 1 &amp; 2, since 1 &amp; 2 do not conduct this benchmark.",
+          "2025-11-19T02:57:53.957752"
+        ]
+      ],
+      "score_history": [
+        [
+          22,
+          "2025-11-19T02:57:53.957752"
+        ],
+        [
+          21,
+          "2025-11-19T03:05:50.816030"
+        ],
+        [
+          24,
+          "2025-11-19T03:14:07.378740"
+        ]
+      ],
+      "created_utc": 1763517341.0,
+      "depth": 0,
+      "permalink": "/r/LocalLLaMA/comments/1p0r7uw/codemode_vs_traditional_mcp_benchmark/npll3cx/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": 1763526608.0,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npm0qgl",
+          "parent_id": "t1_npll3cx",
+          "author": "Clear-Ad-9312",
+          "text_history": [
+            [
+              "The only person who actually read the article and looked into the GitHub. Crazy that people like this are employed at Cloudflare doing half ass attempts at testing.\n\nI do think there is merit to allowing for the LLM to make code if there is a chance to do multiple things at once. MCP is just better overall at querying APIs or tools, or else we are wasting time with them.(especially data collection queries)",
+              "2025-11-19T02:57:53.957752"
+            ]
+          ],
+          "score_history": [
+            [
+              7,
+              "2025-11-19T02:57:53.957752"
+            ],
+            [
+              7,
+              "2025-11-19T03:05:50.816030"
+            ],
+            [
+              9,
+              "2025-11-19T03:14:07.378740"
+            ]
+          ],
+          "created_utc": 1763523017.0,
+          "depth": 1,
+          "permalink": "/r/LocalLLaMA/comments/1p0r7uw/codemode_vs_traditional_mcp_benchmark/npm0qgl/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": 1763523199.0,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        },
+        {
+          "id": "npmz85i",
+          "parent_id": "t1_npll3cx",
+          "author": "juanviera23",
+          "text_history": [
+            [
+              "The graphic is not lying about its sources\n\nThe references are meant for Codemode as a concept, which was first introduced and pushed by Cloudfare and Anthropic\n\nThe concept is new, and this benchmark is the first to build a dataset to evaluate it, which is why in itself it’s worth a share\n\nThere will be no doubt future iterations on the benchmark, as well as new ones by large players, which in time will come to address the concerns you mention\n\nApple is referenced as they mention the success of using CodeMode across identical tasks with equal (or better) completion rate (to be precise, they made an \"analysis of 17 LLMs on API-Bank and a newly curated benchmark shows that CodeAct outperforms widely used alternatives, up to 20% higher success rate\")\n\nIf you know another benchmark which evaluates this, would love to know and share\n\nLet's not put down the trailblazers trying to add data to noise",
+              "2025-11-19T02:57:53.957752"
+            ]
+          ],
+          "score_history": [
+            [
+              2,
+              "2025-11-19T02:57:53.957752"
+            ],
+            [
+              2,
+              "2025-11-19T03:05:50.816030"
+            ],
+            [
+              2,
+              "2025-11-19T03:14:07.378740"
+            ]
+          ],
+          "created_utc": 1763540260.0,
+          "depth": 1,
+          "permalink": "/r/LocalLLaMA/comments/1p0r7uw/codemode_vs_traditional_mcp_benchmark/npmz85i/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": 1763548460.0,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npkzfis",
+      "parent_id": "t3_1p0r7uw",
+      "author": "cosimoiaia",
+      "text_history": [
+        [
+          "Who would have thought that having an additional bloat in a network service would have slowed down execution and increase token consumption? 🤔 /s\n\nI always thought mcp was just an hyper-pushed publicity stunt invented solely out of jealousy over the fact that OAI api have become the standard everywhere.",
+          "2025-11-19T02:57:53.957752"
+        ]
+      ],
+      "score_history": [
+        [
+          11,
+          "2025-11-19T02:57:53.957752"
+        ],
+        [
+          12,
+          "2025-11-19T03:05:50.816030"
+        ],
+        [
+          13,
+          "2025-11-19T03:14:07.378740"
+        ]
+      ],
+      "created_utc": 1763509642.0,
+      "depth": 0,
+      "permalink": "/r/LocalLLaMA/comments/1p0r7uw/codemode_vs_traditional_mcp_benchmark/npkzfis/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npl7dxk",
+      "parent_id": "t3_1p0r7uw",
+      "author": "NerasKip",
+      "text_history": [
+        [
+          "And what about custom workflows with setps that need to be checked ?",
+          "2025-11-19T02:57:53.957752"
+        ]
+      ],
+      "score_history": [
+        [
+          3,
+          "2025-11-19T02:57:53.957752"
+        ],
+        [
+          3,
+          "2025-11-19T03:05:50.816030"
+        ],
+        [
+          3,
+          "2025-11-19T03:14:07.378740"
+        ]
+      ],
+      "created_utc": 1763512435.0,
+      "depth": 0,
+      "permalink": "/r/LocalLLaMA/comments/1p0r7uw/codemode_vs_traditional_mcp_benchmark/npl7dxk/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nplcn9t",
+      "parent_id": "t3_1p0r7uw",
+      "author": "wind_dude",
+      "text_history": [
+        [
+          "Or just... write code that fetches what you need and include it in the prompt",
+          "2025-11-19T02:57:53.957752"
+        ]
+      ],
+      "score_history": [
+        [
+          3,
+          "2025-11-19T02:57:53.957752"
+        ],
+        [
+          3,
+          "2025-11-19T03:05:50.816030"
+        ],
+        [
+          3,
+          "2025-11-19T03:14:07.378740"
+        ]
+      ],
+      "created_utc": 1763514288.0,
+      "depth": 0,
+      "permalink": "/r/LocalLLaMA/comments/1p0r7uw/codemode_vs_traditional_mcp_benchmark/nplcn9t/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nplzzo3",
+      "parent_id": "t3_1p0r7uw",
+      "author": "Dudmaster",
+      "text_history": [
+        [
+          "It seems very iffy. It's like vibe coding each tool as you need it, and it's also relying on the model's knowledge of the domain to write the tools. That can't work with custom tools, because you'd end up writing huge prompts that are no different than mcp tool schemas",
+          "2025-11-19T02:57:53.957752"
+        ]
+      ],
+      "score_history": [
+        [
+          3,
+          "2025-11-19T02:57:53.957752"
+        ],
+        [
+          3,
+          "2025-11-19T03:05:50.816030"
+        ],
+        [
+          3,
+          "2025-11-19T03:14:07.378740"
+        ]
+      ],
+      "created_utc": 1763522726.0,
+      "depth": 0,
+      "permalink": "/r/LocalLLaMA/comments/1p0r7uw/codemode_vs_traditional_mcp_benchmark/nplzzo3/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npktuy1",
+      "parent_id": "t3_1p0r7uw",
+      "author": "juanviera23",
+      "text_history": [
+        [
+          "Saw this Python benchmark comparing Code Mode (having LLMs generate code to call tools) vs Traditional MCP tool-calling (direct function calls).\n\n**TL;DR:** Code Mode is significantly more efficient:\n\n* 60.4% faster execution (11.88s → 4.71s)\n* 68.3% fewer tokens (144k → 45k)\n* 87.5% fewer API round trips (8 → 1 iteration)\n\nAll metrics measured across identical tasks with equal successful completion rates.\n\nBenchmarks &amp; Implementation\n\n* CodeMode library: [https://github.com/universal-tool-calling-protocol/code-mode](https://github.com/universal-tool-calling-protocol/code-mode)\n* Benchmark: https://github.com/imran31415/codemode\\_python\\_benchmark \n\nTested on 8 realistic business scenarios (invoicing, expense tracking, multi-step workflows). Code Mode scaled especially well with complexity: more operations = bigger gains.",
+          "2025-11-19T02:57:53.957752"
+        ]
+      ],
+      "score_history": [
+        [
+          6,
+          "2025-11-19T02:57:53.957752"
+        ],
+        [
+          6,
+          "2025-11-19T03:05:50.816030"
+        ],
+        [
+          6,
+          "2025-11-19T03:14:07.378740"
+        ]
+      ],
+      "created_utc": 1763507658.0,
+      "depth": 0,
+      "permalink": "/r/LocalLLaMA/comments/1p0r7uw/codemode_vs_traditional_mcp_benchmark/npktuy1/",
+      "is_submitter": true,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": 1763508267.0,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npm0uc0",
+      "parent_id": "t3_1p0r7uw",
+      "author": "PresenceMusic",
+      "text_history": [
+        [
+          "I still don't get the point of MCP. I feel like for an actual useful app, most of the tools available to the agent would need some customization, to be efficient for inference and more useful for the agent. The MxN integration problem can't really be simplified because each assistant would still need it's own specific integrations with tools.",
+          "2025-11-19T02:57:53.957752"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-19T02:57:53.957752"
+        ],
+        [
+          2,
+          "2025-11-19T03:05:50.816030"
+        ],
+        [
+          2,
+          "2025-11-19T03:14:07.378740"
+        ]
+      ],
+      "created_utc": 1763523058.0,
+      "depth": 0,
+      "permalink": "/r/LocalLLaMA/comments/1p0r7uw/codemode_vs_traditional_mcp_benchmark/npm0uc0/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npmjjmc",
+      "parent_id": "t3_1p0r7uw",
+      "author": "Stunning_Mast2001",
+      "text_history": [
+        [
+          "Seems like the xkcd one more protocol comic\n\nBut what does a utcp definition look like?",
+          "2025-11-19T02:57:53.957752"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-19T02:57:53.957752"
+        ],
+        [
+          2,
+          "2025-11-19T03:05:50.816030"
+        ],
+        [
+          2,
+          "2025-11-19T03:14:07.378740"
+        ]
+      ],
+      "created_utc": 1763531341.0,
+      "depth": 0,
+      "permalink": "/r/LocalLLaMA/comments/1p0r7uw/codemode_vs_traditional_mcp_benchmark/npmjjmc/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:14:07.378740",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/LocalLLaMA/comments/1p0r7uw/codemode_vs_traditional_mcp_benchmark/",
+    "total_comments": 10,
+    "top_level_comments": 8,
+    "api_requests": 1,
+    "expected_comments": 10,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_025753.json",
+      "scrape_002_20251119_030550.json",
+      "scrape_003_20251119_031407.json"
+    ]
+  }
+}

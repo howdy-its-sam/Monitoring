@@ -1,0 +1,54 @@
+{
+  "post": {
+    "id": "1p0fsbl",
+    "title": "Disfluency Restoration Project",
+    "author": "anand095",
+    "score_history": [
+      [
+        1,
+        "2025-11-18T13:49:05.008157"
+      ],
+      [
+        1,
+        "2025-11-18T14:00:39.385482"
+      ],
+      [
+        1,
+        "2025-11-18T14:12:18.137799"
+      ],
+      [
+        1,
+        "2025-11-18T21:59:59.737395"
+      ],
+      [
+        1,
+        "2025-11-19T07:12:23.956758"
+      ]
+    ],
+    "created_utc": 1763481810.0,
+    "num_comments": 0,
+    "subreddit": "learnmachinelearning",
+    "url": "/r/deeplearning/comments/1p05965/disfluency_restoration_project/",
+    "selftext": "",
+    "permalink": "/r/learnmachinelearning/comments/1p0fsbl/disfluency_restoration_project/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T07:12:23.956758",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/learnmachinelearning/comments/1p0fsbl/disfluency_restoration_project/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 5,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_134904.json",
+      "scrape_002_20251118_140039.json",
+      "scrape_003_20251118_141217.json",
+      "scrape_004_20251118_215959.json",
+      "scrape_005_20251119_071223.json"
+    ]
+  }
+}

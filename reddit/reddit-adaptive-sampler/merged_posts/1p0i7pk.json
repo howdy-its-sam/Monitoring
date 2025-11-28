@@ -1,0 +1,44 @@
+{
+  "post": {
+    "id": "1p0i7pk",
+    "title": "Benchmarked JSON vs TOON Encoding for LLM Reasoning Loops — 40–80% Token Savings (With CSV Benchmarks Added)",
+    "author": "Least-Barracuda-2793",
+    "score_history": [
+      [
+        0,
+        "2025-11-19T02:55:49.382484"
+      ],
+      [
+        0,
+        "2025-11-19T03:06:54.382541"
+      ],
+      [
+        0,
+        "2025-11-19T03:17:33.021010"
+      ]
+    ],
+    "created_utc": 1763487166.0,
+    "num_comments": 0,
+    "subreddit": "learnmachinelearning",
+    "url": "https://www.reddit.com/r/learnmachinelearning/comments/1p0i7pk/benchmarked_json_vs_toon_encoding_for_llm/",
+    "selftext": "I’ve been experimenting with more token-efficient encodings for LLM workflows, and I ran benchmarks comparing **JSON** vs **TOON**, a compact, delimiter-based representation I’ve been testing.\n\nI evaluated three different context types:\n\n* Prospect metadata (flat)\n* Deal metadata with nested stakeholders\n* Email generation context (mixed)\n\n# JSON → TOON Benchmarks\n\n**Prospect Context**  \nJSON: 387 chars  \nTOON: 188 chars  \n→ **51% reduction**\n\n**Deal Context**  \nJSON: 392 chars  \nTOON: 88 chars  \n→ **78% reduction**\n\n**Email Context**  \nJSON: 239 chars  \nTOON: 131 chars  \n→ **46% reduction**\n\n**Average Savings:** \\~60%  \nEven though these datasets were structurally different, TOON consistently reduced size by 40–80%.\n\nAnyone else experimenting with alternative formats for LLM internal reasoning loops? Would love to compare ideas.\n\n(If anyone wants the benchmark script, I’ll share it. It's 700 lines of code, thats why not attached)\n\n\n\n**CSV Benchmarks**\n\nI used hospital data because it includes a mix of tabular, semi-structured, and nested structures.\n\n# TOON vs CSV: Different Winners for Different Data Types\n\n# CSV Wins for Flat Tabular Data\n\nTOON uses *more* tokens here.\n\n* Lab results: **-11.5%** (TOON worse)\n* Vital signs: **-25.8%** (TOON worse)\n* Demographics: **-3.0%** (TOON worse)\n* Census reports: **-7.3%** (TOON worse)\n\n**Verdict:** CSV is already optimal for flat tables.\n\n\n\n# TOON Wins for Nested / Semi-Structured Data\n\nAnywhere JSON gets verbose, TOON gains efficiency.\n\n* Admission requests: **+11.54%** (TOON better)\n* Provider evaluations: **+13.31%** (TOON better)\n* Triage assessments: **+10.97%** (TOON better)\n\n**Verdict:** TOON excels when JSON would normally bloat.\n\nWhy?\n\n* No braces `{}`\n* No quoted keys\n* No `:` separators\n* Compact comma-based list mapping\n\n\n\n# Bonus: CSVW Findings\n\nSomeone asked about CSVW (W3C standard CSV-with-metadata):\n\n* CSVW is **\\~665% larger** than CSV\n* Rich semantics, great for catalogs/FHIR, but extremely verbose\n* TOON was **\\~76% smaller** than CSVW while still supporting inline schema info\n\n\n\n# Error Handling Results\n\n* Malformed data: **100% handled**\n* Unicode: **fully supported**\n* Edge cases: **cleanly resolved**\n* Round-trip decode/encode: **100% integrity**\n\n\n\n# Final Takeaway\n\nThere’s no “one format to rule them all.”  \nThe pattern emerging:\n\n* **CSV** → best for purely tabular structures\n* **JSON** → flexible, universal\n* **TOON** → highly efficient for **nested**, **JSON-like**, or **LLM-internal** reasoning contexts\n\nIt’s a new tool in the toolbox — not a replacement.",
+    "permalink": "/r/learnmachinelearning/comments/1p0i7pk/benchmarked_json_vs_toon_encoding_for_llm/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:17:33.021010",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/learnmachinelearning/comments/1p0i7pk/benchmarked_json_vs_toon_encoding_for_llm/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_025549.json",
+      "scrape_002_20251119_030654.json",
+      "scrape_003_20251119_031732.json"
+    ]
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "post": {
+    "id": "1p11ntn",
+    "title": "Does Singapore or India allow any platform like shodan.io ?",
+    "author": "p0rkan0xff",
+    "score_history": [
+      [
+        0,
+        "2025-11-19T03:28:49.335499"
+      ],
+      [
+        0,
+        "2025-11-19T03:37:44.923341"
+      ],
+      [
+        0,
+        "2025-11-19T03:39:37.547100"
+      ]
+    ],
+    "created_utc": 1763539191.0,
+    "num_comments": 3,
+    "subreddit": "cybersecurity",
+    "url": "https://www.reddit.com/r/cybersecurity/comments/1p11ntn/does_singapore_or_india_allow_any_platform_like/",
+    "selftext": "I want to launch a platform like shodan.io but I'm confuse between Singapore, India and China. \n\nwhat is the favorable country that I can launch such platform and what the legal things that needs to to be face to launch such product. Any Suitable country outside of USA ?",
+    "permalink": "/r/cybersecurity/comments/1p11ntn/does_singapore_or_india_allow_any_platform_like/"
+  },
+  "comments": [
+    {
+      "id": "npmy2fd",
+      "parent_id": "t3_1p11ntn",
+      "author": "hunglowbungalow",
+      "text_history": [
+        [
+          "That’s a legal question, not a security question.",
+          "2025-11-19T03:28:49.335499"
+        ]
+      ],
+      "score_history": [
+        [
+          4,
+          "2025-11-19T03:28:49.335499"
+        ],
+        [
+          3,
+          "2025-11-19T03:37:44.923341"
+        ],
+        [
+          4,
+          "2025-11-19T03:39:37.547100"
+        ]
+      ],
+      "created_utc": 1763539543.0,
+      "depth": 0,
+      "permalink": "/r/cybersecurity/comments/1p11ntn/does_singapore_or_india_allow_any_platform_like/npmy2fd/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npmyhdv",
+      "parent_id": "t3_1p11ntn",
+      "author": "WasteCryptographer",
+      "text_history": [
+        [
+          "There is a need of global discovery for exposures. The problem I have found after using such services like shodan, censys and criminal ip that such services needs to put up a scanner node is each and every country to discover geo locked exposures.",
+          "2025-11-19T03:28:49.335499"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-19T03:28:49.335499"
+        ],
+        [
+          2,
+          "2025-11-19T03:37:44.923341"
+        ],
+        [
+          2,
+          "2025-11-19T03:39:37.547100"
+        ]
+      ],
+      "created_utc": 1763539795.0,
+      "depth": 0,
+      "permalink": "/r/cybersecurity/comments/1p11ntn/does_singapore_or_india_allow_any_platform_like/npmyhdv/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npn0o3g",
+          "parent_id": "t1_npmyhdv",
+          "author": "p0rkan0xff",
+          "text_history": [
+            [
+              "I mean it's a part of it. As long as you find the ip port or the services. The rest of the exposure like bucket and api are private scanners. It's not allowed for the public or as long as you pay they will give that data. Shodan gives vulnerability scanning results to their  ventors etc. But my question is which country allows it legally.  I know you can do it in the USA legally but I'm not sure about Singapore or india.\n\nI have built all the code to scale up the scan for entire internet.",
+              "2025-11-19T03:28:49.335499"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-19T03:28:49.335499"
+            ],
+            [
+              1,
+              "2025-11-19T03:37:44.923341"
+            ],
+            [
+              1,
+              "2025-11-19T03:39:37.547100"
+            ]
+          ],
+          "created_utc": 1763541163.0,
+          "depth": 1,
+          "permalink": "/r/cybersecurity/comments/1p11ntn/does_singapore_or_india_allow_any_platform_like/npn0o3g/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:39:37.547100",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/cybersecurity/comments/1p11ntn/does_singapore_or_india_allow_any_platform_like/",
+    "total_comments": 3,
+    "top_level_comments": 2,
+    "api_requests": 1,
+    "expected_comments": 3,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_032849.json",
+      "scrape_002_20251119_033744.json",
+      "scrape_003_20251119_033937.json"
+    ]
+  }
+}

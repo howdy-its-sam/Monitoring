@@ -1,0 +1,44 @@
+{
+  "post": {
+    "id": "1p0rbw2",
+    "title": "Codemode saves 68% on token usage when compared against traditional MCP (Python benchmark results)",
+    "author": "juanviera23",
+    "score_history": [
+      [
+        5,
+        "2025-11-19T02:55:48.901144"
+      ],
+      [
+        5,
+        "2025-11-19T03:03:41.387510"
+      ],
+      [
+        5,
+        "2025-11-19T03:06:56.937363"
+      ]
+    ],
+    "created_utc": 1763507914.0,
+    "num_comments": 0,
+    "subreddit": "AgentsOfAI",
+    "url": "https://i.redd.it/lvcl0iu9m32g1.png",
+    "selftext": "Saw this Python benchmark comparing Code Mode (having LLMs generate code to call tools) vs Traditional MCP tool-calling (direct function calls).\n\n**TL;DR:** Code Mode is significantly more efficient:\n\n* 60.4% faster execution (11.88s → 4.71s)\n* 68.3% fewer tokens (144k → 45k)\n* 87.5% fewer API round trips (8 → 1 iteration)\n\nAll metrics measured across identical tasks with equal successful completion rates.\n\nBenchmarks &amp; Implementation\n\n* CodeMode library: [https://github.com/universal-tool-calling-protocol/code-mode](https://github.com/universal-tool-calling-protocol/code-mode)\n* Benchmark: https://github.com/imran31415/codemode\\_python\\_benchmark\n\nTested on 8 realistic business scenarios (invoicing, expense tracking, multi-step workflows). Code Mode scaled especially well with complexity: more operations = bigger gains.[](https://www.reddit.com/submit/?source_id=t3_1p0rah6)",
+    "permalink": "/r/AgentsOfAI/comments/1p0rbw2/codemode_saves_68_on_token_usage_when_compared/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:06:56.937363",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/AgentsOfAI/comments/1p0rbw2/codemode_saves_68_on_token_usage_when_compared/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_025548.json",
+      "scrape_002_20251119_030341.json",
+      "scrape_003_20251119_030656.json"
+    ]
+  }
+}

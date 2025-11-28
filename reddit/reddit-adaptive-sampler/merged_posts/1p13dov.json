@@ -1,0 +1,44 @@
+{
+  "post": {
+    "id": "1p13dov",
+    "title": "Ultimate Skill-Learning Master Prompt (0 → Advanced)",
+    "author": "Kevin_Veyrick",
+    "score_history": [
+      [
+        2,
+        "2025-11-19T02:55:54.698344"
+      ],
+      [
+        2,
+        "2025-11-19T03:08:28.242611"
+      ],
+      [
+        2,
+        "2025-11-19T03:17:38.038743"
+      ]
+    ],
+    "created_utc": 1763545596.0,
+    "num_comments": 0,
+    "subreddit": "PromptEngineering",
+    "url": "https://www.reddit.com/r/PromptEngineering/comments/1p13dov/ultimate_skilllearning_master_prompt_0_advanced/",
+    "selftext": "[removed]",
+    "permalink": "/r/PromptEngineering/comments/1p13dov/ultimate_skilllearning_master_prompt_0_advanced/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:17:38.038743",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/PromptEngineering/comments/1p13dov/ultimate_skilllearning_master_prompt_0_advanced/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_025554.json",
+      "scrape_002_20251119_030828.json",
+      "scrape_003_20251119_031737.json"
+    ]
+  }
+}

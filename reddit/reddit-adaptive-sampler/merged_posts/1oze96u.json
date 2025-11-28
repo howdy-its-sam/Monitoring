@@ -1,0 +1,223 @@
+{
+  "post": {
+    "id": "1oze96u",
+    "title": "Wanna know how you guys think of this little musical robot idea.",
+    "author": "Mountain-Still-9695",
+    "score_history": [
+      [
+        1,
+        "2025-11-19T03:30:33.249491"
+      ],
+      [
+        1,
+        "2025-11-19T03:39:13.306257"
+      ],
+      [
+        1,
+        "2025-11-19T03:41:25.990302"
+      ]
+    ],
+    "created_utc": 1763380285.0,
+    "num_comments": 5,
+    "subreddit": "robotics",
+    "url": "https://www.reddit.com/r/robotics/comments/1oze96u/wanna_know_how_you_guys_think_of_this_little/",
+    "selftext": "My team and I are preparing for our first robotic project, which is a little musical companion robot that plays background music and adapts to your different daily moments. We also made a short demo video. Wanna know what you guys think on this idea or anything on the video the robot itself or anything we could improve would be appreciated!\n\nhttps://reddit.com/link/1oze96u/video/o7gqwa7r2t1g1/player",
+    "permalink": "/r/robotics/comments/1oze96u/wanna_know_how_you_guys_think_of_this_little/"
+  },
+  "comments": [
+    {
+      "id": "npddcx7",
+      "parent_id": "t3_1oze96u",
+      "author": "spevak",
+      "text_history": [
+        [
+          "I'm not clear on what this gains by being a robot",
+          "2025-11-19T03:30:33.249491"
+        ]
+      ],
+      "score_history": [
+        [
+          3,
+          "2025-11-19T03:30:33.249491"
+        ],
+        [
+          3,
+          "2025-11-19T03:39:13.306257"
+        ],
+        [
+          3,
+          "2025-11-19T03:41:25.990302"
+        ]
+      ],
+      "created_utc": 1763409173.0,
+      "depth": 0,
+      "permalink": "/r/robotics/comments/1oze96u/wanna_know_how_you_guys_think_of_this_little/npddcx7/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npf9hgs",
+          "parent_id": "t1_npddcx7",
+          "author": "Mountain-Still-9695",
+          "text_history": [
+            [
+              "This aims to be a companion robot that plays background music suited to your different scenario (e.g., gaming, working, focusing, sleeping) to boost immersion or productivity. However, your comment is valuable and indicates we need to be clearer about our value and use cases.",
+              "2025-11-19T03:30:33.249491"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-19T03:30:33.249491"
+            ],
+            [
+              1,
+              "2025-11-19T03:39:13.306257"
+            ],
+            [
+              1,
+              "2025-11-19T03:41:25.990302"
+            ]
+          ],
+          "created_utc": 1763431648.0,
+          "depth": 1,
+          "permalink": "/r/robotics/comments/1oze96u/wanna_know_how_you_guys_think_of_this_little/npf9hgs/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npgdxi1",
+              "parent_id": "t1_npf9hgs",
+              "author": "spevak",
+              "text_history": [
+                [
+                  "So is the idea to make it feel more interactive/embodied by having it move around? Have you considered having the top part actuated but the base stationary? It would substantially reduce the complexity/cost. There are robots like this that are used for HRI applications. \n\nIf you really want it to drive around, go for it. But you're going to need perception, navigation, and of course more moving parts. Depending on what your goals are, it might not be worth it.",
+                  "2025-11-19T03:30:33.249491"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-19T03:30:33.249491"
+                ],
+                [
+                  1,
+                  "2025-11-19T03:39:13.306257"
+                ],
+                [
+                  1,
+                  "2025-11-19T03:41:25.990302"
+                ]
+              ],
+              "created_utc": 1763449097.0,
+              "depth": 2,
+              "permalink": "/r/robotics/comments/1oze96u/wanna_know_how_you_guys_think_of_this_little/npgdxi1/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "npg4yso",
+      "parent_id": "t3_1oze96u",
+      "author": "robotguy4",
+      "text_history": [
+        [
+          "Are there sensors that keep it from rolling off the table?",
+          "2025-11-19T03:30:33.249491"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T03:30:33.249491"
+        ],
+        [
+          1,
+          "2025-11-19T03:39:13.306257"
+        ],
+        [
+          1,
+          "2025-11-19T03:41:25.990302"
+        ]
+      ],
+      "created_utc": 1763444303.0,
+      "depth": 0,
+      "permalink": "/r/robotics/comments/1oze96u/wanna_know_how_you_guys_think_of_this_little/npg4yso/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npg5k27",
+          "parent_id": "t1_npg4yso",
+          "author": "Mountain-Still-9695",
+          "text_history": [
+            [
+              "Yes, we are planning to add sensors to detect the edge of the table to prevent falling off",
+              "2025-11-19T03:30:33.249491"
+            ]
+          ],
+          "score_history": [
+            [
+              0,
+              "2025-11-19T03:30:33.249491"
+            ],
+            [
+              0,
+              "2025-11-19T03:39:13.306257"
+            ],
+            [
+              0,
+              "2025-11-19T03:41:25.990302"
+            ]
+          ],
+          "created_utc": 1763444605.0,
+          "depth": 1,
+          "permalink": "/r/robotics/comments/1oze96u/wanna_know_how_you_guys_think_of_this_little/npg5k27/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:41:25.990302",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/robotics/comments/1oze96u/wanna_know_how_you_guys_think_of_this_little/",
+    "total_comments": 5,
+    "top_level_comments": 2,
+    "api_requests": 1,
+    "expected_comments": 5,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_033032.json",
+      "scrape_002_20251119_033912.json",
+      "scrape_003_20251119_034125.json"
+    ]
+  }
+}

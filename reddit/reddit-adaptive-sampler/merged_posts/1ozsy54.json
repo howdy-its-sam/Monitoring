@@ -1,0 +1,964 @@
+{
+  "post": {
+    "id": "1ozsy54",
+    "title": "VSC Format Won't Cut Your AI Costs by 71% (Despite the Hype)",
+    "author": "Particular-Room8732",
+    "score_history": [
+      [
+        10,
+        "2025-11-18T14:45:28.790609"
+      ],
+      [
+        9,
+        "2025-11-18T14:53:19.306156"
+      ],
+      [
+        11,
+        "2025-11-18T14:54:21.367946"
+      ],
+      [
+        10,
+        "2025-11-18T22:32:15.000619"
+      ],
+      [
+        10,
+        "2025-11-19T00:15:45.412126"
+      ],
+      [
+        10,
+        "2025-11-19T02:01:30.184622"
+      ]
+    ],
+    "created_utc": 1763414871.0,
+    "num_comments": 19,
+    "subreddit": "Rag",
+    "url": "https://www.reddit.com/r/Rag/comments/1ozsy54/vsc_format_wont_cut_your_ai_costs_by_71_despite/",
+    "selftext": "I did the math on VSC format (the CSV-without-headers that's trending) and found:   \n  \n\\- Yes, it saves 71% on the data portion   \n\\- But only 3% on your total prompt (2,125 → 2,036 tokens)   \n\\- Actual savings: $0.89 per 10,000 API calls Meanwhile, debugging   \n\"Iphone,1999.90\" instead of   \n{\"name\":\"Iphone\",\"price\":1999.90} is a nightmare.  \n   \nFull analysis: [https://www.superfox.ai/blog/vsc-format-ai-token-costs-truth](https://www.superfox.ai/blog/vsc-format-ai-token-costs-truth)  \n  \nFor those who've tried it: Did you stick with it? Was the token savings worth the loss of readability?\n\n",
+    "permalink": "/r/Rag/comments/1ozsy54/vsc_format_wont_cut_your_ai_costs_by_71_despite/"
+  },
+  "comments": [
+    {
+      "id": "npgrbfw",
+      "parent_id": "t3_1ozsy54",
+      "author": "GP_103",
+      "text_history": [
+        [
+          "I think this is a hoax… or it should be. csv - vsc. Come on really.",
+          "2025-11-18T14:45:28.790609"
+        ]
+      ],
+      "score_history": [
+        [
+          3,
+          "2025-11-18T14:45:28.790609"
+        ],
+        [
+          3,
+          "2025-11-18T14:53:19.306156"
+        ],
+        [
+          3,
+          "2025-11-18T14:54:21.367946"
+        ],
+        [
+          3,
+          "2025-11-18T22:32:15.000619"
+        ],
+        [
+          4,
+          "2025-11-19T00:15:45.412126"
+        ],
+        [
+          5,
+          "2025-11-19T02:01:30.184622"
+        ]
+      ],
+      "created_utc": 1763457298.0,
+      "depth": 0,
+      "permalink": "/r/Rag/comments/1ozsy54/vsc_format_wont_cut_your_ai_costs_by_71_despite/npgrbfw/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npkksgj",
+          "parent_id": "t1_npgrbfw",
+          "author": "Abject-Kitchen3198",
+          "text_history": [
+            [
+              "It's a pure joke as a response to TOON. Interesting times we live in.",
+              "2025-11-18T14:45:28.790609"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T14:45:28.790609"
+            ],
+            [
+              1,
+              "2025-11-18T14:53:19.306156"
+            ],
+            [
+              1,
+              "2025-11-18T14:54:21.367946"
+            ],
+            [
+              1,
+              "2025-11-18T22:32:15.000619"
+            ],
+            [
+              1,
+              "2025-11-19T00:15:45.412126"
+            ],
+            [
+              1,
+              "2025-11-19T02:01:30.184622"
+            ]
+          ],
+          "created_utc": 1763504618.0,
+          "depth": 1,
+          "permalink": "/r/Rag/comments/1ozsy54/vsc_format_wont_cut_your_ai_costs_by_71_despite/npkksgj/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npen6yi",
+      "parent_id": "t3_1ozsy54",
+      "author": "durable-racoon",
+      "text_history": [
+        [
+          "wait. comparing toon and vsc format to JSON format is completely wrong.\n\ntoon and vsc are flatfile / tabular formats, like CSV.\n\n  \nJSON is not. its 'document-based' or 'records based. its recursive and not all records will always have all keys, and a new JSON is valid value for a json field. You cant compare JSON to csv/vsc/toon.\n\nWhich just makes this whole thing even stupider. If your JSON data is legitimately flat you can use CSV. but LLMs have a hard time interpreting CSV files properly or reading them.\n\n  \nThe actual answer: DONT INJECT DATA INTO CONTEXT. Let LLMs write the code to parse through the data. None of this should be copy pasted into context to begin with.",
+          "2025-11-18T14:45:28.790609"
+        ]
+      ],
+      "score_history": [
+        [
+          3,
+          "2025-11-18T14:45:28.790609"
+        ],
+        [
+          3,
+          "2025-11-18T14:53:19.306156"
+        ],
+        [
+          3,
+          "2025-11-18T14:54:21.367946"
+        ],
+        [
+          3,
+          "2025-11-18T22:32:15.000619"
+        ],
+        [
+          3,
+          "2025-11-19T00:15:45.412126"
+        ],
+        [
+          3,
+          "2025-11-19T02:01:30.184622"
+        ]
+      ],
+      "created_utc": 1763423737.0,
+      "depth": 0,
+      "permalink": "/r/Rag/comments/1ozsy54/vsc_format_wont_cut_your_ai_costs_by_71_despite/npen6yi/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npgt0di",
+          "parent_id": "t1_npen6yi",
+          "author": "bitemyassnow",
+          "text_history": [
+            [
+              "This. There are just too many people not understanding how llm works and simply dump anything in the context.",
+              "2025-11-18T14:45:28.790609"
+            ]
+          ],
+          "score_history": [
+            [
+              2,
+              "2025-11-18T14:45:28.790609"
+            ],
+            [
+              2,
+              "2025-11-18T14:53:19.306156"
+            ],
+            [
+              2,
+              "2025-11-18T14:54:21.367946"
+            ],
+            [
+              2,
+              "2025-11-18T22:32:15.000619"
+            ],
+            [
+              2,
+              "2025-11-19T00:15:45.412126"
+            ],
+            [
+              2,
+              "2025-11-19T02:01:30.184622"
+            ]
+          ],
+          "created_utc": 1763458393.0,
+          "depth": 1,
+          "permalink": "/r/Rag/comments/1ozsy54/vsc_format_wont_cut_your_ai_costs_by_71_despite/npgt0di/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npgt6sq",
+      "parent_id": "t3_1ozsy54",
+      "author": "bitemyassnow",
+      "text_history": [
+        [
+          "I thought vsc was a joke cant believe so called ai experts and linkedin lunatics take this thing seriously",
+          "2025-11-18T14:45:28.790609"
+        ]
+      ],
+      "score_history": [
+        [
+          3,
+          "2025-11-18T14:45:28.790609"
+        ],
+        [
+          3,
+          "2025-11-18T14:53:19.306156"
+        ],
+        [
+          3,
+          "2025-11-18T14:54:21.367946"
+        ],
+        [
+          3,
+          "2025-11-18T22:32:15.000619"
+        ],
+        [
+          3,
+          "2025-11-19T00:15:45.412126"
+        ],
+        [
+          3,
+          "2025-11-19T02:01:30.184622"
+        ]
+      ],
+      "created_utc": 1763458508.0,
+      "depth": 0,
+      "permalink": "/r/Rag/comments/1ozsy54/vsc_format_wont_cut_your_ai_costs_by_71_despite/npgt6sq/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npkl2iv",
+          "parent_id": "t1_npgt6sq",
+          "author": "Abject-Kitchen3198",
+          "text_history": [
+            [
+              "You thought wrong. So did VSC \"creator\". This thing will live.",
+              "2025-11-18T14:45:28.790609"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T14:45:28.790609"
+            ],
+            [
+              1,
+              "2025-11-18T14:53:19.306156"
+            ],
+            [
+              1,
+              "2025-11-18T14:54:21.367946"
+            ],
+            [
+              1,
+              "2025-11-18T22:32:15.000619"
+            ],
+            [
+              1,
+              "2025-11-19T00:15:45.412126"
+            ],
+            [
+              1,
+              "2025-11-19T02:01:30.184622"
+            ]
+          ],
+          "created_utc": 1763504710.0,
+          "depth": 1,
+          "permalink": "/r/Rag/comments/1ozsy54/vsc_format_wont_cut_your_ai_costs_by_71_despite/npkl2iv/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npe07me",
+      "parent_id": "t3_1ozsy54",
+      "author": "durable-racoon",
+      "text_history": [
+        [
+          "My life is actually worse because you showed me that this VSC thing existed. I cant' imagine who ever thought this was a good idea. People who have never developed any project too large to be vibe coded or that required a substantial team to finish.\n\nThe article is spot on btw.",
+          "2025-11-18T14:45:28.790609"
+        ]
+      ],
+      "score_history": [
+        [
+          4,
+          "2025-11-18T14:45:28.790609"
+        ],
+        [
+          4,
+          "2025-11-18T14:53:19.306156"
+        ],
+        [
+          4,
+          "2025-11-18T14:54:21.367946"
+        ],
+        [
+          5,
+          "2025-11-18T22:32:15.000619"
+        ],
+        [
+          3,
+          "2025-11-19T00:15:45.412126"
+        ],
+        [
+          3,
+          "2025-11-19T02:01:30.184622"
+        ]
+      ],
+      "created_utc": 1763416099.0,
+      "depth": 0,
+      "permalink": "/r/Rag/comments/1ozsy54/vsc_format_wont_cut_your_ai_costs_by_71_despite/npe07me/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npg3224",
+          "parent_id": "t1_npe07me",
+          "author": "Mission_Biscotti3962",
+          "text_history": [
+            [
+              "I don't think it's relevant whether it's a good idea or not to the person who invented it. Worst case it serves as a publicity tool for their personal branding because we are talking about a format, and then we might be interested who came up with it (spoiler: they actually didn't come up with it because it's just csv)",
+              "2025-11-18T14:45:28.790609"
+            ]
+          ],
+          "score_history": [
+            [
+              2,
+              "2025-11-18T14:45:28.790609"
+            ],
+            [
+              2,
+              "2025-11-18T14:53:19.306156"
+            ],
+            [
+              2,
+              "2025-11-18T14:54:21.367946"
+            ],
+            [
+              2,
+              "2025-11-18T22:32:15.000619"
+            ],
+            [
+              2,
+              "2025-11-19T00:15:45.412126"
+            ],
+            [
+              2,
+              "2025-11-19T02:01:30.184622"
+            ]
+          ],
+          "created_utc": 1763443346.0,
+          "depth": 1,
+          "permalink": "/r/Rag/comments/1ozsy54/vsc_format_wont_cut_your_ai_costs_by_71_despite/npg3224/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npgwjps",
+              "parent_id": "t1_npg3224",
+              "author": "Godistimenow",
+              "text_history": [
+                [
+                  "True, but if it's just a rehash of CSV, why the hype? It seems like a way to cash in on a trend rather than solve real problems. Just because something is popular doesn’t mean it’s useful.",
+                  "2025-11-18T14:45:28.790609"
+                ]
+              ],
+              "score_history": [
+                [
+                  2,
+                  "2025-11-18T14:45:28.790609"
+                ],
+                [
+                  2,
+                  "2025-11-18T14:53:19.306156"
+                ],
+                [
+                  2,
+                  "2025-11-18T14:54:21.367946"
+                ],
+                [
+                  2,
+                  "2025-11-18T22:32:15.000619"
+                ],
+                [
+                  2,
+                  "2025-11-19T00:15:45.412126"
+                ],
+                [
+                  2,
+                  "2025-11-19T02:01:30.184622"
+                ]
+              ],
+              "created_utc": 1763460598.0,
+              "depth": 2,
+              "permalink": "/r/Rag/comments/1ozsy54/vsc_format_wont_cut_your_ai_costs_by_71_despite/npgwjps/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "nphr0c2",
+          "parent_id": "t1_npe07me",
+          "author": "Mission_Biscotti3962",
+          "text_history": [
+            [
+              "I'm not sure whether this is better or worse but I found the tweet introducing vsc and it's highly likely it was a joke response to Toon.  \nThis part is good. The fact it's being seriously discussed is still a bad part haha",
+              "2025-11-18T14:45:28.790609"
+            ]
+          ],
+          "score_history": [
+            [
+              2,
+              "2025-11-18T14:45:28.790609"
+            ],
+            [
+              2,
+              "2025-11-18T14:53:19.306156"
+            ],
+            [
+              2,
+              "2025-11-18T14:54:21.367946"
+            ],
+            [
+              2,
+              "2025-11-18T22:32:15.000619"
+            ],
+            [
+              2,
+              "2025-11-19T00:15:45.412126"
+            ],
+            [
+              2,
+              "2025-11-19T02:01:30.184622"
+            ]
+          ],
+          "created_utc": 1763474105.0,
+          "depth": 1,
+          "permalink": "/r/Rag/comments/1ozsy54/vsc_format_wont_cut_your_ai_costs_by_71_despite/nphr0c2/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npi83ng",
+              "parent_id": "t1_nphr0c2",
+              "author": "durable-racoon",
+              "text_history": [
+                [
+                  "a joke response to TOON but was TOON a joke to begin with too? Everything ive said applies to TOON also.",
+                  "2025-11-18T14:45:28.790609"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-18T14:45:28.790609"
+                ],
+                [
+                  1,
+                  "2025-11-18T14:53:19.306156"
+                ],
+                [
+                  1,
+                  "2025-11-18T14:54:21.367946"
+                ],
+                [
+                  1,
+                  "2025-11-18T22:32:15.000619"
+                ],
+                [
+                  1,
+                  "2025-11-19T00:15:45.412126"
+                ],
+                [
+                  1,
+                  "2025-11-19T02:01:30.184622"
+                ]
+              ],
+              "created_utc": 1763479503.0,
+              "depth": 2,
+              "permalink": "/r/Rag/comments/1ozsy54/vsc_format_wont_cut_your_ai_costs_by_71_despite/npi83ng/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": [
+                {
+                  "id": "npikbhj",
+                  "parent_id": "t1_npi83ng",
+                  "author": "japherwocky",
+                  "text_history": [
+                    [
+                      "unfortunately it really seems like TOON was serious :(",
+                      "2025-11-18T14:45:28.790609"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      1,
+                      "2025-11-18T14:45:28.790609"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T14:53:19.306156"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T14:54:21.367946"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T22:32:15.000619"
+                    ],
+                    [
+                      1,
+                      "2025-11-19T00:15:45.412126"
+                    ],
+                    [
+                      1,
+                      "2025-11-19T02:01:30.184622"
+                    ]
+                  ],
+                  "created_utc": 1763483094.0,
+                  "depth": 3,
+                  "permalink": "/r/Rag/comments/1ozsy54/vsc_format_wont_cut_your_ai_costs_by_71_despite/npikbhj/",
+                  "is_submitter": false,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "npg9y4g",
+          "parent_id": "t1_npe07me",
+          "author": "Junior_Bake5120",
+          "text_history": [
+            [
+              "I think toon is still good for projects?",
+              "2025-11-18T14:45:28.790609"
+            ]
+          ],
+          "score_history": [
+            [
+              0,
+              "2025-11-18T14:45:28.790609"
+            ],
+            [
+              0,
+              "2025-11-18T14:53:19.306156"
+            ],
+            [
+              0,
+              "2025-11-18T14:54:21.367946"
+            ],
+            [
+              0,
+              "2025-11-18T22:32:15.000619"
+            ],
+            [
+              0,
+              "2025-11-19T00:15:45.412126"
+            ],
+            [
+              0,
+              "2025-11-19T02:01:30.184622"
+            ]
+          ],
+          "created_utc": 1763446932.0,
+          "depth": 1,
+          "permalink": "/r/Rag/comments/1ozsy54/vsc_format_wont_cut_your_ai_costs_by_71_despite/npg9y4g/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npgb0ib",
+              "parent_id": "t1_npg9y4g",
+              "author": "durable-racoon",
+              "text_history": [
+                [
+                  "what are 'projects'? can you explain how its better for projects? also read my other comment I left here. im curious genuinely",
+                  "2025-11-18T14:45:28.790609"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-18T14:45:28.790609"
+                ],
+                [
+                  1,
+                  "2025-11-18T14:53:19.306156"
+                ],
+                [
+                  1,
+                  "2025-11-18T14:54:21.367946"
+                ],
+                [
+                  1,
+                  "2025-11-18T22:32:15.000619"
+                ],
+                [
+                  1,
+                  "2025-11-19T00:15:45.412126"
+                ],
+                [
+                  1,
+                  "2025-11-19T02:01:30.184622"
+                ]
+              ],
+              "created_utc": 1763447513.0,
+              "depth": 2,
+              "permalink": "/r/Rag/comments/1ozsy54/vsc_format_wont_cut_your_ai_costs_by_71_despite/npgb0ib/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            },
+            {
+              "id": "npik6vw",
+              "parent_id": "t1_npg9y4g",
+              "author": "japherwocky",
+              "text_history": [
+                [
+                  "TOON is stupid, they've reinvented CSVs.  VSC is literally a joke making fun of TOON.",
+                  "2025-11-18T14:45:28.790609"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-18T14:45:28.790609"
+                ],
+                [
+                  1,
+                  "2025-11-18T14:53:19.306156"
+                ],
+                [
+                  1,
+                  "2025-11-18T14:54:21.367946"
+                ],
+                [
+                  1,
+                  "2025-11-18T22:32:15.000619"
+                ],
+                [
+                  1,
+                  "2025-11-19T00:15:45.412126"
+                ],
+                [
+                  1,
+                  "2025-11-19T02:01:30.184622"
+                ]
+              ],
+              "created_utc": 1763483058.0,
+              "depth": 2,
+              "permalink": "/r/Rag/comments/1ozsy54/vsc_format_wont_cut_your_ai_costs_by_71_despite/npik6vw/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": [
+                {
+                  "id": "npil09i",
+                  "parent_id": "t1_npik6vw",
+                  "author": "Junior_Bake5120",
+                  "text_history": [
+                    [
+                      "As i said TOON is still good for projects as projects that freshers make(cause I'm still in college) ik what they have done and i also feel like it is not that reliable but students like us can play around with it and maybe try to make it work etc",
+                      "2025-11-18T14:45:28.790609"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      0,
+                      "2025-11-18T14:45:28.790609"
+                    ],
+                    [
+                      0,
+                      "2025-11-18T14:53:19.306156"
+                    ],
+                    [
+                      0,
+                      "2025-11-18T14:54:21.367946"
+                    ],
+                    [
+                      0,
+                      "2025-11-18T22:32:15.000619"
+                    ],
+                    [
+                      0,
+                      "2025-11-19T00:15:45.412126"
+                    ],
+                    [
+                      0,
+                      "2025-11-19T02:01:30.184622"
+                    ]
+                  ],
+                  "created_utc": 1763483295.0,
+                  "depth": 3,
+                  "permalink": "/r/Rag/comments/1ozsy54/vsc_format_wont_cut_your_ai_costs_by_71_despite/npil09i/",
+                  "is_submitter": false,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": [
+                    {
+                      "id": "npinggk",
+                      "parent_id": "t1_npil09i",
+                      "author": "japherwocky",
+                      "text_history": [
+                        [
+                          "As someone who is not in college, not new to this, you should seriously consider using the format that has been around forever.  LLMs know what a CSV is, practically every existing tool can work with CSVs, people can work with CSVs.\n\nThere is literally no advantage to using TOON, and a pile of downsides.",
+                          "2025-11-18T14:45:28.790609"
+                        ]
+                      ],
+                      "score_history": [
+                        [
+                          2,
+                          "2025-11-18T14:45:28.790609"
+                        ],
+                        [
+                          2,
+                          "2025-11-18T14:53:19.306156"
+                        ],
+                        [
+                          2,
+                          "2025-11-18T14:54:21.367946"
+                        ],
+                        [
+                          2,
+                          "2025-11-18T22:32:15.000619"
+                        ],
+                        [
+                          2,
+                          "2025-11-19T00:15:45.412126"
+                        ],
+                        [
+                          2,
+                          "2025-11-19T02:01:30.184622"
+                        ]
+                      ],
+                      "created_utc": 1763484012.0,
+                      "depth": 4,
+                      "permalink": "/r/Rag/comments/1ozsy54/vsc_format_wont_cut_your_ai_costs_by_71_despite/npinggk/",
+                      "is_submitter": false,
+                      "controversiality": 0,
+                      "gilded": 0,
+                      "edited": false,
+                      "deleted": false,
+                      "deleted_at": null,
+                      "replies": [
+                        {
+                          "id": "npirp2r",
+                          "parent_id": "t1_npinggk",
+                          "author": "Junior_Bake5120",
+                          "text_history": [
+                            [
+                              "As i said earlier too ik it has disadvantages :/ also I'm also not new to these things have been working for more than 1.5 year i admit i might not have as much experience as you but still i have had my fair share! \nThe reason why i said it is pretty good for projects n all. Also i usually use Json can also use yaml maybe but pydantic also uses json so i just stick to it",
+                              "2025-11-18T14:45:28.790609"
+                            ]
+                          ],
+                          "score_history": [
+                            [
+                              1,
+                              "2025-11-18T14:45:28.790609"
+                            ],
+                            [
+                              1,
+                              "2025-11-18T14:53:19.306156"
+                            ],
+                            [
+                              1,
+                              "2025-11-18T14:54:21.367946"
+                            ],
+                            [
+                              1,
+                              "2025-11-18T22:32:15.000619"
+                            ],
+                            [
+                              1,
+                              "2025-11-19T00:15:45.412126"
+                            ],
+                            [
+                              1,
+                              "2025-11-19T02:01:30.184622"
+                            ]
+                          ],
+                          "created_utc": 1763485249.0,
+                          "depth": 5,
+                          "permalink": "/r/Rag/comments/1ozsy54/vsc_format_wont_cut_your_ai_costs_by_71_despite/npirp2r/",
+                          "is_submitter": false,
+                          "controversiality": 0,
+                          "gilded": 0,
+                          "edited": false,
+                          "deleted": false,
+                          "deleted_at": null,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "npg2mb9",
+      "parent_id": "t3_1ozsy54",
+      "author": "Mission_Biscotti3962",
+      "text_history": [
+        [
+          "AI development is hitting web developer levels of enshitification. Sad to see but expected when it's mostly attracting people looking to make quick money instead of actually caring these days.  \n  \nThere is 0 reason to call vsc vsc instead of csv. Header lines are already optional in csv.  \n  \nBut the person who coined this term didn't care that they are polluting the programming lexicon, they wanted to have their own little special name. Either out of ego, ignorance or so that it can serve as marketing for either themselves or their product.\n\nThis reinventing of the wheel a million times is how we got the cardhouse that is web frameworks",
+          "2025-11-18T14:45:28.790609"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:45:28.790609"
+        ],
+        [
+          1,
+          "2025-11-18T14:53:19.306156"
+        ],
+        [
+          1,
+          "2025-11-18T14:54:21.367946"
+        ],
+        [
+          1,
+          "2025-11-18T22:32:15.000619"
+        ],
+        [
+          1,
+          "2025-11-19T00:15:45.412126"
+        ],
+        [
+          1,
+          "2025-11-19T02:01:30.184622"
+        ]
+      ],
+      "created_utc": 1763443132.0,
+      "depth": 0,
+      "permalink": "/r/Rag/comments/1ozsy54/vsc_format_wont_cut_your_ai_costs_by_71_despite/npg2mb9/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T02:01:30.184622",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/Rag/comments/1ozsy54/vsc_format_wont_cut_your_ai_costs_by_71_despite/",
+    "total_comments": 19,
+    "top_level_comments": 5,
+    "api_requests": 1,
+    "expected_comments": 19,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 6,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_144528.json",
+      "scrape_002_20251118_145319.json",
+      "scrape_003_20251118_145420.json",
+      "scrape_004_20251118_223214.json",
+      "scrape_005_20251119_001545.json",
+      "scrape_006_20251119_020129.json"
+    ]
+  }
+}

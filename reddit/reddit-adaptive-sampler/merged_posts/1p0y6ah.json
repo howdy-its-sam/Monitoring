@@ -1,0 +1,44 @@
+{
+  "post": {
+    "id": "1p0y6ah",
+    "title": "Mawwiage is what bwings us togevver today…",
+    "author": "ikcosyw",
+    "score_history": [
+      [
+        0,
+        "2025-11-19T03:30:55.867559"
+      ],
+      [
+        0,
+        "2025-11-19T03:39:16.219904"
+      ],
+      [
+        0,
+        "2025-11-19T03:41:26.232383"
+      ]
+    ],
+    "created_utc": 1763526962.0,
+    "num_comments": 0,
+    "subreddit": "ChatGPTCoding",
+    "url": "https://www.reddit.com/r/ChatGPTCoding/comments/1p0y6ah/mawwiage_is_what_bwings_us_togevver_today/",
+    "selftext": "My programming session with ChatGPT went a little off the rails. As I was rapping things up, I asked ChatGPT if adding a microphone would speed things up, but I was worried about it understanding me. \n\nLike many people my age, my teeth spend most of their time in a cup next to the sink. \n\nChatGPT suggested a mic-test; I suggested it could just practice with the wedding scene from Princess Bride. \n\nWhen it spit out the dialog \n\nMawwiage…   \nMawwiage is what bwings us togevver today.   \nMawwiage, that bwessed awwangement…   \nThat dweam within a dweam…   \nAnd Wuv —   \nTwue Wuv — will fowwow you fowever… \n\nI immediately realized my purpose in life.  My life was spent between Monasteries and reintegrating into the life of IT work in the in between gaps.   \n\nMy Initials are MAW, seeing that over and over again, I understand my true purpose was never to be a Priest or a Programmer but a living Parody of Princess Bride.  \n\n ",
+    "permalink": "/r/ChatGPTCoding/comments/1p0y6ah/mawwiage_is_what_bwings_us_togevver_today/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:41:26.232383",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/ChatGPTCoding/comments/1p0y6ah/mawwiage_is_what_bwings_us_togevver_today/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_033055.json",
+      "scrape_002_20251119_033916.json",
+      "scrape_003_20251119_034126.json"
+    ]
+  }
+}

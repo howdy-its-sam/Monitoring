@@ -1,0 +1,3333 @@
+{
+  "post": {
+    "id": "1p10h7i",
+    "title": "Has anyone tried Antigravity by Google? Thoughts on the IDE platform",
+    "author": "Dazzling_Kangaroo_69",
+    "score_history": [
+      [
+        28,
+        "2025-11-19T03:50:44.040030"
+      ],
+      [
+        30,
+        "2025-11-19T03:59:42.334324"
+      ],
+      [
+        32,
+        "2025-11-19T04:01:45.107292"
+      ],
+      [
+        29,
+        "2025-11-19T04:03:03.209257"
+      ],
+      [
+        32,
+        "2025-11-19T04:10:07.800189"
+      ],
+      [
+        34,
+        "2025-11-19T04:10:23.841470"
+      ],
+      [
+        34,
+        "2025-11-19T04:12:11.834010"
+      ],
+      [
+        33,
+        "2025-11-19T04:21:21.367011"
+      ],
+      [
+        35,
+        "2025-11-19T04:21:58.507367"
+      ],
+      [
+        34,
+        "2025-11-19T04:22:52.605749"
+      ],
+      [
+        33,
+        "2025-11-19T04:24:25.894943"
+      ]
+    ],
+    "created_utc": 1763534693.0,
+    "num_comments": 53,
+    "subreddit": "singularity",
+    "url": "https://www.reddit.com/r/singularity/comments/1p10h7i/has_anyone_tried_antigravity_by_google_thoughts/",
+    "selftext": "Has anyone here used Google's Antigravity IDE yet?\n\n\n\nI recently tested it out for a web stack project—the interface is very VS Code-like, and the AI (Gemini 3) squashed some long-standing bugs for me and even helped refactor a dormant project back to life. The whole multi-agent setup (where you can spawn coding, review, and refactor agents) is wild for streamlining bigger repos.\n\n\n\nCurious:\n\n\\- Do you find it just a polished VS Code clone with better AI, or does it offer something truly unique?\n\n\\- Anyone pushed the agentic features in real-world workflows?\n\n\\- Have you tried Chrome integration or in-IDE API testing?\n\n\\- How does it stack up to Cursor and other AI IDEs?\n\n\n\nWould love actual dev feedback—especially from those who've tried it on mid-to-large codebases.",
+    "permalink": "/r/singularity/comments/1p10h7i/has_anyone_tried_antigravity_by_google_thoughts/"
+  },
+  "comments": [
+    {
+      "id": "npmuzcc",
+      "parent_id": "t3_1p10h7i",
+      "author": "Pyros-SD-Models",
+      "text_history": [
+        [
+          "I don't understand how I'm hitting limits after two messages with an ultra account while having zero issues with the Gemini CLI. Makes comparisons pretty hard, but in the end it's all just a harness anyway. If you're using Gemini 3 through Copilot, Cursor, Cline, whatever, it doesn't make that big of a difference. Cursor and Windsurf have their high-speed custom models, sure, but I'm pretty sure some Gemini-3-Flash variant will drop soon as well.",
+          "2025-11-19T03:50:44.040030"
+        ]
+      ],
+      "score_history": [
+        [
+          12,
+          "2025-11-19T03:50:44.040030"
+        ],
+        [
+          10,
+          "2025-11-19T03:59:42.334324"
+        ],
+        [
+          10,
+          "2025-11-19T04:01:45.107292"
+        ],
+        [
+          10,
+          "2025-11-19T04:03:03.209257"
+        ],
+        [
+          11,
+          "2025-11-19T04:10:07.800189"
+        ],
+        [
+          10,
+          "2025-11-19T04:10:23.841470"
+        ],
+        [
+          10,
+          "2025-11-19T04:12:11.834010"
+        ],
+        [
+          12,
+          "2025-11-19T04:21:21.367011"
+        ],
+        [
+          13,
+          "2025-11-19T04:21:58.507367"
+        ],
+        [
+          15,
+          "2025-11-19T04:22:52.605749"
+        ],
+        [
+          15,
+          "2025-11-19T04:24:25.894943"
+        ]
+      ],
+      "created_utc": 1763537694.0,
+      "depth": 0,
+      "permalink": "/r/singularity/comments/1p10h7i/has_anyone_tried_antigravity_by_google_thoughts/npmuzcc/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npmzpsk",
+          "parent_id": "t1_npmuzcc",
+          "author": "NoIntention4050",
+          "text_history": [
+            [
+              "Because it's not using your subscription. I am on the free plan and have the same experience. So annoying Google!",
+              "2025-11-19T03:50:44.040030"
+            ]
+          ],
+          "score_history": [
+            [
+              6,
+              "2025-11-19T03:50:44.040030"
+            ],
+            [
+              5,
+              "2025-11-19T03:59:42.334324"
+            ],
+            [
+              6,
+              "2025-11-19T04:01:45.107292"
+            ],
+            [
+              6,
+              "2025-11-19T04:03:03.209257"
+            ],
+            [
+              6,
+              "2025-11-19T04:10:07.800189"
+            ],
+            [
+              5,
+              "2025-11-19T04:10:23.841470"
+            ],
+            [
+              5,
+              "2025-11-19T04:12:11.834010"
+            ],
+            [
+              5,
+              "2025-11-19T04:21:21.367011"
+            ],
+            [
+              6,
+              "2025-11-19T04:21:58.507367"
+            ],
+            [
+              6,
+              "2025-11-19T04:22:52.605749"
+            ],
+            [
+              6,
+              "2025-11-19T04:24:25.894943"
+            ]
+          ],
+          "created_utc": 1763540559.0,
+          "depth": 1,
+          "permalink": "/r/singularity/comments/1p10h7i/has_anyone_tried_antigravity_by_google_thoughts/npmzpsk/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        },
+        {
+          "id": "npmvl86",
+          "parent_id": "t1_npmuzcc",
+          "author": "Dazzling_Kangaroo_69",
+          "text_history": [
+            [
+              "Yeah the rate limits are frustrating, especially with an ultra account. I haven't hit them as hard yet but that's annoying.\n\n\n\nGood point about it being a harness. At the end of the day, what matters is the underlying model quality. If Gemini-3-Flash comes soon that could be a game changer for speed. Curious to see if they push more aggressive limits or usage tiers once it's out of preview.",
+              "2025-11-19T03:50:44.040030"
+            ]
+          ],
+          "score_history": [
+            [
+              4,
+              "2025-11-19T03:50:44.040030"
+            ],
+            [
+              5,
+              "2025-11-19T03:59:42.334324"
+            ],
+            [
+              3,
+              "2025-11-19T04:01:45.107292"
+            ],
+            [
+              4,
+              "2025-11-19T04:03:03.209257"
+            ],
+            [
+              4,
+              "2025-11-19T04:10:07.800189"
+            ],
+            [
+              4,
+              "2025-11-19T04:10:23.841470"
+            ],
+            [
+              3,
+              "2025-11-19T04:12:11.834010"
+            ],
+            [
+              4,
+              "2025-11-19T04:21:21.367011"
+            ],
+            [
+              4,
+              "2025-11-19T04:21:58.507367"
+            ],
+            [
+              5,
+              "2025-11-19T04:22:52.605749"
+            ],
+            [
+              5,
+              "2025-11-19T04:24:25.894943"
+            ]
+          ],
+          "created_utc": 1763538065.0,
+          "depth": 1,
+          "permalink": "/r/singularity/comments/1p10h7i/has_anyone_tried_antigravity_by_google_thoughts/npmvl86/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        },
+        {
+          "id": "npn3hnf",
+          "parent_id": "t1_npmuzcc",
+          "author": "bub000",
+          "text_history": [
+            [
+              "That sucks. I thought it was free usage during this initial release",
+              "2025-11-19T03:50:44.040030"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-19T03:50:44.040030"
+            ],
+            [
+              1,
+              "2025-11-19T03:59:42.334324"
+            ],
+            [
+              1,
+              "2025-11-19T04:01:45.107292"
+            ],
+            [
+              1,
+              "2025-11-19T04:03:03.209257"
+            ],
+            [
+              1,
+              "2025-11-19T04:10:07.800189"
+            ],
+            [
+              1,
+              "2025-11-19T04:10:23.841470"
+            ],
+            [
+              1,
+              "2025-11-19T04:12:11.834010"
+            ],
+            [
+              1,
+              "2025-11-19T04:21:21.367011"
+            ],
+            [
+              1,
+              "2025-11-19T04:21:58.507367"
+            ],
+            [
+              1,
+              "2025-11-19T04:22:52.605749"
+            ],
+            [
+              1,
+              "2025-11-19T04:24:25.894943"
+            ]
+          ],
+          "created_utc": 1763542934.0,
+          "depth": 1,
+          "permalink": "/r/singularity/comments/1p10h7i/has_anyone_tried_antigravity_by_google_thoughts/npn3hnf/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npmvdbt",
+      "parent_id": "t3_1p10h7i",
+      "author": "FoxB1t3",
+      "text_history": [
+        [
+          "I tried. It's tough experience considering you hit the limits after 2-3 messages. But from what i've seen it's very promising, considering the edits it does. \n\nHowever I don't know how to run custom API key on this instead of account or how to track quota yet.",
+          "2025-11-19T03:50:44.040030"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-19T03:50:44.040030"
+        ],
+        [
+          2,
+          "2025-11-19T03:59:42.334324"
+        ],
+        [
+          2,
+          "2025-11-19T04:01:45.107292"
+        ],
+        [
+          2,
+          "2025-11-19T04:03:03.209257"
+        ],
+        [
+          2,
+          "2025-11-19T04:10:07.800189"
+        ],
+        [
+          2,
+          "2025-11-19T04:10:23.841470"
+        ],
+        [
+          2,
+          "2025-11-19T04:12:11.834010"
+        ],
+        [
+          3,
+          "2025-11-19T04:21:21.367011"
+        ],
+        [
+          3,
+          "2025-11-19T04:21:58.507367"
+        ],
+        [
+          3,
+          "2025-11-19T04:22:52.605749"
+        ],
+        [
+          3,
+          "2025-11-19T04:24:25.894943"
+        ]
+      ],
+      "created_utc": 1763537931.0,
+      "depth": 0,
+      "permalink": "/r/singularity/comments/1p10h7i/has_anyone_tried_antigravity_by_google_thoughts/npmvdbt/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npmvow6",
+          "parent_id": "t1_npmvdbt",
+          "author": "Dazzling_Kangaroo_69",
+          "text_history": [
+            [
+              "Same here with the limits, really annoying. The edits it makes are solid though, when you can actually get it to run without hitting the wall.\n\n\n\nAs for custom API keys, I haven't figured that out either. Would be nice to have more control over quota and rate limits if you're bringing your own keys. Hopefully they add that option soon.",
+              "2025-11-19T03:50:44.040030"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-19T03:50:44.040030"
+            ],
+            [
+              1,
+              "2025-11-19T03:59:42.334324"
+            ],
+            [
+              1,
+              "2025-11-19T04:01:45.107292"
+            ],
+            [
+              1,
+              "2025-11-19T04:03:03.209257"
+            ],
+            [
+              1,
+              "2025-11-19T04:10:07.800189"
+            ],
+            [
+              1,
+              "2025-11-19T04:10:23.841470"
+            ],
+            [
+              1,
+              "2025-11-19T04:12:11.834010"
+            ],
+            [
+              1,
+              "2025-11-19T04:21:21.367011"
+            ],
+            [
+              1,
+              "2025-11-19T04:21:58.507367"
+            ],
+            [
+              1,
+              "2025-11-19T04:22:52.605749"
+            ],
+            [
+              1,
+              "2025-11-19T04:24:25.894943"
+            ]
+          ],
+          "created_utc": 1763538127.0,
+          "depth": 1,
+          "permalink": "/r/singularity/comments/1p10h7i/has_anyone_tried_antigravity_by_google_thoughts/npmvow6/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npn3sfz",
+              "parent_id": "t1_npmvow6",
+              "author": "FoxB1t3",
+              "text_history": [
+                [
+                  "Yeah I especially like that it automatically creates implementation plans, summaries and tasks that can be reviewd all the time. That's my usuall workflow with these agents but usually I have to ask them to do that for me, here it's automatic, that's cool.",
+                  "2025-11-19T03:50:44.040030"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-19T03:50:44.040030"
+                ],
+                [
+                  1,
+                  "2025-11-19T03:59:42.334324"
+                ],
+                [
+                  1,
+                  "2025-11-19T04:01:45.107292"
+                ],
+                [
+                  1,
+                  "2025-11-19T04:03:03.209257"
+                ],
+                [
+                  1,
+                  "2025-11-19T04:10:07.800189"
+                ],
+                [
+                  1,
+                  "2025-11-19T04:10:23.841470"
+                ],
+                [
+                  1,
+                  "2025-11-19T04:12:11.834010"
+                ],
+                [
+                  1,
+                  "2025-11-19T04:21:21.367011"
+                ],
+                [
+                  1,
+                  "2025-11-19T04:21:58.507367"
+                ],
+                [
+                  1,
+                  "2025-11-19T04:22:52.605749"
+                ],
+                [
+                  1,
+                  "2025-11-19T04:24:25.894943"
+                ]
+              ],
+              "created_utc": 1763543129.0,
+              "depth": 2,
+              "permalink": "/r/singularity/comments/1p10h7i/has_anyone_tried_antigravity_by_google_thoughts/npn3sfz/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "npn07tm",
+      "parent_id": "t3_1p10h7i",
+      "author": "Lumpy-Criticism-2773",
+      "text_history": [
+        [
+          "It's pretty shit honestly. If your agent makes any changes and you wanna reverse it, the model would delete the original files too. You're fucked if you don't use git.\n\nAlso it crashes between chats and there's nothing you can do other than fully discarding everything.",
+          "2025-11-19T03:50:44.040030"
+        ]
+      ],
+      "score_history": [
+        [
+          9,
+          "2025-11-19T03:50:44.040030"
+        ],
+        [
+          8,
+          "2025-11-19T03:59:42.334324"
+        ],
+        [
+          7,
+          "2025-11-19T04:01:45.107292"
+        ],
+        [
+          8,
+          "2025-11-19T04:03:03.209257"
+        ],
+        [
+          7,
+          "2025-11-19T04:10:07.800189"
+        ],
+        [
+          7,
+          "2025-11-19T04:10:23.841470"
+        ],
+        [
+          7,
+          "2025-11-19T04:12:11.834010"
+        ],
+        [
+          8,
+          "2025-11-19T04:21:21.367011"
+        ],
+        [
+          9,
+          "2025-11-19T04:21:58.507367"
+        ],
+        [
+          10,
+          "2025-11-19T04:22:52.605749"
+        ],
+        [
+          10,
+          "2025-11-19T04:24:25.894943"
+        ]
+      ],
+      "created_utc": 1763540874.0,
+      "depth": 0,
+      "permalink": "/r/singularity/comments/1p10h7i/has_anyone_tried_antigravity_by_google_thoughts/npn07tm/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": 1763544520.0,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npn3ryq",
+          "parent_id": "t1_npn07tm",
+          "author": "ScaredPenguinXX",
+          "text_history": [
+            [
+              "To be fair knowing how to use git is mandatory.",
+              "2025-11-19T03:50:44.040030"
+            ]
+          ],
+          "score_history": [
+            [
+              4,
+              "2025-11-19T03:50:44.040030"
+            ],
+            [
+              5,
+              "2025-11-19T03:59:42.334324"
+            ],
+            [
+              5,
+              "2025-11-19T04:01:45.107292"
+            ],
+            [
+              6,
+              "2025-11-19T04:03:03.209257"
+            ],
+            [
+              5,
+              "2025-11-19T04:10:07.800189"
+            ],
+            [
+              5,
+              "2025-11-19T04:10:23.841470"
+            ],
+            [
+              5,
+              "2025-11-19T04:12:11.834010"
+            ],
+            [
+              6,
+              "2025-11-19T04:21:21.367011"
+            ],
+            [
+              5,
+              "2025-11-19T04:21:58.507367"
+            ],
+            [
+              6,
+              "2025-11-19T04:22:52.605749"
+            ],
+            [
+              5,
+              "2025-11-19T04:24:25.894943"
+            ]
+          ],
+          "created_utc": 1763543120.0,
+          "depth": 1,
+          "permalink": "/r/singularity/comments/1p10h7i/has_anyone_tried_antigravity_by_google_thoughts/npn3ryq/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        },
+        {
+          "id": "npn6yje",
+          "parent_id": "t1_npn07tm",
+          "author": "unpick",
+          "text_history": [
+            [
+              "It’s insane to do any development work without git for the precise reason that you are fucked if you don’t use git, AI or not",
+              "2025-11-19T03:50:44.040030"
+            ]
+          ],
+          "score_history": [
+            [
+              3,
+              "2025-11-19T03:50:44.040030"
+            ],
+            [
+              5,
+              "2025-11-19T03:59:42.334324"
+            ],
+            [
+              4,
+              "2025-11-19T04:01:45.107292"
+            ],
+            [
+              3,
+              "2025-11-19T04:03:03.209257"
+            ],
+            [
+              4,
+              "2025-11-19T04:10:07.800189"
+            ],
+            [
+              4,
+              "2025-11-19T04:10:23.841470"
+            ],
+            [
+              4,
+              "2025-11-19T04:12:11.834010"
+            ],
+            [
+              4,
+              "2025-11-19T04:21:21.367011"
+            ],
+            [
+              5,
+              "2025-11-19T04:21:58.507367"
+            ],
+            [
+              3,
+              "2025-11-19T04:22:52.605749"
+            ],
+            [
+              4,
+              "2025-11-19T04:24:25.894943"
+            ]
+          ],
+          "created_utc": 1763545148.0,
+          "depth": 1,
+          "permalink": "/r/singularity/comments/1p10h7i/has_anyone_tried_antigravity_by_google_thoughts/npn6yje/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        },
+        {
+          "id": "npn3w0p",
+          "parent_id": "t1_npn07tm",
+          "author": "xXstekkaXx",
+          "text_history": [
+            [
+              "If you are making something serious, the question is why aren't you using git",
+              "2025-11-19T03:50:44.040030"
+            ]
+          ],
+          "score_history": [
+            [
+              6,
+              "2025-11-19T03:50:44.040030"
+            ],
+            [
+              7,
+              "2025-11-19T03:59:42.334324"
+            ],
+            [
+              7,
+              "2025-11-19T04:01:45.107292"
+            ],
+            [
+              8,
+              "2025-11-19T04:03:03.209257"
+            ],
+            [
+              8,
+              "2025-11-19T04:10:07.800189"
+            ],
+            [
+              7,
+              "2025-11-19T04:10:23.841470"
+            ],
+            [
+              7,
+              "2025-11-19T04:12:11.834010"
+            ],
+            [
+              8,
+              "2025-11-19T04:21:21.367011"
+            ],
+            [
+              9,
+              "2025-11-19T04:21:58.507367"
+            ],
+            [
+              9,
+              "2025-11-19T04:22:52.605749"
+            ],
+            [
+              8,
+              "2025-11-19T04:24:25.894943"
+            ]
+          ],
+          "created_utc": 1763543194.0,
+          "depth": 1,
+          "permalink": "/r/singularity/comments/1p10h7i/has_anyone_tried_antigravity_by_google_thoughts/npn3w0p/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npn5lkl",
+              "parent_id": "t1_npn3w0p",
+              "author": "Lumpy-Criticism-2773",
+              "text_history": [
+                [
+                  "I use git but that doesn't mean it's okay to delete project files instead of removing the diff.",
+                  "2025-11-19T03:50:44.040030"
+                ]
+              ],
+              "score_history": [
+                [
+                  9,
+                  "2025-11-19T03:50:44.040030"
+                ],
+                [
+                  9,
+                  "2025-11-19T03:59:42.334324"
+                ],
+                [
+                  9,
+                  "2025-11-19T04:01:45.107292"
+                ],
+                [
+                  7,
+                  "2025-11-19T04:03:03.209257"
+                ],
+                [
+                  10,
+                  "2025-11-19T04:10:07.800189"
+                ],
+                [
+                  8,
+                  "2025-11-19T04:10:23.841470"
+                ],
+                [
+                  10,
+                  "2025-11-19T04:12:11.834010"
+                ],
+                [
+                  9,
+                  "2025-11-19T04:21:21.367011"
+                ],
+                [
+                  10,
+                  "2025-11-19T04:21:58.507367"
+                ],
+                [
+                  10,
+                  "2025-11-19T04:22:52.605749"
+                ],
+                [
+                  9,
+                  "2025-11-19T04:24:25.894943"
+                ]
+              ],
+              "created_utc": 1763544284.0,
+              "depth": 2,
+              "permalink": "/r/singularity/comments/1p10h7i/has_anyone_tried_antigravity_by_google_thoughts/npn5lkl/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            },
+            {
+              "id": "npnez88",
+              "parent_id": "t1_npn3w0p",
+              "author": "Next_Complex5590",
+              "text_history": [
+                [
+                  "fair point",
+                  "2025-11-19T03:50:44.040030"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-19T03:50:44.040030"
+                ],
+                [
+                  1,
+                  "2025-11-19T03:59:42.334324"
+                ],
+                [
+                  1,
+                  "2025-11-19T04:01:45.107292"
+                ],
+                [
+                  1,
+                  "2025-11-19T04:03:03.209257"
+                ],
+                [
+                  1,
+                  "2025-11-19T04:10:07.800189"
+                ],
+                [
+                  1,
+                  "2025-11-19T04:10:23.841470"
+                ],
+                [
+                  1,
+                  "2025-11-19T04:12:11.834010"
+                ],
+                [
+                  1,
+                  "2025-11-19T04:21:21.367011"
+                ],
+                [
+                  1,
+                  "2025-11-19T04:21:58.507367"
+                ],
+                [
+                  1,
+                  "2025-11-19T04:22:52.605749"
+                ],
+                [
+                  1,
+                  "2025-11-19T04:24:25.894943"
+                ]
+              ],
+              "created_utc": 1763549942.0,
+              "depth": 2,
+              "permalink": "/r/singularity/comments/1p10h7i/has_anyone_tried_antigravity_by_google_thoughts/npnez88/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "npn2x4f",
+          "parent_id": "t1_npn07tm",
+          "author": "Dazzling_Kangaroo_69",
+          "text_history": [
+            [
+              "That's a really important warning. File safety should absolutely be a top priority for any IDE tool, especially one with AI agents making automated changes.\n\n\n\nDefinitely agree that version control is non-negotiable when using these tools. Git should be your safety net. The fact that reverting changes could delete originals is pretty concerning and something they need to address.\n\n\n\nHave you run into this issue directly, or is it something you noticed in the behavior? Would be good to know if there are specific scenarios where this happens.",
+              "2025-11-19T03:50:44.040030"
+            ]
+          ],
+          "score_history": [
+            [
+              3,
+              "2025-11-19T03:50:44.040030"
+            ],
+            [
+              4,
+              "2025-11-19T03:59:42.334324"
+            ],
+            [
+              4,
+              "2025-11-19T04:01:45.107292"
+            ],
+            [
+              4,
+              "2025-11-19T04:03:03.209257"
+            ],
+            [
+              4,
+              "2025-11-19T04:10:07.800189"
+            ],
+            [
+              4,
+              "2025-11-19T04:10:23.841470"
+            ],
+            [
+              4,
+              "2025-11-19T04:12:11.834010"
+            ],
+            [
+              5,
+              "2025-11-19T04:21:21.367011"
+            ],
+            [
+              4,
+              "2025-11-19T04:21:58.507367"
+            ],
+            [
+              4,
+              "2025-11-19T04:22:52.605749"
+            ],
+            [
+              4,
+              "2025-11-19T04:24:25.894943"
+            ]
+          ],
+          "created_utc": 1763542574.0,
+          "depth": 1,
+          "permalink": "/r/singularity/comments/1p10h7i/has_anyone_tried_antigravity_by_google_thoughts/npn2x4f/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npn4mjp",
+              "parent_id": "t1_npn2x4f",
+              "author": "Lumpy-Criticism-2773",
+              "text_history": [
+                [
+                  "Yeah I just noticed this issue while A/B testing a page. It's not as convenient as cursor when it comes to file handling, checkpoints etc.",
+                  "2025-11-19T03:50:44.040030"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-19T03:50:44.040030"
+                ],
+                [
+                  1,
+                  "2025-11-19T03:59:42.334324"
+                ],
+                [
+                  1,
+                  "2025-11-19T04:01:45.107292"
+                ],
+                [
+                  1,
+                  "2025-11-19T04:03:03.209257"
+                ],
+                [
+                  1,
+                  "2025-11-19T04:10:07.800189"
+                ],
+                [
+                  1,
+                  "2025-11-19T04:10:23.841470"
+                ],
+                [
+                  1,
+                  "2025-11-19T04:12:11.834010"
+                ],
+                [
+                  1,
+                  "2025-11-19T04:21:21.367011"
+                ],
+                [
+                  1,
+                  "2025-11-19T04:21:58.507367"
+                ],
+                [
+                  1,
+                  "2025-11-19T04:22:52.605749"
+                ],
+                [
+                  1,
+                  "2025-11-19T04:24:25.894943"
+                ]
+              ],
+              "created_utc": 1763543665.0,
+              "depth": 2,
+              "permalink": "/r/singularity/comments/1p10h7i/has_anyone_tried_antigravity_by_google_thoughts/npn4mjp/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "npn30hh",
+          "parent_id": "t1_npn07tm",
+          "author": "TheInkySquids",
+          "text_history": [
+            [
+              "I mean you really should be using git anyway, there's no real reason not to.",
+              "2025-11-19T03:50:44.040030"
+            ]
+          ],
+          "score_history": [
+            [
+              2,
+              "2025-11-19T03:50:44.040030"
+            ],
+            [
+              2,
+              "2025-11-19T03:59:42.334324"
+            ],
+            [
+              2,
+              "2025-11-19T04:01:45.107292"
+            ],
+            [
+              2,
+              "2025-11-19T04:03:03.209257"
+            ],
+            [
+              2,
+              "2025-11-19T04:10:07.800189"
+            ],
+            [
+              2,
+              "2025-11-19T04:10:23.841470"
+            ],
+            [
+              2,
+              "2025-11-19T04:12:11.834010"
+            ],
+            [
+              3,
+              "2025-11-19T04:21:21.367011"
+            ],
+            [
+              3,
+              "2025-11-19T04:21:58.507367"
+            ],
+            [
+              3,
+              "2025-11-19T04:22:52.605749"
+            ],
+            [
+              3,
+              "2025-11-19T04:24:25.894943"
+            ]
+          ],
+          "created_utc": 1763542631.0,
+          "depth": 1,
+          "permalink": "/r/singularity/comments/1p10h7i/has_anyone_tried_antigravity_by_google_thoughts/npn30hh/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        },
+        {
+          "id": "npndkv2",
+          "parent_id": "t1_npn07tm",
+          "author": "emteedub",
+          "text_history": [
+            [
+              "Why would you ever not use git anyway?",
+              "2025-11-19T03:50:44.040030"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-19T03:50:44.040030"
+            ],
+            [
+              1,
+              "2025-11-19T03:59:42.334324"
+            ],
+            [
+              1,
+              "2025-11-19T04:01:45.107292"
+            ],
+            [
+              1,
+              "2025-11-19T04:03:03.209257"
+            ],
+            [
+              1,
+              "2025-11-19T04:10:07.800189"
+            ],
+            [
+              1,
+              "2025-11-19T04:10:23.841470"
+            ],
+            [
+              1,
+              "2025-11-19T04:12:11.834010"
+            ],
+            [
+              1,
+              "2025-11-19T04:21:21.367011"
+            ],
+            [
+              1,
+              "2025-11-19T04:21:58.507367"
+            ],
+            [
+              1,
+              "2025-11-19T04:22:52.605749"
+            ],
+            [
+              1,
+              "2025-11-19T04:24:25.894943"
+            ]
+          ],
+          "created_utc": 1763549151.0,
+          "depth": 1,
+          "permalink": "/r/singularity/comments/1p10h7i/has_anyone_tried_antigravity_by_google_thoughts/npndkv2/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        },
+        {
+          "id": "npnh2of",
+          "parent_id": "t1_npn07tm",
+          "author": "mwon",
+          "text_history": [
+            [
+              "Doesn't it have checkpoints like in Cursor? I'm always using Cursor's checkpoints to roll back to a previous change in the conversation if I don't like what it did.",
+              "2025-11-19T03:50:44.040030"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-19T03:50:44.040030"
+            ],
+            [
+              1,
+              "2025-11-19T03:59:42.334324"
+            ],
+            [
+              1,
+              "2025-11-19T04:01:45.107292"
+            ],
+            [
+              1,
+              "2025-11-19T04:03:03.209257"
+            ],
+            [
+              1,
+              "2025-11-19T04:10:07.800189"
+            ],
+            [
+              1,
+              "2025-11-19T04:10:23.841470"
+            ],
+            [
+              1,
+              "2025-11-19T04:12:11.834010"
+            ],
+            [
+              1,
+              "2025-11-19T04:21:21.367011"
+            ],
+            [
+              1,
+              "2025-11-19T04:21:58.507367"
+            ],
+            [
+              1,
+              "2025-11-19T04:22:52.605749"
+            ],
+            [
+              1,
+              "2025-11-19T04:24:25.894943"
+            ]
+          ],
+          "created_utc": 1763551101.0,
+          "depth": 1,
+          "permalink": "/r/singularity/comments/1p10h7i/has_anyone_tried_antigravity_by_google_thoughts/npnh2of/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npnhmob",
+              "parent_id": "t1_npnh2of",
+              "author": "Lumpy-Criticism-2773",
+              "text_history": [
+                [
+                  "It does but they don't work as expected. It's a shit show. Commit changes every often or the model may delete everything when you're rolling back.",
+                  "2025-11-19T03:50:44.040030"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-19T03:50:44.040030"
+                ],
+                [
+                  1,
+                  "2025-11-19T03:59:42.334324"
+                ],
+                [
+                  1,
+                  "2025-11-19T04:01:45.107292"
+                ],
+                [
+                  1,
+                  "2025-11-19T04:03:03.209257"
+                ],
+                [
+                  1,
+                  "2025-11-19T04:10:07.800189"
+                ],
+                [
+                  1,
+                  "2025-11-19T04:10:23.841470"
+                ],
+                [
+                  1,
+                  "2025-11-19T04:12:11.834010"
+                ],
+                [
+                  1,
+                  "2025-11-19T04:21:21.367011"
+                ],
+                [
+                  1,
+                  "2025-11-19T04:21:58.507367"
+                ],
+                [
+                  1,
+                  "2025-11-19T04:22:52.605749"
+                ],
+                [
+                  1,
+                  "2025-11-19T04:24:25.894943"
+                ]
+              ],
+              "created_utc": 1763551401.0,
+              "depth": 2,
+              "permalink": "/r/singularity/comments/1p10h7i/has_anyone_tried_antigravity_by_google_thoughts/npnhmob/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": [
+                {
+                  "id": "npni3ei",
+                  "parent_id": "t1_npnhmob",
+                  "author": "mwon",
+                  "text_history": [
+                    [
+                      "Oh, that's no good. So, I guess that answers my morning question \"Is cursor fucked?\". Apparently not.",
+                      "2025-11-19T03:50:44.040030"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      1,
+                      "2025-11-19T03:50:44.040030"
+                    ],
+                    [
+                      1,
+                      "2025-11-19T03:59:42.334324"
+                    ],
+                    [
+                      1,
+                      "2025-11-19T04:01:45.107292"
+                    ],
+                    [
+                      1,
+                      "2025-11-19T04:03:03.209257"
+                    ],
+                    [
+                      1,
+                      "2025-11-19T04:10:07.800189"
+                    ],
+                    [
+                      1,
+                      "2025-11-19T04:10:23.841470"
+                    ],
+                    [
+                      1,
+                      "2025-11-19T04:12:11.834010"
+                    ],
+                    [
+                      1,
+                      "2025-11-19T04:21:21.367011"
+                    ],
+                    [
+                      1,
+                      "2025-11-19T04:21:58.507367"
+                    ],
+                    [
+                      1,
+                      "2025-11-19T04:22:52.605749"
+                    ],
+                    [
+                      1,
+                      "2025-11-19T04:24:25.894943"
+                    ]
+                  ],
+                  "created_utc": 1763551647.0,
+                  "depth": 3,
+                  "permalink": "/r/singularity/comments/1p10h7i/has_anyone_tried_antigravity_by_google_thoughts/npni3ei/",
+                  "is_submitter": false,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": [
+                    {
+                      "id": "npnjmh5",
+                      "parent_id": "t1_npni3ei",
+                      "author": "Lumpy-Criticism-2773",
+                      "text_history": [
+                        [
+                          "Yes I had the same question but I tried it on a few projects and felt like a massive downgrade despite having gemini3.0 pro and sonnet 4.5 thinking. \n\nThe editing and file processing models don't seem good. I think it'll take Antigravity a long time to truly compete with Cursor.",
+                          "2025-11-19T03:50:44.040030"
+                        ]
+                      ],
+                      "score_history": [
+                        [
+                          1,
+                          "2025-11-19T03:50:44.040030"
+                        ],
+                        [
+                          1,
+                          "2025-11-19T03:59:42.334324"
+                        ],
+                        [
+                          1,
+                          "2025-11-19T04:01:45.107292"
+                        ],
+                        [
+                          1,
+                          "2025-11-19T04:03:03.209257"
+                        ],
+                        [
+                          1,
+                          "2025-11-19T04:10:07.800189"
+                        ],
+                        [
+                          1,
+                          "2025-11-19T04:10:23.841470"
+                        ],
+                        [
+                          1,
+                          "2025-11-19T04:12:11.834010"
+                        ],
+                        [
+                          1,
+                          "2025-11-19T04:21:21.367011"
+                        ],
+                        [
+                          1,
+                          "2025-11-19T04:21:58.507367"
+                        ],
+                        [
+                          1,
+                          "2025-11-19T04:22:52.605749"
+                        ],
+                        [
+                          1,
+                          "2025-11-19T04:24:25.894943"
+                        ]
+                      ],
+                      "created_utc": 1763552436.0,
+                      "depth": 4,
+                      "permalink": "/r/singularity/comments/1p10h7i/has_anyone_tried_antigravity_by_google_thoughts/npnjmh5/",
+                      "is_submitter": false,
+                      "controversiality": 0,
+                      "gilded": 0,
+                      "edited": false,
+                      "deleted": false,
+                      "deleted_at": null,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "npnl5p3",
+          "parent_id": "t1_npn07tm",
+          "author": "jonomacd",
+          "text_history": [
+            [
+              "given I always work with git and it just launched so bugs are inevitable these seem like fairly minor complaints. How does it actually work as an AI code editor?",
+              "2025-11-19T03:59:42.334324"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-19T03:59:42.334324"
+            ],
+            [
+              1,
+              "2025-11-19T04:01:45.107292"
+            ],
+            [
+              1,
+              "2025-11-19T04:03:03.209257"
+            ],
+            [
+              1,
+              "2025-11-19T04:10:07.800189"
+            ],
+            [
+              1,
+              "2025-11-19T04:10:23.841470"
+            ],
+            [
+              1,
+              "2025-11-19T04:12:11.834010"
+            ],
+            [
+              1,
+              "2025-11-19T04:21:21.367011"
+            ],
+            [
+              1,
+              "2025-11-19T04:21:58.507367"
+            ],
+            [
+              1,
+              "2025-11-19T04:22:52.605749"
+            ],
+            [
+              1,
+              "2025-11-19T04:24:25.894943"
+            ]
+          ],
+          "created_utc": 1763553191.0,
+          "depth": 1,
+          "permalink": "/r/singularity/comments/1p10h7i/has_anyone_tried_antigravity_by_google_thoughts/npnl5p3/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npn1aoz",
+      "parent_id": "t3_1p10h7i",
+      "author": "Efficient_Loss_9928",
+      "text_history": [
+        [
+          "My honest opinion, this is likely a worse product for startups or solo devs compared to Cursor.\n\nHowever, likely will be the only option for highly sensitive enterprises. As Google is unbeatable at compliance and enterprise support.",
+          "2025-11-19T03:50:44.040030"
+        ]
+      ],
+      "score_history": [
+        [
+          3,
+          "2025-11-19T03:50:44.040030"
+        ],
+        [
+          3,
+          "2025-11-19T03:59:42.334324"
+        ],
+        [
+          3,
+          "2025-11-19T04:01:45.107292"
+        ],
+        [
+          3,
+          "2025-11-19T04:03:03.209257"
+        ],
+        [
+          4,
+          "2025-11-19T04:10:07.800189"
+        ],
+        [
+          5,
+          "2025-11-19T04:10:23.841470"
+        ],
+        [
+          5,
+          "2025-11-19T04:12:11.834010"
+        ],
+        [
+          4,
+          "2025-11-19T04:21:21.367011"
+        ],
+        [
+          6,
+          "2025-11-19T04:21:58.507367"
+        ],
+        [
+          5,
+          "2025-11-19T04:22:52.605749"
+        ],
+        [
+          4,
+          "2025-11-19T04:24:25.894943"
+        ]
+      ],
+      "created_utc": 1763541559.0,
+      "depth": 0,
+      "permalink": "/r/singularity/comments/1p10h7i/has_anyone_tried_antigravity_by_google_thoughts/npn1aoz/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npn2jmk",
+          "parent_id": "t1_npn1aoz",
+          "author": "Dazzling_Kangaroo_69",
+          "text_history": [
+            [
+              "That's a fair assessment. For solo devs and small teams, Cursor's speed and fewer limits definitely make it more practical right now. The rate limits on Antigravity can be frustrating when you're trying to move fast.\n\n\n\nYou're spot on about the enterprise angle though. For companies dealing with sensitive data or strict compliance requirements, having Google's infrastructure and security guarantees behind it is huge. That's a market Cursor can't really serve the same way.\n\n\n\nCurious to see if they'll offer different tier options to make it more viable for individual developers beyond the free plan.",
+              "2025-11-19T03:50:44.040030"
+            ]
+          ],
+          "score_history": [
+            [
+              2,
+              "2025-11-19T03:50:44.040030"
+            ],
+            [
+              2,
+              "2025-11-19T03:59:42.334324"
+            ],
+            [
+              2,
+              "2025-11-19T04:01:45.107292"
+            ],
+            [
+              2,
+              "2025-11-19T04:03:03.209257"
+            ],
+            [
+              2,
+              "2025-11-19T04:10:07.800189"
+            ],
+            [
+              2,
+              "2025-11-19T04:10:23.841470"
+            ],
+            [
+              2,
+              "2025-11-19T04:12:11.834010"
+            ],
+            [
+              2,
+              "2025-11-19T04:21:21.367011"
+            ],
+            [
+              2,
+              "2025-11-19T04:21:58.507367"
+            ],
+            [
+              2,
+              "2025-11-19T04:22:52.605749"
+            ],
+            [
+              2,
+              "2025-11-19T04:24:25.894943"
+            ]
+          ],
+          "created_utc": 1763542336.0,
+          "depth": 1,
+          "permalink": "/r/singularity/comments/1p10h7i/has_anyone_tried_antigravity_by_google_thoughts/npn2jmk/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npn3a7g",
+      "parent_id": "t3_1p10h7i",
+      "author": "AnalystAI",
+      "text_history": [
+        [
+          "Does anyone know how to add my Gemini API key to Antigravity? The current limits make it impossible to create anything. With the Gemini CLI, I can add my key and create as much as I want. Does anyone know where I need to put the API key in Antigravity?",
+          "2025-11-19T03:50:44.040030"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-19T03:50:44.040030"
+        ],
+        [
+          2,
+          "2025-11-19T03:59:42.334324"
+        ],
+        [
+          2,
+          "2025-11-19T04:01:45.107292"
+        ],
+        [
+          2,
+          "2025-11-19T04:03:03.209257"
+        ],
+        [
+          2,
+          "2025-11-19T04:10:07.800189"
+        ],
+        [
+          2,
+          "2025-11-19T04:10:23.841470"
+        ],
+        [
+          2,
+          "2025-11-19T04:12:11.834010"
+        ],
+        [
+          2,
+          "2025-11-19T04:21:21.367011"
+        ],
+        [
+          2,
+          "2025-11-19T04:21:58.507367"
+        ],
+        [
+          2,
+          "2025-11-19T04:22:52.605749"
+        ],
+        [
+          2,
+          "2025-11-19T04:24:25.894943"
+        ]
+      ],
+      "created_utc": 1763542803.0,
+      "depth": 0,
+      "permalink": "/r/singularity/comments/1p10h7i/has_anyone_tried_antigravity_by_google_thoughts/npn3a7g/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npnkws4",
+          "parent_id": "t1_npn3a7g",
+          "author": "InvictusNavarchus",
+          "text_history": [
+            [
+              "I don't think BYOK feature is supported yet",
+              "2025-11-19T03:59:42.334324"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-19T03:59:42.334324"
+            ],
+            [
+              1,
+              "2025-11-19T04:01:45.107292"
+            ],
+            [
+              1,
+              "2025-11-19T04:03:03.209257"
+            ],
+            [
+              1,
+              "2025-11-19T04:10:07.800189"
+            ],
+            [
+              1,
+              "2025-11-19T04:10:23.841470"
+            ],
+            [
+              1,
+              "2025-11-19T04:12:11.834010"
+            ],
+            [
+              1,
+              "2025-11-19T04:21:21.367011"
+            ],
+            [
+              1,
+              "2025-11-19T04:21:58.507367"
+            ],
+            [
+              1,
+              "2025-11-19T04:22:52.605749"
+            ],
+            [
+              1,
+              "2025-11-19T04:24:25.894943"
+            ]
+          ],
+          "created_utc": 1763553074.0,
+          "depth": 1,
+          "permalink": "/r/singularity/comments/1p10h7i/has_anyone_tried_antigravity_by_google_thoughts/npnkws4/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npn6q8h",
+      "parent_id": "t3_1p10h7i",
+      "author": "TallonZek",
+      "text_history": [
+        [
+          "I fed it my Unity project, the scripts and GDD and tried to get it to port it. It did not go well, a couple hours of struggle and all we got done was a malfunctioning main menu and didn't get the gameplay loop implemented at all.",
+          "2025-11-19T03:50:44.040030"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-19T03:50:44.040030"
+        ],
+        [
+          2,
+          "2025-11-19T03:59:42.334324"
+        ],
+        [
+          2,
+          "2025-11-19T04:01:45.107292"
+        ],
+        [
+          2,
+          "2025-11-19T04:03:03.209257"
+        ],
+        [
+          2,
+          "2025-11-19T04:10:07.800189"
+        ],
+        [
+          2,
+          "2025-11-19T04:10:23.841470"
+        ],
+        [
+          2,
+          "2025-11-19T04:12:11.834010"
+        ],
+        [
+          2,
+          "2025-11-19T04:21:21.367011"
+        ],
+        [
+          2,
+          "2025-11-19T04:21:58.507367"
+        ],
+        [
+          2,
+          "2025-11-19T04:22:52.605749"
+        ],
+        [
+          2,
+          "2025-11-19T04:24:25.894943"
+        ]
+      ],
+      "created_utc": 1763545003.0,
+      "depth": 0,
+      "permalink": "/r/singularity/comments/1p10h7i/has_anyone_tried_antigravity_by_google_thoughts/npn6q8h/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npn0aj3",
+      "parent_id": "t3_1p10h7i",
+      "author": "PictureMajestic2010",
+      "text_history": [
+        [
+          "I installed it on my Intel Mac and paid for the pro subscription (don't think it was needed though to get started). It offers two gemini models - Gemini-3-pro (high) and Gemini-3-pro (low). \n\nThe limits with high run out very quickly, so not sure I can comment on its quality specifically. But overall it produces excellent results, and does have some cool features such as adding comments anywhere which the agent can then use while running, as well as a video snippet of what it build (front end UI in my case).\n\nI also installed the chrome browser extension to let it run the UI (which it successfully did) but need to use it more to form any king of opinion.",
+          "2025-11-19T03:50:44.040030"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T03:50:44.040030"
+        ],
+        [
+          1,
+          "2025-11-19T03:59:42.334324"
+        ],
+        [
+          1,
+          "2025-11-19T04:01:45.107292"
+        ],
+        [
+          1,
+          "2025-11-19T04:03:03.209257"
+        ],
+        [
+          1,
+          "2025-11-19T04:10:07.800189"
+        ],
+        [
+          1,
+          "2025-11-19T04:10:23.841470"
+        ],
+        [
+          1,
+          "2025-11-19T04:12:11.834010"
+        ],
+        [
+          1,
+          "2025-11-19T04:21:21.367011"
+        ],
+        [
+          1,
+          "2025-11-19T04:21:58.507367"
+        ],
+        [
+          1,
+          "2025-11-19T04:22:52.605749"
+        ],
+        [
+          1,
+          "2025-11-19T04:24:25.894943"
+        ]
+      ],
+      "created_utc": 1763540922.0,
+      "depth": 0,
+      "permalink": "/r/singularity/comments/1p10h7i/has_anyone_tried_antigravity_by_google_thoughts/npn0aj3/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npn2qci",
+          "parent_id": "t1_npn0aj3",
+          "author": "Dazzling_Kangaroo_69",
+          "text_history": [
+            [
+              "Thanks for the detailed review! Those features you mentioned sound really useful, especially the comment generation and the video snippet showing what it builds. Haven't seen those in action yet but that's pretty cool.\n\n\n\nThe quick rate limit exhaustion is definitely the biggest pain point. Did you notice much difference in output quality between the high and low Gemini-3-pro models? Or is it mostly about speed?\n\n\n\nAlso curious how the Chrome extension compares to just using the IDE. Seems like browser access could be powerful for web dev workflows.",
+              "2025-11-19T03:50:44.040030"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-19T03:50:44.040030"
+            ],
+            [
+              1,
+              "2025-11-19T03:59:42.334324"
+            ],
+            [
+              1,
+              "2025-11-19T04:01:45.107292"
+            ],
+            [
+              1,
+              "2025-11-19T04:03:03.209257"
+            ],
+            [
+              1,
+              "2025-11-19T04:10:07.800189"
+            ],
+            [
+              1,
+              "2025-11-19T04:10:23.841470"
+            ],
+            [
+              1,
+              "2025-11-19T04:12:11.834010"
+            ],
+            [
+              1,
+              "2025-11-19T04:21:21.367011"
+            ],
+            [
+              1,
+              "2025-11-19T04:21:58.507367"
+            ],
+            [
+              1,
+              "2025-11-19T04:22:52.605749"
+            ],
+            [
+              1,
+              "2025-11-19T04:24:25.894943"
+            ]
+          ],
+          "created_utc": 1763542456.0,
+          "depth": 1,
+          "permalink": "/r/singularity/comments/1p10h7i/has_anyone_tried_antigravity_by_google_thoughts/npn2qci/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npn1y1g",
+      "parent_id": "t3_1p10h7i",
+      "author": "tooostarito",
+      "text_history": [
+        [
+          "It's shit for now.",
+          "2025-11-19T03:50:44.040030"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T03:50:44.040030"
+        ],
+        [
+          1,
+          "2025-11-19T03:59:42.334324"
+        ],
+        [
+          1,
+          "2025-11-19T04:01:45.107292"
+        ],
+        [
+          1,
+          "2025-11-19T04:03:03.209257"
+        ],
+        [
+          1,
+          "2025-11-19T04:10:07.800189"
+        ],
+        [
+          1,
+          "2025-11-19T04:10:23.841470"
+        ],
+        [
+          1,
+          "2025-11-19T04:12:11.834010"
+        ],
+        [
+          1,
+          "2025-11-19T04:21:21.367011"
+        ],
+        [
+          1,
+          "2025-11-19T04:21:58.507367"
+        ],
+        [
+          1,
+          "2025-11-19T04:22:52.605749"
+        ],
+        [
+          1,
+          "2025-11-19T04:24:25.894943"
+        ]
+      ],
+      "created_utc": 1763541966.0,
+      "depth": 0,
+      "permalink": "/r/singularity/comments/1p10h7i/has_anyone_tried_antigravity_by_google_thoughts/npn1y1g/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npn25ea",
+          "parent_id": "t1_npn1y1g",
+          "author": "Dazzling_Kangaroo_69",
+          "text_history": [
+            [
+              "Fair assessment if it's not working well for you. What's the main issue you're hitting? The rate limits, bugs, or something else?\n\n\n\nIt's still pretty early/beta so there are definitely rough edges. Hopefully they iron out the major issues soon.",
+              "2025-11-19T03:50:44.040030"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-19T03:50:44.040030"
+            ],
+            [
+              1,
+              "2025-11-19T03:59:42.334324"
+            ],
+            [
+              1,
+              "2025-11-19T04:01:45.107292"
+            ],
+            [
+              1,
+              "2025-11-19T04:03:03.209257"
+            ],
+            [
+              1,
+              "2025-11-19T04:10:07.800189"
+            ],
+            [
+              1,
+              "2025-11-19T04:10:23.841470"
+            ],
+            [
+              1,
+              "2025-11-19T04:12:11.834010"
+            ],
+            [
+              1,
+              "2025-11-19T04:21:21.367011"
+            ],
+            [
+              1,
+              "2025-11-19T04:21:58.507367"
+            ],
+            [
+              1,
+              "2025-11-19T04:22:52.605749"
+            ],
+            [
+              1,
+              "2025-11-19T04:24:25.894943"
+            ]
+          ],
+          "created_utc": 1763542092.0,
+          "depth": 1,
+          "permalink": "/r/singularity/comments/1p10h7i/has_anyone_tried_antigravity_by_google_thoughts/npn25ea/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npn2ofv",
+              "parent_id": "t1_npn25ea",
+              "author": "tooostarito",
+              "text_history": [
+                [
+                  "Agent terminated due to error.\n\nAgent terminated due to error.\n\nAgent terminated due to error.\n\nAgent terminated due to error.\n\nAgent execution terminated due to error.\n\nYou have reached the quota limit for this model. You can resume using this model at 1:36 PM.",
+                  "2025-11-19T03:50:44.040030"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-19T03:50:44.040030"
+                ],
+                [
+                  1,
+                  "2025-11-19T03:59:42.334324"
+                ],
+                [
+                  1,
+                  "2025-11-19T04:01:45.107292"
+                ],
+                [
+                  1,
+                  "2025-11-19T04:03:03.209257"
+                ],
+                [
+                  1,
+                  "2025-11-19T04:10:07.800189"
+                ],
+                [
+                  1,
+                  "2025-11-19T04:10:23.841470"
+                ],
+                [
+                  1,
+                  "2025-11-19T04:12:11.834010"
+                ],
+                [
+                  1,
+                  "2025-11-19T04:21:21.367011"
+                ],
+                [
+                  1,
+                  "2025-11-19T04:21:58.507367"
+                ],
+                [
+                  1,
+                  "2025-11-19T04:22:52.605749"
+                ],
+                [
+                  1,
+                  "2025-11-19T04:24:25.894943"
+                ]
+              ],
+              "created_utc": 1763542421.0,
+              "depth": 2,
+              "permalink": "/r/singularity/comments/1p10h7i/has_anyone_tried_antigravity_by_google_thoughts/npn2ofv/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": [
+                {
+                  "id": "npn2trj",
+                  "parent_id": "t1_npn2ofv",
+                  "author": "tooostarito",
+                  "text_history": [
+                    [
+                      "Then you have the issue because you are in the middle of a big task. You switch to claude 4.5 - same thing.",
+                      "2025-11-19T03:50:44.040030"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      1,
+                      "2025-11-19T03:50:44.040030"
+                    ],
+                    [
+                      1,
+                      "2025-11-19T03:59:42.334324"
+                    ],
+                    [
+                      1,
+                      "2025-11-19T04:01:45.107292"
+                    ],
+                    [
+                      1,
+                      "2025-11-19T04:03:03.209257"
+                    ],
+                    [
+                      1,
+                      "2025-11-19T04:10:07.800189"
+                    ],
+                    [
+                      1,
+                      "2025-11-19T04:10:23.841470"
+                    ],
+                    [
+                      1,
+                      "2025-11-19T04:12:11.834010"
+                    ],
+                    [
+                      1,
+                      "2025-11-19T04:21:21.367011"
+                    ],
+                    [
+                      1,
+                      "2025-11-19T04:21:58.507367"
+                    ],
+                    [
+                      1,
+                      "2025-11-19T04:22:52.605749"
+                    ],
+                    [
+                      1,
+                      "2025-11-19T04:24:25.894943"
+                    ]
+                  ],
+                  "created_utc": 1763542516.0,
+                  "depth": 3,
+                  "permalink": "/r/singularity/comments/1p10h7i/has_anyone_tried_antigravity_by_google_thoughts/npn2trj/",
+                  "is_submitter": false,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": []
+                },
+                {
+                  "id": "npnno5b",
+                  "parent_id": "t1_npn2ofv",
+                  "author": "ozjd",
+                  "text_history": [
+                    [
+                      "Yeah I've got this, but changing to Clause Sonnet 4.5 worked :\\\\ (for now)\n\n\n\n**Scrap that:**  \nEncountered retryable error from model provider.\n\nAgent execution terminated due to model provider overload. Please try again later.",
+                      "2025-11-19T04:21:21.367011"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      1,
+                      "2025-11-19T04:21:21.367011"
+                    ],
+                    [
+                      1,
+                      "2025-11-19T04:21:58.507367"
+                    ],
+                    [
+                      1,
+                      "2025-11-19T04:22:52.605749"
+                    ],
+                    [
+                      1,
+                      "2025-11-19T04:24:25.894943"
+                    ]
+                  ],
+                  "created_utc": 1763554370.0,
+                  "depth": 3,
+                  "permalink": "/r/singularity/comments/1p10h7i/has_anyone_tried_antigravity_by_google_thoughts/npnno5b/",
+                  "is_submitter": false,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "npn31tq",
+      "parent_id": "t3_1p10h7i",
+      "author": "Tight_Confusion_1695",
+      "text_history": [
+        [
+          "Only the Gemini models seem to work right now. Everything else throws errors as soon as you try to use them. The code Gemini produces isn’t great either, the style feels a lot like Google Jules, if you’ve ever tried that.\n\nhttps://preview.redd.it/59tuvihqh62g1.png?width=530&amp;format=png&amp;auto=webp&amp;s=a85c75bd4179ecf41086af79d9eec04112573aaa",
+          "2025-11-19T03:50:44.040030"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T03:50:44.040030"
+        ],
+        [
+          1,
+          "2025-11-19T03:59:42.334324"
+        ],
+        [
+          1,
+          "2025-11-19T04:01:45.107292"
+        ],
+        [
+          1,
+          "2025-11-19T04:03:03.209257"
+        ],
+        [
+          1,
+          "2025-11-19T04:10:07.800189"
+        ],
+        [
+          1,
+          "2025-11-19T04:10:23.841470"
+        ],
+        [
+          1,
+          "2025-11-19T04:12:11.834010"
+        ],
+        [
+          1,
+          "2025-11-19T04:21:21.367011"
+        ],
+        [
+          1,
+          "2025-11-19T04:21:58.507367"
+        ],
+        [
+          1,
+          "2025-11-19T04:22:52.605749"
+        ],
+        [
+          1,
+          "2025-11-19T04:24:25.894943"
+        ]
+      ],
+      "created_utc": 1763542656.0,
+      "depth": 0,
+      "permalink": "/r/singularity/comments/1p10h7i/has_anyone_tried_antigravity_by_google_thoughts/npn31tq/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npn3dnn",
+      "parent_id": "t3_1p10h7i",
+      "author": "TheInkySquids",
+      "text_history": [
+        [
+          "The quality of the edits and the debugging/testing tools in the browser are all really really good. One small but super important thing is its the first agentic IDE I've used which can actually use CLI install GUIs like react-create-app properly, and can navigate them and everything. Having it do terminal commands in the background while multitasking editing files is really cool too.\n\nUnfortunately the rate limits are just way too low right now to be usable. I entered ONE message for a very empty C++ project (literally just an ImGui main menu and a square test 2D world that you can pan and zoom across) to migrate it from SFML to OpenGL with GLFW. Literally didn't even get 25% through that task before it ran out. The annoying part is it looked like it was doing a lot better than Claude Code or Codex, but I just can't trust being able to finish a task with it.",
+          "2025-11-19T03:50:44.040030"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T03:50:44.040030"
+        ],
+        [
+          1,
+          "2025-11-19T03:59:42.334324"
+        ],
+        [
+          1,
+          "2025-11-19T04:01:45.107292"
+        ],
+        [
+          1,
+          "2025-11-19T04:03:03.209257"
+        ],
+        [
+          1,
+          "2025-11-19T04:10:07.800189"
+        ],
+        [
+          1,
+          "2025-11-19T04:10:23.841470"
+        ],
+        [
+          1,
+          "2025-11-19T04:12:11.834010"
+        ],
+        [
+          1,
+          "2025-11-19T04:21:21.367011"
+        ],
+        [
+          1,
+          "2025-11-19T04:21:58.507367"
+        ],
+        [
+          1,
+          "2025-11-19T04:22:52.605749"
+        ],
+        [
+          1,
+          "2025-11-19T04:24:25.894943"
+        ]
+      ],
+      "created_utc": 1763542863.0,
+      "depth": 0,
+      "permalink": "/r/singularity/comments/1p10h7i/has_anyone_tried_antigravity_by_google_thoughts/npn3dnn/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npn3fn5",
+      "parent_id": "t3_1p10h7i",
+      "author": "Hodler-mane",
+      "text_history": [
+        [
+          "I tried it for 2 hours. It has potential but its really buggy at the moment. I had to tell it to continue 5 times cause it kept saying servers were overloaded. The first feature I got it to add, it left \\`\\`\\` characters and duplicate code in my class files. upon debugging it realized the tool it was calling to insert code wasn't inserting but just adding (im on windows so maybe it used some other api). Seems like it will have more potential in future but right now im just using Gemini 3 in Gemini CLI",
+          "2025-11-19T03:50:44.040030"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T03:50:44.040030"
+        ],
+        [
+          1,
+          "2025-11-19T03:59:42.334324"
+        ],
+        [
+          1,
+          "2025-11-19T04:01:45.107292"
+        ],
+        [
+          1,
+          "2025-11-19T04:03:03.209257"
+        ],
+        [
+          1,
+          "2025-11-19T04:10:07.800189"
+        ],
+        [
+          1,
+          "2025-11-19T04:10:23.841470"
+        ],
+        [
+          1,
+          "2025-11-19T04:12:11.834010"
+        ],
+        [
+          1,
+          "2025-11-19T04:21:21.367011"
+        ],
+        [
+          1,
+          "2025-11-19T04:21:58.507367"
+        ],
+        [
+          1,
+          "2025-11-19T04:22:52.605749"
+        ],
+        [
+          1,
+          "2025-11-19T04:24:25.894943"
+        ]
+      ],
+      "created_utc": 1763542899.0,
+      "depth": 0,
+      "permalink": "/r/singularity/comments/1p10h7i/has_anyone_tried_antigravity_by_google_thoughts/npn3fn5/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npn8gwm",
+      "parent_id": "t3_1p10h7i",
+      "author": "VhritzK_891",
+      "text_history": [
+        [
+          "unusable, literally hitting limits with 1 prompt lol",
+          "2025-11-19T03:50:44.040030"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T03:50:44.040030"
+        ],
+        [
+          1,
+          "2025-11-19T03:59:42.334324"
+        ],
+        [
+          1,
+          "2025-11-19T04:01:45.107292"
+        ],
+        [
+          1,
+          "2025-11-19T04:03:03.209257"
+        ],
+        [
+          1,
+          "2025-11-19T04:10:07.800189"
+        ],
+        [
+          1,
+          "2025-11-19T04:10:23.841470"
+        ],
+        [
+          1,
+          "2025-11-19T04:12:11.834010"
+        ],
+        [
+          1,
+          "2025-11-19T04:21:21.367011"
+        ],
+        [
+          1,
+          "2025-11-19T04:21:58.507367"
+        ],
+        [
+          1,
+          "2025-11-19T04:22:52.605749"
+        ],
+        [
+          1,
+          "2025-11-19T04:24:25.894943"
+        ]
+      ],
+      "created_utc": 1763546079.0,
+      "depth": 0,
+      "permalink": "/r/singularity/comments/1p10h7i/has_anyone_tried_antigravity_by_google_thoughts/npn8gwm/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npnbzul",
+      "parent_id": "t3_1p10h7i",
+      "author": "krlkv",
+      "text_history": [
+        [
+          "Tried it for non-coding SEO work.\n\nTime outs and loops all the time.",
+          "2025-11-19T03:50:44.040030"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T03:50:44.040030"
+        ],
+        [
+          1,
+          "2025-11-19T03:59:42.334324"
+        ],
+        [
+          1,
+          "2025-11-19T04:01:45.107292"
+        ],
+        [
+          1,
+          "2025-11-19T04:03:03.209257"
+        ],
+        [
+          1,
+          "2025-11-19T04:10:07.800189"
+        ],
+        [
+          1,
+          "2025-11-19T04:10:23.841470"
+        ],
+        [
+          1,
+          "2025-11-19T04:12:11.834010"
+        ],
+        [
+          1,
+          "2025-11-19T04:21:21.367011"
+        ],
+        [
+          1,
+          "2025-11-19T04:21:58.507367"
+        ],
+        [
+          1,
+          "2025-11-19T04:22:52.605749"
+        ],
+        [
+          1,
+          "2025-11-19T04:24:25.894943"
+        ]
+      ],
+      "created_utc": 1763548217.0,
+      "depth": 0,
+      "permalink": "/r/singularity/comments/1p10h7i/has_anyone_tried_antigravity_by_google_thoughts/npnbzul/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npnebyf",
+      "parent_id": "t3_1p10h7i",
+      "author": "DigitaICriminal",
+      "text_history": [
+        [
+          "i just installed it, happy to try",
+          "2025-11-19T03:50:44.040030"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T03:50:44.040030"
+        ],
+        [
+          1,
+          "2025-11-19T03:59:42.334324"
+        ],
+        [
+          1,
+          "2025-11-19T04:01:45.107292"
+        ],
+        [
+          1,
+          "2025-11-19T04:03:03.209257"
+        ],
+        [
+          1,
+          "2025-11-19T04:10:07.800189"
+        ],
+        [
+          1,
+          "2025-11-19T04:10:23.841470"
+        ],
+        [
+          1,
+          "2025-11-19T04:12:11.834010"
+        ],
+        [
+          1,
+          "2025-11-19T04:21:21.367011"
+        ],
+        [
+          1,
+          "2025-11-19T04:21:58.507367"
+        ],
+        [
+          1,
+          "2025-11-19T04:22:52.605749"
+        ],
+        [
+          1,
+          "2025-11-19T04:24:25.894943"
+        ]
+      ],
+      "created_utc": 1763549577.0,
+      "depth": 0,
+      "permalink": "/r/singularity/comments/1p10h7i/has_anyone_tried_antigravity_by_google_thoughts/npnebyf/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npnftzk",
+      "parent_id": "t3_1p10h7i",
+      "author": "wi_2",
+      "text_history": [
+        [
+          "Does not work well for me at all, but I really like the interface and design of it, slick and clean, exactly what I would like.  \nBut I also think this type of software will become completely useless very soon.",
+          "2025-11-19T03:50:44.040030"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T03:50:44.040030"
+        ],
+        [
+          1,
+          "2025-11-19T03:59:42.334324"
+        ],
+        [
+          1,
+          "2025-11-19T04:01:45.107292"
+        ],
+        [
+          1,
+          "2025-11-19T04:03:03.209257"
+        ],
+        [
+          1,
+          "2025-11-19T04:10:07.800189"
+        ],
+        [
+          1,
+          "2025-11-19T04:10:23.841470"
+        ],
+        [
+          1,
+          "2025-11-19T04:12:11.834010"
+        ],
+        [
+          1,
+          "2025-11-19T04:21:21.367011"
+        ],
+        [
+          1,
+          "2025-11-19T04:21:58.507367"
+        ],
+        [
+          1,
+          "2025-11-19T04:22:52.605749"
+        ],
+        [
+          1,
+          "2025-11-19T04:24:25.894943"
+        ]
+      ],
+      "created_utc": 1763550422.0,
+      "depth": 0,
+      "permalink": "/r/singularity/comments/1p10h7i/has_anyone_tried_antigravity_by_google_thoughts/npnftzk/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npnizhf",
+      "parent_id": "t3_1p10h7i",
+      "author": "One-Satisfaction3318",
+      "text_history": [
+        [
+          "The gemini models have really strict limits so I have been using sonnet 4.5 so far and it works really well. You can review each code change, and undo changes from a certain prompt, just like cursor.\n\n\nIf they provide good rate limits compared to cursor in their free tier, I have no problem using it.",
+          "2025-11-19T03:50:44.040030"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T03:50:44.040030"
+        ],
+        [
+          1,
+          "2025-11-19T03:59:42.334324"
+        ],
+        [
+          1,
+          "2025-11-19T04:01:45.107292"
+        ],
+        [
+          1,
+          "2025-11-19T04:03:03.209257"
+        ],
+        [
+          1,
+          "2025-11-19T04:10:07.800189"
+        ],
+        [
+          1,
+          "2025-11-19T04:10:23.841470"
+        ],
+        [
+          1,
+          "2025-11-19T04:12:11.834010"
+        ],
+        [
+          1,
+          "2025-11-19T04:21:21.367011"
+        ],
+        [
+          1,
+          "2025-11-19T04:21:58.507367"
+        ],
+        [
+          1,
+          "2025-11-19T04:22:52.605749"
+        ],
+        [
+          1,
+          "2025-11-19T04:24:25.894943"
+        ]
+      ],
+      "created_utc": 1763552110.0,
+      "depth": 0,
+      "permalink": "/r/singularity/comments/1p10h7i/has_anyone_tried_antigravity_by_google_thoughts/npnizhf/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npnn8ao",
+      "parent_id": "t3_1p10h7i",
+      "author": "deveval107",
+      "text_history": [
+        [
+          "Weirdly I didn't hit limits for hours.. I have standard code assist and gemini pro ai subscriptions",
+          "2025-11-19T04:10:07.800189"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T04:10:07.800189"
+        ],
+        [
+          1,
+          "2025-11-19T04:10:23.841470"
+        ],
+        [
+          1,
+          "2025-11-19T04:12:11.834010"
+        ],
+        [
+          1,
+          "2025-11-19T04:21:21.367011"
+        ],
+        [
+          1,
+          "2025-11-19T04:21:58.507367"
+        ],
+        [
+          1,
+          "2025-11-19T04:22:52.605749"
+        ],
+        [
+          1,
+          "2025-11-19T04:24:25.894943"
+        ]
+      ],
+      "created_utc": 1763554168.0,
+      "depth": 0,
+      "permalink": "/r/singularity/comments/1p10h7i/has_anyone_tried_antigravity_by_google_thoughts/npnn8ao/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npnbvf9",
+      "parent_id": "t3_1p10h7i",
+      "author": "Present_Ride6012",
+      "text_history": [
+        [
+          "there are some promising ideas, like modifying the artefacts of the planning and GUI, and direct feedback via GUI. Apart from these, it feels like just another vscode wrapper. And it got stuck when I asked it to add authentication layer to my app demo after ONE prompt, probably usage limit mentioned in other threads.\n\nWhat's truly improved my workflow is [https://conductor.build/](https://conductor.build/)\n\nIf you think of it, all we are doing these days are context management. When you have tons of context to switch, what we really need is something to help us manage our mental context. Segregate our work streams with ease, and this is exactly what Conductor offers. The only catch is won't go beyond its work directory, which is a safety feature.",
+          "2025-11-19T03:50:44.040030"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T03:50:44.040030"
+        ],
+        [
+          1,
+          "2025-11-19T03:59:42.334324"
+        ],
+        [
+          1,
+          "2025-11-19T04:01:45.107292"
+        ],
+        [
+          1,
+          "2025-11-19T04:03:03.209257"
+        ],
+        [
+          1,
+          "2025-11-19T04:10:07.800189"
+        ],
+        [
+          1,
+          "2025-11-19T04:10:23.841470"
+        ],
+        [
+          1,
+          "2025-11-19T04:12:11.834010"
+        ],
+        [
+          1,
+          "2025-11-19T04:21:21.367011"
+        ],
+        [
+          1,
+          "2025-11-19T04:21:58.507367"
+        ],
+        [
+          1,
+          "2025-11-19T04:22:52.605749"
+        ],
+        [
+          1,
+          "2025-11-19T04:24:25.894943"
+        ]
+      ],
+      "created_utc": 1763548142.0,
+      "depth": 0,
+      "permalink": "/r/singularity/comments/1p10h7i/has_anyone_tried_antigravity_by_google_thoughts/npnbvf9/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npmw137",
+      "parent_id": "t3_1p10h7i",
+      "author": "Superduperbals",
+      "text_history": [
+        [
+          "It's literally just a branded VS Code wrapper, totally pointless and seems like just a graphical upgrade compared to Gemini in CLI on VS Code.",
+          "2025-11-19T03:50:44.040030"
+        ]
+      ],
+      "score_history": [
+        [
+          -5,
+          "2025-11-19T03:50:44.040030"
+        ],
+        [
+          -4,
+          "2025-11-19T03:59:42.334324"
+        ],
+        [
+          -5,
+          "2025-11-19T04:01:45.107292"
+        ],
+        [
+          -6,
+          "2025-11-19T04:03:03.209257"
+        ],
+        [
+          -5,
+          "2025-11-19T04:10:07.800189"
+        ],
+        [
+          -4,
+          "2025-11-19T04:10:23.841470"
+        ],
+        [
+          -4,
+          "2025-11-19T04:12:11.834010"
+        ],
+        [
+          -5,
+          "2025-11-19T04:21:21.367011"
+        ],
+        [
+          -5,
+          "2025-11-19T04:21:58.507367"
+        ],
+        [
+          -6,
+          "2025-11-19T04:22:52.605749"
+        ],
+        [
+          -4,
+          "2025-11-19T04:24:25.894943"
+        ]
+      ],
+      "created_utc": 1763538330.0,
+      "depth": 0,
+      "permalink": "/r/singularity/comments/1p10h7i/has_anyone_tried_antigravity_by_google_thoughts/npmw137/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npmxgjb",
+          "parent_id": "t1_npmw137",
+          "author": "peakedtooearly",
+          "text_history": [
+            [
+              "Isn't the point the automated testing of web apps via the agent?",
+              "2025-11-19T03:50:44.040030"
+            ]
+          ],
+          "score_history": [
+            [
+              6,
+              "2025-11-19T03:50:44.040030"
+            ],
+            [
+              6,
+              "2025-11-19T03:59:42.334324"
+            ],
+            [
+              4,
+              "2025-11-19T04:01:45.107292"
+            ],
+            [
+              4,
+              "2025-11-19T04:03:03.209257"
+            ],
+            [
+              5,
+              "2025-11-19T04:10:07.800189"
+            ],
+            [
+              5,
+              "2025-11-19T04:10:23.841470"
+            ],
+            [
+              5,
+              "2025-11-19T04:12:11.834010"
+            ],
+            [
+              5,
+              "2025-11-19T04:21:21.367011"
+            ],
+            [
+              6,
+              "2025-11-19T04:21:58.507367"
+            ],
+            [
+              5,
+              "2025-11-19T04:22:52.605749"
+            ],
+            [
+              5,
+              "2025-11-19T04:24:25.894943"
+            ]
+          ],
+          "created_utc": 1763539179.0,
+          "depth": 1,
+          "permalink": "/r/singularity/comments/1p10h7i/has_anyone_tried_antigravity_by_google_thoughts/npmxgjb/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        },
+        {
+          "id": "npn00qo",
+          "parent_id": "t1_npmw137",
+          "author": "Dazzling_Kangaroo_69",
+          "text_history": [
+            [
+              "Fair take. At its core, yeah it's VS Code with a UI wrapper. But the multi-agent workflow and Chrome integration do add some practical value beyond just CLI + Gemini.\n\n\n\nWhether that's worth switching to depends on if those features fit your workflow. For some people the graphical agent management is easier than CLI commands. But I get why you'd stick with the CLI if you're already comfortable there.",
+              "2025-11-19T03:50:44.040030"
+            ]
+          ],
+          "score_history": [
+            [
+              3,
+              "2025-11-19T03:50:44.040030"
+            ],
+            [
+              3,
+              "2025-11-19T03:59:42.334324"
+            ],
+            [
+              3,
+              "2025-11-19T04:01:45.107292"
+            ],
+            [
+              3,
+              "2025-11-19T04:03:03.209257"
+            ],
+            [
+              3,
+              "2025-11-19T04:10:07.800189"
+            ],
+            [
+              3,
+              "2025-11-19T04:10:23.841470"
+            ],
+            [
+              3,
+              "2025-11-19T04:12:11.834010"
+            ],
+            [
+              3,
+              "2025-11-19T04:21:21.367011"
+            ],
+            [
+              3,
+              "2025-11-19T04:21:58.507367"
+            ],
+            [
+              3,
+              "2025-11-19T04:22:52.605749"
+            ],
+            [
+              3,
+              "2025-11-19T04:24:25.894943"
+            ]
+          ],
+          "created_utc": 1763540749.0,
+          "depth": 1,
+          "permalink": "/r/singularity/comments/1p10h7i/has_anyone_tried_antigravity_by_google_thoughts/npn00qo/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npn52ie",
+              "parent_id": "t1_npn00qo",
+              "author": "peakedtooearly",
+              "text_history": [
+                [
+                  "TBH being a VS Code wrapper is a bonus. Just like the Atlas browser being based on Chromium. \n\nIt allows some familiarity for existing users (which are numerous) and also there is an ecosystem of extensions.\n\nPlus, why re-invent the wheel?",
+                  "2025-11-19T03:50:44.040030"
+                ]
+              ],
+              "score_history": [
+                [
+                  3,
+                  "2025-11-19T03:50:44.040030"
+                ],
+                [
+                  3,
+                  "2025-11-19T03:59:42.334324"
+                ],
+                [
+                  3,
+                  "2025-11-19T04:01:45.107292"
+                ],
+                [
+                  3,
+                  "2025-11-19T04:03:03.209257"
+                ],
+                [
+                  3,
+                  "2025-11-19T04:10:07.800189"
+                ],
+                [
+                  3,
+                  "2025-11-19T04:10:23.841470"
+                ],
+                [
+                  3,
+                  "2025-11-19T04:12:11.834010"
+                ],
+                [
+                  3,
+                  "2025-11-19T04:21:21.367011"
+                ],
+                [
+                  3,
+                  "2025-11-19T04:21:58.507367"
+                ],
+                [
+                  3,
+                  "2025-11-19T04:22:52.605749"
+                ],
+                [
+                  3,
+                  "2025-11-19T04:24:25.894943"
+                ]
+              ],
+              "created_utc": 1763543947.0,
+              "depth": 2,
+              "permalink": "/r/singularity/comments/1p10h7i/has_anyone_tried_antigravity_by_google_thoughts/npn52ie/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "npmyggq",
+          "parent_id": "t1_npmw137",
+          "author": "Mountain_Ad_8400",
+          "text_history": [
+            [
+              "You mean just like cursor then…",
+              "2025-11-19T03:50:44.040030"
+            ]
+          ],
+          "score_history": [
+            [
+              2,
+              "2025-11-19T03:50:44.040030"
+            ],
+            [
+              2,
+              "2025-11-19T03:59:42.334324"
+            ],
+            [
+              2,
+              "2025-11-19T04:01:45.107292"
+            ],
+            [
+              2,
+              "2025-11-19T04:03:03.209257"
+            ],
+            [
+              2,
+              "2025-11-19T04:10:07.800189"
+            ],
+            [
+              2,
+              "2025-11-19T04:10:23.841470"
+            ],
+            [
+              2,
+              "2025-11-19T04:12:11.834010"
+            ],
+            [
+              2,
+              "2025-11-19T04:21:21.367011"
+            ],
+            [
+              2,
+              "2025-11-19T04:21:58.507367"
+            ],
+            [
+              2,
+              "2025-11-19T04:22:52.605749"
+            ],
+            [
+              2,
+              "2025-11-19T04:24:25.894943"
+            ]
+          ],
+          "created_utc": 1763539781.0,
+          "depth": 1,
+          "permalink": "/r/singularity/comments/1p10h7i/has_anyone_tried_antigravity_by_google_thoughts/npmyggq/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T04:24:25.894943",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/singularity/comments/1p10h7i/has_anyone_tried_antigravity_by_google_thoughts/",
+    "total_comments": 49,
+    "top_level_comments": 19,
+    "api_requests": 1,
+    "expected_comments": 53,
+    "coverage_percent": 92.45,
+    "merged_snapshot_count": 11,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_035043.json",
+      "scrape_002_20251119_035941.json",
+      "scrape_003_20251119_040144.json",
+      "scrape_004_20251119_040302.json",
+      "scrape_005_20251119_041007.json",
+      "scrape_006_20251119_041023.json",
+      "scrape_007_20251119_041211.json",
+      "scrape_008_20251119_042120.json",
+      "scrape_009_20251119_042158.json",
+      "scrape_010_20251119_042252.json",
+      "scrape_011_20251119_042425.json"
+    ]
+  }
+}

@@ -1,0 +1,414 @@
+{
+  "post": {
+    "id": "1p0a8wu",
+    "title": "Discussion - Did vector databases live up to the hype?",
+    "author": "Creepy-Row970",
+    "score_history": [
+      [
+        1,
+        "2025-11-18T13:49:50.992699"
+      ],
+      [
+        2,
+        "2025-11-18T14:00:56.005267"
+      ],
+      [
+        2,
+        "2025-11-18T14:12:16.375723"
+      ],
+      [
+        5,
+        "2025-11-18T21:49:49.834023"
+      ],
+      [
+        5,
+        "2025-11-18T23:33:17.440969"
+      ],
+      [
+        4,
+        "2025-11-19T01:18:40.256890"
+      ]
+    ],
+    "created_utc": 1763467739.0,
+    "num_comments": 8,
+    "subreddit": "LangChain",
+    "url": "https://venturebeat.com/ai/from-shiny-object-to-sober-reality-the-vector-database-story-two-years-later",
+    "selftext": "Curious to know more from the audience about your opinions regarding this article. I definitely agree that vector databases these days alone might not be 100% useful, especially as we are moving towards agentic / graph approaches but there a lot of niche use-cases where a simple vector search is enough - like image / audio embeddings are still use-ful. Companies needing a basic RAG support is still a very viable use-case for a pure vector search.\n\n  \n",
+    "permalink": "/r/LangChain/comments/1p0a8wu/discussion_did_vector_databases_live_up_to_the/"
+  },
+  "comments": [
+    {
+      "id": "nphrs26",
+      "parent_id": "t3_1p0a8wu",
+      "author": "TheExodu5",
+      "text_history": [
+        [
+          "Yes they are nearly a requirement for dealing with large amounts of data, as they provide some level of inexpensive semantic search. If your data set is small and you have access to frontier models, vector databases are just a cost optimization. But for larger data sets they’re very useful for staying within a small context window.",
+          "2025-11-18T13:49:50.992699"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T13:49:50.992699"
+        ],
+        [
+          1,
+          "2025-11-18T14:00:56.005267"
+        ],
+        [
+          1,
+          "2025-11-18T14:12:16.375723"
+        ],
+        [
+          1,
+          "2025-11-18T21:49:49.834023"
+        ],
+        [
+          1,
+          "2025-11-18T23:33:17.440969"
+        ],
+        [
+          2,
+          "2025-11-19T01:18:40.256890"
+        ]
+      ],
+      "created_utc": 1763474348.0,
+      "depth": 0,
+      "permalink": "/r/LangChain/comments/1p0a8wu/discussion_did_vector_databases_live_up_to_the/nphrs26/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npm4hz2",
+      "parent_id": "t3_1p0a8wu",
+      "author": "tifa_cloud0",
+      "text_history": [
+        [
+          "yes and they are much quicker too",
+          "2025-11-18T21:49:49.834023"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T21:49:49.834023"
+        ],
+        [
+          1,
+          "2025-11-18T23:33:17.440969"
+        ],
+        [
+          1,
+          "2025-11-19T01:18:40.256890"
+        ]
+      ],
+      "created_utc": 1763524510.0,
+      "depth": 0,
+      "permalink": "/r/LangChain/comments/1p0a8wu/discussion_did_vector_databases_live_up_to_the/npm4hz2/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nphiq6r",
+      "parent_id": "t3_1p0a8wu",
+      "author": "RGBKnights",
+      "text_history": [
+        [
+          "\"The rise of GraphRAG underscores the larger point: Retrieval is not about any single shiny object. It’s about building **retrieval systems** — layered, hybrid, context-aware pipelines that give LLMs the right information, with the right precision, at the right time.\" - This is really nugget of insight those of us that have built RAG system know it not about just throwing all the documents in as vector database and your finished. Often RAG is a complex 2 way street of Ingestion and Retrieval.\n\nOur current information storage lager for my product relies on a complex relationship between more traditional index search, keyword search, combined with vector stores and knowledge graphs. This is also just one part of a storage layer that involves other pieces like tools to read the full documents from source links, tools for user and agent specific memories, and grounding systems for checking facts/work.\n\nSo this kind like asking did Databases live up to their hype? Give databases are everywhere powering basically ever application i would say YES but if your old enough to remember the promises of databases; they where really over hyped too...  Fast Forward and we now we have different types of specialized databases to focus on the type of work being done Relational, Document, Key/Value, Graph, and Vector. To that end its just another tool in the box to be used when need but like another other type database it dose not stand on its own.",
+          "2025-11-18T13:49:50.992699"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T13:49:50.992699"
+        ],
+        [
+          1,
+          "2025-11-18T14:00:56.005267"
+        ],
+        [
+          1,
+          "2025-11-18T14:12:16.375723"
+        ],
+        [
+          -1,
+          "2025-11-18T21:49:49.834023"
+        ],
+        [
+          -1,
+          "2025-11-18T23:33:17.440969"
+        ],
+        [
+          -1,
+          "2025-11-19T01:18:40.256890"
+        ]
+      ],
+      "created_utc": 1763471352.0,
+      "depth": 0,
+      "permalink": "/r/LangChain/comments/1p0a8wu/discussion_did_vector_databases_live_up_to_the/nphiq6r/",
+      "is_submitter": false,
+      "controversiality": 1,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "nphrbq4",
+          "parent_id": "t1_nphiq6r",
+          "author": "TheExodu5",
+          "text_history": [
+            [
+              "Can we not just copy paste LLM responses?",
+              "2025-11-18T13:49:50.992699"
+            ]
+          ],
+          "score_history": [
+            [
+              2,
+              "2025-11-18T13:49:50.992699"
+            ],
+            [
+              2,
+              "2025-11-18T14:00:56.005267"
+            ],
+            [
+              2,
+              "2025-11-18T14:12:16.375723"
+            ],
+            [
+              4,
+              "2025-11-18T21:49:49.834023"
+            ],
+            [
+              4,
+              "2025-11-18T23:33:17.440969"
+            ],
+            [
+              4,
+              "2025-11-19T01:18:40.256890"
+            ]
+          ],
+          "created_utc": 1763474205.0,
+          "depth": 1,
+          "permalink": "/r/LangChain/comments/1p0a8wu/discussion_did_vector_databases_live_up_to_the/nphrbq4/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npiieqv",
+      "parent_id": "t3_1p0a8wu",
+      "author": "chmod-77",
+      "text_history": [
+        [
+          "I stopped using vector databases because of the high monthly cost. Curious to try AWS S3 vector buckets (is that what they're called). Might be a cheaper way to (re)publish a RAG knowledgebase.",
+          "2025-11-18T13:49:50.992699"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T13:49:50.992699"
+        ],
+        [
+          1,
+          "2025-11-18T14:00:56.005267"
+        ],
+        [
+          1,
+          "2025-11-18T14:12:16.375723"
+        ],
+        [
+          1,
+          "2025-11-18T21:49:49.834023"
+        ],
+        [
+          1,
+          "2025-11-18T23:33:17.440969"
+        ],
+        [
+          0,
+          "2025-11-19T01:18:40.256890"
+        ]
+      ],
+      "created_utc": 1763482542.0,
+      "depth": 0,
+      "permalink": "/r/LangChain/comments/1p0a8wu/discussion_did_vector_databases_live_up_to_the/npiieqv/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npiqnoj",
+          "parent_id": "t1_npiieqv",
+          "author": "Relevant-Magic-Card",
+          "text_history": [
+            [
+              "Pgvector has a reasonable cost",
+              "2025-11-18T13:49:50.992699"
+            ]
+          ],
+          "score_history": [
+            [
+              2,
+              "2025-11-18T13:49:50.992699"
+            ],
+            [
+              2,
+              "2025-11-18T14:00:56.005267"
+            ],
+            [
+              2,
+              "2025-11-18T14:12:16.375723"
+            ],
+            [
+              2,
+              "2025-11-18T21:49:49.834023"
+            ],
+            [
+              2,
+              "2025-11-18T23:33:17.440969"
+            ],
+            [
+              2,
+              "2025-11-19T01:18:40.256890"
+            ]
+          ],
+          "created_utc": 1763484945.0,
+          "depth": 1,
+          "permalink": "/r/LangChain/comments/1p0a8wu/discussion_did_vector_databases_live_up_to_the/npiqnoj/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        },
+        {
+          "id": "npmh28o",
+          "parent_id": "t1_npiieqv",
+          "author": "mamaBiskothu",
+          "text_history": [
+            [
+              "Docker pull marqo and run it",
+              "2025-11-18T21:49:49.834023"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T21:49:49.834023"
+            ],
+            [
+              1,
+              "2025-11-18T23:33:17.440969"
+            ],
+            [
+              2,
+              "2025-11-19T01:18:40.256890"
+            ]
+          ],
+          "created_utc": 1763530116.0,
+          "depth": 1,
+          "permalink": "/r/LangChain/comments/1p0a8wu/discussion_did_vector_databases_live_up_to_the/npmh28o/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        },
+        {
+          "id": "npjeq1v",
+          "parent_id": "t1_npiieqv",
+          "author": "kkingsbe",
+          "text_history": [
+            [
+              "You can run pgvector locally for free lol",
+              "2025-11-18T13:49:50.992699"
+            ]
+          ],
+          "score_history": [
+            [
+              0,
+              "2025-11-18T13:49:50.992699"
+            ],
+            [
+              0,
+              "2025-11-18T14:00:56.005267"
+            ],
+            [
+              0,
+              "2025-11-18T14:12:16.375723"
+            ],
+            [
+              0,
+              "2025-11-18T21:49:49.834023"
+            ],
+            [
+              0,
+              "2025-11-18T23:33:17.440969"
+            ],
+            [
+              1,
+              "2025-11-19T01:18:40.256890"
+            ]
+          ],
+          "created_utc": 1763491941.0,
+          "depth": 1,
+          "permalink": "/r/LangChain/comments/1p0a8wu/discussion_did_vector_databases_live_up_to_the/npjeq1v/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T01:18:40.256890",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/LangChain/comments/1p0a8wu/discussion_did_vector_databases_live_up_to_the/",
+    "total_comments": 8,
+    "top_level_comments": 4,
+    "api_requests": 1,
+    "expected_comments": 8,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 6,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_134950.json",
+      "scrape_002_20251118_140055.json",
+      "scrape_003_20251118_141216.json",
+      "scrape_004_20251118_214949.json",
+      "scrape_005_20251118_233317.json",
+      "scrape_006_20251119_011839.json"
+    ]
+  }
+}

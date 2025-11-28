@@ -1,0 +1,44 @@
+{
+  "post": {
+    "id": "qdhh6m",
+    "title": "Reduced false positives in autism screening via digital biomarkers",
+    "author": "Longjumping_Can_5692",
+    "score_history": [
+      [
+        2,
+        "2025-11-19T03:41:44.713650"
+      ],
+      [
+        2,
+        "2025-11-19T03:47:25.752376"
+      ],
+      [
+        2,
+        "2025-11-19T03:48:58.018643"
+      ]
+    ],
+    "created_utc": 1634910970.0,
+    "num_comments": 0,
+    "subreddit": "HealthAI",
+    "url": "https://www.reddit.com/r/HealthAI/comments/qdhh6m/reduced_false_positives_in_autism_screening_via/",
+    "selftext": "Researchers at the University of Chicago have developed a novel AI approach that can reliably predict an eventual diagnosis of autism spectrum disorder (ASD) in young children, without the need for additional blood work or procedures, using only diagnostic codes from past doctor’s visits. The new approach reportedly reduces the number of false positive ASD diagnoses produced by traditional screening methods by half.\n\nhttps://preview.redd.it/zlkuilehc0v71.png?width=8344&amp;format=png&amp;auto=webp&amp;s=1d8c4e0f8eedc45bdb3dfadffaf5e7996e54a290\n\n[https://www.science.org/cms/10.1126/sciadv.abf0354/asset/db603783-e243-4354-bfe6-a535efa1fba8/assets/images/large/sciadv.abf0354-f1.jpg](https://www.science.org/cms/10.1126/sciadv.abf0354/asset/db603783-e243-4354-bfe6-a535efa1fba8/assets/images/large/sciadv.abf0354-f1.jpg)\n\nLink to paper: [https://www.science.org/doi/10.1126/sciadv.abf0354](https://www.science.org/doi/10.1126/sciadv.abf0354)",
+    "permalink": "/r/HealthAI/comments/qdhh6m/reduced_false_positives_in_autism_screening_via/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:48:58.018643",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/HealthAI/comments/qdhh6m/reduced_false_positives_in_autism_screening_via/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_034144.json",
+      "scrape_002_20251119_034725.json",
+      "scrape_003_20251119_034857.json"
+    ]
+  }
+}

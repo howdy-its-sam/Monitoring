@@ -1,0 +1,220 @@
+{
+  "post": {
+    "id": "1oyh9bb",
+    "title": "What NLP approaches work best for detecting \"aha moments\" in conversational audio?",
+    "author": "Low-Product5028",
+    "score_history": [
+      [
+        34,
+        "2025-11-18T14:23:18.230574"
+      ],
+      [
+        31,
+        "2025-11-18T14:33:09.421803"
+      ],
+      [
+        32,
+        "2025-11-18T14:43:11.109317"
+      ]
+    ],
+    "created_utc": 1763284653.0,
+    "num_comments": 10,
+    "subreddit": "LanguageTechnology",
+    "url": "https://www.reddit.com/r/LanguageTechnology/comments/1oyh9bb/what_nlp_approaches_work_best_for_detecting_aha/",
+    "selftext": "Working on automatically identifying breakthrough moments in meeting transcripts. The challenge is flagging when conversations shift to meaningful insights, not just excitement or emphasis.\n\nCurrent approach combines prosodic features (pace changes, emphasis), lexical markers (\"wait\", \"actually\", \"I think I see\"), and contextual shifts through sentence embeddings.\n\nEarly observations:\n\nTransformers capture contextual shifts better than traditional NLP\n\nAudio + text analysis beats text-only approaches\n\nFalse positives from excitement that isn't actually insightful\n\nDomain adaptation helps but generalization is tricky\n\nI’ve been experimenting with this on real-world meetings using tools like TicNote, Plaud, and a few other AI transcription/summary platforms. They’re helpful for generating initial labels and testing models, but refining detection still requires careful feature engineering.\n\nParticularly interested in approaches for multi-speaker scenarios and real-time processing constraints.\n\nAnyone worked on similar insight detection problems? What model architectures have you found effective for identifying semantically significant moments in conversational data?",
+    "permalink": "/r/LanguageTechnology/comments/1oyh9bb/what_nlp_approaches_work_best_for_detecting_aha/"
+  },
+  "comments": [
+    {
+      "id": "np4j1sy",
+      "parent_id": "t3_1oyh9bb",
+      "author": "ganzzahl",
+      "text_history": [
+        [
+          "What makes you think these moments occur in meetings? I'm not sure I've ever had one occur in a meeting",
+          "2025-11-18T14:23:18.230574"
+        ]
+      ],
+      "score_history": [
+        [
+          7,
+          "2025-11-18T14:23:18.230574"
+        ],
+        [
+          7,
+          "2025-11-18T14:33:09.421803"
+        ],
+        [
+          8,
+          "2025-11-18T14:43:11.109317"
+        ]
+      ],
+      "created_utc": 1763288604.0,
+      "depth": 0,
+      "permalink": "/r/LanguageTechnology/comments/1oyh9bb/what_nlp_approaches_work_best_for_detecting_aha/np4j1sy/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npbiocv",
+      "parent_id": "t3_1oyh9bb",
+      "author": "BookwormSarah1",
+      "text_history": [
+        [
+          "If you crack real-time insight detection reliably, a *lot* of teams will want that, huge productivity use",
+          "2025-11-18T14:23:18.230574"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:23:18.230574"
+        ],
+        [
+          1,
+          "2025-11-18T14:33:09.421803"
+        ],
+        [
+          1,
+          "2025-11-18T14:43:11.109317"
+        ]
+      ],
+      "created_utc": 1763389171.0,
+      "depth": 0,
+      "permalink": "/r/LanguageTechnology/comments/1oyh9bb/what_nlp_approaches_work_best_for_detecting_aha/npbiocv/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nph2po7",
+      "parent_id": "t3_1oyh9bb",
+      "author": "Comfortablefo",
+      "text_history": [
+        [
+          "Honestly, human-labelled “breakthrough” moments are so subjective that building a clean dataset is half the battle.",
+          "2025-11-18T14:23:18.230574"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:23:18.230574"
+        ],
+        [
+          1,
+          "2025-11-18T14:33:09.421803"
+        ],
+        [
+          1,
+          "2025-11-18T14:43:11.109317"
+        ]
+      ],
+      "created_utc": 1763464234.0,
+      "depth": 0,
+      "permalink": "/r/LanguageTechnology/comments/1oyh9bb/what_nlp_approaches_work_best_for_detecting_aha/nph2po7/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nph362n",
+      "parent_id": "t3_1oyh9bb",
+      "author": "FewAtmospher",
+      "text_history": [
+        [
+          "If you crack real-time insight detection reliably, a *lot* of teams will want that — huge productivity use",
+          "2025-11-18T14:23:18.230574"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:23:18.230574"
+        ],
+        [
+          1,
+          "2025-11-18T14:33:09.421803"
+        ],
+        [
+          1,
+          "2025-11-18T14:43:11.109317"
+        ]
+      ],
+      "created_utc": 1763464488.0,
+      "depth": 0,
+      "permalink": "/r/LanguageTechnology/comments/1oyh9bb/what_nlp_approaches_work_best_for_detecting_aha/nph362n/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nph6x32",
+      "parent_id": "t3_1oyh9bb",
+      "author": "MuffinPrimar",
+      "text_history": [
+        [
+          "Okay, I might have to grab a TicNote now, sounds way more useful than I thought.",
+          "2025-11-18T14:23:18.230574"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:23:18.230574"
+        ],
+        [
+          1,
+          "2025-11-18T14:33:09.421803"
+        ],
+        [
+          1,
+          "2025-11-18T14:43:11.109317"
+        ]
+      ],
+      "created_utc": 1763466430.0,
+      "depth": 0,
+      "permalink": "/r/LanguageTechnology/comments/1oyh9bb/what_nlp_approaches_work_best_for_detecting_aha/nph6x32/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-18T14:43:11.109317",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/LanguageTechnology/comments/1oyh9bb/what_nlp_approaches_work_best_for_detecting_aha/",
+    "total_comments": 5,
+    "top_level_comments": 5,
+    "api_requests": 1,
+    "expected_comments": 10,
+    "coverage_percent": 50.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_142318.json",
+      "scrape_002_20251118_143309.json",
+      "scrape_003_20251118_144310.json"
+    ]
+  }
+}

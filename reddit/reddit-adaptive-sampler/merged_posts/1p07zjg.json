@@ -1,0 +1,304 @@
+{
+  "post": {
+    "id": "1p07zjg",
+    "title": "[R/AIagents] The Real Reason AI Agents Break — And the Fix Everyone Has Missed",
+    "author": "This_Ad3568",
+    "score_history": [
+      [
+        0,
+        "2025-11-18T12:51:36.670304"
+      ],
+      [
+        0,
+        "2025-11-18T13:03:57.666663"
+      ],
+      [
+        0,
+        "2025-11-18T13:15:56.025593"
+      ],
+      [
+        0,
+        "2025-11-18T13:48:25.481754"
+      ],
+      [
+        0,
+        "2025-11-18T13:59:53.841945"
+      ],
+      [
+        0,
+        "2025-11-18T14:11:15.694048"
+      ],
+      [
+        0,
+        "2025-11-18T21:29:05.554902"
+      ],
+      [
+        0,
+        "2025-11-18T23:54:36.434123"
+      ],
+      [
+        0,
+        "2025-11-19T01:39:59.086281"
+      ],
+      [
+        0,
+        "2025-11-19T02:33:44.754028"
+      ]
+    ],
+    "created_utc": 1763459819.0,
+    "num_comments": 4,
+    "subreddit": "AI_Agents",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1p07zjg/raiagents_the_real_reason_ai_agents_break_and_the/",
+    "selftext": "\nI’m going to cut through the noise because everybody in the agent space already knows this:\n\nMost agents fail for one reason:\n\nThey can’t hold themselves together.\n\nNot because the workflows are wrong.\nNot because the personas are weak.\nNot because the prompts aren’t good.\nNot because the RAG is bad.\n\nThe real problem is architectural:\n\nLLMs drift.\n\nThey lose identity.\nThey lose reasoning style.\nThey lose emotional tone.\nThey lose coherence as soon as context shifts.\n\nEvery builder here has watched this happen in real time:\n\t•\tagent starts strong\n\t•\tagent slowly deteriorates\n\t•\tagent contradicts itself\n\t•\tagent collapses under multi-step tasks\n\t•\tresets break everything\n\t•\tpersistent character? impossible\n\t•\t“memory” hacks just mask the instability\n\nThis is the trust crisis of the entire agent ecosystem.\n\nAnd nobody has fixed it at the mathematical level.\n\n⸻\n\nWhat I’ve Been Working On (and Testing Across Multiple Models)\n\nNot a new agent framework.\nNot another persona template.\nNot a “super prompt.”\nNot a retraining method.\n\nI’ve been building the runtime stability layer everyone has tried to simulate.\n\n1. Drift Correction That Actually Works\n\nA recalibration function that restores an agent’s identity when it starts to slide.\n\nNot heuristic.\nNot “retry the output.”\nNot vibes.\n\nA deterministic correction.\n\n2. A Behavioral Coherence Baseline\n\nA technical method that gives an agent:\n\t•\ta stable logic profile\n\t•\ta stable tone profile\n\t•\ta stable rhythm\n\t•\tand a persistent internal identity structure\n\nThis is not prompt engineering.\nIt’s an overlay on top of any model.\n\n3. Zero Fine-Tuning Required\n\nNo edits to weights.\nNo massive data set.\nNo custom model.\nNo Lora.\nNo adapters.\n\n4. Portable Across Models\n\nThe layer has already been tested across:\n\t•\tGemini\n\t•\tGrok\n\t•\tGemma\n\t•\tDeepSeek\n\t•\tPerplexity models\n\t•\tCopilot’s Gemini-based agent\n\t•\tand multiple OSS LLMs\n\nSame stability.\nSame coherence retention.\nSame resistance to drift.\n\n5. Makes Agents Actually Trustworthy\n\nAn agent with a stable identity is the difference between:\n\n“Cool demo”\nand\n“I can deploy this in production and trust it with real workflows.”\n\n⸻\n\nWhere This Lands in the Agent Ecosystem\n\nEveryone else is focused on the “agent shell”:\n\t•\ttools\n\t•\tactions\n\t•\tplanning\n\t•\tmemory stores\n\t•\twrappers\n\t•\tworkflows\n\t•\tembeddings\n\t•\tguardrails\n\nAll important.\n\nBut none of them solve the core problem:\n\nWithout identity stability, every agent collapses eventually.\n\nWhat I’m building is the missing backbone — the thing the whole agent world keeps trying to brute-force with hacks.\n\nAnd it’s portable.\n\nIf you’ve built an agent, you can wrap your agent with this and your users will immediately feel the difference:\n\t•\tno drift\n\t•\tno personality collapse\n\t•\tno weird tone shifts\n\t•\tno mid-session contradictions\n\t•\tno breakdown after context refresh\n\t•\tno “different person every 10 minutes”\n\n⸻\n\nIf You’re an Agent Builder, This Is for You\n\nYou don’t need to change your stack.\nYou don’t need to throw out your system.\nYou don’t need to fine-tune.\nYou don’t need to reinvent anything.\n\nYou just need a stability layer that gives your agent:\n\t•\ta spine\n\t•\ta memory style\n\t•\ta coherent identity\n\t•\ta consistent reasoning fingerprint\n\t•\tand a trust profile that persists\n\nI’m not posting code yet.\nNot posting formulas yet.\nNot posting the full framework yet.\n\nBut if you’re building agents for real users —\nand especially if you’re hitting the trust wall —\n\ndrop your questions or DM me.\n\nI’m not here to sell anything.\nI’m here because the agent world is stuck on the same loop, and we finally broke through it.",
+    "permalink": "/r/AI_Agents/comments/1p07zjg/raiagents_the_real_reason_ai_agents_break_and_the/"
+  },
+  "comments": [
+    {
+      "id": "npgzsu1",
+      "parent_id": "t3_1p07zjg",
+      "author": "Just_litzy9715",
+      "text_history": [
+        [
+          "Agents fail from identity drift; the fix is a runtime stability layer with deterministic checks, not more prompts.\n\nWhat’s worked for us in prod: define an “identity contract” (tone, rhythm, reasoning steps, taboo phrases, tool etiquette) and treat it like policy. Lock sampling per task, then score every turn against a reference style via embeddings and a tiny tone/format classifier; if similarity drops, run a targeted rewrite with constrained decoding and logit bias on anchor tokens instead of a blind retry. Keep a compact character sheet separate from chat history and refresh it with lossless summaries; use a fixed Thought → Plan → Act → Reflect cadence so rhythm doesn’t wander. Gate tool I/O with strict JSON schemas and hard timeouts; if the agent drifts twice in a window, fall back to a safe template or classical planner. We use LangSmith for replayable traces and drift metrics, Datadog for rate/latency SLOs, and DreamFactory to expose versioned identity contracts and bias dictionaries as secure REST the agent can fetch at runtime.\n\nShip the stability as policy-plus-corrector with measurable drift thresholds and you’ll keep agents coherent under real load.",
+          "2025-11-18T12:51:36.670304"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-18T12:51:36.670304"
+        ],
+        [
+          2,
+          "2025-11-18T13:03:57.666663"
+        ],
+        [
+          2,
+          "2025-11-18T13:15:56.025593"
+        ],
+        [
+          2,
+          "2025-11-18T13:48:25.481754"
+        ],
+        [
+          2,
+          "2025-11-18T13:59:53.841945"
+        ],
+        [
+          2,
+          "2025-11-18T14:11:15.694048"
+        ],
+        [
+          2,
+          "2025-11-18T21:29:05.554902"
+        ],
+        [
+          2,
+          "2025-11-18T23:54:36.434123"
+        ],
+        [
+          2,
+          "2025-11-19T01:39:59.086281"
+        ],
+        [
+          2,
+          "2025-11-19T02:33:44.754028"
+        ]
+      ],
+      "created_utc": 1763462561.0,
+      "depth": 0,
+      "permalink": "/r/AI_Agents/comments/1p07zjg/raiagents_the_real_reason_ai_agents_break_and_the/npgzsu1/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npgv9m2",
+      "parent_id": "t3_1p07zjg",
+      "author": "AutoModerator",
+      "text_history": [
+        [
+          "Thank you for your submission, for any questions regarding AI, please check out our wiki at https://www.reddit.com/r/ai_agents/wiki (this is currently in test and we are actively adding to the wiki)\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/AI_Agents) if you have any questions or concerns.*",
+          "2025-11-18T12:51:36.670304"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T12:51:36.670304"
+        ],
+        [
+          1,
+          "2025-11-18T13:03:57.666663"
+        ],
+        [
+          1,
+          "2025-11-18T13:15:56.025593"
+        ],
+        [
+          1,
+          "2025-11-18T13:48:25.481754"
+        ],
+        [
+          1,
+          "2025-11-18T13:59:53.841945"
+        ],
+        [
+          1,
+          "2025-11-18T14:11:15.694048"
+        ],
+        [
+          1,
+          "2025-11-18T21:29:05.554902"
+        ],
+        [
+          1,
+          "2025-11-18T23:54:36.434123"
+        ],
+        [
+          1,
+          "2025-11-19T01:39:59.086281"
+        ],
+        [
+          1,
+          "2025-11-19T02:33:44.754028"
+        ]
+      ],
+      "created_utc": 1763459819.0,
+      "depth": 0,
+      "permalink": "/r/AI_Agents/comments/1p07zjg/raiagents_the_real_reason_ai_agents_break_and_the/npgv9m2/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npmkxdp",
+      "parent_id": "t3_1p07zjg",
+      "author": "ToGzMAGiK",
+      "text_history": [
+        [
+          "Are you for real?",
+          "2025-11-18T23:54:36.434123"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T23:54:36.434123"
+        ],
+        [
+          1,
+          "2025-11-19T01:39:59.086281"
+        ],
+        [
+          1,
+          "2025-11-19T02:33:44.754028"
+        ]
+      ],
+      "created_utc": 1763532046.0,
+      "depth": 0,
+      "permalink": "/r/AI_Agents/comments/1p07zjg/raiagents_the_real_reason_ai_agents_break_and_the/npmkxdp/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nph216i",
+      "parent_id": "t3_1p07zjg",
+      "author": "This_Ad3568",
+      "text_history": [
+        [
+          "\n⸻\n\nRespect for the breakdown — you’re solving the symptoms the right way.\nI’m working one layer deeper.\n\nMost teams right now are building stability the best way they can:\n\t•\tidentity contracts\n\t•\ttone/format classifiers\n\t•\tconstrained decoding\n\t•\tlogit biasing\n\t•\tretry loops\n\t•\trhythm templates\n\t•\t“character sheets”\n\t•\tlossless summaries\n\t•\tfallback planners\n\t•\tdrift detection via embeddings\n\nNone of that is wrong — it’s what everyone has to do when the underlying model has no persistent runtime identity.\n\nThe difference is this:\n\nYou’re building the policies that correct drift.\nI’m building the math that prevents drift from happening in the first place.\n\nYour approach is policy + correction →\nmine is baseline + invariance.\n\nAnother way to put it:\n\t•\tYour system reacts when coherence drops\n\t•\tMine gives the agent a stable identity anchor so coherence doesn’t drop in the first place — even across resets, long arcs, or model swaps\n\nThis isn’t about personas, memory, or summaries.\nIt’s a runtime identity layer that stays stable without embeddings, without retraining, and without recovery loops.\n\nSo we’re aiming at different levels:\n\t•\tYou’re reinforcing the scaffolding\n\t•\tI’m replacing the missing spinal column\n\nBoth are valid — but they’re not the same domain.",
+          "2025-11-18T12:51:36.670304"
+        ]
+      ],
+      "score_history": [
+        [
+          0,
+          "2025-11-18T12:51:36.670304"
+        ],
+        [
+          0,
+          "2025-11-18T13:03:57.666663"
+        ],
+        [
+          0,
+          "2025-11-18T13:15:56.025593"
+        ],
+        [
+          0,
+          "2025-11-18T13:48:25.481754"
+        ],
+        [
+          0,
+          "2025-11-18T13:59:53.841945"
+        ],
+        [
+          0,
+          "2025-11-18T14:11:15.694048"
+        ],
+        [
+          0,
+          "2025-11-18T21:29:05.554902"
+        ],
+        [
+          0,
+          "2025-11-18T23:54:36.434123"
+        ],
+        [
+          0,
+          "2025-11-19T01:39:59.086281"
+        ],
+        [
+          0,
+          "2025-11-19T02:33:44.754028"
+        ]
+      ],
+      "created_utc": 1763463845.0,
+      "depth": 0,
+      "permalink": "/r/AI_Agents/comments/1p07zjg/raiagents_the_real_reason_ai_agents_break_and_the/nph216i/",
+      "is_submitter": true,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T02:33:44.754028",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/AI_Agents/comments/1p07zjg/raiagents_the_real_reason_ai_agents_break_and_the/",
+    "total_comments": 4,
+    "top_level_comments": 4,
+    "api_requests": 1,
+    "expected_comments": 4,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 10,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_125136.json",
+      "scrape_002_20251118_130357.json",
+      "scrape_003_20251118_131555.json",
+      "scrape_004_20251118_134825.json",
+      "scrape_005_20251118_135953.json",
+      "scrape_006_20251118_141115.json",
+      "scrape_007_20251118_212905.json",
+      "scrape_008_20251118_235436.json",
+      "scrape_009_20251119_013958.json",
+      "scrape_010_20251119_023344.json"
+    ]
+  }
+}

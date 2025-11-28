@@ -1,0 +1,129 @@
+{
+  "post": {
+    "id": "1p18nvn",
+    "title": "Vaping Is ‘Everywhere’ in Schools—Sparking a Bathroom Surveillance Boom",
+    "author": "PuppetMasterJC",
+    "score_history": [
+      [
+        1,
+        "2025-11-19T06:11:20.727797"
+      ],
+      [
+        1,
+        "2025-11-19T06:11:20.999555"
+      ],
+      [
+        1,
+        "2025-11-19T06:11:21.252951"
+      ],
+      [
+        1,
+        "2025-11-19T06:11:21.470930"
+      ],
+      [
+        1,
+        "2025-11-19T06:11:21.751947"
+      ],
+      [
+        1,
+        "2025-11-19T06:11:21.986739"
+      ],
+      [
+        1,
+        "2025-11-19T06:11:22.253301"
+      ],
+      [
+        1,
+        "2025-11-19T06:11:22.463382"
+      ],
+      [
+        1,
+        "2025-11-19T06:11:22.863307"
+      ],
+      [
+        1,
+        "2025-11-19T06:11:23.093803"
+      ],
+      [
+        1,
+        "2025-11-19T06:11:23.365220"
+      ],
+      [
+        1,
+        "2025-11-19T06:11:23.610967"
+      ],
+      [
+        1,
+        "2025-11-19T06:11:23.890523"
+      ],
+      [
+        1,
+        "2025-11-19T06:11:24.143550"
+      ],
+      [
+        1,
+        "2025-11-19T06:11:24.422091"
+      ],
+      [
+        1,
+        "2025-11-19T06:11:24.637705"
+      ],
+      [
+        1,
+        "2025-11-19T06:11:24.873963"
+      ],
+      [
+        1,
+        "2025-11-19T06:11:25.081405"
+      ],
+      [
+        1,
+        "2025-11-19T06:11:25.334077"
+      ],
+      [
+        1,
+        "2025-11-19T06:11:25.553857"
+      ]
+    ],
+    "created_utc": 1763561386.0,
+    "num_comments": 0,
+    "subreddit": "technology",
+    "url": "https://www.wired.com/story/vaping-surveillance-school-bathrooms/",
+    "selftext": "",
+    "permalink": "/r/technology/comments/1p18nvn/vaping_is_everywhere_in_schoolssparking_a/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T06:11:25.553857",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/technology/comments/1p18nvn/vaping_is_everywhere_in_schoolssparking_a/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 20,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_061120.json",
+      "scrape_002_20251119_061120.json",
+      "scrape_003_20251119_061121.json",
+      "scrape_004_20251119_061121.json",
+      "scrape_005_20251119_061121.json",
+      "scrape_006_20251119_061121.json",
+      "scrape_007_20251119_061122.json",
+      "scrape_008_20251119_061122.json",
+      "scrape_009_20251119_061122.json",
+      "scrape_010_20251119_061122.json",
+      "scrape_011_20251119_061123.json",
+      "scrape_012_20251119_061123.json",
+      "scrape_013_20251119_061123.json",
+      "scrape_014_20251119_061123.json",
+      "scrape_015_20251119_061124.json",
+      "scrape_016_20251119_061124.json",
+      "scrape_017_20251119_061124.json",
+      "scrape_018_20251119_061124.json",
+      "scrape_019_20251119_061125.json",
+      "scrape_020_20251119_061125.json"
+    ]
+  }
+}

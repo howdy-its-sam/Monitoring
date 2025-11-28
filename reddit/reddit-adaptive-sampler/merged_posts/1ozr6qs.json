@@ -1,0 +1,54 @@
+{
+  "post": {
+    "id": "1ozr6qs",
+    "title": "Hi everyone! I’m building an AI teacher’s assistant app",
+    "author": "Background_Bid_9317",
+    "score_history": [
+      [
+        2,
+        "2025-11-18T14:22:03.467223"
+      ],
+      [
+        2,
+        "2025-11-18T14:32:04.830120"
+      ],
+      [
+        2,
+        "2025-11-18T14:42:15.435843"
+      ],
+      [
+        2,
+        "2025-11-18T22:21:52.344792"
+      ],
+      [
+        2,
+        "2025-11-19T07:22:51.136499"
+      ]
+    ],
+    "created_utc": 1763410904.0,
+    "num_comments": 0,
+    "subreddit": "LangChain",
+    "url": "https://www.reddit.com/r/LangChain/comments/1ozr6qs/hi_everyone_im_building_an_ai_teachers_assistant/",
+    "selftext": "Hi everyone! I’m building an AI-powered teacher’s assistant that helps educators manage student accommodations, IEPs, progress tracking, and lesson planning. I have a working MVP but need help implementing the LLM/RAG backend securely.\n\nWhat I Need Built:\nAn LLM/RAG system that can:\n\t•\tSecurely query student data (IEP goals, grades, accommodations) from my database\n\t•\tProvide context to Google AI Studio without exposing sensitive info\n\t•\tAdapt to individual teacher grading patterns over time\n\t•\tDetect student performance changes and trigger alerts\n\t•\tGenerate personalized learning recommendations\nRequirements:\n\t•\tExperience with RAG (Retrieval Augmented Generation)\n\t•\tKnowledge of vector databases and embeddings\n\t•\tUnderstanding of FERPA compliance for student data\n\t•\tExperience with Google AI Studio (or similar LLM platforms)\n\nDoes anyone have experience with something like that?",
+    "permalink": "/r/LangChain/comments/1ozr6qs/hi_everyone_im_building_an_ai_teachers_assistant/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T07:22:51.136499",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/LangChain/comments/1ozr6qs/hi_everyone_im_building_an_ai_teachers_assistant/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 5,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_142203.json",
+      "scrape_002_20251118_143204.json",
+      "scrape_003_20251118_144215.json",
+      "scrape_004_20251118_222152.json",
+      "scrape_005_20251119_072250.json"
+    ]
+  }
+}

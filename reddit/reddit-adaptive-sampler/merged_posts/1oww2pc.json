@@ -1,0 +1,44 @@
+{
+  "post": {
+    "id": "1oww2pc",
+    "title": "GPT-5.1, AI isn’t replacing jobs. AI spending is, Yann LeCun to depart Meta and many other AI-related links from Hacker News",
+    "author": "alexeestec",
+    "score_history": [
+      [
+        123,
+        "2025-11-18T14:23:33.806276"
+      ],
+      [
+        124,
+        "2025-11-18T14:33:31.479929"
+      ],
+      [
+        125,
+        "2025-11-18T14:43:36.139474"
+      ]
+    ],
+    "created_utc": 1763125839.0,
+    "num_comments": 0,
+    "subreddit": "AutoGPT",
+    "url": "https://www.reddit.com/r/AutoGPT/comments/1oww2pc/gpt51_ai_isnt_replacing_jobs_ai_spending_is_yann/",
+    "selftext": "Hey everyone, Happy Friday! I just sent issue #7 of the [Hacker News x AI newsletter](https://eomail4.com/web-version?p=f2fb8242-c13e-11f0-b0a8-93a8e7fa134f&amp;pt=campaign&amp;t=1763116069&amp;s=66758267f15d572d040a327e050040163874c004c8fc24d735873b6b4677d8bc) \\- a weekly roundup of the best AI links and the discussions around them from Hacker News. See below some of the news (AI-generated description):\n\n*I also created a dedicated subreddit where I will post daily content from Hacker News. Join here:* [***https://www.reddit.com/r/HackerNewsAI/***](https://www.reddit.com/r/HackerNewsAI/)\n\n* **GPT-5.1: A smarter, more conversational ChatGPT** \\- A big new update to ChatGPT, with improvements in reasoning, coding, and how naturally it holds conversations. Lots of people are testing it to see what actually changed.\n* **Yann LeCun to depart Meta and launch AI startup focused on “world models”** \\- One of the most influential AI researchers is leaving Big Tech to build his own vision of next-generation AI. Huge move with big implications for the field.\n* **Hard drives on backorder for two years as AI data centers trigger HDD shortage** \\- AI demand is so massive that it’s straining supply chains. Data centers are buying drives faster than manufacturers can produce them, causing multi-year backorders.\n* **How Much OpenAI Spends on Inference and Its Revenue Share with Microsoft** \\- A breakdown of how much it actually costs OpenAI to run its models — and how the economics work behind the scenes with Microsoft’s infrastructure.\n* **AI isn’t replacing jobs. AI spending is** \\- An interesting take arguing that layoffs aren’t caused by AI automation yet, but by companies reallocating budgets toward AI projects and infrastructure.\n\nIf you want to receive the next issues, subscribe [here](https://hnxai.eo.page/9h7q4).",
+    "permalink": "/r/AutoGPT/comments/1oww2pc/gpt51_ai_isnt_replacing_jobs_ai_spending_is_yann/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-18T14:43:36.139474",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/AutoGPT/comments/1oww2pc/gpt51_ai_isnt_replacing_jobs_ai_spending_is_yann/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_142332.json",
+      "scrape_002_20251118_143331.json",
+      "scrape_003_20251118_144335.json"
+    ]
+  }
+}

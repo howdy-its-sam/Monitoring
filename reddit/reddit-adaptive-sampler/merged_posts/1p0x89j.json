@@ -1,0 +1,80 @@
+{
+  "post": {
+    "id": "1p0x89j",
+    "title": "CPU selection for IsaacLab simulation + policy training(9800X3D vs 9900X)",
+    "author": "tezcatlipoca314",
+    "score_history": [
+      [
+        6,
+        "2025-11-19T03:30:56.118127"
+      ],
+      [
+        5,
+        "2025-11-19T03:37:42.316491"
+      ],
+      [
+        4,
+        "2025-11-19T03:39:16.420769"
+      ]
+    ],
+    "created_utc": 1763524075.0,
+    "num_comments": 1,
+    "subreddit": "robotics",
+    "url": "https://www.reddit.com/r/robotics/comments/1p0x89j/cpu_selection_for_isaaclab_simulation_policy/",
+    "selftext": "\nI’m focused on robotic manipulation research, mainly end-to-end visuomotor policies, VLA model fine-tuning, and RL training. I’m building a personal workstation for IsaacLab simulation, with some MuJoCo, plus PyTorch/JAX training.\n\nI already have an RTX 5090 FE, but I’m stuck between these two CPUs:\n\t•\tRyzen 7 9800X3D – 8 cores, large 3D V-cache. Some people claim it improves simulation performance because of cache-heavy workloads.\n\t•\tRyzen 9 9900X – 12 cores, cheaper, and more threads, but no 3D V-cache.\n\nMy workload is purely robotics (no gaming):\n\t•\tIsaacLab GPU-accelerated simulation\n\t•\tMulti-environment RL training\n\t•\tPyTorch / JAX model fine-tuning\n\t•\tOccasional MuJoCo\n\nGiven this type of GPU-heavy, CPU-parallel workflow, which CPU would be the better pick?\n\nAny guidance is appreciated!\n",
+    "permalink": "/r/robotics/comments/1p0x89j/cpu_selection_for_isaaclab_simulation_policy/"
+  },
+  "comments": [
+    {
+      "id": "npng697",
+      "parent_id": "t3_1p0x89j",
+      "author": "Keljian52",
+      "text_history": [
+        [
+          "9950x, more cores. Sometimes drops to the price of the 9800x3d",
+          "2025-11-19T03:30:56.118127"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T03:30:56.118127"
+        ],
+        [
+          1,
+          "2025-11-19T03:37:42.316491"
+        ],
+        [
+          1,
+          "2025-11-19T03:39:16.420769"
+        ]
+      ],
+      "created_utc": 1763550608.0,
+      "depth": 0,
+      "permalink": "/r/robotics/comments/1p0x89j/cpu_selection_for_isaaclab_simulation_policy/npng697/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:39:16.420769",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/robotics/comments/1p0x89j/cpu_selection_for_isaaclab_simulation_policy/",
+    "total_comments": 1,
+    "top_level_comments": 1,
+    "api_requests": 1,
+    "expected_comments": 1,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_033055.json",
+      "scrape_002_20251119_033742.json",
+      "scrape_003_20251119_033916.json"
+    ]
+  }
+}

@@ -1,0 +1,243 @@
+{
+  "post": {
+    "id": "1p021d1",
+    "title": "Turn your code into an editable wiki, 100% open source",
+    "author": "Life-Gur-1627",
+    "score_history": [
+      [
+        14,
+        "2025-11-18T15:16:41.412184"
+      ],
+      [
+        18,
+        "2025-11-18T23:03:41.973365"
+      ],
+      [
+        16,
+        "2025-11-19T00:47:50.570823"
+      ],
+      [
+        16,
+        "2025-11-19T02:32:50.417927"
+      ]
+    ],
+    "created_utc": 1763438439.0,
+    "num_comments": 6,
+    "subreddit": "ChatGPTCoding",
+    "url": "https://i.redd.it/ui4btufuvx1g1.png",
+    "selftext": "Hey r/ChatGPTCoding ,\n\nI’m working on Davia, an open-source tool that generates an editable visual wiki from local code, complete with Notion-style pages and whiteboards.\n\nWould love your feedback or ideas!\n\nCheck it out: [https://github.com/davialabs/davia](https://github.com/davialabs/davia)",
+    "permalink": "/r/ChatGPTCoding/comments/1p021d1/turn_your_code_into_an_editable_wiki_100_open/"
+  },
+  "comments": [
+    {
+      "id": "npj55st",
+      "parent_id": "t3_1p021d1",
+      "author": "imoshudu",
+      "text_history": [
+        [
+          "You have not explained how it works, what languages are supported, and most crucially: is this automatic generation or you're just asking people to do things manually. Seriously, spend a minute writing for your work.",
+          "2025-11-18T15:16:41.412184"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T15:16:41.412184"
+        ],
+        [
+          2,
+          "2025-11-18T23:03:41.973365"
+        ],
+        [
+          2,
+          "2025-11-19T00:47:50.570823"
+        ],
+        [
+          2,
+          "2025-11-19T02:32:50.417927"
+        ]
+      ],
+      "created_utc": 1763489202.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTCoding/comments/1p021d1/turn_your_code_into_an_editable_wiki_100_open/npj55st/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npjpo5c",
+          "parent_id": "t1_npj55st",
+          "author": "coloradical5280",
+          "text_history": [
+            [
+              "Looking at the code, it seems to be an llm crawl and has no exclusions or inclusions on languages unless I’m missing something. It’s leaving it to the llm to determine A LOT, I can’t imagine this would go well in a polyglot repo, and .json files are specifically excluded as well, which I have mixed feelings about. No exclusion for package lock , just all json entirely which generally makes sense but in may cases, would be a critical oversight. \n\nEither way, agreed: OP you need to share a but more, your “clean code” is great and all but also dirs and files are so vaguely named that you really have to dig through with full recursion having no indication as to that does what, which is fine I guess, if you just explain the inner workings in the first place. \n\nLooks cool , but answer people’s questions before they have to ask them :)",
+              "2025-11-18T15:16:41.412184"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T15:16:41.412184"
+            ],
+            [
+              1,
+              "2025-11-18T23:03:41.973365"
+            ],
+            [
+              1,
+              "2025-11-19T00:47:50.570823"
+            ],
+            [
+              1,
+              "2025-11-19T02:32:50.417927"
+            ]
+          ],
+          "created_utc": 1763495199.0,
+          "depth": 1,
+          "permalink": "/r/ChatGPTCoding/comments/1p021d1/turn_your_code_into_an_editable_wiki_100_open/npjpo5c/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "nplkrnm",
+      "parent_id": "t3_1p021d1",
+      "author": "Strong-Strike2001",
+      "text_history": [
+        [
+          "That could be the commercial side. But here's an even better idea: apply this to popular open source projects and create a Wikipedia-style breakdown of how the top GitHub/GitLab projects are built. I bet a site like that would become the go-to resource for learning, completely free, with paid mentorship or coaching on the side for monetization\n\nEdit: Wow, I didn't tought I was late to the party, but my idea was already implemented by Devin DeepWiki and Google Code Wiki,\n\nBtw, you project is really good, an editable whiteboard + wiki is not common is a fresh approach, specially because its an open source project that can be executed locally and not in other person machine",
+          "2025-11-18T23:03:41.973365"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-18T23:03:41.973365"
+        ],
+        [
+          2,
+          "2025-11-19T00:47:50.570823"
+        ],
+        [
+          2,
+          "2025-11-19T02:32:50.417927"
+        ]
+      ],
+      "created_utc": 1763517225.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTCoding/comments/1p021d1/turn_your_code_into_an_editable_wiki_100_open/nplkrnm/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": 1763518078.0,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nph8zyr",
+      "parent_id": "t3_1p021d1",
+      "author": "LukasijusLT",
+      "text_history": [
+        [
+          "I like the idea. But for this particular \"problem\"  there is this called UML. It is somewhat standard among SW industry.",
+          "2025-11-18T15:16:41.412184"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T15:16:41.412184"
+        ],
+        [
+          2,
+          "2025-11-18T23:03:41.973365"
+        ],
+        [
+          2,
+          "2025-11-19T00:47:50.570823"
+        ],
+        [
+          2,
+          "2025-11-19T02:32:50.417927"
+        ]
+      ],
+      "created_utc": 1763467372.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTCoding/comments/1p021d1/turn_your_code_into_an_editable_wiki_100_open/nph8zyr/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "nphzmjo",
+          "parent_id": "t1_nph8zyr",
+          "author": "Prodigle",
+          "text_history": [
+            [
+              "Generating nice UML from code isn't though. You're either doing it manually or dealing with lots of clutter",
+              "2025-11-18T15:16:41.412184"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T15:16:41.412184"
+            ],
+            [
+              1,
+              "2025-11-18T23:03:41.973365"
+            ],
+            [
+              1,
+              "2025-11-19T00:47:50.570823"
+            ],
+            [
+              1,
+              "2025-11-19T02:32:50.417927"
+            ]
+          ],
+          "created_utc": 1763476843.0,
+          "depth": 1,
+          "permalink": "/r/ChatGPTCoding/comments/1p021d1/turn_your_code_into_an_editable_wiki_100_open/nphzmjo/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T02:32:50.417927",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/ChatGPTCoding/comments/1p021d1/turn_your_code_into_an_editable_wiki_100_open/",
+    "total_comments": 5,
+    "top_level_comments": 3,
+    "api_requests": 1,
+    "expected_comments": 6,
+    "coverage_percent": 83.33,
+    "merged_snapshot_count": 4,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_151641.json",
+      "scrape_002_20251118_230341.json",
+      "scrape_003_20251119_004750.json",
+      "scrape_004_20251119_023250.json"
+    ]
+  }
+}

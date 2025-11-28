@@ -1,0 +1,44 @@
+{
+  "post": {
+    "id": "1p0ycjg",
+    "title": "The Tokenization of Automation",
+    "author": "TheIrateProphet",
+    "score_history": [
+      [
+        0,
+        "2025-11-19T03:39:40.029731"
+      ],
+      [
+        0,
+        "2025-11-19T03:47:25.262558"
+      ],
+      [
+        0,
+        "2025-11-19T03:48:58.293207"
+      ]
+    ],
+    "created_utc": 1763527510.0,
+    "num_comments": 0,
+    "subreddit": "artificial",
+    "url": "https://medium.com/@TheIrateProphet/the-tokenization-of-automation-c73f47b4a198",
+    "selftext": "Do you honestly belive that AI is capable of making a mistake?\n\nAfter spending disgusting amounts of time with 5 different models I truly believe there are NO BUGS on features and I can prove it .\n\nWhat I'm really asking is your AI capable of making mistakes or is it designed to?",
+    "permalink": "/r/artificial/comments/1p0ycjg/the_tokenization_of_automation/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:48:58.293207",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/artificial/comments/1p0ycjg/the_tokenization_of_automation/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_033939.json",
+      "scrape_002_20251119_034725.json",
+      "scrape_003_20251119_034858.json"
+    ]
+  }
+}

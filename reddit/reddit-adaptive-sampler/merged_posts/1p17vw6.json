@@ -1,0 +1,129 @@
+{
+  "post": {
+    "id": "1p17vw6",
+    "title": "11 Types of ML Interview Questions Asked at FAANG",
+    "author": "aifordevs",
+    "score_history": [
+      [
+        1,
+        "2025-11-19T05:37:28.924183"
+      ],
+      [
+        1,
+        "2025-11-19T05:37:29.166513"
+      ],
+      [
+        1,
+        "2025-11-19T05:37:29.433717"
+      ],
+      [
+        1,
+        "2025-11-19T05:37:29.635817"
+      ],
+      [
+        1,
+        "2025-11-19T05:37:29.898485"
+      ],
+      [
+        1,
+        "2025-11-19T05:37:30.097298"
+      ],
+      [
+        1,
+        "2025-11-19T05:37:30.329300"
+      ],
+      [
+        1,
+        "2025-11-19T05:37:30.529141"
+      ],
+      [
+        1,
+        "2025-11-19T05:37:30.768401"
+      ],
+      [
+        1,
+        "2025-11-19T05:37:30.967988"
+      ],
+      [
+        1,
+        "2025-11-19T05:37:31.201361"
+      ],
+      [
+        1,
+        "2025-11-19T05:37:31.406963"
+      ],
+      [
+        1,
+        "2025-11-19T05:37:31.644671"
+      ],
+      [
+        1,
+        "2025-11-19T05:37:31.851931"
+      ],
+      [
+        1,
+        "2025-11-19T05:37:32.090982"
+      ],
+      [
+        1,
+        "2025-11-19T05:37:32.299001"
+      ],
+      [
+        1,
+        "2025-11-19T05:37:32.535075"
+      ],
+      [
+        1,
+        "2025-11-19T05:37:32.748419"
+      ],
+      [
+        1,
+        "2025-11-19T05:37:32.986754"
+      ],
+      [
+        1,
+        "2025-11-19T05:37:33.191346"
+      ]
+    ],
+    "created_utc": 1763559425.0,
+    "num_comments": 0,
+    "subreddit": "learnmachinelearning",
+    "url": "https://www.reddit.com/r/learnmachinelearning/comments/1p17vw6/11_types_of_ml_interview_questions_asked_at_faang/",
+    "selftext": "Thought it would be useful for folks preparing for FAANG ML interview questions to know what type of material to study. (Check out [https://www.trybackprop.com/blog/11\\_real\\_ml\\_interview\\_questions\\_asked\\_at\\_faang](https://www.trybackprop.com/blog/11_real_ml_interview_questions_asked_at_faang) for the full details of these categories as well as **11 real ML interview questions asked at FAANG**.)\n\nFAANG ML interview questions typically fall into these 11 categories:\n\n\\* [Search and ranking](https://www.trybackprop.com/blog/11_real_ml_interview_questions_asked_at_faang#search--ranking)\n\n* Query understanding, document retrieval, and learning-to-rank methods\n* Feature engineering for relevance, quality, and freshness\n* Indexing, latency optimization, and large-scale retrieval (billions of items)\n* Online and offline evaluation (NDCG, CTR impact, A/B tests)\n\n\\* [Integrity, safety, and content moderation](https://www.trybackprop.com/blog/11_real_ml_interview_questions_asked_at_faang#integrity-safety--content-moderation)\n\n* Classification models with high precision/recall constraints\n* Adversarial behavior and how ML systems degrade under attack\n* Real-time detection pipelines and scalability\n* Techniques to reduce false positives while still catching harmful content\n\n\\* [Content understanding and multimodal](https://www.trybackprop.com/blog/11_real_ml_interview_questions_asked_at_faang#content-understanding--multimodal)\n\n* CV architectures (CNNs, ViTs), embedding models, and feature extraction\n* Multimodal models that combine text, vision, and possibly audio\n* Scaling inference for billions of media items\n* Applications: moderation, accessibility, search, and recommendation\n\n\\* [ML infrastructure and systems](https://www.trybackprop.com/blog/11_real_ml_interview_questions_asked_at_faang#ml-infrastructure--systems)\n\n* Distributed training, GPU/TPU optimization, model serving\n* Feature stores, data pipelines, orchestration, and monitoring\n* System design interviews focused on reliability, scalability, and cost efficiency\n* Understanding latency, throughput, caching, and load balancing in ML systems\n\n\\* [Classification and prediction](https://www.trybackprop.com/blog/11_real_ml_interview_questions_asked_at_faang#classification--prediction)\n\n* Model selection (tree-based models, deep learning, logistic regression)\n* Handling imbalance, regularization, calibration, and thresholding\n* Designing experiments and choosing correct metrics\n* Real-world challenges like data drift and noisy labels\n\n\\* [Ads and monetization](https://www.trybackprop.com/blog/11_real_ml_interview_questions_asked_at_faang#ads--monetization)\n\n* CTR/CVR prediction, calibration, and uncertainty handling\n* Auction mechanics, bidding strategies, and pacing\n* Creative quality modeling and quality ranking\n* Balancing platform revenue, advertiser value, and user experience\n\n\\* [Conversational AI and LLMs](https://www.trybackprop.com/blog/11_real_ml_interview_questions_asked_at_faang#conversational-ai--llms)\n\n* LLM architectures, prompting, and fine-tuning (e.g., RLHF, preference models)\n* Retrieval-augmented generation (RAG)\n* Dialogue flow design, safety considerations, and grounding\n* Latency, cost, and reliability in large-scale LLM deployments\n\n\\* [Social and platform recommendations](https://www.trybackprop.com/blog/11_real_ml_interview_questions_asked_at_faang#social--platform-recommendations)\n\n* Graph-based features, embeddings, and social signals\n* Diversity, fairness, and avoiding echo chambers\n* Cold-start problems and personalization\n* Evaluating long-term engagement vs short-term clicks\n\n\\* [General recommendation concepts like retrieval and ranking](https://www.trybackprop.com/blog/11_real_ml_interview_questions_asked_at_faang#general-recommendation-concepts)\n\n* Retrieval → Ranking → Re-ranking pipelines\n* User modeling and embedding generation\n* Aligning offline metrics with online outcomes\n* Debugging and diagnosing recommendation failures\n* Modern paradigms like generative retrieval and LLM-based recommenders\n\n\\* [Video content recommendations](https://www.trybackprop.com/blog/11_real_ml_interview_questions_asked_at_faang#video--content-recommendations)\n\n* Sequential modeling of user behavior (RNNs, Transformers, session-based models)\n* Cold-start and content quality signals\n* Balancing user satisfaction with creator ecosystem health\n* Tradeoffs in ranking models and serving constraints\n\n\\* [Place/Location recommendations](https://www.trybackprop.com/blog/11_real_ml_interview_questions_asked_at_faang#place--location-recommendations)\n\n* Location-based features (check-ins, geo-clusters, mobility patterns)\n* Contextual and situational relevance\n* User preference modeling using sparse, noisy signals\n* Handling reviews, attributes, and availability in real time\n\n  \nHope this helps and good luck with interviewing!",
+    "permalink": "/r/learnmachinelearning/comments/1p17vw6/11_types_of_ml_interview_questions_asked_at_faang/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T05:37:33.191346",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/learnmachinelearning/comments/1p17vw6/11_types_of_ml_interview_questions_asked_at_faang/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 20,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_053728.json",
+      "scrape_002_20251119_053728.json",
+      "scrape_003_20251119_053729.json",
+      "scrape_004_20251119_053729.json",
+      "scrape_005_20251119_053729.json",
+      "scrape_006_20251119_053729.json",
+      "scrape_007_20251119_053730.json",
+      "scrape_008_20251119_053730.json",
+      "scrape_009_20251119_053730.json",
+      "scrape_010_20251119_053730.json",
+      "scrape_011_20251119_053731.json",
+      "scrape_012_20251119_053731.json",
+      "scrape_013_20251119_053731.json",
+      "scrape_014_20251119_053731.json",
+      "scrape_015_20251119_053731.json",
+      "scrape_016_20251119_053732.json",
+      "scrape_017_20251119_053732.json",
+      "scrape_018_20251119_053732.json",
+      "scrape_019_20251119_053732.json",
+      "scrape_020_20251119_053732.json"
+    ]
+  }
+}

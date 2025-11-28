@@ -1,0 +1,273 @@
+{
+  "post": {
+    "id": "1p0hvhw",
+    "title": "AI may already pose more harm than good in the e-commerce sector.",
+    "author": "MarketingNetMind",
+    "score_history": [
+      [
+        6,
+        "2025-11-18T14:45:23.408084"
+      ],
+      [
+        4,
+        "2025-11-18T14:53:12.365546"
+      ],
+      [
+        4,
+        "2025-11-18T14:54:20.319562"
+      ],
+      [
+        3,
+        "2025-11-18T22:32:14.662545"
+      ],
+      [
+        1,
+        "2025-11-19T00:15:42.026641"
+      ],
+      [
+        0,
+        "2025-11-19T02:11:42.672548"
+      ]
+    ],
+    "created_utc": 1763486412.0,
+    "num_comments": 5,
+    "subreddit": "artificial",
+    "url": "https://www.reddit.com/r/artificial/comments/1p0hvhw/ai_may_already_pose_more_harm_than_good_in_the/",
+    "selftext": "AI may already pose more harm than good in the e-commerce sector.\n\nIn a previous post I discussed LinkedIn's labelling of AI images.\n\nTaobao may need this kind of labelling system more.\n\nMany buyers on Taobao are using AI to fake images that show their purchased products as defective to get a refund.\n\n(On China's online shopping platforms, many cheap or fresh products can be refunded without return)\n\nA lot of sellers of these goods do not have a high margin. What is happening is highly likely to drive them out of the market.\n\nThis case shows once again how easily AI can be misused.\n\nPeople can even leave negative reviews for restaurants using “real”-looking images that show bugs in food served.\n\nUse AI to create rumours? That’s an old story already.\n\nAI is a tool. It’s lowering the barrier not just for positive things like content creation, but also, sadly, for negative and even illegal behaviors.",
+    "permalink": "/r/artificial/comments/1p0hvhw/ai_may_already_pose_more_harm_than_good_in_the/"
+  },
+  "comments": [
+    {
+      "id": "npk8m33",
+      "parent_id": "t3_1p0hvhw",
+      "author": "itsDANdeeMAN",
+      "text_history": [
+        [
+          "AI isn’t going to go away because people misuse it for fraudulent returns on ecomm websites. People at those companies will have to implement tools to separate AI-altered images from real ones. ",
+          "2025-11-18T14:45:23.408084"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:45:23.408084"
+        ],
+        [
+          1,
+          "2025-11-18T14:53:12.365546"
+        ],
+        [
+          1,
+          "2025-11-18T14:54:20.319562"
+        ],
+        [
+          3,
+          "2025-11-18T22:32:14.662545"
+        ],
+        [
+          3,
+          "2025-11-19T00:15:42.026641"
+        ],
+        [
+          3,
+          "2025-11-19T02:11:42.672548"
+        ]
+      ],
+      "created_utc": 1763500894.0,
+      "depth": 0,
+      "permalink": "/r/artificial/comments/1p0hvhw/ai_may_already_pose_more_harm_than_good_in_the/npk8m33/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npkx25w",
+          "parent_id": "t1_npk8m33",
+          "author": "MarketingNetMind",
+          "text_history": [
+            [
+              "Exactly. I had a post introducing LinkedIn's approach [https://www.reddit.com/r/ChatGPT/comments/1otil4l/linkedin\\_now\\_tells\\_you\\_when\\_youre\\_looking\\_at\\_an/?utm\\_source=share&amp;utm\\_medium=web3x&amp;utm\\_name=web3xcss&amp;utm\\_term=1&amp;utm\\_content=share\\_button](https://www.reddit.com/r/ChatGPT/comments/1otil4l/linkedin_now_tells_you_when_youre_looking_at_an/?utm_source=share&amp;utm_medium=web3x&amp;utm_name=web3xcss&amp;utm_term=1&amp;utm_content=share_button)",
+              "2025-11-18T22:32:14.662545"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T22:32:14.662545"
+            ],
+            [
+              1,
+              "2025-11-19T00:15:42.026641"
+            ],
+            [
+              1,
+              "2025-11-19T02:11:42.672548"
+            ]
+          ],
+          "created_utc": 1763508787.0,
+          "depth": 1,
+          "permalink": "/r/artificial/comments/1p0hvhw/ai_may_already_pose_more_harm_than_good_in_the/npkx25w/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npkiltl",
+      "parent_id": "t3_1p0hvhw",
+      "author": "LiveCourage334",
+      "text_history": [
+        [
+          "Seems like fair play when online sellers use AI to market products that look nothing like what they ship or restaurants that use AI to showcase plates and ambience that in no way even closely resemble reality.",
+          "2025-11-18T14:45:23.408084"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:45:23.408084"
+        ],
+        [
+          1,
+          "2025-11-18T14:53:12.365546"
+        ],
+        [
+          1,
+          "2025-11-18T14:54:20.319562"
+        ],
+        [
+          2,
+          "2025-11-18T22:32:14.662545"
+        ],
+        [
+          2,
+          "2025-11-19T00:15:42.026641"
+        ],
+        [
+          2,
+          "2025-11-19T02:11:42.672548"
+        ]
+      ],
+      "created_utc": 1763503920.0,
+      "depth": 0,
+      "permalink": "/r/artificial/comments/1p0hvhw/ai_may_already_pose_more_harm_than_good_in_the/npkiltl/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npkx6f3",
+          "parent_id": "t1_npkiltl",
+          "author": "MarketingNetMind",
+          "text_history": [
+            [
+              "Good point. That's how the misuse of AI is harming ecommerce",
+              "2025-11-18T22:32:14.662545"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T22:32:14.662545"
+            ],
+            [
+              1,
+              "2025-11-19T00:15:42.026641"
+            ],
+            [
+              1,
+              "2025-11-19T02:11:42.672548"
+            ]
+          ],
+          "created_utc": 1763508830.0,
+          "depth": 1,
+          "permalink": "/r/artificial/comments/1p0hvhw/ai_may_already_pose_more_harm_than_good_in_the/npkx6f3/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npkj495",
+      "parent_id": "t3_1p0hvhw",
+      "author": "WizWorldLive",
+      "text_history": [
+        [
+          "In every sector. It's a net negative on society in every way",
+          "2025-11-18T14:45:23.408084"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:45:23.408084"
+        ],
+        [
+          1,
+          "2025-11-18T14:53:12.365546"
+        ],
+        [
+          1,
+          "2025-11-18T14:54:20.319562"
+        ],
+        [
+          -2,
+          "2025-11-18T22:32:14.662545"
+        ],
+        [
+          -2,
+          "2025-11-19T00:15:42.026641"
+        ],
+        [
+          -2,
+          "2025-11-19T02:11:42.672548"
+        ]
+      ],
+      "created_utc": 1763504083.0,
+      "depth": 0,
+      "permalink": "/r/artificial/comments/1p0hvhw/ai_may_already_pose_more_harm_than_good_in_the/npkj495/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T02:11:42.672548",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/artificial/comments/1p0hvhw/ai_may_already_pose_more_harm_than_good_in_the/",
+    "total_comments": 5,
+    "top_level_comments": 3,
+    "api_requests": 1,
+    "expected_comments": 5,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 6,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_144523.json",
+      "scrape_002_20251118_145312.json",
+      "scrape_003_20251118_145420.json",
+      "scrape_004_20251118_223214.json",
+      "scrape_005_20251119_001541.json",
+      "scrape_006_20251119_021142.json"
+    ]
+  }
+}

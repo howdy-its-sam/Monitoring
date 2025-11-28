@@ -1,0 +1,54 @@
+{
+  "post": {
+    "id": "1p0ld3r",
+    "title": "Mentor",
+    "author": "Aihak",
+    "score_history": [
+      [
+        1,
+        "2025-11-18T13:49:43.008968"
+      ],
+      [
+        1,
+        "2025-11-18T14:00:54.214315"
+      ],
+      [
+        1,
+        "2025-11-18T14:12:19.927841"
+      ],
+      [
+        1,
+        "2025-11-18T21:59:57.537845"
+      ],
+      [
+        1,
+        "2025-11-19T07:22:38.235226"
+      ]
+    ],
+    "created_utc": 1763494104.0,
+    "num_comments": 0,
+    "subreddit": "learnmachinelearning",
+    "url": "/r/mentors/comments/1p0lcpj/mentor/",
+    "selftext": "",
+    "permalink": "/r/learnmachinelearning/comments/1p0ld3r/mentor/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T07:22:38.235226",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/learnmachinelearning/comments/1p0ld3r/mentor/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 5,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_134942.json",
+      "scrape_002_20251118_140054.json",
+      "scrape_003_20251118_141219.json",
+      "scrape_004_20251118_215957.json",
+      "scrape_005_20251119_072237.json"
+    ]
+  }
+}

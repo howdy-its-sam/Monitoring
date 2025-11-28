@@ -1,0 +1,116 @@
+{
+  "post": {
+    "id": "1p0k8qi",
+    "title": "Architecture Questions (TypeScript Single Agent 21 tools)",
+    "author": "thatsupercoolguykyle",
+    "score_history": [
+      [
+        1,
+        "2025-11-18T12:51:30.584656"
+      ],
+      [
+        1,
+        "2025-11-18T13:03:55.054898"
+      ],
+      [
+        1,
+        "2025-11-18T13:15:48.769151"
+      ],
+      [
+        1,
+        "2025-11-18T13:46:26.078030"
+      ],
+      [
+        1,
+        "2025-11-18T13:49:27.059681"
+      ],
+      [
+        1,
+        "2025-11-18T13:59:18.903165"
+      ],
+      [
+        1,
+        "2025-11-18T14:10:39.350554"
+      ]
+    ],
+    "created_utc": 1763491603.0,
+    "num_comments": 1,
+    "subreddit": "AI_Agents",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1p0k8qi/architecture_questions_typescript_single_agent_21/",
+    "selftext": "Really struggling on figuring out the best architecture for my use case, hoping someone can offer some guidance.\n\n  \nI am building a single agent architecture (orchestrator agent, could build sub agents) on Anthropics Agent SDK - with 21 tools, 4 of which offer full CUD (create, update, and delete in a single tool). These tools are api calls that are rather complex; many parameters needed for input, dependencies if one parameter is selected over the other.\n\n  \nThe result is consistent tool failure, burning tokens, and overall sadness. \n\n  \nMy questions are around what levers I can pull to try and improve tool call accuracy (some tools have 100% failure rates). Should I be focusing on schema, tool &amp; param definitions, system prompt iteration, creating subagent architecture to divide tools?\n\nIf anyone has experience building complex tools for agentic loops, would love to connect!\n\n  \nAny questions are welcome!",
+    "permalink": "/r/AI_Agents/comments/1p0k8qi/architecture_questions_typescript_single_agent_21/"
+  },
+  "comments": [
+    {
+      "id": "npjdjx0",
+      "parent_id": "t3_1p0k8qi",
+      "author": "AutoModerator",
+      "text_history": [
+        [
+          "Thank you for your submission, for any questions regarding AI, please check out our wiki at https://www.reddit.com/r/ai_agents/wiki (this is currently in test and we are actively adding to the wiki)\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/AI_Agents) if you have any questions or concerns.*",
+          "2025-11-18T12:51:30.584656"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T12:51:30.584656"
+        ],
+        [
+          1,
+          "2025-11-18T13:03:55.054898"
+        ],
+        [
+          1,
+          "2025-11-18T13:15:48.769151"
+        ],
+        [
+          1,
+          "2025-11-18T13:46:26.078030"
+        ],
+        [
+          1,
+          "2025-11-18T13:49:27.059681"
+        ],
+        [
+          1,
+          "2025-11-18T13:59:18.903165"
+        ],
+        [
+          1,
+          "2025-11-18T14:10:39.350554"
+        ]
+      ],
+      "created_utc": 1763491603.0,
+      "depth": 0,
+      "permalink": "/r/AI_Agents/comments/1p0k8qi/architecture_questions_typescript_single_agent_21/npjdjx0/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-18T14:10:39.350554",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/AI_Agents/comments/1p0k8qi/architecture_questions_typescript_single_agent_21/",
+    "total_comments": 1,
+    "top_level_comments": 1,
+    "api_requests": 1,
+    "expected_comments": 1,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 7,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_125130.json",
+      "scrape_002_20251118_130354.json",
+      "scrape_003_20251118_131548.json",
+      "scrape_004_20251118_134625.json",
+      "scrape_005_20251118_134926.json",
+      "scrape_006_20251118_135918.json",
+      "scrape_007_20251118_141039.json"
+    ]
+  }
+}

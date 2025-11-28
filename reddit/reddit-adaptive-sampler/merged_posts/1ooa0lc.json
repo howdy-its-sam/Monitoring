@@ -1,0 +1,107 @@
+{
+  "post": {
+    "id": "1ooa0lc",
+    "title": "Looking for a fully confidential AI API (for internal automation &amp; client-facing use with n8n)",
+    "author": "FrancisProject",
+    "score_history": [
+      [
+        2,
+        "2025-11-18T14:56:13.021172"
+      ],
+      [
+        2,
+        "2025-11-18T15:04:20.294662"
+      ],
+      [
+        2,
+        "2025-11-18T15:05:50.385904"
+      ],
+      [
+        2,
+        "2025-11-18T22:41:20.218872"
+      ],
+      [
+        2,
+        "2025-11-19T00:36:53.962843"
+      ],
+      [
+        2,
+        "2025-11-19T02:11:55.216417"
+      ]
+    ],
+    "created_utc": 1762269833.0,
+    "num_comments": 1,
+    "subreddit": "AI_developers",
+    "url": "https://www.reddit.com/r/AI_developers/comments/1ooa0lc/looking_for_a_fully_confidential_ai_api_for/",
+    "selftext": "Hey everyone,\n\nI’m looking for advice on which AI API or provider to use for a setup that has to be **fully confidential and GDPR-compliant**.\n\nHere’s our context:\n\n* We want to use the API **internally** (my co-founders and team) to automate tasks and build smart agents in **n8n**.\n* We also want to **offer it to clients** — for no-code prototypes (POCs) or even native integrations.\n* We need **absolute data confidentiality** (no model re-training, EU data residency if possible, clear privacy terms).\n* It should be **simple to plug into n8n** and ideally compatible with **Airtable or Supabase** for structured data.\n\nSo far I’ve been using the standard OpenAI API (about $20/month), but I’m not sure if it meets our confidentiality standards.  \nI’m now exploring alternatives like Azure OpenAI, Mistral, Aleph Alpha, or even self-hosting — but I’d love real-world feedback before deciding.\n\n👉 Any recommendations, trade-offs, or experiences (especially regarding privacy, ease of use, and pricing)?\n\nThanks a lot 🙏",
+    "permalink": "/r/AI_developers/comments/1ooa0lc/looking_for_a_fully_confidential_ai_api_for/"
+  },
+  "comments": [
+    {
+      "id": "nn3akwx",
+      "parent_id": "t3_1ooa0lc",
+      "author": "robogame_dev",
+      "text_history": [
+        [
+          "Every major provider should offer GDPR compliant services, EU market is big and worth it, so it is not so important what provider you use. Get open router and enable “no training” and “zero data retention” then check these details or get in touch with them for the agreements. More info: https://www.perplexity.ai/search/90fe58ce-a129-4340-8460-8bd05661cae1\n\nGDPR compliance is more than just picking compliant data processors, you need Data Processing Agreements with each and other capabilities like ability to delete user data (including from backups) and so on. Most of your GDPR effort goes into enabling delete, opt outs, and collecting DPAs.",
+          "2025-11-18T14:56:13.021172"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:56:13.021172"
+        ],
+        [
+          1,
+          "2025-11-18T15:04:20.294662"
+        ],
+        [
+          1,
+          "2025-11-18T15:05:50.385904"
+        ],
+        [
+          1,
+          "2025-11-18T22:41:20.218872"
+        ],
+        [
+          1,
+          "2025-11-19T00:36:53.962843"
+        ],
+        [
+          1,
+          "2025-11-19T02:11:55.216417"
+        ]
+      ],
+      "created_utc": 1762278511.0,
+      "depth": 0,
+      "permalink": "/r/AI_developers/comments/1ooa0lc/looking_for_a_fully_confidential_ai_api_for/nn3akwx/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T02:11:55.216417",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/AI_developers/comments/1ooa0lc/looking_for_a_fully_confidential_ai_api_for/",
+    "total_comments": 1,
+    "top_level_comments": 1,
+    "api_requests": 1,
+    "expected_comments": 1,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 6,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_145612.json",
+      "scrape_002_20251118_150420.json",
+      "scrape_003_20251118_150550.json",
+      "scrape_004_20251118_224120.json",
+      "scrape_005_20251119_003653.json",
+      "scrape_006_20251119_021155.json"
+    ]
+  }
+}

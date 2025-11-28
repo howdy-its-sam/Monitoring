@@ -1,0 +1,69 @@
+{
+  "post": {
+    "id": "1p0ic3n",
+    "title": "Building a simple conditional routing setup for multi-model workflows",
+    "author": "Sumanth_077",
+    "score_history": [
+      [
+        1,
+        "2025-11-18T12:51:39.307812"
+      ],
+      [
+        1,
+        "2025-11-18T13:04:01.588283"
+      ],
+      [
+        1,
+        "2025-11-18T13:15:55.600232"
+      ],
+      [
+        1,
+        "2025-11-18T13:46:32.131109"
+      ],
+      [
+        1,
+        "2025-11-18T13:49:32.292404"
+      ],
+      [
+        1,
+        "2025-11-18T14:00:57.376910"
+      ],
+      [
+        1,
+        "2025-11-18T21:29:03.484120"
+      ],
+      [
+        1,
+        "2025-11-19T00:05:05.907357"
+      ]
+    ],
+    "created_utc": 1763487429.0,
+    "num_comments": 0,
+    "subreddit": "AgentsOfAI",
+    "url": "https://www.reddit.com/r/AgentsOfAI/comments/1p0ic3n/building_a_simple_conditional_routing_setup_for/",
+    "selftext": "I put together a small notebook that shows how to route tasks to different models based on what they’re good at. Sometimes a single LLM isn’t the right fit for every type of input, so this makes it easier to mix and match models in one workflow.\n\nThe setup uses a lightweight router model to look at the incoming request, decide what kind of task it is, and return a small JSON block that tells the workflow which model to call. \n\nFor example:  \n• Coding tasks → Qwen3-Coder-30B  \n• Reasoning tasks → GPT-OSS-120B  \n• Conversation and summarization → Llama-3.2-3B-Instruct\n\nIt uses an OpenAI-compatible API, so you can plug it in with the tools you already use. The setup is pretty flexible, so you can swap in different models or change the routing logic based on what you need.\n\nIf you want to take a look or adapt it for your own experiments, here’s the [cookbook](https://github.com/Clarifai/examples/blob/main/agents/conditional_agent_router.ipynb).",
+    "permalink": "/r/AgentsOfAI/comments/1p0ic3n/building_a_simple_conditional_routing_setup_for/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T00:05:05.907357",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/AgentsOfAI/comments/1p0ic3n/building_a_simple_conditional_routing_setup_for/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 8,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_125139.json",
+      "scrape_002_20251118_130401.json",
+      "scrape_003_20251118_131555.json",
+      "scrape_004_20251118_134631.json",
+      "scrape_005_20251118_134932.json",
+      "scrape_006_20251118_140057.json",
+      "scrape_007_20251118_212903.json",
+      "scrape_008_20251119_000505.json"
+    ]
+  }
+}

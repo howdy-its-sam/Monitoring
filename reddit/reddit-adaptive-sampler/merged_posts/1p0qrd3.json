@@ -1,0 +1,150 @@
+{
+  "post": {
+    "id": "1p0qrd3",
+    "title": "copyrighted material on a personal website",
+    "author": "theregoesfugo",
+    "score_history": [
+      [
+        0,
+        "2025-11-19T03:48:58.748618"
+      ],
+      [
+        0,
+        "2025-11-19T03:52:30.885582"
+      ],
+      [
+        0,
+        "2025-11-19T03:59:42.847256"
+      ]
+    ],
+    "created_utc": 1763506530.0,
+    "num_comments": 3,
+    "subreddit": "marketing",
+    "url": "https://www.reddit.com/r/marketing/comments/1p0qrd3/copyrighted_material_on_a_personal_website/",
+    "selftext": "I'm a marketing major fresh out of college and having trouble finding work. I've been branching into graphic design in order to have skills to add to my website, and making mock campaigns and materials for real brands and bands. The question is, is a Canva website full of mock campaigns using copyrighted images/logos/company names legal? Would it be more legal to just compile a pdf of said exercises and attach it to my job applications? Thank you!",
+    "permalink": "/r/marketing/comments/1p0qrd3/copyrighted_material_on_a_personal_website/"
+  },
+  "comments": [
+    {
+      "id": "npls5tq",
+      "parent_id": "t3_1p0qrd3",
+      "author": "ReqDeep",
+      "text_history": [
+        [
+          "Graphics is a tough place right now. A lot of big companies are going overseas and paying 15 or $20 an hour. They are also using AI.",
+          "2025-11-19T03:48:58.748618"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-19T03:48:58.748618"
+        ],
+        [
+          2,
+          "2025-11-19T03:52:30.885582"
+        ],
+        [
+          2,
+          "2025-11-19T03:59:42.847256"
+        ]
+      ],
+      "created_utc": 1763519869.0,
+      "depth": 0,
+      "permalink": "/r/marketing/comments/1p0qrd3/copyrighted_material_on_a_personal_website/npls5tq/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nplgz39",
+      "parent_id": "t3_1p0qrd3",
+      "author": "Email2Inbox",
+      "text_history": [
+        [
+          "&gt; copyrighted images/logos/company names legal?\n\nLegality and risk are two separate things here\n\nWhen you do any of these things:\n\n* The right to reproduce the work (make copies)\n* The right to distribute it\n* The right to publicly display or perform it\n* The right to make derivative works (edits, remixes, etc.)\n\nyou are infringing on a copyright, even in a vacuum, even if nobody ever sees it; you have \"legally\" infringed. The exceptions are the usual suspects (fair use, public domain, a number of other things).\n\nThat being said, this ties into what i said about risk.\n\n  \nIf you are doing no harm, the site is fully private, you are making positive brand images, etc; all of these are still infringements. The risk here is fairly low in your scenario however, at most i think you would get a cease and desist; even suit-happy companies probably wouldn't waste their time on a portfolio website.\n\nSo that being said, yes it is illegal; but you will (possibly) face minimal to no consequences in the exact scenario you described.\n\n  \nBetter idea? Use parody images. Or even better, just don't use copyrighted images lol",
+          "2025-11-19T03:48:58.748618"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-19T03:48:58.748618"
+        ],
+        [
+          2,
+          "2025-11-19T03:52:30.885582"
+        ],
+        [
+          2,
+          "2025-11-19T03:59:42.847256"
+        ]
+      ],
+      "created_utc": 1763515863.0,
+      "depth": 0,
+      "permalink": "/r/marketing/comments/1p0qrd3/copyrighted_material_on_a_personal_website/nplgz39/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nplme3e",
+      "parent_id": "t3_1p0qrd3",
+      "author": "Out3rWorldz",
+      "text_history": [
+        [
+          "Don’t use anyone’s material. Create your own.",
+          "2025-11-19T03:48:58.748618"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T03:48:58.748618"
+        ],
+        [
+          1,
+          "2025-11-19T03:52:30.885582"
+        ],
+        [
+          1,
+          "2025-11-19T03:59:42.847256"
+        ]
+      ],
+      "created_utc": 1763517803.0,
+      "depth": 0,
+      "permalink": "/r/marketing/comments/1p0qrd3/copyrighted_material_on_a_personal_website/nplme3e/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:59:42.847256",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/marketing/comments/1p0qrd3/copyrighted_material_on_a_personal_website/",
+    "total_comments": 3,
+    "top_level_comments": 3,
+    "api_requests": 1,
+    "expected_comments": 3,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_034858.json",
+      "scrape_002_20251119_035230.json",
+      "scrape_003_20251119_035942.json"
+    ]
+  }
+}

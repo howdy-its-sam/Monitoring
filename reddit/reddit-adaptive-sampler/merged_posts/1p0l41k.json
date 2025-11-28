@@ -1,0 +1,115 @@
+{
+  "post": {
+    "id": "1p0l41k",
+    "title": "Learn the basics of Google Antigravity",
+    "author": "141_1337",
+    "score_history": [
+      [
+        28,
+        "2025-11-18T14:22:40.631670"
+      ],
+      [
+        26,
+        "2025-11-18T14:32:50.865022"
+      ],
+      [
+        28,
+        "2025-11-18T14:42:46.560743"
+      ]
+    ],
+    "created_utc": 1763493538.0,
+    "num_comments": 2,
+    "subreddit": "singularity",
+    "url": "https://youtu.be/nTOVIGsqCuY?si=z2EUY58c-ZnROtEs",
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1p0l41k/learn_the_basics_of_google_antigravity/"
+  },
+  "comments": [
+    {
+      "id": "npjpxjn",
+      "parent_id": "t3_1p0l41k",
+      "author": "petrockissolid",
+      "text_history": [
+        [
+          "and there goes the rest of my week playing with a new toy :D",
+          "2025-11-18T14:22:40.631670"
+        ]
+      ],
+      "score_history": [
+        [
+          4,
+          "2025-11-18T14:22:40.631670"
+        ],
+        [
+          5,
+          "2025-11-18T14:32:50.865022"
+        ],
+        [
+          6,
+          "2025-11-18T14:42:46.560743"
+        ]
+      ],
+      "created_utc": 1763495278.0,
+      "depth": 0,
+      "permalink": "/r/singularity/comments/1p0l41k/learn_the_basics_of_google_antigravity/npjpxjn/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npjuraf",
+      "parent_id": "t3_1p0l41k",
+      "author": "FoxB1t3",
+      "text_history": [
+        [
+          "RIP Roo, Kilo, Cline.\n\n  \nbtw. \n\nI asked 2 questions for Gemini 3 Low and my quota was exeeded. xD",
+          "2025-11-18T14:22:40.631670"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:22:40.631670"
+        ],
+        [
+          1,
+          "2025-11-18T14:32:50.865022"
+        ],
+        [
+          1,
+          "2025-11-18T14:42:46.560743"
+        ]
+      ],
+      "created_utc": 1763496728.0,
+      "depth": 0,
+      "permalink": "/r/singularity/comments/1p0l41k/learn_the_basics_of_google_antigravity/npjuraf/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": 1763499295.0,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-18T14:42:46.560743",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/singularity/comments/1p0l41k/learn_the_basics_of_google_antigravity/",
+    "total_comments": 2,
+    "top_level_comments": 2,
+    "api_requests": 1,
+    "expected_comments": 2,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_142240.json",
+      "scrape_002_20251118_143250.json",
+      "scrape_003_20251118_144246.json"
+    ]
+  }
+}

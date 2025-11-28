@@ -1,0 +1,80 @@
+{
+  "post": {
+    "id": "1p11px7",
+    "title": "We just shipped ✨chrome extension✨ to make your AI work-savvy",
+    "author": "im_parallel",
+    "score_history": [
+      [
+        2,
+        "2025-11-19T03:50:46.127007"
+      ],
+      [
+        2,
+        "2025-11-19T03:59:40.626341"
+      ],
+      [
+        2,
+        "2025-11-19T04:01:47.198399"
+      ]
+    ],
+    "created_utc": 1763539392.0,
+    "num_comments": 2,
+    "subreddit": "PromptEngineering",
+    "url": "https://www.reddit.com/r/PromptEngineering/comments/1p11px7/we_just_shipped_chrome_extension_to_make_your_ai/",
+    "selftext": "Hey folks, long-time lurker, first-time poster 👋\n\nWe (a tiny team of builders) just launched our chrome extension named ✨Tinker✨.\n\nTinker is a light-weight AI chat overlay to make your AI *work-savvy*.\n\nWe wanted to share it here first because this community understands the nuance of prompting better than anyone.\n\n[✨Tinker✨ - Website](http://www.tnkr.run/)\n\n[✨Tinker✨ - Chrome Web Store](https://chromewebstore.google.com/detail/mgncebpkgiikmkeffjjpijdfblakkcjg)\n\n# TL;DR\n\nThe real bottleneck isn't the prompt itself, it's the **missing context**.\n\n&gt;The model is smart.\n\n&gt;The prompt looks fine.\n\n&gt;The answer is still mid.\n\nTinker sits inside any AI chat box (currently in ChatGPT / Claude / Gemini / Grok) and:\n\n* **Suggests 3 critical context tweaks in real time** (like autocomplete, but for missing details).\n* Lets you **apply them with one click**, instantly rewriting the prompt.\n* Has a **“One-Click Polish”** button that infers missing context + cleans the prompt in one shot.\n\nWe think it’s a next level context-engineering tool on top of the classic AI chat interface.\n\n# The problem we’re obsessed with: “The Context Gap”\n\nEveryone says “just talk to AI like a friend.”\n\nIn reality, it’s more like Slacking a busy colleague:\n\n* They don’t see your screen\n* They don’t know your boss\n* They don’t know what “weekly report v2” means in your team\n\nWhen we talk to humans, we naturally fill this gap:\n\n&gt;“Hey, can you make a one-page summary for the VP, by tomorrow, bullet-pointed, focused on risks and next steps?”\n\nWith AI, people usually type:\n\n&gt;“Summarize this.”\n\nSame brain, less context.\n\nWe see that gap — between the messy intent in your head and the literal string the model receives — as the real bottleneck. That’s what Tinker tries to attack.\n\n# How it’s different from “prompt template” tools\n\nWe’re pretty anti–cookie-cutter mega templates.\n\nTemplates are great until:\n\n* You’re staring at a giant form when you just wanted to “get this email out.”\n* You’re copy-pasting “You are an expert X…” for the 40th time.\n\nInstead of starting from a rigid structure, Tinker:\n\n* Reads what you’re already typing\n* Detects the biggest missing pieces of context\n* Offers small, optional, inline nudges (like search autocomplete)\n* Never blocks you with a modal or wizard\n\nNo new app. No second window. Just a thin “glass” layer on top of the chat box you already use.\n\n# Who we’re building for (aka: are you in this list?)\n\n* **Office workers / PMs / marketers** who are tired of “meh” outputs from “Summarize this.”\n* **Creators** who hate grinding prompts just to get the style right.\n* **Students / researchers** juggling formal, casual, and analytical tones all in one day.\n* **Tech/product geeks** who want a keyboard-first, inline, no-mouse, no-friction layer over all their AI tools.\n\nIf you’re the kind of person who already thinks in systems and prompt patterns, you’re probably the power user we want feedback from.\n\n# What we’d love from you🙏\n\nIf you’re up for it:\n\n1. **Try it on your real workflow**\n2. **Tell us where the context suggestions suck.**\n   * Did Tinker ask for the wrong thing?\n   * Were Tinker too timid and missed obvious gaps?\n   * Did Tinker overdo it and annoy you?\n3. **Brutal takes welcome:**\n   * Is “Context Engineering” actually a thing or just new jargon?\n   * What would make this *actually indispensable* for you?\n\nWe’re early — this is effectively **v1** — but the mission is clear:\n\n&gt;Make every person “AI-work-savvy” without forcing them to become full-time prompt engineers.\n\nHappy to answer anything in the comments: tech stack, UX decisions, privacy concerns, roadmap (sliders for tone/length, macros/keyboard commands, etc.).\n\nIf you read this far, thank you 🙇‍♂️\n\nNow please go bully our UX so we can make it better!",
+    "permalink": "/r/PromptEngineering/comments/1p11px7/we_just_shipped_chrome_extension_to_make_your_ai/"
+  },
+  "comments": [
+    {
+      "id": "npn5qs5",
+      "parent_id": "t3_1p11px7",
+      "author": "infonome",
+      "text_history": [
+        [
+          "I tried this app on Perplexity &amp; grok, ran a prompt, and then it was improved (what was missing). Really, a jump-start finish for everyone.  Thank you",
+          "2025-11-19T03:50:46.127007"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T03:50:46.127007"
+        ],
+        [
+          1,
+          "2025-11-19T03:59:40.626341"
+        ],
+        [
+          1,
+          "2025-11-19T04:01:47.198399"
+        ]
+      ],
+      "created_utc": 1763544377.0,
+      "depth": 0,
+      "permalink": "/r/PromptEngineering/comments/1p11px7/we_just_shipped_chrome_extension_to_make_your_ai/npn5qs5/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T04:01:47.198399",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/PromptEngineering/comments/1p11px7/we_just_shipped_chrome_extension_to_make_your_ai/",
+    "total_comments": 1,
+    "top_level_comments": 1,
+    "api_requests": 1,
+    "expected_comments": 2,
+    "coverage_percent": 50.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_035045.json",
+      "scrape_002_20251119_035940.json",
+      "scrape_003_20251119_040146.json"
+    ]
+  }
+}

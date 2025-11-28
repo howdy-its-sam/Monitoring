@@ -1,0 +1,218 @@
+{
+  "post": {
+    "id": "1p023s7",
+    "title": "Realistic voice agents",
+    "author": "BuckDolph",
+    "score_history": [
+      [
+        2,
+        "2025-11-18T12:51:38.666770"
+      ],
+      [
+        2,
+        "2025-11-18T13:03:55.733834"
+      ],
+      [
+        2,
+        "2025-11-18T13:15:46.042569"
+      ],
+      [
+        2,
+        "2025-11-18T13:46:31.509594"
+      ],
+      [
+        2,
+        "2025-11-18T13:49:28.048552"
+      ],
+      [
+        2,
+        "2025-11-18T13:59:19.160033"
+      ],
+      [
+        2,
+        "2025-11-18T14:10:37.694255"
+      ]
+    ],
+    "created_utc": 1763438636.0,
+    "num_comments": 3,
+    "subreddit": "AI_Agents",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1p023s7/realistic_voice_agents/",
+    "selftext": "I’m just starting in building voice agents. Currently taking a course on Udemy about building voice agents/n8n automations and getting familiar with the space\n\nI have to say I haven’t been impressed with the quality of the agents this course has put on display or with the agents I have built. Yes, I know I’m just starting out and it’s not going to get be perfect at the start, but what platforms are known for building the most realistic agents? I know the industry as a whole isn’t completely sold on voice agents yet and they still have a way to go, but I’ve had some spam calls I’ve answered and if I was naive enough I’d probably fall for it lol. Just curious what everyone is using to get the most realistic sounding agents\n\nI’m currently using retell AI. I’ve been tweaking a specific agent for a day or two and just cannot dial it in to sound realistic. Maybe I’m just a noob and I’ll figure it out, but any pointers would be appreciated. Or if there’s any better platforms then retell.ai I’d love to explore them.",
+    "permalink": "/r/AI_Agents/comments/1p023s7/realistic_voice_agents/"
+  },
+  "comments": [
+    {
+      "id": "npfsix6",
+      "parent_id": "t3_1p023s7",
+      "author": "AutoModerator",
+      "text_history": [
+        [
+          "Thank you for your submission, for any questions regarding AI, please check out our wiki at https://www.reddit.com/r/ai_agents/wiki (this is currently in test and we are actively adding to the wiki)\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/AI_Agents) if you have any questions or concerns.*",
+          "2025-11-18T12:51:38.666770"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T12:51:38.666770"
+        ],
+        [
+          1,
+          "2025-11-18T13:03:55.733834"
+        ],
+        [
+          1,
+          "2025-11-18T13:15:46.042569"
+        ],
+        [
+          1,
+          "2025-11-18T13:46:31.509594"
+        ],
+        [
+          1,
+          "2025-11-18T13:49:28.048552"
+        ],
+        [
+          1,
+          "2025-11-18T13:59:19.160033"
+        ],
+        [
+          1,
+          "2025-11-18T14:10:37.694255"
+        ]
+      ],
+      "created_utc": 1763438637.0,
+      "depth": 0,
+      "permalink": "/r/AI_Agents/comments/1p023s7/realistic_voice_agents/npfsix6/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npg3dtq",
+      "parent_id": "t3_1p023s7",
+      "author": "heymarfa",
+      "text_history": [
+        [
+          "If you wanna use existing platform to build voice agents.. one of the good ones is 11labs but I am not a big fan of their STT model though but overall its pretty nice.. but if you wanna build something from ground up then here is my recommendation..\n\nSTT: Deepgram \n\nLLM: claude-haiku-4-5 or openai or frontier models tbh\n\nTTS: ElevenLabs (little expensive though)\n\nand Livekit as a framework to glue everything together\n\n  \nPS: I am building a voice ai assistant platform (can be access via a phone call) and thats what my current stack as well",
+          "2025-11-18T12:51:38.666770"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T12:51:38.666770"
+        ],
+        [
+          1,
+          "2025-11-18T13:03:55.733834"
+        ],
+        [
+          1,
+          "2025-11-18T13:15:46.042569"
+        ],
+        [
+          1,
+          "2025-11-18T13:46:31.509594"
+        ],
+        [
+          1,
+          "2025-11-18T13:49:28.048552"
+        ],
+        [
+          1,
+          "2025-11-18T13:59:19.160033"
+        ],
+        [
+          1,
+          "2025-11-18T14:10:37.694255"
+        ]
+      ],
+      "created_utc": 1763443508.0,
+      "depth": 0,
+      "permalink": "/r/AI_Agents/comments/1p023s7/realistic_voice_agents/npg3dtq/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npht9fg",
+      "parent_id": "t3_1p023s7",
+      "author": "InternationalKiwi401",
+      "text_history": [
+        [
+          "Twilio",
+          "2025-11-18T12:51:38.666770"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T12:51:38.666770"
+        ],
+        [
+          1,
+          "2025-11-18T13:03:55.733834"
+        ],
+        [
+          1,
+          "2025-11-18T13:15:46.042569"
+        ],
+        [
+          1,
+          "2025-11-18T13:46:31.509594"
+        ],
+        [
+          1,
+          "2025-11-18T13:49:28.048552"
+        ],
+        [
+          1,
+          "2025-11-18T13:59:19.160033"
+        ],
+        [
+          1,
+          "2025-11-18T14:10:37.694255"
+        ]
+      ],
+      "created_utc": 1763474826.0,
+      "depth": 0,
+      "permalink": "/r/AI_Agents/comments/1p023s7/realistic_voice_agents/npht9fg/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-18T14:10:37.694255",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/AI_Agents/comments/1p023s7/realistic_voice_agents/",
+    "total_comments": 3,
+    "top_level_comments": 3,
+    "api_requests": 1,
+    "expected_comments": 3,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 7,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_125138.json",
+      "scrape_002_20251118_130355.json",
+      "scrape_003_20251118_131545.json",
+      "scrape_004_20251118_134631.json",
+      "scrape_005_20251118_134927.json",
+      "scrape_006_20251118_135918.json",
+      "scrape_007_20251118_141037.json"
+    ]
+  }
+}

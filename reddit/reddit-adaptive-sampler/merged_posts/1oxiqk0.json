@@ -1,0 +1,44 @@
+{
+  "post": {
+    "id": "1oxiqk0",
+    "title": "The Big LLM Architecture Comparison: From DeepSeek-V3 to Kimi K2 Thinking",
+    "author": "robogame_dev",
+    "score_history": [
+      [
+        2,
+        "2025-11-19T03:30:54.539404"
+      ],
+      [
+        2,
+        "2025-11-19T03:37:45.690461"
+      ],
+      [
+        2,
+        "2025-11-19T03:39:36.454200"
+      ]
+    ],
+    "created_utc": 1763181973.0,
+    "num_comments": 0,
+    "subreddit": "AI_developers",
+    "url": "https://sebastianraschka.com/blog/2025/the-big-llm-architecture-comparison.html",
+    "selftext": "",
+    "permalink": "/r/AI_developers/comments/1oxiqk0/the_big_llm_architecture_comparison_from/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:39:36.454200",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/AI_developers/comments/1oxiqk0/the_big_llm_architecture_comparison_from/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_033054.json",
+      "scrape_002_20251119_033745.json",
+      "scrape_003_20251119_033936.json"
+    ]
+  }
+}

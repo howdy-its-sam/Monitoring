@@ -1,0 +1,870 @@
+{
+  "post": {
+    "id": "1p0gj9o",
+    "title": "Microsoft says Azure was hit with a massive DDoS attack launched from over 500,000 IP addresses",
+    "author": "deepankerverma",
+    "score_history": [
+      [
+        279,
+        "2025-11-18T14:22:14.162866"
+      ],
+      [
+        289,
+        "2025-11-18T14:32:47.788247"
+      ],
+      [
+        286,
+        "2025-11-18T14:41:18.897226"
+      ],
+      [
+        286,
+        "2025-11-18T14:44:59.158363"
+      ]
+    ],
+    "created_utc": 1763483455.0,
+    "num_comments": 22,
+    "subreddit": "technology",
+    "url": "https://www.techradar.com/pro/security/microsoft-says-azure-was-hit-with-a-massive-ddos-attack-launched-from-over-500-000-ip-addresses",
+    "selftext": "",
+    "permalink": "/r/technology/comments/1p0gj9o/microsoft_says_azure_was_hit_with_a_massive_ddos/"
+  },
+  "comments": [
+    {
+      "id": "npim8uh",
+      "parent_id": "t3_1p0gj9o",
+      "author": "BeginningFew8188",
+      "text_history": [
+        [
+          "Something fishy going on on internet these days",
+          "2025-11-18T14:22:14.162866"
+        ]
+      ],
+      "score_history": [
+        [
+          108,
+          "2025-11-18T14:22:14.162866"
+        ],
+        [
+          115,
+          "2025-11-18T14:32:47.788247"
+        ],
+        [
+          114,
+          "2025-11-18T14:41:18.897226"
+        ],
+        [
+          118,
+          "2025-11-18T14:44:59.158363"
+        ]
+      ],
+      "created_utc": 1763483658.0,
+      "depth": 0,
+      "permalink": "/r/technology/comments/1p0gj9o/microsoft_says_azure_was_hit_with_a_massive_ddos/npim8uh/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npiom3c",
+          "parent_id": "t1_npim8uh",
+          "author": "simpleglitch",
+          "text_history": [
+            [
+              "I don't think it's a coincidence that day 1 of Microsoft ignite conference is today. It could be someone wanted egg on Microsoft's face for their big event.\n\nI know some people there and they said it was a massive cluster fuck at the hotels / venue this morning, though it sounds like things are sorted now.",
+              "2025-11-18T14:22:14.162866"
+            ]
+          ],
+          "score_history": [
+            [
+              36,
+              "2025-11-18T14:22:14.162866"
+            ],
+            [
+              37,
+              "2025-11-18T14:32:47.788247"
+            ],
+            [
+              38,
+              "2025-11-18T14:41:18.897226"
+            ],
+            [
+              37,
+              "2025-11-18T14:44:59.158363"
+            ]
+          ],
+          "created_utc": 1763484348.0,
+          "depth": 1,
+          "permalink": "/r/technology/comments/1p0gj9o/microsoft_says_azure_was_hit_with_a_massive_ddos/npiom3c/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        },
+        {
+          "id": "npimxtf",
+          "parent_id": "t1_npim8uh",
+          "author": "poghosb",
+          "text_history": [
+            [
+              "Killing internet",
+              "2025-11-18T14:22:14.162866"
+            ]
+          ],
+          "score_history": [
+            [
+              24,
+              "2025-11-18T14:22:14.162866"
+            ],
+            [
+              25,
+              "2025-11-18T14:32:47.788247"
+            ],
+            [
+              27,
+              "2025-11-18T14:41:18.897226"
+            ],
+            [
+              25,
+              "2025-11-18T14:44:59.158363"
+            ]
+          ],
+          "created_utc": 1763483861.0,
+          "depth": 1,
+          "permalink": "/r/technology/comments/1p0gj9o/microsoft_says_azure_was_hit_with_a_massive_ddos/npimxtf/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        },
+        {
+          "id": "npit6zu",
+          "parent_id": "t1_npim8uh",
+          "author": "Creeper4wwMann",
+          "text_history": [
+            [
+              "DDOS attack have exponentially grown in size in the last couple years.",
+              "2025-11-18T14:22:14.162866"
+            ]
+          ],
+          "score_history": [
+            [
+              18,
+              "2025-11-18T14:22:14.162866"
+            ],
+            [
+              18,
+              "2025-11-18T14:32:47.788247"
+            ],
+            [
+              17,
+              "2025-11-18T14:41:18.897226"
+            ],
+            [
+              18,
+              "2025-11-18T14:44:59.158363"
+            ]
+          ],
+          "created_utc": 1763485694.0,
+          "depth": 1,
+          "permalink": "/r/technology/comments/1p0gj9o/microsoft_says_azure_was_hit_with_a_massive_ddos/npit6zu/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npiw8pa",
+              "parent_id": "t1_npit6zu",
+              "author": "twinsea",
+              "text_history": [
+                [
+                  "When everyone has a 1gb connection it makes those of us hosting on a 10gb pipe very nervous.  ",
+                  "2025-11-18T14:22:14.162866"
+                ]
+              ],
+              "score_history": [
+                [
+                  16,
+                  "2025-11-18T14:22:14.162866"
+                ],
+                [
+                  18,
+                  "2025-11-18T14:32:47.788247"
+                ],
+                [
+                  18,
+                  "2025-11-18T14:41:18.897226"
+                ],
+                [
+                  18,
+                  "2025-11-18T14:44:59.158363"
+                ]
+              ],
+              "created_utc": 1763486595.0,
+              "depth": 2,
+              "permalink": "/r/technology/comments/1p0gj9o/microsoft_says_azure_was_hit_with_a_massive_ddos/npiw8pa/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": [
+                {
+                  "id": "npizn53",
+                  "parent_id": "t1_npiw8pa",
+                  "author": "Creeper4wwMann",
+                  "text_history": [
+                    [
+                      "We went from 5Tbps attacks to 30Tbps within a year.\n\n30Tbps is nearly 1.6% of the entire internet.",
+                      "2025-11-18T14:22:14.162866"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      9,
+                      "2025-11-18T14:22:14.162866"
+                    ],
+                    [
+                      10,
+                      "2025-11-18T14:32:47.788247"
+                    ],
+                    [
+                      8,
+                      "2025-11-18T14:41:18.897226"
+                    ],
+                    [
+                      8,
+                      "2025-11-18T14:44:59.158363"
+                    ]
+                  ],
+                  "created_utc": 1763487605.0,
+                  "depth": 3,
+                  "permalink": "/r/technology/comments/1p0gj9o/microsoft_says_azure_was_hit_with_a_massive_ddos/npizn53/",
+                  "is_submitter": false,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "npjey7t",
+          "parent_id": "t1_npim8uh",
+          "author": "Oceanbreeze871",
+          "text_history": [
+            [
+              "Lots of layoffs at these companies. It’s not like those people did nothing. Every team is running on fumes",
+              "2025-11-18T14:22:14.162866"
+            ]
+          ],
+          "score_history": [
+            [
+              5,
+              "2025-11-18T14:22:14.162866"
+            ],
+            [
+              5,
+              "2025-11-18T14:32:47.788247"
+            ],
+            [
+              4,
+              "2025-11-18T14:41:18.897226"
+            ],
+            [
+              4,
+              "2025-11-18T14:44:59.158363"
+            ]
+          ],
+          "created_utc": 1763492005.0,
+          "depth": 1,
+          "permalink": "/r/technology/comments/1p0gj9o/microsoft_says_azure_was_hit_with_a_massive_ddos/npjey7t/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        },
+        {
+          "id": "npiw9wl",
+          "parent_id": "t1_npim8uh",
+          "author": "Icy-Swordfish7784",
+          "text_history": [
+            [
+              "It's because all the AIs bros want to host their systems on a couple of providers. The angle of attack is only logical.",
+              "2025-11-18T14:22:14.162866"
+            ]
+          ],
+          "score_history": [
+            [
+              10,
+              "2025-11-18T14:22:14.162866"
+            ],
+            [
+              9,
+              "2025-11-18T14:32:47.788247"
+            ],
+            [
+              9,
+              "2025-11-18T14:41:18.897226"
+            ],
+            [
+              10,
+              "2025-11-18T14:44:59.158363"
+            ]
+          ],
+          "created_utc": 1763486605.0,
+          "depth": 1,
+          "permalink": "/r/technology/comments/1p0gj9o/microsoft_says_azure_was_hit_with_a_massive_ddos/npiw9wl/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npjpmxt",
+              "parent_id": "t1_npiw9wl",
+              "author": "Rustic_gan123",
+              "text_history": [
+                [
+                  "Most often, such attacks involve hacked devices, not just ordinary phones and computers, but peripherals such as modems, fridges, cameras, etc.",
+                  "2025-11-18T14:22:14.162866"
+                ]
+              ],
+              "score_history": [
+                [
+                  3,
+                  "2025-11-18T14:22:14.162866"
+                ],
+                [
+                  3,
+                  "2025-11-18T14:32:47.788247"
+                ],
+                [
+                  3,
+                  "2025-11-18T14:41:18.897226"
+                ],
+                [
+                  3,
+                  "2025-11-18T14:44:59.158363"
+                ]
+              ],
+              "created_utc": 1763495189.0,
+              "depth": 2,
+              "permalink": "/r/technology/comments/1p0gj9o/microsoft_says_azure_was_hit_with_a_massive_ddos/npjpmxt/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "npjvlvu",
+          "parent_id": "t1_npim8uh",
+          "author": "thelionsmouth",
+          "text_history": [
+            [
+              "I bet it’s foreign interference - when the US relies on its huge monopolistic global tech sector almost exclusively for its economic gains, it’s a no brainier for it to become a target to destabilize\n\nIf this continues it could further a trend to decentralize these cloud and saas services away from the us, or at least from the big companies.",
+              "2025-11-18T14:22:14.162866"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T14:22:14.162866"
+            ],
+            [
+              1,
+              "2025-11-18T14:32:47.788247"
+            ],
+            [
+              1,
+              "2025-11-18T14:41:18.897226"
+            ],
+            [
+              1,
+              "2025-11-18T14:44:59.158363"
+            ]
+          ],
+          "created_utc": 1763496986.0,
+          "depth": 1,
+          "permalink": "/r/technology/comments/1p0gj9o/microsoft_says_azure_was_hit_with_a_massive_ddos/npjvlvu/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npis75i",
+      "parent_id": "t3_1p0gj9o",
+      "author": "PseudoElite",
+      "text_history": [
+        [
+          "I love that so many companies force you to register and make accounts for almost anything with their terrible websites for then there's a massive data breach every Tuesday.",
+          "2025-11-18T14:22:14.162866"
+        ]
+      ],
+      "score_history": [
+        [
+          49,
+          "2025-11-18T14:22:14.162866"
+        ],
+        [
+          52,
+          "2025-11-18T14:32:47.788247"
+        ],
+        [
+          54,
+          "2025-11-18T14:41:18.897226"
+        ],
+        [
+          52,
+          "2025-11-18T14:44:59.158363"
+        ]
+      ],
+      "created_utc": 1763485400.0,
+      "depth": 0,
+      "permalink": "/r/technology/comments/1p0gj9o/microsoft_says_azure_was_hit_with_a_massive_ddos/npis75i/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npj13pp",
+          "parent_id": "t1_npis75i",
+          "author": "SHN378",
+          "text_history": [
+            [
+              "Yeah, don't register with real details. Proton has a decent alias service and you can use EmailOnDeck for quick burners. Obviously, if you need to pay or get something delivered, you probably need to use real details but you can cut out all the rest",
+              "2025-11-18T14:22:14.162866"
+            ]
+          ],
+          "score_history": [
+            [
+              4,
+              "2025-11-18T14:22:14.162866"
+            ],
+            [
+              3,
+              "2025-11-18T14:32:47.788247"
+            ],
+            [
+              4,
+              "2025-11-18T14:41:18.897226"
+            ],
+            [
+              4,
+              "2025-11-18T14:44:59.158363"
+            ]
+          ],
+          "created_utc": 1763488032.0,
+          "depth": 1,
+          "permalink": "/r/technology/comments/1p0gj9o/microsoft_says_azure_was_hit_with_a_massive_ddos/npj13pp/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npiyhqz",
+      "parent_id": "t3_1p0gj9o",
+      "author": "AnalTinnitus",
+      "text_history": [
+        [
+          "Probably Russia, or China.  But my money is on Liechtenstein.  They've been too quiet lately.",
+          "2025-11-18T14:22:14.162866"
+        ]
+      ],
+      "score_history": [
+        [
+          19,
+          "2025-11-18T14:22:14.162866"
+        ],
+        [
+          21,
+          "2025-11-18T14:32:47.788247"
+        ],
+        [
+          22,
+          "2025-11-18T14:41:18.897226"
+        ],
+        [
+          21,
+          "2025-11-18T14:44:59.158363"
+        ]
+      ],
+      "created_utc": 1763487260.0,
+      "depth": 0,
+      "permalink": "/r/technology/comments/1p0gj9o/microsoft_says_azure_was_hit_with_a_massive_ddos/npiyhqz/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npjn8u6",
+      "parent_id": "t3_1p0gj9o",
+      "author": "No_Stay_4583",
+      "text_history": [
+        [
+          "Why dont they use their superduper awesome kickass AI to deal with it?",
+          "2025-11-18T14:22:14.162866"
+        ]
+      ],
+      "score_history": [
+        [
+          7,
+          "2025-11-18T14:22:14.162866"
+        ],
+        [
+          4,
+          "2025-11-18T14:32:47.788247"
+        ],
+        [
+          5,
+          "2025-11-18T14:41:18.897226"
+        ],
+        [
+          4,
+          "2025-11-18T14:44:59.158363"
+        ]
+      ],
+      "created_utc": 1763494471.0,
+      "depth": 0,
+      "permalink": "/r/technology/comments/1p0gj9o/microsoft_says_azure_was_hit_with_a_massive_ddos/npjn8u6/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npin0ya",
+      "parent_id": "t3_1p0gj9o",
+      "author": "No-Associate-6068",
+      "text_history": [
+        [
+          "Doubt we’ll get an “AI apocalypse,” but we *might* get a messy mix of bad incentives, rushed deployments, and political panic. Curious to see if he’ll talk about the real risks,  like concentration of power,  instead of the Hollywood stuff.",
+          "2025-11-18T14:22:14.162866"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-18T14:22:14.162866"
+        ],
+        [
+          2,
+          "2025-11-18T14:32:47.788247"
+        ],
+        [
+          2,
+          "2025-11-18T14:41:18.897226"
+        ],
+        [
+          2,
+          "2025-11-18T14:44:59.158363"
+        ]
+      ],
+      "created_utc": 1763483886.0,
+      "depth": 0,
+      "permalink": "/r/technology/comments/1p0gj9o/microsoft_says_azure_was_hit_with_a_massive_ddos/npin0ya/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npj330d",
+      "parent_id": "t3_1p0gj9o",
+      "author": "slaeryx",
+      "text_history": [
+        [
+          "I’d like to see the list of IPs to get an idea of where the bots are",
+          "2025-11-18T14:22:14.162866"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:22:14.162866"
+        ],
+        [
+          1,
+          "2025-11-18T14:32:47.788247"
+        ],
+        [
+          1,
+          "2025-11-18T14:41:18.897226"
+        ],
+        [
+          1,
+          "2025-11-18T14:44:59.158363"
+        ]
+      ],
+      "created_utc": 1763488600.0,
+      "depth": 0,
+      "permalink": "/r/technology/comments/1p0gj9o/microsoft_says_azure_was_hit_with_a_massive_ddos/npj330d/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npj8pk2",
+      "parent_id": "t3_1p0gj9o",
+      "author": "MagicDragon212",
+      "text_history": [
+        [
+          "Giddy up cowboys, we are in the wild west now.",
+          "2025-11-18T14:22:14.162866"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:22:14.162866"
+        ],
+        [
+          1,
+          "2025-11-18T14:32:47.788247"
+        ],
+        [
+          1,
+          "2025-11-18T14:41:18.897226"
+        ],
+        [
+          1,
+          "2025-11-18T14:44:59.158363"
+        ]
+      ],
+      "created_utc": 1763490218.0,
+      "depth": 0,
+      "permalink": "/r/technology/comments/1p0gj9o/microsoft_says_azure_was_hit_with_a_massive_ddos/npj8pk2/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npjjwh9",
+      "parent_id": "t3_1p0gj9o",
+      "author": "CanadianPropagandist",
+      "text_history": [
+        [
+          "Ironic. I bet I know what those bots were running on.",
+          "2025-11-18T14:22:14.162866"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:22:14.162866"
+        ],
+        [
+          1,
+          "2025-11-18T14:32:47.788247"
+        ],
+        [
+          1,
+          "2025-11-18T14:41:18.897226"
+        ],
+        [
+          1,
+          "2025-11-18T14:44:59.158363"
+        ]
+      ],
+      "created_utc": 1763493470.0,
+      "depth": 0,
+      "permalink": "/r/technology/comments/1p0gj9o/microsoft_says_azure_was_hit_with_a_massive_ddos/npjjwh9/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npjmhjq",
+      "parent_id": "t3_1p0gj9o",
+      "author": "SequesterMe",
+      "text_history": [
+        [
+          "Doing my part.",
+          "2025-11-18T14:22:14.162866"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:22:14.162866"
+        ],
+        [
+          1,
+          "2025-11-18T14:32:47.788247"
+        ],
+        [
+          1,
+          "2025-11-18T14:41:18.897226"
+        ],
+        [
+          1,
+          "2025-11-18T14:44:59.158363"
+        ]
+      ],
+      "created_utc": 1763494243.0,
+      "depth": 0,
+      "permalink": "/r/technology/comments/1p0gj9o/microsoft_says_azure_was_hit_with_a_massive_ddos/npjmhjq/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npjsgve",
+      "parent_id": "t3_1p0gj9o",
+      "author": "Avoidtolls",
+      "text_history": [
+        [
+          "The majority of the assimilated devices are in residential ISPs in the United States. According to CyberInsider, it now counts more than 300,000 compromised units.",
+          "2025-11-18T14:22:14.162866"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:22:14.162866"
+        ],
+        [
+          1,
+          "2025-11-18T14:32:47.788247"
+        ],
+        [
+          1,
+          "2025-11-18T14:41:18.897226"
+        ],
+        [
+          1,
+          "2025-11-18T14:44:59.158363"
+        ]
+      ],
+      "created_utc": 1763496029.0,
+      "depth": 0,
+      "permalink": "/r/technology/comments/1p0gj9o/microsoft_says_azure_was_hit_with_a_massive_ddos/npjsgve/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npkmaq6",
+      "parent_id": "t3_1p0gj9o",
+      "author": "kentuckywildcats1986",
+      "text_history": [
+        [
+          "Russia is launching massive cyberattacks against these large cloud-based tech-companies, costing American businesses billions in lost productivity, and nobody is saying shit about it.",
+          "2025-11-18T14:32:47.788247"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:32:47.788247"
+        ],
+        [
+          1,
+          "2025-11-18T14:41:18.897226"
+        ],
+        [
+          1,
+          "2025-11-18T14:44:59.158363"
+        ]
+      ],
+      "created_utc": 1763505108.0,
+      "depth": 0,
+      "permalink": "/r/technology/comments/1p0gj9o/microsoft_says_azure_was_hit_with_a_massive_ddos/npkmaq6/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-18T14:44:59.158363",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/technology/comments/1p0gj9o/microsoft_says_azure_was_hit_with_a_massive_ddos/",
+    "total_comments": 21,
+    "top_level_comments": 11,
+    "api_requests": 1,
+    "expected_comments": 22,
+    "coverage_percent": 95.45,
+    "merged_snapshot_count": 4,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_142213.json",
+      "scrape_002_20251118_143247.json",
+      "scrape_003_20251118_144118.json",
+      "scrape_004_20251118_144458.json"
+    ]
+  }
+}

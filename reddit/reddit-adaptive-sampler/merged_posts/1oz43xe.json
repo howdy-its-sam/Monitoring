@@ -1,0 +1,207 @@
+{
+  "post": {
+    "id": "1oz43xe",
+    "title": "New photon based computing breakthrough: Single-Shot Tensor Computing With Light",
+    "author": "ChocolateGoggles",
+    "score_history": [
+      [
+        51,
+        "2025-11-18T15:15:06.687220"
+      ],
+      [
+        52,
+        "2025-11-18T22:51:44.285836"
+      ],
+      [
+        55,
+        "2025-11-19T00:47:46.491870"
+      ],
+      [
+        57,
+        "2025-11-19T02:32:52.650255"
+      ]
+    ],
+    "created_utc": 1763345299.0,
+    "num_comments": 5,
+    "subreddit": "Futurology",
+    "url": "https://techxplore.com/news/2025-11-ai-possibility.html",
+    "selftext": "I'm not knowledgeable  beyond the conceptual level of how light-based computing works. I remember reading and understanding that one of the biggest limitations of light-based computing until this day is that it takes a large amount of space to trap light, magnitudes more than our smallest electrically based chips and their bits.\n\nI could definitely use some help with these questions:\n\n1. Does this mean it can do one-pass computing through different optical techniques that filter the light so that we can actually use the individual photon wavelengths for computing?\n2. Can we use this to store light more efficiently?\n\nThis is exciting news beyond artificial intelligence in my opinion, but I have to kinda be somewhat self-critical and acknowledge that I don't for sure understand the level of this breakthrough. It's often more layered than tech news make it out to be.\n\nThe paper is here: [https://www.sciencedaily.com/releases/2025/11/251115095923.htm](https://www.sciencedaily.com/releases/2025/11/251115095923.htm)",
+    "permalink": "/r/Futurology/comments/1oz43xe/new_photon_based_computing_breakthrough/"
+  },
+  "comments": [
+    {
+      "id": "np95d9m",
+      "parent_id": "t3_1oz43xe",
+      "author": "FuturologyBot",
+      "text_history": [
+        [
+          "The following submission statement was provided by /u/ChocolateGoggles:\n\n---\n\nI put my thoughts in the description. I'll post my questions for consideration here again (I get paranoid with rules):\n\n1. Does this mean it can do one-pass computing through different optical techniques that filter the light so that we can actually use the individual photon wavelengths for computing?\n2. Can we use this to store light more efficiently?\n\nSo what are the thoughts of the folks here?\n\n---\n\n Please reply to OP's comment here: https://old.reddit.com/r/Futurology/comments/1oz43xe/new_photon_based_computing_breakthrough/np900gd/",
+          "2025-11-18T15:15:06.687220"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T15:15:06.687220"
+        ],
+        [
+          1,
+          "2025-11-18T22:51:44.285836"
+        ],
+        [
+          1,
+          "2025-11-19T00:47:46.491870"
+        ],
+        [
+          1,
+          "2025-11-19T02:32:52.650255"
+        ]
+      ],
+      "created_utc": 1763347316.0,
+      "depth": 0,
+      "permalink": "/r/Futurology/comments/1oz43xe/new_photon_based_computing_breakthrough/np95d9m/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "np900gd",
+      "parent_id": "t3_1oz43xe",
+      "author": "ChocolateGoggles",
+      "text_history": [
+        [
+          "I put my thoughts in the description. I'll post my questions for consideration here again (I get paranoid with rules):\n\n1. Does this mean it can do one-pass computing through different optical techniques that filter the light so that we can actually use the individual photon wavelengths for computing?\n2. Can we use this to store light more efficiently?\n\nSo what are the thoughts of the folks here?",
+          "2025-11-18T15:15:06.687220"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T15:15:06.687220"
+        ],
+        [
+          1,
+          "2025-11-18T22:51:44.285836"
+        ],
+        [
+          1,
+          "2025-11-19T00:47:46.491870"
+        ],
+        [
+          1,
+          "2025-11-19T02:32:52.650255"
+        ]
+      ],
+      "created_utc": 1763345392.0,
+      "depth": 0,
+      "permalink": "/r/Futurology/comments/1oz43xe/new_photon_based_computing_breakthrough/np900gd/",
+      "is_submitter": true,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npaajmo",
+          "parent_id": "t1_np900gd",
+          "author": "ChocolateGoggles",
+          "text_history": [
+            [
+              "I believe I've come to an answer on the 2nd, and that's a no. This is not a solution for storing information.",
+              "2025-11-18T15:15:06.687220"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T15:15:06.687220"
+            ],
+            [
+              1,
+              "2025-11-18T22:51:44.285836"
+            ],
+            [
+              1,
+              "2025-11-19T00:47:46.491870"
+            ],
+            [
+              1,
+              "2025-11-19T02:32:52.650255"
+            ]
+          ],
+          "created_utc": 1763366910.0,
+          "depth": 1,
+          "permalink": "/r/Futurology/comments/1oz43xe/new_photon_based_computing_breakthrough/npaajmo/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npanjyn",
+      "parent_id": "t3_1oz43xe",
+      "author": "[deleted]",
+      "text_history": [
+        [
+          "[removed]",
+          "2025-11-18T15:15:06.687220"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T15:15:06.687220"
+        ],
+        [
+          1,
+          "2025-11-18T22:51:44.285836"
+        ],
+        [
+          1,
+          "2025-11-19T00:47:46.491870"
+        ],
+        [
+          1,
+          "2025-11-19T02:32:52.650255"
+        ]
+      ],
+      "created_utc": 1763375195.0,
+      "depth": 0,
+      "permalink": "/r/Futurology/comments/1oz43xe/new_photon_based_computing_breakthrough/npanjyn/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T02:32:52.650255",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/Futurology/comments/1oz43xe/new_photon_based_computing_breakthrough/",
+    "total_comments": 4,
+    "top_level_comments": 3,
+    "api_requests": 1,
+    "expected_comments": 5,
+    "coverage_percent": 80.0,
+    "merged_snapshot_count": 4,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_151506.json",
+      "scrape_002_20251118_225144.json",
+      "scrape_003_20251119_004746.json",
+      "scrape_004_20251119_023252.json"
+    ]
+  }
+}

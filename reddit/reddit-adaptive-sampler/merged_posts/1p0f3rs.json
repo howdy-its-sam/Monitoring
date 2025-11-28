@@ -1,0 +1,80 @@
+{
+  "post": {
+    "id": "1p0f3rs",
+    "title": "Microsoft’s new Anthropic partnership brings Claude AI models to Azure",
+    "author": "theverge",
+    "score_history": [
+      [
+        14,
+        "2025-11-19T02:55:47.898633"
+      ],
+      [
+        13,
+        "2025-11-19T03:06:58.915621"
+      ],
+      [
+        14,
+        "2025-11-19T03:16:16.459769"
+      ]
+    ],
+    "created_utc": 1763480242.0,
+    "num_comments": 2,
+    "subreddit": "artificial",
+    "url": "https://www.theverge.com/news/822988/microsoft-anthropic-partnership-claude-models-azure-investment-nvidia",
+    "selftext": "",
+    "permalink": "/r/artificial/comments/1p0f3rs/microsofts_new_anthropic_partnership_brings/"
+  },
+  "comments": [
+    {
+      "id": "npiamzm",
+      "parent_id": "t3_1p0f3rs",
+      "author": "theverge",
+      "text_history": [
+        [
+          "Microsoft is announcing a strategic partnership with Anthropic today that will bring the AI startup’s models to Microsoft Foundry for the first time. As part of the deal, Anthropic is also committing to purchasing $30 billion of Azure compute capacity and “to contract additional compute capacity up to one gigawatt.”\n\nMicrosoft Foundry customers will now be able to access Anthropic’s frontier Claude models including Claude Sonnet 4.5, Claude Opus 4.1, and Claude Haiku 4.5. Despite these models coming to Microsoft’s AI servers, Amazon will still remain Anthropic’s primary cloud provider and training partner.\n\nRead more: [https://www.theverge.com/news/822988/microsoft-anthropic-partnership-claude-models-azure-investment-nvidia](https://www.theverge.com/news/822988/microsoft-anthropic-partnership-claude-models-azure-investment-nvidia)",
+          "2025-11-19T02:55:47.898633"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-19T02:55:47.898633"
+        ],
+        [
+          2,
+          "2025-11-19T03:06:58.915621"
+        ],
+        [
+          2,
+          "2025-11-19T03:16:16.459769"
+        ]
+      ],
+      "created_utc": 1763480260.0,
+      "depth": 0,
+      "permalink": "/r/artificial/comments/1p0f3rs/microsofts_new_anthropic_partnership_brings/npiamzm/",
+      "is_submitter": true,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:16:16.459769",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/artificial/comments/1p0f3rs/microsofts_new_anthropic_partnership_brings/",
+    "total_comments": 1,
+    "top_level_comments": 1,
+    "api_requests": 1,
+    "expected_comments": 2,
+    "coverage_percent": 50.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_025547.json",
+      "scrape_002_20251119_030657.json",
+      "scrape_003_20251119_031616.json"
+    ]
+  }
+}

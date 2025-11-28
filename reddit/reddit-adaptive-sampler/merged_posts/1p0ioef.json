@@ -1,0 +1,154 @@
+{
+  "post": {
+    "id": "1p0ioef",
+    "title": "[ Removed by moderator ]",
+    "author": "icedrift",
+    "score_history": [
+      [
+        14,
+        "2025-11-18T14:53:57.346783"
+      ],
+      [
+        14,
+        "2025-11-18T15:04:16.738589"
+      ],
+      [
+        13,
+        "2025-11-18T15:05:49.750059"
+      ],
+      [
+        13,
+        "2025-11-18T22:41:19.004161"
+      ],
+      [
+        15,
+        "2025-11-19T00:26:25.764141"
+      ],
+      [
+        15,
+        "2025-11-19T02:11:53.965564"
+      ]
+    ],
+    "created_utc": 1763488172.0,
+    "num_comments": 2,
+    "subreddit": "singularity",
+    "url": "https://www.reddit.com/r/singularity/comments/1p0ioef/has_anyone_been_able_to_make_anything_with/",
+    "selftext": "[removed]",
+    "permalink": "/r/singularity/comments/1p0ioef/has_anyone_been_able_to_make_anything_with/"
+  },
+  "comments": [
+    {
+      "id": "npj1s7o",
+      "parent_id": "t3_1p0ioef",
+      "author": "TFenrir",
+      "text_history": [
+        [
+          "Got about 15 minutes of use before it hit a limit and I think everyone is right now. Maybe they allocated a certain amount of compute for the free trial and it's kinda getting its ass kicked",
+          "2025-11-18T14:53:57.346783"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-18T14:53:57.346783"
+        ],
+        [
+          2,
+          "2025-11-18T15:04:16.738589"
+        ],
+        [
+          2,
+          "2025-11-18T15:05:49.750059"
+        ],
+        [
+          2,
+          "2025-11-18T22:41:19.004161"
+        ],
+        [
+          2,
+          "2025-11-19T00:26:25.764141"
+        ],
+        [
+          2,
+          "2025-11-19T02:11:53.965564"
+        ]
+      ],
+      "created_utc": 1763488230.0,
+      "depth": 0,
+      "permalink": "/r/singularity/comments/1p0ioef/has_anyone_been_able_to_make_anything_with/npj1s7o/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npj439l",
+      "parent_id": "t3_1p0ioef",
+      "author": "Puzzled_Cycle_71",
+      "text_history": [
+        [
+          "Oddly enough I made gravity.",
+          "2025-11-18T14:53:57.346783"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-18T14:53:57.346783"
+        ],
+        [
+          4,
+          "2025-11-18T15:04:16.738589"
+        ],
+        [
+          3,
+          "2025-11-18T15:05:49.750059"
+        ],
+        [
+          3,
+          "2025-11-18T22:41:19.004161"
+        ],
+        [
+          3,
+          "2025-11-19T00:26:25.764141"
+        ],
+        [
+          4,
+          "2025-11-19T02:11:53.965564"
+        ]
+      ],
+      "created_utc": 1763488889.0,
+      "depth": 0,
+      "permalink": "/r/singularity/comments/1p0ioef/has_anyone_been_able_to_make_anything_with/npj439l/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T02:11:53.965564",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/singularity/comments/1p0ioef/has_anyone_been_able_to_make_anything_with/",
+    "total_comments": 2,
+    "top_level_comments": 2,
+    "api_requests": 1,
+    "expected_comments": 2,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 6,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_145357.json",
+      "scrape_002_20251118_150416.json",
+      "scrape_003_20251118_150549.json",
+      "scrape_004_20251118_224118.json",
+      "scrape_005_20251119_002625.json",
+      "scrape_006_20251119_021153.json"
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+==========================================
+   Reddit Scraper Statistics Report
+==========================================
+
+Thu Nov 27 11:43:44 PST 2025
+
+=== DATA COLLECTION ===
+
+Total scrapes completed: 7269
+  - New discoveries (first scrapes): 1789
+  - Re-scrapes (temporal tracking): 5480
+
+Unique posts tracked: 3441
+  - Posts with scrapes: 1789
+  - Posts waiting to scrape: 1652
+
+Total JSON files: 12226
+Total data size: 238M
+
+=== TIME ALLOCATION ===
+
+24.6% - Discovery (finding new posts)
+75.3% - Re-scraping (tracking changes over time)
+
+=== RE-SCRAPE INTENSITY ===
+
+Average scrapes per post: 4.0x
+Posts in queue (not yet scraped): 48%
+

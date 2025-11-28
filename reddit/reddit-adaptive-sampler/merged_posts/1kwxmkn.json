@@ -1,0 +1,44 @@
+{
+  "post": {
+    "id": "1kwxmkn",
+    "title": "AKOOL Launches Image-to-Video, Transforming Still Images into Lifelike AI Videos in Seconds",
+    "author": "Few_Tomatillo8346",
+    "score_history": [
+      [
+        1,
+        "2025-11-19T02:45:52.218831"
+      ],
+      [
+        1,
+        "2025-11-19T02:52:26.493137"
+      ],
+      [
+        1,
+        "2025-11-19T02:54:07.695156"
+      ]
+    ],
+    "created_utc": 1748377056.0,
+    "num_comments": 0,
+    "subreddit": "ainews",
+    "url": "https://finance.yahoo.com/news/akool-launches-image-video-transforming-180500364.html?guccounter=1&amp;guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&amp;guce_referrer_sig=AQAAAKvhdXmPDCxn_D7C6YAszPKqXSKqDhUsHj5xK6FAZuwHVnMfBKLI6NKOoKcAVpcsO669q7bDCwcvHDEn6GCqYUahwUayFUvjpRJdUxefh1weR6Ar2uevPduXQBGBMbc_fFZIaUpV3Sp5TTw0fPIx5J3s7XZJ8SYGdlRZlAlIzCj7",
+    "selftext": "",
+    "permalink": "/r/ainews/comments/1kwxmkn/akool_launches_imagetovideo_transforming_still/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T02:54:07.695156",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/ainews/comments/1kwxmkn/akool_launches_imagetovideo_transforming_still/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_024552.json",
+      "scrape_002_20251119_025226.json",
+      "scrape_003_20251119_025407.json"
+    ]
+  }
+}

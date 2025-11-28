@@ -1,0 +1,80 @@
+{
+  "post": {
+    "id": "1p01547",
+    "title": "Microsoft: Windows 10 KB5072653 OOB update fixes ESU install errors",
+    "author": "ControlCAD",
+    "score_history": [
+      [
+        23,
+        "2025-11-19T03:28:55.585311"
+      ],
+      [
+        24,
+        "2025-11-19T03:36:18.027357"
+      ],
+      [
+        21,
+        "2025-11-19T03:37:54.643144"
+      ]
+    ],
+    "created_utc": 1763435854.0,
+    "num_comments": 1,
+    "subreddit": "technews",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-10-kb5072653-oob-update-fixes-esu-install-errors/",
+    "selftext": "",
+    "permalink": "/r/technews/comments/1p01547/microsoft_windows_10_kb5072653_oob_update_fixes/"
+  },
+  "comments": [
+    {
+      "id": "npfyuwm",
+      "parent_id": "t3_1p01547",
+      "author": "Ted_go",
+      "text_history": [
+        [
+          "Something tells me that Something else is broken.",
+          "2025-11-19T03:28:55.585311"
+        ]
+      ],
+      "score_history": [
+        [
+          5,
+          "2025-11-19T03:28:55.585311"
+        ],
+        [
+          4,
+          "2025-11-19T03:36:18.027357"
+        ],
+        [
+          4,
+          "2025-11-19T03:37:54.643144"
+        ]
+      ],
+      "created_utc": 1763441387.0,
+      "depth": 0,
+      "permalink": "/r/technews/comments/1p01547/microsoft_windows_10_kb5072653_oob_update_fixes/npfyuwm/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:37:54.643144",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/technews/comments/1p01547/microsoft_windows_10_kb5072653_oob_update_fixes/",
+    "total_comments": 1,
+    "top_level_comments": 1,
+    "api_requests": 1,
+    "expected_comments": 1,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_032855.json",
+      "scrape_002_20251119_033617.json",
+      "scrape_003_20251119_033754.json"
+    ]
+  }
+}

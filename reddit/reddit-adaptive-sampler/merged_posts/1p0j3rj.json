@@ -1,0 +1,150 @@
+{
+  "post": {
+    "id": "1p0j3rj",
+    "title": "[ Removed by moderator ]",
+    "author": "Comprehensive-Bet-83",
+    "score_history": [
+      [
+        7,
+        "2025-11-19T03:19:49.214091"
+      ],
+      [
+        7,
+        "2025-11-19T03:28:49.788385"
+      ],
+      [
+        6,
+        "2025-11-19T03:30:32.404072"
+      ]
+    ],
+    "created_utc": 1763489104.0,
+    "num_comments": 3,
+    "subreddit": "singularity",
+    "url": "https://www.reddit.com/r/singularity/comments/1p0j3rj/anyone_else_no_3_yet/",
+    "selftext": "[removed]",
+    "permalink": "/r/singularity/comments/1p0j3rj/anyone_else_no_3_yet/"
+  },
+  "comments": [
+    {
+      "id": "npj5rqj",
+      "parent_id": "t3_1p0j3rj",
+      "author": "Ikbeneenpaard",
+      "text_history": [
+        [
+          "Also NL: I have it in AI studio",
+          "2025-11-19T03:19:49.214091"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-19T03:19:49.214091"
+        ],
+        [
+          2,
+          "2025-11-19T03:28:49.788385"
+        ],
+        [
+          2,
+          "2025-11-19T03:30:32.404072"
+        ]
+      ],
+      "created_utc": 1763489377.0,
+      "depth": 0,
+      "permalink": "/r/singularity/comments/1p0j3rj/anyone_else_no_3_yet/npj5rqj/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npj8m2g",
+      "parent_id": "t3_1p0j3rj",
+      "author": "The_Crowned_Prince_B",
+      "text_history": [
+        [
+          "In Nepal, it was present an hour ago. It is not available now. I think everyone is overloading the system.",
+          "2025-11-19T03:19:49.214091"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T03:19:49.214091"
+        ],
+        [
+          1,
+          "2025-11-19T03:28:49.788385"
+        ],
+        [
+          1,
+          "2025-11-19T03:30:32.404072"
+        ]
+      ],
+      "created_utc": 1763490190.0,
+      "depth": 0,
+      "permalink": "/r/singularity/comments/1p0j3rj/anyone_else_no_3_yet/npj8m2g/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npkcu4n",
+      "parent_id": "t3_1p0j3rj",
+      "author": "manubfr",
+      "text_history": [
+        [
+          "UK. Have it in AI studio, google cloud and api but not in gemini web or mobile.",
+          "2025-11-19T03:19:49.214091"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T03:19:49.214091"
+        ],
+        [
+          1,
+          "2025-11-19T03:28:49.788385"
+        ],
+        [
+          1,
+          "2025-11-19T03:30:32.404072"
+        ]
+      ],
+      "created_utc": 1763502164.0,
+      "depth": 0,
+      "permalink": "/r/singularity/comments/1p0j3rj/anyone_else_no_3_yet/npkcu4n/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:30:32.404072",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/singularity/comments/1p0j3rj/anyone_else_no_3_yet/",
+    "total_comments": 3,
+    "top_level_comments": 3,
+    "api_requests": 1,
+    "expected_comments": 3,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_031949.json",
+      "scrape_002_20251119_032849.json",
+      "scrape_003_20251119_033032.json"
+    ]
+  }
+}

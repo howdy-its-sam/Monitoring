@@ -1,0 +1,44 @@
+{
+  "post": {
+    "id": "1ozxxcn",
+    "title": "Understand Neural Networks before diving into LLMs and RAG",
+    "author": "reddit-newbie-2023",
+    "score_history": [
+      [
+        7,
+        "2025-11-18T15:16:48.149863"
+      ],
+      [
+        6,
+        "2025-11-18T23:22:54.289865"
+      ],
+      [
+        5,
+        "2025-11-19T01:08:32.489348"
+      ]
+    ],
+    "created_utc": 1763427011.0,
+    "num_comments": 0,
+    "subreddit": "Rag",
+    "url": "https://www.reddit.com/r/Rag/comments/1ozxxcn/understand_neural_networks_before_diving_into/",
+    "selftext": "I have put together a simplified overview of Neural networks and how they form the basis for LLMs and eventually RAG pipelines.\n\nGive this a read - [https://ragyfied.com/articles/what-is-neural-network](https://ragyfied.com/articles/what-is-neural-network) \n\nIt will give you a good understanding of the architecture and design of LLMs.",
+    "permalink": "/r/Rag/comments/1ozxxcn/understand_neural_networks_before_diving_into/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T01:08:32.489348",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/Rag/comments/1ozxxcn/understand_neural_networks_before_diving_into/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_151647.json",
+      "scrape_002_20251118_232254.json",
+      "scrape_003_20251119_010832.json"
+    ]
+  }
+}

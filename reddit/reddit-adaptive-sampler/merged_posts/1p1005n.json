@@ -1,0 +1,227 @@
+{
+  "post": {
+    "id": "1p1005n",
+    "title": "I asked gemini 3 pro thinking model to write a small C program to impress a senior developer",
+    "author": "wit4er",
+    "score_history": [
+      [
+        0,
+        "2025-11-19T03:50:20.163124"
+      ],
+      [
+        0,
+        "2025-11-19T03:59:39.623298"
+      ],
+      [
+        0,
+        "2025-11-19T04:01:47.879819"
+      ],
+      [
+        0,
+        "2025-11-19T04:03:02.676758"
+      ],
+      [
+        0,
+        "2025-11-19T04:09:44.974355"
+      ],
+      [
+        0,
+        "2025-11-19T04:10:29.284298"
+      ],
+      [
+        0,
+        "2025-11-19T04:12:35.019918"
+      ],
+      [
+        0,
+        "2025-11-19T04:21:24.153834"
+      ]
+    ],
+    "created_utc": 1763533040.0,
+    "num_comments": 3,
+    "subreddit": "ChatGPTCoding",
+    "url": "https://www.reddit.com/r/ChatGPTCoding/comments/1p1005n/i_asked_gemini_3_pro_thinking_model_to_write_a/",
+    "selftext": "Since Gemini3 Pro is considered to be the best model out there for developers, I asked it to create something that would impress a senior developer with 40 years of experience. That is what I got as a response:\n\n     /*\n     * tiny_vm.c\n     * A minimal, safe, stack-based Virtual Machine.\n     *\n     * DESIGN PHILOSOPHY:\n     * - Explicit Memory Layout: We use fixed-width integers (int32_t, uint8_t).\n     * - Safety First: Strict bounds checking on Stack Pointer (SP) and Instruction Pointer (IP).\n     * - Transparency: The Fetch-Decode-Execute cycle is visible and debuggable.\n     *\n     * ARCHITECTURE:\n     * - Stack: Fixed size 256 integers.\n     * - Instruction Set: 10 basic opcodes.\n     */\n    \n    #include &lt;stdbool.h&gt;\n    #include &lt;stdint.h&gt;\n    #include &lt;stdio.h&gt;\n    #include &lt;stdlib.h&gt;\n    \n    #define STACK_SIZE       256\n    #define MAX_PROGRAM_SIZE 128\n    \n    /* * OpCodes\n     * Using an enum makes the instruction set readable and creates a contract\n     * for the interpreter switch-case.\n     */\n    typedef enum {\n        OP_HALT = 0x00, // Stop execution\n        OP_PUSH = 0x01, // Push immediate value to stack\n        OP_POP = 0x02, // Pop top of stack\n        OP_ADD = 0x03, // Pop a, pop b, push a + b\n        OP_SUB = 0x04, // Pop a, pop b, push b - a\n        OP_MUL = 0x05, // Pop a, pop b, push a * b\n        OP_JMP = 0x06, // Jump to address\n        OP_JZ = 0x07, // Jump if Zero (pop top, if 0, jump)\n        OP_DUP = 0x08, // Duplicate top of stack\n        OP_PRT = 0x09 // Print top of stack\n    } OpCode;\n    \n    /*\n     * CPU State\n     * Encapsulates the entire state of the machine.\n     * This allows for easy context switching or saving state to disk.\n     */\n    typedef struct {\n        int32_t stack[STACK_SIZE]; // The working stack\n        uint8_t code[MAX_PROGRAM_SIZE]; // Read-only program memory\n        size_t code_size; // Size of the loaded program\n        int32_t sp; // Stack Pointer (points to top item)\n        size_t ip; // Instruction Pointer (current byte index)\n        bool running; // Execution flag\n    } VM;\n    \n    /*\n     * Initialize the Virtual Machine to a clean state\n     */\n    void vm_init(VM *vm, const uint8_t *program, size_t size)\n    {\n        if (size &gt; MAX_PROGRAM_SIZE) {\n            fprintf(stderr, \"Error: Program size exceeds memory limits.\\n\");\n            exit(1);\n        }\n    \n        // sp = -1 indicates empty stack (grows upwards)\n        vm-&gt;sp = -1;\n        vm-&gt;ip = 0;\n        vm-&gt;running = true;\n        vm-&gt;code_size = size;\n    \n        // Load program into memory\n        for (size_t i = 0; i &lt; size; i++) {\n            vm-&gt;code[i] = program[i];\n        }\n    }\n    \n    /*\n     * Stack Operations with Bounds Checking\n     * Bounds checking is critical in C to prevent buffer overflows.\n     */\n    void vm_push(VM *vm, int32_t value)\n    {\n        if (vm-&gt;sp &gt;= STACK_SIZE - 1) {\n            fprintf(stderr, \"Fatal: Stack Overflow at IP %zu\\n\", vm-&gt;ip);\n            vm-&gt;running = false;\n            return;\n        }\n        vm-&gt;stack[++vm-&gt;sp] = value;\n    }\n    \n    int32_t vm_pop(VM *vm)\n    {\n        if (vm-&gt;sp &lt; 0) {\n            fprintf(stderr, \"Fatal: Stack Underflow at IP %zu\\n\", vm-&gt;ip);\n            vm-&gt;running = false;\n            return 0;\n        }\n        return vm-&gt;stack[vm-&gt;sp--];\n    }\n    \n    /*\n     * The Core Execution Loop\n     * Implements the classic Fetch-Decode-Execute cycle.\n     */\n    void vm_run(VM *vm)\n    {\n        printf(\"--- VM Started ---\\n\");\n    \n        while (vm-&gt;running &amp;&amp; vm-&gt;ip &lt; vm-&gt;code_size) {\n            // FETCH\n            uint8_t opcode = vm-&gt;code[vm-&gt;ip++];\n    \n            // DECODE &amp; EXECUTE\n            switch (opcode) {\n            case OP_HALT:\n                vm-&gt;running = false;\n                break;\n    \n            case OP_PUSH:\n                // Fetch the immediate argument (next byte)\n                if (vm-&gt;ip &gt;= vm-&gt;code_size) {\n                    fprintf(stderr, \"Error: Unexpected EOF after PUSH\\n\");\n                    vm-&gt;running = false;\n                } else {\n                    int32_t val = vm-&gt;code[vm-&gt;ip++];\n                    vm_push(vm, val);\n                }\n                break;\n    \n            case OP_POP:\n                vm_pop(vm);\n                break;\n    \n            case OP_ADD: {\n                int32_t a = vm_pop(vm);\n                int32_t b = vm_pop(vm);\n                vm_push(vm, a + b);\n                break;\n            }\n    \n            case OP_SUB: {\n                int32_t a = vm_pop(vm); // Top\n                int32_t b = vm_pop(vm); // Second\n                vm_push(vm, b - a); // Order matters\n                break;\n            }\n    \n            case OP_MUL: {\n                int32_t a = vm_pop(vm);\n                int32_t b = vm_pop(vm);\n                vm_push(vm, a * b);\n                break;\n            }\n    \n            case OP_JMP: {\n                // Unconditional jump to address\n                uint8_t target = vm-&gt;code[vm-&gt;ip++];\n                vm-&gt;ip = target;\n                break;\n            }\n    \n            case OP_JZ: {\n                // Jump if top of stack is zero\n                uint8_t target = vm-&gt;code[vm-&gt;ip++];\n                int32_t val = vm_pop(vm);\n                if (val == 0) {\n                    vm-&gt;ip = target;\n                }\n                break;\n            }\n    \n            case OP_DUP: {\n                // Peek at top and push it again\n                if (vm-&gt;sp &lt; 0) {\n                    fprintf(stderr, \"Fatal: Stack Underflow on DUP\\n\");\n                    vm-&gt;running = false;\n                } else {\n                    vm_push(vm, vm-&gt;stack[vm-&gt;sp]);\n                }\n                break;\n            }\n    \n            case OP_PRT: {\n                // Peek and print (doesn't consume)\n                if (vm-&gt;sp &gt;= 0) {\n                    printf(\"&gt;&gt; STDOUT: %d\\n\", vm-&gt;stack[vm-&gt;sp]);\n                }\n                break;\n            }\n    \n            default:\n                fprintf(stderr, \"Error: Unknown OpCode 0x%02x at %zu\\n\", opcode, vm-&gt;ip - 1);\n                vm-&gt;running = false;\n                break;\n            }\n        }\n        printf(\"--- VM Halted ---\\n\");\n    }\n    \n    int main()\n    {\n        VM vm;\n    \n        /*\n         * PROGRAM: Calculate Factorial of 5 (5!)\n         * Logic:\n         * ACC = 1\n         * CNT = 5\n         * LOOP:\n         * IF CNT == 0 GOTO END\n         * ACC = ACC * CNT\n         * CNT = CNT - 1\n         * GOTO LOOP\n         * END:\n         * PRINT ACC\n         * HALT\n         *\n         * Memory Mapping (Stack approach):\n         * We will keep [ACC, CNT] on the stack.\n         */\n    \n        const uint8_t program[] = {\n            // Init: Stack = [1, 5]  (Accumulator, Counter)\n            OP_PUSH, 1, // Stack: [1]\n            OP_PUSH, 5, // Stack: [1, 5]\n    \n            // LABEL_START (Address 4)\n            // Check if Counter is 0.\n            OP_DUP, // Stack: [1, 5, 5]\n            OP_JZ, 19, // If 0, jump to LABEL_END (Address 19). Pops the 5.\n    \n            // Multiply Accumulator * Counter\n            OP_DUP, // Stack: [1, 5, 5]\n            OP_PUSH, 3, // Stack: [1, 5, 5, 3] (Helper to reach deep into stack? No, our VM is simple.)\n            // Actually, stack machines usually rotate.\n            // Let's do a simpler logic for this basic VM:\n            // We pop everything, calc, push back.\n    \n            // REWRITE for Simple Stack VM without SWAP/ROT:\n            // We will keep `Counter` on stack top. We will lose `Accumulator` if we aren't careful.\n            // Let's just use a simpler \"Count Down\" loop that prints the counter.\n            //\n            // NEW PROGRAM: Print 5, 4, 3, 2, 1\n    \n            // Stack: [5]\n    \n            // LABEL_LOOP (Address 4)\n            OP_DUP, // Stack: [5, 5]\n            OP_PRT, // Output: 5\n            OP_PUSH, 1, // Stack: [5, 1]\n            OP_SUB, // Stack: [4]\n            OP_DUP, // Stack: [4, 4]\n            OP_JZ, 14, // If 0, Jump to END (Address 14)\n            OP_JMP, 4, // Jump back to LABEL_LOOP\n    \n            // LABEL_END (Address 14)\n            OP_HALT\n        };\n    \n        // Let's run the Factorial one via a slightly smarter logic?\n        // No, the \"Print Countdown\" is perfect to demonstrate the loop and math\n        // without needing complex stack rotation instructions (ROT/SWAP).\n        // It proves the VM works.\n    \n        vm_init(&amp;vm, program, sizeof(program));\n        vm_run(&amp;vm);\n    \n        return 0;\n    }\n    \n\nThis program compiles succesfully but gives the following as a result:\n\n&gt;!Fatal: Stack Overflow at IP 11!&lt;\n\nAre you impressed?",
+    "permalink": "/r/ChatGPTCoding/comments/1p1005n/i_asked_gemini_3_pro_thinking_model_to_write_a/"
+  },
+  "comments": [
+    {
+      "id": "npnefjp",
+      "parent_id": "t3_1p1005n",
+      "author": "dozdeu",
+      "text_history": [
+        [
+          "No",
+          "2025-11-19T03:50:20.163124"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T03:50:20.163124"
+        ],
+        [
+          1,
+          "2025-11-19T03:59:39.623298"
+        ],
+        [
+          1,
+          "2025-11-19T04:01:47.879819"
+        ],
+        [
+          1,
+          "2025-11-19T04:03:02.676758"
+        ],
+        [
+          1,
+          "2025-11-19T04:09:44.974355"
+        ],
+        [
+          1,
+          "2025-11-19T04:10:29.284298"
+        ],
+        [
+          1,
+          "2025-11-19T04:12:35.019918"
+        ],
+        [
+          1,
+          "2025-11-19T04:21:24.153834"
+        ]
+      ],
+      "created_utc": 1763549633.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTCoding/comments/1p1005n/i_asked_gemini_3_pro_thinking_model_to_write_a/npnefjp/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npniywf",
+      "parent_id": "t3_1p1005n",
+      "author": "zenmatrix83",
+      "text_history": [
+        [
+          "I gave gemini 3 a test this morning, and just like all the other ones, it seems to know what it talks about, but as soon as it tries to write actual code its awful, I commited and backedup up by repo first and of course I had to revert. I prefer gemini for planning through deep research and then feeding that into a normal chat over all models, but I don't let it write actual code anymore.",
+          "2025-11-19T03:50:20.163124"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T03:50:20.163124"
+        ],
+        [
+          1,
+          "2025-11-19T03:59:39.623298"
+        ],
+        [
+          1,
+          "2025-11-19T04:01:47.879819"
+        ],
+        [
+          1,
+          "2025-11-19T04:03:02.676758"
+        ],
+        [
+          1,
+          "2025-11-19T04:09:44.974355"
+        ],
+        [
+          1,
+          "2025-11-19T04:10:29.284298"
+        ],
+        [
+          1,
+          "2025-11-19T04:12:35.019918"
+        ],
+        [
+          1,
+          "2025-11-19T04:21:24.153834"
+        ]
+      ],
+      "created_utc": 1763552101.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTCoding/comments/1p1005n/i_asked_gemini_3_pro_thinking_model_to_write_a/npniywf/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npnm7r8",
+      "parent_id": "t3_1p1005n",
+      "author": "eli_pizza",
+      "text_history": [
+        [
+          "Looks like an undergrad CS homework assignment",
+          "2025-11-19T04:01:47.879819"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T04:01:47.879819"
+        ],
+        [
+          1,
+          "2025-11-19T04:03:02.676758"
+        ],
+        [
+          1,
+          "2025-11-19T04:09:44.974355"
+        ],
+        [
+          1,
+          "2025-11-19T04:10:29.284298"
+        ],
+        [
+          1,
+          "2025-11-19T04:12:35.019918"
+        ],
+        [
+          1,
+          "2025-11-19T04:21:24.153834"
+        ]
+      ],
+      "created_utc": 1763553693.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTCoding/comments/1p1005n/i_asked_gemini_3_pro_thinking_model_to_write_a/npnm7r8/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T04:21:24.153834",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/ChatGPTCoding/comments/1p1005n/i_asked_gemini_3_pro_thinking_model_to_write_a/",
+    "total_comments": 3,
+    "top_level_comments": 3,
+    "api_requests": 1,
+    "expected_comments": 3,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 8,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_035019.json",
+      "scrape_002_20251119_035939.json",
+      "scrape_003_20251119_040147.json",
+      "scrape_004_20251119_040302.json",
+      "scrape_005_20251119_040944.json",
+      "scrape_006_20251119_041029.json",
+      "scrape_007_20251119_041234.json",
+      "scrape_008_20251119_042123.json"
+    ]
+  }
+}

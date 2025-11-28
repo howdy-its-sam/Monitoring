@@ -1,0 +1,154 @@
+{
+  "post": {
+    "id": "1oybbou",
+    "title": "Cerebras Releases MiniMax-M2-REAP-162B-A10B: A Memory Efficient Version of MiniMax-M2 for Long Context Coding Agents",
+    "author": "ai-lover",
+    "score_history": [
+      [
+        20,
+        "2025-11-18T13:49:46.953894"
+      ],
+      [
+        20,
+        "2025-11-18T14:00:57.859911"
+      ],
+      [
+        19,
+        "2025-11-18T14:12:17.408672"
+      ],
+      [
+        20,
+        "2025-11-18T21:49:48.773008"
+      ],
+      [
+        19,
+        "2025-11-18T23:54:49.916047"
+      ],
+      [
+        20,
+        "2025-11-19T01:40:01.996183"
+      ]
+    ],
+    "created_utc": 1763263976.0,
+    "num_comments": 2,
+    "subreddit": "machinelearningnews",
+    "url": "https://www.marktechpost.com/2025/11/15/cerebras-releases-minimax-m2-reap-162b-a10b-a-memory-efficient-version-of-minimax-m2-for-long-context-coding-agents/",
+    "selftext": "MiniMax-M2-REAP-162B-A10B is a Sparse Mixture-of-Experts Causal Language Model created by applying Router weighted Expert Activation Pruning, REAP, to the 230B MiniMax-M2 at a 30% expert pruning rate, resulting in 162B total parameters with 10B active per token, 62 layers, 48 heads, 180 experts and a 196,608 token context window, while maintaining near identical accuracy to MiniMax-M2 on HumanEval 93.3, MBPP 86.5, AIME25 73.3, MATH-500 89.4 and τ² bench Telecom 59.1, making it a memory efficient long context coding and tool calling model for vLLM deployments.....\n\nFull analysis: [https://www.marktechpost.com/2025/11/15/cerebras-releases-minimax-m2-reap-162b-a10b-a-memory-efficient-version-of-minimax-m2-for-long-context-coding-agents/](https://www.marktechpost.com/2025/11/15/cerebras-releases-minimax-m2-reap-162b-a10b-a-memory-efficient-version-of-minimax-m2-for-long-context-coding-agents/)\n\nModel weights: [https://huggingface.co/cerebras/MiniMax-M2-REAP-162B-A10B](https://huggingface.co/cerebras/MiniMax-M2-REAP-162B-A10B)\n\nRelated paper: [https://arxiv.org/pdf/2510.13999v1](https://arxiv.org/pdf/2510.13999v1)",
+    "permalink": "/r/machinelearningnews/comments/1oybbou/cerebras_releases_minimaxm2reap162ba10b_a_memory/"
+  },
+  "comments": [
+    {
+      "id": "np4m7jh",
+      "parent_id": "t3_1oybbou",
+      "author": "Zc5Gwu",
+      "text_history": [
+        [
+          "GGUF?",
+          "2025-11-18T13:49:46.953894"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-18T13:49:46.953894"
+        ],
+        [
+          2,
+          "2025-11-18T14:00:57.859911"
+        ],
+        [
+          2,
+          "2025-11-18T14:12:17.408672"
+        ],
+        [
+          2,
+          "2025-11-18T21:49:48.773008"
+        ],
+        [
+          2,
+          "2025-11-18T23:54:49.916047"
+        ],
+        [
+          2,
+          "2025-11-19T01:40:01.996183"
+        ]
+      ],
+      "created_utc": 1763290529.0,
+      "depth": 0,
+      "permalink": "/r/machinelearningnews/comments/1oybbou/cerebras_releases_minimaxm2reap162ba10b_a_memory/np4m7jh/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "np3weoi",
+      "parent_id": "t3_1oybbou",
+      "author": "--Tintin",
+      "text_history": [
+        [
+          "Wow, Sounds very promising. What would be the memory requirements? 128GB isn’t enough, right?",
+          "2025-11-18T13:49:46.953894"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T13:49:46.953894"
+        ],
+        [
+          1,
+          "2025-11-18T14:00:57.859911"
+        ],
+        [
+          1,
+          "2025-11-18T14:12:17.408672"
+        ],
+        [
+          1,
+          "2025-11-18T21:49:48.773008"
+        ],
+        [
+          1,
+          "2025-11-18T23:54:49.916047"
+        ],
+        [
+          1,
+          "2025-11-19T01:40:01.996183"
+        ]
+      ],
+      "created_utc": 1763275079.0,
+      "depth": 0,
+      "permalink": "/r/machinelearningnews/comments/1oybbou/cerebras_releases_minimaxm2reap162ba10b_a_memory/np3weoi/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T01:40:01.996183",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/machinelearningnews/comments/1oybbou/cerebras_releases_minimaxm2reap162ba10b_a_memory/",
+    "total_comments": 2,
+    "top_level_comments": 2,
+    "api_requests": 1,
+    "expected_comments": 2,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 6,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_134946.json",
+      "scrape_002_20251118_140057.json",
+      "scrape_003_20251118_141217.json",
+      "scrape_004_20251118_214948.json",
+      "scrape_005_20251118_235449.json",
+      "scrape_006_20251119_014001.json"
+    ]
+  }
+}

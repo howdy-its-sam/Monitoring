@@ -1,0 +1,44 @@
+{
+  "post": {
+    "id": "1p0m76a",
+    "title": "Generate investor report templates. Prompt included.",
+    "author": "CalendarVarious3992",
+    "score_history": [
+      [
+        1,
+        "2025-11-19T03:19:50.491701"
+      ],
+      [
+        1,
+        "2025-11-19T03:28:49.058785"
+      ],
+      [
+        1,
+        "2025-11-19T03:30:36.069313"
+      ]
+    ],
+    "created_utc": 1763496014.0,
+    "num_comments": 0,
+    "subreddit": "PromptEngineering",
+    "url": "https://www.reddit.com/r/PromptEngineering/comments/1p0m76a/generate_investor_report_templates_prompt_included/",
+    "selftext": "Hey there!\n\nAre you tired of manually compiling investor reports and juggling countless data points? If assembling detailed, investor-ready documents feels like navigating a maze, this prompt chain is here to simplify your life. It automates the process by breaking down complex report creation into clear, manageable steps.\n\nHere's how it works:\n\n- **Sequential Building:** Each step builds on the previous one, ensuring that you start with gathering essential quantitative and qualitative data and then gradually structure your report.\n- **Structured Breakdown:** From listing mandatory information to drafting subtle boilerplate texts and finalizing the document layout, it divides the task into easily digestible parts.\n- **Repetitive Task Handling:** Instead of manually formatting headers and sub-sections, it automates consistent styling and placeholder usage throughout the document.\n- **Key Variables:**\n   - [COMPANY_NAME]: Legal name of your organization\n   - [REPORT_PERIOD]: The time frame covered by the report (e.g., Q2 2024)\n   - [REPORT_TYPE]: Type of report (e.g., Quarterly Results, Annual Report, Interim Update)\n\nBelow is the exact prompt chain you can use:\n\n```\n[COMPANY_NAME]=Legal name of the organization\n[REPORT_PERIOD]=Time frame covered by the report (e.g., Q2 2024)\n[REPORT_TYPE]=Type of report (e.g., Quarterly Results, Annual Report, Interim Update)\n\nYou are a seasoned investor-relations analyst. 1) List all quantitative and qualitative information that must appear in a [REPORT_TYPE] for [COMPANY_NAME] covering [REPORT_PERIOD]. 2) Organize requirements under clear headers: Financial Metrics, Operational Highlights, Strategic Updates, Risk Factors, Outlook &amp; Guidance, Compliance/Regulatory Notes, and Appendices. 3) Indicate recommended data sources (e.g., audited financials, management commentary). 4) Output as a bullet list.\n~\nUsing the information list produced above, create a detailed outline for the investor report template. Step 1: Convert each header into a report section with sub-sections and brief descriptors of expected content. Step 2: For each sub-section, specify formatting hints (tables, charts, narrative, KPIs). Step 3: Present the outline in a hierarchical numbered format (e.g., 1, 1.1, 1.2…).\n~\nDraft boiler-plate text for each section of the outline suitable for [REPORT_TYPE] investors of [COMPANY_NAME]. 1) Keep language professional and investor-focused. 2) Where specific figures are required, insert placeholders in ALL-CAPS (e.g., REVENUE_GROWTH_%). 3) Suggest call-outs or infographics where helpful. 4) Return the draft template in the same numbered structure produced earlier.\n~\nFormat the template into a ready-to-use document. Instructions: a) Include a cover page with COMPANY_NAME, REPORT_PERIOD, REPORT_TYPE, and a placeholder for the company logo. b) Add a clickable table of contents that matches section numbers. c) Apply consistent heading styles (H1, H2, H3) and indicate them in brackets. e) Output the full template as plain text separated by clear line breaks.\n~\nReview / Refinement: Cross-check that the final document includes every required section from the first prompt, all placeholders follow same format, and formatting instructions are intact. If anything is missing or inconsistent, revise accordingly before final confirmation.\n```\n\nUsage Examples:\n- Replace [COMPANY_NAME] with your organization's legal name.\n- Fill [REPORT_PERIOD] with the period your report covers (like Q2 2024).\n- Specify [REPORT_TYPE] based on your report style, such as 'Annual Report'.\n\nTips for Customization:\n- Tailor the bullet list to include any extra data points your company tracks.\n- Adjust formatting hints in each section to match your brand guidelines.\n- Modify the call-outs or infographic suggestions to better suit your audience.\n\nFor those using Agentic Workers, you can run this prompt chain with a single click, streamlining the process even further.\n\nExplore the full tool and enhance your investor relations game with this chain:\n[Agentic Workers Investor Report Template Generator](https://www.agenticworkers.com/library/otxywm_7a_qxqk_cvuxxz-investor-report-template-generator)\n\nHappy reporting and good luck!",
+    "permalink": "/r/PromptEngineering/comments/1p0m76a/generate_investor_report_templates_prompt_included/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:30:36.069313",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/PromptEngineering/comments/1p0m76a/generate_investor_report_templates_prompt_included/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_031950.json",
+      "scrape_002_20251119_032848.json",
+      "scrape_003_20251119_033035.json"
+    ]
+  }
+}

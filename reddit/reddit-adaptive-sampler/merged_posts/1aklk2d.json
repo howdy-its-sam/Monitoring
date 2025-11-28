@@ -1,0 +1,116 @@
+{
+  "post": {
+    "id": "1aklk2d",
+    "title": "Project ideas for computational linguistics class?",
+    "author": "identiquik",
+    "score_history": [
+      [
+        7,
+        "2025-11-19T03:28:49.551602"
+      ],
+      [
+        7,
+        "2025-11-19T03:36:22.828347"
+      ],
+      [
+        7,
+        "2025-11-19T03:37:53.935053"
+      ]
+    ],
+    "created_utc": 1707255729.0,
+    "num_comments": 3,
+    "subreddit": "compling",
+    "url": "https://www.reddit.com/r/compling/comments/1aklk2d/project_ideas_for_computational_linguistics_class/",
+    "selftext": "I am a final-year undergraduate linguistics student who hopes to pursue a master's degree in computational linguistics after graduation. This semester, the linguistics department of my university is offering a \"Computational Methods in Linguistics\" class for the first time, which I am enrolled in.\n\nThis is not a computer science or ML class (no technical prerequisites), and instead focuses on computational methods that are useful for language research. The tail end of the class is project-based, where each student has to devise a personal project which applies topics we learn in the class. These topics include introductory Python and corpus linguistics. The lectures are open-ended and aside from some mandatory coding assignments, the professor basically teaches us ad-hoc depending on what our project goals are / what we're aiming for professionally.\n\nI am definitely more interested in the NLP side of things and less so in pure linguistic research done with the assistance of computational tools. I am also more than willing for the entirety of the project to be coding-based.\n\nWith that being said, and within the limited scope of the class, what might be a good project that I can put on my resume or application to grad school to demonstrate that I've dipped my toes into some NLP? So far, I've toyed with the idea of building a rudimentary verb conjugation tool for an endangered language, but I'm open to just about anything.\n\n(I am currently also taking an intro to Java class, a linear algebra class, and have experience with Python through self-teaching)",
+    "permalink": "/r/compling/comments/1aklk2d/project_ideas_for_computational_linguistics_class/"
+  },
+  "comments": [
+    {
+      "id": "kpb9780",
+      "parent_id": "t3_1aklk2d",
+      "author": "Prestigious_Fish_509",
+      "text_history": [
+        [
+          "I was in the same boots with you. We built a minigame for language learners based on correctly distinguishing a made-up word (with N-grams and linguistic restrictions) from an actual word (with a given edit distance to the made-up word) in an actual sentence that the actual word appears. You can toy with that idea, see what it gets you.",
+          "2025-11-19T03:28:49.551602"
+        ]
+      ],
+      "score_history": [
+        [
+          5,
+          "2025-11-19T03:28:49.551602"
+        ],
+        [
+          3,
+          "2025-11-19T03:36:22.828347"
+        ],
+        [
+          3,
+          "2025-11-19T03:37:53.935053"
+        ]
+      ],
+      "created_utc": 1707300838.0,
+      "depth": 0,
+      "permalink": "/r/compling/comments/1aklk2d/project_ideas_for_computational_linguistics_class/kpb9780/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "m6koq10",
+          "parent_id": "t1_kpb9780",
+          "author": "Jazzlike-Conflict-66",
+          "text_history": [
+            [
+              "hey can you plz explain it in more detail or share the project   \nas I also want to do my FYP retaled to computational linguistics   \nI am pursuing my education in English linguistics so   \ncan you explain and share it?",
+              "2025-11-19T03:28:49.551602"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-19T03:28:49.551602"
+            ],
+            [
+              1,
+              "2025-11-19T03:36:22.828347"
+            ],
+            [
+              1,
+              "2025-11-19T03:37:53.935053"
+            ]
+          ],
+          "created_utc": 1736603130.0,
+          "depth": 1,
+          "permalink": "/r/compling/comments/1aklk2d/project_ideas_for_computational_linguistics_class/m6koq10/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:37:53.935053",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/compling/comments/1aklk2d/project_ideas_for_computational_linguistics_class/",
+    "total_comments": 2,
+    "top_level_comments": 1,
+    "api_requests": 1,
+    "expected_comments": 3,
+    "coverage_percent": 66.67,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_032849.json",
+      "scrape_002_20251119_033622.json",
+      "scrape_003_20251119_033753.json"
+    ]
+  }
+}

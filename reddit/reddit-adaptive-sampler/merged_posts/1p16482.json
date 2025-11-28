@@ -1,0 +1,128 @@
+{
+  "post": {
+    "id": "1p16482",
+    "title": "How come all Medical PG coaching institutes claim toppers are from their institute? Do they pay them for advertisement?",
+    "author": "Apprehensive-Day3494",
+    "score_history": [
+      [
+        1,
+        "2025-11-19T04:21:15.588434"
+      ],
+      [
+        1,
+        "2025-11-19T04:22:04.865334"
+      ],
+      [
+        1,
+        "2025-11-19T04:22:52.019484"
+      ],
+      [
+        1,
+        "2025-11-19T04:24:04.032232"
+      ]
+    ],
+    "created_utc": 1763554510.0,
+    "num_comments": 2,
+    "subreddit": "marketing",
+    "url": "https://www.reddit.com/r/marketing/comments/1p16482/how_come_all_medical_pg_coaching_institutes_claim/",
+    "selftext": "I came across an interesting explanation from a senior who teaches PG aspirants, and it honestly makes a lot of sense:\n\nMost institutes don’t pay toppers , they simply offer heavily discounted or completely free admissions to high-ranking students.\n\nOnce enrolled, students naturally pick and choose the classes or teachers they like from each institute. Maybe one place has great pharmacology sessions, another has stronger orthopaedics , so they attend whichever lectures suit them best.\n\nHere’s where the controversy comes in:\n\nBecause these toppers are officially “on the rolls” of multiple institutes, every single one of those institutes claims them as their own once results are out.\n\nSo when you see ads saying *“Our student secured AIR \\_\\_\\_!”*, remember , that same student is probably appearing in several institutes’ marketing material at the same time.\n\nNo one is lying outright… but the whole system is definitely engineered to look more impressive than it really is.",
+    "permalink": "/r/marketing/comments/1p16482/how_come_all_medical_pg_coaching_institutes_claim/"
+  },
+  "comments": [
+    {
+      "id": "npnnz3s",
+      "parent_id": "t3_1p16482",
+      "author": "AutoModerator",
+      "text_history": [
+        [
+          "If this post doesn't follow the rules [report it to the mods](https://www.reddit.com/r/marketing/about/rules/). Join our [community Discord!](https://discord.gg/looking-for-marketing-discussion-811236647760298024)\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/marketing) if you have any questions or concerns.*",
+          "2025-11-19T04:21:15.588434"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T04:21:15.588434"
+        ],
+        [
+          1,
+          "2025-11-19T04:22:04.865334"
+        ],
+        [
+          1,
+          "2025-11-19T04:22:52.019484"
+        ],
+        [
+          1,
+          "2025-11-19T04:24:04.032232"
+        ]
+      ],
+      "created_utc": 1763554511.0,
+      "depth": 0,
+      "permalink": "/r/marketing/comments/1p16482/how_come_all_medical_pg_coaching_institutes_claim/npnnz3s/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npnnz4w",
+      "parent_id": "t3_1p16482",
+      "author": "AutoModerator",
+      "text_history": [
+        [
+          "Are you a marketing professional and have 15 minutes to share your insights? [Take our 2025 State of Marketing Survey](https://lookingformarketing.com/survey?utm_source=reddit&amp;utm_medium=social&amp;utm_campaign=survey&amp;utm_content=r_marketing).\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/marketing) if you have any questions or concerns.*",
+          "2025-11-19T04:21:15.588434"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T04:21:15.588434"
+        ],
+        [
+          1,
+          "2025-11-19T04:22:04.865334"
+        ],
+        [
+          1,
+          "2025-11-19T04:22:52.019484"
+        ],
+        [
+          1,
+          "2025-11-19T04:24:04.032232"
+        ]
+      ],
+      "created_utc": 1763554511.0,
+      "depth": 0,
+      "permalink": "/r/marketing/comments/1p16482/how_come_all_medical_pg_coaching_institutes_claim/npnnz4w/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T04:24:04.032232",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/marketing/comments/1p16482/how_come_all_medical_pg_coaching_institutes_claim/",
+    "total_comments": 2,
+    "top_level_comments": 2,
+    "api_requests": 1,
+    "expected_comments": 2,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 4,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_042115.json",
+      "scrape_002_20251119_042204.json",
+      "scrape_003_20251119_042251.json",
+      "scrape_004_20251119_042403.json"
+    ]
+  }
+}

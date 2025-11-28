@@ -1,0 +1,115 @@
+{
+  "post": {
+    "id": "1p0z9i2",
+    "title": "Schmoozing the sales teams",
+    "author": "technicolourem",
+    "score_history": [
+      [
+        1,
+        "2025-11-19T03:41:35.835681"
+      ],
+      [
+        1,
+        "2025-11-19T03:49:00.421483"
+      ],
+      [
+        1,
+        "2025-11-19T03:50:45.847241"
+      ]
+    ],
+    "created_utc": 1763530512.0,
+    "num_comments": 2,
+    "subreddit": "marketing",
+    "url": "https://www.reddit.com/r/marketing/comments/1p0z9i2/schmoozing_the_sales_teams/",
+    "selftext": "So I’ve just joined a small company who are still in the start up phase, been in the industry for about 12 years, and I’m heading up their partner marketing. The commercial director seems big on taking the partner sales teams out for dinner and drinks, and honestly I think I’d rather die than do that. I’m big on protecting my work/life balance because I have small children but also I just don’t want dinner and drinks with a bunch of randomers who arent my friends/family after a long day at work. \n\nI get my work done, and I do it well, but after that’s done I’m going home to hang out with my kids and relax. I don’t want to be staying over in random hotels and taking a bunch of sales guys out for beers. I’m a 34 year old mum, and it’s just not my style. \n\nI imagine there is a conversation to be had there soon so I can tell the commercial director this isn’t my style so I won’t be attending those post work drinks, but I’m curious - how do you all feel about schmoozing sales teams? Is it necessary? Do they want to be schmoozed after standard work hours? Is it beneficial to them or you?",
+    "permalink": "/r/marketing/comments/1p0z9i2/schmoozing_the_sales_teams/"
+  },
+  "comments": [
+    {
+      "id": "npn572f",
+      "parent_id": "t3_1p0z9i2",
+      "author": "polygraph-net",
+      "text_history": [
+        [
+          "If you're ambitious and want to more easily get promoted and find opportunities, you need to network and build relationships.\n\n&gt; The commercial director seems big on taking the partner sales teams out for dinner and drinks, and honestly I think I’d rather die than do that.\n\n&gt; I’m heading up their partner marketing.\n\nI completely understand you'd rather go home to your kids, but I think you're going to have issues with the commercial director if you refuse to attend partner events.\n\nAssuming these events are infrequent, I'd make the effort.\n\n&gt; I just don’t want dinner and drinks with a bunch of randomers who arent my friends/family after a long day at work.\n\nI think this is the wrong mentality. The dinner/drinks *is work*.",
+          "2025-11-19T03:41:35.835681"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-19T03:41:35.835681"
+        ],
+        [
+          2,
+          "2025-11-19T03:49:00.421483"
+        ],
+        [
+          2,
+          "2025-11-19T03:50:45.847241"
+        ]
+      ],
+      "created_utc": 1763544027.0,
+      "depth": 0,
+      "permalink": "/r/marketing/comments/1p0z9i2/schmoozing_the_sales_teams/npn572f/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npnhil0",
+      "parent_id": "t3_1p0z9i2",
+      "author": "easy_mak",
+      "text_history": [
+        [
+          "Was the partnership strategy or execution not discussed during the interview process at all? Sounds like a big miscommunication on all parties.",
+          "2025-11-19T03:41:35.835681"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T03:41:35.835681"
+        ],
+        [
+          1,
+          "2025-11-19T03:49:00.421483"
+        ],
+        [
+          1,
+          "2025-11-19T03:50:45.847241"
+        ]
+      ],
+      "created_utc": 1763551340.0,
+      "depth": 0,
+      "permalink": "/r/marketing/comments/1p0z9i2/schmoozing_the_sales_teams/npnhil0/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:50:45.847241",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/marketing/comments/1p0z9i2/schmoozing_the_sales_teams/",
+    "total_comments": 2,
+    "top_level_comments": 2,
+    "api_requests": 1,
+    "expected_comments": 2,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_034135.json",
+      "scrape_002_20251119_034900.json",
+      "scrape_003_20251119_035045.json"
+    ]
+  }
+}

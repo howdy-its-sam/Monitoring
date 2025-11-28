@@ -1,0 +1,44 @@
+{
+  "post": {
+    "id": "1p03hsq",
+    "title": "Need Advice for JSON Prompts",
+    "author": "MysteriousMushroom41",
+    "score_history": [
+      [
+        1,
+        "2025-11-18T15:07:40.359247"
+      ],
+      [
+        1,
+        "2025-11-18T15:14:35.373729"
+      ],
+      [
+        1,
+        "2025-11-18T15:16:39.566085"
+      ]
+    ],
+    "created_utc": 1763443024.0,
+    "num_comments": 0,
+    "subreddit": "PromptEngineering",
+    "url": "https://www.reddit.com/r/PromptEngineering/comments/1p03hsq/need_advice_for_json_prompts/",
+    "selftext": "Hey everyone,\n\n  \nI just built out this tool called Promptify (just a free chrome extension as I'm a young AI enthusiast) and it basically automatically transforms prompts, allows you to get insights on what to improve, and has a personalization/adaptation/context analysis layer that guarantees insane AI outputs (joinpromptify.com): https://chromewebstore.google.com/detail/promptify/gbdneaodlcoplkbpiemljcafpghcelld\n\n  \nEssentially, when generating JSON prompts, I have some of the basics like role, examples, context, background, style... but I'm not sure what else to add and what makes a prompt insane like that. I'd so greatly appreciate it if you tried it out and let me know how the JSON/XML prompts are currently structured and what to fix! I want to build something the community loves!!!\n\n  \nThank you!",
+    "permalink": "/r/PromptEngineering/comments/1p03hsq/need_advice_for_json_prompts/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-18T15:16:39.566085",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/PromptEngineering/comments/1p03hsq/need_advice_for_json_prompts/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_150740.json",
+      "scrape_002_20251118_151435.json",
+      "scrape_003_20251118_151639.json"
+    ]
+  }
+}

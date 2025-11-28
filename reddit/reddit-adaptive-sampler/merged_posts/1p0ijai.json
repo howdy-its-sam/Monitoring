@@ -1,0 +1,82 @@
+{
+  "post": {
+    "id": "1p0ijai",
+    "title": "Gemini 3.0 excelling at vibe coding on a 26 year old programming language",
+    "author": "Cr4zko",
+    "score_history": [
+      [
+        21,
+        "2025-11-18T13:49:00.917444"
+      ],
+      [
+        22,
+        "2025-11-18T14:00:16.027375"
+      ],
+      [
+        21,
+        "2025-11-18T14:12:09.499091"
+      ],
+      [
+        24,
+        "2025-11-18T21:59:59.992920"
+      ],
+      [
+        26,
+        "2025-11-19T07:12:20.498878"
+      ]
+    ],
+    "created_utc": 1763487859.0,
+    "num_comments": 1,
+    "subreddit": "singularity",
+    "url": "https://x.com/ahogegirI/status/1990837831325921449",
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1p0ijai/gemini_30_excelling_at_vibe_coding_on_a_26_year/"
+  },
+  "comments": [
+    {
+      "id": "npmz2xb",
+      "parent_id": "t3_1p0ijai",
+      "author": "Worldly_Evidence9113",
+      "text_history": [
+        [
+          "No tweet there",
+          "2025-11-19T07:12:20.498878"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T07:12:20.498878"
+        ]
+      ],
+      "created_utc": 1763540170.0,
+      "depth": 0,
+      "permalink": "/r/singularity/comments/1p0ijai/gemini_30_excelling_at_vibe_coding_on_a_26_year/npmz2xb/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T07:12:20.498878",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/singularity/comments/1p0ijai/gemini_30_excelling_at_vibe_coding_on_a_26_year/",
+    "total_comments": 1,
+    "top_level_comments": 1,
+    "api_requests": 1,
+    "expected_comments": 1,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 5,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_134900.json",
+      "scrape_002_20251118_140015.json",
+      "scrape_003_20251118_141209.json",
+      "scrape_004_20251118_215959.json",
+      "scrape_005_20251119_071220.json"
+    ]
+  }
+}

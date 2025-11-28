@@ -1,0 +1,540 @@
+{
+  "post": {
+    "id": "1p0cpgq",
+    "title": "Cloudflare down?",
+    "author": "Adershraj",
+    "score_history": [
+      [
+        51,
+        "2025-11-19T02:55:56.896985"
+      ],
+      [
+        51,
+        "2025-11-19T03:06:57.478314"
+      ],
+      [
+        50,
+        "2025-11-19T03:16:11.974791"
+      ]
+    ],
+    "created_utc": 1763474475.0,
+    "num_comments": 16,
+    "subreddit": "OpenAI",
+    "url": "https://i.redd.it/uosprz70v02g1.jpeg",
+    "selftext": "Why?",
+    "permalink": "/r/OpenAI/comments/1p0cpgq/cloudflare_down/"
+  },
+  "comments": [
+    {
+      "id": "nphsfhw",
+      "parent_id": "t3_1p0cpgq",
+      "author": "No_Recording4687",
+      "text_history": [
+        [
+          "Yep, very much, impact is everywhere",
+          "2025-11-19T02:55:56.896985"
+        ]
+      ],
+      "score_history": [
+        [
+          10,
+          "2025-11-19T02:55:56.896985"
+        ],
+        [
+          13,
+          "2025-11-19T03:06:57.478314"
+        ],
+        [
+          13,
+          "2025-11-19T03:16:11.974791"
+        ]
+      ],
+      "created_utc": 1763474559.0,
+      "depth": 0,
+      "permalink": "/r/OpenAI/comments/1p0cpgq/cloudflare_down/nphsfhw/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "nphtfxv",
+          "parent_id": "t1_nphsfhw",
+          "author": "Adershraj",
+          "text_history": [
+            [
+              "Why",
+              "2025-11-19T02:55:56.896985"
+            ]
+          ],
+          "score_history": [
+            [
+              -4,
+              "2025-11-19T02:55:56.896985"
+            ],
+            [
+              -3,
+              "2025-11-19T03:06:57.478314"
+            ],
+            [
+              -2,
+              "2025-11-19T03:16:11.974791"
+            ]
+          ],
+          "created_utc": 1763474883.0,
+          "depth": 1,
+          "permalink": "/r/OpenAI/comments/1p0cpgq/cloudflare_down/nphtfxv/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "nphtk43",
+              "parent_id": "t1_nphtfxv",
+              "author": "No_Recording4687",
+              "text_history": [
+                [
+                  "Technical issues , so this can be really anything",
+                  "2025-11-19T02:55:56.896985"
+                ]
+              ],
+              "score_history": [
+                [
+                  5,
+                  "2025-11-19T02:55:56.896985"
+                ],
+                [
+                  5,
+                  "2025-11-19T03:06:57.478314"
+                ],
+                [
+                  4,
+                  "2025-11-19T03:16:11.974791"
+                ]
+              ],
+              "created_utc": 1763474921.0,
+              "depth": 2,
+              "permalink": "/r/OpenAI/comments/1p0cpgq/cloudflare_down/nphtk43/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": [
+                {
+                  "id": "nphwxcv",
+                  "parent_id": "t1_nphtk43",
+                  "author": "Professional-Trip250",
+                  "text_history": [
+                    [
+                      "https://www.techradar.com/pro/live/a-cloudflare-outage-is-taking-down-parts-of-the-internet\n\nThere ya go.",
+                      "2025-11-19T02:55:56.896985"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      3,
+                      "2025-11-19T02:55:56.896985"
+                    ],
+                    [
+                      3,
+                      "2025-11-19T03:06:57.478314"
+                    ],
+                    [
+                      3,
+                      "2025-11-19T03:16:11.974791"
+                    ]
+                  ],
+                  "created_utc": 1763475985.0,
+                  "depth": 3,
+                  "permalink": "/r/OpenAI/comments/1p0cpgq/cloudflare_down/nphwxcv/",
+                  "is_submitter": false,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "nphtk8f",
+              "parent_id": "t1_nphtfxv",
+              "author": "[deleted]",
+              "text_history": [
+                [
+                  "[removed]",
+                  "2025-11-19T02:55:56.896985"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-19T02:55:56.896985"
+                ],
+                [
+                  1,
+                  "2025-11-19T03:06:57.478314"
+                ],
+                [
+                  1,
+                  "2025-11-19T03:16:11.974791"
+                ]
+              ],
+              "created_utc": 1763474922.0,
+              "depth": 2,
+              "permalink": "/r/OpenAI/comments/1p0cpgq/cloudflare_down/nphtk8f/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            },
+            {
+              "id": "npie4ul",
+              "parent_id": "t1_nphtfxv",
+              "author": "eggplantpot",
+              "text_history": [
+                [
+                  "They forgot to turn on the lava lamps today",
+                  "2025-11-19T02:55:56.896985"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-19T02:55:56.896985"
+                ],
+                [
+                  1,
+                  "2025-11-19T03:06:57.478314"
+                ],
+                [
+                  1,
+                  "2025-11-19T03:16:11.974791"
+                ]
+              ],
+              "created_utc": 1763481296.0,
+              "depth": 2,
+              "permalink": "/r/OpenAI/comments/1p0cpgq/cloudflare_down/npie4ul/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "nphswbm",
+      "parent_id": "t3_1p0cpgq",
+      "author": "Medium-Theme-4611",
+      "text_history": [
+        [
+          "Can you guys just read the subreddit instead of posting the same thing, takes 2 secs",
+          "2025-11-19T02:55:56.896985"
+        ]
+      ],
+      "score_history": [
+        [
+          11,
+          "2025-11-19T02:55:56.896985"
+        ],
+        [
+          11,
+          "2025-11-19T03:06:57.478314"
+        ],
+        [
+          10,
+          "2025-11-19T03:16:11.974791"
+        ]
+      ],
+      "created_utc": 1763474709.0,
+      "depth": 0,
+      "permalink": "/r/OpenAI/comments/1p0cpgq/cloudflare_down/nphswbm/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "nphx27q",
+          "parent_id": "t1_nphswbm",
+          "author": "Professional-Trip250",
+          "text_history": [
+            [
+              "How else do you expect OP to farm karma points?",
+              "2025-11-19T02:55:56.896985"
+            ]
+          ],
+          "score_history": [
+            [
+              11,
+              "2025-11-19T02:55:56.896985"
+            ],
+            [
+              12,
+              "2025-11-19T03:06:57.478314"
+            ],
+            [
+              11,
+              "2025-11-19T03:16:11.974791"
+            ]
+          ],
+          "created_utc": 1763476027.0,
+          "depth": 1,
+          "permalink": "/r/OpenAI/comments/1p0cpgq/cloudflare_down/nphx27q/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "nphy73h",
+      "parent_id": "t3_1p0cpgq",
+      "author": "wonderingStarDusts",
+      "text_history": [
+        [
+          "She redeemed.",
+          "2025-11-19T02:55:56.896985"
+        ]
+      ],
+      "score_history": [
+        [
+          3,
+          "2025-11-19T02:55:56.896985"
+        ],
+        [
+          3,
+          "2025-11-19T03:06:57.478314"
+        ],
+        [
+          3,
+          "2025-11-19T03:16:11.974791"
+        ]
+      ],
+      "created_utc": 1763476386.0,
+      "depth": 0,
+      "permalink": "/r/OpenAI/comments/1p0cpgq/cloudflare_down/nphy73h/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nphwqz6",
+      "parent_id": "t3_1p0cpgq",
+      "author": "ammar12594",
+      "text_history": [
+        [
+          "Gemini is available",
+          "2025-11-19T02:55:56.896985"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:55:56.896985"
+        ],
+        [
+          1,
+          "2025-11-19T03:06:57.478314"
+        ],
+        [
+          1,
+          "2025-11-19T03:16:11.974791"
+        ]
+      ],
+      "created_utc": 1763475930.0,
+      "depth": 0,
+      "permalink": "/r/OpenAI/comments/1p0cpgq/cloudflare_down/nphwqz6/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npi013i",
+      "parent_id": "t3_1p0cpgq",
+      "author": "No-Philosopher3977",
+      "text_history": [
+        [
+          "Cyber attacks",
+          "2025-11-19T02:55:56.896985"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:55:56.896985"
+        ],
+        [
+          1,
+          "2025-11-19T03:06:57.478314"
+        ],
+        [
+          1,
+          "2025-11-19T03:16:11.974791"
+        ]
+      ],
+      "created_utc": 1763476973.0,
+      "depth": 0,
+      "permalink": "/r/OpenAI/comments/1p0cpgq/cloudflare_down/npi013i/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npig6sh",
+      "parent_id": "t3_1p0cpgq",
+      "author": "JohnSnowHenry",
+      "text_history": [
+        [
+          "Yes, again… technical issues, nothing new…",
+          "2025-11-19T02:55:56.896985"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:55:56.896985"
+        ],
+        [
+          1,
+          "2025-11-19T03:06:57.478314"
+        ],
+        [
+          1,
+          "2025-11-19T03:16:11.974791"
+        ]
+      ],
+      "created_utc": 1763481894.0,
+      "depth": 0,
+      "permalink": "/r/OpenAI/comments/1p0cpgq/cloudflare_down/npig6sh/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nphsfw1",
+      "parent_id": "t3_1p0cpgq",
+      "author": "Twinstar2",
+      "text_history": [
+        [
+          "yeah, can not reach [https://platform.openai.com/docs/](https://platform.openai.com/docs/)",
+          "2025-11-19T02:55:56.896985"
+        ]
+      ],
+      "score_history": [
+        [
+          0,
+          "2025-11-19T02:55:56.896985"
+        ],
+        [
+          0,
+          "2025-11-19T03:06:57.478314"
+        ],
+        [
+          0,
+          "2025-11-19T03:16:11.974791"
+        ]
+      ],
+      "created_utc": 1763474562.0,
+      "depth": 0,
+      "permalink": "/r/OpenAI/comments/1p0cpgq/cloudflare_down/nphsfw1/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "nphtmw7",
+          "parent_id": "t1_nphsfw1",
+          "author": "Adershraj",
+          "text_history": [
+            [
+              "Yaa...is stuck in middle.",
+              "2025-11-19T02:55:56.896985"
+            ]
+          ],
+          "score_history": [
+            [
+              -1,
+              "2025-11-19T02:55:56.896985"
+            ],
+            [
+              -1,
+              "2025-11-19T03:06:57.478314"
+            ],
+            [
+              -1,
+              "2025-11-19T03:16:11.974791"
+            ]
+          ],
+          "created_utc": 1763474946.0,
+          "depth": 1,
+          "permalink": "/r/OpenAI/comments/1p0cpgq/cloudflare_down/nphtmw7/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:16:11.974791",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/OpenAI/comments/1p0cpgq/cloudflare_down/",
+    "total_comments": 14,
+    "top_level_comments": 7,
+    "api_requests": 1,
+    "expected_comments": 16,
+    "coverage_percent": 87.5,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_025556.json",
+      "scrape_002_20251119_030657.json",
+      "scrape_003_20251119_031611.json"
+    ]
+  }
+}

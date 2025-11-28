@@ -1,0 +1,956 @@
+{
+  "post": {
+    "id": "1ozub81",
+    "title": "20,000 Epstein Files in a single text file available to download (~100 MB)",
+    "author": "tensonaut",
+    "score_history": [
+      [
+        180,
+        "2025-11-19T02:55:46.026179"
+      ],
+      [
+        181,
+        "2025-11-19T03:05:52.044834"
+      ],
+      [
+        182,
+        "2025-11-19T03:16:12.665557"
+      ],
+      [
+        182,
+        "2025-11-19T03:17:37.534747"
+      ]
+    ],
+    "created_utc": 1763418006.0,
+    "num_comments": 23,
+    "subreddit": "Rag",
+    "url": "https://www.reddit.com/r/Rag/comments/1ozub81/20000_epstein_files_in_a_single_text_file/",
+    "selftext": "I've processed all the text and image files (\\~25,000 document pages/emails) within individual folders released last friday into a two column text file. I used Googles tesseract OCR library to convert jpg to text.\n\nYou can download it here: [https://huggingface.co/datasets/tensonaut/EPSTEIN\\_FILES\\_20K](https://huggingface.co/datasets/tensonaut/EPSTEIN_FILES_20K)\n\nFor each document, I've included the full path to the original google drive folder from House oversight committee so you can link and verify contents. Sharing this dataset for people interested in getting into RAG and digging deeper to get more insight that what meets the eye.\n\nIn using this dataset, please be sensitive to the privacy of the people involved (and remember that many of these people were certainly not involved in any of the actions which precipitated the investigation.) - Quoted from Enron Email Dataset release",
+    "permalink": "/r/Rag/comments/1ozub81/20000_epstein_files_in_a_single_text_file/"
+  },
+  "comments": [
+    {
+      "id": "npecrd0",
+      "parent_id": "t3_1ozub81",
+      "author": "charlyAtWork2",
+      "text_history": [
+        [
+          "Thanks for your service !!",
+          "2025-11-19T02:55:46.026179"
+        ]
+      ],
+      "score_history": [
+        [
+          13,
+          "2025-11-19T02:55:46.026179"
+        ],
+        [
+          14,
+          "2025-11-19T03:05:52.044834"
+        ],
+        [
+          13,
+          "2025-11-19T03:16:12.665557"
+        ],
+        [
+          14,
+          "2025-11-19T03:17:37.534747"
+        ]
+      ],
+      "created_utc": 1763420089.0,
+      "depth": 0,
+      "permalink": "/r/Rag/comments/1ozub81/20000_epstein_files_in_a_single_text_file/npecrd0/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npj2hm1",
+      "parent_id": "t3_1ozub81",
+      "author": "zenos1337",
+      "text_history": [
+        [
+          "I’d be more interested to see some knowledge graphs being implemented with this dataset",
+          "2025-11-19T02:55:46.026179"
+        ]
+      ],
+      "score_history": [
+        [
+          6,
+          "2025-11-19T02:55:46.026179"
+        ],
+        [
+          5,
+          "2025-11-19T03:05:52.044834"
+        ],
+        [
+          6,
+          "2025-11-19T03:16:12.665557"
+        ],
+        [
+          5,
+          "2025-11-19T03:17:37.534747"
+        ]
+      ],
+      "created_utc": 1763488432.0,
+      "depth": 0,
+      "permalink": "/r/Rag/comments/1ozub81/20000_epstein_files_in_a_single_text_file/npj2hm1/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npj2ulw",
+          "parent_id": "t1_npj2hm1",
+          "author": "Thenuges",
+          "text_history": [
+            [
+              "I'm trying to load them into my knowledge graph but it keeps failing. I tried chunking to 5mb files to upload easier and no bueno. gonna keep at it, would be so good to query this info lol",
+              "2025-11-19T02:55:46.026179"
+            ]
+          ],
+          "score_history": [
+            [
+              3,
+              "2025-11-19T02:55:46.026179"
+            ],
+            [
+              3,
+              "2025-11-19T03:05:52.044834"
+            ],
+            [
+              3,
+              "2025-11-19T03:16:12.665557"
+            ],
+            [
+              3,
+              "2025-11-19T03:17:37.534747"
+            ]
+          ],
+          "created_utc": 1763488534.0,
+          "depth": 1,
+          "permalink": "/r/Rag/comments/1ozub81/20000_epstein_files_in_a_single_text_file/npj2ulw/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npjn1x3",
+      "parent_id": "t3_1ozub81",
+      "author": "ManagerMoist4305",
+      "text_history": [
+        [
+          "lmfao, brb, gonna make a knowledge graph with the people mentioned",
+          "2025-11-19T02:55:46.026179"
+        ]
+      ],
+      "score_history": [
+        [
+          4,
+          "2025-11-19T02:55:46.026179"
+        ],
+        [
+          3,
+          "2025-11-19T03:05:52.044834"
+        ],
+        [
+          4,
+          "2025-11-19T03:16:12.665557"
+        ],
+        [
+          5,
+          "2025-11-19T03:17:37.534747"
+        ]
+      ],
+      "created_utc": 1763494414.0,
+      "depth": 0,
+      "permalink": "/r/Rag/comments/1ozub81/20000_epstein_files_in_a_single_text_file/npjn1x3/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npmcf4o",
+          "parent_id": "t1_npjn1x3",
+          "author": "Decent-Ad-8335",
+          "text_history": [
+            [
+              "So? Did u make it..?",
+              "2025-11-19T02:55:46.026179"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-19T02:55:46.026179"
+            ],
+            [
+              1,
+              "2025-11-19T03:05:52.044834"
+            ],
+            [
+              1,
+              "2025-11-19T03:16:12.665557"
+            ],
+            [
+              1,
+              "2025-11-19T03:17:37.534747"
+            ]
+          ],
+          "created_utc": 1763527935.0,
+          "depth": 1,
+          "permalink": "/r/Rag/comments/1ozub81/20000_epstein_files_in_a_single_text_file/npmcf4o/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npij3jh",
+      "parent_id": "t3_1ozub81",
+      "author": "psssat",
+      "text_history": [
+        [
+          "I was going to do this too! Thank you for this!",
+          "2025-11-19T02:55:46.026179"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-19T02:55:46.026179"
+        ],
+        [
+          2,
+          "2025-11-19T03:05:52.044834"
+        ],
+        [
+          2,
+          "2025-11-19T03:16:12.665557"
+        ],
+        [
+          2,
+          "2025-11-19T03:17:37.534747"
+        ]
+      ],
+      "created_utc": 1763482743.0,
+      "depth": 0,
+      "permalink": "/r/Rag/comments/1ozub81/20000_epstein_files_in_a_single_text_file/npij3jh/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npmyqq6",
+      "parent_id": "t3_1ozub81",
+      "author": "Mkhere",
+      "text_history": [
+        [
+          "thanks for this source, i built a detective research assistant through this - not too bad , you can check out here , embeddings take lot of time , i tested with 100 documents took about 20 minutes, --- \n\n [https://medium.com/@muthu10star/i-built-a-rag-detective-assistant-to-search-20-000-epstein-files-try-it-now-38fc63c6237a](https://medium.com/@muthu10star/i-built-a-rag-detective-assistant-to-search-20-000-epstein-files-try-it-now-38fc63c6237a)",
+          "2025-11-19T02:55:46.026179"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-19T02:55:46.026179"
+        ],
+        [
+          2,
+          "2025-11-19T03:05:52.044834"
+        ],
+        [
+          2,
+          "2025-11-19T03:16:12.665557"
+        ],
+        [
+          2,
+          "2025-11-19T03:17:37.534747"
+        ]
+      ],
+      "created_utc": 1763539959.0,
+      "depth": 0,
+      "permalink": "/r/Rag/comments/1ozub81/20000_epstein_files_in_a_single_text_file/npmyqq6/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npghb9g",
+      "parent_id": "t3_1ozub81",
+      "author": "stevevaius",
+      "text_history": [
+        [
+          "Can you elaborate how you process these files into text file?",
+          "2025-11-19T02:55:46.026179"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:55:46.026179"
+        ],
+        [
+          1,
+          "2025-11-19T03:05:52.044834"
+        ],
+        [
+          1,
+          "2025-11-19T03:16:12.665557"
+        ],
+        [
+          1,
+          "2025-11-19T03:17:37.534747"
+        ]
+      ],
+      "created_utc": 1763451064.0,
+      "depth": 0,
+      "permalink": "/r/Rag/comments/1ozub81/20000_epstein_files_in_a_single_text_file/npghb9g/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npiquqa",
+      "parent_id": "t3_1ozub81",
+      "author": "El-Dixon",
+      "text_history": [
+        [
+          "Phenomenal.  Thanks!",
+          "2025-11-19T02:55:46.026179"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:55:46.026179"
+        ],
+        [
+          1,
+          "2025-11-19T03:05:52.044834"
+        ],
+        [
+          1,
+          "2025-11-19T03:16:12.665557"
+        ],
+        [
+          1,
+          "2025-11-19T03:17:37.534747"
+        ]
+      ],
+      "created_utc": 1763485002.0,
+      "depth": 0,
+      "permalink": "/r/Rag/comments/1ozub81/20000_epstein_files_in_a_single_text_file/npiquqa/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npfp0eh",
+      "parent_id": "t3_1ozub81",
+      "author": "cbusmatty",
+      "text_history": [
+        [
+          "Can you help me explain how we should be sensitive to the privacy of the people involved when you shared the whole thing to the internet?",
+          "2025-11-19T02:55:46.026179"
+        ]
+      ],
+      "score_history": [
+        [
+          -27,
+          "2025-11-19T02:55:46.026179"
+        ],
+        [
+          -28,
+          "2025-11-19T03:05:52.044834"
+        ],
+        [
+          -26,
+          "2025-11-19T03:16:12.665557"
+        ],
+        [
+          -29,
+          "2025-11-19T03:17:37.534747"
+        ]
+      ],
+      "created_utc": 1763437238.0,
+      "depth": 0,
+      "permalink": "/r/Rag/comments/1ozub81/20000_epstein_files_in_a_single_text_file/npfp0eh/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npfq8bd",
+          "parent_id": "t1_npfp0eh",
+          "author": "tensonaut",
+          "text_history": [
+            [
+              "The whole dataset is already made public on the US government website: [https://oversight.house.gov/release/oversight-committee-releases-additional-epstein-estate-documents/](https://oversight.house.gov/release/oversight-committee-releases-additional-epstein-estate-documents/)\n\nAs for the sensitive nature of the dataset, I'm urging people to be ethical in your research/analysis - don’t misuse them by doxxing people or assume that everyone mentioned is guilty.",
+              "2025-11-19T02:55:46.026179"
+            ]
+          ],
+          "score_history": [
+            [
+              13,
+              "2025-11-19T02:55:46.026179"
+            ],
+            [
+              11,
+              "2025-11-19T03:05:52.044834"
+            ],
+            [
+              12,
+              "2025-11-19T03:16:12.665557"
+            ],
+            [
+              11,
+              "2025-11-19T03:17:37.534747"
+            ]
+          ],
+          "created_utc": 1763437710.0,
+          "depth": 1,
+          "permalink": "/r/Rag/comments/1ozub81/20000_epstein_files_in_a_single_text_file/npfq8bd/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npftrtp",
+              "parent_id": "t1_npfq8bd",
+              "author": "cbusmatty",
+              "text_history": [
+                [
+                  "Why would bad actors listen to your advice? Why would good actors not do that already? Pointless comment",
+                  "2025-11-19T02:55:46.026179"
+                ]
+              ],
+              "score_history": [
+                [
+                  -17,
+                  "2025-11-19T02:55:46.026179"
+                ],
+                [
+                  -20,
+                  "2025-11-19T03:05:52.044834"
+                ],
+                [
+                  -20,
+                  "2025-11-19T03:16:12.665557"
+                ],
+                [
+                  -19,
+                  "2025-11-19T03:17:37.534747"
+                ]
+              ],
+              "created_utc": 1763439153.0,
+              "depth": 2,
+              "permalink": "/r/Rag/comments/1ozub81/20000_epstein_files_in_a_single_text_file/npftrtp/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": [
+                {
+                  "id": "npfvska",
+                  "parent_id": "t1_npftrtp",
+                  "author": "PeyoteJones",
+                  "text_history": [
+                    [
+                      "And your comment isn't pointless, right?",
+                      "2025-11-19T02:55:46.026179"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      13,
+                      "2025-11-19T02:55:46.026179"
+                    ],
+                    [
+                      12,
+                      "2025-11-19T03:05:52.044834"
+                    ],
+                    [
+                      13,
+                      "2025-11-19T03:16:12.665557"
+                    ],
+                    [
+                      14,
+                      "2025-11-19T03:17:37.534747"
+                    ]
+                  ],
+                  "created_utc": 1763440017.0,
+                  "depth": 3,
+                  "permalink": "/r/Rag/comments/1ozub81/20000_epstein_files_in_a_single_text_file/npfvska/",
+                  "is_submitter": false,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": [
+                    {
+                      "id": "npfw605",
+                      "parent_id": "t1_npfvska",
+                      "author": "cbusmatty",
+                      "text_history": [
+                        [
+                          "correct",
+                          "2025-11-19T02:55:46.026179"
+                        ]
+                      ],
+                      "score_history": [
+                        [
+                          -15,
+                          "2025-11-19T02:55:46.026179"
+                        ],
+                        [
+                          -14,
+                          "2025-11-19T03:05:52.044834"
+                        ],
+                        [
+                          -16,
+                          "2025-11-19T03:16:12.665557"
+                        ],
+                        [
+                          -16,
+                          "2025-11-19T03:17:37.534747"
+                        ]
+                      ],
+                      "created_utc": 1763440179.0,
+                      "depth": 4,
+                      "permalink": "/r/Rag/comments/1ozub81/20000_epstein_files_in_a_single_text_file/npfw605/",
+                      "is_submitter": false,
+                      "controversiality": 0,
+                      "gilded": 0,
+                      "edited": false,
+                      "deleted": false,
+                      "deleted_at": null,
+                      "replies": [
+                        {
+                          "id": "npg8wpq",
+                          "parent_id": "t1_npfw605",
+                          "author": "Thr8trthrow",
+                          "text_history": [
+                            [
+                              "Incorrect",
+                              "2025-11-19T02:55:46.026179"
+                            ]
+                          ],
+                          "score_history": [
+                            [
+                              10,
+                              "2025-11-19T02:55:46.026179"
+                            ],
+                            [
+                              9,
+                              "2025-11-19T03:05:52.044834"
+                            ],
+                            [
+                              10,
+                              "2025-11-19T03:16:12.665557"
+                            ],
+                            [
+                              11,
+                              "2025-11-19T03:17:37.534747"
+                            ]
+                          ],
+                          "created_utc": 1763446374.0,
+                          "depth": 5,
+                          "permalink": "/r/Rag/comments/1ozub81/20000_epstein_files_in_a_single_text_file/npg8wpq/",
+                          "is_submitter": false,
+                          "controversiality": 0,
+                          "gilded": 0,
+                          "edited": false,
+                          "deleted": false,
+                          "deleted_at": null,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "npfvl7o",
+                  "parent_id": "t1_npftrtp",
+                  "author": "tensonaut",
+                  "text_history": [
+                    [
+                      "The point of that advice isn't to stop bad actors. It's to bring awareness to an normal user on the harmful impact one's actions could have if they are not careful how they use and share information from the dataset",
+                      "2025-11-19T02:55:46.026179"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      5,
+                      "2025-11-19T02:55:46.026179"
+                    ],
+                    [
+                      6,
+                      "2025-11-19T03:05:52.044834"
+                    ],
+                    [
+                      6,
+                      "2025-11-19T03:16:12.665557"
+                    ],
+                    [
+                      6,
+                      "2025-11-19T03:17:37.534747"
+                    ]
+                  ],
+                  "created_utc": 1763439931.0,
+                  "depth": 3,
+                  "permalink": "/r/Rag/comments/1ozub81/20000_epstein_files_in_a_single_text_file/npfvl7o/",
+                  "is_submitter": true,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": [
+                    {
+                      "id": "npfwdbm",
+                      "parent_id": "t1_npfvl7o",
+                      "author": "cbusmatty",
+                      "text_history": [
+                        [
+                          "That's ridiculous and you know it.  I can't believe in the RAG subreddit of all places we have stuff like this",
+                          "2025-11-19T02:55:46.026179"
+                        ]
+                      ],
+                      "score_history": [
+                        [
+                          -8,
+                          "2025-11-19T02:55:46.026179"
+                        ],
+                        [
+                          -8,
+                          "2025-11-19T03:05:52.044834"
+                        ],
+                        [
+                          -9,
+                          "2025-11-19T03:16:12.665557"
+                        ],
+                        [
+                          -9,
+                          "2025-11-19T03:17:37.534747"
+                        ]
+                      ],
+                      "created_utc": 1763440270.0,
+                      "depth": 4,
+                      "permalink": "/r/Rag/comments/1ozub81/20000_epstein_files_in_a_single_text_file/npfwdbm/",
+                      "is_submitter": false,
+                      "controversiality": 0,
+                      "gilded": 0,
+                      "edited": false,
+                      "deleted": false,
+                      "deleted_at": null,
+                      "replies": [
+                        {
+                          "id": "npfwvp9",
+                          "parent_id": "t1_npfwdbm",
+                          "author": "FineClassroom2085",
+                          "text_history": [
+                            [
+                              "If all of the source files are already publicly available, what use would it be to ward people off from the vectorized version? This argument makes no sense whatsoever and makes me wonder if you have any clue what you’re talking about?",
+                              "2025-11-19T02:55:46.026179"
+                            ]
+                          ],
+                          "score_history": [
+                            [
+                              6,
+                              "2025-11-19T02:55:46.026179"
+                            ],
+                            [
+                              7,
+                              "2025-11-19T03:05:52.044834"
+                            ],
+                            [
+                              7,
+                              "2025-11-19T03:16:12.665557"
+                            ],
+                            [
+                              7,
+                              "2025-11-19T03:17:37.534747"
+                            ]
+                          ],
+                          "created_utc": 1763440498.0,
+                          "depth": 5,
+                          "permalink": "/r/Rag/comments/1ozub81/20000_epstein_files_in_a_single_text_file/npfwvp9/",
+                          "is_submitter": false,
+                          "controversiality": 0,
+                          "gilded": 0,
+                          "edited": false,
+                          "deleted": false,
+                          "deleted_at": null,
+                          "replies": [
+                            {
+                              "id": "npfxurc",
+                              "parent_id": "t1_npfwvp9",
+                              "author": "cbusmatty",
+                              "text_history": [
+                                [
+                                  "Nothing which is why him saying anything is ridiculous thats my point. It’s just virtue signaling.\n\nWe have a perfectly great useful sub away from dumb shit like this and this guy can’t help himself but bring it here",
+                                  "2025-11-19T02:55:46.026179"
+                                ]
+                              ],
+                              "score_history": [
+                                [
+                                  -2,
+                                  "2025-11-19T02:55:46.026179"
+                                ],
+                                [
+                                  -2,
+                                  "2025-11-19T03:05:52.044834"
+                                ],
+                                [
+                                  -2,
+                                  "2025-11-19T03:16:12.665557"
+                                ],
+                                [
+                                  -2,
+                                  "2025-11-19T03:17:37.534747"
+                                ]
+                              ],
+                              "created_utc": 1763440934.0,
+                              "depth": 6,
+                              "permalink": "/r/Rag/comments/1ozub81/20000_epstein_files_in_a_single_text_file/npfxurc/",
+                              "is_submitter": false,
+                              "controversiality": 0,
+                              "gilded": 0,
+                              "edited": false,
+                              "deleted": false,
+                              "deleted_at": null,
+                              "replies": [
+                                {
+                                  "id": "npmckxt",
+                                  "parent_id": "t1_npfxurc",
+                                  "author": "Decent-Ad-8335",
+                                  "text_history": [
+                                    [
+                                      "Downvoted for the truth",
+                                      "2025-11-19T02:55:46.026179"
+                                    ]
+                                  ],
+                                  "score_history": [
+                                    [
+                                      2,
+                                      "2025-11-19T02:55:46.026179"
+                                    ],
+                                    [
+                                      2,
+                                      "2025-11-19T03:05:52.044834"
+                                    ],
+                                    [
+                                      2,
+                                      "2025-11-19T03:16:12.665557"
+                                    ],
+                                    [
+                                      2,
+                                      "2025-11-19T03:17:37.534747"
+                                    ]
+                                  ],
+                                  "created_utc": 1763528009.0,
+                                  "depth": 7,
+                                  "permalink": "/r/Rag/comments/1ozub81/20000_epstein_files_in_a_single_text_file/npmckxt/",
+                                  "is_submitter": false,
+                                  "controversiality": 0,
+                                  "gilded": 0,
+                                  "edited": false,
+                                  "deleted": false,
+                                  "deleted_at": null,
+                                  "replies": []
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "npmjcgv",
+          "parent_id": "t1_npfp0eh",
+          "author": "Duke_De_Luke",
+          "text_history": [
+            [
+              "Oh no, we are not protecting the privacy of a bunch of millionaire pedophiles\n\nUnfortunately not all the data is public...",
+              "2025-11-19T02:55:46.026179"
+            ]
+          ],
+          "score_history": [
+            [
+              0,
+              "2025-11-19T02:55:46.026179"
+            ],
+            [
+              0,
+              "2025-11-19T03:05:52.044834"
+            ],
+            [
+              0,
+              "2025-11-19T03:16:12.665557"
+            ],
+            [
+              0,
+              "2025-11-19T03:17:37.534747"
+            ]
+          ],
+          "created_utc": 1763531239.0,
+          "depth": 1,
+          "permalink": "/r/Rag/comments/1ozub81/20000_epstein_files_in_a_single_text_file/npmjcgv/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npmxmis",
+              "parent_id": "t1_npmjcgv",
+              "author": "cbusmatty",
+              "text_history": [
+                [
+                  "No sounds like this is a place to discuss rag not this dumb shit as evidenced by your point",
+                  "2025-11-19T02:55:46.026179"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-19T02:55:46.026179"
+                ],
+                [
+                  1,
+                  "2025-11-19T03:05:52.044834"
+                ],
+                [
+                  1,
+                  "2025-11-19T03:16:12.665557"
+                ],
+                [
+                  1,
+                  "2025-11-19T03:17:37.534747"
+                ]
+              ],
+              "created_utc": 1763539277.0,
+              "depth": 2,
+              "permalink": "/r/Rag/comments/1ozub81/20000_epstein_files_in_a_single_text_file/npmxmis/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": [
+                {
+                  "id": "npnfi7w",
+                  "parent_id": "t1_npmxmis",
+                  "author": "Duke_De_Luke",
+                  "text_history": [
+                    [
+                      "So where's the problem? The data is public and what OP did was just to make it available in a dataset",
+                      "2025-11-19T03:05:52.044834"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      1,
+                      "2025-11-19T03:05:52.044834"
+                    ],
+                    [
+                      1,
+                      "2025-11-19T03:16:12.665557"
+                    ],
+                    [
+                      1,
+                      "2025-11-19T03:17:37.534747"
+                    ]
+                  ],
+                  "created_utc": 1763550240.0,
+                  "depth": 3,
+                  "permalink": "/r/Rag/comments/1ozub81/20000_epstein_files_in_a_single_text_file/npnfi7w/",
+                  "is_submitter": false,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:17:37.534747",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/Rag/comments/1ozub81/20000_epstein_files_in_a_single_text_file/",
+    "total_comments": 23,
+    "top_level_comments": 8,
+    "api_requests": 1,
+    "expected_comments": 23,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 4,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_025545.json",
+      "scrape_002_20251119_030551.json",
+      "scrape_003_20251119_031612.json",
+      "scrape_004_20251119_031737.json"
+    ]
+  }
+}

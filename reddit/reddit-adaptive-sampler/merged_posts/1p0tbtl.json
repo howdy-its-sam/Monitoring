@@ -1,0 +1,116 @@
+{
+  "post": {
+    "id": "1p0tbtl",
+    "title": "What is Cloudflare – and why did its outage take down so many websites?",
+    "author": "waozen",
+    "score_history": [
+      [
+        0,
+        "2025-11-19T03:28:50.325391"
+      ],
+      [
+        0,
+        "2025-11-19T03:36:18.871608"
+      ],
+      [
+        0,
+        "2025-11-19T03:39:34.183083"
+      ]
+    ],
+    "created_utc": 1763513141.0,
+    "num_comments": 3,
+    "subreddit": "technology",
+    "url": "https://www.theguardian.com/technology/2025/nov/18/what-is-cloudflare-and-why-did-its-outage-take-down-so-many-websites",
+    "selftext": "",
+    "permalink": "/r/technology/comments/1p0tbtl/what_is_cloudflare_and_why_did_its_outage_take/"
+  },
+  "comments": [
+    {
+      "id": "npla9dx",
+      "parent_id": "t3_1p0tbtl",
+      "author": "wonder_weird1",
+      "text_history": [
+        [
+          "Ugh! Just getting tempted to leave this sub-reddit. Everybody knows about the problem. Give it a rest.",
+          "2025-11-19T03:28:50.325391"
+        ]
+      ],
+      "score_history": [
+        [
+          -20,
+          "2025-11-19T03:28:50.325391"
+        ],
+        [
+          -21,
+          "2025-11-19T03:36:18.871608"
+        ],
+        [
+          -21,
+          "2025-11-19T03:39:34.183083"
+        ]
+      ],
+      "created_utc": 1763513429.0,
+      "depth": 0,
+      "permalink": "/r/technology/comments/1p0tbtl/what_is_cloudflare_and_why_did_its_outage_take/npla9dx/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "nple78x",
+          "parent_id": "t1_npla9dx",
+          "author": "encrypted-signals",
+          "text_history": [
+            [
+              "Did you hear there was a CloudFlare outage?",
+              "2025-11-19T03:28:50.325391"
+            ]
+          ],
+          "score_history": [
+            [
+              6,
+              "2025-11-19T03:28:50.325391"
+            ],
+            [
+              7,
+              "2025-11-19T03:36:18.871608"
+            ],
+            [
+              6,
+              "2025-11-19T03:39:34.183083"
+            ]
+          ],
+          "created_utc": 1763514853.0,
+          "depth": 1,
+          "permalink": "/r/technology/comments/1p0tbtl/what_is_cloudflare_and_why_did_its_outage_take/nple78x/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:39:34.183083",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/technology/comments/1p0tbtl/what_is_cloudflare_and_why_did_its_outage_take/",
+    "total_comments": 2,
+    "top_level_comments": 1,
+    "api_requests": 1,
+    "expected_comments": 3,
+    "coverage_percent": 66.67,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_032850.json",
+      "scrape_002_20251119_033618.json",
+      "scrape_003_20251119_033933.json"
+    ]
+  }
+}

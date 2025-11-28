@@ -1,0 +1,44 @@
+{
+  "post": {
+    "id": "1p105yv",
+    "title": "Built a Multi-Model Image Segmentation App Using YOLO + Streamlit (Brain Tumor, Roads, Cracks &amp; More)",
+    "author": "RealisticCoach1118",
+    "score_history": [
+      [
+        2,
+        "2025-11-19T03:50:49.194861"
+      ],
+      [
+        2,
+        "2025-11-19T03:59:42.601786"
+      ],
+      [
+        2,
+        "2025-11-19T04:01:56.968138"
+      ]
+    ],
+    "created_utc": 1763533609.0,
+    "num_comments": 0,
+    "subreddit": "learnmachinelearning",
+    "url": "https://www.reddit.com/r/learnmachinelearning/comments/1p105yv/built_a_multimodel_image_segmentation_app_using/",
+    "selftext": "I recently built a **Multi-Model Image Segmentation Web App** using **YOLO + Streamlit**, and I thought some of you might find it interesting or helpful for your own projects.\n\nThe app supports multiple pretrained segmentation models such as:\n\n* 🧠 Brain Tumor\n* 🛣 Roads\n* ⚡ Cracks\n* 🌿 Leaf Disease\n* 🧍 Person\n* 🕳 Pothole\n\nYou upload an image → select a model → get a beautifully blended segmentation output with transparent overlays.  \nEverything runs through **Ultralytics YOLO**, and the UI is built cleanly in **Streamlit** with dynamic loading and custom colors.\n\nThe goal was to create a single interface that works across different CV domains like medical imaging, civil engineering, agriculture, and general object/person segmentation.\n\nIf anyone wants to explore the workflow or reuse the approach in their own projects, here’s the full breakdown and demo video:\n\n👉 **YouTube Video:** [*https://youtu.be/dXUflmGlylA*](https://youtu.be/dXUflmGlylA)\n\nHappy to answer questions or share code structure if anyone is working on something similar!",
+    "permalink": "/r/learnmachinelearning/comments/1p105yv/built_a_multimodel_image_segmentation_app_using/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T04:01:56.968138",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/learnmachinelearning/comments/1p105yv/built_a_multimodel_image_segmentation_app_using/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_035048.json",
+      "scrape_002_20251119_035942.json",
+      "scrape_003_20251119_040155.json"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "post": {
+    "id": "1p09bgt",
+    "title": "Billionaire-Funded AI Super PAC Picks Leading Safety Advocate as First Target",
+    "author": "MetaKnowing",
+    "score_history": [
+      [
+        3,
+        "2025-11-19T03:18:08.694614"
+      ],
+      [
+        3,
+        "2025-11-19T03:25:23.100669"
+      ],
+      [
+        3,
+        "2025-11-19T03:27:17.412449"
+      ]
+    ],
+    "created_utc": 1763464687.0,
+    "num_comments": 0,
+    "subreddit": "artificial",
+    "url": "https://www.commondreams.org/news/ai-super-pac",
+    "selftext": "",
+    "permalink": "/r/artificial/comments/1p09bgt/billionairefunded_ai_super_pac_picks_leading/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:27:17.412449",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/artificial/comments/1p09bgt/billionairefunded_ai_super_pac_picks_leading/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_031808.json",
+      "scrape_002_20251119_032522.json",
+      "scrape_003_20251119_032717.json"
+    ]
+  }
+}

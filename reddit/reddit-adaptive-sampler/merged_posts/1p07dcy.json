@@ -1,0 +1,150 @@
+{
+  "post": {
+    "id": "1p07dcy",
+    "title": "How can your AI skills help solve one of the world’s biggest challenges — access to clean water?💧",
+    "author": "fofxy",
+    "score_history": [
+      [
+        3,
+        "2025-11-19T02:55:44.042993"
+      ],
+      [
+        2,
+        "2025-11-19T03:05:50.474300"
+      ],
+      [
+        0,
+        "2025-11-19T03:16:13.865176"
+      ]
+    ],
+    "created_utc": 1763457393.0,
+    "num_comments": 3,
+    "subreddit": "artificial",
+    "url": "https://www.reddit.com/r/artificial/comments/1p07dcy/how_can_your_ai_skills_help_solve_one_of_the/",
+    "selftext": "Around the world, billions of people face obstacles in sourcing clean and safe water for their daily needs. But with **innovation,** **collaboration**, and **advanced technologies**, we can change this trajectory. That’s where the **EY AI &amp; Data Challenge** comes in.  \nJoin the challenge to develop cutting-edge AI models to forecast water quality using satellite, weather, and environmental data.  \nYour models will provide powerful insights to advance public health and shape smarter public policies. Plus, you could win thousands of dollars in cash prizes and an invitation to a global awards ceremony.\n\n[Register today](https://challenge.ey.com/register)\n\n\\#EY #BetterWorkingWorld #AI #ShapeTheFutureWithConfidence",
+    "permalink": "/r/artificial/comments/1p07dcy/how_can_your_ai_skills_help_solve_one_of_the/"
+  },
+  "comments": [
+    {
+      "id": "nphtfyb",
+      "parent_id": "t3_1p07dcy",
+      "author": "RespectableTorpedo",
+      "text_history": [
+        [
+          "“Who can use the most clean water to predict who will have clean water” come on guys",
+          "2025-11-19T02:55:44.042993"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-19T02:55:44.042993"
+        ],
+        [
+          2,
+          "2025-11-19T03:05:50.474300"
+        ],
+        [
+          2,
+          "2025-11-19T03:16:13.865176"
+        ]
+      ],
+      "created_utc": 1763474883.0,
+      "depth": 0,
+      "permalink": "/r/artificial/comments/1p07dcy/how_can_your_ai_skills_help_solve_one_of_the/nphtfyb/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npi7b9e",
+      "parent_id": "t3_1p07dcy",
+      "author": "TheMericanIdiot",
+      "text_history": [
+        [
+          "Trick question, it can’t. It can only make it worse",
+          "2025-11-19T02:55:44.042993"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-19T02:55:44.042993"
+        ],
+        [
+          2,
+          "2025-11-19T03:05:50.474300"
+        ],
+        [
+          2,
+          "2025-11-19T03:16:13.865176"
+        ]
+      ],
+      "created_utc": 1763479264.0,
+      "depth": 0,
+      "permalink": "/r/artificial/comments/1p07dcy/how_can_your_ai_skills_help_solve_one_of_the/npi7b9e/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nplf48v",
+      "parent_id": "t3_1p07dcy",
+      "author": "LXVIIIKami",
+      "text_history": [
+        [
+          "Hey big fucking surprise: we know where the water is, *procuring* it is the issue",
+          "2025-11-19T02:55:44.042993"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:55:44.042993"
+        ],
+        [
+          1,
+          "2025-11-19T03:05:50.474300"
+        ],
+        [
+          1,
+          "2025-11-19T03:16:13.865176"
+        ]
+      ],
+      "created_utc": 1763515186.0,
+      "depth": 0,
+      "permalink": "/r/artificial/comments/1p07dcy/how_can_your_ai_skills_help_solve_one_of_the/nplf48v/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:16:13.865176",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/artificial/comments/1p07dcy/how_can_your_ai_skills_help_solve_one_of_the/",
+    "total_comments": 3,
+    "top_level_comments": 3,
+    "api_requests": 1,
+    "expected_comments": 3,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_025543.json",
+      "scrape_002_20251119_030550.json",
+      "scrape_003_20251119_031613.json"
+    ]
+  }
+}

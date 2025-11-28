@@ -1,0 +1,250 @@
+{
+  "post": {
+    "id": "1p0fcn3",
+    "title": "Is there any good way to understand AI roles properly? Serious question",
+    "author": "No_Wall_7585",
+    "score_history": [
+      [
+        1,
+        "2025-11-18T13:03:59.222723"
+      ],
+      [
+        1,
+        "2025-11-18T13:15:46.455800"
+      ],
+      [
+        1,
+        "2025-11-18T13:46:27.402206"
+      ],
+      [
+        1,
+        "2025-11-18T13:49:26.615023"
+      ],
+      [
+        1,
+        "2025-11-18T13:59:21.539447"
+      ],
+      [
+        1,
+        "2025-11-18T14:10:39.818323"
+      ]
+    ],
+    "created_utc": 1763480828.0,
+    "num_comments": 4,
+    "subreddit": "learnmachinelearning",
+    "url": "https://www.reddit.com/r/learnmachinelearning/comments/1p0fcn3/is_there_any_good_way_to_understand_ai_roles/",
+    "selftext": "I’m currently trying to hire an AI/ML professional, and I’ve noticed something strange:  \nevery role seems incredibly vague.  \n“AI engineer”, “AI expert”, “ML specialist”… but the actual skills behind them are completely different.\n\nRight now I honestly don’t know if I’m looking for the right figure, or if I’m mixing up multiple roles without realizing it.\n\nSo I wanted to ask: Is there any existing tool, platform, or resource that clearly explains the different AI roles? Something that helps companies understand what they really need and where to find the right people?  \nIf it exists, I’d love to check it out.\n\nIf not, how do you personally deal with this confusion when hiring or job searching?\n\nReally curious to hear how others navigate this.",
+    "permalink": "/r/learnmachinelearning/comments/1p0fcn3/is_there_any_good_way_to_understand_ai_roles/"
+  },
+  "comments": [
+    {
+      "id": "npihr47",
+      "parent_id": "t3_1p0fcn3",
+      "author": "Leodip",
+      "text_history": [
+        [
+          "Most of those terms are perfectly interchangeable.\n\nI normally would have not taken seriously anyone who calls themselves an \"AI\" engineer/expert/blah blah blah because \"AI\" is a broader field that I'm 99% convinced they have no competences about (e.g., \"AI\" is just any seemingly intelligent behavior from a machine, this can be pre-programmed for example, and includes the old-style chatbots that just identified keywords in the user's question and replied with a pre-made answer in their catalogue).\n\nHowever, AI became a keyword nowadays, so many (even competent) people are using the title \"AI Engineer\" even though they actually are \"ML Engineers\" just for marketability of the shiny cool title.\n\nIMHO, the 3 main titles that are related to data-stuff and are somewhat standardized are:\n\n* Data engineer: someone who is able to deal with data infrastructure, this can be as simple as a good SQL guy (which is very much not an ML role, but usually every ML engineer also has data engineering skills because it's very relevant to them).\n* Data analyst: someone who looks at the data, using whichever approach they like, to get business conclusions out of it. Nowadays, most data analyst use ML techniques, but mostly simple explainable models (so you wouldn't expect them to deal with neural networks or LLMs), but they are generally not ML engineers.\n* Data scientist: usually the actual ML guy, that tries to find a working model for a given dataset.\n\nA ML engineer is USUALLY someone that has data science and data engineering skills under their belt, but once you move away from those \"data-X\" titles all the lines get a lot more blurry.\n\nAs a non-technical person, navigating this is close to impossible. I recommend sitting down with your technical department and getting a description of what you expect the new hire to actually do, to figure out which specific competences they need.",
+          "2025-11-18T13:03:59.222723"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T13:03:59.222723"
+        ],
+        [
+          1,
+          "2025-11-18T13:15:46.455800"
+        ],
+        [
+          1,
+          "2025-11-18T13:46:27.402206"
+        ],
+        [
+          1,
+          "2025-11-18T13:49:26.615023"
+        ],
+        [
+          1,
+          "2025-11-18T13:59:21.539447"
+        ],
+        [
+          1,
+          "2025-11-18T14:10:39.818323"
+        ]
+      ],
+      "created_utc": 1763482350.0,
+      "depth": 0,
+      "permalink": "/r/learnmachinelearning/comments/1p0fcn3/is_there_any_good_way_to_understand_ai_roles/npihr47/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npiklwv",
+          "parent_id": "t1_npihr47",
+          "author": "No_Wall_7585",
+          "text_history": [
+            [
+              "Thanks, that really helps clarify things.\n\nSo if I understand correctly, there isn’t actually a well-defined set of “AI roles”.  \nIt’s more like: you take a Data Engineer / Data Scientist / Data Analyst profile, and then depending on what the company needs, you expect them to handle the AI/ML part that fits their background.\n\nIs that basically how it works right now?\n\nI’m asking because from the outside it really looks like everything gets thrown under the same “AI engineer” label, and I was wondering if there’s any *real* distinction, or if it’s just these data-X roles that then adapt depending on the project.",
+              "2025-11-18T13:03:59.222723"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T13:03:59.222723"
+            ],
+            [
+              1,
+              "2025-11-18T13:15:46.455800"
+            ],
+            [
+              1,
+              "2025-11-18T13:46:27.402206"
+            ],
+            [
+              1,
+              "2025-11-18T13:49:26.615023"
+            ],
+            [
+              1,
+              "2025-11-18T13:59:21.539447"
+            ],
+            [
+              1,
+              "2025-11-18T14:10:39.818323"
+            ]
+          ],
+          "created_utc": 1763483179.0,
+          "depth": 1,
+          "permalink": "/r/learnmachinelearning/comments/1p0fcn3/is_there_any_good_way_to_understand_ai_roles/npiklwv/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npijnj0",
+      "parent_id": "t3_1p0fcn3",
+      "author": "pm_me_your_smth",
+      "text_history": [
+        [
+          "Data roles are not defined well because this field is still not that mature, don't this there's a widely accepted taxonomy or consensus. Different companies may have very different names. I think asking chatgpt would lead to a good enough general explanation of roles. You should also include what skills/knowledge you're looking for in the post for better context.\n\nShort version and my own opinion of primary types:\n\n* data scientist/analyst. Does visualization/dashboards, reporting/EDA. SQL, powerbi, excel, mostly tabular data. More business, less technically oriented than others.\n* data engineer. Data pipelines (extraction, transformation, loading). Databases, spark, airflow.\n* ML engineer. Builds and trains models, then optimizes them for production. Sometimes focuses on one of domains (vision, language, audio, sensor, etc).\n* AI engineer. Focuses on LLMs/RAG/chatbots, trains/tunes/deploys/embeds them into systems. Software dev heavy role.\n* research scientist. Creates novel/SOTA ML models, maybe even publishes papers. Less development, more research/experimentation/innovation oriented.",
+          "2025-11-18T13:03:59.222723"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T13:03:59.222723"
+        ],
+        [
+          1,
+          "2025-11-18T13:15:46.455800"
+        ],
+        [
+          1,
+          "2025-11-18T13:46:27.402206"
+        ],
+        [
+          1,
+          "2025-11-18T13:49:26.615023"
+        ],
+        [
+          1,
+          "2025-11-18T13:59:21.539447"
+        ],
+        [
+          1,
+          "2025-11-18T14:10:39.818323"
+        ]
+      ],
+      "created_utc": 1763482903.0,
+      "depth": 0,
+      "permalink": "/r/learnmachinelearning/comments/1p0fcn3/is_there_any_good_way_to_understand_ai_roles/npijnj0/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npioa4s",
+          "parent_id": "t1_npijnj0",
+          "author": "No_Wall_7585",
+          "text_history": [
+            [
+              "Thanks a lot, this is super helpful — especially the way you broke down the roles  \nBased on what you’re saying, it sounds like for the vast majority of AI-related projects in medium-sized companies, the profile that makes the most sense is basically an AI Engineer — someone who can handle LLMs/RAG/chatbots, tune models, deploy them, and integrate them into existing systems.\n\nAnd another thing I’m curious about: do the other roles you mentioned (research scientist, very specialized ML engineers, etc.) actually make sense for mid-sized companies, or are those roles mostly meaningful in big tech, research labs, and companies with heavy infrastructure?  \nTrying to understand what is “nice to have” versus what is realistically needed in most companies outside the FAANG-type ecosystem.",
+              "2025-11-18T13:03:59.222723"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T13:03:59.222723"
+            ],
+            [
+              1,
+              "2025-11-18T13:15:46.455800"
+            ],
+            [
+              1,
+              "2025-11-18T13:46:27.402206"
+            ],
+            [
+              1,
+              "2025-11-18T13:49:26.615023"
+            ],
+            [
+              1,
+              "2025-11-18T13:59:21.539447"
+            ],
+            [
+              1,
+              "2025-11-18T14:10:39.818323"
+            ]
+          ],
+          "created_utc": 1763484251.0,
+          "depth": 1,
+          "permalink": "/r/learnmachinelearning/comments/1p0fcn3/is_there_any_good_way_to_understand_ai_roles/npioa4s/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-18T14:10:39.818323",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/learnmachinelearning/comments/1p0fcn3/is_there_any_good_way_to_understand_ai_roles/",
+    "total_comments": 4,
+    "top_level_comments": 2,
+    "api_requests": 1,
+    "expected_comments": 4,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 6,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_130359.json",
+      "scrape_002_20251118_131546.json",
+      "scrape_003_20251118_134627.json",
+      "scrape_004_20251118_134926.json",
+      "scrape_005_20251118_135921.json",
+      "scrape_006_20251118_141039.json"
+    ]
+  }
+}

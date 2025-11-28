@@ -1,0 +1,80 @@
+{
+  "post": {
+    "id": "1p04g4b",
+    "title": "ChatGPT Plus' Desktop App – Any Way to Connect to Supermemory.ai via MCP (like I already did with Claude Max 5x's desktop app)?",
+    "author": "TheLawIsSacred",
+    "score_history": [
+      [
+        4,
+        "2025-11-19T03:30:32.950163"
+      ],
+      [
+        5,
+        "2025-11-19T03:36:28.332154"
+      ],
+      [
+        5,
+        "2025-11-19T03:37:55.634460"
+      ]
+    ],
+    "created_utc": 1763446259.0,
+    "num_comments": 1,
+    "subreddit": "ChatGPTPro",
+    "url": "https://www.reddit.com/r/ChatGPTPro/comments/1p04g4b/chatgpt_plus_desktop_app_any_way_to_connect_to/",
+    "selftext": "**I've successfully integrated** [**Supermemory.ai**](http://Supermemory.ai) **into Claude Max 5x (desktop app, Windows 11) via MCP config injection.** Works perfectly for memory-layer context (Google Drive, long-term notes, cross-session recall).\n\n**But I'm hitting a wall with ChatGPT Plus desktop.**   \n  \nI enabled ChatGPT Plus desktop's \"Developer Mode,\" explored \"New Connector (Beta)\" UI, and tried pointing it at the Supermemory MCP server. Nothing happens—no tool registration, no config file, no handshake.\n\n **What works:**\n\n\\- Claude Max 5x + Supermemory via \\`claude\\_desktop\\_config.json\\`\n\n\\- ChatGPT Plus: Developer Mode ON, all toggles (Memory, Record, Connector Search) enabled\n\n**What doesn't:**\n\n\\- ChatGPT desktop has \\*\\*no exposed config file\\*\\* like Claude\n\n\\- \"New Connector (Beta)\" appears OAuth-only, not MCP-compatible\n\n\\- No way to register third-party MCP servers like Supermemory\n\n**Questions:**\n\n1. Has anyone successfully added a custom MCP server to ChatGPT Plus desktop?\n\n2. Is the connector system locked to OpenAI-sanctioned services?\n\n3. Is the only working Supermemory+ChatGPT method via the browser extension (i.e., chat.openai.com)?\n\nI'm not a developer but very comfortable with config and logic flows. Would love to know if anyone's bypassed this wall—or if it's a hard limit for now.\n\nTYIA.",
+    "permalink": "/r/ChatGPTPro/comments/1p04g4b/chatgpt_plus_desktop_app_any_way_to_connect_to/"
+  },
+  "comments": [
+    {
+      "id": "npg8p37",
+      "parent_id": "t3_1p04g4b",
+      "author": "qualityvote2",
+      "text_history": [
+        [
+          "✅ u/TheLawIsSacred, your post has been approved by the community!  \nThanks for contributing to r/ChatGPTPro — we look forward to the discussion.",
+          "2025-11-19T03:30:32.950163"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T03:30:32.950163"
+        ],
+        [
+          1,
+          "2025-11-19T03:36:28.332154"
+        ],
+        [
+          1,
+          "2025-11-19T03:37:55.634460"
+        ]
+      ],
+      "created_utc": 1763446260.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTPro/comments/1p04g4b/chatgpt_plus_desktop_app_any_way_to_connect_to/npg8p37/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": 1763478660.0,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:37:55.634460",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/ChatGPTPro/comments/1p04g4b/chatgpt_plus_desktop_app_any_way_to_connect_to/",
+    "total_comments": 1,
+    "top_level_comments": 1,
+    "api_requests": 1,
+    "expected_comments": 1,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_033032.json",
+      "scrape_002_20251119_033628.json",
+      "scrape_003_20251119_033755.json"
+    ]
+  }
+}

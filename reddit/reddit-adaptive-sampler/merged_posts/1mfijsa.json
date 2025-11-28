@@ -1,0 +1,221 @@
+{
+  "post": {
+    "id": "1mfijsa",
+    "title": "How to avoid IP bans when using youtube-transcript-api to fetch YouTube video transcripts?",
+    "author": "Anas_M1nt",
+    "score_history": [
+      [
+        0,
+        "2025-11-18T14:23:38.015009"
+      ],
+      [
+        0,
+        "2025-11-18T14:33:26.601458"
+      ],
+      [
+        0,
+        "2025-11-18T14:43:21.355600"
+      ]
+    ],
+    "created_utc": 1754112308.0,
+    "num_comments": 5,
+    "subreddit": "AutoGPT",
+    "url": "https://www.reddit.com/r/AutoGPT/comments/1mfijsa/how_to_avoid_ip_bans_when_using/",
+    "selftext": "I'm trying to make an agent that get YouTube videos transcript but i keep having ip ban or a ban from requests to youtube-transcript-api, how to manage this?",
+    "permalink": "/r/AutoGPT/comments/1mfijsa/how_to_avoid_ip_bans_when_using/"
+  },
+  "comments": [
+    {
+      "id": "n7z6ram",
+      "parent_id": "t3_1mfijsa",
+      "author": "iamrafal",
+      "text_history": [
+        [
+          "use https://supadata.ai API",
+          "2025-11-18T14:23:38.015009"
+        ]
+      ],
+      "score_history": [
+        [
+          7,
+          "2025-11-18T14:23:38.015009"
+        ],
+        [
+          7,
+          "2025-11-18T14:33:26.601458"
+        ],
+        [
+          7,
+          "2025-11-18T14:43:21.355600"
+        ]
+      ],
+      "created_utc": 1754849053.0,
+      "depth": 0,
+      "permalink": "/r/AutoGPT/comments/1mfijsa/how_to_avoid_ip_bans_when_using/n7z6ram/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": 1758267816.0,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "n6pw687",
+      "parent_id": "t3_1mfijsa",
+      "author": "Jdonavan",
+      "text_history": [
+        [
+          "Don’t   Stop stealing.",
+          "2025-11-18T14:23:38.015009"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:23:38.015009"
+        ],
+        [
+          1,
+          "2025-11-18T14:33:26.601458"
+        ],
+        [
+          1,
+          "2025-11-18T14:43:21.355600"
+        ]
+      ],
+      "created_utc": 1754238914.0,
+      "depth": 0,
+      "permalink": "/r/AutoGPT/comments/1mfijsa/how_to_avoid_ip_bans_when_using/n6pw687/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "n6tgoy4",
+      "parent_id": "t3_1mfijsa",
+      "author": "KittenBrix",
+      "text_history": [
+        [
+          "The fact that youre getting IP banned already should be a sign that what you're doing is not above board with youtube.\nThat said, try rate limiting your agent, piping your agent's internet access through a vpn, or build an intermediary service for the agent to use that essentially does that.\nBased on other services out there, the most likely culprit is rate limits.",
+          "2025-11-18T14:23:38.015009"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:23:38.015009"
+        ],
+        [
+          1,
+          "2025-11-18T14:33:26.601458"
+        ],
+        [
+          1,
+          "2025-11-18T14:43:21.355600"
+        ]
+      ],
+      "created_utc": 1754282716.0,
+      "depth": 0,
+      "permalink": "/r/AutoGPT/comments/1mfijsa/how_to_avoid_ip_bans_when_using/n6tgoy4/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "n6tgw86",
+          "parent_id": "t1_n6tgoy4",
+          "author": "KittenBrix",
+          "text_history": [
+            [
+              "Honestly the best bet here is to make your own API your agents will consume that actually enforces the rate limit internally so you can avoid any agentic behavior from getting your credentials banned.",
+              "2025-11-18T14:23:38.015009"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T14:23:38.015009"
+            ],
+            [
+              1,
+              "2025-11-18T14:33:26.601458"
+            ],
+            [
+              1,
+              "2025-11-18T14:43:21.355600"
+            ]
+          ],
+          "created_utc": 1754282811.0,
+          "depth": 1,
+          "permalink": "/r/AutoGPT/comments/1mfijsa/how_to_avoid_ip_bans_when_using/n6tgw86/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "n9n31m2",
+      "parent_id": "t3_1mfijsa",
+      "author": "ntindle",
+      "text_history": [
+        [
+          "Are you hitting this with the AutoGPT platform? If so shoot me logs",
+          "2025-11-18T14:23:38.015009"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:23:38.015009"
+        ],
+        [
+          1,
+          "2025-11-18T14:33:26.601458"
+        ],
+        [
+          1,
+          "2025-11-18T14:43:21.355600"
+        ]
+      ],
+      "created_utc": 1755655372.0,
+      "depth": 0,
+      "permalink": "/r/AutoGPT/comments/1mfijsa/how_to_avoid_ip_bans_when_using/n9n31m2/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-18T14:43:21.355600",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/AutoGPT/comments/1mfijsa/how_to_avoid_ip_bans_when_using/",
+    "total_comments": 5,
+    "top_level_comments": 4,
+    "api_requests": 1,
+    "expected_comments": 5,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_142337.json",
+      "scrape_002_20251118_143326.json",
+      "scrape_003_20251118_144321.json"
+    ]
+  }
+}

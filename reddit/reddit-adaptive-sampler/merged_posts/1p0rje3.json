@@ -1,0 +1,44 @@
+{
+  "post": {
+    "id": "1p0rje3",
+    "title": "Prompt:  Inteligência Artificial na Educação",
+    "author": "Defiant-Barnacle-723",
+    "score_history": [
+      [
+        1,
+        "2025-11-19T02:55:55.539259"
+      ],
+      [
+        1,
+        "2025-11-19T03:04:56.245998"
+      ],
+      [
+        1,
+        "2025-11-19T03:08:36.248232"
+      ]
+    ],
+    "created_utc": 1763508442.0,
+    "num_comments": 0,
+    "subreddit": "PromptEngineering",
+    "url": "https://www.reddit.com/r/PromptEngineering/comments/1p0rje3/prompt_inteligência_artificial_na_educação/",
+    "selftext": "     Inteligência Artificial na Educação\n    \n    Análise: Trata-se de um domínio amplo, com interseções entre pedagogia, tecnologia, ética e práticas de sala de aula. Permite aprofundamentos progressivos e exige organização para evitar dispersão.\n    \n     1. Subtemas Críticos Identificados\n    1. Conceitos básicos de IA\n    2. Aplicações educacionais\n    3. Impactos pedagógicos\n    4. Riscos e ética\n    5. Implementação prática\n    6. Futuro e tendências\n    \n     2. Proposta de Sequência Multiturno (camadas numeradas)\n    1. Camada 1 — Fundamentos da IA\n    2. Camada 2 — Aplicações na educação\n    3. Camada 3 — Efeitos pedagógicos e cognitivos\n    4. Camada 4 — Questões éticas e riscos\n    5. Camada 5 — Estratégias de implementação real\n    \n     3. Turno Ativo (exemplo — Camada 1)\n    Tópico da camada: Fundamentos da IA\n    Por que vem agora: É impossível compreender o impacto educacional sem alinhamento conceitual mínimo sobre como IA funciona, suas categorias e limitações.\n    Objetivo da etapa: Estabelecer a base técnica que permitirá interpretar e aprofundar os próximos níveis sem confusão terminológica.\n    \n     4. Pergunta de Confirmação\n    Deseja avançar para o próximo turno?",
+    "permalink": "/r/PromptEngineering/comments/1p0rje3/prompt_inteligência_artificial_na_educação/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:08:36.248232",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/PromptEngineering/comments/1p0rje3/prompt_inteligência_artificial_na_educação/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_025555.json",
+      "scrape_002_20251119_030456.json",
+      "scrape_003_20251119_030836.json"
+    ]
+  }
+}

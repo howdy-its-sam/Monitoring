@@ -1,0 +1,44 @@
+{
+  "post": {
+    "id": "1oz8py6",
+    "title": "Beginner-friendly tips from 10 years in automation",
+    "author": "EmbarrassedHair2341",
+    "score_history": [
+      [
+        0,
+        "2025-11-19T03:19:49.493618"
+      ],
+      [
+        0,
+        "2025-11-19T03:25:42.325452"
+      ],
+      [
+        0,
+        "2025-11-19T03:28:31.965684"
+      ]
+    ],
+    "created_utc": 1763359461.0,
+    "num_comments": 0,
+    "subreddit": "robotics",
+    "url": "/r/Fanuc/comments/1oz8pik/beginnerfriendly_tips_from_10_years_in_automation/",
+    "selftext": "",
+    "permalink": "/r/robotics/comments/1oz8py6/beginnerfriendly_tips_from_10_years_in_automation/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:28:31.965684",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/robotics/comments/1oz8py6/beginnerfriendly_tips_from_10_years_in_automation/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_031949.json",
+      "scrape_002_20251119_032542.json",
+      "scrape_003_20251119_032831.json"
+    ]
+  }
+}

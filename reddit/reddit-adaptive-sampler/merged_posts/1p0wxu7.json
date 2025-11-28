@@ -1,0 +1,44 @@
+{
+  "post": {
+    "id": "1p0wxu7",
+    "title": "[Survey] [Discussion] [5 min] [English] [Spanish] Seeking participants for a short academic survey on supervised learning in autonomous vehicles",
+    "author": "Constant_Hat_6977",
+    "score_history": [
+      [
+        1,
+        "2025-11-19T03:30:35.871314"
+      ],
+      [
+        1,
+        "2025-11-19T03:39:13.762247"
+      ],
+      [
+        1,
+        "2025-11-19T03:41:30.066101"
+      ]
+    ],
+    "created_utc": 1763523220.0,
+    "num_comments": 0,
+    "subreddit": "learnmachinelearning",
+    "url": "https://www.reddit.com/r/learnmachinelearning/comments/1p0wxu7/survey_discussion_5_min_english_spanish_seeking/",
+    "selftext": "Hi everyone! 👋\n\n**Target demographic:** students, instructors, tech enthusiasts, and individuals familiar with AI, machine learning, or autonomous vehicles.\n\nI’m conducting an academic research project on **supervised learning applied to the training of autonomous vehicles in the U.S. automotive industry**. The goal is to understand how people perceive the role of supervised learning, advanced perception models, and AI-based decision-making in self-driving systems.\n\nThe survey takes about 5 minutes, is anonymous, and is part of an academic project (not commercial).\n\n**Survey link:** [https://forms.gle/Z8SpPuoa7XkE3azr5](https://forms.gle/Z8SpPuoa7XkE3azr5)\n\nYour participation would help us analyze:\n\n* How supervised learning influences vehicle perception and trajectory detection\n* Perceptions of safety, trust, and responsibility in autonomous driving\n* Comparisons between supervised, unsupervised, and reinforcement learning approaches\n* Expected societal and economic impacts of autonomous vehicles\n\nAny response is greatly appreciated. Thank you for helping with this academic research! 🚗🤖",
+    "permalink": "/r/learnmachinelearning/comments/1p0wxu7/survey_discussion_5_min_english_spanish_seeking/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:41:30.066101",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/learnmachinelearning/comments/1p0wxu7/survey_discussion_5_min_english_spanish_seeking/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_033035.json",
+      "scrape_002_20251119_033913.json",
+      "scrape_003_20251119_034129.json"
+    ]
+  }
+}

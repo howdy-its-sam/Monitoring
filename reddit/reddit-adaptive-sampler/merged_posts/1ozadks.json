@@ -1,0 +1,633 @@
+{
+  "post": {
+    "id": "1ozadks",
+    "title": "AG-UI + LangGraph Demo (FastAPI + React)",
+    "author": "SnooPears3341",
+    "score_history": [
+      [
+        18,
+        "2025-11-18T13:49:47.902386"
+      ],
+      [
+        16,
+        "2025-11-18T14:00:59.464538"
+      ],
+      [
+        18,
+        "2025-11-18T14:12:17.165075"
+      ],
+      [
+        19,
+        "2025-11-18T21:49:49.426981"
+      ],
+      [
+        19,
+        "2025-11-18T23:54:47.151895"
+      ],
+      [
+        20,
+        "2025-11-19T01:39:59.423633"
+      ]
+    ],
+    "created_utc": 1763365616.0,
+    "num_comments": 12,
+    "subreddit": "LangChain",
+    "url": "https://www.reddit.com/r/LangChain/comments/1ozadks/agui_langgraph_demo_fastapi_react/",
+    "selftext": "Have built an AG UI + LangGraph demo using FastAPI and React for a project that uses React. Sharing it in case it helps anyone looking for a simple AG UI reference. Most examples online are based on Next.js, so this version keeps it plain and easy to follow.  \n  \nGitHub: [https://github.com/breeznik/agui\\_demo](https://github.com/breeznik/agui_demo)  \n  \nStill a work in progress. Tool calls and HITL support will be added next.  \n  \n",
+    "permalink": "/r/LangChain/comments/1ozadks/agui_langgraph_demo_fastapi_react/"
+  },
+  "comments": [
+    {
+      "id": "npc8cgt",
+      "parent_id": "t3_1ozadks",
+      "author": "International_Quail8",
+      "text_history": [
+        [
+          "Am trying to implement AG UI in a custom FastAPI server without using a react frontend (using vanilla html/js and htmx). Haven’t started yet. Looking for any pointers",
+          "2025-11-18T13:49:47.902386"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-18T13:49:47.902386"
+        ],
+        [
+          2,
+          "2025-11-18T14:00:59.464538"
+        ],
+        [
+          2,
+          "2025-11-18T14:12:17.165075"
+        ],
+        [
+          2,
+          "2025-11-18T21:49:49.426981"
+        ],
+        [
+          2,
+          "2025-11-18T23:54:47.151895"
+        ],
+        [
+          2,
+          "2025-11-19T01:39:59.423633"
+        ]
+      ],
+      "created_utc": 1763397137.0,
+      "depth": 0,
+      "permalink": "/r/LangChain/comments/1ozadks/agui_langgraph_demo_fastapi_react/npc8cgt/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npc9qrz",
+          "parent_id": "t1_npc8cgt",
+          "author": "SnooPears3341",
+          "text_history": [
+            [
+              "the HttpAgent logic in frontend is mainly plain js. let me try to convert it with AI. will update you shortly.",
+              "2025-11-18T13:49:47.902386"
+            ]
+          ],
+          "score_history": [
+            [
+              2,
+              "2025-11-18T13:49:47.902386"
+            ],
+            [
+              2,
+              "2025-11-18T14:00:59.464538"
+            ],
+            [
+              2,
+              "2025-11-18T14:12:17.165075"
+            ],
+            [
+              2,
+              "2025-11-18T21:49:49.426981"
+            ],
+            [
+              2,
+              "2025-11-18T23:54:47.151895"
+            ],
+            [
+              2,
+              "2025-11-19T01:39:59.423633"
+            ]
+          ],
+          "created_utc": 1763397548.0,
+          "depth": 1,
+          "permalink": "/r/LangChain/comments/1ozadks/agui_langgraph_demo_fastapi_react/npc9qrz/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npcbqzx",
+              "parent_id": "t1_npc9qrz",
+              "author": "SnooPears3341",
+              "text_history": [
+                [
+                  "u/International_Quail8  uploaded please check now.",
+                  "2025-11-18T13:49:47.902386"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-18T13:49:47.902386"
+                ],
+                [
+                  1,
+                  "2025-11-18T14:00:59.464538"
+                ],
+                [
+                  1,
+                  "2025-11-18T14:12:17.165075"
+                ],
+                [
+                  1,
+                  "2025-11-18T21:49:49.426981"
+                ],
+                [
+                  1,
+                  "2025-11-18T23:54:47.151895"
+                ],
+                [
+                  1,
+                  "2025-11-19T01:39:59.423633"
+                ]
+              ],
+              "created_utc": 1763398133.0,
+              "depth": 2,
+              "permalink": "/r/LangChain/comments/1ozadks/agui_langgraph_demo_fastapi_react/npcbqzx/",
+              "is_submitter": true,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": [
+                {
+                  "id": "npcdeq7",
+                  "parent_id": "t1_npcbqzx",
+                  "author": "International_Quail8",
+                  "text_history": [
+                    [
+                      "That definitely has a lot of the barebones. My thought is to leverage HTMX to minimize the JavaScript involved and use SSE for communication (supported by FastAPI and HTMX). \n\nI’ve built an agent runtime that runs langgraph agents (similar to langgraph dev, but at the langgraph agent protocol level). The wiring for having a custom UI is in place and works great, but the UI is a default chat interface. Was planning to integrate AG-UI (at the protocol level) to make the UI much more interesting and sophisticated. I’ve used CopilotKit extensively so understand the mechanics, but wanting to avoid the additional dependencies on react, etc.\n\nThanks for taking the time to write this and respond to my question with a quick example.",
+                      "2025-11-18T13:49:47.902386"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      3,
+                      "2025-11-18T13:49:47.902386"
+                    ],
+                    [
+                      3,
+                      "2025-11-18T14:00:59.464538"
+                    ],
+                    [
+                      3,
+                      "2025-11-18T14:12:17.165075"
+                    ],
+                    [
+                      3,
+                      "2025-11-18T21:49:49.426981"
+                    ],
+                    [
+                      3,
+                      "2025-11-18T23:54:47.151895"
+                    ],
+                    [
+                      3,
+                      "2025-11-19T01:39:59.423633"
+                    ]
+                  ],
+                  "created_utc": 1763398620.0,
+                  "depth": 3,
+                  "permalink": "/r/LangChain/comments/1ozadks/agui_langgraph_demo_fastapi_react/npcdeq7/",
+                  "is_submitter": false,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": [
+                    {
+                      "id": "npchxc1",
+                      "parent_id": "t1_npcdeq7",
+                      "author": "SnooPears3341",
+                      "text_history": [
+                        [
+                          "That’s interesting. I’d like to try something similar. Thanks for the idea.",
+                          "2025-11-18T13:49:47.902386"
+                        ]
+                      ],
+                      "score_history": [
+                        [
+                          2,
+                          "2025-11-18T13:49:47.902386"
+                        ],
+                        [
+                          2,
+                          "2025-11-18T14:00:59.464538"
+                        ],
+                        [
+                          2,
+                          "2025-11-18T14:12:17.165075"
+                        ],
+                        [
+                          2,
+                          "2025-11-18T21:49:49.426981"
+                        ],
+                        [
+                          2,
+                          "2025-11-18T23:54:47.151895"
+                        ],
+                        [
+                          2,
+                          "2025-11-19T01:39:59.423633"
+                        ]
+                      ],
+                      "created_utc": 1763399961.0,
+                      "depth": 4,
+                      "permalink": "/r/LangChain/comments/1ozadks/agui_langgraph_demo_fastapi_react/npchxc1/",
+                      "is_submitter": true,
+                      "controversiality": 0,
+                      "gilded": 0,
+                      "edited": false,
+                      "deleted": false,
+                      "deleted_at": null,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "npciak7",
+      "parent_id": "t3_1ozadks",
+      "author": "theanatomist2501",
+      "text_history": [
+        [
+          "just curious, what's the difference between this and using Copilotkit? thanks!",
+          "2025-11-18T13:49:47.902386"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-18T13:49:47.902386"
+        ],
+        [
+          2,
+          "2025-11-18T14:00:59.464538"
+        ],
+        [
+          2,
+          "2025-11-18T14:12:17.165075"
+        ],
+        [
+          2,
+          "2025-11-18T21:49:49.426981"
+        ],
+        [
+          2,
+          "2025-11-18T23:54:47.151895"
+        ],
+        [
+          2,
+          "2025-11-19T01:39:59.423633"
+        ]
+      ],
+      "created_utc": 1763400070.0,
+      "depth": 0,
+      "permalink": "/r/LangChain/comments/1ozadks/agui_langgraph_demo_fastapi_react/npciak7/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npgfbfp",
+          "parent_id": "t1_npciak7",
+          "author": "SnooPears3341",
+          "text_history": [
+            [
+              "it's a low-level client connecting to agui compatible backends, whereas copilotkit is a full react framework that uses httpagent internally to provide ready-made ui components.",
+              "2025-11-18T13:49:47.902386"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T13:49:47.902386"
+            ],
+            [
+              1,
+              "2025-11-18T14:00:59.464538"
+            ],
+            [
+              1,
+              "2025-11-18T14:12:17.165075"
+            ],
+            [
+              1,
+              "2025-11-18T21:49:49.426981"
+            ],
+            [
+              1,
+              "2025-11-18T23:54:47.151895"
+            ],
+            [
+              1,
+              "2025-11-19T01:39:59.423633"
+            ]
+          ],
+          "created_utc": 1763449877.0,
+          "depth": 1,
+          "permalink": "/r/LangChain/comments/1ozadks/agui_langgraph_demo_fastapi_react/npgfbfp/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "nphjib5",
+      "parent_id": "t3_1ozadks",
+      "author": "Aware-Technology7237",
+      "text_history": [
+        [
+          "Off topic question but how you buy openroute api credits like payment way. I have rupay card is it workable",
+          "2025-11-18T13:49:47.902386"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T13:49:47.902386"
+        ],
+        [
+          1,
+          "2025-11-18T14:00:59.464538"
+        ],
+        [
+          1,
+          "2025-11-18T14:12:17.165075"
+        ],
+        [
+          1,
+          "2025-11-18T21:49:49.426981"
+        ],
+        [
+          1,
+          "2025-11-18T23:54:47.151895"
+        ],
+        [
+          1,
+          "2025-11-19T01:39:59.423633"
+        ]
+      ],
+      "created_utc": 1763471630.0,
+      "depth": 0,
+      "permalink": "/r/LangChain/comments/1ozadks/agui_langgraph_demo_fastapi_react/nphjib5/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "nphjwxq",
+          "parent_id": "t1_nphjib5",
+          "author": "SnooPears3341",
+          "text_history": [
+            [
+              "Hy i am using VISA card , don't know about Rupay also can't check right as the web is down because of cloudflare outage",
+              "2025-11-18T13:49:47.902386"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T13:49:47.902386"
+            ],
+            [
+              1,
+              "2025-11-18T14:00:59.464538"
+            ],
+            [
+              1,
+              "2025-11-18T14:12:17.165075"
+            ],
+            [
+              1,
+              "2025-11-18T21:49:49.426981"
+            ],
+            [
+              1,
+              "2025-11-18T23:54:47.151895"
+            ],
+            [
+              1,
+              "2025-11-19T01:39:59.423633"
+            ]
+          ],
+          "created_utc": 1763471771.0,
+          "depth": 1,
+          "permalink": "/r/LangChain/comments/1ozadks/agui_langgraph_demo_fastapi_react/nphjwxq/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "nphkj4h",
+              "parent_id": "t1_nphjwxq",
+              "author": "Aware-Technology7237",
+              "text_history": [
+                [
+                  "Hey is there any business requirements for getting visa card\n\nPs also it is credit or debit",
+                  "2025-11-18T13:49:47.902386"
+                ]
+              ],
+              "score_history": [
+                [
+                  2,
+                  "2025-11-18T13:49:47.902386"
+                ],
+                [
+                  2,
+                  "2025-11-18T14:00:59.464538"
+                ],
+                [
+                  2,
+                  "2025-11-18T14:12:17.165075"
+                ],
+                [
+                  2,
+                  "2025-11-18T21:49:49.426981"
+                ],
+                [
+                  2,
+                  "2025-11-18T23:54:47.151895"
+                ],
+                [
+                  2,
+                  "2025-11-19T01:39:59.423633"
+                ]
+              ],
+              "created_utc": 1763471984.0,
+              "depth": 2,
+              "permalink": "/r/LangChain/comments/1ozadks/agui_langgraph_demo_fastapi_react/nphkj4h/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": [
+                {
+                  "id": "nphlsn0",
+                  "parent_id": "t1_nphkj4h",
+                  "author": "SnooPears3341",
+                  "text_history": [
+                    [
+                      "no if you are not getting it for business purpose. it can be obtained from bank as per their schemes. no special requirements are there.\n\ni am using credit card , the payment shouldn't be constrained to debit or credit.\\[a guess\\]",
+                      "2025-11-18T13:49:47.902386"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      1,
+                      "2025-11-18T13:49:47.902386"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T14:00:59.464538"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T14:12:17.165075"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T21:49:49.426981"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T23:54:47.151895"
+                    ],
+                    [
+                      1,
+                      "2025-11-19T01:39:59.423633"
+                    ]
+                  ],
+                  "created_utc": 1763472408.0,
+                  "depth": 3,
+                  "permalink": "/r/LangChain/comments/1ozadks/agui_langgraph_demo_fastapi_react/nphlsn0/",
+                  "is_submitter": true,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": [
+                    {
+                      "id": "nphmt96",
+                      "parent_id": "t1_nphlsn0",
+                      "author": "Aware-Technology7237",
+                      "text_history": [
+                        [
+                          "Ohk.",
+                          "2025-11-18T13:49:47.902386"
+                        ]
+                      ],
+                      "score_history": [
+                        [
+                          1,
+                          "2025-11-18T13:49:47.902386"
+                        ],
+                        [
+                          1,
+                          "2025-11-18T14:00:59.464538"
+                        ],
+                        [
+                          1,
+                          "2025-11-18T14:12:17.165075"
+                        ],
+                        [
+                          1,
+                          "2025-11-18T21:49:49.426981"
+                        ],
+                        [
+                          1,
+                          "2025-11-18T23:54:47.151895"
+                        ],
+                        [
+                          1,
+                          "2025-11-19T01:39:59.423633"
+                        ]
+                      ],
+                      "created_utc": 1763472747.0,
+                      "depth": 4,
+                      "permalink": "/r/LangChain/comments/1ozadks/agui_langgraph_demo_fastapi_react/nphmt96/",
+                      "is_submitter": false,
+                      "controversiality": 0,
+                      "gilded": 0,
+                      "edited": false,
+                      "deleted": false,
+                      "deleted_at": null,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T01:39:59.423633",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/LangChain/comments/1ozadks/agui_langgraph_demo_fastapi_react/",
+    "total_comments": 12,
+    "top_level_comments": 3,
+    "api_requests": 1,
+    "expected_comments": 12,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 6,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_134947.json",
+      "scrape_002_20251118_140059.json",
+      "scrape_003_20251118_141216.json",
+      "scrape_004_20251118_214949.json",
+      "scrape_005_20251118_235446.json",
+      "scrape_006_20251119_013959.json"
+    ]
+  }
+}

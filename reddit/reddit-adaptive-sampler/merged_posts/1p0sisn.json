@@ -1,0 +1,818 @@
+{
+  "post": {
+    "id": "1p0sisn",
+    "title": "I replicated Anthropic’s \"Introspection\" paper on DeepSeek-7B. It works.",
+    "author": "Specialist_Bad_4465",
+    "score_history": [
+      [
+        137,
+        "2025-11-19T02:57:42.945497"
+      ],
+      [
+        140,
+        "2025-11-19T03:05:47.513643"
+      ],
+      [
+        141,
+        "2025-11-19T03:08:47.429121"
+      ]
+    ],
+    "created_utc": 1763510979.0,
+    "num_comments": 22,
+    "subreddit": "LocalLLaMA",
+    "url": "https://joshfonseca.com/blogs/introspection",
+    "selftext": "",
+    "permalink": "/r/LocalLLaMA/comments/1p0sisn/i_replicated_anthropics_introspection_paper_on/"
+  },
+  "comments": [
+    {
+      "id": "npl6drk",
+      "parent_id": "t3_1p0sisn",
+      "author": "yatusabe__",
+      "text_history": [
+        [
+          "Why the scroll hijacking? Please just tell me why, I need to understand how anyone could think it is a good idea.",
+          "2025-11-19T02:57:42.945497"
+        ]
+      ],
+      "score_history": [
+        [
+          62,
+          "2025-11-19T02:57:42.945497"
+        ],
+        [
+          63,
+          "2025-11-19T03:05:47.513643"
+        ],
+        [
+          61,
+          "2025-11-19T03:08:47.429121"
+        ]
+      ],
+      "created_utc": 1763512081.0,
+      "depth": 0,
+      "permalink": "/r/LocalLLaMA/comments/1p0sisn/i_replicated_anthropics_introspection_paper_on/npl6drk/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npl8ge1",
+          "parent_id": "t1_npl6drk",
+          "author": "pokemonplayer2001",
+          "text_history": [
+            [
+              "A hateful choice.",
+              "2025-11-19T02:57:42.945497"
+            ]
+          ],
+          "score_history": [
+            [
+              21,
+              "2025-11-19T02:57:42.945497"
+            ],
+            [
+              21,
+              "2025-11-19T03:05:47.513643"
+            ],
+            [
+              21,
+              "2025-11-19T03:08:47.429121"
+            ]
+          ],
+          "created_utc": 1763512804.0,
+          "depth": 1,
+          "permalink": "/r/LocalLLaMA/comments/1p0sisn/i_replicated_anthropics_introspection_paper_on/npl8ge1/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        },
+        {
+          "id": "npm35jr",
+          "parent_id": "t1_npl6drk",
+          "author": "Specialist_Bad_4465",
+          "text_history": [
+            [
+              "sorry, i was trying something new :) \n\nlesson learned. I have removed it.",
+              "2025-11-19T02:57:42.945497"
+            ]
+          ],
+          "score_history": [
+            [
+              19,
+              "2025-11-19T02:57:42.945497"
+            ],
+            [
+              19,
+              "2025-11-19T03:05:47.513643"
+            ],
+            [
+              19,
+              "2025-11-19T03:08:47.429121"
+            ]
+          ],
+          "created_utc": 1763523977.0,
+          "depth": 1,
+          "permalink": "/r/LocalLLaMA/comments/1p0sisn/i_replicated_anthropics_introspection_paper_on/npm35jr/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npmlz3u",
+              "parent_id": "t1_npm35jr",
+              "author": "o5mfiHTNsH748KVq",
+              "text_history": [
+                [
+                  "The little ease upward is still a nice touch though",
+                  "2025-11-19T02:57:42.945497"
+                ]
+              ],
+              "score_history": [
+                [
+                  3,
+                  "2025-11-19T02:57:42.945497"
+                ],
+                [
+                  3,
+                  "2025-11-19T03:05:47.513643"
+                ],
+                [
+                  3,
+                  "2025-11-19T03:08:47.429121"
+                ]
+              ],
+              "created_utc": 1763532601.0,
+              "depth": 2,
+              "permalink": "/r/LocalLLaMA/comments/1p0sisn/i_replicated_anthropics_introspection_paper_on/npmlz3u/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            },
+            {
+              "id": "npn3b5q",
+              "parent_id": "t1_npm35jr",
+              "author": "Pvt_Twinkietoes",
+              "text_history": [
+                [
+                  "I do like the UI on mobile",
+                  "2025-11-19T02:57:42.945497"
+                ]
+              ],
+              "score_history": [
+                [
+                  2,
+                  "2025-11-19T02:57:42.945497"
+                ],
+                [
+                  2,
+                  "2025-11-19T03:05:47.513643"
+                ],
+                [
+                  2,
+                  "2025-11-19T03:08:47.429121"
+                ]
+              ],
+              "created_utc": 1763542819.0,
+              "depth": 2,
+              "permalink": "/r/LocalLLaMA/comments/1p0sisn/i_replicated_anthropics_introspection_paper_on/npn3b5q/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            },
+            {
+              "id": "npn5gxu",
+              "parent_id": "t1_npm35jr",
+              "author": "yatusabe__",
+              "text_history": [
+                [
+                  "Thank you, I finally got to read your post and it was very interesting. I hope you continue this research and share the results. Computer science meets philosophy, what's not to love about it?",
+                  "2025-11-19T02:57:42.945497"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-19T02:57:42.945497"
+                ],
+                [
+                  1,
+                  "2025-11-19T03:05:47.513643"
+                ],
+                [
+                  1,
+                  "2025-11-19T03:08:47.429121"
+                ]
+              ],
+              "created_utc": 1763544201.0,
+              "depth": 2,
+              "permalink": "/r/LocalLLaMA/comments/1p0sisn/i_replicated_anthropics_introspection_paper_on/npn5gxu/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "npl8mpy",
+          "parent_id": "t1_npl6drk",
+          "author": "Environmental-Metal9",
+          "text_history": [
+            [
+              "Agreed. On mobile it makes reading the bottom of the page impossible because it jumps to the next section if I try to move the bottom to the middle",
+              "2025-11-19T02:57:42.945497"
+            ]
+          ],
+          "score_history": [
+            [
+              16,
+              "2025-11-19T02:57:42.945497"
+            ],
+            [
+              15,
+              "2025-11-19T03:05:47.513643"
+            ],
+            [
+              16,
+              "2025-11-19T03:08:47.429121"
+            ]
+          ],
+          "created_utc": 1763512865.0,
+          "depth": 1,
+          "permalink": "/r/LocalLLaMA/comments/1p0sisn/i_replicated_anthropics_introspection_paper_on/npl8mpy/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        },
+        {
+          "id": "nplsmqe",
+          "parent_id": "t1_npl6drk",
+          "author": "agreeoncesave",
+          "text_history": [
+            [
+              "Agree, but don't forget about reader view in your browser",
+              "2025-11-19T02:57:42.945497"
+            ]
+          ],
+          "score_history": [
+            [
+              6,
+              "2025-11-19T02:57:42.945497"
+            ],
+            [
+              7,
+              "2025-11-19T03:05:47.513643"
+            ],
+            [
+              6,
+              "2025-11-19T03:08:47.429121"
+            ]
+          ],
+          "created_utc": 1763520037.0,
+          "depth": 1,
+          "permalink": "/r/LocalLLaMA/comments/1p0sisn/i_replicated_anthropics_introspection_paper_on/nplsmqe/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        },
+        {
+          "id": "npldqwh",
+          "parent_id": "t1_npl6drk",
+          "author": "suicidaleggroll",
+          "text_history": [
+            [
+              "I liked it on the sections that fit neatly on a single screen, but when I got to sections 3 and 4 that require scrolling, it all went to absolute shit and made it much harder to use.  With some more work it could be nice I think.",
+              "2025-11-19T02:57:42.945497"
+            ]
+          ],
+          "score_history": [
+            [
+              6,
+              "2025-11-19T02:57:42.945497"
+            ],
+            [
+              4,
+              "2025-11-19T03:05:47.513643"
+            ],
+            [
+              4,
+              "2025-11-19T03:08:47.429121"
+            ]
+          ],
+          "created_utc": 1763514688.0,
+          "depth": 1,
+          "permalink": "/r/LocalLLaMA/comments/1p0sisn/i_replicated_anthropics_introspection_paper_on/npldqwh/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        },
+        {
+          "id": "nplbjv1",
+          "parent_id": "t1_npl6drk",
+          "author": "nuclearbananana",
+          "text_history": [
+            [
+              "Honestly, if a little polished, this is actually nice. Makes scrolling while reading way easier. Unlike most cases where it's just for some pointless graphics or progress bar.",
+              "2025-11-19T02:57:42.945497"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-19T02:57:42.945497"
+            ],
+            [
+              1,
+              "2025-11-19T03:05:47.513643"
+            ],
+            [
+              2,
+              "2025-11-19T03:08:47.429121"
+            ]
+          ],
+          "created_utc": 1763513887.0,
+          "depth": 1,
+          "permalink": "/r/LocalLLaMA/comments/1p0sisn/i_replicated_anthropics_introspection_paper_on/nplbjv1/",
+          "is_submitter": false,
+          "controversiality": 1,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npmfjko",
+              "parent_id": "t1_nplbjv1",
+              "author": "Murgatroyd314",
+              "text_history": [
+                [
+                  "Disagree. Having the page move away from where I put it is a nuisance. No exceptions.",
+                  "2025-11-19T02:57:42.945497"
+                ]
+              ],
+              "score_history": [
+                [
+                  5,
+                  "2025-11-19T02:57:42.945497"
+                ],
+                [
+                  5,
+                  "2025-11-19T03:05:47.513643"
+                ],
+                [
+                  5,
+                  "2025-11-19T03:08:47.429121"
+                ]
+              ],
+              "created_utc": 1763529385.0,
+              "depth": 2,
+              "permalink": "/r/LocalLLaMA/comments/1p0sisn/i_replicated_anthropics_introspection_paper_on/npmfjko/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "npmrrb6",
+          "parent_id": "t1_npl6drk",
+          "author": "Tramagust",
+          "text_history": [
+            [
+              "What's scroll hijacking?",
+              "2025-11-19T02:57:42.945497"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-19T02:57:42.945497"
+            ],
+            [
+              1,
+              "2025-11-19T03:05:47.513643"
+            ],
+            [
+              1,
+              "2025-11-19T03:08:47.429121"
+            ]
+          ],
+          "created_utc": 1763535797.0,
+          "depth": 1,
+          "permalink": "/r/LocalLLaMA/comments/1p0sisn/i_replicated_anthropics_introspection_paper_on/npmrrb6/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "nplcred",
+      "parent_id": "t3_1p0sisn",
+      "author": "Lebo77",
+      "text_history": [
+        [
+          "Wow. \n\nI am not sure what to do with this ingormation, but it's interesting.",
+          "2025-11-19T02:57:42.945497"
+        ]
+      ],
+      "score_history": [
+        [
+          13,
+          "2025-11-19T02:57:42.945497"
+        ],
+        [
+          13,
+          "2025-11-19T03:05:47.513643"
+        ],
+        [
+          14,
+          "2025-11-19T03:08:47.429121"
+        ]
+      ],
+      "created_utc": 1763514329.0,
+      "depth": 0,
+      "permalink": "/r/LocalLLaMA/comments/1p0sisn/i_replicated_anthropics_introspection_paper_on/nplcred/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npm4wc0",
+      "parent_id": "t3_1p0sisn",
+      "author": "ComputeVoid",
+      "text_history": [
+        [
+          "Very cool research. Excited for part 2!",
+          "2025-11-19T02:57:42.945497"
+        ]
+      ],
+      "score_history": [
+        [
+          5,
+          "2025-11-19T02:57:42.945497"
+        ],
+        [
+          5,
+          "2025-11-19T03:05:47.513643"
+        ],
+        [
+          5,
+          "2025-11-19T03:08:47.429121"
+        ]
+      ],
+      "created_utc": 1763524673.0,
+      "depth": 0,
+      "permalink": "/r/LocalLLaMA/comments/1p0sisn/i_replicated_anthropics_introspection_paper_on/npm4wc0/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npmdlo2",
+      "parent_id": "t3_1p0sisn",
+      "author": "taftastic",
+      "text_history": [
+        [
+          "This was a great read. The slider interaction was a neat touch for presenting what you found at different steering ”layers”— which is a concept I don’t think I fully grasp. I found the emerging recognition more interesting than the sweet spot; a machine getting a sense of something is more intriguing than having it noted plainly. \n\nI struggle with the underlying assumption that recognition of an injected token in outputs is somehow introspection or cognition adjacent, but I don’t know shit about fuck. I’ll probably chase down the paper from reading this. Thanks for the share OP",
+          "2025-11-19T02:57:42.945497"
+        ]
+      ],
+      "score_history": [
+        [
+          4,
+          "2025-11-19T02:57:42.945497"
+        ],
+        [
+          4,
+          "2025-11-19T03:05:47.513643"
+        ],
+        [
+          4,
+          "2025-11-19T03:08:47.429121"
+        ]
+      ],
+      "created_utc": 1763528476.0,
+      "depth": 0,
+      "permalink": "/r/LocalLLaMA/comments/1p0sisn/i_replicated_anthropics_introspection_paper_on/npmdlo2/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npmqd9s",
+      "parent_id": "t3_1p0sisn",
+      "author": "Corporate_Drone31",
+      "text_history": [
+        [
+          "Great stuff! Please post here when you have part 2 ready, I'm curious to see where this might go.",
+          "2025-11-19T02:57:42.945497"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-19T02:57:42.945497"
+        ],
+        [
+          2,
+          "2025-11-19T03:05:47.513643"
+        ],
+        [
+          2,
+          "2025-11-19T03:08:47.429121"
+        ]
+      ],
+      "created_utc": 1763535012.0,
+      "depth": 0,
+      "permalink": "/r/LocalLLaMA/comments/1p0sisn/i_replicated_anthropics_introspection_paper_on/npmqd9s/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npmyfz0",
+      "parent_id": "t3_1p0sisn",
+      "author": "Silver_Jaguar_24",
+      "text_history": [
+        [
+          "&gt;In **Part 2**, I will explore **Safety Blindness**. I will show how RLHF lobotomizes the model's ability to introspect on dangerous concepts, and how I used \"Meta-Cognitive Reframing\" to restore its ability.\n\n  \nLooking forward to part 2.",
+          "2025-11-19T02:57:42.945497"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-19T02:57:42.945497"
+        ],
+        [
+          2,
+          "2025-11-19T03:05:47.513643"
+        ],
+        [
+          2,
+          "2025-11-19T03:08:47.429121"
+        ]
+      ],
+      "created_utc": 1763539773.0,
+      "depth": 0,
+      "permalink": "/r/LocalLLaMA/comments/1p0sisn/i_replicated_anthropics_introspection_paper_on/npmyfz0/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npmz88u",
+      "parent_id": "t3_1p0sisn",
+      "author": "RobotRobotWhatDoUSee",
+      "text_history": [
+        [
+          "Have you considered doing this for one of the AllenAI models where we have base, SFT, and RLHF+ versions of the model easily available? So one could clearly see at what points the models are affected?",
+          "2025-11-19T02:57:42.945497"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-19T02:57:42.945497"
+        ],
+        [
+          2,
+          "2025-11-19T03:05:47.513643"
+        ],
+        [
+          2,
+          "2025-11-19T03:08:47.429121"
+        ]
+      ],
+      "created_utc": 1763540261.0,
+      "depth": 0,
+      "permalink": "/r/LocalLLaMA/comments/1p0sisn/i_replicated_anthropics_introspection_paper_on/npmz88u/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npnasgr",
+      "parent_id": "t3_1p0sisn",
+      "author": "charmander_cha",
+      "text_history": [
+        [
+          "Could you make the code available for curious people to play with too? Achei o link no final do texto, obrigado",
+          "2025-11-19T02:57:42.945497"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-19T02:57:42.945497"
+        ],
+        [
+          2,
+          "2025-11-19T03:05:47.513643"
+        ],
+        [
+          2,
+          "2025-11-19T03:08:47.429121"
+        ]
+      ],
+      "created_utc": 1763547493.0,
+      "depth": 0,
+      "permalink": "/r/LocalLLaMA/comments/1p0sisn/i_replicated_anthropics_introspection_paper_on/npnasgr/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": 1763548453.0,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npl54wv",
+      "parent_id": "t3_1p0sisn",
+      "author": "LoveMind_AI",
+      "text_history": [
+        [
+          "Very impressive and an important contribution!!",
+          "2025-11-19T02:57:42.945497"
+        ]
+      ],
+      "score_history": [
+        [
+          3,
+          "2025-11-19T02:57:42.945497"
+        ],
+        [
+          3,
+          "2025-11-19T03:05:47.513643"
+        ],
+        [
+          4,
+          "2025-11-19T03:08:47.429121"
+        ]
+      ],
+      "created_utc": 1763511645.0,
+      "depth": 0,
+      "permalink": "/r/LocalLLaMA/comments/1p0sisn/i_replicated_anthropics_introspection_paper_on/npl54wv/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npmtp7d",
+      "parent_id": "t3_1p0sisn",
+      "author": "Chromix_",
+      "text_history": [
+        [
+          "Have you tested this with a window function? As in: Don't just inject a single layer, but also do this attenuated with 1 to 3 adjacent layers. That way the central, full change won't stand out so much.",
+          "2025-11-19T02:57:42.945497"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:57:42.945497"
+        ],
+        [
+          1,
+          "2025-11-19T03:05:47.513643"
+        ],
+        [
+          1,
+          "2025-11-19T03:08:47.429121"
+        ]
+      ],
+      "created_utc": 1763536927.0,
+      "depth": 0,
+      "permalink": "/r/LocalLLaMA/comments/1p0sisn/i_replicated_anthropics_introspection_paper_on/npmtp7d/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npn1loy",
+      "parent_id": "t3_1p0sisn",
+      "author": "DefNattyBoii",
+      "text_history": [
+        [
+          "Very nice UI and good presentation. Keep up the good work. Can you test MOE models too, or it would have same results? (Qwen 30B-A3B)",
+          "2025-11-19T02:57:42.945497"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:57:42.945497"
+        ],
+        [
+          1,
+          "2025-11-19T03:05:47.513643"
+        ],
+        [
+          1,
+          "2025-11-19T03:08:47.429121"
+        ]
+      ],
+      "created_utc": 1763541751.0,
+      "depth": 0,
+      "permalink": "/r/LocalLLaMA/comments/1p0sisn/i_replicated_anthropics_introspection_paper_on/npn1loy/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:08:47.429121",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/LocalLLaMA/comments/1p0sisn/i_replicated_anthropics_introspection_paper_on/",
+    "total_comments": 22,
+    "top_level_comments": 11,
+    "api_requests": 1,
+    "expected_comments": 22,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_025742.json",
+      "scrape_002_20251119_030547.json",
+      "scrape_003_20251119_030847.json"
+    ]
+  }
+}

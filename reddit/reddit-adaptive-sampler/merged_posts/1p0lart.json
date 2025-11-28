@@ -1,0 +1,185 @@
+{
+  "post": {
+    "id": "1p0lart",
+    "title": "Apple AIML Residency Program 2026 [R]",
+    "author": "SillyNews5539",
+    "score_history": [
+      [
+        34,
+        "2025-11-19T03:28:43.824419"
+      ],
+      [
+        35,
+        "2025-11-19T03:36:23.504636"
+      ],
+      [
+        37,
+        "2025-11-19T03:37:56.200515"
+      ]
+    ],
+    "created_utc": 1763493959.0,
+    "num_comments": 7,
+    "subreddit": "MachineLearning",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1p0lart/apple_aiml_residency_program_2026_r/",
+    "selftext": "Haven't seen a 2026 post - wanted to use this to consolidate info from everyone on the process. Anyone have any idea when they start sending out info session updates? ",
+    "permalink": "/r/MachineLearning/comments/1p0lart/apple_aiml_residency_program_2026_r/"
+  },
+  "comments": [
+    {
+      "id": "npldt10",
+      "parent_id": "t3_1p0lart",
+      "author": "Supercachee",
+      "text_history": [
+        [
+          "It just opened last week, I think they’ll take their time.",
+          "2025-11-19T03:28:43.824419"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-19T03:28:43.824419"
+        ],
+        [
+          2,
+          "2025-11-19T03:36:23.504636"
+        ],
+        [
+          2,
+          "2025-11-19T03:37:56.200515"
+        ]
+      ],
+      "created_utc": 1763514709.0,
+      "depth": 0,
+      "permalink": "/r/MachineLearning/comments/1p0lart/apple_aiml_residency_program_2026_r/npldt10/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nplelkm",
+      "parent_id": "t3_1p0lart",
+      "author": "Objective-Feed7250",
+      "text_history": [
+        [
+          "I’ve been checking my inbox way too often waiting for updates",
+          "2025-11-19T03:28:43.824419"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-19T03:28:43.824419"
+        ],
+        [
+          2,
+          "2025-11-19T03:36:23.504636"
+        ],
+        [
+          2,
+          "2025-11-19T03:37:56.200515"
+        ]
+      ],
+      "created_utc": 1763514998.0,
+      "depth": 0,
+      "permalink": "/r/MachineLearning/comments/1p0lart/apple_aiml_residency_program_2026_r/nplelkm/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npjxl1g",
+      "parent_id": "t3_1p0lart",
+      "author": "Downtown_Dingo_1544",
+      "text_history": [
+        [
+          "Following",
+          "2025-11-19T03:28:43.824419"
+        ]
+      ],
+      "score_history": [
+        [
+          4,
+          "2025-11-19T03:28:43.824419"
+        ],
+        [
+          2,
+          "2025-11-19T03:36:23.504636"
+        ],
+        [
+          3,
+          "2025-11-19T03:37:56.200515"
+        ]
+      ],
+      "created_utc": 1763497590.0,
+      "depth": 0,
+      "permalink": "/r/MachineLearning/comments/1p0lart/apple_aiml_residency_program_2026_r/npjxl1g/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nplmpmq",
+      "parent_id": "t3_1p0lart",
+      "author": "abyssus2000",
+      "text_history": [
+        [
+          "Following",
+          "2025-11-19T03:28:43.824419"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T03:28:43.824419"
+        ],
+        [
+          1,
+          "2025-11-19T03:36:23.504636"
+        ],
+        [
+          1,
+          "2025-11-19T03:37:56.200515"
+        ]
+      ],
+      "created_utc": 1763517915.0,
+      "depth": 0,
+      "permalink": "/r/MachineLearning/comments/1p0lart/apple_aiml_residency_program_2026_r/nplmpmq/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:37:56.200515",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/MachineLearning/comments/1p0lart/apple_aiml_residency_program_2026_r/",
+    "total_comments": 4,
+    "top_level_comments": 4,
+    "api_requests": 1,
+    "expected_comments": 7,
+    "coverage_percent": 57.14,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_032843.json",
+      "scrape_002_20251119_033623.json",
+      "scrape_003_20251119_033755.json"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "post": {
+    "id": "1ozby58",
+    "title": "Observations on robots at the Shenzhen High-Tech Fair 2025",
+    "author": "AssociateOwn753",
+    "score_history": [
+      [
+        77,
+        "2025-11-19T03:59:44.054063"
+      ],
+      [
+        78,
+        "2025-11-19T04:01:57.415772"
+      ],
+      [
+        74,
+        "2025-11-19T04:03:11.451593"
+      ],
+      [
+        75,
+        "2025-11-19T04:10:08.011802"
+      ],
+      [
+        80,
+        "2025-11-19T04:12:34.781827"
+      ],
+      [
+        75,
+        "2025-11-19T04:21:23.889006"
+      ]
+    ],
+    "created_utc": 1763371875.0,
+    "num_comments": 0,
+    "subreddit": "robotics",
+    "url": "https://v.redd.it/rxo85t0tds1g1",
+    "selftext": "Observations on robots at the Shenzhen High-Tech Fair, from joint motors and electronic grippers to electronic skin and embodied robots.",
+    "permalink": "/r/robotics/comments/1ozby58/observations_on_robots_at_the_shenzhen_hightech/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T04:21:23.889006",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/robotics/comments/1ozby58/observations_on_robots_at_the_shenzhen_hightech/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 6,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_035943.json",
+      "scrape_002_20251119_040157.json",
+      "scrape_003_20251119_040311.json",
+      "scrape_004_20251119_041007.json",
+      "scrape_005_20251119_041234.json",
+      "scrape_006_20251119_042123.json"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "post": {
+    "id": "1p0zt0s",
+    "title": "5 ChatGPT Prompts That Turn It Into the Most Ruthless Mentor You’ll Ever Hire",
+    "author": "Crazy-Tip-3741",
+    "score_history": [
+      [
+        3,
+        "2025-11-19T03:50:18.617558"
+      ],
+      [
+        1,
+        "2025-11-19T03:59:39.146103"
+      ],
+      [
+        1,
+        "2025-11-19T04:01:55.904789"
+      ]
+    ],
+    "created_utc": 1763532372.0,
+    "num_comments": 0,
+    "subreddit": "PromptEngineering",
+    "url": "https://www.reddit.com/r/PromptEngineering/comments/1p0zt0s/5_chatgpt_prompts_that_turn_it_into_the_most/",
+    "selftext": "Most people use AI to validate their bad ideas.\n\nThese prompts are designed to do the opposite. They cut through the fluff, bypass your cognitive biases, and act as the mentor who cares enough to hurt your feelings.\n\nIf you want a pat on the back, do not use these.\n\n\\-------\n\n# 1. The Sunk Cost Butcher (Inspired by Daniel Kahneman’s \"Thinking, Fast and Slow\")\n\n**Kill the projects that are dragging you down just because you’ve already invested time in them.**\n\n\"I want you to act as a purely rational liquidation consultant. I am going to describe a project, relationship, or habit I am holding onto. Your job is to analyze it strictly through the lens of 'future value' vs 'sunk cost.' Ignore how much time, money, or emotion I have already invested—that is gone. Tell me: If I started today with zero history, would I choose this? If the answer is no, explain exactly why I am holding on (ego, fear of waste, identity) and give me a breakdown of what it costs me (opportunity cost) to keep it alive for another year.\"\n\n**Example:** \"I’ve been working on \\[Project X\\] for two years with little revenue. Analyze this as a Sunk Cost. If I started today, would I pick this? What is the opportunity cost of keeping it?\"\n\n\\-------\n\n# 2. The \"Shadow\" Interrogator (Inspired by Carl Jung’s Shadow Work)\n\n**Uncover the dark, hidden motivations that are actually driving your behavior.**\n\n\"I am going to tell you about a recurring conflict or frustration I have with others. Instead of validating my perspective, I want you to act as a Jungian Analyst. Show me my 'Shadow.' Tell me what traits I am projecting onto others because I refuse to accept them in myself. How is this situation secretly serving me? Do I enjoy the victimhood? Do I feel superior? Reveal the ugly motivation underneath my 'noble' struggle so I can finally integrate it and move on.\"\n\n**Example:** \"I keep getting annoyed when my team asks me for help. I feel like I’m the only one who works hard. Show me my Shadow. What am I projecting? How does being the 'martyr' serve my ego?\"\n\n# -------\n\n# 3. The Pre-Mortem Reality Check (Inspired by Gary Klein and Stoic Philosophy)\n\n**Destroy your plan before reality does.**\n\n\"I have a plan to \\[insert goal\\]. Assume it is one year from now and the plan has failed catastrophically. It was a total disaster. Your job is to write the 'post-mortem' report. Don't tell me *if* it will fail, tell me *why* it failed. Did I burnout? did I run out of cash? Did I ignore a specific market signal? Be brutal. Trace the failure back to a specific weakness or blind spot I am currently ignoring. Then, give me the three preventative measures I must take today to prevent this specific timeline.\"\n\n**Example:** \"I am planning to launch a freelance agency next month. Assume it failed 12 months from now. Why did it happen? Was it sales? Fulfillment? My discipline? Give me the autopsy report.\"\n\n\\-------\n\n# 4. The \"Status Game\" Detector (Inspired by Naval Ravikant &amp; Will Storr)\n\n**Find out where you are optimizing for looking good rather than actually being effective.**\n\n\"Review my current goals and major expenditures of energy: \\[list them\\]. Analyze which of these are 'Wealth Games' (positive sum, freedom, actual value) and which are 'Status Games' (zero sum, impressing others, hierarchy). Point out where I am wasting energy trying to signal virtue, intelligence, or success to people who don't matter. Which of my goals are actually just anxiety about how I am perceived? Tell me what I should drop if I stopped caring about the opinions of others completely.\"\n\n**Example:** \"Here are my current goals: \\[list\\]. Which ones are Status Games? Where am I just trying to impress people? What would I drop if I didn't care about social standing?\"\n\n\\-------\n\n# 5. The Inversion Strategist (Inspired by Charlie Munger’s Mental Models)\n\n**Solve problems by figuring out how to cause them.**\n\n\"I am trying to achieve \\[Goal X\\]. Instead of telling me how to succeed, I want you to use 'Inversion.' List 10 actionable steps I could take to guarantee absolute misery and failure in this area. Be specific. If I wanted to ensure I never reached this goal, what habits would I adopt? How would I spend my time? What mindsets would I hold? Once you list the recipe for disaster, invert it and tell me which of those 'failure habits' I am currently guilty of doing partially.\"\n\n**Example:** \"I want to get in the best shape of my life. Tell me how to guarantee I get fat, lazy, and injured. What habits ensure failure? Which of these am I currently doing?\"\n\n\\-------\n\nFor more prompts like this , feel free to check out :[  More Prompts](https://www.honestprompts.com/)",
+    "permalink": "/r/PromptEngineering/comments/1p0zt0s/5_chatgpt_prompts_that_turn_it_into_the_most/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T04:01:55.904789",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/PromptEngineering/comments/1p0zt0s/5_chatgpt_prompts_that_turn_it_into_the_most/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_035018.json",
+      "scrape_002_20251119_035938.json",
+      "scrape_003_20251119_040155.json"
+    ]
+  }
+}

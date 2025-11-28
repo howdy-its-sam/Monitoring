@@ -1,0 +1,54 @@
+{
+  "post": {
+    "id": "1p0c4jl",
+    "title": "Widespread Cloudflare Outage Disrupts ChatGPT, Claude, and X; Google Gemini Remains Unaffected",
+    "author": "netcommah",
+    "score_history": [
+      [
+        1,
+        "2025-11-18T13:49:27.283504"
+      ],
+      [
+        1,
+        "2025-11-18T14:00:40.362702"
+      ],
+      [
+        1,
+        "2025-11-18T14:12:16.889407"
+      ],
+      [
+        1,
+        "2025-11-18T22:00:01.848674"
+      ],
+      [
+        1,
+        "2025-11-19T07:12:22.474106"
+      ]
+    ],
+    "created_utc": 1763473010.0,
+    "num_comments": 0,
+    "subreddit": "learnmachinelearning",
+    "url": "https://www.reddit.com/r/learnmachinelearning/comments/1p0c4jl/widespread_cloudflare_outage_disrupts_chatgpt/",
+    "selftext": "A major internet outage beginning around 11:20 UTC today (Nov 18) has caused widespread service disruptions across the globe. The issue has been traced to Cloudflare, a critical web infrastructure provider used by a vast majority of modern web services.\n\nWhile the outage has taken down major AI platforms like OpenAI (ChatGPT), Anthropic (Claude), and Perplexity, users have noted that Google Gemini remains fully operational.",
+    "permalink": "/r/learnmachinelearning/comments/1p0c4jl/widespread_cloudflare_outage_disrupts_chatgpt/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T07:12:22.474106",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/learnmachinelearning/comments/1p0c4jl/widespread_cloudflare_outage_disrupts_chatgpt/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 5,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_134927.json",
+      "scrape_002_20251118_140040.json",
+      "scrape_003_20251118_141216.json",
+      "scrape_004_20251118_220001.json",
+      "scrape_005_20251119_071222.json"
+    ]
+  }
+}

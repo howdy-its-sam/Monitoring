@@ -1,0 +1,233 @@
+{
+  "post": {
+    "id": "1p16xdv",
+    "title": "Recently Gemini dropped new update of Gemini 3; they’re pushing AI into real world tasks.",
+    "author": "Shot-Hospital7649",
+    "score_history": [
+      [
+        1,
+        "2025-11-19T04:55:10.198450"
+      ],
+      [
+        1,
+        "2025-11-19T04:55:10.412825"
+      ],
+      [
+        1,
+        "2025-11-19T04:55:10.665493"
+      ],
+      [
+        1,
+        "2025-11-19T04:55:10.891271"
+      ],
+      [
+        1,
+        "2025-11-19T04:55:11.141713"
+      ],
+      [
+        1,
+        "2025-11-19T04:55:11.370252"
+      ],
+      [
+        1,
+        "2025-11-19T04:55:11.610260"
+      ],
+      [
+        1,
+        "2025-11-19T04:55:11.818527"
+      ],
+      [
+        1,
+        "2025-11-19T04:55:12.051985"
+      ],
+      [
+        1,
+        "2025-11-19T04:55:12.261863"
+      ],
+      [
+        1,
+        "2025-11-19T04:55:12.508123"
+      ],
+      [
+        1,
+        "2025-11-19T04:55:12.727163"
+      ],
+      [
+        1,
+        "2025-11-19T04:55:12.962127"
+      ],
+      [
+        1,
+        "2025-11-19T04:55:13.173975"
+      ],
+      [
+        1,
+        "2025-11-19T04:55:13.413004"
+      ],
+      [
+        1,
+        "2025-11-19T04:55:13.644330"
+      ],
+      [
+        1,
+        "2025-11-19T04:55:13.901335"
+      ],
+      [
+        1,
+        "2025-11-19T04:55:14.119766"
+      ],
+      [
+        1,
+        "2025-11-19T04:55:14.348896"
+      ],
+      [
+        1,
+        "2025-11-19T04:55:14.552807"
+      ]
+    ],
+    "created_utc": 1763556859.0,
+    "num_comments": 1,
+    "subreddit": "AI_Agents",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1p16xdv/recently_gemini_dropped_new_update_of_gemini_3/",
+    "selftext": "Gemini just shared a new update, and it looks like they’re trying to make their models handle more “real work” instead of just chat responses.\n\nfrom what I understood, they’re focusing on giving the model actual tools so it can complete tasks end to end not just talk about them.\n\nlike handling tasks, running small workflows, and completing steps without asking too much in between.\n\nthe whole vibe feels like they want Gemini to act more like an assistant that can understand context and just finish the work.\n\ni’m still not sure how well this will work in real use but the direction looks interesting.\n\ni’m curious how this will work in real usage.Will people actually depend on AI for multi step tasks? or is it still too early?",
+    "permalink": "/r/AI_Agents/comments/1p16xdv/recently_gemini_dropped_new_update_of_gemini_3/"
+  },
+  "comments": [
+    {
+      "id": "npnteo3",
+      "parent_id": "t3_1p16xdv",
+      "author": "AutoModerator",
+      "text_history": [
+        [
+          "Thank you for your submission, for any questions regarding AI, please check out our wiki at https://www.reddit.com/r/ai_agents/wiki (this is currently in test and we are actively adding to the wiki)\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/AI_Agents) if you have any questions or concerns.*",
+          "2025-11-19T04:55:10.198450"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T04:55:10.198450"
+        ],
+        [
+          1,
+          "2025-11-19T04:55:10.412825"
+        ],
+        [
+          1,
+          "2025-11-19T04:55:10.665493"
+        ],
+        [
+          1,
+          "2025-11-19T04:55:10.891271"
+        ],
+        [
+          1,
+          "2025-11-19T04:55:11.141713"
+        ],
+        [
+          1,
+          "2025-11-19T04:55:11.370252"
+        ],
+        [
+          1,
+          "2025-11-19T04:55:11.610260"
+        ],
+        [
+          1,
+          "2025-11-19T04:55:11.818527"
+        ],
+        [
+          1,
+          "2025-11-19T04:55:12.051985"
+        ],
+        [
+          1,
+          "2025-11-19T04:55:12.261863"
+        ],
+        [
+          1,
+          "2025-11-19T04:55:12.508123"
+        ],
+        [
+          1,
+          "2025-11-19T04:55:12.727163"
+        ],
+        [
+          1,
+          "2025-11-19T04:55:12.962127"
+        ],
+        [
+          1,
+          "2025-11-19T04:55:13.173975"
+        ],
+        [
+          1,
+          "2025-11-19T04:55:13.413004"
+        ],
+        [
+          1,
+          "2025-11-19T04:55:13.644330"
+        ],
+        [
+          1,
+          "2025-11-19T04:55:13.901335"
+        ],
+        [
+          1,
+          "2025-11-19T04:55:14.119766"
+        ],
+        [
+          1,
+          "2025-11-19T04:55:14.348896"
+        ],
+        [
+          1,
+          "2025-11-19T04:55:14.552807"
+        ]
+      ],
+      "created_utc": 1763556859.0,
+      "depth": 0,
+      "permalink": "/r/AI_Agents/comments/1p16xdv/recently_gemini_dropped_new_update_of_gemini_3/npnteo3/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T04:55:14.552807",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/AI_Agents/comments/1p16xdv/recently_gemini_dropped_new_update_of_gemini_3/",
+    "total_comments": 1,
+    "top_level_comments": 1,
+    "api_requests": 1,
+    "expected_comments": 1,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 20,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_045509.json",
+      "scrape_002_20251119_045510.json",
+      "scrape_003_20251119_045510.json",
+      "scrape_004_20251119_045510.json",
+      "scrape_005_20251119_045510.json",
+      "scrape_006_20251119_045511.json",
+      "scrape_007_20251119_045511.json",
+      "scrape_008_20251119_045511.json",
+      "scrape_009_20251119_045511.json",
+      "scrape_010_20251119_045512.json",
+      "scrape_011_20251119_045512.json",
+      "scrape_012_20251119_045512.json",
+      "scrape_013_20251119_045512.json",
+      "scrape_014_20251119_045512.json",
+      "scrape_015_20251119_045513.json",
+      "scrape_016_20251119_045513.json",
+      "scrape_017_20251119_045513.json",
+      "scrape_018_20251119_045513.json",
+      "scrape_019_20251119_045514.json",
+      "scrape_020_20251119_045514.json"
+    ]
+  }
+}

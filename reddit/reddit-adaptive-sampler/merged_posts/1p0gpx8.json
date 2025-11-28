@@ -1,0 +1,475 @@
+{
+  "post": {
+    "id": "1p0gpx8",
+    "title": "Massive 15.7 Tbps DDoS Hits Microsoft's Azure, Traced to Aisuru Botnet",
+    "author": "GL4389",
+    "score_history": [
+      [
+        32,
+        "2025-11-18T13:48:38.703839"
+      ],
+      [
+        29,
+        "2025-11-18T13:59:51.324578"
+      ],
+      [
+        32,
+        "2025-11-18T14:11:10.241278"
+      ],
+      [
+        60,
+        "2025-11-18T21:29:08.603599"
+      ],
+      [
+        70,
+        "2025-11-18T23:13:59.251938"
+      ],
+      [
+        70,
+        "2025-11-19T00:58:04.069849"
+      ]
+    ],
+    "created_utc": 1763483877.0,
+    "num_comments": 10,
+    "subreddit": "technology",
+    "url": "https://www.pcmag.com/news/massive-157-tbps-ddos-hits-microsofts-azure-traced-to-aisuru-botnet",
+    "selftext": "",
+    "permalink": "/r/technology/comments/1p0gpx8/massive_157_tbps_ddos_hits_microsofts_azure/"
+  },
+  "comments": [
+    {
+      "id": "npins9n",
+      "parent_id": "t3_1p0gpx8",
+      "author": "Ashnie2827",
+      "text_history": [
+        [
+          "Damn, 15.7 Tbps from a botnet made of home routers? That’s insane. Imagine some dude’s toaster being part of the army taking on Microsoft",
+          "2025-11-18T13:48:38.703839"
+        ]
+      ],
+      "score_history": [
+        [
+          19,
+          "2025-11-18T13:48:38.703839"
+        ],
+        [
+          20,
+          "2025-11-18T13:59:51.324578"
+        ],
+        [
+          20,
+          "2025-11-18T14:11:10.241278"
+        ],
+        [
+          30,
+          "2025-11-18T21:29:08.603599"
+        ],
+        [
+          33,
+          "2025-11-18T23:13:59.251938"
+        ],
+        [
+          38,
+          "2025-11-19T00:58:04.069849"
+        ]
+      ],
+      "created_utc": 1763484108.0,
+      "depth": 0,
+      "permalink": "/r/technology/comments/1p0gpx8/massive_157_tbps_ddos_hits_microsofts_azure/npins9n/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npjeh3l",
+          "parent_id": "t1_npins9n",
+          "author": "natefrogg1",
+          "text_history": [
+            [
+              "The future is now, as my bidet goes into cyber attack mode =\\",
+              "2025-11-18T13:48:38.703839"
+            ]
+          ],
+          "score_history": [
+            [
+              8,
+              "2025-11-18T13:48:38.703839"
+            ],
+            [
+              10,
+              "2025-11-18T13:59:51.324578"
+            ],
+            [
+              9,
+              "2025-11-18T14:11:10.241278"
+            ],
+            [
+              15,
+              "2025-11-18T21:29:08.603599"
+            ],
+            [
+              17,
+              "2025-11-18T23:13:59.251938"
+            ],
+            [
+              20,
+              "2025-11-19T00:58:04.069849"
+            ]
+          ],
+          "created_utc": 1763491868.0,
+          "depth": 1,
+          "permalink": "/r/technology/comments/1p0gpx8/massive_157_tbps_ddos_hits_microsofts_azure/npjeh3l/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "nplrojd",
+              "parent_id": "t1_npjeh3l",
+              "author": "HighSpeedHedgehog",
+              "text_history": [
+                [
+                  "r/AlmostYuGiOh",
+                  "2025-11-18T21:29:08.603599"
+                ]
+              ],
+              "score_history": [
+                [
+                  2,
+                  "2025-11-18T21:29:08.603599"
+                ],
+                [
+                  2,
+                  "2025-11-18T23:13:59.251938"
+                ],
+                [
+                  3,
+                  "2025-11-19T00:58:04.069849"
+                ]
+              ],
+              "created_utc": 1763519696.0,
+              "depth": 2,
+              "permalink": "/r/technology/comments/1p0gpx8/massive_157_tbps_ddos_hits_microsofts_azure/nplrojd/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "npko5q1",
+          "parent_id": "t1_npins9n",
+          "author": "Tasty-Traffic-680",
+          "text_history": [
+            [
+              "I would love to go full self-hosted but realistically the best I can do in the near future is get a dd-wrt/openwrt compatible router that will let me better see and control what all those smart devices on my network are doing. The router I currently have, a tp link AX21, is actually somewhat infamous for it's vulnerable firmware out of the box and widespread use in botnets. I've updated the firmware but it still doesn't inspire much confidence.",
+              "2025-11-18T21:29:08.603599"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T21:29:08.603599"
+            ],
+            [
+              2,
+              "2025-11-18T23:13:59.251938"
+            ],
+            [
+              2,
+              "2025-11-19T00:58:04.069849"
+            ]
+          ],
+          "created_utc": 1763505723.0,
+          "depth": 1,
+          "permalink": "/r/technology/comments/1p0gpx8/massive_157_tbps_ddos_hits_microsofts_azure/npko5q1/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npiqjr1",
+      "parent_id": "t3_1p0gpx8",
+      "author": "CackleRooster",
+      "text_history": [
+        [
+          "This is all very impressive, but what's the point of hammering Minecraft servers? When the attack, as big as teyh are, still largely fail?",
+          "2025-11-18T13:48:38.703839"
+        ]
+      ],
+      "score_history": [
+        [
+          4,
+          "2025-11-18T13:48:38.703839"
+        ],
+        [
+          4,
+          "2025-11-18T13:59:51.324578"
+        ],
+        [
+          4,
+          "2025-11-18T14:11:10.241278"
+        ],
+        [
+          5,
+          "2025-11-18T21:29:08.603599"
+        ],
+        [
+          7,
+          "2025-11-18T23:13:59.251938"
+        ],
+        [
+          6,
+          "2025-11-19T00:58:04.069849"
+        ]
+      ],
+      "created_utc": 1763484913.0,
+      "depth": 0,
+      "permalink": "/r/technology/comments/1p0gpx8/massive_157_tbps_ddos_hits_microsofts_azure/npiqjr1/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npizkse",
+          "parent_id": "t1_npiqjr1",
+          "author": "Unusual_Flounder2073",
+          "text_history": [
+            [
+              "Probing for weaknesses.  Microsoft is the largest hosting company after Amazon.",
+              "2025-11-18T13:48:38.703839"
+            ]
+          ],
+          "score_history": [
+            [
+              3,
+              "2025-11-18T13:48:38.703839"
+            ],
+            [
+              3,
+              "2025-11-18T13:59:51.324578"
+            ],
+            [
+              3,
+              "2025-11-18T14:11:10.241278"
+            ],
+            [
+              7,
+              "2025-11-18T21:29:08.603599"
+            ],
+            [
+              9,
+              "2025-11-18T23:13:59.251938"
+            ],
+            [
+              8,
+              "2025-11-19T00:58:04.069849"
+            ]
+          ],
+          "created_utc": 1763487586.0,
+          "depth": 1,
+          "permalink": "/r/technology/comments/1p0gpx8/massive_157_tbps_ddos_hits_microsofts_azure/npizkse/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        },
+        {
+          "id": "npjcgj8",
+          "parent_id": "t1_npiqjr1",
+          "author": "A_Talking_iPod",
+          "text_history": [
+            [
+              "Publicity stunts. They are marketing the capabilities of their botnet to potential customers through high profile attacks. Botnets are pretty much a SaaS solution in the cybernetic underground nowadays.",
+              "2025-11-18T13:48:38.703839"
+            ]
+          ],
+          "score_history": [
+            [
+              2,
+              "2025-11-18T13:48:38.703839"
+            ],
+            [
+              2,
+              "2025-11-18T13:59:51.324578"
+            ],
+            [
+              2,
+              "2025-11-18T14:11:10.241278"
+            ],
+            [
+              4,
+              "2025-11-18T21:29:08.603599"
+            ],
+            [
+              6,
+              "2025-11-18T23:13:59.251938"
+            ],
+            [
+              6,
+              "2025-11-19T00:58:04.069849"
+            ]
+          ],
+          "created_utc": 1763491288.0,
+          "depth": 1,
+          "permalink": "/r/technology/comments/1p0gpx8/massive_157_tbps_ddos_hits_microsofts_azure/npjcgj8/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npm4zd4",
+      "parent_id": "t3_1p0gpx8",
+      "author": "Bennnnetttt",
+      "text_history": [
+        [
+          "Can a dumb-dumb get an ELI5? :) spank you kindly",
+          "2025-11-18T21:29:08.603599"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T21:29:08.603599"
+        ],
+        [
+          2,
+          "2025-11-18T23:13:59.251938"
+        ],
+        [
+          3,
+          "2025-11-19T00:58:04.069849"
+        ]
+      ],
+      "created_utc": 1763524708.0,
+      "depth": 0,
+      "permalink": "/r/technology/comments/1p0gpx8/massive_157_tbps_ddos_hits_microsofts_azure/npm4zd4/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npm83re",
+          "parent_id": "t1_npm4zd4",
+          "author": "Upstairs_Tumbleweed8",
+          "text_history": [
+            [
+              "Imagine a bunch of robot toys all trying to knock down a big castle at the same time. That’s what happened to Microsoft’s cloud. Lots of computers (the robot toys) tried to flood it with too much traffic so it would break. But Microsoft had strong walls and stopped them just in time.",
+              "2025-11-18T21:29:08.603599"
+            ]
+          ],
+          "score_history": [
+            [
+              2,
+              "2025-11-18T21:29:08.603599"
+            ],
+            [
+              5,
+              "2025-11-18T23:13:59.251938"
+            ],
+            [
+              5,
+              "2025-11-19T00:58:04.069849"
+            ]
+          ],
+          "created_utc": 1763526023.0,
+          "depth": 1,
+          "permalink": "/r/technology/comments/1p0gpx8/massive_157_tbps_ddos_hits_microsofts_azure/npm83re/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npm9gb5",
+              "parent_id": "t1_npm83re",
+              "author": "Bennnnetttt",
+              "text_history": [
+                [
+                  "Thanks! I appreciate you!",
+                  "2025-11-18T21:29:08.603599"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-18T21:29:08.603599"
+                ],
+                [
+                  1,
+                  "2025-11-18T23:13:59.251938"
+                ],
+                [
+                  1,
+                  "2025-11-19T00:58:04.069849"
+                ]
+              ],
+              "created_utc": 1763526613.0,
+              "depth": 2,
+              "permalink": "/r/technology/comments/1p0gpx8/massive_157_tbps_ddos_hits_microsofts_azure/npm9gb5/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T00:58:04.069849",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/technology/comments/1p0gpx8/massive_157_tbps_ddos_hits_microsofts_azure/",
+    "total_comments": 10,
+    "top_level_comments": 3,
+    "api_requests": 1,
+    "expected_comments": 10,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 6,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_134838.json",
+      "scrape_002_20251118_135951.json",
+      "scrape_003_20251118_141110.json",
+      "scrape_004_20251118_212908.json",
+      "scrape_005_20251118_231359.json",
+      "scrape_006_20251119_005803.json"
+    ]
+  }
+}

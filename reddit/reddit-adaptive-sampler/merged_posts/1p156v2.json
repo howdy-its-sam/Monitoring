@@ -1,0 +1,120 @@
+{
+  "post": {
+    "id": "1p156v2",
+    "title": "TL;DR: I’m building a way for AI systems to learn collectively from users without storing any personal data, logs, or history.",
+    "author": "Least-Barracuda-2793",
+    "score_history": [
+      [
+        1,
+        "2025-11-19T03:41:47.382868"
+      ],
+      [
+        2,
+        "2025-11-19T03:50:20.393750"
+      ],
+      [
+        2,
+        "2025-11-19T03:52:29.941077"
+      ],
+      [
+        2,
+        "2025-11-19T03:59:43.107527"
+      ]
+    ],
+    "created_utc": 1763551701.0,
+    "num_comments": 2,
+    "subreddit": "Rag",
+    "url": "https://www.reddit.com/r/Rag/comments/1p156v2/tldr_im_building_a_way_for_ai_systems_to_learn/",
+    "selftext": "# Every AI interaction makes the model smarter — but only for that single conversation.\n\nIf we want AI that *learns from everyone* without storing *anyone’s* data, we need something new.\n\nI’m experimenting with a system I call **Universal Thought Space (UTS)** — a privacy-preserving collective intelligence layer where AI can learn from user interactions *without any personal data leaving the user.*\n\n# 🧠 The Core Idea: Abstracted Collective Intelligence\n\nUTS works like a *collective unconscious*, except everything that enters it is fully anonymized, generalized, and stripped of personal context.\n\nHere’s the flow:\n\n1. **Contribution** — User produces insight or reasoning.\n2. **PrivacyFilter** — All PII, names, dates, identifiers, and personal markers are removed.\n3. **Generalization** — Concepts abstracted into universal forms (“elderly person,” “\\[dosage\\],” “morning routine”).\n4. **Embedding** — Only an embedding vector + generalized text is stored.\n5. **Curation** — System tracks usefulness via *success rate* and *usage count*, not identity.\n6. **Self-Curation Loop** — Clusters of successful ideas become new reusable pattern concepts.\n\n**Result:**\n\n&gt;\n\nConcepts must pass *all* privacy checks to enter the system.\n\n# 🌱 Concrete Example\n\nUser A discovers:\n\n&gt;\n\nAfter privacy filtering:\n\n* No time\n* No dosage\n* No medication name\n* No personal relationship\n* No story\n* No identifiers\n\nIt becomes:\n\n&gt;\n\nThis abstract pattern now helps future users — without revealing anything about the original person.\n\n# 🔬 Novel Technical Details\n\n# 1. Multi-Factor Privacy Scoring\n\n`privacy_score()` evaluates:\n\n* PII patterns (emails, phones, addresses)\n* Named entities (PERSON, ORG, GPE)\n* Personal language density\n* Domain sensitivity\n* Content rarity (k-anonymity enforcement)\n\nOnly anonymized, generalized, high-privacy concepts enter the system.\n\n# 2. Semantic Anonymization\n\nExamples:\n\n* “My grandmother takes aspirin” → “Elderly person takes \\[medication\\]”\n* “10mg at 9am” → “\\[dosage\\] during morning routine”\n* “Tuesday” → “weekday”\n* “December” → “winter”\n\nThis prevents reconstruction attacks.\n\n# 3. Collective SRF-Inspired Retrieval\n\nRetrieval uses a biologically-inspired scoring formula:\n\n* **Semantic Similarity**\n* **Collective Emotional Signal** (success rate)\n* **Collective Associations** (related concepts)\n* **Recency**\n* **Confidence Decay**\n\nThis lets the system prioritize concepts that helped users most — without knowing who those users are.\n\n# 🧬 Self-Curation Loop\n\nSuccessful clusters become first-class pattern concepts:\n\n    class UniversalThoughtSpace:\n        \"\"\"Privacy-preserving collective intelligence - no personal data stored\"\"\"\n    \n        def contribute(self, content, embedding, ...):\n            # Privacy check → Anonymize → Generalize → Store\n            # Returns concept_id or None if rejected\n            ...\n    \n        def commit_discovered_patterns(self, ...):\n            # Self-curation: clusters of successful concepts\n            # become new ConceptType.PATTERN entries\n            ...\n    \n\n# 📊 Current Status\n\n* Working prototype with \\~500 test concepts\n* Concepts successfully filtering &amp; generalizing\n* Testing privacy boundaries via attempted reconstruction attacks\n* Self-curation loop is producing stable cluster patterns\n* Considering open-sourcing based on community feedback\n\n# ⚠️ Open Challenges I’m Exploring\n\n# 1. Embedding Reconstruction Attacks\n\nCan embeddings leak specifics even after abstraction?  \n*(This is my biggest concern — actively testing.)*\n\n# 2. Concept Space Pollution\n\nPreventing low-quality or adversarial concepts.  \n*(Working on quality signals without user reputation.)*\n\n# 3. k-Anonymity Thresholding\n\nAvoiding overly unique concepts that could reveal personal details.  \n*(Too strict = no learning, too loose = privacy risk.)*\n\n# 4. Adversarial Users\n\nSubmitting misleading or harmful patterns.  \n*(Considering consensus-based validation + decay weighting.)*\n\n# 5. Benchmarking Collective Intelligence\n\nHow do we measure “collective benefit” without ground truth?  \n*(Looking for evaluation strategies.)*\n\n# 💬 Would Love Feedback\n\nHas anyone here worked on:\n\n* Privacy-preserving embeddings?\n* Collective intelligence models?\n* Zero-knowledge learning systems?\n* Defense against embedding inference attacks?\n* Decentralized knowledge curation?\n\nIf you see flaws, risks, parallels with other work, or optimizations — I’d genuinely appreciate the insight.\n\nHappy to deep-dive into any component.",
+    "permalink": "/r/Rag/comments/1p156v2/tldr_im_building_a_way_for_ai_systems_to_learn/"
+  },
+  "comments": [
+    {
+      "id": "npnjrzc",
+      "parent_id": "t3_1p156v2",
+      "author": "johnerp",
+      "text_history": [
+        [
+          "Firstly December is summer for some ;-)\n\nSo if it’s so generalised how does it solve users problems? I’m confused, sorry!",
+          "2025-11-19T03:50:20.393750"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-19T03:50:20.393750"
+        ],
+        [
+          2,
+          "2025-11-19T03:52:29.941077"
+        ],
+        [
+          2,
+          "2025-11-19T03:59:43.107527"
+        ]
+      ],
+      "created_utc": 1763552514.0,
+      "depth": 0,
+      "permalink": "/r/Rag/comments/1p156v2/tldr_im_building_a_way_for_ai_systems_to_learn/npnjrzc/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npnkii2",
+      "parent_id": "t3_1p156v2",
+      "author": "tensonaut",
+      "text_history": [
+        [
+          "At a high level, what you are describing is similar to how recommendation systems like those of Amazon/Netflix work. At a high level, you learn item embeddings, user embeddings and cooccurrence pattern of users/items. Sorry, what exactly are you trying to achieve? What's the objective",
+          "2025-11-19T03:50:20.393750"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T03:50:20.393750"
+        ],
+        [
+          1,
+          "2025-11-19T03:52:29.941077"
+        ],
+        [
+          1,
+          "2025-11-19T03:59:43.107527"
+        ]
+      ],
+      "created_utc": 1763552883.0,
+      "depth": 0,
+      "permalink": "/r/Rag/comments/1p156v2/tldr_im_building_a_way_for_ai_systems_to_learn/npnkii2/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:59:43.107527",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/Rag/comments/1p156v2/tldr_im_building_a_way_for_ai_systems_to_learn/",
+    "total_comments": 2,
+    "top_level_comments": 2,
+    "api_requests": 1,
+    "expected_comments": 2,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 4,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_034147.json",
+      "scrape_002_20251119_035020.json",
+      "scrape_003_20251119_035229.json",
+      "scrape_004_20251119_035942.json"
+    ]
+  }
+}

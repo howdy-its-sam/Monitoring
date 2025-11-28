@@ -1,0 +1,269 @@
+{
+  "post": {
+    "id": "1p09gjd",
+    "title": "Most AI agents don’t fail because the model is dumb. They fail because the tools around it are.",
+    "author": "Warm-Reaction-456",
+    "score_history": [
+      [
+        4,
+        "2025-11-18T12:51:34.891399"
+      ],
+      [
+        4,
+        "2025-11-18T13:03:54.254628"
+      ],
+      [
+        4,
+        "2025-11-18T13:15:45.377145"
+      ],
+      [
+        4,
+        "2025-11-18T13:46:27.135020"
+      ],
+      [
+        5,
+        "2025-11-18T13:49:07.705169"
+      ],
+      [
+        5,
+        "2025-11-18T13:49:42.032377"
+      ],
+      [
+        5,
+        "2025-11-18T13:59:24.965766"
+      ],
+      [
+        4,
+        "2025-11-18T21:29:02.460147"
+      ],
+      [
+        4,
+        "2025-11-18T23:13:58.722230"
+      ],
+      [
+        3,
+        "2025-11-19T00:58:00.559660"
+      ]
+    ],
+    "created_utc": 1763465184.0,
+    "num_comments": 5,
+    "subreddit": "AI_Agents",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1p09gjd/most_ai_agents_dont_fail_because_the_model_is/",
+    "selftext": "I’ve built enough agents now for startups and boring enterprises to see the same pattern repeat. Something breaks, everyone points at the LLM. “It’s hallucinating.” “It’s not reasoning well.” Then you open the logs and realize the poor thing is just doing its best with a pile of badly named, badly documented tools.\n\nTypical setup: fifteen different functions that all sound kind of the same. `get_user`, `get_all_users`, `search_users`, `fetch_user_data`, and nobody, including the humans, could explain when to use which. Of course the agent is confused. A junior dev would be too. When I trim that down to a couple of sharp tools like “find_user_by_email” and “list_recent_transactions_for_user”, success rates jump without touching the model.\n\nThe next silent killer is what those tools return. People love to dump entire database rows or three pages of markdown straight into the context. Then they’re shocked when the agent misses the important line buried in there. If your tool returns a wall of text, you’re basically saying “here, you figure it out” and then blaming the model when it doesn’t. Having tools return small, structured answers instead of raw blobs makes a bigger difference than switching from Model A to Model B.\n\nAnd then there’s the “no brakes” design. I’ve seen agents allowed to issue refunds, change records, even email customers directly, with zero guardrails. It works great in the demo. In production, one weird edge case later, everyone’s in a war room asking who approved this. The boring setups work better: the agent drafts the action, a human clicks approve. Less sci‑fi, more reliable.\n\nThe funny part is, when people ask me how to “make the agent smarter”, they’re expecting some clever prompt trick or a trendy new framework. Most of the time the answer is: clean up your tools, name them like a sane person, log what’s happening, and stop letting the agent do things you’d never let a new hire do on day one.\n\nIf your agent feels flaky, it’s probably not the brain. It’s the wrench set you handed it.",
+    "permalink": "/r/AI_Agents/comments/1p09gjd/most_ai_agents_dont_fail_because_the_model_is/"
+  },
+  "comments": [
+    {
+      "id": "nph4gar",
+      "parent_id": "t3_1p09gjd",
+      "author": "AutoModerator",
+      "text_history": [
+        [
+          "Thank you for your submission, for any questions regarding AI, please check out our wiki at https://www.reddit.com/r/ai_agents/wiki (this is currently in test and we are actively adding to the wiki)\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/AI_Agents) if you have any questions or concerns.*",
+          "2025-11-18T12:51:34.891399"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T12:51:34.891399"
+        ],
+        [
+          1,
+          "2025-11-18T13:03:54.254628"
+        ],
+        [
+          1,
+          "2025-11-18T13:15:45.377145"
+        ],
+        [
+          1,
+          "2025-11-18T13:46:27.135020"
+        ],
+        [
+          1,
+          "2025-11-18T13:49:07.705169"
+        ],
+        [
+          1,
+          "2025-11-18T13:49:42.032377"
+        ],
+        [
+          1,
+          "2025-11-18T13:59:24.965766"
+        ],
+        [
+          0,
+          "2025-11-18T21:29:02.460147"
+        ],
+        [
+          0,
+          "2025-11-18T23:13:58.722230"
+        ],
+        [
+          0,
+          "2025-11-19T00:58:00.559660"
+        ]
+      ],
+      "created_utc": 1763465184.0,
+      "depth": 0,
+      "permalink": "/r/AI_Agents/comments/1p09gjd/most_ai_agents_dont_fail_because_the_model_is/nph4gar/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npi1f56",
+      "parent_id": "t3_1p09gjd",
+      "author": "oriol_9",
+      "text_history": [
+        [
+          "excellent explanation\n\nI would add that for it to be effective it also\n\nneeds to be able to meet the client structure",
+          "2025-11-18T12:51:34.891399"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T12:51:34.891399"
+        ],
+        [
+          1,
+          "2025-11-18T13:03:54.254628"
+        ],
+        [
+          1,
+          "2025-11-18T13:15:45.377145"
+        ],
+        [
+          1,
+          "2025-11-18T13:46:27.135020"
+        ],
+        [
+          1,
+          "2025-11-18T13:49:07.705169"
+        ],
+        [
+          1,
+          "2025-11-18T13:49:42.032377"
+        ],
+        [
+          1,
+          "2025-11-18T13:59:24.965766"
+        ],
+        [
+          0,
+          "2025-11-18T21:29:02.460147"
+        ],
+        [
+          0,
+          "2025-11-18T23:13:58.722230"
+        ],
+        [
+          0,
+          "2025-11-19T00:58:00.559660"
+        ]
+      ],
+      "created_utc": 1763477421.0,
+      "depth": 0,
+      "permalink": "/r/AI_Agents/comments/1p09gjd/most_ai_agents_dont_fail_because_the_model_is/npi1f56/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npi8rlk",
+      "parent_id": "t3_1p09gjd",
+      "author": "vbwyrde",
+      "text_history": [
+        [
+          "I agree this is true, and I'm glad you included the point \"makes a **bigger** difference than switching from Model A to Model B\" which should clue the reader in that to some degree model also does matter.  It just doesn't matter as much as well designed workflows, as you described.  But models that are too small, or not well trained, will also cause problems.  So there is that as well.  It takes both, good models and good frameworks around them to make a system work well.  Nevertheless, your points are well taken and perfectly valid imo.",
+          "2025-11-18T12:51:34.891399"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T12:51:34.891399"
+        ],
+        [
+          1,
+          "2025-11-18T13:03:54.254628"
+        ],
+        [
+          1,
+          "2025-11-18T13:15:45.377145"
+        ],
+        [
+          1,
+          "2025-11-18T13:46:27.135020"
+        ],
+        [
+          1,
+          "2025-11-18T13:49:07.705169"
+        ],
+        [
+          1,
+          "2025-11-18T13:49:42.032377"
+        ],
+        [
+          1,
+          "2025-11-18T13:59:24.965766"
+        ],
+        [
+          0,
+          "2025-11-18T21:29:02.460147"
+        ],
+        [
+          0,
+          "2025-11-18T23:13:58.722230"
+        ],
+        [
+          0,
+          "2025-11-19T00:58:00.559660"
+        ]
+      ],
+      "created_utc": 1763479702.0,
+      "depth": 0,
+      "permalink": "/r/AI_Agents/comments/1p09gjd/most_ai_agents_dont_fail_because_the_model_is/npi8rlk/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T00:58:00.559660",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/AI_Agents/comments/1p09gjd/most_ai_agents_dont_fail_because_the_model_is/",
+    "total_comments": 3,
+    "top_level_comments": 3,
+    "api_requests": 1,
+    "expected_comments": 5,
+    "coverage_percent": 60.0,
+    "merged_snapshot_count": 10,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_125134.json",
+      "scrape_002_20251118_130354.json",
+      "scrape_003_20251118_131545.json",
+      "scrape_004_20251118_134626.json",
+      "scrape_005_20251118_134907.json",
+      "scrape_006_20251118_134941.json",
+      "scrape_007_20251118_135924.json",
+      "scrape_008_20251118_212902.json",
+      "scrape_009_20251118_231358.json",
+      "scrape_010_20251119_005800.json"
+    ]
+  }
+}

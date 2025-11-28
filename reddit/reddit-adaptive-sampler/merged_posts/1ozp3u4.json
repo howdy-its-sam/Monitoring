@@ -1,0 +1,202 @@
+{
+  "post": {
+    "id": "1ozp3u4",
+    "title": "I Gave My AI Agent a Simple Job and Got a $100 Bill: The Hidden Cost of \"Thinking\"",
+    "author": "Glum_Pool8075",
+    "score_history": [
+      [
+        1,
+        "2025-11-18T12:51:43.810709"
+      ],
+      [
+        1,
+        "2025-11-18T13:04:02.621638"
+      ],
+      [
+        1,
+        "2025-11-18T13:15:50.891293"
+      ],
+      [
+        1,
+        "2025-11-18T13:48:30.029972"
+      ],
+      [
+        1,
+        "2025-11-18T13:59:39.624199"
+      ],
+      [
+        1,
+        "2025-11-18T14:10:51.884758"
+      ]
+    ],
+    "created_utc": 1763406283.0,
+    "num_comments": 3,
+    "subreddit": "AgentsOfAI",
+    "url": "https://www.reddit.com/r/AgentsOfAI/comments/1ozp3u4/i_gave_my_ai_agent_a_simple_job_and_got_a_100/",
+    "selftext": "we've gotten used to AI being basically free or incredibly cheap. You type a prompt, you get a response, it costs pennies, maybe less.\n\nBut that's for a single, contained interaction. That's asking, \"What is the best route from A to B?\"\n\nWhen you use an autonomous AI agent, you're not just asking a question, you are initiating a process. And that process can get surprisingly expensive, very quickly.\n\n*The Mental Cost Becomes a Financial Cost*\n\nAn agent, to do its job, often has to run through a loop of \"thinking\" and \"acting.\"\n\n1. Planning: \"How should I approach this task?\" (A full-model query)\n2. Tool Use: \"Okay, I need to call the web browser tool now.\" (Another, often complex, query)\n3. Error Correction: \"That failed, let me analyze the output and try a different method.\" (Another query, sometimes several)\n4. Final Summary: \"Here is the final result.\" (The last query)\n\nEach of those steps is an API call, and each API call costs money. A simple instruction like, \"Research the top 5 competitors for this new product launch and summarize their pricing structures,\" can turn into 15 to 20 individual calls to the expensive, large language model.\n\nIt's the digital equivalent of paying someone an hourly rate, not just a flat fee for the completed task.\n\n*The Surprise Bill for \"Getting Stuck\"*\n\nThe biggest cost surprise often comes from failure.\n\nIf an agent gets stuck say, a website blocks its access, or the data it needs is in a strange format it doesn't just give up. It starts running expensive, recursive checks to try and solve the problem, eating up tokens (and dollars) while it struggles. You pay for the attempts, even the unsuccessful ones.\n\nThe time you save by delegating the task might be offset by the higher, unpredictable cost structure. The trade-off we're learning to manage is: Saving human time is now costing us token budget.\n\nIf you're building or using agents, watch those logs. The real revolution isn't just about what the AI can do, but what it costs for it to try.",
+    "permalink": "/r/AgentsOfAI/comments/1ozp3u4/i_gave_my_ai_agent_a_simple_job_and_got_a_100/"
+  },
+  "comments": [
+    {
+      "id": "npd580s",
+      "parent_id": "t3_1ozp3u4",
+      "author": "Fine_Command2652",
+      "text_history": [
+        [
+          "This is a crucial point that many people overlook when integrating AI agents into their workflows. The complexity and cost accumulation through multiple API calls can really add up unexpectedly. It's essential to have a clear understanding of how these processes work to avoid surprises. Have you found any strategies that help manage or reduce these costs effectively?",
+          "2025-11-18T12:51:43.810709"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T12:51:43.810709"
+        ],
+        [
+          1,
+          "2025-11-18T13:04:02.621638"
+        ],
+        [
+          1,
+          "2025-11-18T13:15:50.891293"
+        ],
+        [
+          1,
+          "2025-11-18T13:48:30.029972"
+        ],
+        [
+          1,
+          "2025-11-18T13:59:39.624199"
+        ],
+        [
+          1,
+          "2025-11-18T14:10:51.884758"
+        ]
+      ],
+      "created_utc": 1763406734.0,
+      "depth": 0,
+      "permalink": "/r/AgentsOfAI/comments/1ozp3u4/i_gave_my_ai_agent_a_simple_job_and_got_a_100/npd580s/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npd7tjh",
+          "parent_id": "t1_npd580s",
+          "author": "Glum_Pool8075",
+          "text_history": [
+            [
+              "The most effective strategy is Model Tiering: use a cheap, fast model for simple tasks (parsing, filtering) and only escalate to the expensive model for complex reasoning and final decisions.",
+              "2025-11-18T12:51:43.810709"
+            ]
+          ],
+          "score_history": [
+            [
+              2,
+              "2025-11-18T12:51:43.810709"
+            ],
+            [
+              2,
+              "2025-11-18T13:04:02.621638"
+            ],
+            [
+              2,
+              "2025-11-18T13:15:50.891293"
+            ],
+            [
+              2,
+              "2025-11-18T13:48:30.029972"
+            ],
+            [
+              2,
+              "2025-11-18T13:59:39.624199"
+            ],
+            [
+              2,
+              "2025-11-18T14:10:51.884758"
+            ]
+          ],
+          "created_utc": 1763407516.0,
+          "depth": 1,
+          "permalink": "/r/AgentsOfAI/comments/1ozp3u4/i_gave_my_ai_agent_a_simple_job_and_got_a_100/npd7tjh/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        },
+        {
+          "id": "npd9o9j",
+          "parent_id": "t1_npd580s",
+          "author": "Few-Brilliant-142",
+          "text_history": [
+            [
+              "Reducing costs could be achieved by limiting API calls for failure retries, but it would be cheaper to host the ai agents and infrastructure yourself, aside from the initial cost for hardware you'll just pay for energy",
+              "2025-11-18T12:51:43.810709"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T12:51:43.810709"
+            ],
+            [
+              1,
+              "2025-11-18T13:04:02.621638"
+            ],
+            [
+              1,
+              "2025-11-18T13:15:50.891293"
+            ],
+            [
+              1,
+              "2025-11-18T13:48:30.029972"
+            ],
+            [
+              1,
+              "2025-11-18T13:59:39.624199"
+            ],
+            [
+              1,
+              "2025-11-18T14:10:51.884758"
+            ]
+          ],
+          "created_utc": 1763408073.0,
+          "depth": 1,
+          "permalink": "/r/AgentsOfAI/comments/1ozp3u4/i_gave_my_ai_agent_a_simple_job_and_got_a_100/npd9o9j/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-18T14:10:51.884758",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/AgentsOfAI/comments/1ozp3u4/i_gave_my_ai_agent_a_simple_job_and_got_a_100/",
+    "total_comments": 3,
+    "top_level_comments": 1,
+    "api_requests": 1,
+    "expected_comments": 3,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 6,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_125143.json",
+      "scrape_002_20251118_130402.json",
+      "scrape_003_20251118_131550.json",
+      "scrape_004_20251118_134829.json",
+      "scrape_005_20251118_135939.json",
+      "scrape_006_20251118_141051.json"
+    ]
+  }
+}

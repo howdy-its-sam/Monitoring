@@ -1,0 +1,538 @@
+{
+  "post": {
+    "id": "18cq19a",
+    "title": "Data Science and AI or Computational Linguistics to get into NLP job market?",
+    "author": "yesthetallguy",
+    "score_history": [
+      [
+        15,
+        "2025-11-18T14:53:57.098383"
+      ],
+      [
+        15,
+        "2025-11-18T15:03:53.188330"
+      ],
+      [
+        15,
+        "2025-11-18T15:05:16.024344"
+      ],
+      [
+        16,
+        "2025-11-18T22:41:19.577919"
+      ],
+      [
+        16,
+        "2025-11-19T00:26:27.126313"
+      ],
+      [
+        16,
+        "2025-11-19T02:11:42.912020"
+      ]
+    ],
+    "created_utc": 1701932794.0,
+    "num_comments": 10,
+    "subreddit": "compling",
+    "url": "https://www.reddit.com/r/compling/comments/18cq19a/data_science_and_ai_or_computational_linguistics/",
+    "selftext": "I’m an international student who has been accepted into University of Liverpool’s MSc in Data Science and AI with a year in Industry programme. However, I’m still waiting to hear back from places like Manchester and Edinburgh who offer pure computational linguistics and speech and language processing masters. Liverpool gives me a two year degree, which includes the Year in Industry, whereas the other universities are a one year degree. What do you suggest I go for since my main interests are in NLP and that is the field that I want to work in?",
+    "permalink": "/r/compling/comments/18cq19a/data_science_and_ai_or_computational_linguistics/"
+  },
+  "comments": [
+    {
+      "id": "kccyoul",
+      "parent_id": "t3_18cq19a",
+      "author": "[deleted]",
+      "text_history": [
+        [
+          "Are one-year Master's degrees common in the UK? That sounds awfully short. \n\nAnyhow, you didn't specify what is your BSc in, which is relevant to know if you're going to miss out on some key material.\n\na priori, and with the caveat that I haven't studied there, I would go for the Edinburgh program. Their NLP/CL labs are among the best in the world, they have a really good research reputation. \n\nMore specifically, I looked at each of the programs, and the Edinburgh one also looks like the better one. The Liverpool one looks really lacking - there's barely any NLP involved, and the classes are basic. I assume it's because they specifically say the program is for people whose first degree is *not* in CS or a related field. It looks like the Manchester program is much more relevant for people actually doing computational linguistics (which is *not* synonymous with NLP), but since it's a brand new program (which is also a warning sign, typically), I can't really find a description of the units themselves.",
+          "2025-11-18T14:53:57.098383"
+        ]
+      ],
+      "score_history": [
+        [
+          7,
+          "2025-11-18T14:53:57.098383"
+        ],
+        [
+          7,
+          "2025-11-18T15:03:53.188330"
+        ],
+        [
+          6,
+          "2025-11-18T15:05:16.024344"
+        ],
+        [
+          6,
+          "2025-11-18T22:41:19.577919"
+        ],
+        [
+          7,
+          "2025-11-19T00:26:27.126313"
+        ],
+        [
+          6,
+          "2025-11-19T02:11:42.912020"
+        ]
+      ],
+      "created_utc": 1701953888.0,
+      "depth": 0,
+      "permalink": "/r/compling/comments/18cq19a/data_science_and_ai_or_computational_linguistics/kccyoul/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "kccz5qf",
+          "parent_id": "t1_kccyoul",
+          "author": "yesthetallguy",
+          "text_history": [
+            [
+              "Hey yeah! I did my Bachelors in English and a Masters in Linguistics. And yeah UK mostly has one-year master’s degrees. My base in linguistics is pretty solid. Also what do you mean by computational linguistics not being synonymous with NLP? Could you elaborate on what would be major differences, especially looking at the job market?",
+              "2025-11-18T14:53:57.098383"
+            ]
+          ],
+          "score_history": [
+            [
+              2,
+              "2025-11-18T14:53:57.098383"
+            ],
+            [
+              2,
+              "2025-11-18T15:03:53.188330"
+            ],
+            [
+              2,
+              "2025-11-18T15:05:16.024344"
+            ],
+            [
+              2,
+              "2025-11-18T22:41:19.577919"
+            ],
+            [
+              2,
+              "2025-11-19T00:26:27.126313"
+            ],
+            [
+              2,
+              "2025-11-19T02:11:42.912020"
+            ]
+          ],
+          "created_utc": 1701954144.0,
+          "depth": 1,
+          "permalink": "/r/compling/comments/18cq19a/data_science_and_ai_or_computational_linguistics/kccz5qf/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "kcd166s",
+              "parent_id": "t1_kccz5qf",
+              "author": "[deleted]",
+              "text_history": [
+                [
+                  "Computational linguistics typically refers to the use of computational methods to study, well, linguistics - which is what you're likely familiar with. Describing syntactic phenomena, diachronic analysis, phylogenetics, cognitive processing of language, etc. The computational processing is a *tool* to study linguistics, in this case.\n\nNLP is the field of research that tends to how languages and textual information may be *processed* by computational methods, where the processing and its product are often the end-goal.\n\nThere's significant overlap between the two, especially with more classic methods in NLP (for example, algorithms to automatically derive the syntactic structure of a sentence). But NLP today has diverged more towards accomplishing applicative tasks (such as algorithms for question-answering, or document summarization), rather than pure linguistic interest. \n\nThere is some effort by certain research groups to bridge the two, for example in using modern NLP tools (such as large language models) to study neuro-linguistic processes.\n\nWith regards to the job market - Computational linguistics is not really relevant for most of the high tech sector. Some companies absolutely do need linguists (even companies like Google, who employ a ton of linguists), but for the most part, they look for people who understand and can use (large) language models, which doesn't really require a ton of linguistic knowledge (certainly not more than you already have, it seems). A track more focused on NLP will also typically provide you with the technical aptitude to work with these models, which is not negligible, as it's a field which is quite heavy on the engineering aspect.",
+                  "2025-11-18T14:53:57.098383"
+                ]
+              ],
+              "score_history": [
+                [
+                  13,
+                  "2025-11-18T14:53:57.098383"
+                ],
+                [
+                  12,
+                  "2025-11-18T15:03:53.188330"
+                ],
+                [
+                  13,
+                  "2025-11-18T15:05:16.024344"
+                ],
+                [
+                  12,
+                  "2025-11-18T22:41:19.577919"
+                ],
+                [
+                  11,
+                  "2025-11-19T00:26:27.126313"
+                ],
+                [
+                  12,
+                  "2025-11-19T02:11:42.912020"
+                ]
+              ],
+              "created_utc": 1701955215.0,
+              "depth": 2,
+              "permalink": "/r/compling/comments/18cq19a/data_science_and_ai_or_computational_linguistics/kcd166s/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": [
+                {
+                  "id": "kcd1kl1",
+                  "parent_id": "t1_kcd166s",
+                  "author": "yesthetallguy",
+                  "text_history": [
+                    [
+                      "Oh okay. Thank you so much for this. But like, this is purely asking for your opinion but. Out of the three, MSc in Speech and Language Processing at Edinburgh, MSc in Corpus and Computational Linguistics at Manchester, and the MSc in Data Science and AI at Liverpool, how would you rank it according to my interests? I’m sorry I’m asking so much, I just don’t have many people to turn to in this regard.",
+                      "2025-11-18T14:53:57.098383"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      2,
+                      "2025-11-18T14:53:57.098383"
+                    ],
+                    [
+                      2,
+                      "2025-11-18T15:03:53.188330"
+                    ],
+                    [
+                      2,
+                      "2025-11-18T15:05:16.024344"
+                    ],
+                    [
+                      2,
+                      "2025-11-18T22:41:19.577919"
+                    ],
+                    [
+                      2,
+                      "2025-11-19T00:26:27.126313"
+                    ],
+                    [
+                      2,
+                      "2025-11-19T02:11:42.912020"
+                    ]
+                  ],
+                  "created_utc": 1701955420.0,
+                  "depth": 3,
+                  "permalink": "/r/compling/comments/18cq19a/data_science_and_ai_or_computational_linguistics/kcd1kl1/",
+                  "is_submitter": true,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": [
+                    {
+                      "id": "kcd54au",
+                      "parent_id": "t1_kcd1kl1",
+                      "author": "[deleted]",
+                      "text_history": [
+                        [
+                          "It's difficult to say. I still mostly stand by my previous comment - Edinburgh, then Manchester and then Liverpool.\n\nHowever.\n\nI won't lie that without prior background in mathematics and computer science, the Edinburgh program might be difficult. They also specifically ask that in your application, you display this kind of background.\n\nManchester, without specific knowledge of their units' syllabi, is hard to determine if they're too linguistic-theoretical for what you want. \n\nLiverpool just seems to be too shallow to actually gain the needed knowledge in NLP, but it will (probably) give you the mathematical and CS background you lack. If you do strike luck in the year in industry, and work on some NLP problem for some company, that's a really good way to enter the job market. \n\nI just want to point out that generally speaking, none of these are *bad* options.",
+                          "2025-11-18T14:53:57.098383"
+                        ]
+                      ],
+                      "score_history": [
+                        [
+                          5,
+                          "2025-11-18T14:53:57.098383"
+                        ],
+                        [
+                          4,
+                          "2025-11-18T15:03:53.188330"
+                        ],
+                        [
+                          5,
+                          "2025-11-18T15:05:16.024344"
+                        ],
+                        [
+                          5,
+                          "2025-11-18T22:41:19.577919"
+                        ],
+                        [
+                          3,
+                          "2025-11-19T00:26:27.126313"
+                        ],
+                        [
+                          4,
+                          "2025-11-19T02:11:42.912020"
+                        ]
+                      ],
+                      "created_utc": 1701957171.0,
+                      "depth": 4,
+                      "permalink": "/r/compling/comments/18cq19a/data_science_and_ai_or_computational_linguistics/kcd54au/",
+                      "is_submitter": false,
+                      "controversiality": 0,
+                      "gilded": 0,
+                      "edited": false,
+                      "deleted": false,
+                      "deleted_at": null,
+                      "replies": [
+                        {
+                          "id": "kce7yyw",
+                          "parent_id": "t1_kcd54au",
+                          "author": "yesthetallguy",
+                          "text_history": [
+                            [
+                              "Thank you so much. Can I DM you?",
+                              "2025-11-18T14:53:57.098383"
+                            ]
+                          ],
+                          "score_history": [
+                            [
+                              1,
+                              "2025-11-18T14:53:57.098383"
+                            ],
+                            [
+                              1,
+                              "2025-11-18T15:03:53.188330"
+                            ],
+                            [
+                              1,
+                              "2025-11-18T15:05:16.024344"
+                            ],
+                            [
+                              1,
+                              "2025-11-18T22:41:19.577919"
+                            ],
+                            [
+                              1,
+                              "2025-11-19T00:26:27.126313"
+                            ],
+                            [
+                              1,
+                              "2025-11-19T02:11:42.912020"
+                            ]
+                          ],
+                          "created_utc": 1701973708.0,
+                          "depth": 5,
+                          "permalink": "/r/compling/comments/18cq19a/data_science_and_ai_or_computational_linguistics/kce7yyw/",
+                          "is_submitter": true,
+                          "controversiality": 0,
+                          "gilded": 0,
+                          "edited": false,
+                          "deleted": false,
+                          "deleted_at": null,
+                          "replies": [
+                            {
+                              "id": "kcf1b3d",
+                              "parent_id": "t1_kce7yyw",
+                              "author": "[deleted]",
+                              "text_history": [
+                                [
+                                  "Sure",
+                                  "2025-11-18T14:53:57.098383"
+                                ]
+                              ],
+                              "score_history": [
+                                [
+                                  1,
+                                  "2025-11-18T14:53:57.098383"
+                                ],
+                                [
+                                  1,
+                                  "2025-11-18T15:03:53.188330"
+                                ],
+                                [
+                                  1,
+                                  "2025-11-18T15:05:16.024344"
+                                ],
+                                [
+                                  1,
+                                  "2025-11-18T22:41:19.577919"
+                                ],
+                                [
+                                  1,
+                                  "2025-11-19T00:26:27.126313"
+                                ],
+                                [
+                                  1,
+                                  "2025-11-19T02:11:42.912020"
+                                ]
+                              ],
+                              "created_utc": 1701985320.0,
+                              "depth": 6,
+                              "permalink": "/r/compling/comments/18cq19a/data_science_and_ai_or_computational_linguistics/kcf1b3d/",
+                              "is_submitter": false,
+                              "controversiality": 0,
+                              "gilded": 0,
+                              "edited": false,
+                              "deleted": false,
+                              "deleted_at": null,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kr18q1o",
+          "parent_id": "t1_kccyoul",
+          "author": "aquilaa91",
+          "text_history": [
+            [
+              "What do you think of the program in Trento ? https://unitn.coursecatalogue.cineca.it/corsi/2023/10168/insegnamenti/10003",
+              "2025-11-18T14:53:57.098383"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T14:53:57.098383"
+            ],
+            [
+              1,
+              "2025-11-18T15:03:53.188330"
+            ],
+            [
+              1,
+              "2025-11-18T15:05:16.024344"
+            ],
+            [
+              1,
+              "2025-11-18T22:41:19.577919"
+            ],
+            [
+              1,
+              "2025-11-19T00:26:27.126313"
+            ],
+            [
+              1,
+              "2025-11-19T02:11:42.912020"
+            ]
+          ],
+          "created_utc": 1708286058.0,
+          "depth": 1,
+          "permalink": "/r/compling/comments/18cq19a/data_science_and_ai_or_computational_linguistics/kr18q1o/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "kr1atf8",
+              "parent_id": "t1_kr18q1o",
+              "author": "[deleted]",
+              "text_history": [
+                [
+                  "Seems like a pretty solid program, both cognition, linguistics, and ML. All around pretty good. I think it's lacking a bit in modern NLP methods - the \"machine learning for NLP\" courses (I and II) seem like just general ML courses. Of course I could be mistaken, it might just not be spelled out in the syllabus.  \nIf you're looking for a research program - the courses are less important than finding an advisor you'd like to work with.",
+                  "2025-11-18T14:53:57.098383"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-18T14:53:57.098383"
+                ],
+                [
+                  1,
+                  "2025-11-18T15:03:53.188330"
+                ],
+                [
+                  1,
+                  "2025-11-18T15:05:16.024344"
+                ],
+                [
+                  1,
+                  "2025-11-18T22:41:19.577919"
+                ],
+                [
+                  1,
+                  "2025-11-19T00:26:27.126313"
+                ],
+                [
+                  1,
+                  "2025-11-19T02:11:42.912020"
+                ]
+              ],
+              "created_utc": 1708286800.0,
+              "depth": 2,
+              "permalink": "/r/compling/comments/18cq19a/data_science_and_ai_or_computational_linguistics/kr1atf8/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": [
+                {
+                  "id": "kr1c0sc",
+                  "parent_id": "t1_kr1atf8",
+                  "author": "aquilaa91",
+                  "text_history": [
+                    [
+                      "Well actually I don’t know if I want to do a research  program, at the moment I’m a graduate in languages but my professor of linguistics is interested in me and he wants  me to peruse a PhD in historical linguistics in the PhD program where he works, but I’m not sure if he will really help me or not. \nI always wanted to do a PhD but lately I’m not quite sure about it, especially financially  speaking. \nAt the same time I was thinking to specialize in NLP/ CL, I’m not sure whether I’ll be good at the or not but it’s more interesting, and it’s the future someway, it can give me way more opportunities compared to remain in my university in a MA in languages and historical linguistics.\nIn the future I could always do a PhD in NLP or CL",
+                      "2025-11-18T14:53:57.098383"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      2,
+                      "2025-11-18T14:53:57.098383"
+                    ],
+                    [
+                      2,
+                      "2025-11-18T15:03:53.188330"
+                    ],
+                    [
+                      2,
+                      "2025-11-18T15:05:16.024344"
+                    ],
+                    [
+                      2,
+                      "2025-11-18T22:41:19.577919"
+                    ],
+                    [
+                      2,
+                      "2025-11-19T00:26:27.126313"
+                    ],
+                    [
+                      2,
+                      "2025-11-19T02:11:42.912020"
+                    ]
+                  ],
+                  "created_utc": 1708287229.0,
+                  "depth": 3,
+                  "permalink": "/r/compling/comments/18cq19a/data_science_and_ai_or_computational_linguistics/kr1c0sc/",
+                  "is_submitter": false,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T02:11:42.912020",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/compling/comments/18cq19a/data_science_and_ai_or_computational_linguistics/",
+    "total_comments": 10,
+    "top_level_comments": 1,
+    "api_requests": 1,
+    "expected_comments": 10,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 6,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_145356.json",
+      "scrape_002_20251118_150352.json",
+      "scrape_003_20251118_150515.json",
+      "scrape_004_20251118_224119.json",
+      "scrape_005_20251119_002626.json",
+      "scrape_006_20251119_021142.json"
+    ]
+  }
+}

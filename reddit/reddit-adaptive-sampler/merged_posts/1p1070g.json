@@ -1,0 +1,80 @@
+{
+  "post": {
+    "id": "1p1070g",
+    "title": "Flashing Vex Microcontroller",
+    "author": "FirmCategory8826",
+    "score_history": [
+      [
+        2,
+        "2025-11-19T03:50:28.718025"
+      ],
+      [
+        2,
+        "2025-11-19T03:58:26.915458"
+      ],
+      [
+        2,
+        "2025-11-19T04:01:43.916820"
+      ]
+    ],
+    "created_utc": 1763533706.0,
+    "num_comments": 1,
+    "subreddit": "robotics",
+    "url": "https://www.reddit.com/r/robotics/comments/1p1070g/flashing_vex_microcontroller/",
+    "selftext": "Short and sweet. Would it be possible to reflash a VEX Arm Cortex Microcontroller to be used like an Arduino? Anything helps. Thank you :)",
+    "permalink": "/r/robotics/comments/1p1070g/flashing_vex_microcontroller/"
+  },
+  "comments": [
+    {
+      "id": "npmp6n6",
+      "parent_id": "t3_1p1070g",
+      "author": "AmazingELF74",
+      "text_history": [
+        [
+          "Following because I recently got about ten of them and could use more Arduinos.\nI found a couple of interesting GitHub pages including this one that could likely be used like this. https://github.com/mkoval/hax",
+          "2025-11-19T03:50:28.718025"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-19T03:50:28.718025"
+        ],
+        [
+          2,
+          "2025-11-19T03:58:26.915458"
+        ],
+        [
+          2,
+          "2025-11-19T04:01:43.916820"
+        ]
+      ],
+      "created_utc": 1763534354.0,
+      "depth": 0,
+      "permalink": "/r/robotics/comments/1p1070g/flashing_vex_microcontroller/npmp6n6/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": 1763534764.0,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T04:01:43.916820",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/robotics/comments/1p1070g/flashing_vex_microcontroller/",
+    "total_comments": 1,
+    "top_level_comments": 1,
+    "api_requests": 1,
+    "expected_comments": 1,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_035028.json",
+      "scrape_002_20251119_035826.json",
+      "scrape_003_20251119_040143.json"
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "post": {
+    "id": "1p0ht0x",
+    "title": "LSASS Dump – Windows Error Reporting",
+    "author": "netbiosX",
+    "score_history": [
+      [
+        1,
+        "2025-11-18T13:48:29.245636"
+      ],
+      [
+        1,
+        "2025-11-18T13:59:43.527540"
+      ],
+      [
+        1,
+        "2025-11-18T14:11:18.810327"
+      ],
+      [
+        1,
+        "2025-11-18T21:59:56.042810"
+      ],
+      [
+        1,
+        "2025-11-19T07:12:19.895804"
+      ]
+    ],
+    "created_utc": 1763486263.0,
+    "num_comments": 0,
+    "subreddit": "cybersecurity",
+    "url": "https://ipurple.team/2025/11/18/lsass-dump-windows-error-reporting/",
+    "selftext": "",
+    "permalink": "/r/cybersecurity/comments/1p0ht0x/lsass_dump_windows_error_reporting/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T07:12:19.895804",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/cybersecurity/comments/1p0ht0x/lsass_dump_windows_error_reporting/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 5,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_134829.json",
+      "scrape_002_20251118_135943.json",
+      "scrape_003_20251118_141118.json",
+      "scrape_004_20251118_215955.json",
+      "scrape_005_20251119_071219.json"
+    ]
+  }
+}

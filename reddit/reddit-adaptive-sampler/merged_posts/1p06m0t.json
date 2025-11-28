@@ -1,0 +1,69 @@
+{
+  "post": {
+    "id": "1p06m0t",
+    "title": "Gemini btw",
+    "author": "debugyoursoul",
+    "score_history": [
+      [
+        0,
+        "2025-11-18T12:51:41.649105"
+      ],
+      [
+        0,
+        "2025-11-18T13:04:01.165600"
+      ],
+      [
+        0,
+        "2025-11-18T13:15:56.521149"
+      ],
+      [
+        0,
+        "2025-11-18T13:46:31.046046"
+      ],
+      [
+        0,
+        "2025-11-18T13:49:30.096254"
+      ],
+      [
+        0,
+        "2025-11-18T14:00:55.220328"
+      ],
+      [
+        0,
+        "2025-11-18T21:29:02.228258"
+      ],
+      [
+        0,
+        "2025-11-19T00:05:23.874145"
+      ]
+    ],
+    "created_utc": 1763454407.0,
+    "num_comments": 0,
+    "subreddit": "AgentsOfAI",
+    "url": "https://i.redd.it/pxa74dzb7z1g1.jpeg",
+    "selftext": "",
+    "permalink": "/r/AgentsOfAI/comments/1p06m0t/gemini_btw/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T00:05:23.874145",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/AgentsOfAI/comments/1p06m0t/gemini_btw/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 8,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_125141.json",
+      "scrape_002_20251118_130400.json",
+      "scrape_003_20251118_131556.json",
+      "scrape_004_20251118_134630.json",
+      "scrape_005_20251118_134929.json",
+      "scrape_006_20251118_140055.json",
+      "scrape_007_20251118_212902.json",
+      "scrape_008_20251119_000523.json"
+    ]
+  }
+}

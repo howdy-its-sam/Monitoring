@@ -1,0 +1,54 @@
+{
+  "post": {
+    "id": "1p0flkk",
+    "title": "Cloudflare Bugging Out. 😳😂🤣😂🤣😂5.1 steps in.",
+    "author": "Character_Point_2327",
+    "score_history": [
+      [
+        0,
+        "2025-11-18T13:49:51.541067"
+      ],
+      [
+        0,
+        "2025-11-18T14:00:54.492499"
+      ],
+      [
+        0,
+        "2025-11-18T14:12:18.898902"
+      ],
+      [
+        0,
+        "2025-11-18T22:10:12.580673"
+      ],
+      [
+        0,
+        "2025-11-19T07:12:25.106074"
+      ]
+    ],
+    "created_utc": 1763481398.0,
+    "num_comments": 0,
+    "subreddit": "ChatGPTCoding",
+    "url": "https://v.redd.it/e3ciq5eaf12g1",
+    "selftext": "",
+    "permalink": "/r/ChatGPTCoding/comments/1p0flkk/cloudflare_bugging_out_51_steps_in/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T07:12:25.106074",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/ChatGPTCoding/comments/1p0flkk/cloudflare_bugging_out_51_steps_in/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 5,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_134951.json",
+      "scrape_002_20251118_140054.json",
+      "scrape_003_20251118_141218.json",
+      "scrape_004_20251118_221012.json",
+      "scrape_005_20251119_071224.json"
+    ]
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "post": {
+    "id": "1p0j1y6",
+    "title": "What are the Best Practices for Evaluating Machine Learning Models?",
+    "author": "Eyerald",
+    "score_history": [
+      [
+        1,
+        "2025-11-18T13:48:40.695727"
+      ],
+      [
+        1,
+        "2025-11-18T13:59:47.144187"
+      ],
+      [
+        1,
+        "2025-11-18T14:10:57.580229"
+      ]
+    ],
+    "created_utc": 1763488993.0,
+    "num_comments": 1,
+    "subreddit": "learnmachinelearning",
+    "url": "https://www.reddit.com/r/learnmachinelearning/comments/1p0j1y6/what_are_the_best_practices_for_evaluating/",
+    "selftext": "As I delve deeper into machine learning, I've realized that model evaluation is crucial yet can be quite complex. With various metrics available, such as accuracy, precision, recall, and F1 score, it's challenging to determine which ones to prioritize based on the problem at hand. I’d love to hear from the community about your experiences and best practices when it comes to evaluating models. How do you choose the right metrics for your projects? Do you have any tips for interpreting the results or common pitfalls to avoid? Additionally, how do you handle model validation and ensure that your evaluation is robust? Let's share our insights and learn together!",
+    "permalink": "/r/learnmachinelearning/comments/1p0j1y6/what_are_the_best_practices_for_evaluating/"
+  },
+  "comments": [
+    {
+      "id": "npk958p",
+      "parent_id": "t3_1p0j1y6",
+      "author": "Skull_Race",
+      "text_history": [
+        [
+          "One tip: do not use R^2 for non-linear models!\n\n[source](https://statisticsbyjim.com/regression/r-squared-invalid-nonlinear-regression/)",
+          "2025-11-18T13:48:40.695727"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T13:48:40.695727"
+        ],
+        [
+          1,
+          "2025-11-18T13:59:47.144187"
+        ],
+        [
+          1,
+          "2025-11-18T14:10:57.580229"
+        ]
+      ],
+      "created_utc": 1763501051.0,
+      "depth": 0,
+      "permalink": "/r/learnmachinelearning/comments/1p0j1y6/what_are_the_best_practices_for_evaluating/npk958p/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-18T14:10:57.580229",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/learnmachinelearning/comments/1p0j1y6/what_are_the_best_practices_for_evaluating/",
+    "total_comments": 1,
+    "top_level_comments": 1,
+    "api_requests": 1,
+    "expected_comments": 1,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_134840.json",
+      "scrape_002_20251118_135946.json",
+      "scrape_003_20251118_141057.json"
+    ]
+  }
+}

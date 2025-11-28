@@ -1,0 +1,364 @@
+{
+  "post": {
+    "id": "1oy2o5u",
+    "title": "Microsoft: Windows 10 KB5068781 ESU update may fail with 0x800f0922 errors",
+    "author": "ControlCAD",
+    "score_history": [
+      [
+        39,
+        "2025-11-18T14:22:13.811820"
+      ],
+      [
+        42,
+        "2025-11-18T14:32:08.687879"
+      ],
+      [
+        43,
+        "2025-11-18T14:34:59.443314"
+      ]
+    ],
+    "created_utc": 1763240146.0,
+    "num_comments": 9,
+    "subreddit": "technews",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-10-kb5068781-esu-update-may-fail-with-0x800f0922-errors/",
+    "selftext": "",
+    "permalink": "/r/technews/comments/1oy2o5u/microsoft_windows_10_kb5068781_esu_update_may/"
+  },
+  "comments": [
+    {
+      "id": "np402bj",
+      "parent_id": "t3_1oy2o5u",
+      "author": "nanapancakethusiast",
+      "text_history": [
+        [
+          "Ima be honest bros I installed Bazzite a couple weeks ago and have no use for Windows anymore",
+          "2025-11-18T14:22:13.811820"
+        ]
+      ],
+      "score_history": [
+        [
+          6,
+          "2025-11-18T14:22:13.811820"
+        ],
+        [
+          5,
+          "2025-11-18T14:32:08.687879"
+        ],
+        [
+          7,
+          "2025-11-18T14:34:59.443314"
+        ]
+      ],
+      "created_utc": 1763277135.0,
+      "depth": 0,
+      "permalink": "/r/technews/comments/1oy2o5u/microsoft_windows_10_kb5068781_esu_update_may/np402bj/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "np3ketm",
+      "parent_id": "t3_1oy2o5u",
+      "author": "darksunshaman",
+      "text_history": [
+        [
+          "Getting to be time to switch over to Ubuntu",
+          "2025-11-18T14:22:13.811820"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-18T14:22:13.811820"
+        ],
+        [
+          3,
+          "2025-11-18T14:32:08.687879"
+        ],
+        [
+          3,
+          "2025-11-18T14:34:59.443314"
+        ]
+      ],
+      "created_utc": 1763269151.0,
+      "depth": 0,
+      "permalink": "/r/technews/comments/1oy2o5u/microsoft_windows_10_kb5068781_esu_update_may/np3ketm/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "np4pftw",
+          "parent_id": "t1_np3ketm",
+          "author": "iTinkerTillItWorks",
+          "text_history": [
+            [
+              "Bazzite",
+              "2025-11-18T14:22:13.811820"
+            ]
+          ],
+          "score_history": [
+            [
+              3,
+              "2025-11-18T14:22:13.811820"
+            ],
+            [
+              2,
+              "2025-11-18T14:32:08.687879"
+            ],
+            [
+              2,
+              "2025-11-18T14:34:59.443314"
+            ]
+          ],
+          "created_utc": 1763292457.0,
+          "depth": 1,
+          "permalink": "/r/technews/comments/1oy2o5u/microsoft_windows_10_kb5068781_esu_update_may/np4pftw/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "np5k7vb",
+              "parent_id": "t1_np4pftw",
+              "author": "CoastingUphill",
+              "text_history": [
+                [
+                  "Ubuntu is still the best for normal people if they have to troubleshoot something. Most times if I’m searching for a solution to some Linux problem in any particular distro, I wind up some results for Ubuntu. There’s just more information out there for it.",
+                  "2025-11-18T14:22:13.811820"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-18T14:22:13.811820"
+                ],
+                [
+                  1,
+                  "2025-11-18T14:32:08.687879"
+                ],
+                [
+                  1,
+                  "2025-11-18T14:34:59.443314"
+                ]
+              ],
+              "created_utc": 1763305677.0,
+              "depth": 2,
+              "permalink": "/r/technews/comments/1oy2o5u/microsoft_windows_10_kb5068781_esu_update_may/np5k7vb/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": [
+                {
+                  "id": "np5l9n0",
+                  "parent_id": "t1_np5k7vb",
+                  "author": "iTinkerTillItWorks",
+                  "text_history": [
+                    [
+                      "Ok fair enough. I honestly only kept windows around for games and bazzite covers all my bases there. Ubuntu is great!",
+                      "2025-11-18T14:22:13.811820"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      2,
+                      "2025-11-18T14:22:13.811820"
+                    ],
+                    [
+                      2,
+                      "2025-11-18T14:32:08.687879"
+                    ],
+                    [
+                      2,
+                      "2025-11-18T14:34:59.443314"
+                    ]
+                  ],
+                  "created_utc": 1763306035.0,
+                  "depth": 3,
+                  "permalink": "/r/technews/comments/1oy2o5u/microsoft_windows_10_kb5068781_esu_update_may/np5l9n0/",
+                  "is_submitter": false,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": [
+                    {
+                      "id": "np9goge",
+                      "parent_id": "t1_np5l9n0",
+                      "author": "MrLewGin",
+                      "text_history": [
+                        [
+                          "Ubuntu is hideous for newcomers, Linux Mint is the best starting point.",
+                          "2025-11-18T14:22:13.811820"
+                        ]
+                      ],
+                      "score_history": [
+                        [
+                          2,
+                          "2025-11-18T14:22:13.811820"
+                        ],
+                        [
+                          2,
+                          "2025-11-18T14:32:08.687879"
+                        ],
+                        [
+                          2,
+                          "2025-11-18T14:34:59.443314"
+                        ]
+                      ],
+                      "created_utc": 1763351618.0,
+                      "depth": 4,
+                      "permalink": "/r/technews/comments/1oy2o5u/microsoft_windows_10_kb5068781_esu_update_may/np9goge/",
+                      "is_submitter": false,
+                      "controversiality": 0,
+                      "gilded": 0,
+                      "edited": false,
+                      "deleted": false,
+                      "deleted_at": null,
+                      "replies": []
+                    },
+                    {
+                      "id": "np5o9sb",
+                      "parent_id": "t1_np5l9n0",
+                      "author": "CoastingUphill",
+                      "text_history": [
+                        [
+                          "I also put Bazzite on my PC to play games. Unfortunately some of the games didn’t work perfectly and I went back to windows. I will try it again since I’m sure it’s constantly improving.",
+                          "2025-11-18T14:22:13.811820"
+                        ]
+                      ],
+                      "score_history": [
+                        [
+                          1,
+                          "2025-11-18T14:22:13.811820"
+                        ],
+                        [
+                          1,
+                          "2025-11-18T14:32:08.687879"
+                        ],
+                        [
+                          1,
+                          "2025-11-18T14:34:59.443314"
+                        ]
+                      ],
+                      "created_utc": 1763307024.0,
+                      "depth": 4,
+                      "permalink": "/r/technews/comments/1oy2o5u/microsoft_windows_10_kb5068781_esu_update_may/np5o9sb/",
+                      "is_submitter": false,
+                      "controversiality": 0,
+                      "gilded": 0,
+                      "edited": false,
+                      "deleted": false,
+                      "deleted_at": null,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "np9gk9j",
+      "parent_id": "t3_1oy2o5u",
+      "author": "MrLewGin",
+      "text_history": [
+        [
+          "Fuck Microsoft. Install Linux Mint and then Fedora KDE when you get used to it. Again, fuck Microsoft.",
+          "2025-11-18T14:22:13.811820"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:22:13.811820"
+        ],
+        [
+          1,
+          "2025-11-18T14:32:08.687879"
+        ],
+        [
+          1,
+          "2025-11-18T14:34:59.443314"
+        ]
+      ],
+      "created_utc": 1763351571.0,
+      "depth": 0,
+      "permalink": "/r/technews/comments/1oy2o5u/microsoft_windows_10_kb5068781_esu_update_may/np9gk9j/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npao90s",
+      "parent_id": "t3_1oy2o5u",
+      "author": "TheBrands360",
+      "text_history": [
+        [
+          "Wild that ESU customers are hitting install failures on the *first* paid update. If this is the start, 2026 IT budgets are gonna include aspirin.",
+          "2025-11-18T14:22:13.811820"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:22:13.811820"
+        ],
+        [
+          1,
+          "2025-11-18T14:32:08.687879"
+        ],
+        [
+          1,
+          "2025-11-18T14:34:59.443314"
+        ]
+      ],
+      "created_utc": 1763375621.0,
+      "depth": 0,
+      "permalink": "/r/technews/comments/1oy2o5u/microsoft_windows_10_kb5068781_esu_update_may/npao90s/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-18T14:34:59.443314",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/technews/comments/1oy2o5u/microsoft_windows_10_kb5068781_esu_update_may/",
+    "total_comments": 9,
+    "top_level_comments": 4,
+    "api_requests": 1,
+    "expected_comments": 9,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_142213.json",
+      "scrape_002_20251118_143208.json",
+      "scrape_003_20251118_143459.json"
+    ]
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "post": {
+    "id": "1opwu9n",
+    "title": "We just released a multi-agent framework. Please break it.",
+    "author": "wikkid_lizard",
+    "score_history": [
+      [
+        45,
+        "2025-11-19T02:55:36.675314"
+      ],
+      [
+        45,
+        "2025-11-19T03:03:41.619641"
+      ],
+      [
+        44,
+        "2025-11-19T03:06:52.641646"
+      ]
+    ],
+    "created_utc": 1762429835.0,
+    "num_comments": 2,
+    "subreddit": "AutoGPT",
+    "url": "https://i.redd.it/bb13qnankmzf1.png",
+    "selftext": "Hey folks!\n\nWe just released Laddr, a lightweight multi-agent architecture framework for building AI systems where multiple agents can talk, coordinate, and scale together.\n\nIf you're experimenting with agent workflows, orchestration, automation tools, or just want to play with agent systems, would love for you to check it out.\n\nGitHub: [https://github.com/AgnetLabs/laddr](https://github.com/AgnetLabs/laddr)\n\nDocs: [https://laddr.agnetlabs.com](https://laddr.agnetlabs.com)\n\nQuestions / Feedback: [info@agnetlabs.com](mailto:info@agnetlabs.com)\n\nIt's super fresh, so feel free to break it, fork it, star it, and tell us what sucks or what works.",
+    "permalink": "/r/AutoGPT/comments/1opwu9n/we_just_released_a_multiagent_framework_please/"
+  },
+  "comments": [
+    {
+      "id": "nngbl8o",
+      "parent_id": "t3_1opwu9n",
+      "author": "Haunting_Warning8352",
+      "text_history": [
+        [
+          "How is it better/different than others?",
+          "2025-11-19T02:55:36.675314"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-19T02:55:36.675314"
+        ],
+        [
+          2,
+          "2025-11-19T03:03:41.619641"
+        ],
+        [
+          2,
+          "2025-11-19T03:06:52.641646"
+        ]
+      ],
+      "created_utc": 1762450798.0,
+      "depth": 0,
+      "permalink": "/r/AutoGPT/comments/1opwu9n/we_just_released_a_multiagent_framework_please/nngbl8o/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nnyisfq",
+      "parent_id": "t3_1opwu9n",
+      "author": "Datamance",
+      "text_history": [
+        [
+          "How does this compare to Agno?",
+          "2025-11-19T02:55:36.675314"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-19T02:55:36.675314"
+        ],
+        [
+          2,
+          "2025-11-19T03:03:41.619641"
+        ],
+        [
+          2,
+          "2025-11-19T03:06:52.641646"
+        ]
+      ],
+      "created_utc": 1762708240.0,
+      "depth": 0,
+      "permalink": "/r/AutoGPT/comments/1opwu9n/we_just_released_a_multiagent_framework_please/nnyisfq/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:06:52.641646",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/AutoGPT/comments/1opwu9n/we_just_released_a_multiagent_framework_please/",
+    "total_comments": 2,
+    "top_level_comments": 2,
+    "api_requests": 1,
+    "expected_comments": 2,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_025536.json",
+      "scrape_002_20251119_030341.json",
+      "scrape_003_20251119_030652.json"
+    ]
+  }
+}

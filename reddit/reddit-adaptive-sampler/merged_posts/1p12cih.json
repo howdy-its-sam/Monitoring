@@ -1,0 +1,151 @@
+{
+  "post": {
+    "id": "1p12cih",
+    "title": "Got free passes for a big Vietual GenAI summit (OpenAI, Google, Microsoft, LangChain etc.)",
+    "author": "alimhabidi",
+    "score_history": [
+      [
+        1,
+        "2025-11-19T03:50:47.345587"
+      ],
+      [
+        1,
+        "2025-11-19T03:59:41.639736"
+      ],
+      [
+        1,
+        "2025-11-19T04:01:46.301427"
+      ]
+    ],
+    "created_utc": 1763541847.0,
+    "num_comments": 3,
+    "subreddit": "Rag",
+    "url": "https://www.reddit.com/r/Rag/comments/1p12cih/got_free_passes_for_a_big_vietual_genai_summit/",
+    "selftext": "Hey folks,\n\nJust a heads up, Packt is running a pretty stacked virtual GenAI summit called GenAI Nexus 2025 on Nov 20–21, and it actually looks legit. It’s two full days of sessions focused on things people here actually care about:\n\n• Building and deploying real AI agents • RAG, A2A, context engineering, and other practical workflows • Live workshops, deep-dives, and case studies (not fluffy keynote stuff)\n\nSpeakers include people like Harrison Chase, Chip Huyen, Prof. Tom Yeh, Dr. Ali Arsanjani, plus a bunch more folks doing actual hands-on work in AI from OpenAI, Google, Microsoft, LangChain, etc.\n\nIf you’re into LLMs, agents, or just want to see how teams are actually shipping GenAI systems in the wild, this looks worth checking out.\n\nI’ve got a small batch of free passes I can share with this community. If you want to attend, simply fill the registration and you’ll be sent the virtual summit link to join.\n\nLink for registration in comment!\n\nLet’s build cool stuff together. 🚀",
+    "permalink": "/r/Rag/comments/1p12cih/got_free_passes_for_a_big_vietual_genai_summit/"
+  },
+  "comments": [
+    {
+      "id": "npn1s5h",
+      "parent_id": "t3_1p12cih",
+      "author": "alimhabidi",
+      "text_history": [
+        [
+          "Register and join for free: https://luma.com/vuuzsi0o",
+          "2025-11-19T03:50:47.345587"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T03:50:47.345587"
+        ],
+        [
+          1,
+          "2025-11-19T03:59:41.639736"
+        ],
+        [
+          1,
+          "2025-11-19T04:01:46.301427"
+        ]
+      ],
+      "created_utc": 1763541865.0,
+      "depth": 0,
+      "permalink": "/r/Rag/comments/1p12cih/got_free_passes_for_a_big_vietual_genai_summit/npn1s5h/",
+      "is_submitter": true,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npn8gnk",
+      "parent_id": "t3_1p12cih",
+      "author": "Status-Minute-532",
+      "text_history": [
+        [
+          "Is there any recording or like notes, etc, available after this is over? The timings are not favorable for me",
+          "2025-11-19T03:50:47.345587"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T03:50:47.345587"
+        ],
+        [
+          1,
+          "2025-11-19T03:59:41.639736"
+        ],
+        [
+          1,
+          "2025-11-19T04:01:46.301427"
+        ]
+      ],
+      "created_utc": 1763546075.0,
+      "depth": 0,
+      "permalink": "/r/Rag/comments/1p12cih/got_free_passes_for_a_big_vietual_genai_summit/npn8gnk/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npn9ds6",
+          "parent_id": "t1_npn8gnk",
+          "author": "alimhabidi",
+          "text_history": [
+            [
+              "Yes, if you are registered for it, you’ll be able to watch re-runs or session recordings.",
+              "2025-11-19T03:50:47.345587"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-19T03:50:47.345587"
+            ],
+            [
+              1,
+              "2025-11-19T03:59:41.639736"
+            ],
+            [
+              1,
+              "2025-11-19T04:01:46.301427"
+            ]
+          ],
+          "created_utc": 1763546637.0,
+          "depth": 1,
+          "permalink": "/r/Rag/comments/1p12cih/got_free_passes_for_a_big_vietual_genai_summit/npn9ds6/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T04:01:46.301427",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/Rag/comments/1p12cih/got_free_passes_for_a_big_vietual_genai_summit/",
+    "total_comments": 3,
+    "top_level_comments": 2,
+    "api_requests": 1,
+    "expected_comments": 3,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_035047.json",
+      "scrape_002_20251119_035941.json",
+      "scrape_003_20251119_040146.json"
+    ]
+  }
+}

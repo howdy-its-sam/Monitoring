@@ -1,0 +1,49 @@
+{
+  "post": {
+    "id": "1p0cnug",
+    "title": "I can't find a self hosted service that parses pdfs to create rag evaluation sets",
+    "author": "goldlord44",
+    "score_history": [
+      [
+        1,
+        "2025-11-18T15:15:05.697842"
+      ],
+      [
+        1,
+        "2025-11-18T15:18:36.178569"
+      ],
+      [
+        2,
+        "2025-11-18T22:53:15.276228"
+      ],
+      [
+        2,
+        "2025-11-19T00:47:47.685039"
+      ]
+    ],
+    "created_utc": 1763474375.0,
+    "num_comments": 0,
+    "subreddit": "Rag",
+    "url": "https://www.reddit.com/r/Rag/comments/1p0cnug/i_cant_find_a_self_hosted_service_that_parses/",
+    "selftext": "Hi there, \nI have been trying my best to find a self hosted service that will let me utilise my test rich pdfs (which I have already parsed into markdown) to create RAG eval sets as well as fine tuning.\n\nI like to run my models and services locally if possible, and tend to just use qwen3 30B A3B, as well as the qwen embedders and rerankers.\n\nI was hoping to use a technique similar to the Qwen3 embedding paper technique where different roles are defined to generate the synthetic data, with inspiration from the pdfs as they read them, and then I can use this to evaluate my RAG and fine tune smaller models.\n\nWould anyone be able to help point me in the right direction?",
+    "permalink": "/r/Rag/comments/1p0cnug/i_cant_find_a_self_hosted_service_that_parses/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T00:47:47.685039",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/Rag/comments/1p0cnug/i_cant_find_a_self_hosted_service_that_parses/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 4,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_151505.json",
+      "scrape_002_20251118_151835.json",
+      "scrape_003_20251118_225315.json",
+      "scrape_004_20251119_004747.json"
+    ]
+  }
+}

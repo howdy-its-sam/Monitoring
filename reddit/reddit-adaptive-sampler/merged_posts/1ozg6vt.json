@@ -1,0 +1,578 @@
+{
+  "post": {
+    "id": "1ozg6vt",
+    "title": "Onshape or autodesk?",
+    "author": "Overall-Importance54",
+    "score_history": [
+      [
+        5,
+        "2025-11-19T02:57:30.958694"
+      ],
+      [
+        5,
+        "2025-11-19T03:05:46.168429"
+      ],
+      [
+        5,
+        "2025-11-19T03:08:50.746603"
+      ]
+    ],
+    "created_utc": 1763385894.0,
+    "num_comments": 15,
+    "subreddit": "robotics",
+    "url": "https://www.reddit.com/r/robotics/comments/1ozg6vt/onshape_or_autodesk/",
+    "selftext": "Hi! I am about to lock in and learn the 3D cad stuff I need to bring my ideas to life, but I don’t know which software is best to learn first - Onshape or Autodesk. Can anyone give me any insight into which would be best to start with? I want to be able to design parts and whole robot designs as a digital twin so I can do the evolutionary training in sim.",
+    "permalink": "/r/robotics/comments/1ozg6vt/onshape_or_autodesk/"
+  },
+  "comments": [
+    {
+      "id": "npc18v6",
+      "parent_id": "t3_1ozg6vt",
+      "author": "Ok_Cress_56",
+      "text_history": [
+        [
+          "I started with FreeCAD, then used Fusion 360 at work, and then recently switched to OnShape.\n\nI have to be honest, so far OnShape is not wowing me. The browser interface IMHO is clumsy, much less powerful than the Fusion360 application.\n\nAlso tried FreeCAD once more, but as much as it saddens me, it's just really bad in comparison to the others.",
+          "2025-11-19T02:57:30.958694"
+        ]
+      ],
+      "score_history": [
+        [
+          5,
+          "2025-11-19T02:57:30.958694"
+        ],
+        [
+          5,
+          "2025-11-19T03:05:46.168429"
+        ],
+        [
+          5,
+          "2025-11-19T03:08:50.746603"
+        ]
+      ],
+      "created_utc": 1763395041.0,
+      "depth": 0,
+      "permalink": "/r/robotics/comments/1ozg6vt/onshape_or_autodesk/npc18v6/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npcou74",
+          "parent_id": "t1_npc18v6",
+          "author": "FrontierElectric",
+          "text_history": [
+            [
+              "FreeCAD is very rough in comparison.  There are just quite a few nice quality of life features that make working in something like Solidworks or Inventor a breeze in comparison.",
+              "2025-11-19T02:57:30.958694"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-19T02:57:30.958694"
+            ],
+            [
+              1,
+              "2025-11-19T03:05:46.168429"
+            ],
+            [
+              1,
+              "2025-11-19T03:08:50.746603"
+            ]
+          ],
+          "created_utc": 1763402003.0,
+          "depth": 1,
+          "permalink": "/r/robotics/comments/1ozg6vt/onshape_or_autodesk/npcou74/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npd1xy2",
+              "parent_id": "t1_npcou74",
+              "author": "Ok_Cress_56",
+              "text_history": [
+                [
+                  "I think CAD software is just really complicated, and to make things smooth and seamless, you need paid software engineers to work the long hours to make that work. I totally appreciate what FreeCAD is trying to do, but it's probably out of reach to create a software that can compete with the \"free\" professional ones.",
+                  "2025-11-19T02:57:30.958694"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-19T02:57:30.958694"
+                ],
+                [
+                  1,
+                  "2025-11-19T03:05:46.168429"
+                ],
+                [
+                  1,
+                  "2025-11-19T03:08:50.746603"
+                ]
+              ],
+              "created_utc": 1763405766.0,
+              "depth": 2,
+              "permalink": "/r/robotics/comments/1ozg6vt/onshape_or_autodesk/npd1xy2/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": [
+                {
+                  "id": "npd38nv",
+                  "parent_id": "t1_npd1xy2",
+                  "author": "FrontierElectric",
+                  "text_history": [
+                    [
+                      "I completely agree with you.  Having access to Inventor has just made my time using CAD more efficient.  If I did not have access, I would be still using FreeCAD.\n\nI definitely appreciate what FreeCAD is trying to do.  I just don't have the skills to help support the project further.",
+                      "2025-11-19T02:57:30.958694"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      1,
+                      "2025-11-19T02:57:30.958694"
+                    ],
+                    [
+                      1,
+                      "2025-11-19T03:05:46.168429"
+                    ],
+                    [
+                      1,
+                      "2025-11-19T03:08:50.746603"
+                    ]
+                  ],
+                  "created_utc": 1763406146.0,
+                  "depth": 3,
+                  "permalink": "/r/robotics/comments/1ozg6vt/onshape_or_autodesk/npd38nv/",
+                  "is_submitter": false,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "npbasm9",
+      "parent_id": "t3_1ozg6vt",
+      "author": "vladseremet",
+      "text_history": [
+        [
+          "Solidworks for Makers",
+          "2025-11-19T02:57:30.958694"
+        ]
+      ],
+      "score_history": [
+        [
+          5,
+          "2025-11-19T02:57:30.958694"
+        ],
+        [
+          5,
+          "2025-11-19T03:05:46.168429"
+        ],
+        [
+          6,
+          "2025-11-19T03:08:50.746603"
+        ]
+      ],
+      "created_utc": 1763386380.0,
+      "depth": 0,
+      "permalink": "/r/robotics/comments/1ozg6vt/onshape_or_autodesk/npbasm9/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npcvgq1",
+          "parent_id": "t1_npbasm9",
+          "author": "rantenki",
+          "text_history": [
+            [
+              "So much this\\^.\n\nFusion360 is just terrible for assemblies (convince me I'm wrong), and the design history isn't as robust as Solidworks ability to rebuild from a modification to an initial design choice.\n\nOnshape is good, and I know people that have success with it, but it feels klugy to me compared to a local application like Solidworks (Maker does require an internet connection, but once it's running, all the real work happens locally).\n\nThe only issue with SW Maker is that their web platform is hot garbage, but you don't use it day-day, so it doesn't matter that much.",
+              "2025-11-19T02:57:30.958694"
+            ]
+          ],
+          "score_history": [
+            [
+              2,
+              "2025-11-19T02:57:30.958694"
+            ],
+            [
+              2,
+              "2025-11-19T03:05:46.168429"
+            ],
+            [
+              2,
+              "2025-11-19T03:08:50.746603"
+            ]
+          ],
+          "created_utc": 1763403891.0,
+          "depth": 1,
+          "permalink": "/r/robotics/comments/1ozg6vt/onshape_or_autodesk/npcvgq1/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npcwxn9",
+              "parent_id": "t1_npcvgq1",
+              "author": "Overall-Importance54",
+              "text_history": [
+                [
+                  "Thank you!",
+                  "2025-11-19T02:57:30.958694"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-19T02:57:30.958694"
+                ],
+                [
+                  1,
+                  "2025-11-19T03:05:46.168429"
+                ],
+                [
+                  1,
+                  "2025-11-19T03:08:50.746603"
+                ]
+              ],
+              "created_utc": 1763404315.0,
+              "depth": 2,
+              "permalink": "/r/robotics/comments/1ozg6vt/onshape_or_autodesk/npcwxn9/",
+              "is_submitter": true,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "npbdmdz",
+      "parent_id": "t3_1ozg6vt",
+      "author": "kareem_pt",
+      "text_history": [
+        [
+          "Onshape with ProtoTwin makes it really easy to go from CAD to simulation to reinforcement learning. Check this [video](https://youtu.be/PJqRSXoU_Wo?si=eqSOuFPU4M1lKa5L) for a quick overview.",
+          "2025-11-19T02:57:30.958694"
+        ]
+      ],
+      "score_history": [
+        [
+          4,
+          "2025-11-19T02:57:30.958694"
+        ],
+        [
+          4,
+          "2025-11-19T03:05:46.168429"
+        ],
+        [
+          5,
+          "2025-11-19T03:08:50.746603"
+        ]
+      ],
+      "created_utc": 1763387392.0,
+      "depth": 0,
+      "permalink": "/r/robotics/comments/1ozg6vt/onshape_or_autodesk/npbdmdz/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npc5vko",
+      "parent_id": "t3_1ozg6vt",
+      "author": "Overall-Importance54",
+      "text_history": [
+        [
+          "Y’all, this is interesting, in that there seems to be little consensus. Solidworks, freeCAD, Fusion 360, Onshape. Would anyone say the skills translate 95% or is it a lot of relearning to go from one to the other?",
+          "2025-11-19T02:57:30.958694"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:57:30.958694"
+        ],
+        [
+          1,
+          "2025-11-19T03:05:46.168429"
+        ],
+        [
+          1,
+          "2025-11-19T03:08:50.746603"
+        ]
+      ],
+      "created_utc": 1763396413.0,
+      "depth": 0,
+      "permalink": "/r/robotics/comments/1ozg6vt/onshape_or_autodesk/npc5vko/",
+      "is_submitter": true,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npdklzw",
+          "parent_id": "t1_npc5vko",
+          "author": "autobreathingOFF",
+          "text_history": [
+            [
+              "General geometry skills and design thinking will make it easier to shift, but the specific approach for each is different enough that switching can be frustrating.. I’ve found Solidworks the most intuitive for solid modelling and assemblies. Just wish it had an easier way to design gears built-in like some other packages",
+              "2025-11-19T02:57:30.958694"
+            ]
+          ],
+          "score_history": [
+            [
+              2,
+              "2025-11-19T02:57:30.958694"
+            ],
+            [
+              2,
+              "2025-11-19T03:05:46.168429"
+            ],
+            [
+              2,
+              "2025-11-19T03:08:50.746603"
+            ]
+          ],
+          "created_utc": 1763411374.0,
+          "depth": 1,
+          "permalink": "/r/robotics/comments/1ozg6vt/onshape_or_autodesk/npdklzw/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npg38ou",
+              "parent_id": "t1_npdklzw",
+              "author": "ButtcrackBeignets",
+              "text_history": [
+                [
+                  "Yea, I'm pretty sure I learned more about gears struggling through my first project on Solidworks than I did from any of my university classes.",
+                  "2025-11-19T02:57:30.958694"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-19T02:57:30.958694"
+                ],
+                [
+                  1,
+                  "2025-11-19T03:05:46.168429"
+                ],
+                [
+                  1,
+                  "2025-11-19T03:08:50.746603"
+                ]
+              ],
+              "created_utc": 1763443436.0,
+              "depth": 2,
+              "permalink": "/r/robotics/comments/1ozg6vt/onshape_or_autodesk/npg38ou/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "npdfra4",
+      "parent_id": "t3_1ozg6vt",
+      "author": "theungod",
+      "text_history": [
+        [
+          "Catia is more complicated but it's used pretty heavily in robotics",
+          "2025-11-19T02:57:30.958694"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:57:30.958694"
+        ],
+        [
+          1,
+          "2025-11-19T03:05:46.168429"
+        ],
+        [
+          1,
+          "2025-11-19T03:08:50.746603"
+        ]
+      ],
+      "created_utc": 1763409898.0,
+      "depth": 0,
+      "permalink": "/r/robotics/comments/1ozg6vt/onshape_or_autodesk/npdfra4/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npbpee1",
+      "parent_id": "t3_1ozg6vt",
+      "author": "zQsoo",
+      "text_history": [
+        [
+          "Onshape.",
+          "2025-11-19T02:57:30.958694"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:57:30.958694"
+        ],
+        [
+          1,
+          "2025-11-19T03:05:46.168429"
+        ],
+        [
+          1,
+          "2025-11-19T03:08:50.746603"
+        ]
+      ],
+      "created_utc": 1763391407.0,
+      "depth": 0,
+      "permalink": "/r/robotics/comments/1ozg6vt/onshape_or_autodesk/npbpee1/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npha6rz",
+      "parent_id": "t3_1ozg6vt",
+      "author": "CrazyDude2025",
+      "text_history": [
+        [
+          "I am still waiting for the AI LLM’s integration into the CAD. I basically want to talk about something and interactively draw what I am sawing in near realtime.  Are there any sites that have this going yet?",
+          "2025-11-19T02:57:30.958694"
+        ]
+      ],
+      "score_history": [
+        [
+          0,
+          "2025-11-19T02:57:30.958694"
+        ],
+        [
+          0,
+          "2025-11-19T03:05:46.168429"
+        ],
+        [
+          0,
+          "2025-11-19T03:08:50.746603"
+        ]
+      ],
+      "created_utc": 1763467877.0,
+      "depth": 0,
+      "permalink": "/r/robotics/comments/1ozg6vt/onshape_or_autodesk/npha6rz/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npjrjlf",
+          "parent_id": "t1_npha6rz",
+          "author": "Overall-Importance54",
+          "text_history": [
+            [
+              "If you build it, they will come",
+              "2025-11-19T02:57:30.958694"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-19T02:57:30.958694"
+            ],
+            [
+              1,
+              "2025-11-19T03:05:46.168429"
+            ],
+            [
+              1,
+              "2025-11-19T03:08:50.746603"
+            ]
+          ],
+          "created_utc": 1763495753.0,
+          "depth": 1,
+          "permalink": "/r/robotics/comments/1ozg6vt/onshape_or_autodesk/npjrjlf/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:08:50.746603",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/robotics/comments/1ozg6vt/onshape_or_autodesk/",
+    "total_comments": 15,
+    "top_level_comments": 7,
+    "api_requests": 1,
+    "expected_comments": 15,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_025730.json",
+      "scrape_002_20251119_030545.json",
+      "scrape_003_20251119_030850.json"
+    ]
+  }
+}

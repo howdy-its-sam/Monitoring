@@ -1,0 +1,345 @@
+{
+  "post": {
+    "id": "1p091p1",
+    "title": "Best AI/LLM for pdf creation",
+    "author": "Sad-Chemistry5643",
+    "score_history": [
+      [
+        3,
+        "2025-11-18T12:51:39.120501"
+      ],
+      [
+        3,
+        "2025-11-18T13:03:59.466859"
+      ],
+      [
+        3,
+        "2025-11-18T13:15:45.823020"
+      ],
+      [
+        3,
+        "2025-11-18T13:48:14.362036"
+      ],
+      [
+        3,
+        "2025-11-18T13:59:27.555354"
+      ],
+      [
+        3,
+        "2025-11-18T14:10:43.164131"
+      ]
+    ],
+    "created_utc": 1763463722.0,
+    "num_comments": 6,
+    "subreddit": "AgentsOfAI",
+    "url": "https://www.reddit.com/r/AgentsOfAI/comments/1p091p1/best_aillm_for_pdf_creation/",
+    "selftext": "Hey. What’s the best option when I want to create PDF files? I need some AI help to create nice looking docs for marketing, small ebooks, etc. \nI tried with Claude but the result is not perfect. Maybe there is something dedicated already?\nThanks 😊 ",
+    "permalink": "/r/AgentsOfAI/comments/1p091p1/best_aillm_for_pdf_creation/"
+  },
+  "comments": [
+    {
+      "id": "nphh4kf",
+      "parent_id": "t3_1p091p1",
+      "author": "Far_Plant9504",
+      "text_history": [
+        [
+          "What do u exactly want?\nPaste your document/pictures/raw files and turn that into a pdf? Chatgpt can help with the word file about pdf I too am in search of..",
+          "2025-11-18T12:51:39.120501"
+        ]
+      ],
+      "score_history": [
+        [
+          3,
+          "2025-11-18T12:51:39.120501"
+        ],
+        [
+          3,
+          "2025-11-18T13:03:59.466859"
+        ],
+        [
+          3,
+          "2025-11-18T13:15:45.823020"
+        ],
+        [
+          3,
+          "2025-11-18T13:48:14.362036"
+        ],
+        [
+          3,
+          "2025-11-18T13:59:27.555354"
+        ],
+        [
+          3,
+          "2025-11-18T14:10:43.164131"
+        ]
+      ],
+      "created_utc": 1763470751.0,
+      "depth": 0,
+      "permalink": "/r/AgentsOfAI/comments/1p091p1/best_aillm_for_pdf_creation/nphh4kf/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npi6gzd",
+          "parent_id": "t1_nphh4kf",
+          "author": "Sad-Chemistry5643",
+          "text_history": [
+            [
+              "for now, I am checking with Claude and Gemini. Still seeing some problems with layout, punctuation, formatting, colours, etc :/   \nI tried with Google Colab and the Python script suggested by Gemini, it looks promising, but still not there :/",
+              "2025-11-18T12:51:39.120501"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T12:51:39.120501"
+            ],
+            [
+              1,
+              "2025-11-18T13:03:59.466859"
+            ],
+            [
+              1,
+              "2025-11-18T13:15:45.823020"
+            ],
+            [
+              1,
+              "2025-11-18T13:48:14.362036"
+            ],
+            [
+              1,
+              "2025-11-18T13:59:27.555354"
+            ],
+            [
+              1,
+              "2025-11-18T14:10:43.164131"
+            ]
+          ],
+          "created_utc": 1763479008.0,
+          "depth": 1,
+          "permalink": "/r/AgentsOfAI/comments/1p091p1/best_aillm_for_pdf_creation/npi6gzd/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npi3qek",
+      "parent_id": "t3_1p091p1",
+      "author": "apinference",
+      "text_history": [
+        [
+          "Did you share the template with llm? Is it editable?",
+          "2025-11-18T12:51:39.120501"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-18T12:51:39.120501"
+        ],
+        [
+          2,
+          "2025-11-18T13:03:59.466859"
+        ],
+        [
+          2,
+          "2025-11-18T13:15:45.823020"
+        ],
+        [
+          2,
+          "2025-11-18T13:48:14.362036"
+        ],
+        [
+          2,
+          "2025-11-18T13:59:27.555354"
+        ],
+        [
+          2,
+          "2025-11-18T14:10:43.164131"
+        ]
+      ],
+      "created_utc": 1763478156.0,
+      "depth": 0,
+      "permalink": "/r/AgentsOfAI/comments/1p091p1/best_aillm_for_pdf_creation/npi3qek/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npi663l",
+          "parent_id": "t1_npi3qek",
+          "author": "Sad-Chemistry5643",
+          "text_history": [
+            [
+              "I shared full text + detailed info about formatting. I need to add some pictures to it, and this is one problem - the layout is not perfect :/   \nanother thing is the font. Gemini suggested using Python and Colab to create a PDF. But there was an issue with Polish fonts. I think this is now fixed.  \nSo I am still spotting problems like: half page empty, improper layout or styling, colours, etc.",
+              "2025-11-18T12:51:39.120501"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T12:51:39.120501"
+            ],
+            [
+              1,
+              "2025-11-18T13:03:59.466859"
+            ],
+            [
+              1,
+              "2025-11-18T13:15:45.823020"
+            ],
+            [
+              1,
+              "2025-11-18T13:48:14.362036"
+            ],
+            [
+              1,
+              "2025-11-18T13:59:27.555354"
+            ],
+            [
+              1,
+              "2025-11-18T14:10:43.164131"
+            ]
+          ],
+          "created_utc": 1763478916.0,
+          "depth": 1,
+          "permalink": "/r/AgentsOfAI/comments/1p091p1/best_aillm_for_pdf_creation/npi663l/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npiyda0",
+              "parent_id": "t1_npi663l",
+              "author": "apinference",
+              "text_history": [
+                [
+                  "I guess you might need something more specialised.\n\nGlorious ChatGPT gave me only a very basic presentation (as a tes) it didn’t even get the colours right.",
+                  "2025-11-18T12:51:39.120501"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-18T12:51:39.120501"
+                ],
+                [
+                  1,
+                  "2025-11-18T13:03:59.466859"
+                ],
+                [
+                  1,
+                  "2025-11-18T13:15:45.823020"
+                ],
+                [
+                  1,
+                  "2025-11-18T13:48:14.362036"
+                ],
+                [
+                  1,
+                  "2025-11-18T13:59:27.555354"
+                ],
+                [
+                  1,
+                  "2025-11-18T14:10:43.164131"
+                ]
+              ],
+              "created_utc": 1763487222.0,
+              "depth": 2,
+              "permalink": "/r/AgentsOfAI/comments/1p091p1/best_aillm_for_pdf_creation/npiyda0/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "npiciio",
+      "parent_id": "t3_1p091p1",
+      "author": "Emergency-Coffee8174",
+      "text_history": [
+        [
+          "You can try UPDF’s AI tools[UPDF's ai tool](https://updf.com/updf-sales-promotion/?utm_source=Reddit-TessyL-2511-joy&amp;utm_medium=en&amp;utm_campaign=joy202511&amp;packageKey=overseapromotion), they’re decent for creating clean marketing PDFs and mini ebooks...it handled layouts better than most LLMs I’ve tried",
+          "2025-11-18T12:51:39.120501"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-18T12:51:39.120501"
+        ],
+        [
+          2,
+          "2025-11-18T13:03:59.466859"
+        ],
+        [
+          2,
+          "2025-11-18T13:15:45.823020"
+        ],
+        [
+          2,
+          "2025-11-18T13:48:14.362036"
+        ],
+        [
+          2,
+          "2025-11-18T13:59:27.555354"
+        ],
+        [
+          2,
+          "2025-11-18T14:10:43.164131"
+        ]
+      ],
+      "created_utc": 1763480819.0,
+      "depth": 0,
+      "permalink": "/r/AgentsOfAI/comments/1p091p1/best_aillm_for_pdf_creation/npiciio/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-18T14:10:43.164131",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/AgentsOfAI/comments/1p091p1/best_aillm_for_pdf_creation/",
+    "total_comments": 6,
+    "top_level_comments": 3,
+    "api_requests": 1,
+    "expected_comments": 6,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 6,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_125138.json",
+      "scrape_002_20251118_130359.json",
+      "scrape_003_20251118_131545.json",
+      "scrape_004_20251118_134814.json",
+      "scrape_005_20251118_135927.json",
+      "scrape_006_20251118_141042.json"
+    ]
+  }
+}

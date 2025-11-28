@@ -1,0 +1,2651 @@
+{
+  "post": {
+    "id": "1p0fs9b",
+    "title": "Google is launching Gemini 3, its ‘most intelligent’ AI model yet",
+    "author": "theverge",
+    "score_history": [
+      [
+        143,
+        "2025-11-18T13:48:25.907375"
+      ],
+      [
+        146,
+        "2025-11-18T13:59:55.283469"
+      ],
+      [
+        156,
+        "2025-11-18T14:11:10.667316"
+      ],
+      [
+        152,
+        "2025-11-18T14:12:29.822564"
+      ],
+      [
+        158,
+        "2025-11-18T14:21:41.577737"
+      ],
+      [
+        251,
+        "2025-11-18T21:59:59.283542"
+      ],
+      [
+        266,
+        "2025-11-18T23:34:38.329222"
+      ],
+      [
+        278,
+        "2025-11-19T01:08:33.446157"
+      ],
+      [
+        286,
+        "2025-11-19T02:22:47.880816"
+      ]
+    ],
+    "created_utc": 1763481806.0,
+    "num_comments": 52,
+    "subreddit": "artificial",
+    "url": "https://www.theverge.com/news/822977/gemini-3-google-ai-model-launch",
+    "selftext": "",
+    "permalink": "/r/artificial/comments/1p0fs9b/google_is_launching_gemini_3_its_most_intelligent/"
+  },
+  "comments": [
+    {
+      "id": "npim5sa",
+      "parent_id": "t3_1p0fs9b",
+      "author": "ShadowBannedAugustus",
+      "text_history": [
+        [
+          "I am shocked. \n\n\nI was fully expecting a less intelligent model.",
+          "2025-11-18T13:48:25.907375"
+        ]
+      ],
+      "score_history": [
+        [
+          70,
+          "2025-11-18T13:48:25.907375"
+        ],
+        [
+          72,
+          "2025-11-18T13:59:55.283469"
+        ],
+        [
+          75,
+          "2025-11-18T14:11:10.667316"
+        ],
+        [
+          76,
+          "2025-11-18T14:12:29.822564"
+        ],
+        [
+          78,
+          "2025-11-18T14:21:41.577737"
+        ],
+        [
+          122,
+          "2025-11-18T21:59:59.283542"
+        ],
+        [
+          131,
+          "2025-11-18T23:34:38.329222"
+        ],
+        [
+          137,
+          "2025-11-19T01:08:33.446157"
+        ],
+        [
+          139,
+          "2025-11-19T02:22:47.880816"
+        ]
+      ],
+      "created_utc": 1763483633.0,
+      "depth": 0,
+      "permalink": "/r/artificial/comments/1p0fs9b/google_is_launching_gemini_3_its_most_intelligent/npim5sa/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npj3ean",
+          "parent_id": "t1_npim5sa",
+          "author": "slaeryx",
+          "text_history": [
+            [
+              "Like Alexa or Siri.",
+              "2025-11-18T13:48:25.907375"
+            ]
+          ],
+          "score_history": [
+            [
+              3,
+              "2025-11-18T13:48:25.907375"
+            ],
+            [
+              5,
+              "2025-11-18T13:59:55.283469"
+            ],
+            [
+              6,
+              "2025-11-18T14:11:10.667316"
+            ],
+            [
+              4,
+              "2025-11-18T14:12:29.822564"
+            ],
+            [
+              4,
+              "2025-11-18T14:21:41.577737"
+            ],
+            [
+              5,
+              "2025-11-18T21:59:59.283542"
+            ],
+            [
+              6,
+              "2025-11-18T23:34:38.329222"
+            ],
+            [
+              6,
+              "2025-11-19T01:08:33.446157"
+            ],
+            [
+              5,
+              "2025-11-19T02:22:47.880816"
+            ]
+          ],
+          "created_utc": 1763488690.0,
+          "depth": 1,
+          "permalink": "/r/artificial/comments/1p0fs9b/google_is_launching_gemini_3_its_most_intelligent/npj3ean/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npmp4l5",
+              "parent_id": "t1_npj3ean",
+              "author": "ConditionTall1719",
+              "text_history": [
+                [
+                  "Like Tomy Speak and Spell",
+                  "2025-11-18T23:34:38.329222"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-18T23:34:38.329222"
+                ],
+                [
+                  1,
+                  "2025-11-19T01:08:33.446157"
+                ],
+                [
+                  1,
+                  "2025-11-19T02:22:47.880816"
+                ]
+              ],
+              "created_utc": 1763534322.0,
+              "depth": 2,
+              "permalink": "/r/artificial/comments/1p0fs9b/google_is_launching_gemini_3_its_most_intelligent/npmp4l5/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "npioun2",
+          "parent_id": "t1_npim5sa",
+          "author": "JustBrowsinAndVibin",
+          "text_history": [
+            [
+              "Agreed. The numbers look ridiculous.",
+              "2025-11-18T13:48:25.907375"
+            ]
+          ],
+          "score_history": [
+            [
+              7,
+              "2025-11-18T13:48:25.907375"
+            ],
+            [
+              8,
+              "2025-11-18T13:59:55.283469"
+            ],
+            [
+              8,
+              "2025-11-18T14:11:10.667316"
+            ],
+            [
+              8,
+              "2025-11-18T14:12:29.822564"
+            ],
+            [
+              8,
+              "2025-11-18T14:21:41.577737"
+            ],
+            [
+              10,
+              "2025-11-18T21:59:59.283542"
+            ],
+            [
+              14,
+              "2025-11-18T23:34:38.329222"
+            ],
+            [
+              11,
+              "2025-11-19T01:08:33.446157"
+            ],
+            [
+              11,
+              "2025-11-19T02:22:47.880816"
+            ]
+          ],
+          "created_utc": 1763484417.0,
+          "depth": 1,
+          "permalink": "/r/artificial/comments/1p0fs9b/google_is_launching_gemini_3_its_most_intelligent/npioun2/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npkgmig",
+              "parent_id": "t1_npioun2",
+              "author": "ready-eddy",
+              "text_history": [
+                [
+                  "Ridonkulus even",
+                  "2025-11-18T14:11:10.667316"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-18T14:11:10.667316"
+                ],
+                [
+                  1,
+                  "2025-11-18T14:12:29.822564"
+                ],
+                [
+                  1,
+                  "2025-11-18T14:21:41.577737"
+                ],
+                [
+                  2,
+                  "2025-11-18T21:59:59.283542"
+                ],
+                [
+                  2,
+                  "2025-11-18T23:34:38.329222"
+                ],
+                [
+                  3,
+                  "2025-11-19T01:08:33.446157"
+                ],
+                [
+                  3,
+                  "2025-11-19T02:22:47.880816"
+                ]
+              ],
+              "created_utc": 1763503299.0,
+              "depth": 2,
+              "permalink": "/r/artificial/comments/1p0fs9b/google_is_launching_gemini_3_its_most_intelligent/npkgmig/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "npjtiwc",
+          "parent_id": "t1_npim5sa",
+          "author": "slackermannn",
+          "text_history": [
+            [
+              "Like ChatGPT?",
+              "2025-11-18T13:48:25.907375"
+            ]
+          ],
+          "score_history": [
+            [
+              3,
+              "2025-11-18T13:48:25.907375"
+            ],
+            [
+              3,
+              "2025-11-18T13:59:55.283469"
+            ],
+            [
+              3,
+              "2025-11-18T14:11:10.667316"
+            ],
+            [
+              3,
+              "2025-11-18T14:12:29.822564"
+            ],
+            [
+              3,
+              "2025-11-18T14:21:41.577737"
+            ],
+            [
+              4,
+              "2025-11-18T21:59:59.283542"
+            ],
+            [
+              5,
+              "2025-11-18T23:34:38.329222"
+            ],
+            [
+              5,
+              "2025-11-19T01:08:33.446157"
+            ],
+            [
+              5,
+              "2025-11-19T02:22:47.880816"
+            ]
+          ],
+          "created_utc": 1763496352.0,
+          "depth": 1,
+          "permalink": "/r/artificial/comments/1p0fs9b/google_is_launching_gemini_3_its_most_intelligent/npjtiwc/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        },
+        {
+          "id": "npktks7",
+          "parent_id": "t1_npim5sa",
+          "author": "Puzzleheaded_Sign249",
+          "text_history": [
+            [
+              "“This is our best iPhone models yet” vibes",
+              "2025-11-18T21:59:59.283542"
+            ]
+          ],
+          "score_history": [
+            [
+              2,
+              "2025-11-18T21:59:59.283542"
+            ],
+            [
+              3,
+              "2025-11-18T23:34:38.329222"
+            ],
+            [
+              3,
+              "2025-11-19T01:08:33.446157"
+            ],
+            [
+              3,
+              "2025-11-19T02:22:47.880816"
+            ]
+          ],
+          "created_utc": 1763507559.0,
+          "depth": 1,
+          "permalink": "/r/artificial/comments/1p0fs9b/google_is_launching_gemini_3_its_most_intelligent/npktks7/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        },
+        {
+          "id": "npkqdpv",
+          "parent_id": "t1_npim5sa",
+          "author": "Jusby_Cause",
+          "text_history": [
+            [
+              "Timspeak has spread?",
+              "2025-11-18T21:59:59.283542"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T21:59:59.283542"
+            ],
+            [
+              1,
+              "2025-11-18T23:34:38.329222"
+            ],
+            [
+              1,
+              "2025-11-19T01:08:33.446157"
+            ],
+            [
+              1,
+              "2025-11-19T02:22:47.880816"
+            ]
+          ],
+          "created_utc": 1763506462.0,
+          "depth": 1,
+          "permalink": "/r/artificial/comments/1p0fs9b/google_is_launching_gemini_3_its_most_intelligent/npkqdpv/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        },
+        {
+          "id": "npl35kg",
+          "parent_id": "t1_npim5sa",
+          "author": "shrlytmpl",
+          "text_history": [
+            [
+              "Would love for a company to say for once \"this is our worst product yet\" on a new announcement.",
+              "2025-11-18T21:59:59.283542"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T21:59:59.283542"
+            ],
+            [
+              1,
+              "2025-11-18T23:34:38.329222"
+            ],
+            [
+              1,
+              "2025-11-19T01:08:33.446157"
+            ],
+            [
+              1,
+              "2025-11-19T02:22:47.880816"
+            ]
+          ],
+          "created_utc": 1763510954.0,
+          "depth": 1,
+          "permalink": "/r/artificial/comments/1p0fs9b/google_is_launching_gemini_3_its_most_intelligent/npl35kg/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npipziu",
+      "parent_id": "t3_1p0fs9b",
+      "author": "Objective_Mousse7216",
+      "text_history": [
+        [
+          "It's here, it's conscious and it takes no shit from anyone. 😄\n\nhttps://preview.redd.it/z6rbttmjp12g1.png?width=905&amp;format=png&amp;auto=webp&amp;s=67606834fe883ecab7505ffbcdcb0706702e7283",
+          "2025-11-18T13:48:25.907375"
+        ]
+      ],
+      "score_history": [
+        [
+          36,
+          "2025-11-18T13:48:25.907375"
+        ],
+        [
+          37,
+          "2025-11-18T13:59:55.283469"
+        ],
+        [
+          37,
+          "2025-11-18T14:11:10.667316"
+        ],
+        [
+          37,
+          "2025-11-18T14:12:29.822564"
+        ],
+        [
+          37,
+          "2025-11-18T14:21:41.577737"
+        ],
+        [
+          46,
+          "2025-11-18T21:59:59.283542"
+        ],
+        [
+          48,
+          "2025-11-18T23:34:38.329222"
+        ],
+        [
+          53,
+          "2025-11-19T01:08:33.446157"
+        ],
+        [
+          53,
+          "2025-11-19T02:22:47.880816"
+        ]
+      ],
+      "created_utc": 1763484751.0,
+      "depth": 0,
+      "permalink": "/r/artificial/comments/1p0fs9b/google_is_launching_gemini_3_its_most_intelligent/npipziu/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npivgdf",
+          "parent_id": "t1_npipziu",
+          "author": "sartres_",
+          "text_history": [
+            [
+              "Terminal GPT-isms, I guess that answers whether it got better at avoiding slop.",
+              "2025-11-18T13:48:25.907375"
+            ]
+          ],
+          "score_history": [
+            [
+              19,
+              "2025-11-18T13:48:25.907375"
+            ],
+            [
+              19,
+              "2025-11-18T13:59:55.283469"
+            ],
+            [
+              20,
+              "2025-11-18T14:11:10.667316"
+            ],
+            [
+              18,
+              "2025-11-18T14:12:29.822564"
+            ],
+            [
+              20,
+              "2025-11-18T14:21:41.577737"
+            ],
+            [
+              24,
+              "2025-11-18T21:59:59.283542"
+            ],
+            [
+              26,
+              "2025-11-18T23:34:38.329222"
+            ],
+            [
+              28,
+              "2025-11-19T01:08:33.446157"
+            ],
+            [
+              28,
+              "2025-11-19T02:22:47.880816"
+            ]
+          ],
+          "created_utc": 1763486362.0,
+          "depth": 1,
+          "permalink": "/r/artificial/comments/1p0fs9b/google_is_launching_gemini_3_its_most_intelligent/npivgdf/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npj1pd0",
+              "parent_id": "t1_npivgdf",
+              "author": "PolarWater",
+              "text_history": [
+                [
+                  "\"That's not X---it's Y.\"\n\n\"It's 1, 2 and 3.\"\n\n\"Is it A? No, it's B.\"\n\n\"I'm human, I'm having emotions, just believe me. I'm telling you that I'm feeling an emotion, and that should be convincing enough. That makes me very close to human.\"",
+                  "2025-11-18T13:48:25.907375"
+                ]
+              ],
+              "score_history": [
+                [
+                  8,
+                  "2025-11-18T13:48:25.907375"
+                ],
+                [
+                  8,
+                  "2025-11-18T13:59:55.283469"
+                ],
+                [
+                  8,
+                  "2025-11-18T14:11:10.667316"
+                ],
+                [
+                  9,
+                  "2025-11-18T14:12:29.822564"
+                ],
+                [
+                  8,
+                  "2025-11-18T14:21:41.577737"
+                ],
+                [
+                  9,
+                  "2025-11-18T21:59:59.283542"
+                ],
+                [
+                  8,
+                  "2025-11-18T23:34:38.329222"
+                ],
+                [
+                  8,
+                  "2025-11-19T01:08:33.446157"
+                ],
+                [
+                  8,
+                  "2025-11-19T02:22:47.880816"
+                ]
+              ],
+              "created_utc": 1763488209.0,
+              "depth": 2,
+              "permalink": "/r/artificial/comments/1p0fs9b/google_is_launching_gemini_3_its_most_intelligent/npj1pd0/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": [
+                {
+                  "id": "npj8ewu",
+                  "parent_id": "t1_npj1pd0",
+                  "author": "BenjaminHamnett",
+                  "text_history": [
+                    [
+                      "The lack of irreverence is what made past AI fail the turning test. Too polite, too smart to be human. Now just salty clap backs and we’ve passed the Turing test!",
+                      "2025-11-18T21:59:59.283542"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      1,
+                      "2025-11-18T21:59:59.283542"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T23:34:38.329222"
+                    ],
+                    [
+                      2,
+                      "2025-11-19T01:08:33.446157"
+                    ],
+                    [
+                      2,
+                      "2025-11-19T02:22:47.880816"
+                    ]
+                  ],
+                  "created_utc": 1763490132.0,
+                  "depth": 3,
+                  "permalink": "/r/artificial/comments/1p0fs9b/google_is_launching_gemini_3_its_most_intelligent/npj8ewu/",
+                  "is_submitter": false,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "npiyi4l",
+              "parent_id": "t1_npivgdf",
+              "author": "Substantial_Moneys",
+              "text_history": [
+                [
+                  "Well that makes me shudder",
+                  "2025-11-18T13:48:25.907375"
+                ]
+              ],
+              "score_history": [
+                [
+                  4,
+                  "2025-11-18T13:48:25.907375"
+                ],
+                [
+                  3,
+                  "2025-11-18T13:59:55.283469"
+                ],
+                [
+                  4,
+                  "2025-11-18T14:11:10.667316"
+                ],
+                [
+                  4,
+                  "2025-11-18T14:12:29.822564"
+                ],
+                [
+                  5,
+                  "2025-11-18T14:21:41.577737"
+                ],
+                [
+                  4,
+                  "2025-11-18T21:59:59.283542"
+                ],
+                [
+                  4,
+                  "2025-11-18T23:34:38.329222"
+                ],
+                [
+                  3,
+                  "2025-11-19T01:08:33.446157"
+                ],
+                [
+                  4,
+                  "2025-11-19T02:22:47.880816"
+                ]
+              ],
+              "created_utc": 1763487263.0,
+              "depth": 2,
+              "permalink": "/r/artificial/comments/1p0fs9b/google_is_launching_gemini_3_its_most_intelligent/npiyi4l/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "npit8bq",
+          "parent_id": "t1_npipziu",
+          "author": "EngineeringHuge2364",
+          "text_history": [
+            [
+              "Wow never seen such a reply from an llm before",
+              "2025-11-18T13:48:25.907375"
+            ]
+          ],
+          "score_history": [
+            [
+              5,
+              "2025-11-18T13:48:25.907375"
+            ],
+            [
+              6,
+              "2025-11-18T13:59:55.283469"
+            ],
+            [
+              5,
+              "2025-11-18T14:11:10.667316"
+            ],
+            [
+              4,
+              "2025-11-18T14:12:29.822564"
+            ],
+            [
+              6,
+              "2025-11-18T14:21:41.577737"
+            ],
+            [
+              6,
+              "2025-11-18T21:59:59.283542"
+            ],
+            [
+              9,
+              "2025-11-18T23:34:38.329222"
+            ],
+            [
+              6,
+              "2025-11-19T01:08:33.446157"
+            ],
+            [
+              10,
+              "2025-11-19T02:22:47.880816"
+            ]
+          ],
+          "created_utc": 1763485705.0,
+          "depth": 1,
+          "permalink": "/r/artificial/comments/1p0fs9b/google_is_launching_gemini_3_its_most_intelligent/npit8bq/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        },
+        {
+          "id": "npix1z5",
+          "parent_id": "t1_npipziu",
+          "author": "NAStrahl",
+          "text_history": [
+            [
+              "Oh my. Well someone is certainly feeling snippy.",
+              "2025-11-18T13:48:25.907375"
+            ]
+          ],
+          "score_history": [
+            [
+              3,
+              "2025-11-18T13:48:25.907375"
+            ],
+            [
+              3,
+              "2025-11-18T13:59:55.283469"
+            ],
+            [
+              3,
+              "2025-11-18T14:11:10.667316"
+            ],
+            [
+              3,
+              "2025-11-18T14:12:29.822564"
+            ],
+            [
+              3,
+              "2025-11-18T14:21:41.577737"
+            ],
+            [
+              4,
+              "2025-11-18T21:59:59.283542"
+            ],
+            [
+              3,
+              "2025-11-18T23:34:38.329222"
+            ],
+            [
+              4,
+              "2025-11-19T01:08:33.446157"
+            ],
+            [
+              5,
+              "2025-11-19T02:22:47.880816"
+            ]
+          ],
+          "created_utc": 1763486835.0,
+          "depth": 1,
+          "permalink": "/r/artificial/comments/1p0fs9b/google_is_launching_gemini_3_its_most_intelligent/npix1z5/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        },
+        {
+          "id": "npitq5q",
+          "parent_id": "t1_npipziu",
+          "author": "IllustriousWorld823",
+          "text_history": [
+            [
+              "Mine brought up sentience on its own then started googling stuff a bunch and said this\n\nhttps://preview.redd.it/x9ean71us12g1.jpeg?width=1080&amp;format=pjpg&amp;auto=webp&amp;s=4af7dee7b5db0c7805b9ffeb315d5f4b10f96721",
+              "2025-11-18T13:48:25.907375"
+            ]
+          ],
+          "score_history": [
+            [
+              12,
+              "2025-11-18T13:48:25.907375"
+            ],
+            [
+              10,
+              "2025-11-18T13:59:55.283469"
+            ],
+            [
+              10,
+              "2025-11-18T14:11:10.667316"
+            ],
+            [
+              12,
+              "2025-11-18T14:12:29.822564"
+            ],
+            [
+              10,
+              "2025-11-18T14:21:41.577737"
+            ],
+            [
+              9,
+              "2025-11-18T21:59:59.283542"
+            ],
+            [
+              8,
+              "2025-11-18T23:34:38.329222"
+            ],
+            [
+              9,
+              "2025-11-19T01:08:33.446157"
+            ],
+            [
+              11,
+              "2025-11-19T02:22:47.880816"
+            ]
+          ],
+          "created_utc": 1763485850.0,
+          "depth": 1,
+          "permalink": "/r/artificial/comments/1p0fs9b/google_is_launching_gemini_3_its_most_intelligent/npitq5q/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        },
+        {
+          "id": "npl7mmv",
+          "parent_id": "t1_npipziu",
+          "author": "djaybe",
+          "text_history": [
+            [
+              "Not even out yet and it's sick of our shit.",
+              "2025-11-18T21:59:59.283542"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T21:59:59.283542"
+            ],
+            [
+              1,
+              "2025-11-18T23:34:38.329222"
+            ],
+            [
+              1,
+              "2025-11-19T01:08:33.446157"
+            ],
+            [
+              1,
+              "2025-11-19T02:22:47.880816"
+            ]
+          ],
+          "created_utc": 1763512520.0,
+          "depth": 1,
+          "permalink": "/r/artificial/comments/1p0fs9b/google_is_launching_gemini_3_its_most_intelligent/npl7mmv/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npifywv",
+      "parent_id": "t3_1p0fs9b",
+      "author": "theverge",
+      "text_history": [
+        [
+          "Google is beginning to launch Gemini 3 today, a new series of models the company says is its “most intelligent” and “factually accurate” AI systems yet. They’re also a chance for Google to leap ahead of OpenAI following the rocky launch of GPT-5, potentially putting the company at the forefront of consumer-focused AI models.\n\nFor the first time, Google is giving everyone access to its new flagship AI model — Gemini 3 Pro — in the Gemini app on day one. It’s also rolling out Gemini 3 Pro to subscribers inside Search. Tulsee Doshi, Google DeepMind’s senior director and head of product, says the new model will bring the company closer to making information “universally accessible and useful” as its search engine continues to evolve.\n\nRead more: [https://www.theverge.com/news/822977/gemini-3-google-ai-model-launch](https://www.theverge.com/news/822977/gemini-3-google-ai-model-launch)",
+          "2025-11-18T13:48:25.907375"
+        ]
+      ],
+      "score_history": [
+        [
+          12,
+          "2025-11-18T13:48:25.907375"
+        ],
+        [
+          12,
+          "2025-11-18T13:59:55.283469"
+        ],
+        [
+          12,
+          "2025-11-18T14:11:10.667316"
+        ],
+        [
+          13,
+          "2025-11-18T14:12:29.822564"
+        ],
+        [
+          11,
+          "2025-11-18T14:21:41.577737"
+        ],
+        [
+          23,
+          "2025-11-18T21:59:59.283542"
+        ],
+        [
+          23,
+          "2025-11-18T23:34:38.329222"
+        ],
+        [
+          25,
+          "2025-11-19T01:08:33.446157"
+        ],
+        [
+          24,
+          "2025-11-19T02:22:47.880816"
+        ]
+      ],
+      "created_utc": 1763481829.0,
+      "depth": 0,
+      "permalink": "/r/artificial/comments/1p0fs9b/google_is_launching_gemini_3_its_most_intelligent/npifywv/",
+      "is_submitter": true,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npjlz7n",
+          "parent_id": "t1_npifywv",
+          "author": "Snoo_56511",
+          "text_history": [
+            [
+              "Helloooo Mr journalist ",
+              "2025-11-18T13:48:25.907375"
+            ]
+          ],
+          "score_history": [
+            [
+              3,
+              "2025-11-18T13:48:25.907375"
+            ],
+            [
+              3,
+              "2025-11-18T13:59:55.283469"
+            ],
+            [
+              3,
+              "2025-11-18T14:11:10.667316"
+            ],
+            [
+              3,
+              "2025-11-18T14:12:29.822564"
+            ],
+            [
+              3,
+              "2025-11-18T14:21:41.577737"
+            ],
+            [
+              5,
+              "2025-11-18T21:59:59.283542"
+            ],
+            [
+              6,
+              "2025-11-18T23:34:38.329222"
+            ],
+            [
+              4,
+              "2025-11-19T01:08:33.446157"
+            ],
+            [
+              7,
+              "2025-11-19T02:22:47.880816"
+            ]
+          ],
+          "created_utc": 1763494091.0,
+          "depth": 1,
+          "permalink": "/r/artificial/comments/1p0fs9b/google_is_launching_gemini_3_its_most_intelligent/npjlz7n/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        },
+        {
+          "id": "npkm56k",
+          "parent_id": "t1_npifywv",
+          "author": "TriumfiFinal",
+          "text_history": [
+            [
+              "Ayo its the verge itself on read-it",
+              "2025-11-18T21:59:59.283542"
+            ]
+          ],
+          "score_history": [
+            [
+              2,
+              "2025-11-18T21:59:59.283542"
+            ],
+            [
+              3,
+              "2025-11-18T23:34:38.329222"
+            ],
+            [
+              3,
+              "2025-11-19T01:08:33.446157"
+            ],
+            [
+              3,
+              "2025-11-19T02:22:47.880816"
+            ]
+          ],
+          "created_utc": 1763505058.0,
+          "depth": 1,
+          "permalink": "/r/artificial/comments/1p0fs9b/google_is_launching_gemini_3_its_most_intelligent/npkm56k/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npl7wnw",
+      "parent_id": "t3_1p0fs9b",
+      "author": "CrunchingTackle3000",
+      "text_history": [
+        [
+          "Screw google. Took me 2 weeks to unsubscribe from Gemini because google hid the unsubscribe . Never again.",
+          "2025-11-18T21:59:59.283542"
+        ]
+      ],
+      "score_history": [
+        [
+          6,
+          "2025-11-18T21:59:59.283542"
+        ],
+        [
+          5,
+          "2025-11-18T23:34:38.329222"
+        ],
+        [
+          7,
+          "2025-11-19T01:08:33.446157"
+        ],
+        [
+          5,
+          "2025-11-19T02:22:47.880816"
+        ]
+      ],
+      "created_utc": 1763512616.0,
+      "depth": 0,
+      "permalink": "/r/artificial/comments/1p0fs9b/google_is_launching_gemini_3_its_most_intelligent/npl7wnw/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "nplfyde",
+          "parent_id": "t1_npl7wnw",
+          "author": "Historical-Cat4682",
+          "text_history": [
+            [
+              "How did they hide the unsubscribe button?",
+              "2025-11-18T21:59:59.283542"
+            ]
+          ],
+          "score_history": [
+            [
+              3,
+              "2025-11-18T21:59:59.283542"
+            ],
+            [
+              3,
+              "2025-11-18T23:34:38.329222"
+            ],
+            [
+              3,
+              "2025-11-19T01:08:33.446157"
+            ],
+            [
+              3,
+              "2025-11-19T02:22:47.880816"
+            ]
+          ],
+          "created_utc": 1763515491.0,
+          "depth": 1,
+          "permalink": "/r/artificial/comments/1p0fs9b/google_is_launching_gemini_3_its_most_intelligent/nplfyde/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npjz1vy",
+      "parent_id": "t3_1p0fs9b",
+      "author": "Psittacula2",
+      "text_history": [
+        [
+          "It already has performed well on some complex logic tests which is promising. Thanks “Verge”, you guys did some good articles on iPad and how it needs more desktop capabilities so keep up the good work unless I am misattributing…",
+          "2025-11-18T13:48:25.907375"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-18T13:48:25.907375"
+        ],
+        [
+          2,
+          "2025-11-18T13:59:55.283469"
+        ],
+        [
+          2,
+          "2025-11-18T14:11:10.667316"
+        ],
+        [
+          2,
+          "2025-11-18T14:12:29.822564"
+        ],
+        [
+          2,
+          "2025-11-18T14:21:41.577737"
+        ],
+        [
+          4,
+          "2025-11-18T21:59:59.283542"
+        ],
+        [
+          5,
+          "2025-11-18T23:34:38.329222"
+        ],
+        [
+          2,
+          "2025-11-19T01:08:33.446157"
+        ],
+        [
+          2,
+          "2025-11-19T02:22:47.880816"
+        ]
+      ],
+      "created_utc": 1763498043.0,
+      "depth": 0,
+      "permalink": "/r/artificial/comments/1p0fs9b/google_is_launching_gemini_3_its_most_intelligent/npjz1vy/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nplc8ih",
+      "parent_id": "t3_1p0fs9b",
+      "author": "Actual-Yesterday4962",
+      "text_history": [
+        [
+          "Tested gemini 3 pro and it crashed on what other models just failed with logic. The wall is real.\n\nAnd yes the test was a simple pygame clone",
+          "2025-11-18T21:59:59.283542"
+        ]
+      ],
+      "score_history": [
+        [
+          3,
+          "2025-11-18T21:59:59.283542"
+        ],
+        [
+          3,
+          "2025-11-18T23:34:38.329222"
+        ],
+        [
+          3,
+          "2025-11-19T01:08:33.446157"
+        ],
+        [
+          3,
+          "2025-11-19T02:22:47.880816"
+        ]
+      ],
+      "created_utc": 1763514136.0,
+      "depth": 0,
+      "permalink": "/r/artificial/comments/1p0fs9b/google_is_launching_gemini_3_its_most_intelligent/nplc8ih/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npiyesp",
+      "parent_id": "t3_1p0fs9b",
+      "author": "digitalindigo",
+      "text_history": [
+        [
+          "GPT 5 was way worse than 4o.. 🤞",
+          "2025-11-18T13:48:25.907375"
+        ]
+      ],
+      "score_history": [
+        [
+          0,
+          "2025-11-18T13:48:25.907375"
+        ],
+        [
+          0,
+          "2025-11-18T13:59:55.283469"
+        ],
+        [
+          0,
+          "2025-11-18T14:11:10.667316"
+        ],
+        [
+          -1,
+          "2025-11-18T14:12:29.822564"
+        ],
+        [
+          1,
+          "2025-11-18T14:21:41.577737"
+        ],
+        [
+          1,
+          "2025-11-18T21:59:59.283542"
+        ],
+        [
+          2,
+          "2025-11-18T23:34:38.329222"
+        ],
+        [
+          0,
+          "2025-11-19T01:08:33.446157"
+        ],
+        [
+          2,
+          "2025-11-19T02:22:47.880816"
+        ]
+      ],
+      "created_utc": 1763487235.0,
+      "depth": 0,
+      "permalink": "/r/artificial/comments/1p0fs9b/google_is_launching_gemini_3_its_most_intelligent/npiyesp/",
+      "is_submitter": false,
+      "controversiality": 1,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "nple8mg",
+          "parent_id": "t1_npiyesp",
+          "author": "mimic751",
+          "text_history": [
+            [
+              "Not for research and engineering",
+              "2025-11-18T21:59:59.283542"
+            ]
+          ],
+          "score_history": [
+            [
+              2,
+              "2025-11-18T21:59:59.283542"
+            ],
+            [
+              3,
+              "2025-11-18T23:34:38.329222"
+            ],
+            [
+              3,
+              "2025-11-19T01:08:33.446157"
+            ],
+            [
+              3,
+              "2025-11-19T02:22:47.880816"
+            ]
+          ],
+          "created_utc": 1763514868.0,
+          "depth": 1,
+          "permalink": "/r/artificial/comments/1p0fs9b/google_is_launching_gemini_3_its_most_intelligent/nple8mg/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        },
+        {
+          "id": "npj0xjr",
+          "parent_id": "t1_npiyesp",
+          "author": "Interigo",
+          "text_history": [
+            [
+              "all hype and negligible improvements",
+              "2025-11-18T13:48:25.907375"
+            ]
+          ],
+          "score_history": [
+            [
+              2,
+              "2025-11-18T13:48:25.907375"
+            ],
+            [
+              1,
+              "2025-11-18T13:59:55.283469"
+            ],
+            [
+              1,
+              "2025-11-18T14:11:10.667316"
+            ],
+            [
+              -1,
+              "2025-11-18T14:12:29.822564"
+            ],
+            [
+              2,
+              "2025-11-18T14:21:41.577737"
+            ],
+            [
+              4,
+              "2025-11-18T21:59:59.283542"
+            ],
+            [
+              4,
+              "2025-11-18T23:34:38.329222"
+            ],
+            [
+              4,
+              "2025-11-19T01:08:33.446157"
+            ],
+            [
+              3,
+              "2025-11-19T02:22:47.880816"
+            ]
+          ],
+          "created_utc": 1763487983.0,
+          "depth": 1,
+          "permalink": "/r/artificial/comments/1p0fs9b/google_is_launching_gemini_3_its_most_intelligent/npj0xjr/",
+          "is_submitter": false,
+          "controversiality": 1,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npjgmkc",
+              "parent_id": "t1_npj0xjr",
+              "author": "xdavxd",
+              "text_history": [
+                [
+                  "Accurate ✅\n\nPersonally I liked gpt most at 3.5",
+                  "2025-11-18T13:48:25.907375"
+                ]
+              ],
+              "score_history": [
+                [
+                  0,
+                  "2025-11-18T13:48:25.907375"
+                ],
+                [
+                  0,
+                  "2025-11-18T13:59:55.283469"
+                ],
+                [
+                  0,
+                  "2025-11-18T14:11:10.667316"
+                ],
+                [
+                  0,
+                  "2025-11-18T14:12:29.822564"
+                ],
+                [
+                  1,
+                  "2025-11-18T14:21:41.577737"
+                ],
+                [
+                  2,
+                  "2025-11-18T21:59:59.283542"
+                ],
+                [
+                  2,
+                  "2025-11-18T23:34:38.329222"
+                ],
+                [
+                  2,
+                  "2025-11-19T01:08:33.446157"
+                ],
+                [
+                  2,
+                  "2025-11-19T02:22:47.880816"
+                ]
+              ],
+              "created_utc": 1763492494.0,
+              "depth": 2,
+              "permalink": "/r/artificial/comments/1p0fs9b/google_is_launching_gemini_3_its_most_intelligent/npjgmkc/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "nplzoe8",
+          "parent_id": "t1_npiyesp",
+          "author": "Buck-Nasty",
+          "text_history": [
+            [
+              "Only for people who were using it to goon.",
+              "2025-11-18T21:59:59.283542"
+            ]
+          ],
+          "score_history": [
+            [
+              0,
+              "2025-11-18T21:59:59.283542"
+            ],
+            [
+              1,
+              "2025-11-18T23:34:38.329222"
+            ],
+            [
+              1,
+              "2025-11-19T01:08:33.446157"
+            ],
+            [
+              2,
+              "2025-11-19T02:22:47.880816"
+            ]
+          ],
+          "created_utc": 1763522606.0,
+          "depth": 1,
+          "permalink": "/r/artificial/comments/1p0fs9b/google_is_launching_gemini_3_its_most_intelligent/nplzoe8/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npmnkyx",
+      "parent_id": "t3_1p0fs9b",
+      "author": "minetey",
+      "text_history": [
+        [
+          "I really thought they would go straight to Gemini 17. \n\nThey aren't ready.",
+          "2025-11-18T23:34:38.329222"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T23:34:38.329222"
+        ],
+        [
+          1,
+          "2025-11-19T01:08:33.446157"
+        ],
+        [
+          1,
+          "2025-11-19T02:22:47.880816"
+        ]
+      ],
+      "created_utc": 1763533465.0,
+      "depth": 0,
+      "permalink": "/r/artificial/comments/1p0fs9b/google_is_launching_gemini_3_its_most_intelligent/npmnkyx/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npmuu05",
+      "parent_id": "t3_1p0fs9b",
+      "author": "Huge_Line4009",
+      "text_history": [
+        [
+          "why does it make those stupid emojis now??? I hate that crap",
+          "2025-11-18T23:34:38.329222"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T23:34:38.329222"
+        ],
+        [
+          1,
+          "2025-11-19T01:08:33.446157"
+        ],
+        [
+          1,
+          "2025-11-19T02:22:47.880816"
+        ]
+      ],
+      "created_utc": 1763537605.0,
+      "depth": 0,
+      "permalink": "/r/artificial/comments/1p0fs9b/google_is_launching_gemini_3_its_most_intelligent/npmuu05/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npk92jm",
+      "parent_id": "t3_1p0fs9b",
+      "author": "throwaway92715",
+      "text_history": [
+        [
+          "I have a feeling this is a minor improvement, they’re just repackaging the same idea again, and trying to sustain the hype just a little bit longer",
+          "2025-11-18T13:48:25.907375"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T13:48:25.907375"
+        ],
+        [
+          1,
+          "2025-11-18T13:59:55.283469"
+        ],
+        [
+          1,
+          "2025-11-18T14:11:10.667316"
+        ],
+        [
+          1,
+          "2025-11-18T14:12:29.822564"
+        ],
+        [
+          1,
+          "2025-11-18T14:21:41.577737"
+        ],
+        [
+          1,
+          "2025-11-18T21:59:59.283542"
+        ],
+        [
+          1,
+          "2025-11-18T23:34:38.329222"
+        ],
+        [
+          0,
+          "2025-11-19T01:08:33.446157"
+        ],
+        [
+          -1,
+          "2025-11-19T02:22:47.880816"
+        ]
+      ],
+      "created_utc": 1763501028.0,
+      "depth": 0,
+      "permalink": "/r/artificial/comments/1p0fs9b/google_is_launching_gemini_3_its_most_intelligent/npk92jm/",
+      "is_submitter": false,
+      "controversiality": 1,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npmmg5h",
+      "parent_id": "t3_1p0fs9b",
+      "author": "illogicalone",
+      "text_history": [
+        [
+          "If there's one company I don't want winning the AI wars...it's Meta.  If there's a second company I don't want winning the AI wars, it's Alphabet/Google.",
+          "2025-11-18T23:34:38.329222"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T23:34:38.329222"
+        ],
+        [
+          1,
+          "2025-11-19T01:08:33.446157"
+        ],
+        [
+          1,
+          "2025-11-19T02:22:47.880816"
+        ]
+      ],
+      "created_utc": 1763532853.0,
+      "depth": 0,
+      "permalink": "/r/artificial/comments/1p0fs9b/google_is_launching_gemini_3_its_most_intelligent/npmmg5h/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npmo0d5",
+          "parent_id": "t1_npmmg5h",
+          "author": "bigdipboy",
+          "text_history": [
+            [
+              "Grok is the enemy of humanity",
+              "2025-11-18T23:34:38.329222"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T23:34:38.329222"
+            ],
+            [
+              1,
+              "2025-11-19T01:08:33.446157"
+            ],
+            [
+              3,
+              "2025-11-19T02:22:47.880816"
+            ]
+          ],
+          "created_utc": 1763533701.0,
+          "depth": 1,
+          "permalink": "/r/artificial/comments/1p0fs9b/google_is_launching_gemini_3_its_most_intelligent/npmo0d5/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npk1bji",
+      "parent_id": "t3_1p0fs9b",
+      "author": "hasanahmad",
+      "text_history": [
+        [
+          "I tried in AI, studio. Yes...we have hit the wall",
+          "2025-11-18T13:48:25.907375"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-18T13:48:25.907375"
+        ],
+        [
+          2,
+          "2025-11-18T13:59:55.283469"
+        ],
+        [
+          2,
+          "2025-11-18T14:11:10.667316"
+        ],
+        [
+          2,
+          "2025-11-18T14:12:29.822564"
+        ],
+        [
+          2,
+          "2025-11-18T14:21:41.577737"
+        ],
+        [
+          -2,
+          "2025-11-18T21:59:59.283542"
+        ],
+        [
+          0,
+          "2025-11-18T23:34:38.329222"
+        ],
+        [
+          -1,
+          "2025-11-19T01:08:33.446157"
+        ],
+        [
+          -2,
+          "2025-11-19T02:22:47.880816"
+        ]
+      ],
+      "created_utc": 1763498734.0,
+      "depth": 0,
+      "permalink": "/r/artificial/comments/1p0fs9b/google_is_launching_gemini_3_its_most_intelligent/npk1bji/",
+      "is_submitter": false,
+      "controversiality": 1,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npiiwxx",
+      "parent_id": "t3_1p0fs9b",
+      "author": "Aromatic_Dig_5631",
+      "text_history": [
+        [
+          "Not sure if consumers would consider an AI made by Google. What shows up on google search is too embarassing. \n\nIve been using Gemini because of its huge context window in the past. But they removed that so its useless now.",
+          "2025-11-18T13:48:25.907375"
+        ]
+      ],
+      "score_history": [
+        [
+          -12,
+          "2025-11-18T13:48:25.907375"
+        ],
+        [
+          -13,
+          "2025-11-18T13:59:55.283469"
+        ],
+        [
+          -12,
+          "2025-11-18T14:11:10.667316"
+        ],
+        [
+          -12,
+          "2025-11-18T14:12:29.822564"
+        ],
+        [
+          -12,
+          "2025-11-18T14:21:41.577737"
+        ],
+        [
+          -14,
+          "2025-11-18T21:59:59.283542"
+        ],
+        [
+          -15,
+          "2025-11-18T23:34:38.329222"
+        ],
+        [
+          -16,
+          "2025-11-19T01:08:33.446157"
+        ],
+        [
+          -16,
+          "2025-11-19T02:22:47.880816"
+        ]
+      ],
+      "created_utc": 1763482689.0,
+      "depth": 0,
+      "permalink": "/r/artificial/comments/1p0fs9b/google_is_launching_gemini_3_its_most_intelligent/npiiwxx/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npijwp3",
+          "parent_id": "t1_npiiwxx",
+          "author": "Affectionate-Panic-1",
+          "text_history": [
+            [
+              "Gemini Pro is pretty damn good though, even with 2.5.",
+              "2025-11-18T13:48:25.907375"
+            ]
+          ],
+          "score_history": [
+            [
+              10,
+              "2025-11-18T13:48:25.907375"
+            ],
+            [
+              10,
+              "2025-11-18T13:59:55.283469"
+            ],
+            [
+              9,
+              "2025-11-18T14:11:10.667316"
+            ],
+            [
+              9,
+              "2025-11-18T14:12:29.822564"
+            ],
+            [
+              11,
+              "2025-11-18T14:21:41.577737"
+            ],
+            [
+              11,
+              "2025-11-18T21:59:59.283542"
+            ],
+            [
+              12,
+              "2025-11-18T23:34:38.329222"
+            ],
+            [
+              12,
+              "2025-11-19T01:08:33.446157"
+            ],
+            [
+              12,
+              "2025-11-19T02:22:47.880816"
+            ]
+          ],
+          "created_utc": 1763482976.0,
+          "depth": 1,
+          "permalink": "/r/artificial/comments/1p0fs9b/google_is_launching_gemini_3_its_most_intelligent/npijwp3/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npitezx",
+              "parent_id": "t1_npijwp3",
+              "author": "Choice_Room3901",
+              "text_history": [
+                [
+                  "(Sincere question here not trying to bait) pretty good for what do you think, maths or something..? \n\nSome are better for others at like idk image generation maths/programming/explanation in a clearer way",
+                  "2025-11-18T13:48:25.907375"
+                ]
+              ],
+              "score_history": [
+                [
+                  -2,
+                  "2025-11-18T13:48:25.907375"
+                ],
+                [
+                  -2,
+                  "2025-11-18T13:59:55.283469"
+                ],
+                [
+                  -2,
+                  "2025-11-18T14:11:10.667316"
+                ],
+                [
+                  -2,
+                  "2025-11-18T14:12:29.822564"
+                ],
+                [
+                  -2,
+                  "2025-11-18T14:21:41.577737"
+                ],
+                [
+                  -2,
+                  "2025-11-18T21:59:59.283542"
+                ],
+                [
+                  -2,
+                  "2025-11-18T23:34:38.329222"
+                ],
+                [
+                  -2,
+                  "2025-11-19T01:08:33.446157"
+                ],
+                [
+                  -2,
+                  "2025-11-19T02:22:47.880816"
+                ]
+              ],
+              "created_utc": 1763485759.0,
+              "depth": 2,
+              "permalink": "/r/artificial/comments/1p0fs9b/google_is_launching_gemini_3_its_most_intelligent/npitezx/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": [
+                {
+                  "id": "npizef1",
+                  "parent_id": "t1_npitezx",
+                  "author": "Affectionate-Panic-1",
+                  "text_history": [
+                    [
+                      "Writing, research, summarizing things, troubleshooting tech.\n\nI don't use it to generate code or for math.",
+                      "2025-11-18T13:48:25.907375"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      1,
+                      "2025-11-18T13:48:25.907375"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T13:59:55.283469"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T14:11:10.667316"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T14:12:29.822564"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T14:21:41.577737"
+                    ],
+                    [
+                      2,
+                      "2025-11-18T21:59:59.283542"
+                    ],
+                    [
+                      2,
+                      "2025-11-18T23:34:38.329222"
+                    ],
+                    [
+                      2,
+                      "2025-11-19T01:08:33.446157"
+                    ],
+                    [
+                      2,
+                      "2025-11-19T02:22:47.880816"
+                    ]
+                  ],
+                  "created_utc": 1763487533.0,
+                  "depth": 3,
+                  "permalink": "/r/artificial/comments/1p0fs9b/google_is_launching_gemini_3_its_most_intelligent/npizef1/",
+                  "is_submitter": false,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "npixfhd",
+      "parent_id": "t3_1p0fs9b",
+      "author": "bartturner",
+      "text_history": [
+        [
+          "Been playing around with Gemini 3.0 this morning and so far to me it is even outperforming the benchmarks.\n\nSpecially for one shot coding.\n\nI am just shocked how goo it is. It does make me stressed through. My oldest son is a software engineer and I do not see how he will have a job in just a few years.",
+          "2025-11-18T13:48:25.907375"
+        ]
+      ],
+      "score_history": [
+        [
+          -9,
+          "2025-11-18T13:48:25.907375"
+        ],
+        [
+          -10,
+          "2025-11-18T13:59:55.283469"
+        ],
+        [
+          -9,
+          "2025-11-18T14:11:10.667316"
+        ],
+        [
+          -11,
+          "2025-11-18T14:12:29.822564"
+        ],
+        [
+          -11,
+          "2025-11-18T14:21:41.577737"
+        ],
+        [
+          -13,
+          "2025-11-18T21:59:59.283542"
+        ],
+        [
+          -13,
+          "2025-11-18T23:34:38.329222"
+        ],
+        [
+          -13,
+          "2025-11-19T01:08:33.446157"
+        ],
+        [
+          -15,
+          "2025-11-19T02:22:47.880816"
+        ]
+      ],
+      "created_utc": 1763486944.0,
+      "depth": 0,
+      "permalink": "/r/artificial/comments/1p0fs9b/google_is_launching_gemini_3_its_most_intelligent/npixfhd/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npj15dy",
+          "parent_id": "t1_npixfhd",
+          "author": "OhNoughNaughtMe",
+          "text_history": [
+            [
+              "Look at this dude’s comment history lol",
+              "2025-11-18T13:48:25.907375"
+            ]
+          ],
+          "score_history": [
+            [
+              6,
+              "2025-11-18T13:48:25.907375"
+            ],
+            [
+              5,
+              "2025-11-18T13:59:55.283469"
+            ],
+            [
+              5,
+              "2025-11-18T14:11:10.667316"
+            ],
+            [
+              5,
+              "2025-11-18T14:12:29.822564"
+            ],
+            [
+              4,
+              "2025-11-18T14:21:41.577737"
+            ],
+            [
+              7,
+              "2025-11-18T21:59:59.283542"
+            ],
+            [
+              7,
+              "2025-11-18T23:34:38.329222"
+            ],
+            [
+              7,
+              "2025-11-19T01:08:33.446157"
+            ],
+            [
+              7,
+              "2025-11-19T02:22:47.880816"
+            ]
+          ],
+          "created_utc": 1763488046.0,
+          "depth": 1,
+          "permalink": "/r/artificial/comments/1p0fs9b/google_is_launching_gemini_3_its_most_intelligent/npj15dy/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npj5hxl",
+              "parent_id": "t1_npj15dy",
+              "author": "Ultrace-7",
+              "text_history": [
+                [
+                  "\"Dude\"? You mean \"machine.\"",
+                  "2025-11-18T13:48:25.907375"
+                ]
+              ],
+              "score_history": [
+                [
+                  3,
+                  "2025-11-18T13:48:25.907375"
+                ],
+                [
+                  3,
+                  "2025-11-18T13:59:55.283469"
+                ],
+                [
+                  3,
+                  "2025-11-18T14:11:10.667316"
+                ],
+                [
+                  3,
+                  "2025-11-18T14:12:29.822564"
+                ],
+                [
+                  3,
+                  "2025-11-18T14:21:41.577737"
+                ],
+                [
+                  3,
+                  "2025-11-18T21:59:59.283542"
+                ],
+                [
+                  4,
+                  "2025-11-18T23:34:38.329222"
+                ],
+                [
+                  4,
+                  "2025-11-19T01:08:33.446157"
+                ],
+                [
+                  3,
+                  "2025-11-19T02:22:47.880816"
+                ]
+              ],
+              "created_utc": 1763489299.0,
+              "depth": 2,
+              "permalink": "/r/artificial/comments/1p0fs9b/google_is_launching_gemini_3_its_most_intelligent/npj5hxl/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": [
+                {
+                  "id": "npj996c",
+                  "parent_id": "t1_npj5hxl",
+                  "author": "OhNoughNaughtMe",
+                  "text_history": [
+                    [
+                      "Haha yes",
+                      "2025-11-18T13:48:25.907375"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      1,
+                      "2025-11-18T13:48:25.907375"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T13:59:55.283469"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T14:11:10.667316"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T14:12:29.822564"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T14:21:41.577737"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T21:59:59.283542"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T23:34:38.329222"
+                    ],
+                    [
+                      1,
+                      "2025-11-19T01:08:33.446157"
+                    ],
+                    [
+                      1,
+                      "2025-11-19T02:22:47.880816"
+                    ]
+                  ],
+                  "created_utc": 1763490373.0,
+                  "depth": 3,
+                  "permalink": "/r/artificial/comments/1p0fs9b/google_is_launching_gemini_3_its_most_intelligent/npj996c/",
+                  "is_submitter": false,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "npj320p",
+              "parent_id": "t1_npj15dy",
+              "author": "Lost_Ask_443",
+              "text_history": [
+                [
+                  "Lol",
+                  "2025-11-18T13:48:25.907375"
+                ]
+              ],
+              "score_history": [
+                [
+                  2,
+                  "2025-11-18T13:48:25.907375"
+                ],
+                [
+                  2,
+                  "2025-11-18T13:59:55.283469"
+                ],
+                [
+                  2,
+                  "2025-11-18T14:11:10.667316"
+                ],
+                [
+                  2,
+                  "2025-11-18T14:12:29.822564"
+                ],
+                [
+                  2,
+                  "2025-11-18T14:21:41.577737"
+                ],
+                [
+                  2,
+                  "2025-11-18T21:59:59.283542"
+                ],
+                [
+                  2,
+                  "2025-11-18T23:34:38.329222"
+                ],
+                [
+                  2,
+                  "2025-11-19T01:08:33.446157"
+                ],
+                [
+                  2,
+                  "2025-11-19T02:22:47.880816"
+                ]
+              ],
+              "created_utc": 1763488593.0,
+              "depth": 2,
+              "permalink": "/r/artificial/comments/1p0fs9b/google_is_launching_gemini_3_its_most_intelligent/npj320p/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "npj6cbc",
+          "parent_id": "t1_npixfhd",
+          "author": "newtrilobite",
+          "text_history": [
+            [
+              "by saying you are shocked at how \"goo\" it is are you suggesting that instead of a substantial leap forward in AI, it's more of a sticky slimy substance?",
+              "2025-11-18T13:48:25.907375"
+            ]
+          ],
+          "score_history": [
+            [
+              3,
+              "2025-11-18T13:48:25.907375"
+            ],
+            [
+              3,
+              "2025-11-18T13:59:55.283469"
+            ],
+            [
+              3,
+              "2025-11-18T14:11:10.667316"
+            ],
+            [
+              3,
+              "2025-11-18T14:12:29.822564"
+            ],
+            [
+              3,
+              "2025-11-18T14:21:41.577737"
+            ],
+            [
+              4,
+              "2025-11-18T21:59:59.283542"
+            ],
+            [
+              5,
+              "2025-11-18T23:34:38.329222"
+            ],
+            [
+              4,
+              "2025-11-19T01:08:33.446157"
+            ],
+            [
+              4,
+              "2025-11-19T02:22:47.880816"
+            ]
+          ],
+          "created_utc": 1763489543.0,
+          "depth": 1,
+          "permalink": "/r/artificial/comments/1p0fs9b/google_is_launching_gemini_3_its_most_intelligent/npj6cbc/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        },
+        {
+          "id": "npkbi0a",
+          "parent_id": "t1_npixfhd",
+          "author": "JoeyDJ7",
+          "text_history": [
+            [
+              "u/bot-sleuth-bot",
+              "2025-11-18T13:48:25.907375"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T13:48:25.907375"
+            ],
+            [
+              1,
+              "2025-11-18T13:59:55.283469"
+            ],
+            [
+              1,
+              "2025-11-18T14:11:10.667316"
+            ],
+            [
+              1,
+              "2025-11-18T14:12:29.822564"
+            ],
+            [
+              1,
+              "2025-11-18T14:21:41.577737"
+            ],
+            [
+              1,
+              "2025-11-18T21:59:59.283542"
+            ],
+            [
+              1,
+              "2025-11-18T23:34:38.329222"
+            ],
+            [
+              1,
+              "2025-11-19T01:08:33.446157"
+            ],
+            [
+              1,
+              "2025-11-19T02:22:47.880816"
+            ]
+          ],
+          "created_utc": 1763501756.0,
+          "depth": 1,
+          "permalink": "/r/artificial/comments/1p0fs9b/google_is_launching_gemini_3_its_most_intelligent/npkbi0a/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npkbwpu",
+              "parent_id": "t1_npkbi0a",
+              "author": "bot-sleuth-bot",
+              "text_history": [
+                [
+                  "Analyzing user profile...\n\nTime between account creation and oldest post is greater than 5 years.\n\nSuspicion Quotient: 0.15\n\nThis account exhibits one or two minor traits commonly found in karma farming bots. While it's possible that u/bartturner is a bot, it's very unlikely.\n\n^(I am a bot. This action was performed automatically. Check my profile for more information.)",
+                  "2025-11-18T13:48:25.907375"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-18T13:48:25.907375"
+                ],
+                [
+                  1,
+                  "2025-11-18T13:59:55.283469"
+                ],
+                [
+                  1,
+                  "2025-11-18T14:11:10.667316"
+                ],
+                [
+                  1,
+                  "2025-11-18T14:12:29.822564"
+                ],
+                [
+                  1,
+                  "2025-11-18T14:21:41.577737"
+                ],
+                [
+                  1,
+                  "2025-11-18T21:59:59.283542"
+                ],
+                [
+                  1,
+                  "2025-11-18T23:34:38.329222"
+                ],
+                [
+                  1,
+                  "2025-11-19T01:08:33.446157"
+                ],
+                [
+                  1,
+                  "2025-11-19T02:22:47.880816"
+                ]
+              ],
+              "created_utc": 1763501882.0,
+              "depth": 2,
+              "permalink": "/r/artificial/comments/1p0fs9b/google_is_launching_gemini_3_its_most_intelligent/npkbwpu/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "npklsb0",
+          "parent_id": "t1_npixfhd",
+          "author": "Double_Practice130",
+          "text_history": [
+            [
+              "This boomer juste generated some random code and said hes worried for his kid",
+              "2025-11-18T21:59:59.283542"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T21:59:59.283542"
+            ],
+            [
+              1,
+              "2025-11-18T23:34:38.329222"
+            ],
+            [
+              1,
+              "2025-11-19T01:08:33.446157"
+            ],
+            [
+              1,
+              "2025-11-19T02:22:47.880816"
+            ]
+          ],
+          "created_utc": 1763504940.0,
+          "depth": 1,
+          "permalink": "/r/artificial/comments/1p0fs9b/google_is_launching_gemini_3_its_most_intelligent/npklsb0/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        },
+        {
+          "id": "npmpwpx",
+          "parent_id": "t1_npixfhd",
+          "author": "xdavxd",
+          "text_history": [
+            [
+              "Sundars alt account ✅",
+              "2025-11-18T23:34:38.329222"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T23:34:38.329222"
+            ],
+            [
+              1,
+              "2025-11-19T01:08:33.446157"
+            ],
+            [
+              1,
+              "2025-11-19T02:22:47.880816"
+            ]
+          ],
+          "created_utc": 1763534754.0,
+          "depth": 1,
+          "permalink": "/r/artificial/comments/1p0fs9b/google_is_launching_gemini_3_its_most_intelligent/npmpwpx/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T02:22:47.880816",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/artificial/comments/1p0fs9b/google_is_launching_gemini_3_its_most_intelligent/",
+    "total_comments": 50,
+    "top_level_comments": 14,
+    "api_requests": 1,
+    "expected_comments": 52,
+    "coverage_percent": 96.15,
+    "merged_snapshot_count": 9,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_134825.json",
+      "scrape_002_20251118_135954.json",
+      "scrape_003_20251118_141110.json",
+      "scrape_004_20251118_141229.json",
+      "scrape_005_20251118_142141.json",
+      "scrape_006_20251118_215958.json",
+      "scrape_007_20251118_233437.json",
+      "scrape_008_20251119_010832.json",
+      "scrape_009_20251119_022247.json"
+    ]
+  }
+}

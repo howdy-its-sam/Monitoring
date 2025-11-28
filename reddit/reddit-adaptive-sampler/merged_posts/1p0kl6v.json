@@ -1,0 +1,296 @@
+{
+  "post": {
+    "id": "1p0kl6v",
+    "title": "Nano Banana 2",
+    "author": "The0ger",
+    "score_history": [
+      [
+        10,
+        "2025-11-18T14:22:12.078825"
+      ],
+      [
+        11,
+        "2025-11-18T14:32:09.941890"
+      ],
+      [
+        10,
+        "2025-11-18T14:34:59.159684"
+      ],
+      [
+        9,
+        "2025-11-18T14:43:38.539847"
+      ],
+      [
+        10,
+        "2025-11-18T14:45:18.601453"
+      ],
+      [
+        9,
+        "2025-11-18T14:52:58.528012"
+      ],
+      [
+        11,
+        "2025-11-18T22:32:22.149723"
+      ],
+      [
+        11,
+        "2025-11-19T00:26:28.477494"
+      ],
+      [
+        12,
+        "2025-11-19T02:11:48.281832"
+      ]
+    ],
+    "created_utc": 1763492377.0,
+    "num_comments": 4,
+    "subreddit": "singularity",
+    "url": "https://www.reddit.com/r/singularity/comments/1p0kl6v/nano_banana_2/",
+    "selftext": "Hi, I was wondering if anyone with Nano Banana 2 access could try a prompt, I have yet to see an image model make a working tile animation sheet, I want to see a walking animation tile sheet but models really struggle with this as they value consistency ",
+    "permalink": "/r/singularity/comments/1p0kl6v/nano_banana_2/"
+  },
+  "comments": [
+    {
+      "id": "npjtuyd",
+      "parent_id": "t3_1p0kl6v",
+      "author": "Professional-Sir7048",
+      "text_history": [
+        [
+          "Is nano banana 2 out? Never saw the announcement.",
+          "2025-11-18T14:22:12.078825"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-18T14:22:12.078825"
+        ],
+        [
+          2,
+          "2025-11-18T14:32:09.941890"
+        ],
+        [
+          2,
+          "2025-11-18T14:34:59.159684"
+        ],
+        [
+          2,
+          "2025-11-18T14:43:38.539847"
+        ],
+        [
+          2,
+          "2025-11-18T14:45:18.601453"
+        ],
+        [
+          2,
+          "2025-11-18T14:52:58.528012"
+        ],
+        [
+          2,
+          "2025-11-18T22:32:22.149723"
+        ],
+        [
+          2,
+          "2025-11-19T00:26:28.477494"
+        ],
+        [
+          2,
+          "2025-11-19T02:11:48.281832"
+        ]
+      ],
+      "created_utc": 1763496453.0,
+      "depth": 0,
+      "permalink": "/r/singularity/comments/1p0kl6v/nano_banana_2/npjtuyd/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npjtxju",
+          "parent_id": "t1_npjtuyd",
+          "author": "The0ger",
+          "text_history": [
+            [
+              "Some people claimed to have early access to",
+              "2025-11-18T14:22:12.078825"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T14:22:12.078825"
+            ],
+            [
+              1,
+              "2025-11-18T14:32:09.941890"
+            ],
+            [
+              1,
+              "2025-11-18T14:34:59.159684"
+            ],
+            [
+              1,
+              "2025-11-18T14:43:38.539847"
+            ],
+            [
+              1,
+              "2025-11-18T14:45:18.601453"
+            ],
+            [
+              1,
+              "2025-11-18T14:52:58.528012"
+            ],
+            [
+              1,
+              "2025-11-18T22:32:22.149723"
+            ],
+            [
+              1,
+              "2025-11-19T00:26:28.477494"
+            ],
+            [
+              1,
+              "2025-11-19T02:11:48.281832"
+            ]
+          ],
+          "created_utc": 1763496476.0,
+          "depth": 1,
+          "permalink": "/r/singularity/comments/1p0kl6v/nano_banana_2/npjtxju/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npkkr13",
+      "parent_id": "t3_1p0kl6v",
+      "author": "Evening_Possible_431",
+      "text_history": [
+        [
+          "I don’t think it’s out there now. Maybe a few days after 3.0",
+          "2025-11-18T14:32:09.941890"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:32:09.941890"
+        ],
+        [
+          1,
+          "2025-11-18T14:34:59.159684"
+        ],
+        [
+          1,
+          "2025-11-18T14:43:38.539847"
+        ],
+        [
+          1,
+          "2025-11-18T14:45:18.601453"
+        ],
+        [
+          1,
+          "2025-11-18T14:52:58.528012"
+        ],
+        [
+          1,
+          "2025-11-18T22:32:22.149723"
+        ],
+        [
+          1,
+          "2025-11-19T00:26:28.477494"
+        ],
+        [
+          1,
+          "2025-11-19T02:11:48.281832"
+        ]
+      ],
+      "created_utc": 1763504605.0,
+      "depth": 0,
+      "permalink": "/r/singularity/comments/1p0kl6v/nano_banana_2/npkkr13/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npkmz5s",
+      "parent_id": "t3_1p0kl6v",
+      "author": "Kanute3333",
+      "text_history": [
+        [
+          "I think they will release it tomorrow.",
+          "2025-11-18T14:43:38.539847"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:43:38.539847"
+        ],
+        [
+          1,
+          "2025-11-18T14:45:18.601453"
+        ],
+        [
+          1,
+          "2025-11-18T14:52:58.528012"
+        ],
+        [
+          1,
+          "2025-11-18T22:32:22.149723"
+        ],
+        [
+          1,
+          "2025-11-19T00:26:28.477494"
+        ],
+        [
+          1,
+          "2025-11-19T02:11:48.281832"
+        ]
+      ],
+      "created_utc": 1763505334.0,
+      "depth": 0,
+      "permalink": "/r/singularity/comments/1p0kl6v/nano_banana_2/npkmz5s/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T02:11:48.281832",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/singularity/comments/1p0kl6v/nano_banana_2/",
+    "total_comments": 4,
+    "top_level_comments": 3,
+    "api_requests": 1,
+    "expected_comments": 4,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 9,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_142211.json",
+      "scrape_002_20251118_143209.json",
+      "scrape_003_20251118_143458.json",
+      "scrape_004_20251118_144338.json",
+      "scrape_005_20251118_144518.json",
+      "scrape_006_20251118_145258.json",
+      "scrape_007_20251118_223221.json",
+      "scrape_008_20251119_002628.json",
+      "scrape_009_20251119_021148.json"
+    ]
+  }
+}

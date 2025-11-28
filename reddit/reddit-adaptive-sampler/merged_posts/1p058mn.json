@@ -1,0 +1,69 @@
+{
+  "post": {
+    "id": "1p058mn",
+    "title": "Replace ‘script’ with ‘agent’ everywhere so we can raise some pre-seed",
+    "author": "Visible-Mix2149",
+    "score_history": [
+      [
+        1,
+        "2025-11-18T12:51:44.323788"
+      ],
+      [
+        1,
+        "2025-11-18T13:04:00.761364"
+      ],
+      [
+        1,
+        "2025-11-18T13:15:56.730516"
+      ],
+      [
+        1,
+        "2025-11-18T13:48:28.392609"
+      ],
+      [
+        1,
+        "2025-11-18T13:59:52.075452"
+      ],
+      [
+        1,
+        "2025-11-18T14:12:28.399861"
+      ],
+      [
+        2,
+        "2025-11-18T22:20:26.996757"
+      ],
+      [
+        2,
+        "2025-11-19T07:12:19.322283"
+      ]
+    ],
+    "created_utc": 1763449099.0,
+    "num_comments": 0,
+    "subreddit": "AgentsOfAI",
+    "url": "https://i.redd.it/on8koq16ry1g1.png",
+    "selftext": "",
+    "permalink": "/r/AgentsOfAI/comments/1p058mn/replace_script_with_agent_everywhere_so_we_can/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T07:12:19.322283",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/AgentsOfAI/comments/1p058mn/replace_script_with_agent_everywhere_so_we_can/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 8,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_125144.json",
+      "scrape_002_20251118_130400.json",
+      "scrape_003_20251118_131556.json",
+      "scrape_004_20251118_134828.json",
+      "scrape_005_20251118_135951.json",
+      "scrape_006_20251118_141228.json",
+      "scrape_007_20251118_222026.json",
+      "scrape_008_20251119_071219.json"
+    ]
+  }
+}

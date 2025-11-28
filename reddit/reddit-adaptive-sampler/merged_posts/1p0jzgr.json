@@ -1,0 +1,44 @@
+{
+  "post": {
+    "id": "1p0jzgr",
+    "title": "Music system by Gemini 3 🤯",
+    "author": "Namra_7",
+    "score_history": [
+      [
+        15,
+        "2025-11-19T02:55:44.344877"
+      ],
+      [
+        16,
+        "2025-11-19T03:06:41.307132"
+      ],
+      [
+        15,
+        "2025-11-19T03:16:15.631962"
+      ]
+    ],
+    "created_utc": 1763491048.0,
+    "num_comments": 0,
+    "subreddit": "singularity",
+    "url": "https://x.com/patelnamra573/status/1990849770047336945?t=xHHkKxNybJtpIdA76u8g6g&amp;s=19",
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1p0jzgr/music_system_by_gemini_3/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:16:15.631962",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/singularity/comments/1p0jzgr/music_system_by_gemini_3/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_025544.json",
+      "scrape_002_20251119_030641.json",
+      "scrape_003_20251119_031615.json"
+    ]
+  }
+}

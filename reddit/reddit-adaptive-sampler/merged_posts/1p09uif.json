@@ -1,0 +1,80 @@
+{
+  "post": {
+    "id": "1p09uif",
+    "title": "How can I use Speech Recognition modules (import speech_recognition, import pyaudio) on WSL2 and ros2 for a robotics project?",
+    "author": "d_test_2030",
+    "score_history": [
+      [
+        2,
+        "2025-11-18T14:22:14.357808"
+      ],
+      [
+        2,
+        "2025-11-18T14:32:07.307271"
+      ],
+      [
+        2,
+        "2025-11-18T14:41:17.836912"
+      ]
+    ],
+    "created_utc": 1763466481.0,
+    "num_comments": 1,
+    "subreddit": "robotics",
+    "url": "https://www.reddit.com/r/robotics/comments/1p09uif/how_can_i_use_speech_recognition_modules_import/",
+    "selftext": "Hi, for a robotics project I would like to do automatic speech recognition within ros2 on WSL2 Ubuntu.\n\nI have read somewhere that microphone permissions should be set to on and `sudo apt install libasound2-plugins should be called. Would this be sufficient?`\n\n`Has anyone managed to make this work?`",
+    "permalink": "/r/robotics/comments/1p09uif/how_can_i_use_speech_recognition_modules_import/"
+  },
+  "comments": [
+    {
+      "id": "nphazuj",
+      "parent_id": "t3_1p09uif",
+      "author": "hisatanhere",
+      "text_history": [
+        [
+          "You are just asking for trouble trying to do embedded dev from a virtual machine. If you are just using python then you don't need WSL2, just use windows python. \n\nthe command you've listed would just install alsa plugins with is the sound system driver for linux; which may or may not translate well to the windows side. \n\nthat said if you are just following the documentation for pyaudio and the speech\\_rec python modules you should be ok ymmv \n\nhonestly you should be running linux from bare-metal for doing embedded dev. (dual boot, etc) or just do the development with windows.  VsCode + PlatformIO should do you just fine.",
+          "2025-11-18T14:22:14.357808"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:22:14.357808"
+        ],
+        [
+          1,
+          "2025-11-18T14:32:07.307271"
+        ],
+        [
+          1,
+          "2025-11-18T14:41:17.836912"
+        ]
+      ],
+      "created_utc": 1763468231.0,
+      "depth": 0,
+      "permalink": "/r/robotics/comments/1p09uif/how_can_i_use_speech_recognition_modules_import/nphazuj/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-18T14:41:17.836912",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/robotics/comments/1p09uif/how_can_i_use_speech_recognition_modules_import/",
+    "total_comments": 1,
+    "top_level_comments": 1,
+    "api_requests": 1,
+    "expected_comments": 1,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_142214.json",
+      "scrape_002_20251118_143207.json",
+      "scrape_003_20251118_144117.json"
+    ]
+  }
+}

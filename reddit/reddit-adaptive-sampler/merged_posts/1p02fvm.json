@@ -1,0 +1,107 @@
+{
+  "post": {
+    "id": "1p02fvm",
+    "title": "RAG and Agentic AI",
+    "author": "Obvious-Search-5569",
+    "score_history": [
+      [
+        0,
+        "2025-11-18T13:04:02.192948"
+      ],
+      [
+        1,
+        "2025-11-18T13:15:52.416121"
+      ],
+      [
+        1,
+        "2025-11-18T13:46:30.245626"
+      ],
+      [
+        0,
+        "2025-11-18T13:49:29.654533"
+      ],
+      [
+        0,
+        "2025-11-18T13:59:20.850247"
+      ],
+      [
+        0,
+        "2025-11-18T14:10:41.146060"
+      ]
+    ],
+    "created_utc": 1763439667.0,
+    "num_comments": 1,
+    "subreddit": "Rag",
+    "url": "https://www.reddit.com/r/Rag/comments/1p02fvm/rag_and_agentic_ai/",
+    "selftext": "I was reading about RAG recently and came across an article that explained it really clearly, especially how it connects to more agent-like AI systems. It breaks down how retrieval works, why it reduces hallucinations, and how it might support more autonomous workflows. Sharing it here in case it helps anyone else who’s trying to get a handle on it:\n\n[https://thinkpalm.com/blogs/what-is-retrieval-augmented-generation-rag/](https://thinkpalm.com/blogs/what-is-retrieval-augmented-generation-rag/)\n\nWhat's your thoughts on this?",
+    "permalink": "/r/Rag/comments/1p02fvm/rag_and_agentic_ai/"
+  },
+  "comments": [
+    {
+      "id": "npfwwo3",
+      "parent_id": "t3_1p02fvm",
+      "author": "j_tb",
+      "text_history": [
+        [
+          "Spam",
+          "2025-11-18T13:04:02.192948"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T13:04:02.192948"
+        ],
+        [
+          1,
+          "2025-11-18T13:15:52.416121"
+        ],
+        [
+          1,
+          "2025-11-18T13:46:30.245626"
+        ],
+        [
+          1,
+          "2025-11-18T13:49:29.654533"
+        ],
+        [
+          1,
+          "2025-11-18T13:59:20.850247"
+        ],
+        [
+          1,
+          "2025-11-18T14:10:41.146060"
+        ]
+      ],
+      "created_utc": 1763440510.0,
+      "depth": 0,
+      "permalink": "/r/Rag/comments/1p02fvm/rag_and_agentic_ai/npfwwo3/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-18T14:10:41.146060",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/Rag/comments/1p02fvm/rag_and_agentic_ai/",
+    "total_comments": 1,
+    "top_level_comments": 1,
+    "api_requests": 1,
+    "expected_comments": 1,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 6,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_130402.json",
+      "scrape_002_20251118_131552.json",
+      "scrape_003_20251118_134630.json",
+      "scrape_004_20251118_134929.json",
+      "scrape_005_20251118_135920.json",
+      "scrape_006_20251118_141040.json"
+    ]
+  }
+}

@@ -1,0 +1,363 @@
+{
+  "post": {
+    "id": "1mpxfia",
+    "title": "Is Claude web scraping even possible? Help?",
+    "author": "marc2389",
+    "score_history": [
+      [
+        7,
+        "2025-11-18T14:23:18.503665"
+      ],
+      [
+        7,
+        "2025-11-18T14:33:15.410607"
+      ],
+      [
+        5,
+        "2025-11-18T14:43:18.522592"
+      ]
+    ],
+    "created_utc": 1755169304.0,
+    "num_comments": 9,
+    "subreddit": "AutoGPT",
+    "url": "https://www.reddit.com/r/AutoGPT/comments/1mpxfia/is_claude_web_scraping_even_possible_help/",
+    "selftext": "I’m doing some model comparisons and need to scrape some content with Claude. Every tool I tried to use with it gets blocked in seconds, rotating proxies don't help much either. Has anyone pulled this off, or is it just not possible anymore?",
+    "permalink": "/r/AutoGPT/comments/1mpxfia/is_claude_web_scraping_even_possible_help/"
+  },
+  "comments": [
+    {
+      "id": "nb3yycp",
+      "parent_id": "t3_1mpxfia",
+      "author": "boomersruinall",
+      "text_history": [
+        [
+          "Pretty sure Oxylabs has MCP integration for Claude. You can hook it up to their [Web Scraper API](https://oxylabs.io/products/scraper-api/web) and run it via Claude Desktop",
+          "2025-11-18T14:23:18.503665"
+        ]
+      ],
+      "score_history": [
+        [
+          16,
+          "2025-11-18T14:23:18.503665"
+        ],
+        [
+          16,
+          "2025-11-18T14:33:15.410607"
+        ],
+        [
+          16,
+          "2025-11-18T14:43:18.522592"
+        ]
+      ],
+      "created_utc": 1756378452.0,
+      "depth": 0,
+      "permalink": "/r/AutoGPT/comments/1mpxfia/is_claude_web_scraping_even_possible_help/nb3yycp/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "n8tpraf",
+      "parent_id": "t3_1mpxfia",
+      "author": "ScraperAPI",
+      "text_history": [
+        [
+          "Yes, scraping with Claude is possible. \n\nIn your case, the issue is more about web blocking than Claude as a tool. \n\nIn reality, rotating proxies alone doesn’t cut it as detection systems are now smarter, of course. \n\nAs a result, you need to input a couple of more stealth undetection techniques. \n\nWe’ll recommend that you instruct Claude to change headers and go headless. \n\nLet us know if this doesn’t work.",
+          "2025-11-18T14:23:18.503665"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-18T14:23:18.503665"
+        ],
+        [
+          2,
+          "2025-11-18T14:33:15.410607"
+        ],
+        [
+          2,
+          "2025-11-18T14:43:18.522592"
+        ]
+      ],
+      "created_utc": 1755262743.0,
+      "depth": 0,
+      "permalink": "/r/AutoGPT/comments/1mpxfia/is_claude_web_scraping_even_possible_help/n8tpraf/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "n8n62r9",
+      "parent_id": "t3_1mpxfia",
+      "author": "Curious_Industry_339",
+      "text_history": [
+        [
+          "Firecrawl is your solution.",
+          "2025-11-18T14:23:18.503665"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:23:18.503665"
+        ],
+        [
+          1,
+          "2025-11-18T14:33:15.410607"
+        ],
+        [
+          1,
+          "2025-11-18T14:43:18.522592"
+        ]
+      ],
+      "created_utc": 1755175926.0,
+      "depth": 0,
+      "permalink": "/r/AutoGPT/comments/1mpxfia/is_claude_web_scraping_even_possible_help/n8n62r9/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "n8n7gku",
+          "parent_id": "t1_n8n62r9",
+          "author": "marc2389",
+          "text_history": [
+            [
+              "does Firecrawl handle heavy anti-bot stuff too, or just basic scraping?",
+              "2025-11-18T14:23:18.503665"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T14:23:18.503665"
+            ],
+            [
+              1,
+              "2025-11-18T14:33:15.410607"
+            ],
+            [
+              1,
+              "2025-11-18T14:43:18.522592"
+            ]
+          ],
+          "created_utc": 1755176405.0,
+          "depth": 1,
+          "permalink": "/r/AutoGPT/comments/1mpxfia/is_claude_web_scraping_even_possible_help/n8n7gku/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "n943zvr",
+              "parent_id": "t1_n8n7gku",
+              "author": "Historical-Internal3",
+              "text_history": [
+                [
+                  "Their API solution does. Not so much the open-source self-hosted option.",
+                  "2025-11-18T14:23:18.503665"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-18T14:23:18.503665"
+                ],
+                [
+                  1,
+                  "2025-11-18T14:33:15.410607"
+                ],
+                [
+                  1,
+                  "2025-11-18T14:43:18.522592"
+                ]
+              ],
+              "created_utc": 1755398547.0,
+              "depth": 2,
+              "permalink": "/r/AutoGPT/comments/1mpxfia/is_claude_web_scraping_even_possible_help/n943zvr/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n92ao8m",
+      "parent_id": "t3_1mpxfia",
+      "author": "beshkenadze",
+      "text_history": [
+        [
+          "You can use a MCP browser like playwright from Microsoft and ask Claude to open a link using this mcp tool.",
+          "2025-11-18T14:23:18.503665"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:23:18.503665"
+        ],
+        [
+          1,
+          "2025-11-18T14:33:15.410607"
+        ],
+        [
+          1,
+          "2025-11-18T14:43:18.522592"
+        ]
+      ],
+      "created_utc": 1755374791.0,
+      "depth": 0,
+      "permalink": "/r/AutoGPT/comments/1mpxfia/is_claude_web_scraping_even_possible_help/n92ao8m/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "n9a1gjq",
+          "parent_id": "t1_n92ao8m",
+          "author": "txgsync",
+          "text_history": [
+            [
+              "Yep I am working on one that automates Safari in hopes it will use my iCloud private relay subscription.",
+              "2025-11-18T14:23:18.503665"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T14:23:18.503665"
+            ],
+            [
+              1,
+              "2025-11-18T14:33:15.410607"
+            ],
+            [
+              1,
+              "2025-11-18T14:43:18.522592"
+            ]
+          ],
+          "created_utc": 1755481665.0,
+          "depth": 1,
+          "permalink": "/r/AutoGPT/comments/1mpxfia/is_claude_web_scraping_even_possible_help/n9a1gjq/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "n9n2gr7",
+      "parent_id": "t3_1mpxfia",
+      "author": "ntindle",
+      "text_history": [
+        [
+          "We use fire crawl as the supported service in the AutoGPT platform. You’ll need an api key for the self hosted instance of AutoGPT. Self hosted fire crawl isn’t sufficient to what you need",
+          "2025-11-18T14:23:18.503665"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:23:18.503665"
+        ],
+        [
+          1,
+          "2025-11-18T14:33:15.410607"
+        ],
+        [
+          1,
+          "2025-11-18T14:43:18.522592"
+        ]
+      ],
+      "created_utc": 1755655168.0,
+      "depth": 0,
+      "permalink": "/r/AutoGPT/comments/1mpxfia/is_claude_web_scraping_even_possible_help/n9n2gr7/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nehhda7",
+      "parent_id": "t3_1mpxfia",
+      "author": "Classic-Sherbert3244",
+      "text_history": [
+        [
+          "You can actually make Claude scraping work smoothly if you don’t rely on Claude itself to fetch pages (that’s what usually triggers the instant blocks). Instead, pair it with Apify, which handles the scraping part for you.\n\nSo instead of asking Claude to scrape (which it can’t do well), use Apify as the browser + scraper, and Claude as the analyst/processor of that scraped data.",
+          "2025-11-18T14:23:18.503665"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:23:18.503665"
+        ],
+        [
+          1,
+          "2025-11-18T14:33:15.410607"
+        ],
+        [
+          1,
+          "2025-11-18T14:43:18.522592"
+        ]
+      ],
+      "created_utc": 1758006743.0,
+      "depth": 0,
+      "permalink": "/r/AutoGPT/comments/1mpxfia/is_claude_web_scraping_even_possible_help/nehhda7/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-18T14:43:18.522592",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/AutoGPT/comments/1mpxfia/is_claude_web_scraping_even_possible_help/",
+    "total_comments": 9,
+    "top_level_comments": 6,
+    "api_requests": 1,
+    "expected_comments": 9,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_142318.json",
+      "scrape_002_20251118_143315.json",
+      "scrape_003_20251118_144318.json"
+    ]
+  }
+}

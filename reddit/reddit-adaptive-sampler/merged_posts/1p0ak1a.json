@@ -1,0 +1,177 @@
+{
+  "post": {
+    "id": "1p0ak1a",
+    "title": "These 10 AI prompts replaced my entire study routine (and saved me a lot of money)",
+    "author": "EQ4C",
+    "score_history": [
+      [
+        31,
+        "2025-11-18T14:56:21.177702"
+      ],
+      [
+        32,
+        "2025-11-18T15:04:36.619607"
+      ],
+      [
+        34,
+        "2025-11-18T15:05:54.739865"
+      ],
+      [
+        37,
+        "2025-11-18T22:41:19.310048"
+      ],
+      [
+        42,
+        "2025-11-19T00:15:45.755421"
+      ],
+      [
+        40,
+        "2025-11-19T02:01:31.669500"
+      ]
+    ],
+    "created_utc": 1763468685.0,
+    "num_comments": 5,
+    "subreddit": "PromptEngineering",
+    "url": "https://www.reddit.com/r/PromptEngineering/comments/1p0ak1a/these_10_ai_prompts_replaced_my_entire_study/",
+    "selftext": "After burning through subscription after subscription, I realized I was paying for what AI could do better.\n\nSo I ditched the apps and turned Claude/ChatGPT into my personal learning assistant.\n\nThe results? I've mastered more skills in 6 weeks than I did in 6 months of traditional methods.\n\nHere are 10 AI prompts that transformed how I learn everything from coding to cooking.\n\nCopy these and watch your progress explode 📈\n\n**1. The Deep Dive Explainer:**\n\n\"Break down [complex topic] like I'm 12, then gradually increase complexity over 5 levels until I reach expert understanding.\"\n\n**2. Mistake Prevention System:**\n\n\"List the 10 most common mistakes beginners make with [skill/topic]. For each, give me a simple check to avoid it.\"\n\n**3. Learning Path Architect:**\n\n\"Create a step-by-step roadmap to master [skill] in [timeframe]. Include milestones, resources, and weekly goals.\"\n\n**4. The Analogy Machine:**\n\n\"Explain [difficult concept] using 3 different analogies from [sports/cooking/movies]. Make it impossible to forget.\"\n\n**5. Practice Problem Generator:**\n\n\"Give me 5 progressively harder practice problems for [topic]. Include hints and detailed solutions.\"\n\n**6. Real-World Connector:**\n\n\"Show me 7 ways [concept I'm learning] applies to everyday situations. Use specific examples I can relate to.\"\n\n**7. Knowledge Gap Hunter:**\n\n\"Quiz me on [subject] with 10 questions. Based on my answers, identify exactly what I need to study next.\"\n\n**8. The Simplification Master:**\n\n\"Take this complex explanation [paste text] and rewrite it so a 10-year-old could understand it perfectly.\"\n\n**9. Memory Palace Builder:**\n\n\"Help me create a vivid story connecting these [facts/formulas/vocab words] so I never forget them.\"\n\n**10. Progress Accelerator:**\n\n\"I know [current knowledge]. Design 3 challenging projects that will push me to the next level in [skill/subject].\"\n\n**The game-changer?** These prompts adapt to ANY subject.\n\nI've used them for:\n- Python programming \n- French cooking techniques\n- Digital marketing strategies\n- Guitar music theory\n- Even learning chess openings\n\n**Pro tip:** Follow up each response with \"Give me 3 follow-up questions to deepen my understanding.\"\n\nWho else is ready to ditch expensive courses and unlock AI's full potential?\n\nKeen on mega prompts, explore totally free well categorized [prompt collection](https://tools.eq4c.com/all-prompt-categories/).",
+    "permalink": "/r/PromptEngineering/comments/1p0ak1a/these_10_ai_prompts_replaced_my_entire_study/"
+  },
+  "comments": [
+    {
+      "id": "npj8url",
+      "parent_id": "t3_1p0ak1a",
+      "author": "cave_men",
+      "text_history": [
+        [
+          "hello advertisement",
+          "2025-11-18T14:56:21.177702"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:56:21.177702"
+        ],
+        [
+          1,
+          "2025-11-18T15:04:36.619607"
+        ],
+        [
+          1,
+          "2025-11-18T15:05:54.739865"
+        ],
+        [
+          2,
+          "2025-11-18T22:41:19.310048"
+        ],
+        [
+          2,
+          "2025-11-19T00:15:45.755421"
+        ],
+        [
+          2,
+          "2025-11-19T02:01:31.669500"
+        ]
+      ],
+      "created_utc": 1763490260.0,
+      "depth": 0,
+      "permalink": "/r/PromptEngineering/comments/1p0ak1a/these_10_ai_prompts_replaced_my_entire_study/npj8url/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npkv5t1",
+      "parent_id": "t3_1p0ak1a",
+      "author": "FreshRadish2957",
+      "text_history": [
+        [
+          "You’ve got some solid categories here, but a few of these prompts are doing the same job with extra steps. You can actually make this whole set stronger and more adaptive with a cleaner structure:\n\n1. Deep Dive Explainer\n“Break this down for a complete beginner. Increase the complexity in 5 steps until it reaches expert-level clarity.”\n\n2. Mistake Mapper\n“What are the 5 mistakes people make with this topic, and how do I avoid each one?”\n\n3. Learning Roadmap\n“Create a simple path from beginner to competent. Include milestones, checkpoints, and what to practise each week.”\n\n4. Analogy Machine\n“Give me 3 analogies from different domains that make this idea easier to remember.”\n\n5. Practice Generator\n“Build a 5-stage practice set that gets harder each round. Include hints and answers.”\n\n6. Real-World Connector\n“Show me where this shows up in real life. Use examples that fit everyday situations.”\n\n7. Knowledge Gap Checker\n“Give me 10 quick questions to test my understanding. Tell me which parts I need to revisit.”\n\n8. Simplifier\n“Rewrite this as if teaching a 10-year-old without losing accuracy.”\n\n9. Memory Anchor Builder\n“Create a short story or vivid mnemonic connecting these concepts so I don’t forget them.”\n\n10. Progress Project\n“Give me 3 small projects that will move me from ‘learning’ to ‘applying’ this skill.”\n\nThis keeps all the value but removes overlap and hype.\n\nIf you want an actual structured system that ties these together, you can run them in this order:\n\nExplain → Spot mistakes → Build roadmap → Give analogies → Practise → Real-world link → Test → Simplify → Lock into memory → Apply\n\nWay cleaner and works with any skill.",
+          "2025-11-18T22:41:19.310048"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-18T22:41:19.310048"
+        ],
+        [
+          2,
+          "2025-11-19T00:15:45.755421"
+        ],
+        [
+          2,
+          "2025-11-19T02:01:31.669500"
+        ]
+      ],
+      "created_utc": 1763508112.0,
+      "depth": 0,
+      "permalink": "/r/PromptEngineering/comments/1p0ak1a/these_10_ai_prompts_replaced_my_entire_study/npkv5t1/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nplvf14",
+      "parent_id": "t3_1p0ak1a",
+      "author": "0LoveAnonymous0",
+      "text_history": [
+        [
+          "These are solid. I use a few like the Deep Dive Explainer and Practice Problem Generator. It really speeds up learning.",
+          "2025-11-18T22:41:19.310048"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T22:41:19.310048"
+        ],
+        [
+          1,
+          "2025-11-19T00:15:45.755421"
+        ],
+        [
+          1,
+          "2025-11-19T02:01:31.669500"
+        ]
+      ],
+      "created_utc": 1763521035.0,
+      "depth": 0,
+      "permalink": "/r/PromptEngineering/comments/1p0ak1a/these_10_ai_prompts_replaced_my_entire_study/nplvf14/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T02:01:31.669500",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/PromptEngineering/comments/1p0ak1a/these_10_ai_prompts_replaced_my_entire_study/",
+    "total_comments": 3,
+    "top_level_comments": 3,
+    "api_requests": 1,
+    "expected_comments": 5,
+    "coverage_percent": 60.0,
+    "merged_snapshot_count": 6,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_145620.json",
+      "scrape_002_20251118_150436.json",
+      "scrape_003_20251118_150554.json",
+      "scrape_004_20251118_224119.json",
+      "scrape_005_20251119_001545.json",
+      "scrape_006_20251119_020131.json"
+    ]
+  }
+}

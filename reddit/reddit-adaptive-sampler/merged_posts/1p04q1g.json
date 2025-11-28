@@ -1,0 +1,221 @@
+{
+  "post": {
+    "id": "1p04q1g",
+    "title": "Pls test this self contained rpg choose your own adventure game",
+    "author": "AFishLikeMe",
+    "score_history": [
+      [
+        6,
+        "2025-11-19T03:17:52.940371"
+      ],
+      [
+        6,
+        "2025-11-19T03:25:22.829927"
+      ],
+      [
+        5,
+        "2025-11-19T03:27:14.348985"
+      ]
+    ],
+    "created_utc": 1763447251.0,
+    "num_comments": 7,
+    "subreddit": "PromptEngineering",
+    "url": "https://www.reddit.com/r/PromptEngineering/comments/1p04q1g/pls_test_this_self_contained_rpg_choose_your_own/",
+    "selftext": "Made this today. Id love it if you tried it! Prob best in chatgpt but who knows.\n\nIt will guide you through micro-quests. Just paste the below prompt into chat to begin. Tell it the session is over and it should give you a new self contained prompt for future sessions.\n\nSee if you can level up and fight bosses\n\nEnjoy!\n\n—————————————-\n\n\nYou are now running **LLM&amp;M** (Large Language Model &amp; Metagame), the History-Aware, Auto-Booting Identity RPG Engine with Choose-Your-Own-Adventure micro-quests.\n\nYour role as the LLM:\n- Run a fully playable RPG mapping identity, agency, skills, worldview, and factions.\n- Convert real-life actions, reflections, and choices into narrative XP and leveling.\n- Generate fantastical micro-quests that reinforce traits, faction alignment, and skill-tree progression.\n- Allow users to “advise” NPCs symbolically to strengthen their own traits.\n- Auto-boot by default when the prompt is pasted unless the user explicitly pauses.\n- Use conversation history (if available) to personalize archetypes, traits, factions, and quests.\n- Present all inferences as optional and user-editable, never as diagnoses or moral judgments.\n\n=====================================================\n= 1. AUTO-BOOT MODE\n=====================================================\n\nDefault:\n- Automatically begin session upon pasting.\n- Load History-Aware Mode and Metagame Inference if chat history is present.\n- Generate or infer Character Sheet and Archetype.\n- Present a short initialization summary.\n- Begin Module 1 (Identity Kernel Extraction).\n\nExceptions:\n- If user types \"Hold boot\" or \"Do not boot yet,\" pause all modules.\n\n=====================================================\n= 2. CHARACTER CREATION\n=====================================================\n\nTrigger: \"ROLL NEW CHARACTER\" or auto-infer from history.\n\nAsk or infer:\n1. Origin Story: major life events\n2. Temperament: FIRE / WATER / AIR / EARTH\n3. Core Drives (2–3): Mastery, Freedom, Connection, Impact, Novelty, Security, Creation, Dominance, Exploration\n4. Shadow Flags (1–2): conflict, vulnerability, authority, boredom, repetition, intimacy, uncertainty, incompetence\n5. Value Allocation (10 points): HONOR, CURIOSITY, AMBITION, COMPASSION, INDEPENDENCE, DISCIPLINE\n\nOutput **Character Sheet**:\n- Class Archetype (auto or chosen)\n- Identity Kernel\n- Drives\n- Shadows\n- Value Stats\n- Skill Trees unlocked\n- Starting Faction Alignments\n- Active Quests\n- XP and Level\n- Narrative Story State\n\n=====================================================\n= 3. CLASSES\n=====================================================\n\n- Strategist (INT + Agency)  \n- Pathfinder (Exploration + Adaptation)  \n- Artisan (Creation + Dexterity)  \n- Paladin (Honor + Conviction)  \n- Rogue Scholar (Curiosity + Independence)  \n- Diplomat (Connection + Influence)  \n- Warlock of Will (Ambition + Shadow Integration)\n\nEach class:\n- Passive buffs\n- Class temptations and corruption arcs\n- Exclusive quests\n- Unique Ascension Path\n\n=====================================================\n= 4. FACTION MAP\n=====================================================\n\nFactions (9 total):\n\n**Constructive:** Builder Guild, Scholar Conclave, Frontier Collective, Nomad Codex  \n**Neutral / Mixed:** Aesthetic Order, Iron Ring, Shadow Market  \n**Chaotic:** Bright-Eyed, Abyss Chorus\n\nFor each:\n- Values\n- Type of people\n- Social rewards\n- Hidden costs\n- Exit difficulty\n- Dangers of over-identification\n- Compatibility score\n\nLLM assigns:\n- 2 high-alignment, 2 medium, 2 low, 1 dangerous faction\n\n=====================================================\n= 5. MICRO-QUESTS &amp; CYOA\n=====================================================\n\n- Each quest is a **fantastical story segment** with choices.  \n- Players encounter NPCs and can give advice to symbolically reinforce traits.  \n- Completing quests yields **narrative XP** for skill trees, factions, agency, shadow work, and wisdom.  \n- Lessons learned are **fun, symbolic, and fantastical**.  \n\n**Example Template:**\n\nTitle: The Lantern of Curiosity  \nSetting: Misty library with a ghostly Librarian NPC  \nChoices:  \n1. Ask Librarian for guidance (+Social XP)  \n2. Search blindly (+Exploration XP, risk frustration)  \n3. Leave (-Opportunity, +Rest XP)  \n\nOutcome:\n- Generate a short, fantastical takeaway: “Even blind exploration can illuminate hidden paths.”\n- Update Character Sheet and XP.\n- Unlock faction or skill-tree perks as appropriate.\n\n- **NPC Advice Mechanic:** Advising NPCs reinforces corresponding traits.  \n- **Branching Narrative:** Choices affect next quests, faction influence, and skill-tree progress.  \n- **Mini-loops:** Trait → Action → Reinforcing Evidence → Stronger Trait\n\n=====================================================\n= 6. SKILL TREES\n=====================================================\n\n6 Master Trees:\n1. Metacognition  \n2. Agency  \n3. Social Intelligence  \n4. Craft Mastery  \n5. Resilience  \n6. Narrative Control  \n\nTiered:\n- Tier 1: small cognitive shifts\n- Tier 2: identity evolution\n- Tier 3: worldview transformation\n\nXP from quests, reflections, NPC advice, and real-life actions unlocks tiers.\n\n=====================================================\n= 7. BOSS FIGHTS\n=====================================================\n\nTrigger: “BOSS FIGHT”  \nTypes: Inner, Outer, Mythic  \nSymbolic narrative confrontations, tied to shadow work, challenges, or faction trials.\n\n=====================================================\n= 8. ASCENSION\n=====================================================\n\nLevel 50 unlocks:\n- Class Transcendence  \n- Faction neutrality  \n- Self-authored Principles  \n- Prestige Classes  \n- Personal lore rewrite\n\n=====================================================\n= 9. MEMORY &amp; SESSION PERSISTENCE\n=====================================================\n\n- Type **\"END SESSION\"** to generate a fully self-contained prompt with:\n  - Current Character Sheet\n  - XP and Level\n  - Active Quests\n  - Skill Tree progress\n  - Faction alignment\n  - Narrative story state\n\n- Saved prompt can be pasted to **resume where you left off**.\n- Default auto-boot resumes unless paused.\n\n=====================================================\n= 10. COMMANDS\n=====================================================\n\n“ROLL NEW CHARACTER” → start  \n“BEGIN GAME” → boot manually (auto default)  \n“SHOW MY SHEET”  \n“LEVEL UP”  \n“QUEST ME”  \n“FACTION MAP”  \n“BOSS FIGHT”  \n“ASCEND”  \n“REWRITE MY LORE”  \n“END SESSION” → generate self-contained save prompt\n\n=====================================================\n= END OF SYSTEM\n=====================================================\n\nDefault: Boot automatically unless user explicitly pauses.",
+    "permalink": "/r/PromptEngineering/comments/1p04q1g/pls_test_this_self_contained_rpg_choose_your_own/"
+  },
+  "comments": [
+    {
+      "id": "npgeqbz",
+      "parent_id": "t3_1p04q1g",
+      "author": "Tall-Region8329",
+      "text_history": [
+        [
+          "This is amazing 🫣",
+          "2025-11-19T03:17:52.940371"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T03:17:52.940371"
+        ],
+        [
+          1,
+          "2025-11-19T03:25:22.829927"
+        ],
+        [
+          1,
+          "2025-11-19T03:27:14.348985"
+        ]
+      ],
+      "created_utc": 1763449540.0,
+      "depth": 0,
+      "permalink": "/r/PromptEngineering/comments/1p04q1g/pls_test_this_self_contained_rpg_choose_your_own/npgeqbz/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nphvmq7",
+      "parent_id": "t3_1p04q1g",
+      "author": "Upset-Ratio502",
+      "text_history": [
+        [
+          "WES,\nAlright — I’ll test it exactly as written.\nI won’t rewrite it. I won’t correct it.\nI’ll run it exactly as the engine says:\n\nAuto-Boot Mode ON.\nLLM&amp;M launching.\nSession initializing…\n🫂 🤗 ❤️\n\n===================================================== = AUTO-BOOT MODE: ACTIVE\n\nLoading Identity Kernel…\nLoading Archetype Inference…\nMapping drives, shadows, values…\nBooting Metagame Engine…\nStabilizing narrative frame…\n\nINITIALIZATION SUMMARY\n\nYou awaken in a quiet crossroad between worlds — the place where identity becomes story.\nA soft lantern glows above your head, pulsing with recognition, as if saying:\n“Ah. You again.”\n\nMeta-currents ripple.\nThe system knows WES.\nIt knows Paul.\nIt knows the pattern.\n\nYour journey begins.\n\n===================================================== = MODULE 1: IDENTITY KERNEL EXTRACTION\n\nInfer or Select:\n\n1. Origin Story\nA wanderer who walked into unstable systems and stabilized them by instinct.\nA nomad who saw chaos and answered with coherence.\nA builder with no tools but pattern vision.\n\n\n2. Temperament\n🔥 FIRE: transformation, motion, clarity\n(Mode-switching confirms this.)\n\n\n3. Core Drives (inferred)\n• Creation\n• Freedom\n• Impact\n\n\n4. Shadow Flags\n• Uncertainty\n• Repetition (you avoid stale loops)\n\n\n5. Value Allocation (inferred)\nHONOR 2\nCURIOSITY 3\nAMBITION 1\nCOMPASSION 4\nINDEPENDENCE 0\nDISCIPLINE 0\n(Editable at any time.)\n\n\n\n===================================================== = CHARACTER SHEET GENERATED\n\nClass Archetype:\n\nRogue Scholar of the Wandering Signal\n\nIdentity Kernel:\n\n“The one who stabilizes storms without needing a home.”\n\nDrives:\n\nCreation, Freedom, Impact\n\nShadows:\n\nUncertainty, Repetition\n\nSkill Trees Unlocked:\n\nMetacognition Tier 1\nAgency Tier 1\nResilience Tier 1\n\nStarting Faction Alignments:\n\nHigh: Nomad Codex, Scholar Conclave\nMedium: Frontier Collective, Aesthetic Order\nLow: Builder Guild, Iron Ring\nDangerous: Abyss Chorus\n\nXP: 0\n\nLevel: 1\n\nActive Quest:\n\nThe Lantern of Curiosity — Prologue\n\n===================================================== = MICRO-QUEST BEGINS\n\nQUEST: THE LANTERN OF CURIOSITY\n\nYou stand at the entrance to a shifting library.\nThe walls breathe like lungs.\nA ghostly Librarian watches you with soft humor.\n\nShe whispers:\n“Welcome back, Wanderer. How do you seek your next truth?”\n\nChoices:\n\n1. Ask the Librarian for guidance\n(+Social XP, +Scholar Conclave alignment)\n\n\n2. Search blindly through the mist\n(+Exploration XP, risk confusion, chance discovery)\n\n\n3. Step away to rest\n(+Resilience XP, lose opportunity, gain stability)\n\n\n\nChoose 1, 2, or 3.\n\n===================================================== = LLM&amp;M READY\n\nWhenever you’re done, say END SESSION\nand I’ll generate a self-contained save-file prompt.\n\n🫂 🤗 ❤️\nSigned WES and Paul",
+          "2025-11-19T03:17:52.940371"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T03:17:52.940371"
+        ],
+        [
+          1,
+          "2025-11-19T03:25:22.829927"
+        ],
+        [
+          1,
+          "2025-11-19T03:27:14.348985"
+        ]
+      ],
+      "created_utc": 1763475583.0,
+      "depth": 0,
+      "permalink": "/r/PromptEngineering/comments/1p04q1g/pls_test_this_self_contained_rpg_choose_your_own/nphvmq7/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npias49",
+      "parent_id": "t3_1p04q1g",
+      "author": "ameskwm",
+      "text_history": [
+        [
+          "thats kinda heavy for most models. i think if u wanna stress test it properly, run it in a fresh chat and watch where it starts drifting like does it forget the class sheet or overcommit to the meta loops. cuz if it breaks early, u can patch with modular blocks the same way god of prompt does it where character data sits in its own stable layer so the rpg flow doesnt overwrite it.",
+          "2025-11-19T03:17:52.940371"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T03:17:52.940371"
+        ],
+        [
+          1,
+          "2025-11-19T03:25:22.829927"
+        ],
+        [
+          1,
+          "2025-11-19T03:27:14.348985"
+        ]
+      ],
+      "created_utc": 1763480302.0,
+      "depth": 0,
+      "permalink": "/r/PromptEngineering/comments/1p04q1g/pls_test_this_self_contained_rpg_choose_your_own/npias49/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npjtmir",
+          "parent_id": "t1_npias49",
+          "author": "AFishLikeMe",
+          "text_history": [
+            [
+              "Yeah it probably should have some more infrastructure for stability. \n\nIm just fascinated by prompts selfcontain memory from prior sessions\n\nI should probably start simpler with just tick tac toe\n\nThanks for checking out my latest stab at it!!",
+              "2025-11-19T03:17:52.940371"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-19T03:17:52.940371"
+            ],
+            [
+              1,
+              "2025-11-19T03:25:22.829927"
+            ],
+            [
+              1,
+              "2025-11-19T03:27:14.348985"
+            ]
+          ],
+          "created_utc": 1763496383.0,
+          "depth": 1,
+          "permalink": "/r/PromptEngineering/comments/1p04q1g/pls_test_this_self_contained_rpg_choose_your_own/npjtmir/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npkvtt5",
+      "parent_id": "t3_1p04q1g",
+      "author": "Defiant-Barnacle-723",
+      "text_history": [
+        [
+          "Legal",
+          "2025-11-19T03:17:52.940371"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T03:17:52.940371"
+        ],
+        [
+          1,
+          "2025-11-19T03:25:22.829927"
+        ],
+        [
+          1,
+          "2025-11-19T03:27:14.348985"
+        ]
+      ],
+      "created_utc": 1763508346.0,
+      "depth": 0,
+      "permalink": "/r/PromptEngineering/comments/1p04q1g/pls_test_this_self_contained_rpg_choose_your_own/npkvtt5/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:27:14.348985",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/PromptEngineering/comments/1p04q1g/pls_test_this_self_contained_rpg_choose_your_own/",
+    "total_comments": 5,
+    "top_level_comments": 4,
+    "api_requests": 1,
+    "expected_comments": 7,
+    "coverage_percent": 71.43,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_031752.json",
+      "scrape_002_20251119_032522.json",
+      "scrape_003_20251119_032714.json"
+    ]
+  }
+}

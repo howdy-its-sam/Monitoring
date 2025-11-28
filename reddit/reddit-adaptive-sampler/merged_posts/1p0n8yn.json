@@ -1,0 +1,44 @@
+{
+  "post": {
+    "id": "1p0n8yn",
+    "title": "Arctic Sentinel: AI Native ISR Dashboard",
+    "author": "NeatChipmunk9648",
+    "score_history": [
+      [
+        1,
+        "2025-11-19T02:45:52.418144"
+      ],
+      [
+        1,
+        "2025-11-19T02:54:08.525231"
+      ],
+      [
+        1,
+        "2025-11-19T02:55:56.102294"
+      ]
+    ],
+    "created_utc": 1763498431.0,
+    "num_comments": 0,
+    "subreddit": "learnmachinelearning",
+    "url": "https://www.reddit.com/r/learnmachinelearning/comments/1p0n8yn/arctic_sentinel_ai_native_isr_dashboard/",
+    "selftext": "🔍 **Smarter Detection, Human Clarity:**\n\nThis modular, AI-native ISR dashboard doesn’t just surface anomalies—it interprets them. By combining C++ sentiment parsing, environmental signal analysis, and OpenCV-powered anomaly detection across satellite and infrastructure data, it delivers real-time insights that feel intuitive, transparent, and actionable. Whether you’re monitoring defense operations or assessing critical infrastructure, the experience is designed to resonate with analysts and decision-makers alike.\n\n🛡️ **Built for Speed and Trust:**\n\nUnder the hood, it’s powered by RS256-encrypted telemetry and scalable data pipelines. With sub-2-second latency, 99.9% dashboard uptime, and adaptive thresholds that recalibrate with operational volatility, it safeguards every decision while keeping the experience smooth and responsive.\n\n📊 **Visuals That Explain, Not Just Alert:**\n\nThe dashboard integrates Matplotlib-driven 3D visualization layers to render terrain, vulnerabilities, and risk forecasts. Narrative overlays guide users through predictive graphs enriched with sentiment parsing, achieving a 35% drop in false positives, 50% faster triage, and 80% comprehension in stakeholder briefings. This isn’t just a detection engine—it’s a reimagined ISR experience.\n\n💡 **Built for More Than Defense:**  \nThe concept behind this modular ISR prototype isn’t limited to military or security contexts. It’s designed to bring a human approach to strategic insight across industries — from climate resilience and infrastructure monitoring to civic tech and public safety.\n\nPortfolio: [https://ben854719.github.io/](https://ben854719.github.io/)\n\nProject: [https://github.com/ben854719/Arctic-Sentinel-AI-Native-ISR-Dashboard/tree/main](https://github.com/ben854719/Arctic-Sentinel-AI-Native-ISR-Dashboard/tree/main)",
+    "permalink": "/r/learnmachinelearning/comments/1p0n8yn/arctic_sentinel_ai_native_isr_dashboard/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T02:55:56.102294",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/learnmachinelearning/comments/1p0n8yn/arctic_sentinel_ai_native_isr_dashboard/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_024552.json",
+      "scrape_002_20251119_025408.json",
+      "scrape_003_20251119_025555.json"
+    ]
+  }
+}

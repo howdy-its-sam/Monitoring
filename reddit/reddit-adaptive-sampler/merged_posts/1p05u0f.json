@@ -1,0 +1,890 @@
+{
+  "post": {
+    "id": "1p05u0f",
+    "title": "[Discussion] Anyone else doing “summary-only embeddings + full-text context” for RAG?",
+    "author": "No-Piglet8069",
+    "score_history": [
+      [
+        12,
+        "2025-11-18T13:48:59.349529"
+      ],
+      [
+        13,
+        "2025-11-18T14:00:40.151322"
+      ],
+      [
+        13,
+        "2025-11-18T14:11:24.830350"
+      ],
+      [
+        19,
+        "2025-11-18T21:49:52.396300"
+      ],
+      [
+        21,
+        "2025-11-18T23:54:46.062736"
+      ],
+      [
+        23,
+        "2025-11-19T01:40:00.194589"
+      ],
+      [
+        22,
+        "2025-11-19T02:32:48.954119"
+      ],
+      [
+        22,
+        "2025-11-19T02:36:24.132390"
+      ]
+    ],
+    "created_utc": 1763451376.0,
+    "num_comments": 17,
+    "subreddit": "Rag",
+    "url": "https://www.reddit.com/r/Rag/comments/1p05u0f/discussion_anyone_else_doing_summaryonly/",
+    "selftext": "# [Discussion] Anyone else doing “summary-only embeddings + full-text context” for RAG?\n\nhere’s what I’m doing:\n\n**1) For each doc/section:**  \nI generate a tiny synthetic text (title + LLM summary).  \n→ *This is the ONLY thing I embed.*\n\n**2) At query time:**  \nI search over those short summaries.\n\n**3) For answering:**  \nI take all retrieved sections and feed the **full original text** straight into the LLM.  \nNo reranking, no chunk scoring, nothing fancy.\n\nWhy?  \nBecause chunking was slow, expensive, and honestly ruined the semantic boundaries of my data.  \nSummary vectors are way cleaner, and long-context LLMs can handle the raw text way better.\n\nSo far this setup is cheaper, faster, and the answers are more coherent.\n\n**Anyone else trying this “lightweight retriever + heavy context input” style?**  \nCurious about downsides or scaling issues you’ve seen.\n\nIn the PoC level, it works very well!",
+    "permalink": "/r/Rag/comments/1p05u0f/discussion_anyone_else_doing_summaryonly/"
+  },
+  "comments": [
+    {
+      "id": "npholzr",
+      "parent_id": "t3_1p05u0f",
+      "author": "Popular_Sand2773",
+      "text_history": [
+        [
+          "Nice glad to see it’s working for you. I wouldn’t blindly trust the summarizer though. The summaries are lossy by design but the good news is there’s models dedicated to this task.\n\nAdding a sumeval model of some variety will give you much greater debugability and interpretability. It can help you surface where the summarizer is struggling or even better serve as the backbone for an RL loop.",
+          "2025-11-18T13:48:59.349529"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T13:48:59.349529"
+        ],
+        [
+          1,
+          "2025-11-18T14:00:40.151322"
+        ],
+        [
+          1,
+          "2025-11-18T14:11:24.830350"
+        ],
+        [
+          3,
+          "2025-11-18T21:49:52.396300"
+        ],
+        [
+          3,
+          "2025-11-18T23:54:46.062736"
+        ],
+        [
+          3,
+          "2025-11-19T01:40:00.194589"
+        ],
+        [
+          3,
+          "2025-11-19T02:32:48.954119"
+        ],
+        [
+          3,
+          "2025-11-19T02:36:24.132390"
+        ]
+      ],
+      "created_utc": 1763473336.0,
+      "depth": 0,
+      "permalink": "/r/Rag/comments/1p05u0f/discussion_anyone_else_doing_summaryonly/npholzr/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npgimhj",
+      "parent_id": "t3_1p05u0f",
+      "author": "dash_bro",
+      "text_history": [
+        [
+          "This is very similar to the contextual chunking anthropic proposed. Yes, this is standard now. Problem is still going to be latency and cost with the LLMs",
+          "2025-11-18T13:48:59.349529"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T13:48:59.349529"
+        ],
+        [
+          1,
+          "2025-11-18T14:00:40.151322"
+        ],
+        [
+          1,
+          "2025-11-18T14:11:24.830350"
+        ],
+        [
+          1,
+          "2025-11-18T21:49:52.396300"
+        ],
+        [
+          1,
+          "2025-11-18T23:54:46.062736"
+        ],
+        [
+          1,
+          "2025-11-19T01:40:00.194589"
+        ],
+        [
+          1,
+          "2025-11-19T02:32:48.954119"
+        ],
+        [
+          1,
+          "2025-11-19T02:36:24.132390"
+        ]
+      ],
+      "created_utc": 1763451868.0,
+      "depth": 0,
+      "permalink": "/r/Rag/comments/1p05u0f/discussion_anyone_else_doing_summaryonly/npgimhj/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npgm6c5",
+          "parent_id": "t1_npgimhj",
+          "author": "Glass-Stage6823",
+          "text_history": [
+            [
+              "Oh it's very similar idea!",
+              "2025-11-18T13:48:59.349529"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T13:48:59.349529"
+            ],
+            [
+              1,
+              "2025-11-18T14:00:40.151322"
+            ],
+            [
+              1,
+              "2025-11-18T14:11:24.830350"
+            ],
+            [
+              1,
+              "2025-11-18T21:49:52.396300"
+            ],
+            [
+              1,
+              "2025-11-18T23:54:46.062736"
+            ],
+            [
+              1,
+              "2025-11-19T01:40:00.194589"
+            ],
+            [
+              1,
+              "2025-11-19T02:32:48.954119"
+            ],
+            [
+              1,
+              "2025-11-19T02:36:24.132390"
+            ]
+          ],
+          "created_utc": 1763454041.0,
+          "depth": 1,
+          "permalink": "/r/Rag/comments/1p05u0f/discussion_anyone_else_doing_summaryonly/npgm6c5/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npgj2zv",
+      "parent_id": "t3_1p05u0f",
+      "author": "CapitalShake3085",
+      "text_history": [
+        [
+          "Hi,\nThe idea works because one of the techniques used in chunking enrichment is adding keywords and summaries to the chunks. However, relying only on the summaries may work in some contexts but can still be less accurate, as you might lose information. Imagine 20-page sections where you have, for example, 5 chunks; in this case, they would be compressed into a single summary, which could not be enough.",
+          "2025-11-18T13:48:59.349529"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T13:48:59.349529"
+        ],
+        [
+          1,
+          "2025-11-18T14:00:40.151322"
+        ],
+        [
+          1,
+          "2025-11-18T14:11:24.830350"
+        ],
+        [
+          1,
+          "2025-11-18T21:49:52.396300"
+        ],
+        [
+          1,
+          "2025-11-18T23:54:46.062736"
+        ],
+        [
+          1,
+          "2025-11-19T01:40:00.194589"
+        ],
+        [
+          1,
+          "2025-11-19T02:32:48.954119"
+        ],
+        [
+          1,
+          "2025-11-19T02:36:24.132390"
+        ]
+      ],
+      "created_utc": 1763452145.0,
+      "depth": 0,
+      "permalink": "/r/Rag/comments/1p05u0f/discussion_anyone_else_doing_summaryonly/npgj2zv/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npgmd2i",
+          "parent_id": "t1_npgj2zv",
+          "author": "Glass-Stage6823",
+          "text_history": [
+            [
+              "It is weakness of my system.\nI just believe it summary and title are informative",
+              "2025-11-18T13:48:59.349529"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T13:48:59.349529"
+            ],
+            [
+              1,
+              "2025-11-18T14:00:40.151322"
+            ],
+            [
+              1,
+              "2025-11-18T14:11:24.830350"
+            ],
+            [
+              1,
+              "2025-11-18T21:49:52.396300"
+            ],
+            [
+              1,
+              "2025-11-18T23:54:46.062736"
+            ],
+            [
+              1,
+              "2025-11-19T01:40:00.194589"
+            ],
+            [
+              1,
+              "2025-11-19T02:32:48.954119"
+            ],
+            [
+              1,
+              "2025-11-19T02:36:24.132390"
+            ]
+          ],
+          "created_utc": 1763454156.0,
+          "depth": 1,
+          "permalink": "/r/Rag/comments/1p05u0f/discussion_anyone_else_doing_summaryonly/npgmd2i/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "nph5ota",
+      "parent_id": "t3_1p05u0f",
+      "author": "Dapper-Turn-3021",
+      "text_history": [
+        [
+          "You are doing what industry needed but still their are room to improve the latency by implementing cache and have more meta data for the docs to get better context before going to LLM",
+          "2025-11-18T13:48:59.349529"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T13:48:59.349529"
+        ],
+        [
+          1,
+          "2025-11-18T14:00:40.151322"
+        ],
+        [
+          1,
+          "2025-11-18T14:11:24.830350"
+        ],
+        [
+          1,
+          "2025-11-18T21:49:52.396300"
+        ],
+        [
+          1,
+          "2025-11-18T23:54:46.062736"
+        ],
+        [
+          1,
+          "2025-11-19T01:40:00.194589"
+        ],
+        [
+          1,
+          "2025-11-19T02:32:48.954119"
+        ],
+        [
+          1,
+          "2025-11-19T02:36:24.132390"
+        ]
+      ],
+      "created_utc": 1763465831.0,
+      "depth": 0,
+      "permalink": "/r/Rag/comments/1p05u0f/discussion_anyone_else_doing_summaryonly/nph5ota/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npiiz1a",
+          "parent_id": "t1_nph5ota",
+          "author": "National_Purple_5427",
+          "text_history": [
+            [
+              "Totally agree about caching! It could really speed things up, especially with larger datasets. More meta data would definitely help improve context too—what kind of metadata do you think would be most useful?",
+              "2025-11-18T13:48:59.349529"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T13:48:59.349529"
+            ],
+            [
+              1,
+              "2025-11-18T14:00:40.151322"
+            ],
+            [
+              1,
+              "2025-11-18T14:11:24.830350"
+            ],
+            [
+              1,
+              "2025-11-18T21:49:52.396300"
+            ],
+            [
+              1,
+              "2025-11-18T23:54:46.062736"
+            ],
+            [
+              1,
+              "2025-11-19T01:40:00.194589"
+            ],
+            [
+              1,
+              "2025-11-19T02:32:48.954119"
+            ],
+            [
+              1,
+              "2025-11-19T02:36:24.132390"
+            ]
+          ],
+          "created_utc": 1763482707.0,
+          "depth": 1,
+          "permalink": "/r/Rag/comments/1p05u0f/discussion_anyone_else_doing_summaryonly/npiiz1a/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npj3tih",
+              "parent_id": "t1_npiiz1a",
+              "author": "Dapper-Turn-3021",
+              "text_history": [
+                [
+                  "it’s depends upon what kind of data ypu have for pdf tutle page links are important",
+                  "2025-11-18T13:48:59.349529"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-18T13:48:59.349529"
+                ],
+                [
+                  1,
+                  "2025-11-18T14:00:40.151322"
+                ],
+                [
+                  1,
+                  "2025-11-18T14:11:24.830350"
+                ],
+                [
+                  1,
+                  "2025-11-18T21:49:52.396300"
+                ],
+                [
+                  1,
+                  "2025-11-18T23:54:46.062736"
+                ],
+                [
+                  1,
+                  "2025-11-19T01:40:00.194589"
+                ],
+                [
+                  1,
+                  "2025-11-19T02:32:48.954119"
+                ],
+                [
+                  1,
+                  "2025-11-19T02:36:24.132390"
+                ]
+              ],
+              "created_utc": 1763488812.0,
+              "depth": 2,
+              "permalink": "/r/Rag/comments/1p05u0f/discussion_anyone_else_doing_summaryonly/npj3tih/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "nphhfad",
+      "parent_id": "t3_1p05u0f",
+      "author": "AdditionMean2674",
+      "text_history": [
+        [
+          "I've tried this- performed worse in my case. \n\nI would run an eval and decide for myself.",
+          "2025-11-18T13:48:59.349529"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T13:48:59.349529"
+        ],
+        [
+          1,
+          "2025-11-18T14:00:40.151322"
+        ],
+        [
+          1,
+          "2025-11-18T14:11:24.830350"
+        ],
+        [
+          1,
+          "2025-11-18T21:49:52.396300"
+        ],
+        [
+          1,
+          "2025-11-18T23:54:46.062736"
+        ],
+        [
+          1,
+          "2025-11-19T01:40:00.194589"
+        ],
+        [
+          1,
+          "2025-11-19T02:32:48.954119"
+        ],
+        [
+          1,
+          "2025-11-19T02:36:24.132390"
+        ]
+      ],
+      "created_utc": 1763470868.0,
+      "depth": 0,
+      "permalink": "/r/Rag/comments/1p05u0f/discussion_anyone_else_doing_summaryonly/nphhfad/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "nplgu6s",
+          "parent_id": "t1_nphhfad",
+          "author": "Glass-Stage6823",
+          "text_history": [
+            [
+              "Oh thank u for your sharing",
+              "2025-11-18T21:49:52.396300"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T21:49:52.396300"
+            ],
+            [
+              1,
+              "2025-11-18T23:54:46.062736"
+            ],
+            [
+              1,
+              "2025-11-19T01:40:00.194589"
+            ],
+            [
+              1,
+              "2025-11-19T02:32:48.954119"
+            ],
+            [
+              1,
+              "2025-11-19T02:36:24.132390"
+            ]
+          ],
+          "created_utc": 1763515815.0,
+          "depth": 1,
+          "permalink": "/r/Rag/comments/1p05u0f/discussion_anyone_else_doing_summaryonly/nplgu6s/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npigkjo",
+      "parent_id": "t3_1p05u0f",
+      "author": "itz_lovapadala",
+      "text_history": [
+        [
+          "I did fallow the same approach to feed more context to MCP client hosted in IDEs through RAG. Vectorize the only metadata and source is returned as a result which contains the full document to feed to the LLM",
+          "2025-11-18T13:48:59.349529"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T13:48:59.349529"
+        ],
+        [
+          1,
+          "2025-11-18T14:00:40.151322"
+        ],
+        [
+          1,
+          "2025-11-18T14:11:24.830350"
+        ],
+        [
+          1,
+          "2025-11-18T21:49:52.396300"
+        ],
+        [
+          1,
+          "2025-11-18T23:54:46.062736"
+        ],
+        [
+          1,
+          "2025-11-19T01:40:00.194589"
+        ],
+        [
+          1,
+          "2025-11-19T02:32:48.954119"
+        ],
+        [
+          1,
+          "2025-11-19T02:36:24.132390"
+        ]
+      ],
+      "created_utc": 1763482005.0,
+      "depth": 0,
+      "permalink": "/r/Rag/comments/1p05u0f/discussion_anyone_else_doing_summaryonly/npigkjo/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npiomoc",
+      "parent_id": "t3_1p05u0f",
+      "author": "abol3z",
+      "text_history": [
+        [
+          "I didn't test it myself but I read about 'voyage-context-3' which seems to address the issue of global context without the need for an extra summarization step.",
+          "2025-11-18T13:48:59.349529"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T13:48:59.349529"
+        ],
+        [
+          1,
+          "2025-11-18T14:00:40.151322"
+        ],
+        [
+          1,
+          "2025-11-18T14:11:24.830350"
+        ],
+        [
+          1,
+          "2025-11-18T21:49:52.396300"
+        ],
+        [
+          1,
+          "2025-11-18T23:54:46.062736"
+        ],
+        [
+          1,
+          "2025-11-19T01:40:00.194589"
+        ],
+        [
+          1,
+          "2025-11-19T02:32:48.954119"
+        ],
+        [
+          1,
+          "2025-11-19T02:36:24.132390"
+        ]
+      ],
+      "created_utc": 1763484353.0,
+      "depth": 0,
+      "permalink": "/r/Rag/comments/1p05u0f/discussion_anyone_else_doing_summaryonly/npiomoc/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "nplgr89",
+          "parent_id": "t1_npiomoc",
+          "author": "Glass-Stage6823",
+          "text_history": [
+            [
+              "What is voyage-context-3?",
+              "2025-11-18T21:49:52.396300"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T21:49:52.396300"
+            ],
+            [
+              1,
+              "2025-11-18T23:54:46.062736"
+            ],
+            [
+              1,
+              "2025-11-19T01:40:00.194589"
+            ],
+            [
+              1,
+              "2025-11-19T02:32:48.954119"
+            ],
+            [
+              1,
+              "2025-11-19T02:36:24.132390"
+            ]
+          ],
+          "created_utc": 1763515786.0,
+          "depth": 1,
+          "permalink": "/r/Rag/comments/1p05u0f/discussion_anyone_else_doing_summaryonly/nplgr89/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npn45pw",
+              "parent_id": "t1_nplgr89",
+              "author": "abol3z",
+              "text_history": [
+                [
+                  "An embedding model",
+                  "2025-11-19T01:40:00.194589"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-19T01:40:00.194589"
+                ],
+                [
+                  1,
+                  "2025-11-19T02:32:48.954119"
+                ],
+                [
+                  1,
+                  "2025-11-19T02:36:24.132390"
+                ]
+              ],
+              "created_utc": 1763543367.0,
+              "depth": 2,
+              "permalink": "/r/Rag/comments/1p05u0f/discussion_anyone_else_doing_summaryonly/npn45pw/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "nplegif",
+      "parent_id": "t3_1p05u0f",
+      "author": "stingraycharles",
+      "text_history": [
+        [
+          "This is almost the same as what the RAPTOR paper from last year suggested: https://arxiv.org/abs/2401.18059\n\nCreate summaries, cluster based on summary, then create a summary of those, etc. It’s a solid approach, especially since, when summarizing, you can ensure the LLM uses a consistent style.",
+          "2025-11-18T21:49:52.396300"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T21:49:52.396300"
+        ],
+        [
+          1,
+          "2025-11-18T23:54:46.062736"
+        ],
+        [
+          1,
+          "2025-11-19T01:40:00.194589"
+        ],
+        [
+          1,
+          "2025-11-19T02:32:48.954119"
+        ],
+        [
+          1,
+          "2025-11-19T02:36:24.132390"
+        ]
+      ],
+      "created_utc": 1763514947.0,
+      "depth": 0,
+      "permalink": "/r/Rag/comments/1p05u0f/discussion_anyone_else_doing_summaryonly/nplegif/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "nplgonw",
+          "parent_id": "t1_nplegif",
+          "author": "Glass-Stage6823",
+          "text_history": [
+            [
+              "Thank u for your sharing!\nI will read that paper",
+              "2025-11-18T21:49:52.396300"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T21:49:52.396300"
+            ],
+            [
+              1,
+              "2025-11-18T23:54:46.062736"
+            ],
+            [
+              1,
+              "2025-11-19T01:40:00.194589"
+            ],
+            [
+              1,
+              "2025-11-19T02:32:48.954119"
+            ],
+            [
+              1,
+              "2025-11-19T02:36:24.132390"
+            ]
+          ],
+          "created_utc": 1763515760.0,
+          "depth": 1,
+          "permalink": "/r/Rag/comments/1p05u0f/discussion_anyone_else_doing_summaryonly/nplgonw/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T02:36:24.132390",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/Rag/comments/1p05u0f/discussion_anyone_else_doing_summaryonly/",
+    "total_comments": 16,
+    "top_level_comments": 8,
+    "api_requests": 1,
+    "expected_comments": 17,
+    "coverage_percent": 94.12,
+    "merged_snapshot_count": 8,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_134859.json",
+      "scrape_002_20251118_140039.json",
+      "scrape_003_20251118_141124.json",
+      "scrape_004_20251118_214952.json",
+      "scrape_005_20251118_235445.json",
+      "scrape_006_20251119_013959.json",
+      "scrape_007_20251119_023248.json",
+      "scrape_008_20251119_023623.json"
+    ]
+  }
+}

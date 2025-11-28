@@ -1,0 +1,44 @@
+{
+  "post": {
+    "id": "qu68sf",
+    "title": "evaluating CHIA",
+    "author": "Accomplished_Soup678",
+    "score_history": [
+      [
+        1,
+        "2025-11-19T03:41:44.402534"
+      ],
+      [
+        1,
+        "2025-11-19T03:47:26.215502"
+      ],
+      [
+        1,
+        "2025-11-19T03:50:12.052756"
+      ]
+    ],
+    "created_utc": 1636944618.0,
+    "num_comments": 0,
+    "subreddit": "HealthAI",
+    "url": "https://www.reddit.com/r/HealthAI/comments/qu68sf/evaluating_chia/",
+    "selftext": "[https://www.reddit.com/user/Accomplished\\_Soup678/comments/qivn9g/chia\\_certified\\_health\\_informatician\\_australiasia/?utm\\_source=share&amp;utm\\_medium=web2x&amp;context=3](https://www.reddit.com/user/Accomplished_Soup678/comments/qivn9g/chia_certified_health_informatician_australiasia/?utm_source=share&amp;utm_medium=web2x&amp;context=3)",
+    "permalink": "/r/HealthAI/comments/qu68sf/evaluating_chia/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:50:12.052756",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/HealthAI/comments/qu68sf/evaluating_chia/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_034144.json",
+      "scrape_002_20251119_034725.json",
+      "scrape_003_20251119_035011.json"
+    ]
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "post": {
+    "id": "1oshqta",
+    "title": "Best affordable camcorder",
+    "author": "Greedy_Fig4556",
+    "score_history": [
+      [
+        3,
+        "2025-11-18T14:23:19.713504"
+      ],
+      [
+        3,
+        "2025-11-18T14:33:05.737763"
+      ],
+      [
+        3,
+        "2025-11-18T14:43:12.697357"
+      ]
+    ],
+    "created_utc": 1762690035.0,
+    "num_comments": 2,
+    "subreddit": "ContentMarketing",
+    "url": "https://www.reddit.com/r/ContentMarketing/comments/1oshqta/best_affordable_camcorder/",
+    "selftext": "Hi all,\n\nI’m travelling to Kathmandu in Nepal and want to create some video of interviews, surrounding areas, and manufacturing in a knitting studio. I have a knitwear brand and want to create a low budget mini documentary of the process and the stories behind my products.\n\nI’m by no means an experienced videographer, but I also do some content creation on iPhone for other brands for several years prw",
+    "permalink": "/r/ContentMarketing/comments/1oshqta/best_affordable_camcorder/"
+  },
+  "comments": [
+    {
+      "id": "no8o5lb",
+      "parent_id": "t3_1oshqta",
+      "author": "Strokesite",
+      "text_history": [
+        [
+          "How about GoPro?",
+          "2025-11-18T14:23:19.713504"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:23:19.713504"
+        ],
+        [
+          1,
+          "2025-11-18T14:33:05.737763"
+        ],
+        [
+          1,
+          "2025-11-18T14:43:12.697357"
+        ]
+      ],
+      "created_utc": 1762841440.0,
+      "depth": 0,
+      "permalink": "/r/ContentMarketing/comments/1oshqta/best_affordable_camcorder/no8o5lb/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "no95fhx",
+      "parent_id": "t3_1oshqta",
+      "author": "Admirable-Package-44",
+      "text_history": [
+        [
+          "Probably can't go wrong with the DJI Osmo Action 5 -- better than GoPro.  \n[https://www.bestbuy.com/product/dji-osmo-action-5-pro-4k-action-camera-standard-bundle-black/JJ82LXJLYH/sku/6594717](https://www.bestbuy.com/product/dji-osmo-action-5-pro-4k-action-camera-standard-bundle-black/JJ82LXJLYH/sku/6594717)",
+          "2025-11-18T14:23:19.713504"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:23:19.713504"
+        ],
+        [
+          1,
+          "2025-11-18T14:33:05.737763"
+        ],
+        [
+          1,
+          "2025-11-18T14:43:12.697357"
+        ]
+      ],
+      "created_utc": 1762851784.0,
+      "depth": 0,
+      "permalink": "/r/ContentMarketing/comments/1oshqta/best_affordable_camcorder/no95fhx/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-18T14:43:12.697357",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/ContentMarketing/comments/1oshqta/best_affordable_camcorder/",
+    "total_comments": 2,
+    "top_level_comments": 2,
+    "api_requests": 1,
+    "expected_comments": 2,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_142319.json",
+      "scrape_002_20251118_143305.json",
+      "scrape_003_20251118_144312.json"
+    ]
+  }
+}

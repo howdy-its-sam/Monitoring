@@ -1,0 +1,80 @@
+{
+  "post": {
+    "id": "1ozgqgw",
+    "title": "Do you also have voice transcribing issues?",
+    "author": "triple-bottom-line",
+    "score_history": [
+      [
+        2,
+        "2025-11-18T14:23:27.070854"
+      ],
+      [
+        2,
+        "2025-11-18T14:33:18.792868"
+      ],
+      [
+        2,
+        "2025-11-18T14:43:15.306537"
+      ]
+    ],
+    "created_utc": 1763387298.0,
+    "num_comments": 1,
+    "subreddit": "ChatGPTPro",
+    "url": "https://www.reddit.com/r/ChatGPTPro/comments/1ozgqgw/do_you_also_have_voice_transcribing_issues/",
+    "selftext": "Hey guys, just wondering if anybody else out there has the same issues with voice transcriptions as I do. It’s happens a few times over the past week or so, always in the mornings usually before 10 AM.\n\nI restart the device and the app each time, but that still doesn’t seem to be a cure all. Wondering if it’s just a server load issue in the morning hours East Coast time. ",
+    "permalink": "/r/ChatGPTPro/comments/1ozgqgw/do_you_also_have_voice_transcribing_issues/"
+  },
+  "comments": [
+    {
+      "id": "npbdct3",
+      "parent_id": "t3_1ozgqgw",
+      "author": "qualityvote2",
+      "text_history": [
+        [
+          "Hello u/triple-bottom-line 👋 Welcome to r/ChatGPTPro!  \nThis is a community for advanced ChatGPT, AI tools, and prompt engineering discussions.  \nOther members will now vote on whether your post fits our community guidelines.\n\n\n---\n\nFor other users, does this post fit the subreddit?\n\nIf so, **upvote this comment!**\n\nOtherwise, **downvote this comment!**\n\nAnd if it does break the rules, **downvote this comment and report this post!**",
+          "2025-11-18T14:23:27.070854"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:23:27.070854"
+        ],
+        [
+          1,
+          "2025-11-18T14:33:18.792868"
+        ],
+        [
+          1,
+          "2025-11-18T14:43:15.306537"
+        ]
+      ],
+      "created_utc": 1763387299.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTPro/comments/1ozgqgw/do_you_also_have_voice_transcribing_issues/npbdct3/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-18T14:43:15.306537",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/ChatGPTPro/comments/1ozgqgw/do_you_also_have_voice_transcribing_issues/",
+    "total_comments": 1,
+    "top_level_comments": 1,
+    "api_requests": 1,
+    "expected_comments": 1,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_142326.json",
+      "scrape_002_20251118_143318.json",
+      "scrape_003_20251118_144315.json"
+    ]
+  }
+}

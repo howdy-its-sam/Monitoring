@@ -1,0 +1,44 @@
+{
+  "post": {
+    "id": "1p136q3",
+    "title": "Anyone here worked with external data annotation teams? Trying to understand what actually makes a good partner.",
+    "author": "DependentPipe7233",
+    "score_history": [
+      [
+        1,
+        "2025-11-19T02:55:53.727500"
+      ],
+      [
+        1,
+        "2025-11-19T03:08:49.401592"
+      ],
+      [
+        1,
+        "2025-11-19T03:17:53.411504"
+      ]
+    ],
+    "created_utc": 1763544885.0,
+    "num_comments": 1,
+    "subreddit": "MLQuestions",
+    "url": "https://www.reddit.com/r/MLQuestions/comments/1p136q3/anyone_here_worked_with_external_data_annotation/",
+    "selftext": "I’m researching how different teams handle data annotation — especially when the datasets get big enough that in-house labeling becomes unrealistic.\n\nWhile comparing different providers, I noticed something interesting: the ones that actually show their workflow and QC steps in detail feel way more reliable than the ones that only talk about “high quality labels.”  \nFor example, I was reading through this breakdown ([aipersonic.com/data-annotation-companies](https://aipersonic.com/data-annotation-companies/)) and it made me realize how different each company’s process really is.\n\nBut I don’t have enough real-world benchmarks to know what *actually* matters.\n\nFor those of you who’ve worked with external annotation teams:  \n– What ended up being the biggest factor for you?  \n– Did reviewer consistency matter more than speed?  \n– Any red flags you wish you had known earlier?\n\nJust trying to understand what separates a solid annotation partner from one that looks good on paper but struggles in real projects.",
+    "permalink": "/r/MLQuestions/comments/1p136q3/anyone_here_worked_with_external_data_annotation/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:17:53.411504",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/MLQuestions/comments/1p136q3/anyone_here_worked_with_external_data_annotation/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 1,
+    "coverage_percent": 0.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_025553.json",
+      "scrape_002_20251119_030849.json",
+      "scrape_003_20251119_031753.json"
+    ]
+  }
+}

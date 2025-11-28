@@ -1,0 +1,165 @@
+{
+  "post": {
+    "id": "1p12kda",
+    "title": "From experience: best multi-agent systems for AI agents, RAG pipelines and more",
+    "author": "NullPointerJack",
+    "score_history": [
+      [
+        11,
+        "2025-11-19T04:01:48.167764"
+      ],
+      [
+        11,
+        "2025-11-19T04:03:09.634769"
+      ],
+      [
+        9,
+        "2025-11-19T04:09:59.945365"
+      ],
+      [
+        8,
+        "2025-11-19T04:12:32.429538"
+      ],
+      [
+        8,
+        "2025-11-19T04:21:21.938615"
+      ],
+      [
+        12,
+        "2025-11-19T04:21:58.730159"
+      ],
+      [
+        12,
+        "2025-11-19T04:22:57.987834"
+      ],
+      [
+        10,
+        "2025-11-19T04:24:26.170338"
+      ]
+    ],
+    "created_utc": 1763542611.0,
+    "num_comments": 2,
+    "subreddit": "Rag",
+    "url": "https://www.reddit.com/r/Rag/comments/1p12kda/from_experience_best_multiagent_systems_for_ai/",
+    "selftext": "So I’ll start out by saying I have been trying and testing a number of different methods of building multi-agent systems for a number of clients and after trial and error these seem to be the best fits and the best tools.\n\nSharing because I would have loved a guide like this when I was first starting out.\n\n**Long-document analysis: finance, legal, due diligence**\n\nUse the orchestration framework. It stops agents going off track and the steps are predictable. \n\nTry CrewAI, LangGraph, Maestro from AI21\n\n**Complex RAG pipelines: customer support search, knowledge base chat**\n\nThe pipeline chain is best when data has to pass through indexing, retrieval, re-ranking, summarization, validation in a strict sequence. \n\nGood tools are LCEL, LlamaIndex Pipelines, Haystack Pipelines\n\n**Open-ended problem solving: content generation, research**\n\nMessage passing agents are good for unstructured tasks because they can ask questions and develop ideas. With direct messaging you get unexpected strategy because the agents aren’t in a strict hierarchy.\n\nBuild with AutoGen, HuggingFace Agents, OpenAI Chat Completions with multi-agent loops\n\n**High accuracy reasoning tasks: coding agents, legal reasoning**\n\nYou need the supervisor and worker model for coding agents or legal reasoning and so on when safety is most important. Because the supervisor catches mistakes its good for when quality control is just non-negotiable.\n\nCheck out Maestro from AI21, AutoGen with a validator agent or LangGraph\n\n**Teams with fixed roles: UX audits, interview prep**\n\nIf the job has clear boundaries then assign fixed roles so you know which agent does the research, which is writing the final result, etc\n\nAutoGen, CrewAI, LangChain Agents are good for this one\n\n**Games and training environments: Logistics planning, robotics, traffic simulation**\n\nThis one is good for environment-driven agents because they observe the relevant environment and then update the state, so they are learning from consequences.\n\nTry using OpenAI Gym, PettingZoo, Unity ML-Agents",
+    "permalink": "/r/Rag/comments/1p12kda/from_experience_best_multiagent_systems_for_ai/"
+  },
+  "comments": [
+    {
+      "id": "npn66gg",
+      "parent_id": "t3_1p12kda",
+      "author": "mikerubini",
+      "text_history": [
+        [
+          "Great insights on multi-agent systems! It sounds like you’ve been through a lot of trial and error, which is often the best way to learn. If you're looking to enhance your architecture further, especially for those complex RAG pipelines or open-ended problem-solving tasks, consider the following:\n\n1. **Agent Coordination**: For multi-agent coordination, using A2A protocols can really streamline communication between agents. This is especially useful in scenarios where agents need to share context or results dynamically. It can help avoid redundancy and keep your agents aligned on goals.\n\n2. **Sandboxing and Isolation**: When deploying agents, especially in sensitive domains like finance or legal, hardware-level isolation is crucial. Using something like Firecracker microVMs can give you sub-second VM startup times while ensuring that each agent runs in a secure environment. This can be a game-changer for performance and security.\n\n3. **Persistent File Systems**: If your agents need to maintain state or share data across sessions, look into persistent file systems. This allows agents to access and store data without losing context between runs, which is vital for tasks like long-document analysis or iterative content generation.\n\n4. **Frameworks and SDKs**: Since you’re already exploring tools like LangChain and AutoGen, you might find it beneficial to leverage SDKs that support these frameworks. For instance, Cognitora.dev has native support for LangChain and AutoGPT, which can simplify integration and speed up development.\n\n5. **Scaling**: As your system grows, consider how you’ll scale your agents. Using a microservices architecture can help you manage load effectively. Each agent can be deployed independently, allowing you to scale specific components based on demand without overhauling the entire system.\n\n6. **Testing and Validation**: For high-stakes tasks like coding or legal reasoning, implementing a supervisor-worker model is a solid approach. It ensures that you have a safety net for quality control. You might also want to automate testing for your agents to catch issues early in the development cycle.\n\nThese strategies can help you refine your multi-agent systems and tackle the challenges you’re facing. Keep experimenting, and don’t hesitate to share your findings!",
+          "2025-11-19T04:01:48.167764"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T04:01:48.167764"
+        ],
+        [
+          1,
+          "2025-11-19T04:03:09.634769"
+        ],
+        [
+          1,
+          "2025-11-19T04:09:59.945365"
+        ],
+        [
+          1,
+          "2025-11-19T04:12:32.429538"
+        ],
+        [
+          1,
+          "2025-11-19T04:21:21.938615"
+        ],
+        [
+          1,
+          "2025-11-19T04:21:58.730159"
+        ],
+        [
+          1,
+          "2025-11-19T04:22:57.987834"
+        ],
+        [
+          1,
+          "2025-11-19T04:24:26.170338"
+        ]
+      ],
+      "created_utc": 1763544652.0,
+      "depth": 0,
+      "permalink": "/r/Rag/comments/1p12kda/from_experience_best_multiagent_systems_for_ai/npn66gg/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npnocud",
+          "parent_id": "t1_npn66gg",
+          "author": "ArtisticKey4324",
+          "text_history": [
+            [
+              "Cognitora.dev engages in astroturfing utilizing bots masquerading as humans as well as targeted harassment. Buyers beware!",
+              "2025-11-19T04:21:21.938615"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-19T04:21:21.938615"
+            ],
+            [
+              1,
+              "2025-11-19T04:21:58.730159"
+            ],
+            [
+              1,
+              "2025-11-19T04:22:57.987834"
+            ],
+            [
+              1,
+              "2025-11-19T04:24:26.170338"
+            ]
+          ],
+          "created_utc": 1763554685.0,
+          "depth": 1,
+          "permalink": "/r/Rag/comments/1p12kda/from_experience_best_multiagent_systems_for_ai/npnocud/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T04:24:26.170338",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/Rag/comments/1p12kda/from_experience_best_multiagent_systems_for_ai/",
+    "total_comments": 2,
+    "top_level_comments": 1,
+    "api_requests": 1,
+    "expected_comments": 2,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 8,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_040147.json",
+      "scrape_002_20251119_040309.json",
+      "scrape_003_20251119_040959.json",
+      "scrape_004_20251119_041232.json",
+      "scrape_005_20251119_042121.json",
+      "scrape_006_20251119_042158.json",
+      "scrape_007_20251119_042257.json",
+      "scrape_008_20251119_042425.json"
+    ]
+  }
+}

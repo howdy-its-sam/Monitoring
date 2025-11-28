@@ -1,0 +1,54 @@
+{
+  "post": {
+    "id": "1p0il0m",
+    "title": "Ai2 released Deep Research Tulu (DR Tulu)—the first fully open, end-to-end recipe for long-form deep research, plus an 8B agent you can use right away.",
+    "author": "ai2_official",
+    "score_history": [
+      [
+        5,
+        "2025-11-18T13:48:40.469182"
+      ],
+      [
+        5,
+        "2025-11-18T13:59:52.589565"
+      ],
+      [
+        6,
+        "2025-11-18T14:11:22.735995"
+      ],
+      [
+        9,
+        "2025-11-18T21:59:58.079948"
+      ],
+      [
+        10,
+        "2025-11-19T07:12:18.450350"
+      ]
+    ],
+    "created_utc": 1763487963.0,
+    "num_comments": 0,
+    "subreddit": "machinelearningnews",
+    "url": "https://www.reddit.com/r/machinelearningnews/comments/1p0il0m/ai2_released_deep_research_tulu_dr_tuluthe_first/",
+    "selftext": "https://preview.redd.it/ir3wme5zy12g1.jpg?width=1600&amp;format=pjpg&amp;auto=webp&amp;s=1654f350d868a2e749bd47e0f5dc55cdcb74b384\n\nGiven the increasing success of proprietary deep research systems, there has been growing interest in building open alternatives. Many recent approaches rely on Reinforcement Learning from Verifiable Rewards (RLVR)—training agents on short-form QA tasks where answers can be automatically verified through comparison to a ground-truth answer. However, these existing RLVR recipes don't directly transfer to open-ended deep research tasks. Training agents to handle long-form, tool-intensive research workflows is difficult: models must integrate evidence across many sources while justifying each step, meaning that there isn’t a single \"correct\" answer to verify against. Evaluating long-form responses is intrinsically challenging—the criteria for quality are often underspecified, static rubrics can't capture the full range of response quality, and LM judges must keep pace with a rapidly evolving, incredibly vast body of world knowledge. Because of these difficulties, prior work often resorts to fixed, hand-crafted report generation pipelines built on closed models. To our knowledge, the community still lacks both a clear understanding and a practical recipe for training fully open deep research agents.\n\nTo address these challenges, we introduce **Deep Research Tulu (DR Tulu**), the first open model that is directly trained for long-form deep research tasks through an end-to-end training recipe that combines supervised fine-tuning (SFT) and Reinforcement Learning with Evolving Rubrics (RLER). DR Tulu starts from a strong base model and progresses through multiple training stages: SFT on high-quality, naturally occurring information-seeking queries, followed by online RL with RLER tailored to long-form research.\n\n📚 Blog: [https://allenai.org/blog/dr-tulu](https://allenai.org/blog/dr-tulu)\n\n✏️ Paper: [http://allenai.org/papers/drtulu](http://allenai.org/papers/drtulu)\n\n💻 Models: [https://huggingface.co/collections/rl-research/dr-tulu](https://huggingface.co/collections/rl-research/dr-tulu)\n\n⌨️ Code: [https://github.com/rlresearch/DR-Tulu](https://github.com/rlresearch/DR-Tulu)",
+    "permalink": "/r/machinelearningnews/comments/1p0il0m/ai2_released_deep_research_tulu_dr_tuluthe_first/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T07:12:18.450350",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/machinelearningnews/comments/1p0il0m/ai2_released_deep_research_tulu_dr_tuluthe_first/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 5,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_134840.json",
+      "scrape_002_20251118_135952.json",
+      "scrape_003_20251118_141122.json",
+      "scrape_004_20251118_215957.json",
+      "scrape_005_20251119_071218.json"
+    ]
+  }
+}

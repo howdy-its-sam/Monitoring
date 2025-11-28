@@ -1,0 +1,221 @@
+{
+  "post": {
+    "id": "wmpn1a",
+    "title": "New Course: Machine Learning Projects in Healthcare",
+    "author": "Stanford_Online",
+    "score_history": [
+      [
+        17,
+        "2025-11-18T14:23:53.898739"
+      ],
+      [
+        17,
+        "2025-11-18T14:33:29.200307"
+      ],
+      [
+        16,
+        "2025-11-18T14:43:19.405386"
+      ]
+    ],
+    "created_utc": 1660321907.0,
+    "num_comments": 6,
+    "subreddit": "HealthAI",
+    "url": "https://www.reddit.com/r/HealthAI/comments/wmpn1a/new_course_machine_learning_projects_in_healthcare/",
+    "selftext": "In this [course](https://online.stanford.edu/courses/xbiomedin215-machine-learning-projects-healthcare), we introduce methods for data mining at the internet scale, the handling of large-scale electronic medical records data for machine learning, methods in natural language processing and text mining applied to medical records, methods for using ontologies for the annotation and indexing of unstructured content as well as semantic web technologies. \n\nThroughout the course, you will work through interactive exercises and case studies, attend live webinars from Stanford faculty and guest speakers, receive ongoing feedback from our course team, and collaborate with your fellow learners. ",
+    "permalink": "/r/HealthAI/comments/wmpn1a/new_course_machine_learning_projects_in_healthcare/"
+  },
+  "comments": [
+    {
+      "id": "malexfo",
+      "parent_id": "t3_wmpn1a",
+      "author": "christinkies1987",
+      "text_history": [
+        [
+          "Will this course be offered again? Or is there a similar course ?",
+          "2025-11-18T14:23:53.898739"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-18T14:23:53.898739"
+        ],
+        [
+          2,
+          "2025-11-18T14:33:29.200307"
+        ],
+        [
+          2,
+          "2025-11-18T14:43:19.405386"
+        ]
+      ],
+      "created_utc": 1738520658.0,
+      "depth": 0,
+      "permalink": "/r/HealthAI/comments/wmpn1a/new_course_machine_learning_projects_in_healthcare/malexfo/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "mar4bsj",
+          "parent_id": "t1_malexfo",
+          "author": "Stanford_Online",
+          "text_history": [
+            [
+              "Thanks for your question! We do offer several similar courses to this one, you can view them all here and see if any are a good fit for what you're looking for: [https://online.stanford.edu/artificial-intelligence/ai-professionals-healthcare](https://online.stanford.edu/artificial-intelligence/ai-professionals-healthcare)\n\nIf you need any helping choosing a course, don't hesitate to get in touch with our team! [stanfordonline@stanford.edu](mailto:stanfordonline@stanford.edu)",
+              "2025-11-18T14:23:53.898739"
+            ]
+          ],
+          "score_history": [
+            [
+              3,
+              "2025-11-18T14:23:53.898739"
+            ],
+            [
+              3,
+              "2025-11-18T14:33:29.200307"
+            ],
+            [
+              3,
+              "2025-11-18T14:43:19.405386"
+            ]
+          ],
+          "created_utc": 1738597950.0,
+          "depth": 1,
+          "permalink": "/r/HealthAI/comments/wmpn1a/new_course_machine_learning_projects_in_healthcare/mar4bsj/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l83jg9p",
+      "parent_id": "t3_wmpn1a",
+      "author": "svatrider",
+      "text_history": [
+        [
+          "Interesting! Thanks a lot for the information. May I wonder if there are ML or DL techniques for audio data such as this one: [https://github.com/zhaoren91/awesome-heart-sound-analysis](https://github.com/zhaoren91/awesome-heart-sound-analysis) ?",
+          "2025-11-18T14:23:53.898739"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:23:53.898739"
+        ],
+        [
+          1,
+          "2025-11-18T14:33:29.200307"
+        ],
+        [
+          1,
+          "2025-11-18T14:43:19.405386"
+        ]
+      ],
+      "created_utc": 1718103382.0,
+      "depth": 0,
+      "permalink": "/r/HealthAI/comments/wmpn1a/new_course_machine_learning_projects_in_healthcare/l83jg9p/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "n4b1ekj",
+      "parent_id": "t3_wmpn1a",
+      "author": "Equivalent_Cover4542",
+      "text_history": [
+        [
+          "The course explicitly mentions handling of large-scale electronic medical records data and unstructured content. This is a significant hurdle in healthcare AI, as medical data is often messy, disparate, and sensitive. Learning methods for data mining at internet scale is also highly relevant given the volume of healthcare data.",
+          "2025-11-18T14:23:53.898739"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:23:53.898739"
+        ],
+        [
+          1,
+          "2025-11-18T14:33:29.200307"
+        ],
+        [
+          1,
+          "2025-11-18T14:43:19.405386"
+        ]
+      ],
+      "created_utc": 1753085711.0,
+      "depth": 0,
+      "permalink": "/r/HealthAI/comments/wmpn1a/new_course_machine_learning_projects_in_healthcare/n4b1ekj/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "jvkig1r",
+      "parent_id": "t3_wmpn1a",
+      "author": "ameliawinlets",
+      "text_history": [
+        [
+          "Exciting new course! Learn ML in healthcare with data mining, EMR handling, NLP, ontologies, and web tech. Hands-on exercises, webinars, and collaboration.",
+          "2025-11-18T14:23:53.898739"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:23:53.898739"
+        ],
+        [
+          1,
+          "2025-11-18T14:33:29.200307"
+        ],
+        [
+          1,
+          "2025-11-18T14:43:19.405386"
+        ]
+      ],
+      "created_utc": 1691665552.0,
+      "depth": 0,
+      "permalink": "/r/HealthAI/comments/wmpn1a/new_course_machine_learning_projects_in_healthcare/jvkig1r/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-18T14:43:19.405386",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/HealthAI/comments/wmpn1a/new_course_machine_learning_projects_in_healthcare/",
+    "total_comments": 5,
+    "top_level_comments": 4,
+    "api_requests": 1,
+    "expected_comments": 6,
+    "coverage_percent": 83.33,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_142353.json",
+      "scrape_002_20251118_143328.json",
+      "scrape_003_20251118_144319.json"
+    ]
+  }
+}

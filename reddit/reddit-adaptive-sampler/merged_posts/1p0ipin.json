@@ -1,0 +1,44 @@
+{
+  "post": {
+    "id": "1p0ipin",
+    "title": "Need help as planning to build tools around AI workflow management and ops",
+    "author": "Equivalent_Place931",
+    "score_history": [
+      [
+        1,
+        "2025-11-18T14:22:38.811041"
+      ],
+      [
+        1,
+        "2025-11-18T14:32:51.345840"
+      ],
+      [
+        1,
+        "2025-11-18T14:43:11.999935"
+      ]
+    ],
+    "created_utc": 1763488241.0,
+    "num_comments": 0,
+    "subreddit": "PromptEngineering",
+    "url": "https://www.reddit.com/r/PromptEngineering/comments/1p0ipin/need_help_as_planning_to_build_tools_around_ai/",
+    "selftext": "Hey folks! 👋\n\nI'm researching how teams build and deploy AI products, and would love your input.\n\nTakes 3 minutes, covers:\n\n•\t⁠What you're building\n•\t⁠Tools you use\n•\t⁠Challenges you face Your inputs will help him get a clearer picture.\n\nThanks in advance for your time and contribution!\n\nThe survey is completely anonymous.\n\nSurvey Link: https://forms.gle/3CKYCHzHB1wA6zQN9\n\nBest Regards",
+    "permalink": "/r/PromptEngineering/comments/1p0ipin/need_help_as_planning_to_build_tools_around_ai/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-18T14:43:11.999935",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/PromptEngineering/comments/1p0ipin/need_help_as_planning_to_build_tools_around_ai/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_142238.json",
+      "scrape_002_20251118_143251.json",
+      "scrape_003_20251118_144311.json"
+    ]
+  }
+}

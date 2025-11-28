@@ -1,0 +1,107 @@
+{
+  "post": {
+    "id": "1p09m7v",
+    "title": "🚀 Thrilled to share a project I recently built that pushed my technical boundaries.",
+    "author": "autionix",
+    "score_history": [
+      [
+        12,
+        "2025-11-18T13:49:43.624597"
+      ],
+      [
+        11,
+        "2025-11-18T14:00:51.182746"
+      ],
+      [
+        12,
+        "2025-11-18T14:12:15.082176"
+      ],
+      [
+        12,
+        "2025-11-18T21:39:24.391136"
+      ],
+      [
+        12,
+        "2025-11-18T23:22:54.005022"
+      ],
+      [
+        13,
+        "2025-11-19T01:08:28.880644"
+      ]
+    ],
+    "created_utc": 1763465720.0,
+    "num_comments": 1,
+    "subreddit": "LangChain",
+    "url": "https://www.reddit.com/gallery/1p09m7v",
+    "selftext": "\nI’ve been experimenting with AI + automation lately, and ended up building something that turned out way more useful than I expected.\n\nI put together an AI-powered web scraper using:\n\nBright Data’s WebDriver (handles CAPTCHAs)\n\nLangChain\n\nGrok / Llama-4 Maverick\n\nStreamlit for the UI\n\n\nThe flow is basically:\n\n1. Enter a URL\n\n\n2. Scrape + clean the DOM\n\n\n3. Split the content into chunks\n\n\n4. Ask natural language questions about the page\n\n\n5. LLM extracts only the matching info\n\n\n\nIt works surprisingly well for research, data extraction, and “chat with a webpage” type workflows.\n\nI’m posting it to share the idea and see if anyone else is working on similar agent-style scraping setups.\nHappy to break down the code or share lessons learned.\n",
+    "permalink": "/r/LangChain/comments/1p09m7v/thrilled_to_share_a_project_i_recently_built_that/"
+  },
+  "comments": [
+    {
+      "id": "nph6g47",
+      "parent_id": "t3_1p09m7v",
+      "author": "Fun-Celebration-700",
+      "text_history": [
+        [
+          "Integrating real-time data is a game-changer for RAG",
+          "2025-11-18T13:49:43.624597"
+        ]
+      ],
+      "score_history": [
+        [
+          3,
+          "2025-11-18T13:49:43.624597"
+        ],
+        [
+          3,
+          "2025-11-18T14:00:51.182746"
+        ],
+        [
+          3,
+          "2025-11-18T14:12:15.082176"
+        ],
+        [
+          3,
+          "2025-11-18T21:39:24.391136"
+        ],
+        [
+          3,
+          "2025-11-18T23:22:54.005022"
+        ],
+        [
+          3,
+          "2025-11-19T01:08:28.880644"
+        ]
+      ],
+      "created_utc": 1763466203.0,
+      "depth": 0,
+      "permalink": "/r/LangChain/comments/1p09m7v/thrilled_to_share_a_project_i_recently_built_that/nph6g47/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T01:08:28.880644",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/LangChain/comments/1p09m7v/thrilled_to_share_a_project_i_recently_built_that/",
+    "total_comments": 1,
+    "top_level_comments": 1,
+    "api_requests": 1,
+    "expected_comments": 1,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 6,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_134943.json",
+      "scrape_002_20251118_140050.json",
+      "scrape_003_20251118_141214.json",
+      "scrape_004_20251118_213924.json",
+      "scrape_005_20251118_232253.json",
+      "scrape_006_20251119_010828.json"
+    ]
+  }
+}

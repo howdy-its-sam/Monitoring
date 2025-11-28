@@ -1,0 +1,44 @@
+{
+  "post": {
+    "id": "1hh11n2",
+    "title": "Here is (almost) everything that happened in AI this week\n",
+    "author": "ByAlexAI",
+    "score_history": [
+      [
+        3,
+        "2025-11-18T14:22:37.523141"
+      ],
+      [
+        3,
+        "2025-11-18T14:33:04.823043"
+      ],
+      [
+        3,
+        "2025-11-18T14:43:21.577433"
+      ]
+    ],
+    "created_utc": 1734526795.0,
+    "num_comments": 0,
+    "subreddit": "ainews",
+    "url": "https://i.redd.it/gaesvmakul7e1.png",
+    "selftext": "",
+    "permalink": "/r/ainews/comments/1hh11n2/here_is_almost_everything_that_happened_in_ai/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-18T14:43:21.577433",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/ainews/comments/1hh11n2/here_is_almost_everything_that_happened_in_ai/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_142237.json",
+      "scrape_002_20251118_143304.json",
+      "scrape_003_20251118_144321.json"
+    ]
+  }
+}

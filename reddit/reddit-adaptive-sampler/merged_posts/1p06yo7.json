@@ -1,0 +1,367 @@
+{
+  "post": {
+    "id": "1p06yo7",
+    "title": "How are you deploying, scaling, and monitoring AI Agents today? I feel everyone is hacking their own infra…",
+    "author": "OpenLibrarian8866",
+    "score_history": [
+      [
+        6,
+        "2025-11-18T12:51:36.886595"
+      ],
+      [
+        7,
+        "2025-11-18T13:03:54.813022"
+      ],
+      [
+        6,
+        "2025-11-18T13:15:47.176601"
+      ],
+      [
+        5,
+        "2025-11-18T13:46:29.224069"
+      ],
+      [
+        5,
+        "2025-11-18T13:49:05.999310"
+      ],
+      [
+        6,
+        "2025-11-18T13:49:41.541722"
+      ],
+      [
+        6,
+        "2025-11-18T13:59:22.439568"
+      ]
+    ],
+    "created_utc": 1763455795.0,
+    "num_comments": 7,
+    "subreddit": "AI_Agents",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1p06yo7/how_are_you_deploying_scaling_and_monitoring_ai/",
+    "selftext": "Hey everyone,\n\nI’ve been talking with a lot of developers building LangChain, CrewAI, LangGraph, Autogen, custom Python agents, etc., and one pattern keeps coming up:  \n**deployment is a nightmare.**\n\nBefore I assume this is universal, I’d love your input on a few specific points:\n\n  \n**Architecture &amp; Deployment**\n\n1. How are you currently deploying your agents (Docker, serverless, bare metal, local machines, Kubernetes, something else)?\n2. When you want to deploy *multiple agents* or *multiple instances* of the same agent, what’s your current workflow?\n3. Did you build your own infra scripts / Docker Compose / K8s manifests? Or are you using existing tools?\n4. For those avoiding Kubernetes… why? What’s the pain point?\n\n**Scaling &amp; Multi-Agent Systems**\n\n1. Are you running single standalone agents, or multi-agent swarms/graphs?\n2. What’s the biggest challenge when scaling:\n   * concurrency?\n   * retries &amp; task queueing?\n   * shared memory?\n   * load balancing?\n   * GPU support?\n3. Have you found a clean way to scale to **dozens or hundreds** of agents without everything breaking?\n\n**Monitoring &amp; Debugging**\n\n1. How do you monitor your agents right now? Logs? Prometheus? Nothing?\n2. Do you have visibility on:\n   * token usage\n   * cost per task\n   * agent memory state\n   * failures/crashes\n   * tool calls\n   * traces?\n3. What debugging tools do you *wish existed* for agent systems?\n\n**Security &amp; Isolation**\n\n1. How do you isolate untrusted code? Namespaces? Containers? Sandboxing?\n2. Any security incidents or “interesting” failures you’ve had with agents?\n\n  \n**Tools You Use Today**\n\n1. Are you using:\n\n* LangGraph Studio\n* CrewAI Studio\n* Fixie\n* Autogen Studio\n* Vercel / BentoML / Modal\n* Serverless frameworks\n* Custom scripts\n* Something else?\n\n1. What’s missing from all existing options?\n\n**Future Needs / Wishlist**\n\n1. If you could wave a magic wand, what would your perfect “AI Agent deployment platform” do?\n2. How important would the following be for you:\n\n* auto-scaling agents\n* infra built for multi-agent swarms\n* Git → Image → Deployment pipeline\n* agent monitoring dashboard\n* agent cost tracking\n* rollback &amp; versioning\n* deploy anywhere (cloud or edge)\n* GPU-enabled agents\n* define your agent swarm in YAML like you do with K8s?\n\n1. Would you use a platform that deploys **entire agent swarms** from a Git repo, the same way Kubernetes deploys apps?\n\n  \n**Your Turn**\n\nI’m doing research for a project and really want to understand the real pain points.  \nWhat’s the *hardest* thing about getting AI agents to production today?",
+    "permalink": "/r/AI_Agents/comments/1p06yo7/how_are_you_deploying_scaling_and_monitoring_ai/"
+  },
+  "comments": [
+    {
+      "id": "nph6lri",
+      "parent_id": "t3_1p06yo7",
+      "author": "LiveAddendum2219",
+      "text_history": [
+        [
+          "Most teams seem to be stitching their own systems because nothing feels built for agent workloads yet. Developers can deploy a simple model server, but agents add state, tools, retries, and cross-agent chatter, which pushes past what standard serverless or containers handle cleanly. \n\nScaling turns messy once you need shared memory and predictable task queues. Monitoring is thin, so you rely on logs without real insight into cost, traces, or failure chains. \n\nThe hardest part is that the ecosystem still treats agents like ordinary apps, when they behave more like distributed workflows that change shape as they run.",
+          "2025-11-18T12:51:36.886595"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-18T12:51:36.886595"
+        ],
+        [
+          2,
+          "2025-11-18T13:03:54.813022"
+        ],
+        [
+          2,
+          "2025-11-18T13:15:47.176601"
+        ],
+        [
+          2,
+          "2025-11-18T13:46:29.224069"
+        ],
+        [
+          2,
+          "2025-11-18T13:49:05.999310"
+        ],
+        [
+          2,
+          "2025-11-18T13:49:41.541722"
+        ],
+        [
+          2,
+          "2025-11-18T13:59:22.439568"
+        ]
+      ],
+      "created_utc": 1763466280.0,
+      "depth": 0,
+      "permalink": "/r/AI_Agents/comments/1p06yo7/how_are_you_deploying_scaling_and_monitoring_ai/nph6lri/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nphnlg6",
+      "parent_id": "t3_1p06yo7",
+      "author": "devicie",
+      "text_history": [
+        [
+          "Most teams are duct-taping together containers + custom scripts for deployment, then piecing together monitoring tools and logs because there's no unified platform that handles multi-agent orchestration without forcing you into complex cluster management. The biggest pain point is the gap between \"prototype that works on my laptop\" and \"production system that scales reliably with visibility into cost, failures, and agent behavior.",
+          "2025-11-18T12:51:36.886595"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-18T12:51:36.886595"
+        ],
+        [
+          2,
+          "2025-11-18T13:03:54.813022"
+        ],
+        [
+          2,
+          "2025-11-18T13:15:47.176601"
+        ],
+        [
+          2,
+          "2025-11-18T13:46:29.224069"
+        ],
+        [
+          2,
+          "2025-11-18T13:49:05.999310"
+        ],
+        [
+          2,
+          "2025-11-18T13:49:41.541722"
+        ],
+        [
+          2,
+          "2025-11-18T13:59:22.439568"
+        ]
+      ],
+      "created_utc": 1763473006.0,
+      "depth": 0,
+      "permalink": "/r/AI_Agents/comments/1p06yo7/how_are_you_deploying_scaling_and_monitoring_ai/nphnlg6/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npgoy5v",
+      "parent_id": "t3_1p06yo7",
+      "author": "AutoModerator",
+      "text_history": [
+        [
+          "Thank you for your submission, for any questions regarding AI, please check out our wiki at https://www.reddit.com/r/ai_agents/wiki (this is currently in test and we are actively adding to the wiki)\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/AI_Agents) if you have any questions or concerns.*",
+          "2025-11-18T12:51:36.886595"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T12:51:36.886595"
+        ],
+        [
+          1,
+          "2025-11-18T13:03:54.813022"
+        ],
+        [
+          1,
+          "2025-11-18T13:15:47.176601"
+        ],
+        [
+          1,
+          "2025-11-18T13:46:29.224069"
+        ],
+        [
+          1,
+          "2025-11-18T13:49:05.999310"
+        ],
+        [
+          1,
+          "2025-11-18T13:49:41.541722"
+        ],
+        [
+          1,
+          "2025-11-18T13:59:22.439568"
+        ]
+      ],
+      "created_utc": 1763455796.0,
+      "depth": 0,
+      "permalink": "/r/AI_Agents/comments/1p06yo7/how_are_you_deploying_scaling_and_monitoring_ai/npgoy5v/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npgr7il",
+      "parent_id": "t3_1p06yo7",
+      "author": "necati-ozmen",
+      "text_history": [
+        [
+          "Yes voltagent for building and debugging. \n\nhttps://github.com/VoltAgent/voltagent",
+          "2025-11-18T12:51:36.886595"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T12:51:36.886595"
+        ],
+        [
+          1,
+          "2025-11-18T13:03:54.813022"
+        ],
+        [
+          1,
+          "2025-11-18T13:15:47.176601"
+        ],
+        [
+          1,
+          "2025-11-18T13:46:29.224069"
+        ],
+        [
+          1,
+          "2025-11-18T13:49:05.999310"
+        ],
+        [
+          1,
+          "2025-11-18T13:49:41.541722"
+        ],
+        [
+          1,
+          "2025-11-18T13:59:22.439568"
+        ]
+      ],
+      "created_utc": 1763457227.0,
+      "depth": 0,
+      "permalink": "/r/AI_Agents/comments/1p06yo7/how_are_you_deploying_scaling_and_monitoring_ai/npgr7il/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npj2gbm",
+      "parent_id": "t3_1p06yo7",
+      "author": "NerasKip",
+      "text_history": [
+        [
+          "LiteLLM layer into custom langchain agents.\nNo langsmith capturing every stats on a sqlite db for each agent.\nNothung fancy but working well for 3 month",
+          "2025-11-18T12:51:36.886595"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T12:51:36.886595"
+        ],
+        [
+          1,
+          "2025-11-18T13:03:54.813022"
+        ],
+        [
+          1,
+          "2025-11-18T13:15:47.176601"
+        ],
+        [
+          1,
+          "2025-11-18T13:46:29.224069"
+        ],
+        [
+          1,
+          "2025-11-18T13:49:05.999310"
+        ],
+        [
+          1,
+          "2025-11-18T13:49:41.541722"
+        ],
+        [
+          1,
+          "2025-11-18T13:59:22.439568"
+        ]
+      ],
+      "created_utc": 1763488420.0,
+      "depth": 0,
+      "permalink": "/r/AI_Agents/comments/1p06yo7/how_are_you_deploying_scaling_and_monitoring_ai/npj2gbm/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npk48vh",
+      "parent_id": "t3_1p06yo7",
+      "author": "DanishTango",
+      "text_history": [
+        [
+          "Today’s innovation; tomorrow’s technology debt.",
+          "2025-11-18T13:03:54.813022"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T13:03:54.813022"
+        ],
+        [
+          1,
+          "2025-11-18T13:15:47.176601"
+        ],
+        [
+          1,
+          "2025-11-18T13:46:29.224069"
+        ],
+        [
+          1,
+          "2025-11-18T13:49:05.999310"
+        ],
+        [
+          1,
+          "2025-11-18T13:49:41.541722"
+        ],
+        [
+          1,
+          "2025-11-18T13:59:22.439568"
+        ]
+      ],
+      "created_utc": 1763499600.0,
+      "depth": 0,
+      "permalink": "/r/AI_Agents/comments/1p06yo7/how_are_you_deploying_scaling_and_monitoring_ai/npk48vh/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-18T13:59:22.439568",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/AI_Agents/comments/1p06yo7/how_are_you_deploying_scaling_and_monitoring_ai/",
+    "total_comments": 6,
+    "top_level_comments": 6,
+    "api_requests": 1,
+    "expected_comments": 7,
+    "coverage_percent": 85.71,
+    "merged_snapshot_count": 7,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_125136.json",
+      "scrape_002_20251118_130354.json",
+      "scrape_003_20251118_131546.json",
+      "scrape_004_20251118_134628.json",
+      "scrape_005_20251118_134905.json",
+      "scrape_006_20251118_134941.json",
+      "scrape_007_20251118_135922.json"
+    ]
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "post": {
+    "id": "1ozg3et",
+    "title": "agent.invoke() returns inconsistent object",
+    "author": "These-South-8284",
+    "score_history": [
+      [
+        3,
+        "2025-11-19T03:27:15.674831"
+      ],
+      [
+        3,
+        "2025-11-19T03:30:36.325534"
+      ],
+      [
+        3,
+        "2025-11-19T03:36:17.770233"
+      ]
+    ],
+    "created_utc": 1763385642.0,
+    "num_comments": 5,
+    "subreddit": "LangChain",
+    "url": "https://www.reddit.com/r/LangChain/comments/1ozg3et/agentinvoke_returns_inconsistent_object/",
+    "selftext": "When the user query is simple such as \"What is a banana\" the .content property returns a string type:\n\n    response3 = agent.invoke(\n        {\"messages\": [{\"role\": \"user\", \"content\": \"What is a banana?\"}]},\n        {\"configurable\": {\"thread_id\": \"2\"}} \n    )\n    \n    print(response3[\"messages\"][-1].content)\n\nOutput:  \nA banana is an elongated, edible fruit botanically a berry, produced by several kinds of large herbaceous flowering plants in the genus Musa.\n\nBut if the user query is confusing such as \"What's its name\" the .content property returns a list type:\n\n    response3 = agent.invoke(\n        {\"messages\": [{\"role\": \"user\", \"content\": \"What's its name?\"}]},\n        {\"configurable\": {\"thread_id\": \"2\"}}  \n    )\n    \n    print(response3[\"messages\"][-1].content)\n\nThe output is:  \n3: \\[{'type': 'text', 'text': 'I\\\\'m sorry, I don\\\\'t understand what \"it\" refers to. Could you please provide more context?', 'extras': {'signature': 'CscCAdHtim+SJIpPCDrUbhw9W'}}\\]\n\nThis happens only when I am using gemini-2.5.-flash. It does not happen with openai models.\n\nThis inconsistency would cause unexpected bugs. Is there a proper way or parameter to pass to the invoke() method to always return a string?",
+    "permalink": "/r/LangChain/comments/1ozg3et/agentinvoke_returns_inconsistent_object/"
+  },
+  "comments": [
+    {
+      "id": "npbwph5",
+      "parent_id": "t3_1ozg3et",
+      "author": "RetiredApostle",
+      "text_history": [
+        [
+          "I've faced the same issue. I recall it was documented somewhere. Quick fix:\n\n                if isinstance(content, str):\n                    return content\n                if isinstance(content, list) and content:\n                    for block in content:\n                        if isinstance(block, dict) and block.get(\"type\") == \"text\":\n                            return block.get(\"text\", \"\")\n                    log.warn(\"agent_response.no_text_block\", content=content)\n                    return str(content)",
+          "2025-11-19T03:27:15.674831"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-19T03:27:15.674831"
+        ],
+        [
+          2,
+          "2025-11-19T03:30:36.325534"
+        ],
+        [
+          2,
+          "2025-11-19T03:36:17.770233"
+        ]
+      ],
+      "created_utc": 1763393682.0,
+      "depth": 0,
+      "permalink": "/r/LangChain/comments/1ozg3et/agentinvoke_returns_inconsistent_object/npbwph5/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npbbt78",
+      "parent_id": "t3_1ozg3et",
+      "author": "Necromancer-4002",
+      "text_history": [
+        [
+          "I think there is some issue with gemini falsh 2.5 , inn our organization we are using langchain for building agents. We are facing the issue that sometimes the gemini model is giving a 92k tokens as response . This has been happening from Friday. We moved to gpt 4o. We thought this was a gemini issue.",
+          "2025-11-19T03:27:15.674831"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T03:27:15.674831"
+        ],
+        [
+          1,
+          "2025-11-19T03:30:36.325534"
+        ],
+        [
+          1,
+          "2025-11-19T03:36:17.770233"
+        ]
+      ],
+      "created_utc": 1763386750.0,
+      "depth": 0,
+      "permalink": "/r/LangChain/comments/1ozg3et/agentinvoke_returns_inconsistent_object/npbbt78/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npbr7de",
+          "parent_id": "t1_npbbt78",
+          "author": "gaureshai",
+          "text_history": [
+            [
+              "So gpt 4o is giving perfect answers",
+              "2025-11-19T03:27:15.674831"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-19T03:27:15.674831"
+            ],
+            [
+              1,
+              "2025-11-19T03:30:36.325534"
+            ],
+            [
+              1,
+              "2025-11-19T03:36:17.770233"
+            ]
+          ],
+          "created_utc": 1763391990.0,
+          "depth": 1,
+          "permalink": "/r/LangChain/comments/1ozg3et/agentinvoke_returns_inconsistent_object/npbr7de/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npc0bv6",
+              "parent_id": "t1_npbr7de",
+              "author": "Necromancer-4002",
+              "text_history": [
+                [
+                  "Not perfect, we have both models as a config , for gemini we used speech to speech bots. After this issue we switched to stt and it's based bots",
+                  "2025-11-19T03:27:15.674831"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-19T03:27:15.674831"
+                ],
+                [
+                  1,
+                  "2025-11-19T03:30:36.325534"
+                ],
+                [
+                  1,
+                  "2025-11-19T03:36:17.770233"
+                ]
+              ],
+              "created_utc": 1763394769.0,
+              "depth": 2,
+              "permalink": "/r/LangChain/comments/1ozg3et/agentinvoke_returns_inconsistent_object/npc0bv6/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "npdfm6s",
+      "parent_id": "t3_1ozg3et",
+      "author": "tifa_cloud0",
+      "text_history": [
+        [
+          "did you tried to use stroutputparser() ? it does return llm output by cutting other metadata. i don’t know if it can be used with agent’s though. try it!",
+          "2025-11-19T03:27:15.674831"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T03:27:15.674831"
+        ],
+        [
+          1,
+          "2025-11-19T03:30:36.325534"
+        ],
+        [
+          1,
+          "2025-11-19T03:36:17.770233"
+        ]
+      ],
+      "created_utc": 1763409852.0,
+      "depth": 0,
+      "permalink": "/r/LangChain/comments/1ozg3et/agentinvoke_returns_inconsistent_object/npdfm6s/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:36:17.770233",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/LangChain/comments/1ozg3et/agentinvoke_returns_inconsistent_object/",
+    "total_comments": 5,
+    "top_level_comments": 3,
+    "api_requests": 1,
+    "expected_comments": 5,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_032715.json",
+      "scrape_002_20251119_033036.json",
+      "scrape_003_20251119_033617.json"
+    ]
+  }
+}

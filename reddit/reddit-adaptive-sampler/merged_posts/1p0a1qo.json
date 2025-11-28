@@ -1,0 +1,221 @@
+{
+  "post": {
+    "id": "1p0a1qo",
+    "title": "LLM RAG om my MacA Air M2, 8GB RAM",
+    "author": "FancyIndependence212",
+    "score_history": [
+      [
+        2,
+        "2025-11-18T14:53:14.948437"
+      ],
+      [
+        2,
+        "2025-11-18T14:56:12.797851"
+      ],
+      [
+        2,
+        "2025-11-18T15:04:18.659556"
+      ]
+    ],
+    "created_utc": 1763467150.0,
+    "num_comments": 5,
+    "subreddit": "Rag",
+    "url": "https://www.reddit.com/r/Rag/comments/1p0a1qo/llm_rag_om_my_maca_air_m2_8gb_ram/",
+    "selftext": "I want to make an LLM RAG om my MacA Air M2, 8GB RAM\n\n**I wanna to run it locally**\n\nis this even possible?  \nWhat steps should I take or what do you recommend I use?\n\n**also any tips or suggestions would be cool :**",
+    "permalink": "/r/Rag/comments/1p0a1qo/llm_rag_om_my_maca_air_m2_8gb_ram/"
+  },
+  "comments": [
+    {
+      "id": "nph8wjp",
+      "parent_id": "t3_1p0a1qo",
+      "author": "charlyAtWork2",
+      "text_history": [
+        [
+          "100% localy ?  \nvector DB, embedding, and LLM inferance ?",
+          "2025-11-18T14:53:14.948437"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-18T14:53:14.948437"
+        ],
+        [
+          2,
+          "2025-11-18T14:56:12.797851"
+        ],
+        [
+          2,
+          "2025-11-18T15:04:18.659556"
+        ]
+      ],
+      "created_utc": 1763467332.0,
+      "depth": 0,
+      "permalink": "/r/Rag/comments/1p0a1qo/llm_rag_om_my_maca_air_m2_8gb_ram/nph8wjp/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npip8mw",
+          "parent_id": "t1_nph8wjp",
+          "author": "FancyIndependence212",
+          "text_history": [
+            [
+              "I’ve already built part of the pipeline on Colab and reached the LLM stage, but then I paused for a moment and thought since I’ve already extracted the data and generated the embeddings, why not train or run the model locally instead?",
+              "2025-11-18T14:53:14.948437"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T14:53:14.948437"
+            ],
+            [
+              1,
+              "2025-11-18T14:56:12.797851"
+            ],
+            [
+              1,
+              "2025-11-18T15:04:18.659556"
+            ]
+          ],
+          "created_utc": 1763484530.0,
+          "depth": 1,
+          "permalink": "/r/Rag/comments/1p0a1qo/llm_rag_om_my_maca_air_m2_8gb_ram/npip8mw/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "nph9lih",
+      "parent_id": "t3_1p0a1qo",
+      "author": "pokemonplayer2001",
+      "text_history": [
+        [
+          "\"**also any tips or suggestions would be cool :\"**\n\nIt's going to be a real struggle, so much so that I would not do it.",
+          "2025-11-18T14:53:14.948437"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:53:14.948437"
+        ],
+        [
+          1,
+          "2025-11-18T14:56:12.797851"
+        ],
+        [
+          1,
+          "2025-11-18T15:04:18.659556"
+        ]
+      ],
+      "created_utc": 1763467628.0,
+      "depth": 0,
+      "permalink": "/r/Rag/comments/1p0a1qo/llm_rag_om_my_maca_air_m2_8gb_ram/nph9lih/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nphpxdn",
+      "parent_id": "t3_1p0a1qo",
+      "author": "Unlucky_Comment",
+      "text_history": [
+        [
+          "Not really, even super small models that run on mobile aren't optimized for MPS usually.\nAnd 8 gb ram is insanely low..",
+          "2025-11-18T14:53:14.948437"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:53:14.948437"
+        ],
+        [
+          1,
+          "2025-11-18T14:56:12.797851"
+        ],
+        [
+          1,
+          "2025-11-18T15:04:18.659556"
+        ]
+      ],
+      "created_utc": 1763473760.0,
+      "depth": 0,
+      "permalink": "/r/Rag/comments/1p0a1qo/llm_rag_om_my_maca_air_m2_8gb_ram/nphpxdn/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npjjmcp",
+      "parent_id": "t3_1p0a1qo",
+      "author": "brodagaita",
+      "text_history": [
+        [
+          "hey! it's crazy to see this on here because I was just working on this.\n\n[https://github.com/skaldlabs/skald](https://github.com/skaldlabs/skald) literally let's you do this and I was polishing this setup just now.\n\nbasically the stack you want if you wanna run a RAG without any third-party deps is:\n\n\\- **vector db:** postgres with pgvector will be the simplest. if you don't have a lot of data this will work and won't be your bottleneck. ofc you can also self-host qdrant or weaviate.  \n\\- **embeddings model:** the python \\`sentence\\_transformers\\` package is the way to go. the standard model to use is \\`all-MiniLM-L6-v2\\`  \n\\- **llm:** llama-3.1-8b will give you the best performance. on 8gb of RAM honestly you might really struggle. if you manage to run this [\\`Q4\\_K\\_S\\` quantized version ](https://huggingface.co/bartowski/Meta-Llama-3.1-8B-Instruct-GGUF/blob/main/Meta-Llama-3.1-8B-Instruct-Q4_K_S.gguf) you might actually have something useful  \n\\- **reranking (optional):** \\`sentence\\_transformers\\` will give you this as well, we're using \\`cross-encoder/ms-marco-MiniLM-L-6-v2\\` for our local stack\n\n  \nhappy to answer questions if you want! you can also try our self-hosted setup and we'll give you this out-of-the-box. docs need some polishing but could be nice to have someone give it a shot and share the experience.\n\nthe llm will be your bottleneck on 8gb RAM but for point queries you might just manage to get it to work with low top k values and a solid chunking strategy (we still don't let you configure this but will)",
+          "2025-11-18T14:53:14.948437"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:53:14.948437"
+        ],
+        [
+          1,
+          "2025-11-18T14:56:12.797851"
+        ],
+        [
+          1,
+          "2025-11-18T15:04:18.659556"
+        ]
+      ],
+      "created_utc": 1763493385.0,
+      "depth": 0,
+      "permalink": "/r/Rag/comments/1p0a1qo/llm_rag_om_my_maca_air_m2_8gb_ram/npjjmcp/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-18T15:04:18.659556",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/Rag/comments/1p0a1qo/llm_rag_om_my_maca_air_m2_8gb_ram/",
+    "total_comments": 5,
+    "top_level_comments": 4,
+    "api_requests": 1,
+    "expected_comments": 5,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_145314.json",
+      "scrape_002_20251118_145612.json",
+      "scrape_003_20251118_150418.json"
+    ]
+  }
+}

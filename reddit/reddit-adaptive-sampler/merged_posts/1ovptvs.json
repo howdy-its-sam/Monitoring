@@ -1,0 +1,49 @@
+{
+  "post": {
+    "id": "1ovptvs",
+    "title": "Looking For Contributers",
+    "author": "idleprofits",
+    "score_history": [
+      [
+        3,
+        "2025-11-18T14:22:32.264290"
+      ],
+      [
+        3,
+        "2025-11-18T14:32:11.352879"
+      ],
+      [
+        3,
+        "2025-11-18T14:42:15.174171"
+      ],
+      [
+        3,
+        "2025-11-18T22:32:14.038682"
+      ]
+    ],
+    "created_utc": 1763002454.0,
+    "num_comments": 0,
+    "subreddit": "ContentMarketing",
+    "url": "https://www.reddit.com/r/ContentMarketing/comments/1ovptvs/looking_for_contributers/",
+    "selftext": "Hello, I am working on a project that focuses on helping people tap into the potential of online revenue, Our site is a collection of tools, resources, digital products, that people can freely access and attempt to profit from. Anyway I am trying obtain some basic html templates for dropshipping sites, landing page etc. Anyone that contributes to this can choose a small company ad spot , link, or ankowledment text that will be displayed on our site.",
+    "permalink": "/r/ContentMarketing/comments/1ovptvs/looking_for_contributers/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-18T22:32:14.038682",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/ContentMarketing/comments/1ovptvs/looking_for_contributers/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 4,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_142232.json",
+      "scrape_002_20251118_143211.json",
+      "scrape_003_20251118_144215.json",
+      "scrape_004_20251118_223213.json"
+    ]
+  }
+}

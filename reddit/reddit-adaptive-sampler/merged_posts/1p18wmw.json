@@ -1,0 +1,129 @@
+{
+  "post": {
+    "id": "1p18wmw",
+    "title": "Microsoft explains how Windows 11 will become an agentic OS whether you like it or not",
+    "author": "AdSpecialist6598",
+    "score_history": [
+      [
+        1,
+        "2025-11-19T06:20:07.294730"
+      ],
+      [
+        1,
+        "2025-11-19T06:20:07.548479"
+      ],
+      [
+        1,
+        "2025-11-19T06:20:07.789171"
+      ],
+      [
+        1,
+        "2025-11-19T06:20:07.995355"
+      ],
+      [
+        1,
+        "2025-11-19T06:20:08.224799"
+      ],
+      [
+        1,
+        "2025-11-19T06:20:08.441650"
+      ],
+      [
+        1,
+        "2025-11-19T06:20:08.807491"
+      ],
+      [
+        1,
+        "2025-11-19T06:20:09.009409"
+      ],
+      [
+        1,
+        "2025-11-19T06:20:09.319447"
+      ],
+      [
+        1,
+        "2025-11-19T06:20:09.531663"
+      ],
+      [
+        1,
+        "2025-11-19T06:20:09.775640"
+      ],
+      [
+        1,
+        "2025-11-19T06:20:09.982344"
+      ],
+      [
+        1,
+        "2025-11-19T06:20:10.234197"
+      ],
+      [
+        1,
+        "2025-11-19T06:20:10.431824"
+      ],
+      [
+        1,
+        "2025-11-19T06:20:10.656596"
+      ],
+      [
+        1,
+        "2025-11-19T06:20:10.881720"
+      ],
+      [
+        1,
+        "2025-11-19T06:20:11.138681"
+      ],
+      [
+        1,
+        "2025-11-19T06:20:12.702871"
+      ],
+      [
+        1,
+        "2025-11-19T06:20:18.639219"
+      ],
+      [
+        1,
+        "2025-11-19T06:20:18.852873"
+      ]
+    ],
+    "created_utc": 1763561976.0,
+    "num_comments": 0,
+    "subreddit": "technology",
+    "url": "https://www.techspot.com/news/110306-microsoft-explains-how-windows-11-become-agentic-os.html",
+    "selftext": "",
+    "permalink": "/r/technology/comments/1p18wmw/microsoft_explains_how_windows_11_will_become_an/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T06:20:18.852873",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/technology/comments/1p18wmw/microsoft_explains_how_windows_11_will_become_an/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 20,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_062007.json",
+      "scrape_002_20251119_062007.json",
+      "scrape_003_20251119_062007.json",
+      "scrape_004_20251119_062007.json",
+      "scrape_005_20251119_062008.json",
+      "scrape_006_20251119_062008.json",
+      "scrape_007_20251119_062008.json",
+      "scrape_008_20251119_062008.json",
+      "scrape_009_20251119_062009.json",
+      "scrape_010_20251119_062009.json",
+      "scrape_011_20251119_062009.json",
+      "scrape_012_20251119_062009.json",
+      "scrape_013_20251119_062010.json",
+      "scrape_014_20251119_062010.json",
+      "scrape_015_20251119_062010.json",
+      "scrape_016_20251119_062010.json",
+      "scrape_017_20251119_062010.json",
+      "scrape_018_20251119_062011.json",
+      "scrape_019_20251119_062018.json",
+      "scrape_020_20251119_062018.json"
+    ]
+  }
+}

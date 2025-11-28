@@ -1,0 +1,1020 @@
+{
+  "post": {
+    "id": "1p07uur",
+    "title": "What are some \"TRUE\" AI agents you have come across so far? and why?",
+    "author": "impetuouschestnut",
+    "score_history": [
+      [
+        41,
+        "2025-11-18T12:51:34.046863"
+      ],
+      [
+        41,
+        "2025-11-18T13:03:52.679667"
+      ],
+      [
+        41,
+        "2025-11-18T13:15:55.374630"
+      ],
+      [
+        40,
+        "2025-11-18T13:46:27.663823"
+      ],
+      [
+        42,
+        "2025-11-18T13:49:28.881914"
+      ],
+      [
+        43,
+        "2025-11-18T13:59:19.428506"
+      ],
+      [
+        43,
+        "2025-11-18T14:10:37.375832"
+      ]
+    ],
+    "created_utc": 1763459306.0,
+    "num_comments": 20,
+    "subreddit": "AI_Agents",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1p07uur/what_are_some_true_ai_agents_you_have_come_across/",
+    "selftext": "There’s been a flood of tools calling themselves AI agents lately- but let’s be real, a lot of them are just fancy scripts or wrappers around an API. I’m curious to hear from people who’ve actually used something that feels like a real agent: a system that can make autonomous decisions, take meaningful actions, and reliably handle tasks you used to do manually.\n\nSo what are the AI agents you’ve come across that actually deliver on that promise? and why you believe they qualify as “true agents” instead of just another interface.",
+    "permalink": "/r/AI_Agents/comments/1p07uur/what_are_some_true_ai_agents_you_have_come_across/"
+  },
+  "comments": [
+    {
+      "id": "npgvges",
+      "parent_id": "t3_1p07uur",
+      "author": "Plenty-Exchange-5355",
+      "text_history": [
+        [
+          "Absolutely agree! Our business has spent more than $10k this year testing various flows and AI agents. Here are 3 I think are \"True\" AI agents including why\n\n1. **Clay**: I believe its a true AI agent because once you define your true customer persona, it can auto discover similar customers, and craft personalized emails/linkedIn DMs and then reach out to them with a specific goal. For example, for us, it can pretty much book our first sales call on auto pilot. Obviously, this only works once you have manually verified cold outreach works for your business- its not a magic wand :)\n2. **Windsurf Cascade Agent:** Everyone in our engineering team uses Windsurf Cascade Agent to code and product changes now. For most changes, if you clearly ask the agent, it can auto read relevant files, look up documentation automatically online, run scripts, use its memory to make changes all my itself from a single prompt. It even splits tasks into smaller pieces, tests the changes (can even start its own browser to test). We have been super happy and we ship code atleast 2x faster now! Again, I dont think its at a point where anyone can use it-its still best used by software engineers and not anybody!\n3. **Frizerly:** Our marketing team now uses this AI agent for both SEO strategy and content instead of freelancers on Upwork! It can automatically learn about your business, products, case studies, customer reviews and then use analytics from Google search console to come up with monthly SEO strategy. Then using this strategy, it can automatically publish a blog on our wordpress website all by itself. It then reviews the results monthly, and updates the strategy based on it again, continuously improving. In our case, we have set it up to do draft blogs on our wordpress and our team clicks publish after a quick review, just in case!\n4. **Otter**: Last but not least, Otter  now joins all our internal and customer calls on Zoom to auto transcribe, create action items for each person, send it to them and can even update our CRM based on this data. Since there isn't a feedback mechanism here, this one might not be a true AI agent in some sense, but we still love it!\n\nAnd that's all I can think of right now :)",
+          "2025-11-18T12:51:34.046863"
+        ]
+      ],
+      "score_history": [
+        [
+          12,
+          "2025-11-18T12:51:34.046863"
+        ],
+        [
+          11,
+          "2025-11-18T13:03:52.679667"
+        ],
+        [
+          11,
+          "2025-11-18T13:15:55.374630"
+        ],
+        [
+          11,
+          "2025-11-18T13:46:27.663823"
+        ],
+        [
+          11,
+          "2025-11-18T13:49:28.881914"
+        ],
+        [
+          10,
+          "2025-11-18T13:59:19.428506"
+        ],
+        [
+          11,
+          "2025-11-18T14:10:37.375832"
+        ]
+      ],
+      "created_utc": 1763459934.0,
+      "depth": 0,
+      "permalink": "/r/AI_Agents/comments/1p07uur/what_are_some_true_ai_agents_you_have_come_across/npgvges/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": 1763477836.0,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npgxo3o",
+          "parent_id": "t1_npgvges",
+          "author": "Feisty_University932",
+          "text_history": [
+            [
+              "These picks feel like real agents when you wire in feedback, safety checks, and clear success metrics.\n\n\n\nA few tweaks that helped us: for Clay, A/B subjects and auto-pauses if reply rate dips below a threshold; push every touch to the CRM via webhook and enforce opt-outs at the workflow level. For Windsurf Cascade, force changes through ephemeral branches with CI tests, lint, and a “critic” pass before merge; canary deploy and auto-rollback on error budgets. For Surfer, add a fact-check and link-validator step, publish to WordPress as drafts, and optimize against a simple reward (impressions → clicks → trials) from Search Console. For Otter, auto-create Jira/Linear tasks with owners and due dates; add a follow-up ping agent and redact sensitive terms by default.\n\n\n\nFor plumbing: we run LangChain and n8n for orchestration; DreamFactory exposes secure REST APIs from our databases so agents can read/write without sharing raw creds.\n\n\n\nReal agents earn the name when they close the loop and safely touch prod.",
+              "2025-11-18T12:51:34.046863"
+            ]
+          ],
+          "score_history": [
+            [
+              3,
+              "2025-11-18T12:51:34.046863"
+            ],
+            [
+              3,
+              "2025-11-18T13:03:52.679667"
+            ],
+            [
+              3,
+              "2025-11-18T13:15:55.374630"
+            ],
+            [
+              3,
+              "2025-11-18T13:46:27.663823"
+            ],
+            [
+              3,
+              "2025-11-18T13:49:28.881914"
+            ],
+            [
+              3,
+              "2025-11-18T13:59:19.428506"
+            ],
+            [
+              3,
+              "2025-11-18T14:10:37.375832"
+            ]
+          ],
+          "created_utc": 1763461279.0,
+          "depth": 1,
+          "permalink": "/r/AI_Agents/comments/1p07uur/what_are_some_true_ai_agents_you_have_come_across/npgxo3o/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        },
+        {
+          "id": "nphiqtd",
+          "parent_id": "t1_npgvges",
+          "author": "Original_Ability9593",
+          "text_history": [
+            [
+              "Nice picks! Clay sounds like a game changer for outreach. I’ve heard good things about Windsurf too, especially with how it integrates into existing workflows. Have you noticed any limitations or areas where they struggle?",
+              "2025-11-18T12:51:34.046863"
+            ]
+          ],
+          "score_history": [
+            [
+              2,
+              "2025-11-18T12:51:34.046863"
+            ],
+            [
+              2,
+              "2025-11-18T13:03:52.679667"
+            ],
+            [
+              2,
+              "2025-11-18T13:15:55.374630"
+            ],
+            [
+              2,
+              "2025-11-18T13:46:27.663823"
+            ],
+            [
+              2,
+              "2025-11-18T13:49:28.881914"
+            ],
+            [
+              2,
+              "2025-11-18T13:59:19.428506"
+            ],
+            [
+              2,
+              "2025-11-18T14:10:37.375832"
+            ]
+          ],
+          "created_utc": 1763471358.0,
+          "depth": 1,
+          "permalink": "/r/AI_Agents/comments/1p07uur/what_are_some_true_ai_agents_you_have_come_across/nphiqtd/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "nphxva3",
+              "parent_id": "t1_nphiqtd",
+              "author": "Plenty-Exchange-5355",
+              "text_history": [
+                [
+                  "With Windsurf, you still have to split bigger tasks into smaller chunks. And ensure you have custom instructions to split bigger files into smaller ones. It seems to struggle if a single file to too long/big.\n\nFinally sometimes when its giving really wrong results, its easier to start over than try to get it fixed!\n\nCurious what others have found tho!",
+                  "2025-11-18T12:51:34.046863"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-18T12:51:34.046863"
+                ],
+                [
+                  1,
+                  "2025-11-18T13:03:52.679667"
+                ],
+                [
+                  1,
+                  "2025-11-18T13:15:55.374630"
+                ],
+                [
+                  1,
+                  "2025-11-18T13:46:27.663823"
+                ],
+                [
+                  1,
+                  "2025-11-18T13:49:28.881914"
+                ],
+                [
+                  1,
+                  "2025-11-18T13:59:19.428506"
+                ],
+                [
+                  1,
+                  "2025-11-18T14:10:37.375832"
+                ]
+              ],
+              "created_utc": 1763476281.0,
+              "depth": 2,
+              "permalink": "/r/AI_Agents/comments/1p07uur/what_are_some_true_ai_agents_you_have_come_across/nphxva3/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "nphb3o9",
+          "parent_id": "t1_npgvges",
+          "author": "traumfisch",
+          "text_history": [
+            [
+              "Thank you for sharing!",
+              "2025-11-18T12:51:34.046863"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T12:51:34.046863"
+            ],
+            [
+              1,
+              "2025-11-18T13:03:52.679667"
+            ],
+            [
+              1,
+              "2025-11-18T13:15:55.374630"
+            ],
+            [
+              1,
+              "2025-11-18T13:46:27.663823"
+            ],
+            [
+              1,
+              "2025-11-18T13:49:28.881914"
+            ],
+            [
+              1,
+              "2025-11-18T13:59:19.428506"
+            ],
+            [
+              1,
+              "2025-11-18T14:10:37.375832"
+            ]
+          ],
+          "created_utc": 1763468276.0,
+          "depth": 1,
+          "permalink": "/r/AI_Agents/comments/1p07uur/what_are_some_true_ai_agents_you_have_come_across/nphb3o9/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npkcyip",
+      "parent_id": "t3_1p07uur",
+      "author": "Conscious-Analyst660",
+      "text_history": [
+        [
+          "the term “agent” is doing a lot of heavy lifting these days. some of what’s out there barely qualifies as a smart macro lmfao\n\nfor me, a true agent should actually handle a full task end-to-end, make decisions based on context (not just static rules), and ideally not need to be micromanaged like an intern on his first day.\n\nin compliance/fraud, ive seen a few decent attempts. Sphinx is one of the more legit ones imo, they’ve built AI agents that handle onboarding decisions, UBO research, SAR prep, that kind of stuff. and it’s not just a GPT wrapper, they log decisions, follow SOPs, and can run without engineering needing to babysit.\n\non the more dev-oriented side, AutoGen has been getting some attention. it’s a framework for chaining agents together, more build-your-own than plug-and-play. super powerful if you’ve got the time and the infra to build something custom, but not for the faint of heart.\n\nmost of the “agents” I see floating around are really just nicer UIs for OpenAI calls with task lists bolted on. the second they hit an edge case or need context across tools, they fall apart.\n\nSo yeah still early. but some are getting close to feeling like an actual assistant instead of a slightly clever chatbot",
+          "2025-11-18T13:46:27.663823"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T13:46:27.663823"
+        ],
+        [
+          1,
+          "2025-11-18T13:49:28.881914"
+        ],
+        [
+          2,
+          "2025-11-18T13:59:19.428506"
+        ],
+        [
+          3,
+          "2025-11-18T14:10:37.375832"
+        ]
+      ],
+      "created_utc": 1763502200.0,
+      "depth": 0,
+      "permalink": "/r/AI_Agents/comments/1p07uur/what_are_some_true_ai_agents_you_have_come_across/npkcyip/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npgwm5x",
+      "parent_id": "t3_1p07uur",
+      "author": "alokin_09",
+      "text_history": [
+        [
+          "Kilo Code definitely. It has different \"sub-agents\" for different tasks in the dev lifecycle. Like their Orchestrator mode breaks down complex projects into manageable subtasks, assigns them to other agent modes, and coordinates between them. Been using it since July/August and it's been really helpful for keeping things organized.",
+          "2025-11-18T12:51:34.046863"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-18T12:51:34.046863"
+        ],
+        [
+          2,
+          "2025-11-18T13:03:52.679667"
+        ],
+        [
+          2,
+          "2025-11-18T13:15:55.374630"
+        ],
+        [
+          2,
+          "2025-11-18T13:46:27.663823"
+        ],
+        [
+          2,
+          "2025-11-18T13:49:28.881914"
+        ],
+        [
+          2,
+          "2025-11-18T13:59:19.428506"
+        ],
+        [
+          2,
+          "2025-11-18T14:10:37.375832"
+        ]
+      ],
+      "created_utc": 1763460639.0,
+      "depth": 0,
+      "permalink": "/r/AI_Agents/comments/1p07uur/what_are_some_true_ai_agents_you_have_come_across/npgwm5x/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npgufnz",
+      "parent_id": "t3_1p07uur",
+      "author": "AutoModerator",
+      "text_history": [
+        [
+          "Thank you for your submission, for any questions regarding AI, please check out our wiki at https://www.reddit.com/r/ai_agents/wiki (this is currently in test and we are actively adding to the wiki)\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/AI_Agents) if you have any questions or concerns.*",
+          "2025-11-18T12:51:34.046863"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T12:51:34.046863"
+        ],
+        [
+          1,
+          "2025-11-18T13:03:52.679667"
+        ],
+        [
+          1,
+          "2025-11-18T13:15:55.374630"
+        ],
+        [
+          1,
+          "2025-11-18T13:46:27.663823"
+        ],
+        [
+          1,
+          "2025-11-18T13:49:28.881914"
+        ],
+        [
+          1,
+          "2025-11-18T13:59:19.428506"
+        ],
+        [
+          1,
+          "2025-11-18T14:10:37.375832"
+        ]
+      ],
+      "created_utc": 1763459307.0,
+      "depth": 0,
+      "permalink": "/r/AI_Agents/comments/1p07uur/what_are_some_true_ai_agents_you_have_come_across/npgufnz/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npgvfam",
+      "parent_id": "t3_1p07uur",
+      "author": "ai-agents-qa-bot",
+      "text_history": [
+        [
+          "Here are some AI agents that can be considered \"true\" agents based on their capabilities to make autonomous decisions and handle tasks effectively:\n\n- **Deep Research Agent**: This agent can conduct comprehensive internet research in a matter of minutes, breaking down complex queries into manageable tasks. It utilizes advanced reasoning and web browsing capabilities, allowing it to synthesize information from various sources and provide informed conclusions. The ability to iterate through research plans and evaluate findings makes it a strong candidate for being a true agent. More details can be found in the article [Mastering Agents: Build And Evaluate A Deep Research Agent with o3 and 4o - Galileo AI](https://tinyurl.com/3ppvudxd).\n\n- **Instagram Analysis Agent on Apify**: This agent analyzes social media posts and extracts insights based on user queries. It integrates web scraping tools and LLMs to provide meaningful analysis, adapting to user needs without requiring manual input for every task. The ability to autonomously gather data and generate reports qualifies it as a true agent. For more information, check out [How to build and monetize an AI agent on Apify](https://tinyurl.com/y7w2nmrj).\n\n- **aiXplain Agent for Unit Testing and Documentation**: This multi-agent system automates the generation of unit tests and README documentation for Python projects. By understanding the code structure and generating relevant tests and documentation, it significantly reduces manual effort. Its capability to adapt and produce meaningful outputs based on the input code makes it a true agent. More details can be found in the article [Automate Unit Tests and Documentation with AI Agents - aiXplain](https://tinyurl.com/mryfy48c).\n\nThese agents stand out because they not only perform tasks but also adapt and learn from their interactions, making them more than just simple scripts or API wrappers.",
+          "2025-11-18T12:51:34.046863"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T12:51:34.046863"
+        ],
+        [
+          1,
+          "2025-11-18T13:03:52.679667"
+        ],
+        [
+          1,
+          "2025-11-18T13:15:55.374630"
+        ],
+        [
+          1,
+          "2025-11-18T13:46:27.663823"
+        ],
+        [
+          1,
+          "2025-11-18T13:49:28.881914"
+        ],
+        [
+          1,
+          "2025-11-18T13:59:19.428506"
+        ],
+        [
+          1,
+          "2025-11-18T14:10:37.375832"
+        ]
+      ],
+      "created_utc": 1763459915.0,
+      "depth": 0,
+      "permalink": "/r/AI_Agents/comments/1p07uur/what_are_some_true_ai_agents_you_have_come_across/npgvfam/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nphfdre",
+      "parent_id": "t3_1p07uur",
+      "author": "KeyCartographer9148",
+      "text_history": [
+        [
+          "Totally agree. This is exactly why we built Eloo - to enable our users to build their own autonomous agents with plain conversation (think n8n for non-developers).",
+          "2025-11-18T12:51:34.046863"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T12:51:34.046863"
+        ],
+        [
+          1,
+          "2025-11-18T13:03:52.679667"
+        ],
+        [
+          1,
+          "2025-11-18T13:15:55.374630"
+        ],
+        [
+          1,
+          "2025-11-18T13:46:27.663823"
+        ],
+        [
+          1,
+          "2025-11-18T13:49:28.881914"
+        ],
+        [
+          1,
+          "2025-11-18T13:59:19.428506"
+        ],
+        [
+          1,
+          "2025-11-18T14:10:37.375832"
+        ]
+      ],
+      "created_utc": 1763470075.0,
+      "depth": 0,
+      "permalink": "/r/AI_Agents/comments/1p07uur/what_are_some_true_ai_agents_you_have_come_across/nphfdre/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nphi5t6",
+      "parent_id": "t3_1p07uur",
+      "author": "frank_lapitas",
+      "text_history": [
+        [
+          "Skej goes out and emails people for me. That’s the only one I’ve tried that is fully autonomous",
+          "2025-11-18T12:51:34.046863"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T12:51:34.046863"
+        ],
+        [
+          1,
+          "2025-11-18T13:03:52.679667"
+        ],
+        [
+          1,
+          "2025-11-18T13:15:55.374630"
+        ],
+        [
+          1,
+          "2025-11-18T13:46:27.663823"
+        ],
+        [
+          1,
+          "2025-11-18T13:49:28.881914"
+        ],
+        [
+          1,
+          "2025-11-18T13:59:19.428506"
+        ],
+        [
+          1,
+          "2025-11-18T14:10:37.375832"
+        ]
+      ],
+      "created_utc": 1763471147.0,
+      "depth": 0,
+      "permalink": "/r/AI_Agents/comments/1p07uur/what_are_some_true_ai_agents_you_have_come_across/nphi5t6/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nphqs6n",
+      "parent_id": "t3_1p07uur",
+      "author": "lucas_gdno",
+      "text_history": [
+        [
+          "Most tools that claim to be \"agents\" fall apart the moment they hit an unexpected scenario or need to chain together multiple reasoning steps. The real test isn't whether something can follow a predefined workflow, but whether it can actually adapt when things dont go according to plan and maintain context across complex multi-step processes.",
+          "2025-11-18T12:51:34.046863"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T12:51:34.046863"
+        ],
+        [
+          1,
+          "2025-11-18T13:03:52.679667"
+        ],
+        [
+          1,
+          "2025-11-18T13:15:55.374630"
+        ],
+        [
+          1,
+          "2025-11-18T13:46:27.663823"
+        ],
+        [
+          1,
+          "2025-11-18T13:49:28.881914"
+        ],
+        [
+          1,
+          "2025-11-18T13:59:19.428506"
+        ],
+        [
+          1,
+          "2025-11-18T14:10:37.375832"
+        ]
+      ],
+      "created_utc": 1763474033.0,
+      "depth": 0,
+      "permalink": "/r/AI_Agents/comments/1p07uur/what_are_some_true_ai_agents_you_have_come_across/nphqs6n/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nphz3or",
+      "parent_id": "t3_1p07uur",
+      "author": "Ecstatic-Junket2196",
+      "text_history": [
+        [
+          "been using cursor w traycer recently and my progress has been much smoother. i tryna keep my stack simple bc jiggling many tools might not be the best option. traycer helps me map out the logics and its context handling is great as well",
+          "2025-11-18T12:51:34.046863"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T12:51:34.046863"
+        ],
+        [
+          1,
+          "2025-11-18T13:03:52.679667"
+        ],
+        [
+          1,
+          "2025-11-18T13:15:55.374630"
+        ],
+        [
+          1,
+          "2025-11-18T13:46:27.663823"
+        ],
+        [
+          1,
+          "2025-11-18T13:49:28.881914"
+        ],
+        [
+          1,
+          "2025-11-18T13:59:19.428506"
+        ],
+        [
+          1,
+          "2025-11-18T14:10:37.375832"
+        ]
+      ],
+      "created_utc": 1763476675.0,
+      "depth": 0,
+      "permalink": "/r/AI_Agents/comments/1p07uur/what_are_some_true_ai_agents_you_have_come_across/nphz3or/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npiit85",
+      "parent_id": "t3_1p07uur",
+      "author": "Hungry_Jackfruit_338",
+      "text_history": [
+        [
+          "[www.NeverClosed.AI](http://www.NeverClosed.AI)\n\nLet me know what you think.",
+          "2025-11-18T12:51:34.046863"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T12:51:34.046863"
+        ],
+        [
+          1,
+          "2025-11-18T13:03:52.679667"
+        ],
+        [
+          1,
+          "2025-11-18T13:15:55.374630"
+        ],
+        [
+          1,
+          "2025-11-18T13:46:27.663823"
+        ],
+        [
+          1,
+          "2025-11-18T13:49:28.881914"
+        ],
+        [
+          1,
+          "2025-11-18T13:59:19.428506"
+        ],
+        [
+          1,
+          "2025-11-18T14:10:37.375832"
+        ]
+      ],
+      "created_utc": 1763482659.0,
+      "depth": 0,
+      "permalink": "/r/AI_Agents/comments/1p07uur/what_are_some_true_ai_agents_you_have_come_across/npiit85/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npj15ow",
+      "parent_id": "t3_1p07uur",
+      "author": "OneValue441",
+      "text_history": [
+        [
+          "My agent/framework is build controlling other ai systems, making decisions and more.\n\nRead about it here: https://www.reddit.com/r/aiagents/s/1TBXaODg1q",
+          "2025-11-18T12:51:34.046863"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T12:51:34.046863"
+        ],
+        [
+          1,
+          "2025-11-18T13:03:52.679667"
+        ],
+        [
+          1,
+          "2025-11-18T13:15:55.374630"
+        ],
+        [
+          1,
+          "2025-11-18T13:46:27.663823"
+        ],
+        [
+          1,
+          "2025-11-18T13:49:28.881914"
+        ],
+        [
+          1,
+          "2025-11-18T13:59:19.428506"
+        ],
+        [
+          1,
+          "2025-11-18T14:10:37.375832"
+        ]
+      ],
+      "created_utc": 1763488048.0,
+      "depth": 0,
+      "permalink": "/r/AI_Agents/comments/1p07uur/what_are_some_true_ai_agents_you_have_come_across/npj15ow/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npjill1",
+      "parent_id": "t3_1p07uur",
+      "author": "SeaParamedic2030",
+      "text_history": [
+        [
+          "I've been testing a lot of the 'post-ChatGPT' agents, and the one that has genuinely surprised me is **SmolAgent**.\n\n**Why it's a 'true' agent:** Its whole philosophy is based on giving an LLM a simple toolset (a browser, a terminal, a text editor) and a high-level goal. I told it to *'research the best budget wireless headphones for 2024 and write a summary for me.'*\n\nIt autonomously:\n\n1. Opened a browser and went to Reddit and review sites.\n2. Read through threads and articles, identifying top models.\n3. Compared prices and features across different sites.\n4. Opened a text file and wrote a well-structured summary with recommendations and links.\n\nIt's janky sometimes, but it *feels* autonomous in a way that a chatbot never will",
+          "2025-11-18T12:51:34.046863"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T12:51:34.046863"
+        ],
+        [
+          1,
+          "2025-11-18T13:03:52.679667"
+        ],
+        [
+          1,
+          "2025-11-18T13:15:55.374630"
+        ],
+        [
+          1,
+          "2025-11-18T13:46:27.663823"
+        ],
+        [
+          1,
+          "2025-11-18T13:49:28.881914"
+        ],
+        [
+          1,
+          "2025-11-18T13:59:19.428506"
+        ],
+        [
+          1,
+          "2025-11-18T14:10:37.375832"
+        ]
+      ],
+      "created_utc": 1763493081.0,
+      "depth": 0,
+      "permalink": "/r/AI_Agents/comments/1p07uur/what_are_some_true_ai_agents_you_have_come_across/npjill1/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npjkobm",
+      "parent_id": "t3_1p07uur",
+      "author": "Pristine_Box_5",
+      "text_history": [
+        [
+          "tbh there aren’t many real agents out there. Most tools still need you to babysit them. \n\nThe closest I’ve used is Marblism since it actually runs tasks on its own inbox sorting, drafting replies, content stuff, simple outreach and only checks in when needed. It remembers context and keeps working in the background, which feels way more like an actual agent vs another prompt box.",
+          "2025-11-18T12:51:34.046863"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T12:51:34.046863"
+        ],
+        [
+          1,
+          "2025-11-18T13:03:52.679667"
+        ],
+        [
+          1,
+          "2025-11-18T13:15:55.374630"
+        ],
+        [
+          1,
+          "2025-11-18T13:46:27.663823"
+        ],
+        [
+          1,
+          "2025-11-18T13:49:28.881914"
+        ],
+        [
+          1,
+          "2025-11-18T13:59:19.428506"
+        ],
+        [
+          1,
+          "2025-11-18T14:10:37.375832"
+        ]
+      ],
+      "created_utc": 1763493701.0,
+      "depth": 0,
+      "permalink": "/r/AI_Agents/comments/1p07uur/what_are_some_true_ai_agents_you_have_come_across/npjkobm/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npk11el",
+      "parent_id": "t3_1p07uur",
+      "author": "Old_Sheepherder6720",
+      "text_history": [
+        [
+          "Right now I feel only coding agents to be close to \"true agents\". However I think in the coming year there will be boom of more general purpose (\"true\") agents that can get combination of tasks done using multiple specialized agents like Deep Research + Coding + Slides agent + Spreadsheet agent, etc.  \n2026 is going to be the year of general purpose agents.",
+          "2025-11-18T12:51:34.046863"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T12:51:34.046863"
+        ],
+        [
+          1,
+          "2025-11-18T13:03:52.679667"
+        ],
+        [
+          1,
+          "2025-11-18T13:15:55.374630"
+        ],
+        [
+          1,
+          "2025-11-18T13:46:27.663823"
+        ],
+        [
+          1,
+          "2025-11-18T13:49:28.881914"
+        ],
+        [
+          1,
+          "2025-11-18T13:59:19.428506"
+        ],
+        [
+          1,
+          "2025-11-18T14:10:37.375832"
+        ]
+      ],
+      "created_utc": 1763498650.0,
+      "depth": 0,
+      "permalink": "/r/AI_Agents/comments/1p07uur/what_are_some_true_ai_agents_you_have_come_across/npk11el/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npk2oyk",
+      "parent_id": "t3_1p07uur",
+      "author": "mouhcine_ziane",
+      "text_history": [
+        [
+          "**Claude with computer use** and **Devin** actually feel like real agents to me.\n\nClaude controls a desktop - sees the screen, clicks, navigates, adapts. Devin codes, debugs, and iterates in its own environment without constant hand-holding",
+          "2025-11-18T13:03:52.679667"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T13:03:52.679667"
+        ],
+        [
+          1,
+          "2025-11-18T13:15:55.374630"
+        ],
+        [
+          1,
+          "2025-11-18T13:46:27.663823"
+        ],
+        [
+          1,
+          "2025-11-18T13:49:28.881914"
+        ],
+        [
+          1,
+          "2025-11-18T13:59:19.428506"
+        ],
+        [
+          1,
+          "2025-11-18T14:10:37.375832"
+        ]
+      ],
+      "created_utc": 1763499141.0,
+      "depth": 0,
+      "permalink": "/r/AI_Agents/comments/1p07uur/what_are_some_true_ai_agents_you_have_come_across/npk2oyk/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-18T14:10:37.375832",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/AI_Agents/comments/1p07uur/what_are_some_true_ai_agents_you_have_come_across/",
+    "total_comments": 19,
+    "top_level_comments": 15,
+    "api_requests": 1,
+    "expected_comments": 20,
+    "coverage_percent": 95.0,
+    "merged_snapshot_count": 7,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_125133.json",
+      "scrape_002_20251118_130352.json",
+      "scrape_003_20251118_131555.json",
+      "scrape_004_20251118_134627.json",
+      "scrape_005_20251118_134928.json",
+      "scrape_006_20251118_135919.json",
+      "scrape_007_20251118_141037.json"
+    ]
+  }
+}

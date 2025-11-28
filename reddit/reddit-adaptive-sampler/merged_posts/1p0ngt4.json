@@ -1,0 +1,44 @@
+{
+  "post": {
+    "id": "1p0ngt4",
+    "title": "Build a RAG in Under 5 Minutes + RAG 101: how RAG works",
+    "author": "davernow",
+    "score_history": [
+      [
+        1,
+        "2025-11-19T02:55:57.438256"
+      ],
+      [
+        1,
+        "2025-11-19T03:03:44.960909"
+      ],
+      [
+        1,
+        "2025-11-19T03:06:59.565761"
+      ]
+    ],
+    "created_utc": 1763498931.0,
+    "num_comments": 0,
+    "subreddit": "learnmachinelearning",
+    "url": "https://v.redd.it/j97wad7ru22g1",
+    "selftext": "Hey everybody. I put together a video guide on building a RAG system in just a few minutes. First part is the easy/fast way, with drag-and-drop to create a RAG in 4 mins. Second part we do it again, going over each step and how it works: document extraction, chunking, embedding, search indexing, and reranking\n\nTo try it:\n\n* Download Kiln: [https://kiln.tech/download](https://kiln.tech/download)\n* Our RAG Docs &amp; Guide: [https://docs.kiln.tech/docs/documents-and-search-rag](https://docs.kiln.tech/docs/documents-and-search-rag)\n* Our Guide on Evaluating RAG: [https://docs.kiln.tech/docs/evaluations/evaluate-rag-accuracy-q-and-a-evals](https://docs.kiln.tech/docs/evaluations/evaluate-rag-accuracy-q-and-a-evals)\n* Kiln on Github: [https://github.com/kiln-ai/kiln](https://github.com/kiln-ai/kiln)\n\n",
+    "permalink": "/r/learnmachinelearning/comments/1p0ngt4/build_a_rag_in_under_5_minutes_rag_101_how_rag/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:06:59.565761",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/learnmachinelearning/comments/1p0ngt4/build_a_rag_in_under_5_minutes_rag_101_how_rag/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_025557.json",
+      "scrape_002_20251119_030344.json",
+      "scrape_003_20251119_030659.json"
+    ]
+  }
+}

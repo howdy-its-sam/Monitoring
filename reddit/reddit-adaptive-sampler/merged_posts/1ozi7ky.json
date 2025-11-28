@@ -1,0 +1,585 @@
+{
+  "post": {
+    "id": "1ozi7ky",
+    "title": "Gemini don't give structured outputs always",
+    "author": "gaureshai",
+    "score_history": [
+      [
+        5,
+        "2025-11-18T13:49:47.186370"
+      ],
+      [
+        4,
+        "2025-11-18T14:00:52.455048"
+      ],
+      [
+        4,
+        "2025-11-18T14:12:12.025075"
+      ],
+      [
+        4,
+        "2025-11-18T21:49:52.704921"
+      ],
+      [
+        4,
+        "2025-11-18T23:34:35.708186"
+      ],
+      [
+        4,
+        "2025-11-19T01:18:43.742988"
+      ]
+    ],
+    "created_utc": 1763390921.0,
+    "num_comments": 11,
+    "subreddit": "LangChain",
+    "url": "https://www.reddit.com/r/LangChain/comments/1ozi7ky/gemini_dont_give_structured_outputs_always/",
+    "selftext": "Yep when I use gemini model in my project with chatGoogleGenerativeAi then it sometimes don't give proper json output even with withstructuredoutput. And streaming mode is off. Why any solution.  Is groq a better option with kimi model or any other models which can give me 100% structured output.",
+    "permalink": "/r/LangChain/comments/1ozi7ky/gemini_dont_give_structured_outputs_always/"
+  },
+  "comments": [
+    {
+      "id": "npbtzfr",
+      "parent_id": "t3_1ozi7ky",
+      "author": "Glass_Ordinary4572",
+      "text_history": [
+        [
+          "Did you use a Pydantic model and with structured output?",
+          "2025-11-18T13:49:47.186370"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-18T13:49:47.186370"
+        ],
+        [
+          2,
+          "2025-11-18T14:00:52.455048"
+        ],
+        [
+          2,
+          "2025-11-18T14:12:12.025075"
+        ],
+        [
+          2,
+          "2025-11-18T21:49:52.704921"
+        ],
+        [
+          2,
+          "2025-11-18T23:34:35.708186"
+        ],
+        [
+          2,
+          "2025-11-19T01:18:43.742988"
+        ]
+      ],
+      "created_utc": 1763392853.0,
+      "depth": 0,
+      "permalink": "/r/LangChain/comments/1ozi7ky/gemini_dont_give_structured_outputs_always/npbtzfr/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npbu5ot",
+          "parent_id": "t1_npbtzfr",
+          "author": "gaureshai",
+          "text_history": [
+            [
+              "I use zod. Withstructuredoutput",
+              "2025-11-18T13:49:47.186370"
+            ]
+          ],
+          "score_history": [
+            [
+              2,
+              "2025-11-18T13:49:47.186370"
+            ],
+            [
+              2,
+              "2025-11-18T14:00:52.455048"
+            ],
+            [
+              2,
+              "2025-11-18T14:12:12.025075"
+            ],
+            [
+              2,
+              "2025-11-18T21:49:52.704921"
+            ],
+            [
+              2,
+              "2025-11-18T23:34:35.708186"
+            ],
+            [
+              2,
+              "2025-11-19T01:18:43.742988"
+            ]
+          ],
+          "created_utc": 1763392906.0,
+          "depth": 1,
+          "permalink": "/r/LangChain/comments/1ozi7ky/gemini_dont_give_structured_outputs_always/npbu5ot/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npbucde",
+              "parent_id": "t1_npbu5ot",
+              "author": "Glass_Ordinary4572",
+              "text_history": [
+                [
+                  "You are not using Python?",
+                  "2025-11-18T13:49:47.186370"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-18T13:49:47.186370"
+                ],
+                [
+                  1,
+                  "2025-11-18T14:00:52.455048"
+                ],
+                [
+                  1,
+                  "2025-11-18T14:12:12.025075"
+                ],
+                [
+                  1,
+                  "2025-11-18T21:49:52.704921"
+                ],
+                [
+                  1,
+                  "2025-11-18T23:34:35.708186"
+                ],
+                [
+                  1,
+                  "2025-11-19T01:18:43.742988"
+                ]
+              ],
+              "created_utc": 1763392963.0,
+              "depth": 2,
+              "permalink": "/r/LangChain/comments/1ozi7ky/gemini_dont_give_structured_outputs_always/npbucde/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": [
+                {
+                  "id": "npbuej9",
+                  "parent_id": "t1_npbucde",
+                  "author": "gaureshai",
+                  "text_history": [
+                    [
+                      "Nope. Next js typescript.",
+                      "2025-11-18T13:49:47.186370"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      1,
+                      "2025-11-18T13:49:47.186370"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T14:00:52.455048"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T14:12:12.025075"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T21:49:52.704921"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T23:34:35.708186"
+                    ],
+                    [
+                      1,
+                      "2025-11-19T01:18:43.742988"
+                    ]
+                  ],
+                  "created_utc": 1763392981.0,
+                  "depth": 3,
+                  "permalink": "/r/LangChain/comments/1ozi7ky/gemini_dont_give_structured_outputs_always/npbuej9/",
+                  "is_submitter": true,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": [
+                    {
+                      "id": "npbulfh",
+                      "parent_id": "t1_npbuej9",
+                      "author": "Glass_Ordinary4572",
+                      "text_history": [
+                        [
+                          "Sorry, won't be able to help. Maybe write the descriptions of the output schema properly.",
+                          "2025-11-18T13:49:47.186370"
+                        ]
+                      ],
+                      "score_history": [
+                        [
+                          1,
+                          "2025-11-18T13:49:47.186370"
+                        ],
+                        [
+                          1,
+                          "2025-11-18T14:00:52.455048"
+                        ],
+                        [
+                          1,
+                          "2025-11-18T14:12:12.025075"
+                        ],
+                        [
+                          1,
+                          "2025-11-18T21:49:52.704921"
+                        ],
+                        [
+                          1,
+                          "2025-11-18T23:34:35.708186"
+                        ],
+                        [
+                          1,
+                          "2025-11-19T01:18:43.742988"
+                        ]
+                      ],
+                      "created_utc": 1763393040.0,
+                      "depth": 4,
+                      "permalink": "/r/LangChain/comments/1ozi7ky/gemini_dont_give_structured_outputs_always/npbulfh/",
+                      "is_submitter": false,
+                      "controversiality": 0,
+                      "gilded": 0,
+                      "edited": false,
+                      "deleted": false,
+                      "deleted_at": null,
+                      "replies": [
+                        {
+                          "id": "npbwi2e",
+                          "parent_id": "t1_npbulfh",
+                          "author": "gaureshai",
+                          "text_history": [
+                            [
+                              "Well it gives sometime and sometime doens't like 6:4 . Search about it and it seems others also had same problem with gemini maybe it's problem of the Google gemini not my code structure.  I will try groq and see how to goes.",
+                              "2025-11-18T13:49:47.186370"
+                            ]
+                          ],
+                          "score_history": [
+                            [
+                              2,
+                              "2025-11-18T13:49:47.186370"
+                            ],
+                            [
+                              2,
+                              "2025-11-18T14:00:52.455048"
+                            ],
+                            [
+                              2,
+                              "2025-11-18T14:12:12.025075"
+                            ],
+                            [
+                              2,
+                              "2025-11-18T21:49:52.704921"
+                            ],
+                            [
+                              2,
+                              "2025-11-18T23:34:35.708186"
+                            ],
+                            [
+                              2,
+                              "2025-11-19T01:18:43.742988"
+                            ]
+                          ],
+                          "created_utc": 1763393620.0,
+                          "depth": 5,
+                          "permalink": "/r/LangChain/comments/1ozi7ky/gemini_dont_give_structured_outputs_always/npbwi2e/",
+                          "is_submitter": true,
+                          "controversiality": 0,
+                          "gilded": 0,
+                          "edited": false,
+                          "deleted": false,
+                          "deleted_at": null,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "npbw41p",
+      "parent_id": "t3_1ozi7ky",
+      "author": "mdrxy",
+      "text_history": [
+        [
+          "Do you have a code snippet to share?",
+          "2025-11-18T13:49:47.186370"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T13:49:47.186370"
+        ],
+        [
+          1,
+          "2025-11-18T14:00:52.455048"
+        ],
+        [
+          1,
+          "2025-11-18T14:12:12.025075"
+        ],
+        [
+          1,
+          "2025-11-18T21:49:52.704921"
+        ],
+        [
+          1,
+          "2025-11-18T23:34:35.708186"
+        ],
+        [
+          1,
+          "2025-11-19T01:18:43.742988"
+        ]
+      ],
+      "created_utc": 1763393502.0,
+      "depth": 0,
+      "permalink": "/r/LangChain/comments/1ozi7ky/gemini_dont_give_structured_outputs_always/npbw41p/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npdncxd",
+      "parent_id": "t3_1ozi7ky",
+      "author": "BandiDragon",
+      "text_history": [
+        [
+          "OpenAI gpt-4.1 gives 100% adherence, even on regex patterns, string lengths, etc",
+          "2025-11-18T13:49:47.186370"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T13:49:47.186370"
+        ],
+        [
+          1,
+          "2025-11-18T14:00:52.455048"
+        ],
+        [
+          1,
+          "2025-11-18T14:12:12.025075"
+        ],
+        [
+          1,
+          "2025-11-18T21:49:52.704921"
+        ],
+        [
+          1,
+          "2025-11-18T23:34:35.708186"
+        ],
+        [
+          1,
+          "2025-11-19T01:18:43.742988"
+        ]
+      ],
+      "created_utc": 1763412212.0,
+      "depth": 0,
+      "permalink": "/r/LangChain/comments/1ozi7ky/gemini_dont_give_structured_outputs_always/npdncxd/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npfbj3m",
+          "parent_id": "t1_npdncxd",
+          "author": "gaureshai",
+          "text_history": [
+            [
+              "I'm having trouble to buying open ai credits 😞",
+              "2025-11-18T13:49:47.186370"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T13:49:47.186370"
+            ],
+            [
+              1,
+              "2025-11-18T14:00:52.455048"
+            ],
+            [
+              1,
+              "2025-11-18T14:12:12.025075"
+            ],
+            [
+              1,
+              "2025-11-18T21:49:52.704921"
+            ],
+            [
+              1,
+              "2025-11-18T23:34:35.708186"
+            ],
+            [
+              1,
+              "2025-11-19T01:18:43.742988"
+            ]
+          ],
+          "created_utc": 1763432365.0,
+          "depth": 1,
+          "permalink": "/r/LangChain/comments/1ozi7ky/gemini_dont_give_structured_outputs_always/npfbj3m/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npfwyid",
+              "parent_id": "t1_npfbj3m",
+              "author": "yangastas_paradise",
+              "text_history": [
+                [
+                  "Try openRouter to unify model access, you can switch models anytime via env variables without changing code.",
+                  "2025-11-18T13:49:47.186370"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-18T13:49:47.186370"
+                ],
+                [
+                  1,
+                  "2025-11-18T14:00:52.455048"
+                ],
+                [
+                  1,
+                  "2025-11-18T14:12:12.025075"
+                ],
+                [
+                  1,
+                  "2025-11-18T21:49:52.704921"
+                ],
+                [
+                  1,
+                  "2025-11-18T23:34:35.708186"
+                ],
+                [
+                  1,
+                  "2025-11-19T01:18:43.742988"
+                ]
+              ],
+              "created_utc": 1763440532.0,
+              "depth": 2,
+              "permalink": "/r/LangChain/comments/1ozi7ky/gemini_dont_give_structured_outputs_always/npfwyid/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": [
+                {
+                  "id": "npg18lx",
+                  "parent_id": "t1_npfwyid",
+                  "author": "gaureshai",
+                  "text_history": [
+                    [
+                      "Yep. Thats what i am doing now. But the some baseUrl syntax error im getting from langchain so debugging that. Since code provided by openrouter for langchain is not working",
+                      "2025-11-18T13:49:47.186370"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      1,
+                      "2025-11-18T13:49:47.186370"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T14:00:52.455048"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T14:12:12.025075"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T21:49:52.704921"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T23:34:35.708186"
+                    ],
+                    [
+                      1,
+                      "2025-11-19T01:18:43.742988"
+                    ]
+                  ],
+                  "created_utc": 1763442481.0,
+                  "depth": 3,
+                  "permalink": "/r/LangChain/comments/1ozi7ky/gemini_dont_give_structured_outputs_always/npg18lx/",
+                  "is_submitter": true,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T01:18:43.742988",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/LangChain/comments/1ozi7ky/gemini_dont_give_structured_outputs_always/",
+    "total_comments": 11,
+    "top_level_comments": 3,
+    "api_requests": 1,
+    "expected_comments": 11,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 6,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_134946.json",
+      "scrape_002_20251118_140052.json",
+      "scrape_003_20251118_141211.json",
+      "scrape_004_20251118_214952.json",
+      "scrape_005_20251118_233435.json",
+      "scrape_006_20251119_011843.json"
+    ]
+  }
+}

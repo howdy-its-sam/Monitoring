@@ -1,0 +1,129 @@
+{
+  "post": {
+    "id": "1p19mlz",
+    "title": "is there a clean way to stop llms from “over-interpreting” simple instructions?",
+    "author": "ameskwm",
+    "score_history": [
+      [
+        1,
+        "2025-11-19T06:50:33.453139"
+      ],
+      [
+        1,
+        "2025-11-19T06:50:33.663979"
+      ],
+      [
+        1,
+        "2025-11-19T06:50:33.891278"
+      ],
+      [
+        1,
+        "2025-11-19T06:50:34.098031"
+      ],
+      [
+        1,
+        "2025-11-19T06:50:34.336332"
+      ],
+      [
+        1,
+        "2025-11-19T06:50:34.541324"
+      ],
+      [
+        1,
+        "2025-11-19T06:50:34.758657"
+      ],
+      [
+        1,
+        "2025-11-19T06:50:34.969501"
+      ],
+      [
+        1,
+        "2025-11-19T06:50:35.199130"
+      ],
+      [
+        1,
+        "2025-11-19T06:50:35.408878"
+      ],
+      [
+        1,
+        "2025-11-19T06:50:35.659098"
+      ],
+      [
+        1,
+        "2025-11-19T06:50:35.856176"
+      ],
+      [
+        1,
+        "2025-11-19T06:50:36.100415"
+      ],
+      [
+        1,
+        "2025-11-19T06:50:36.307563"
+      ],
+      [
+        1,
+        "2025-11-19T06:50:36.544420"
+      ],
+      [
+        1,
+        "2025-11-19T06:50:36.751968"
+      ],
+      [
+        1,
+        "2025-11-19T06:50:37.001372"
+      ],
+      [
+        1,
+        "2025-11-19T06:50:37.216280"
+      ],
+      [
+        1,
+        "2025-11-19T06:50:37.441761"
+      ],
+      [
+        1,
+        "2025-11-19T06:50:37.650322"
+      ]
+    ],
+    "created_utc": 1763563729.0,
+    "num_comments": 0,
+    "subreddit": "PromptEngineering",
+    "url": "https://www.reddit.com/r/PromptEngineering/comments/1p19mlz/is_there_a_clean_way_to_stop_llms_from/",
+    "selftext": "i keep getting this thing where i ask the model to like just rewrite or just format something, and it suddenly adds extra logic, explanations, or “helpful fixes” i never asked for. even with strict lines like “no extra commentary,” it still drifts after a few turns. i’ve been using a small sanity layer from god of prompt that forces the model to confirm assumptions before doing anything, but curious if u guys have other micro-patterns for this. like do u use constraint blocks, execution modes, or any tiny modules that actually keep the model literal?",
+    "permalink": "/r/PromptEngineering/comments/1p19mlz/is_there_a_clean_way_to_stop_llms_from/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T06:50:37.650322",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/PromptEngineering/comments/1p19mlz/is_there_a_clean_way_to_stop_llms_from/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 20,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_065033.json",
+      "scrape_002_20251119_065033.json",
+      "scrape_003_20251119_065033.json",
+      "scrape_004_20251119_065033.json",
+      "scrape_005_20251119_065034.json",
+      "scrape_006_20251119_065034.json",
+      "scrape_007_20251119_065034.json",
+      "scrape_008_20251119_065034.json",
+      "scrape_009_20251119_065035.json",
+      "scrape_010_20251119_065035.json",
+      "scrape_011_20251119_065035.json",
+      "scrape_012_20251119_065035.json",
+      "scrape_013_20251119_065035.json",
+      "scrape_014_20251119_065036.json",
+      "scrape_015_20251119_065036.json",
+      "scrape_016_20251119_065036.json",
+      "scrape_017_20251119_065036.json",
+      "scrape_018_20251119_065037.json",
+      "scrape_019_20251119_065037.json",
+      "scrape_020_20251119_065037.json"
+    ]
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "post": {
+    "id": "1p02571",
+    "title": "Anyone got a good and easy method to bypass Copyleaks?",
+    "author": "Relative-Pace-2923",
+    "score_history": [
+      [
+        2,
+        "2025-11-19T03:28:46.069463"
+      ],
+      [
+        2,
+        "2025-11-19T03:36:26.120411"
+      ],
+      [
+        2,
+        "2025-11-19T03:37:53.422841"
+      ]
+    ],
+    "created_utc": 1763438750.0,
+    "num_comments": 5,
+    "subreddit": "ChatGPTPro",
+    "url": "https://www.reddit.com/r/ChatGPTPro/comments/1p02571/anyone_got_a_good_and_easy_method_to_bypass/",
+    "selftext": "Copyleaks ai detector seems to be very trigger happy. It seems to work, in part or whole, based on \"phrases\" which is strange. But does anyone know a good method to fool it?\n\n  \nIs asking it to write in a real human texts' voice enough? Is quillbot paraphraser enough? Any prompts that work for you guys? ",
+    "permalink": "/r/ChatGPTPro/comments/1p02571/anyone_got_a_good_and_easy_method_to_bypass/"
+  },
+  "comments": [
+    {
+      "id": "npfssur",
+      "parent_id": "t3_1p02571",
+      "author": "qualityvote2",
+      "text_history": [
+        [
+          "Hello u/Relative-Pace-2923 👋 Welcome to r/ChatGPTPro!  \nThis is a community for advanced ChatGPT, AI tools, and prompt engineering discussions.  \nOther members will now vote on whether your post fits our community guidelines.\n\n\n---\n\nFor other users, does this post fit the subreddit?\n\nIf so, **upvote this comment!**\n\nOtherwise, **downvote this comment!**\n\nAnd if it does break the rules, **downvote this comment and report this post!**",
+          "2025-11-19T03:28:46.069463"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T03:28:46.069463"
+        ],
+        [
+          1,
+          "2025-11-19T03:36:26.120411"
+        ],
+        [
+          1,
+          "2025-11-19T03:37:53.422841"
+        ]
+      ],
+      "created_utc": 1763438751.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTPro/comments/1p02571/anyone_got_a_good_and_easy_method_to_bypass/npfssur/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npggexi",
+      "parent_id": "t3_1p02571",
+      "author": "Oopsiforgotmyoldacc",
+      "text_history": [
+        [
+          "A lot of detectors become trigger happy in order to convince you to buy their paid humanizers 🙄 it’s genuinely so annoying.\n\nI recommend [this list of prompts](https://www.reddit.com/r/DataRecoveryHelp/s/13OLypNxdu) if you’re looking for any, but I’d say not to rely on any ai detector entirely.",
+          "2025-11-19T03:28:46.069463"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-19T03:28:46.069463"
+        ],
+        [
+          2,
+          "2025-11-19T03:36:26.120411"
+        ],
+        [
+          2,
+          "2025-11-19T03:37:53.422841"
+        ]
+      ],
+      "created_utc": 1763450524.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTPro/comments/1p02571/anyone_got_a_good_and_easy_method_to_bypass/npggexi/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npgfb8y",
+      "parent_id": "t3_1p02571",
+      "author": "ParticularShare1054",
+      "text_history": [
+        [
+          "Copyleaks is definitely a pain for catching even small ai-like phrasing. I’ve tried asking the ai to write in a more casual voice, but honestly it’s hit-or-miss and the detector still flags stuff that sounds pretty normal to me. Paraphrasers like Quillbot work sometimes, but then again I’ve seen Copyleaks pick up those rewrites too. \n\nWhat helped me a bit was breaking up the structure a ton and adding in little off-beat details that aren’t too obvious, almost like creating my own typos or weird transitions. Also, using a mix of tools can help test the limits - like running text through writehuman, AIDetectPlus, and even aihumanizer back-to-back to see which sections trip detectors the most. Usually I have to do a few manual tweaks at the end no matter what, since nothing is 100%. \n\nDo you get flagged mostly on essays or just any content? Copyleaks really loves flagging long paragraphs, so switching up the length sometimes helps. Curious if you’ve found an actual prompt that beats it yet?",
+          "2025-11-19T03:28:46.069463"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T03:28:46.069463"
+        ],
+        [
+          1,
+          "2025-11-19T03:36:26.120411"
+        ],
+        [
+          1,
+          "2025-11-19T03:37:53.422841"
+        ]
+      ],
+      "created_utc": 1763449874.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTPro/comments/1p02571/anyone_got_a_good_and_easy_method_to_bypass/npgfb8y/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:37:53.422841",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/ChatGPTPro/comments/1p02571/anyone_got_a_good_and_easy_method_to_bypass/",
+    "total_comments": 3,
+    "top_level_comments": 3,
+    "api_requests": 1,
+    "expected_comments": 5,
+    "coverage_percent": 60.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_032845.json",
+      "scrape_002_20251119_033625.json",
+      "scrape_003_20251119_033753.json"
+    ]
+  }
+}

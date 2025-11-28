@@ -1,0 +1,44 @@
+{
+  "post": {
+    "id": "1p0gz2x",
+    "title": "Building an enterprise platform for building internal apps",
+    "author": "Traditional-Let-856",
+    "score_history": [
+      [
+        1,
+        "2025-11-18T14:53:33.707734"
+      ],
+      [
+        1,
+        "2025-11-18T14:56:24.369818"
+      ],
+      [
+        1,
+        "2025-11-18T15:04:21.253122"
+      ]
+    ],
+    "created_utc": 1763484441.0,
+    "num_comments": 0,
+    "subreddit": "LangChain",
+    "url": "https://www.reddit.com/r/LangChain/comments/1p0gz2x/building_an_enterprise_platform_for_building/",
+    "selftext": "We have been building flo-ai for a while now. You can check our repo and possibly give us a star @ [https://github.com/rootflo/flo-ai](https://github.com/rootflo/flo-ai)\n\n  \nWe have serviced many clients using the library and its functionalities. Now we are planning to further enhance the framework and build an open source platform around it. At its core, we are building a middleware that can help connect flo-ai to different backend and service. \n\nWe plan to then build agents over this middleware and expose them as APIs, which then will be used to build internal applications for enterprise. We are gonna publish a proposal README soon.   \n  \nBut any suggestions from this community can really help us plan the platfrom better. Thanks!",
+    "permalink": "/r/LangChain/comments/1p0gz2x/building_an_enterprise_platform_for_building/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-18T15:04:21.253122",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/LangChain/comments/1p0gz2x/building_an_enterprise_platform_for_building/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_145333.json",
+      "scrape_002_20251118_145624.json",
+      "scrape_003_20251118_150421.json"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "post": {
+    "id": "1os4u0e",
+    "title": "How do you hook readers in the first 5 seconds?",
+    "author": "suekearneymaven",
+    "score_history": [
+      [
+        2,
+        "2025-11-19T03:19:48.252719"
+      ],
+      [
+        2,
+        "2025-11-19T03:25:41.136901"
+      ],
+      [
+        2,
+        "2025-11-19T03:28:42.088034"
+      ]
+    ],
+    "created_utc": 1762647272.0,
+    "num_comments": 0,
+    "subreddit": "ContentMarketing",
+    "url": "https://www.reddit.com/r/ContentMarketing/comments/1os4u0e/how_do_you_hook_readers_in_the_first_5_seconds/",
+    "selftext": "Five seconds. That’s about how long you’ve got before a visitor decides whether to keep reading or bounce.\n\nFor coaches and creatives doing their own marketing, that window matters most. Make your offer visible before the fold—don’t count on a scroll.\n\nShare your go-to way of earning attention fast—headline, visual, story hook? Let’s trade ideas.",
+    "permalink": "/r/ContentMarketing/comments/1os4u0e/how_do_you_hook_readers_in_the_first_5_seconds/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:28:42.088034",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/ContentMarketing/comments/1os4u0e/how_do_you_hook_readers_in_the_first_5_seconds/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_031948.json",
+      "scrape_002_20251119_032540.json",
+      "scrape_003_20251119_032841.json"
+    ]
+  }
+}

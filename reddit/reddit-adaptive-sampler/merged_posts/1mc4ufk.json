@@ -1,0 +1,116 @@
+{
+  "post": {
+    "id": "1mc4ufk",
+    "title": "AI tools to help with retrospective chart reviews in surgical research",
+    "author": "Margherita_Aca",
+    "score_history": [
+      [
+        1,
+        "2025-11-18T14:22:21.912865"
+      ],
+      [
+        1,
+        "2025-11-18T14:32:45.690129"
+      ],
+      [
+        1,
+        "2025-11-18T14:42:48.176621"
+      ]
+    ],
+    "created_utc": 1753773256.0,
+    "num_comments": 3,
+    "subreddit": "AutoGPT",
+    "url": "https://www.reddit.com/r/AutoGPT/comments/1mc4ufk/ai_tools_to_help_with_retrospective_chart_reviews/",
+    "selftext": "Hi Everyone! I’m involved in academic research in the field of surgery, and a big part of our work involves retrospective studies. Mainly chart reviews. Right now, we manually go through hundreds (sometimes thousands) of electronic medical records to extract specific data. But it’s not simple data like lab values or vitals that can be pulled automatically. We're looking for things like signs, symptoms, and postoperative complications, which are usually buried in free-text clinical notes from follow-up visits. Clinical notes must be read and interpreted one by one.\n\nSince the notes aren’t standardized, we have to interpret them manually and document findings like infections, bleeding, or other complications in Excel. As you can imagine, with large patient cohorts and multiple visits per patient, this process can take months. Our team isn’t very tech-savvy. We don’t have coding experience or software development resources. But with the advancements in AI and AI agents lately, we feel like it’s time to start using these tools to make our lives easier and our work faster.\n\nSo, I’m wondering:  \nWhat’s the best AI tool or AI agent we can use for automating data? Ideally, something no-code or low-code, or a readily available AI platform that can help us analyze unstructured clinical notes.\n\nWe use Epic EMR at our clinic, so if there’s a way to integrate directly with Epic, that would be great. That said, we can also export patient data or notes from Epic and feed them into another tool (like Excel or CSV), so direct integration isn’t a must.\n\nThe key is: we need something that’s available *now*, not something still in development. Has anyone here worked on anything similar or have experience with data automation in research?\n\nOur team is desperate to escape the Excel grind so we can focus on the research itself instead of data entry. Thanks in advance for any tips!",
+    "permalink": "/r/AutoGPT/comments/1mc4ufk/ai_tools_to_help_with_retrospective_chart_reviews/"
+  },
+  "comments": [
+    {
+      "id": "n5tat3i",
+      "parent_id": "t3_1mc4ufk",
+      "author": "colmeneroio",
+      "text_history": [
+        [
+          "You're dealing with exactly the kind of problem that modern NLP tools can solve, but there are serious compliance and privacy issues you need to address first before touching any AI solution.\n\nWorking at an AI consulting firm, I've helped medical research teams with similar challenges. The biggest hurdle isn't technical - it's HIPAA compliance and IRB approval for using AI on patient data. Most cloud-based AI tools can't handle PHI without specific BAAs and security certifications.\n\nFor Epic integration, you're probably out of luck for direct AI tools. Epic's marketplace has limited AI apps and they're mostly for clinical decision support, not research extraction. You'll likely need to export data and process it separately.\n\nAWS Comprehend Medical and Google Healthcare AI are the main enterprise options that can handle clinical notes while maintaining HIPAA compliance. Both can extract medical entities, relationships, and sentiment from unstructured text. But they require technical setup that might exceed your team's capabilities.\n\nA more realistic approach is working with your institution's informatics team. Most academic medical centers have data science groups that can help with clinical NLP projects using tools like cTAKES or medSpaCy. These are specifically designed for clinical text and already deployed in research environments.\n\nFor immediate solutions, consider hiring a consultant who specializes in clinical data extraction rather than trying to DIY this. The compliance requirements alone make this risky to implement without proper expertise.\n\nThe Excel grind sucks but rushing into AI tools without proper safeguards could torpedo your research if you violate privacy regulations.",
+          "2025-11-18T14:22:21.912865"
+        ]
+      ],
+      "score_history": [
+        [
+          3,
+          "2025-11-18T14:22:21.912865"
+        ],
+        [
+          3,
+          "2025-11-18T14:32:45.690129"
+        ],
+        [
+          3,
+          "2025-11-18T14:42:48.176621"
+        ]
+      ],
+      "created_utc": 1753804722.0,
+      "depth": 0,
+      "permalink": "/r/AutoGPT/comments/1mc4ufk/ai_tools_to_help_with_retrospective_chart_reviews/n5tat3i/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "n5w46me",
+          "parent_id": "t1_n5tat3i",
+          "author": "Margherita_Aca",
+          "text_history": [
+            [
+              "Thank you for the comments! All our projects get the appropriate REB approvals and if we are to implement any AI tool in our data extraction process we'll get a separate REB for it as well. At the moment we are wondering what the best tools are for our projects. Could you please elaborate on cTAKES or medSpaCy?",
+              "2025-11-18T14:22:21.912865"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T14:22:21.912865"
+            ],
+            [
+              1,
+              "2025-11-18T14:32:45.690129"
+            ],
+            [
+              1,
+              "2025-11-18T14:42:48.176621"
+            ]
+          ],
+          "created_utc": 1753834233.0,
+          "depth": 1,
+          "permalink": "/r/AutoGPT/comments/1mc4ufk/ai_tools_to_help_with_retrospective_chart_reviews/n5w46me/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-18T14:42:48.176621",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/AutoGPT/comments/1mc4ufk/ai_tools_to_help_with_retrospective_chart_reviews/",
+    "total_comments": 2,
+    "top_level_comments": 1,
+    "api_requests": 1,
+    "expected_comments": 3,
+    "coverage_percent": 66.67,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_142221.json",
+      "scrape_002_20251118_143245.json",
+      "scrape_003_20251118_144247.json"
+    ]
+  }
+}

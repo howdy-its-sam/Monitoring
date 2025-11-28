@@ -1,0 +1,80 @@
+{
+  "post": {
+    "id": "1oumvko",
+    "title": "Maya1: A New Open Source 3B Voice Model For Expressive Text To Speech On A Single GPU",
+    "author": "ai-lover",
+    "score_history": [
+      [
+        14,
+        "2025-11-18T14:23:21.611990"
+      ],
+      [
+        13,
+        "2025-11-18T14:33:10.151746"
+      ],
+      [
+        15,
+        "2025-11-18T14:43:07.390257"
+      ]
+    ],
+    "created_utc": 1762898266.0,
+    "num_comments": 1,
+    "subreddit": "machinelearningnews",
+    "url": "https://www.marktechpost.com/2025/11/11/maya1-a-new-open-source-3b-voice-model-for-expressive-text-to-speech-on-a-single-gpu/",
+    "selftext": "",
+    "permalink": "/r/machinelearningnews/comments/1oumvko/maya1_a_new_open_source_3b_voice_model_for/"
+  },
+  "comments": [
+    {
+      "id": "noepuob",
+      "parent_id": "t3_1oumvko",
+      "author": "exaknight21",
+      "text_history": [
+        [
+          "I must try this tomorrow. Eyes and brain fried right now.",
+          "2025-11-18T14:23:21.611990"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:23:21.611990"
+        ],
+        [
+          1,
+          "2025-11-18T14:33:10.151746"
+        ],
+        [
+          1,
+          "2025-11-18T14:43:07.390257"
+        ]
+      ],
+      "created_utc": 1762923967.0,
+      "depth": 0,
+      "permalink": "/r/machinelearningnews/comments/1oumvko/maya1_a_new_open_source_3b_voice_model_for/noepuob/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-18T14:43:07.390257",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/machinelearningnews/comments/1oumvko/maya1_a_new_open_source_3b_voice_model_for/",
+    "total_comments": 1,
+    "top_level_comments": 1,
+    "api_requests": 1,
+    "expected_comments": 1,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_142321.json",
+      "scrape_002_20251118_143309.json",
+      "scrape_003_20251118_144307.json"
+    ]
+  }
+}

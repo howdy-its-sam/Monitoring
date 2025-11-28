@@ -1,0 +1,44 @@
+{
+  "post": {
+    "id": "1oykbk2",
+    "title": "Deploying Spiking Neural Networks on Low-Cost Edge Hardware: A Real-World Pipeline",
+    "author": "Feisty_Product4813",
+    "score_history": [
+      [
+        1,
+        "2025-11-18T14:22:40.880344"
+      ],
+      [
+        1,
+        "2025-11-18T14:32:49.086137"
+      ],
+      [
+        1,
+        "2025-11-18T14:43:19.927827"
+      ]
+    ],
+    "created_utc": 1763295509.0,
+    "num_comments": 0,
+    "subreddit": "MLQuestions",
+    "url": "/r/learnmachinelearning/comments/1oxprci/deploying_spiking_neural_networks_on_lowcost_edge/",
+    "selftext": "",
+    "permalink": "/r/MLQuestions/comments/1oykbk2/deploying_spiking_neural_networks_on_lowcost_edge/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-18T14:43:19.927827",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/MLQuestions/comments/1oykbk2/deploying_spiking_neural_networks_on_lowcost_edge/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_142240.json",
+      "scrape_002_20251118_143248.json",
+      "scrape_003_20251118_144319.json"
+    ]
+  }
+}

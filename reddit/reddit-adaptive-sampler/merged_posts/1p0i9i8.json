@@ -1,0 +1,1326 @@
+{
+  "post": {
+    "id": "1p0i9i8",
+    "title": "How Gemini 3 Pro beat other models on UI coding",
+    "author": "mikerbrt",
+    "score_history": [
+      [
+        51,
+        "2025-11-18T14:56:25.175765"
+      ],
+      [
+        50,
+        "2025-11-18T15:04:35.006393"
+      ],
+      [
+        51,
+        "2025-11-18T15:05:50.136737"
+      ],
+      [
+        91,
+        "2025-11-18T22:42:42.236617"
+      ],
+      [
+        105,
+        "2025-11-19T00:36:48.226924"
+      ],
+      [
+        108,
+        "2025-11-19T02:11:55.004806"
+      ],
+      [
+        111,
+        "2025-11-19T02:33:37.962960"
+      ]
+    ],
+    "created_utc": 1763487276.0,
+    "num_comments": 28,
+    "subreddit": "OpenAI",
+    "url": "https://www.reddit.com/gallery/1p0i9i8",
+    "selftext": "Today I ran a fun experiment with three top models on a very real marketer problem\n\n**Interactive campaign reporting**\n\nI asked **Gemini 3 Pro, GPT 5.1 Codex and Claude Sonnet 4.5** to design a full campaign analytics dashboard from the same brief  \nSame metrics, same controls, same story\n\nHere is what came back\n\n**Gemini 3 Pro created a clean white SaaS style dashboard** with a strong focus on performance trends and a detailed table of campaigns  \nIt feels like something a media buyer could keep open on a second monitor all day\n\n**GPT 5.1 Codex went deeper into storytelling**  \nRich channel filters and objectives at the top, then three charts for trends, ROAS versus CPA and objective mix, plus a breakdown table  \nIt looks like a narrative board you would walk through in a QBR\n\n**Claude Sonnet 4.5 produced a darker compact view with very clear KPI tiles for spend, revenue, ROAS, conversions and CPA**  \nGreat for a fast health check across platforms\n\nSame prompt family, very different product aesthetics\n\n**From my point of view Gemini 3 Pro wins on visual design** and clarity  \nIf I had to ship one of these as a real product screen tomorrow, I would start from the Gemini layout and then borrow the best ideas from the other two\n\nCurious which one you would choose for your own campaign reporting  \nGemini style  \nCodex style  \nor Sonnet style",
+    "permalink": "/r/OpenAI/comments/1p0i9i8/how_gemini_3_pro_beat_other_models_on_ui_coding/"
+  },
+  "comments": [
+    {
+      "id": "npk8n6p",
+      "parent_id": "t3_1p0i9i8",
+      "author": "StayTuned2k",
+      "text_history": [
+        [
+          "And now do a mock-up first and feed it through figma MCP and you'll be scared shitless how well it does UI prototyping. We're using sonnet or ONA depending on the need. Our project is explained in markdown files so that the AI gets some cheap context on our project.\n\nwe've entirely discontinued programming UI prototypes. we do UX and let AI complete the UI. frontend then takes over for finishing touches and more complex animations/CSS. then backend finishes the work.\n\nscary times but loads of potential for fast iteration",
+          "2025-11-18T14:56:25.175765"
+        ]
+      ],
+      "score_history": [
+        [
+          3,
+          "2025-11-18T14:56:25.175765"
+        ],
+        [
+          3,
+          "2025-11-18T15:04:35.006393"
+        ],
+        [
+          3,
+          "2025-11-18T15:05:50.136737"
+        ],
+        [
+          15,
+          "2025-11-18T22:42:42.236617"
+        ],
+        [
+          17,
+          "2025-11-19T00:36:48.226924"
+        ],
+        [
+          22,
+          "2025-11-19T02:11:55.004806"
+        ],
+        [
+          22,
+          "2025-11-19T02:33:37.962960"
+        ]
+      ],
+      "created_utc": 1763500903.0,
+      "depth": 0,
+      "permalink": "/r/OpenAI/comments/1p0i9i8/how_gemini_3_pro_beat_other_models_on_ui_coding/npk8n6p/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npme7tm",
+          "parent_id": "t1_npk8n6p",
+          "author": "DrEndGame",
+          "text_history": [
+            [
+              "&gt;Our project is explained in markdown files so that the AI gets some cheap context on our project.\n\nCan you explain this more? Like are you just writing up a 3 page description of your project in markdown or something else?",
+              "2025-11-18T22:42:42.236617"
+            ]
+          ],
+          "score_history": [
+            [
+              2,
+              "2025-11-18T22:42:42.236617"
+            ],
+            [
+              2,
+              "2025-11-19T00:36:48.226924"
+            ],
+            [
+              2,
+              "2025-11-19T02:11:55.004806"
+            ],
+            [
+              2,
+              "2025-11-19T02:33:37.962960"
+            ]
+          ],
+          "created_utc": 1763528765.0,
+          "depth": 1,
+          "permalink": "/r/OpenAI/comments/1p0i9i8/how_gemini_3_pro_beat_other_models_on_ui_coding/npme7tm/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npmthqe",
+              "parent_id": "t1_npme7tm",
+              "author": "StayTuned2k",
+              "text_history": [
+                [
+                  "basically, yes. but it's not just one .md it's many. there's one explaining the whole project on top repo level, this one goes over our frameworks, which libs we use, but also the general use case of our software. then further down the repo each major component gets explained in more detail. we have one for our API as well.  the best part is that we don't have to write them ourselves after the initial one was written. we just tell sonnet/ona to update the existing .md with whatever changes it has made and with a reasoning for those changes.\n\nthere's two important workflows here at play. first, the .md is basically unreadable by humans at this points. that's because we tell the AI to write it for other AIs. this helps save tokens and makes things faster. secondly, you don't just instruct the AI to \"crate a prototype\", you guide it via a chain of commands. you first let it analyse the figma file and return pseudo code. if you're happy, get it to return a series of \"tasks\" it thinks it must perform. basically you force it to make itself a small project plan. when you're happy with how it would approach the development within your repo/files, you tell it to perform and document its reasoning within relevant .md files.\n\nusing ONA we can have a single VM running a local branch per prototype attempt. we then compare the best results and push whichever we like the most to staging\n\nI hope this helps. lemme know if you need more details. btw, I'm the product owner, not a developer. so I'm not too privy on minute technical details. all of the prompting is done by the senior dev team in order to ascertain code quality though.",
+                  "2025-11-19T00:36:48.226924"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-19T00:36:48.226924"
+                ],
+                [
+                  3,
+                  "2025-11-19T02:11:55.004806"
+                ],
+                [
+                  5,
+                  "2025-11-19T02:33:37.962960"
+                ]
+              ],
+              "created_utc": 1763536803.0,
+              "depth": 2,
+              "permalink": "/r/OpenAI/comments/1p0i9i8/how_gemini_3_pro_beat_other_models_on_ui_coding/npmthqe/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": 1763537115.0,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "npjqc4p",
+      "parent_id": "t3_1p0i9i8",
+      "author": "bronfmanhigh",
+      "text_history": [
+        [
+          "or you could just think about your ideal UX for 5 mins first and prompt an opinionated decision about it",
+          "2025-11-18T14:56:25.175765"
+        ]
+      ],
+      "score_history": [
+        [
+          7,
+          "2025-11-18T14:56:25.175765"
+        ],
+        [
+          7,
+          "2025-11-18T15:04:35.006393"
+        ],
+        [
+          6,
+          "2025-11-18T15:05:50.136737"
+        ],
+        [
+          24,
+          "2025-11-18T22:42:42.236617"
+        ],
+        [
+          27,
+          "2025-11-19T00:36:48.226924"
+        ],
+        [
+          29,
+          "2025-11-19T02:11:55.004806"
+        ],
+        [
+          28,
+          "2025-11-19T02:33:37.962960"
+        ]
+      ],
+      "created_utc": 1763495398.0,
+      "depth": 0,
+      "permalink": "/r/OpenAI/comments/1p0i9i8/how_gemini_3_pro_beat_other_models_on_ui_coding/npjqc4p/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npizgdc",
+      "parent_id": "t3_1p0i9i8",
+      "author": "DesperateUse261",
+      "text_history": [
+        [
+          "I just ran 8 targeted tests in Gemini 3.0 and the results were staggering! \n40/40",
+          "2025-11-18T14:56:25.175765"
+        ]
+      ],
+      "score_history": [
+        [
+          25,
+          "2025-11-18T14:56:25.175765"
+        ],
+        [
+          24,
+          "2025-11-18T15:04:35.006393"
+        ],
+        [
+          24,
+          "2025-11-18T15:05:50.136737"
+        ],
+        [
+          30,
+          "2025-11-18T22:42:42.236617"
+        ],
+        [
+          31,
+          "2025-11-19T00:36:48.226924"
+        ],
+        [
+          30,
+          "2025-11-19T02:11:55.004806"
+        ],
+        [
+          31,
+          "2025-11-19T02:33:37.962960"
+        ]
+      ],
+      "created_utc": 1763487549.0,
+      "depth": 0,
+      "permalink": "/r/OpenAI/comments/1p0i9i8/how_gemini_3_pro_beat_other_models_on_ui_coding/npizgdc/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npjdcqj",
+          "parent_id": "t1_npizgdc",
+          "author": "analyticsboi",
+          "text_history": [
+            [
+              "Wtf is AGI coming soon?",
+              "2025-11-18T14:56:25.175765"
+            ]
+          ],
+          "score_history": [
+            [
+              5,
+              "2025-11-18T14:56:25.175765"
+            ],
+            [
+              7,
+              "2025-11-18T15:04:35.006393"
+            ],
+            [
+              7,
+              "2025-11-18T15:05:50.136737"
+            ],
+            [
+              8,
+              "2025-11-18T22:42:42.236617"
+            ],
+            [
+              8,
+              "2025-11-19T00:36:48.226924"
+            ],
+            [
+              8,
+              "2025-11-19T02:11:55.004806"
+            ],
+            [
+              7,
+              "2025-11-19T02:33:37.962960"
+            ]
+          ],
+          "created_utc": 1763491545.0,
+          "depth": 1,
+          "permalink": "/r/OpenAI/comments/1p0i9i8/how_gemini_3_pro_beat_other_models_on_ui_coding/npjdcqj/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npjolf1",
+              "parent_id": "t1_npjdcqj",
+              "author": "[deleted]",
+              "text_history": [
+                [
+                  "[removed]",
+                  "2025-11-18T14:56:25.175765"
+                ]
+              ],
+              "score_history": [
+                [
+                  -7,
+                  "2025-11-18T14:56:25.175765"
+                ],
+                [
+                  -7,
+                  "2025-11-18T15:04:35.006393"
+                ],
+                [
+                  -8,
+                  "2025-11-18T15:05:50.136737"
+                ],
+                [
+                  -7,
+                  "2025-11-18T22:42:42.236617"
+                ],
+                [
+                  -7,
+                  "2025-11-19T00:36:48.226924"
+                ],
+                [
+                  -7,
+                  "2025-11-19T02:11:55.004806"
+                ],
+                [
+                  -7,
+                  "2025-11-19T02:33:37.962960"
+                ]
+              ],
+              "created_utc": 1763494876.0,
+              "depth": 2,
+              "permalink": "/r/OpenAI/comments/1p0i9i8/how_gemini_3_pro_beat_other_models_on_ui_coding/npjolf1/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": [
+                {
+                  "id": "npjvvhg",
+                  "parent_id": "t1_npjolf1",
+                  "author": "coloradical5280",
+                  "text_history": [
+                    [
+                      "What a weird bot.",
+                      "2025-11-18T14:56:25.175765"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      5,
+                      "2025-11-18T14:56:25.175765"
+                    ],
+                    [
+                      5,
+                      "2025-11-18T15:04:35.006393"
+                    ],
+                    [
+                      5,
+                      "2025-11-18T15:05:50.136737"
+                    ],
+                    [
+                      5,
+                      "2025-11-18T22:42:42.236617"
+                    ],
+                    [
+                      6,
+                      "2025-11-19T00:36:48.226924"
+                    ],
+                    [
+                      6,
+                      "2025-11-19T02:11:55.004806"
+                    ],
+                    [
+                      5,
+                      "2025-11-19T02:33:37.962960"
+                    ]
+                  ],
+                  "created_utc": 1763497069.0,
+                  "depth": 3,
+                  "permalink": "/r/OpenAI/comments/1p0i9i8/how_gemini_3_pro_beat_other_models_on_ui_coding/npjvvhg/",
+                  "is_submitter": false,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "npjkui8",
+      "parent_id": "t3_1p0i9i8",
+      "author": "coloradical5280",
+      "text_history": [
+        [
+          "I’m severely allergic to anything that isn’t dark mode. I disagree with your rankings.",
+          "2025-11-18T14:56:25.175765"
+        ]
+      ],
+      "score_history": [
+        [
+          27,
+          "2025-11-18T14:56:25.175765"
+        ],
+        [
+          32,
+          "2025-11-18T15:04:35.006393"
+        ],
+        [
+          32,
+          "2025-11-18T15:05:50.136737"
+        ],
+        [
+          52,
+          "2025-11-18T22:42:42.236617"
+        ],
+        [
+          52,
+          "2025-11-19T00:36:48.226924"
+        ],
+        [
+          53,
+          "2025-11-19T02:11:55.004806"
+        ],
+        [
+          53,
+          "2025-11-19T02:33:37.962960"
+        ]
+      ],
+      "created_utc": 1763493753.0,
+      "depth": 0,
+      "permalink": "/r/OpenAI/comments/1p0i9i8/how_gemini_3_pro_beat_other_models_on_ui_coding/npjkui8/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npjtao6",
+          "parent_id": "t1_npjkui8",
+          "author": "Jean_velvet",
+          "text_history": [
+            [
+              "I consider light mode a personal attack.",
+              "2025-11-18T14:56:25.175765"
+            ]
+          ],
+          "score_history": [
+            [
+              12,
+              "2025-11-18T14:56:25.175765"
+            ],
+            [
+              14,
+              "2025-11-18T15:04:35.006393"
+            ],
+            [
+              14,
+              "2025-11-18T15:05:50.136737"
+            ],
+            [
+              23,
+              "2025-11-18T22:42:42.236617"
+            ],
+            [
+              25,
+              "2025-11-19T00:36:48.226924"
+            ],
+            [
+              24,
+              "2025-11-19T02:11:55.004806"
+            ],
+            [
+              24,
+              "2025-11-19T02:33:37.962960"
+            ]
+          ],
+          "created_utc": 1763496282.0,
+          "depth": 1,
+          "permalink": "/r/OpenAI/comments/1p0i9i8/how_gemini_3_pro_beat_other_models_on_ui_coding/npjtao6/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npjwor1",
+              "parent_id": "t1_npjtao6",
+              "author": "coloradical5280",
+              "text_history": [
+                [
+                  "And since it’s a physical attack, causing severe pain to my optic nerve, it’s basically Assault &amp; Battery",
+                  "2025-11-18T14:56:25.175765"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-18T14:56:25.175765"
+                ],
+                [
+                  1,
+                  "2025-11-18T15:04:35.006393"
+                ],
+                [
+                  1,
+                  "2025-11-18T15:05:50.136737"
+                ],
+                [
+                  5,
+                  "2025-11-18T22:42:42.236617"
+                ],
+                [
+                  5,
+                  "2025-11-19T00:36:48.226924"
+                ],
+                [
+                  5,
+                  "2025-11-19T02:11:55.004806"
+                ],
+                [
+                  4,
+                  "2025-11-19T02:33:37.962960"
+                ]
+              ],
+              "created_utc": 1763497315.0,
+              "depth": 2,
+              "permalink": "/r/OpenAI/comments/1p0i9i8/how_gemini_3_pro_beat_other_models_on_ui_coding/npjwor1/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": [
+                {
+                  "id": "nplsdii",
+                  "parent_id": "t1_npjwor1",
+                  "author": "Aazimoxx",
+                  "text_history": [
+                    [
+                      "Depending on the screen technology, also Assault on Battery 👍️",
+                      "2025-11-18T22:42:42.236617"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      3,
+                      "2025-11-18T22:42:42.236617"
+                    ],
+                    [
+                      5,
+                      "2025-11-19T00:36:48.226924"
+                    ],
+                    [
+                      6,
+                      "2025-11-19T02:11:55.004806"
+                    ],
+                    [
+                      6,
+                      "2025-11-19T02:33:37.962960"
+                    ]
+                  ],
+                  "created_utc": 1763519945.0,
+                  "depth": 3,
+                  "permalink": "/r/OpenAI/comments/1p0i9i8/how_gemini_3_pro_beat_other_models_on_ui_coding/nplsdii/",
+                  "is_submitter": false,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "npjjtcj",
+      "parent_id": "t3_1p0i9i8",
+      "author": "Prestigiouspite",
+      "text_history": [
+        [
+          "How did you generate that, and with which CLI tools? With Codex CLI, my results look much nicer.",
+          "2025-11-18T14:56:25.175765"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-18T14:56:25.175765"
+        ],
+        [
+          2,
+          "2025-11-18T15:04:35.006393"
+        ],
+        [
+          2,
+          "2025-11-18T15:05:50.136737"
+        ],
+        [
+          6,
+          "2025-11-18T22:42:42.236617"
+        ],
+        [
+          5,
+          "2025-11-19T00:36:48.226924"
+        ],
+        [
+          6,
+          "2025-11-19T02:11:55.004806"
+        ],
+        [
+          6,
+          "2025-11-19T02:33:37.962960"
+        ]
+      ],
+      "created_utc": 1763493443.0,
+      "depth": 0,
+      "permalink": "/r/OpenAI/comments/1p0i9i8/how_gemini_3_pro_beat_other_models_on_ui_coding/npjjtcj/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npj2m1t",
+      "parent_id": "t3_1p0i9i8",
+      "author": "UltraBabyVegeta",
+      "text_history": [
+        [
+          "God got 5.1s design is such ugly slop",
+          "2025-11-18T14:56:25.175765"
+        ]
+      ],
+      "score_history": [
+        [
+          5,
+          "2025-11-18T14:56:25.175765"
+        ],
+        [
+          5,
+          "2025-11-18T15:04:35.006393"
+        ],
+        [
+          5,
+          "2025-11-18T15:05:50.136737"
+        ],
+        [
+          9,
+          "2025-11-18T22:42:42.236617"
+        ],
+        [
+          9,
+          "2025-11-19T00:36:48.226924"
+        ],
+        [
+          10,
+          "2025-11-19T02:11:55.004806"
+        ],
+        [
+          10,
+          "2025-11-19T02:33:37.962960"
+        ]
+      ],
+      "created_utc": 1763488466.0,
+      "depth": 0,
+      "permalink": "/r/OpenAI/comments/1p0i9i8/how_gemini_3_pro_beat_other_models_on_ui_coding/npj2m1t/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npjdemc",
+          "parent_id": "t1_npj2m1t",
+          "author": "analyticsboi",
+          "text_history": [
+            [
+              "5.1 is drunk, we need 6 asap",
+              "2025-11-18T14:56:25.175765"
+            ]
+          ],
+          "score_history": [
+            [
+              2,
+              "2025-11-18T14:56:25.175765"
+            ],
+            [
+              2,
+              "2025-11-18T15:04:35.006393"
+            ],
+            [
+              2,
+              "2025-11-18T15:05:50.136737"
+            ],
+            [
+              4,
+              "2025-11-18T22:42:42.236617"
+            ],
+            [
+              4,
+              "2025-11-19T00:36:48.226924"
+            ],
+            [
+              4,
+              "2025-11-19T02:11:55.004806"
+            ],
+            [
+              3,
+              "2025-11-19T02:33:37.962960"
+            ]
+          ],
+          "created_utc": 1763491560.0,
+          "depth": 1,
+          "permalink": "/r/OpenAI/comments/1p0i9i8/how_gemini_3_pro_beat_other_models_on_ui_coding/npjdemc/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npk32gy",
+      "parent_id": "t3_1p0i9i8",
+      "author": "SerDetestable",
+      "text_history": [
+        [
+          "but do they work tho?",
+          "2025-11-18T14:56:25.175765"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:56:25.175765"
+        ],
+        [
+          1,
+          "2025-11-18T15:04:35.006393"
+        ],
+        [
+          1,
+          "2025-11-18T15:05:50.136737"
+        ],
+        [
+          2,
+          "2025-11-18T22:42:42.236617"
+        ],
+        [
+          2,
+          "2025-11-19T00:36:48.226924"
+        ],
+        [
+          2,
+          "2025-11-19T02:11:55.004806"
+        ],
+        [
+          2,
+          "2025-11-19T02:33:37.962960"
+        ]
+      ],
+      "created_utc": 1763499252.0,
+      "depth": 0,
+      "permalink": "/r/OpenAI/comments/1p0i9i8/how_gemini_3_pro_beat_other_models_on_ui_coding/npk32gy/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npjnmtl",
+      "parent_id": "t3_1p0i9i8",
+      "author": "MrOaiki",
+      "text_history": [
+        [
+          "Just use a design standard with ready made components. Tabler for example.",
+          "2025-11-18T14:56:25.175765"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:56:25.175765"
+        ],
+        [
+          1,
+          "2025-11-18T15:04:35.006393"
+        ],
+        [
+          1,
+          "2025-11-18T15:05:50.136737"
+        ],
+        [
+          1,
+          "2025-11-18T22:42:42.236617"
+        ],
+        [
+          1,
+          "2025-11-19T00:36:48.226924"
+        ],
+        [
+          1,
+          "2025-11-19T02:11:55.004806"
+        ],
+        [
+          1,
+          "2025-11-19T02:33:37.962960"
+        ]
+      ],
+      "created_utc": 1763494587.0,
+      "depth": 0,
+      "permalink": "/r/OpenAI/comments/1p0i9i8/how_gemini_3_pro_beat_other_models_on_ui_coding/npjnmtl/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npk8c2r",
+      "parent_id": "t3_1p0i9i8",
+      "author": "CaponeMePhone",
+      "text_history": [
+        [
+          "Can you share the brief",
+          "2025-11-18T14:56:25.175765"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:56:25.175765"
+        ],
+        [
+          1,
+          "2025-11-18T15:04:35.006393"
+        ],
+        [
+          1,
+          "2025-11-18T15:05:50.136737"
+        ],
+        [
+          1,
+          "2025-11-18T22:42:42.236617"
+        ],
+        [
+          1,
+          "2025-11-19T00:36:48.226924"
+        ],
+        [
+          1,
+          "2025-11-19T02:11:55.004806"
+        ],
+        [
+          1,
+          "2025-11-19T02:33:37.962960"
+        ]
+      ],
+      "created_utc": 1763500813.0,
+      "depth": 0,
+      "permalink": "/r/OpenAI/comments/1p0i9i8/how_gemini_3_pro_beat_other_models_on_ui_coding/npk8c2r/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npkfzd2",
+      "parent_id": "t3_1p0i9i8",
+      "author": "nofuture09",
+      "text_history": [
+        [
+          "What app is that on second screenshot?",
+          "2025-11-18T14:56:25.175765"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:56:25.175765"
+        ],
+        [
+          1,
+          "2025-11-18T15:04:35.006393"
+        ],
+        [
+          1,
+          "2025-11-18T15:05:50.136737"
+        ],
+        [
+          1,
+          "2025-11-18T22:42:42.236617"
+        ],
+        [
+          1,
+          "2025-11-19T00:36:48.226924"
+        ],
+        [
+          1,
+          "2025-11-19T02:11:55.004806"
+        ],
+        [
+          1,
+          "2025-11-19T02:33:37.962960"
+        ]
+      ],
+      "created_utc": 1763503104.0,
+      "depth": 0,
+      "permalink": "/r/OpenAI/comments/1p0i9i8/how_gemini_3_pro_beat_other_models_on_ui_coding/npkfzd2/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nplhwzp",
+      "parent_id": "t3_1p0i9i8",
+      "author": "8rnlsunshine",
+      "text_history": [
+        [
+          "Hey could you share your prompt please?",
+          "2025-11-18T22:42:42.236617"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T22:42:42.236617"
+        ],
+        [
+          1,
+          "2025-11-19T00:36:48.226924"
+        ],
+        [
+          1,
+          "2025-11-19T02:11:55.004806"
+        ],
+        [
+          1,
+          "2025-11-19T02:33:37.962960"
+        ]
+      ],
+      "created_utc": 1763516208.0,
+      "depth": 0,
+      "permalink": "/r/OpenAI/comments/1p0i9i8/how_gemini_3_pro_beat_other_models_on_ui_coding/nplhwzp/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nplrk5z",
+      "parent_id": "t3_1p0i9i8",
+      "author": "ChadxSam",
+      "text_history": [
+        [
+          "And Price Too",
+          "2025-11-18T22:42:42.236617"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T22:42:42.236617"
+        ],
+        [
+          1,
+          "2025-11-19T00:36:48.226924"
+        ],
+        [
+          1,
+          "2025-11-19T02:11:55.004806"
+        ],
+        [
+          1,
+          "2025-11-19T02:33:37.962960"
+        ]
+      ],
+      "created_utc": 1763519652.0,
+      "depth": 0,
+      "permalink": "/r/OpenAI/comments/1p0i9i8/how_gemini_3_pro_beat_other_models_on_ui_coding/nplrk5z/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npjfyu2",
+      "parent_id": "t3_1p0i9i8",
+      "author": "nono-jo",
+      "text_history": [
+        [
+          "Can’t wait for their new astroturfing campaign!",
+          "2025-11-18T14:56:25.175765"
+        ]
+      ],
+      "score_history": [
+        [
+          -2,
+          "2025-11-18T14:56:25.175765"
+        ],
+        [
+          -4,
+          "2025-11-18T15:04:35.006393"
+        ],
+        [
+          -5,
+          "2025-11-18T15:05:50.136737"
+        ],
+        [
+          -4,
+          "2025-11-18T22:42:42.236617"
+        ],
+        [
+          -4,
+          "2025-11-19T00:36:48.226924"
+        ],
+        [
+          -5,
+          "2025-11-19T02:11:55.004806"
+        ],
+        [
+          -4,
+          "2025-11-19T02:33:37.962960"
+        ]
+      ],
+      "created_utc": 1763492299.0,
+      "depth": 0,
+      "permalink": "/r/OpenAI/comments/1p0i9i8/how_gemini_3_pro_beat_other_models_on_ui_coding/npjfyu2/",
+      "is_submitter": false,
+      "controversiality": 1,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npkmk8m",
+          "parent_id": "t1_npjfyu2",
+          "author": "eggplantpot",
+          "text_history": [
+            [
+              "it's a tool not a football team, it's ok to recognize other tool is better",
+              "2025-11-18T14:56:25.175765"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T14:56:25.175765"
+            ],
+            [
+              1,
+              "2025-11-18T15:04:35.006393"
+            ],
+            [
+              1,
+              "2025-11-18T15:05:50.136737"
+            ],
+            [
+              4,
+              "2025-11-18T22:42:42.236617"
+            ],
+            [
+              7,
+              "2025-11-19T00:36:48.226924"
+            ],
+            [
+              6,
+              "2025-11-19T02:11:55.004806"
+            ],
+            [
+              6,
+              "2025-11-19T02:33:37.962960"
+            ]
+          ],
+          "created_utc": 1763505196.0,
+          "depth": 1,
+          "permalink": "/r/OpenAI/comments/1p0i9i8/how_gemini_3_pro_beat_other_models_on_ui_coding/npkmk8m/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npjc1z4",
+      "parent_id": "t3_1p0i9i8",
+      "author": "Poisonedhero",
+      "text_history": [
+        [
+          "sonnet can do much better than that.",
+          "2025-11-18T14:56:25.175765"
+        ]
+      ],
+      "score_history": [
+        [
+          -5,
+          "2025-11-18T14:56:25.175765"
+        ],
+        [
+          -4,
+          "2025-11-18T15:04:35.006393"
+        ],
+        [
+          -5,
+          "2025-11-18T15:05:50.136737"
+        ],
+        [
+          -5,
+          "2025-11-18T22:42:42.236617"
+        ],
+        [
+          -6,
+          "2025-11-19T00:36:48.226924"
+        ],
+        [
+          -7,
+          "2025-11-19T02:11:55.004806"
+        ],
+        [
+          -6,
+          "2025-11-19T02:33:37.962960"
+        ]
+      ],
+      "created_utc": 1763491174.0,
+      "depth": 0,
+      "permalink": "/r/OpenAI/comments/1p0i9i8/how_gemini_3_pro_beat_other_models_on_ui_coding/npjc1z4/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npkdxqt",
+          "parent_id": "t1_npjc1z4",
+          "author": "hellofoobarbaz",
+          "text_history": [
+            [
+              "Imo sonnet is bad even for standards 6 month ago",
+              "2025-11-18T14:56:25.175765"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T14:56:25.175765"
+            ],
+            [
+              1,
+              "2025-11-18T15:04:35.006393"
+            ],
+            [
+              1,
+              "2025-11-18T15:05:50.136737"
+            ],
+            [
+              2,
+              "2025-11-18T22:42:42.236617"
+            ],
+            [
+              2,
+              "2025-11-19T00:36:48.226924"
+            ],
+            [
+              2,
+              "2025-11-19T02:11:55.004806"
+            ],
+            [
+              2,
+              "2025-11-19T02:33:37.962960"
+            ]
+          ],
+          "created_utc": 1763502492.0,
+          "depth": 1,
+          "permalink": "/r/OpenAI/comments/1p0i9i8/how_gemini_3_pro_beat_other_models_on_ui_coding/npkdxqt/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        },
+        {
+          "id": "npm1d55",
+          "parent_id": "t1_npjc1z4",
+          "author": "Thump604",
+          "text_history": [
+            [
+              "Sonnet is shit.   If then else machine",
+              "2025-11-18T22:42:42.236617"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T22:42:42.236617"
+            ],
+            [
+              1,
+              "2025-11-19T00:36:48.226924"
+            ],
+            [
+              1,
+              "2025-11-19T02:11:55.004806"
+            ],
+            [
+              1,
+              "2025-11-19T02:33:37.962960"
+            ]
+          ],
+          "created_utc": 1763523266.0,
+          "depth": 1,
+          "permalink": "/r/OpenAI/comments/1p0i9i8/how_gemini_3_pro_beat_other_models_on_ui_coding/npm1d55/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T02:33:37.962960",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/OpenAI/comments/1p0i9i8/how_gemini_3_pro_beat_other_models_on_ui_coding/",
+    "total_comments": 26,
+    "top_level_comments": 14,
+    "api_requests": 1,
+    "expected_comments": 28,
+    "coverage_percent": 92.86,
+    "merged_snapshot_count": 7,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_145624.json",
+      "scrape_002_20251118_150434.json",
+      "scrape_003_20251118_150549.json",
+      "scrape_004_20251118_224241.json",
+      "scrape_005_20251119_003647.json",
+      "scrape_006_20251119_021154.json",
+      "scrape_007_20251119_023337.json"
+    ]
+  }
+}

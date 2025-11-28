@@ -1,0 +1,44 @@
+{
+  "post": {
+    "id": "1om59ey",
+    "title": "200+ pages of Hugging Face secrets on how to train an LLM",
+    "author": "robogame_dev",
+    "score_history": [
+      [
+        1,
+        "2025-11-19T03:30:55.665438"
+      ],
+      [
+        1,
+        "2025-11-19T03:37:42.060975"
+      ],
+      [
+        1,
+        "2025-11-19T03:39:33.563876"
+      ]
+    ],
+    "created_utc": 1762048117.0,
+    "num_comments": 0,
+    "subreddit": "AI_developers",
+    "url": "https://i.redd.it/87s923teelyf1.png",
+    "selftext": "",
+    "permalink": "/r/AI_developers/comments/1om59ey/200_pages_of_hugging_face_secrets_on_how_to_train/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:39:33.563876",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/AI_developers/comments/1om59ey/200_pages_of_hugging_face_secrets_on_how_to_train/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_033055.json",
+      "scrape_002_20251119_033741.json",
+      "scrape_003_20251119_033933.json"
+    ]
+  }
+}

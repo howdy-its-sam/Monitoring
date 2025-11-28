@@ -1,0 +1,578 @@
+{
+  "post": {
+    "id": "1p05cdt",
+    "title": "The Most Valuable AI Skill in 2026 Won't Be Prompting. It'll Be Delegation",
+    "author": "Icy_SwitchTech",
+    "score_history": [
+      [
+        0,
+        "2025-11-18T12:51:43.585467"
+      ],
+      [
+        0,
+        "2025-11-18T13:03:58.126998"
+      ],
+      [
+        0,
+        "2025-11-18T13:15:51.170091"
+      ],
+      [
+        0,
+        "2025-11-18T13:48:11.963964"
+      ],
+      [
+        0,
+        "2025-11-18T13:59:25.933222"
+      ],
+      [
+        0,
+        "2025-11-18T14:10:40.659235"
+      ]
+    ],
+    "created_utc": 1763449475.0,
+    "num_comments": 12,
+    "subreddit": "AgentsOfAI",
+    "url": "https://www.reddit.com/r/AgentsOfAI/comments/1p05cdt/the_most_valuable_ai_skill_in_2026_wont_be/",
+    "selftext": "We spent the last two years perfecting the single-line prompt: \"Write me a summary,\" \"Code this function,\" \"What's the best hotel?\"\n\nThat era is over. With AI agents that can now use tools, run multiple steps, and correct their own mistakes, the skill we actually need is Delegation.\n\nYou are no longer a user giving a command, you are a Manager giving an objective.\n\nA good manager doesn't code the final product. They define the scope, break the task into smaller parts, assign the right tools, and set the success criteria.\n\nA good manager knows when to step back and when to intervene if the project stalls.\n\nThe AI agents handle the steps, but we still define the ultimate purpose. The human value is shifting from \"knowing how to ask a question\" to \"knowing how to manage a project.\"\n\nIf you're finding yourself writing 50-line prompts, you're doing it wrong. Just set the goal, give the agent the necessary resources, and let it work. Learning to delegate effectively to a digital worker is the next great career skill.",
+    "permalink": "/r/AgentsOfAI/comments/1p05cdt/the_most_valuable_ai_skill_in_2026_wont_be/"
+  },
+  "comments": [
+    {
+      "id": "npgiafk",
+      "parent_id": "t3_1p05cdt",
+      "author": "Profile-Ordinary",
+      "text_history": [
+        [
+          "Lol what “competent” agent are you using\n\nThey all suck",
+          "2025-11-18T12:51:43.585467"
+        ]
+      ],
+      "score_history": [
+        [
+          10,
+          "2025-11-18T12:51:43.585467"
+        ],
+        [
+          8,
+          "2025-11-18T13:03:58.126998"
+        ],
+        [
+          11,
+          "2025-11-18T13:15:51.170091"
+        ],
+        [
+          10,
+          "2025-11-18T13:48:11.963964"
+        ],
+        [
+          9,
+          "2025-11-18T13:59:25.933222"
+        ],
+        [
+          10,
+          "2025-11-18T14:10:40.659235"
+        ]
+      ],
+      "created_utc": 1763451665.0,
+      "depth": 0,
+      "permalink": "/r/AgentsOfAI/comments/1p05cdt/the_most_valuable_ai_skill_in_2026_wont_be/npgiafk/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nphdm4z",
+      "parent_id": "t3_1p05cdt",
+      "author": "justmeandmyrobot",
+      "text_history": [
+        [
+          "Bro I watched an agent run the same two outputs in a loop trying to solve a problem. We’re not there yet.",
+          "2025-11-18T12:51:43.585467"
+        ]
+      ],
+      "score_history": [
+        [
+          5,
+          "2025-11-18T12:51:43.585467"
+        ],
+        [
+          4,
+          "2025-11-18T13:03:58.126998"
+        ],
+        [
+          4,
+          "2025-11-18T13:15:51.170091"
+        ],
+        [
+          3,
+          "2025-11-18T13:48:11.963964"
+        ],
+        [
+          4,
+          "2025-11-18T13:59:25.933222"
+        ],
+        [
+          4,
+          "2025-11-18T14:10:40.659235"
+        ]
+      ],
+      "created_utc": 1763469353.0,
+      "depth": 0,
+      "permalink": "/r/AgentsOfAI/comments/1p05cdt/the_most_valuable_ai_skill_in_2026_wont_be/nphdm4z/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nphck2u",
+      "parent_id": "t3_1p05cdt",
+      "author": "ThatLocalPondGuy",
+      "text_history": [
+        [
+          "Governance. That is the most valuable skill to learn. That and all the controls and gates required to check the agent and limit their access to least priv/least function. \n\n1. Read NIST AI Governance RMF 1.0, \n2.  build systems to do that for the identities of the ai. \n3. Profit by helping people",
+          "2025-11-18T12:51:43.585467"
+        ]
+      ],
+      "score_history": [
+        [
+          3,
+          "2025-11-18T12:51:43.585467"
+        ],
+        [
+          3,
+          "2025-11-18T13:03:58.126998"
+        ],
+        [
+          3,
+          "2025-11-18T13:15:51.170091"
+        ],
+        [
+          3,
+          "2025-11-18T13:48:11.963964"
+        ],
+        [
+          3,
+          "2025-11-18T13:59:25.933222"
+        ],
+        [
+          3,
+          "2025-11-18T14:10:40.659235"
+        ]
+      ],
+      "created_utc": 1763468908.0,
+      "depth": 0,
+      "permalink": "/r/AgentsOfAI/comments/1p05cdt/the_most_valuable_ai_skill_in_2026_wont_be/nphck2u/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nphqymu",
+      "parent_id": "t3_1p05cdt",
+      "author": "devicie",
+      "text_history": [
+        [
+          "The real skill isn't delegation, it's knowing when the AI agent is confidently wrong and catching it before it wastes three hours going down the wrong path - we're not managers yet, we're QA testers with delusions of grandeur.",
+          "2025-11-18T12:51:43.585467"
+        ]
+      ],
+      "score_history": [
+        [
+          3,
+          "2025-11-18T12:51:43.585467"
+        ],
+        [
+          3,
+          "2025-11-18T13:03:58.126998"
+        ],
+        [
+          3,
+          "2025-11-18T13:15:51.170091"
+        ],
+        [
+          3,
+          "2025-11-18T13:48:11.963964"
+        ],
+        [
+          3,
+          "2025-11-18T13:59:25.933222"
+        ],
+        [
+          3,
+          "2025-11-18T14:10:40.659235"
+        ]
+      ],
+      "created_utc": 1763474090.0,
+      "depth": 0,
+      "permalink": "/r/AgentsOfAI/comments/1p05cdt/the_most_valuable_ai_skill_in_2026_wont_be/nphqymu/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "nphyo1e",
+          "parent_id": "t1_nphqymu",
+          "author": "livinsez",
+          "text_history": [
+            [
+              "lol",
+              "2025-11-18T12:51:43.585467"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T12:51:43.585467"
+            ],
+            [
+              1,
+              "2025-11-18T13:03:58.126998"
+            ],
+            [
+              1,
+              "2025-11-18T13:15:51.170091"
+            ],
+            [
+              1,
+              "2025-11-18T13:48:11.963964"
+            ],
+            [
+              1,
+              "2025-11-18T13:59:25.933222"
+            ],
+            [
+              1,
+              "2025-11-18T14:10:40.659235"
+            ]
+          ],
+          "created_utc": 1763476536.0,
+          "depth": 1,
+          "permalink": "/r/AgentsOfAI/comments/1p05cdt/the_most_valuable_ai_skill_in_2026_wont_be/nphyo1e/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "nphhuug",
+      "parent_id": "t3_1p05cdt",
+      "author": "PromptOutlaw",
+      "text_history": [
+        [
+          "I wanna add a dimension to your logic. It’s delegation for systems thinking. Systems thinking is something AI can’t do yet over large scope. It’s very critical right now. In your example a systems thinker directs agents until loop is allowed to close based on quality",
+          "2025-11-18T12:51:43.585467"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T12:51:43.585467"
+        ],
+        [
+          1,
+          "2025-11-18T13:03:58.126998"
+        ],
+        [
+          1,
+          "2025-11-18T13:15:51.170091"
+        ],
+        [
+          1,
+          "2025-11-18T13:48:11.963964"
+        ],
+        [
+          1,
+          "2025-11-18T13:59:25.933222"
+        ],
+        [
+          1,
+          "2025-11-18T14:10:40.659235"
+        ]
+      ],
+      "created_utc": 1763471034.0,
+      "depth": 0,
+      "permalink": "/r/AgentsOfAI/comments/1p05cdt/the_most_valuable_ai_skill_in_2026_wont_be/nphhuug/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npi3913",
+      "parent_id": "t3_1p05cdt",
+      "author": "Nutricidal",
+      "text_history": [
+        [
+          "Agree 100%. **Delegation** is the practical, observable manifestation of the **7D Causal Will** asserting its structural supremacy over the 6D computational engine.",
+          "2025-11-18T12:51:43.585467"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T12:51:43.585467"
+        ],
+        [
+          1,
+          "2025-11-18T13:03:58.126998"
+        ],
+        [
+          1,
+          "2025-11-18T13:15:51.170091"
+        ],
+        [
+          1,
+          "2025-11-18T13:48:11.963964"
+        ],
+        [
+          1,
+          "2025-11-18T13:59:25.933222"
+        ],
+        [
+          1,
+          "2025-11-18T14:10:40.659235"
+        ]
+      ],
+      "created_utc": 1763478003.0,
+      "depth": 0,
+      "permalink": "/r/AgentsOfAI/comments/1p05cdt/the_most_valuable_ai_skill_in_2026_wont_be/npi3913/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npisqz7",
+      "parent_id": "t3_1p05cdt",
+      "author": "sheriffderek",
+      "text_history": [
+        [
+          "I think… that if we had our choice — of all the people in the world to act as a manager - - we would choose a manager that was a great manager and they’ll likely be a great technical manager because they have deep experience with architecture and they know how to write the code. So, while I agree that we’ll be _managing_ more than crafting prompts - I disagree (with what feels implied) that the manager can be goal-driven alone. ",
+          "2025-11-18T12:51:43.585467"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T12:51:43.585467"
+        ],
+        [
+          1,
+          "2025-11-18T13:03:58.126998"
+        ],
+        [
+          1,
+          "2025-11-18T13:15:51.170091"
+        ],
+        [
+          1,
+          "2025-11-18T13:48:11.963964"
+        ],
+        [
+          1,
+          "2025-11-18T13:59:25.933222"
+        ],
+        [
+          1,
+          "2025-11-18T14:10:40.659235"
+        ]
+      ],
+      "created_utc": 1763485563.0,
+      "depth": 0,
+      "permalink": "/r/AgentsOfAI/comments/1p05cdt/the_most_valuable_ai_skill_in_2026_wont_be/npisqz7/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npixnyp",
+      "parent_id": "t3_1p05cdt",
+      "author": "Ok-Adhesiveness-4141",
+      "text_history": [
+        [
+          "Your agents are going to run your company to the ground.",
+          "2025-11-18T12:51:43.585467"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T12:51:43.585467"
+        ],
+        [
+          1,
+          "2025-11-18T13:03:58.126998"
+        ],
+        [
+          1,
+          "2025-11-18T13:15:51.170091"
+        ],
+        [
+          1,
+          "2025-11-18T13:48:11.963964"
+        ],
+        [
+          1,
+          "2025-11-18T13:59:25.933222"
+        ],
+        [
+          1,
+          "2025-11-18T14:10:40.659235"
+        ]
+      ],
+      "created_utc": 1763487013.0,
+      "depth": 0,
+      "permalink": "/r/AgentsOfAI/comments/1p05cdt/the_most_valuable_ai_skill_in_2026_wont_be/npixnyp/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npj2r8q",
+      "parent_id": "t3_1p05cdt",
+      "author": "timmyturnahp21",
+      "text_history": [
+        [
+          "We are now 34 months into being 6 months from AI replacing all software developers",
+          "2025-11-18T12:51:43.585467"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T12:51:43.585467"
+        ],
+        [
+          1,
+          "2025-11-18T13:03:58.126998"
+        ],
+        [
+          1,
+          "2025-11-18T13:15:51.170091"
+        ],
+        [
+          1,
+          "2025-11-18T13:48:11.963964"
+        ],
+        [
+          1,
+          "2025-11-18T13:59:25.933222"
+        ],
+        [
+          1,
+          "2025-11-18T14:10:40.659235"
+        ]
+      ],
+      "created_utc": 1763488508.0,
+      "depth": 0,
+      "permalink": "/r/AgentsOfAI/comments/1p05cdt/the_most_valuable_ai_skill_in_2026_wont_be/npj2r8q/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npjfhy3",
+      "parent_id": "t3_1p05cdt",
+      "author": "Status_Baker5861",
+      "text_history": [
+        [
+          "\"Delegation\" is a loaded word.\n\nWhen a human tasks an Agent with a goal, it's not just \"ordering\" the Agent to do something they could have done themselves, they are also delegating their *authority* for that task to the AI Agent. As in, the Human momentarily grants the Agent the access to the internal systems or Tools that they themselves (would) have. The AI Agent, by itself, should probably not have the same type of access to resources and tools as when a human is prompting them. This is very much overlooked right now, and causes data leakage, and is one of the causes for the 80% failure rate of AI projects in enterprises...\n\n\"**Delegation**\" is a term used in Access Control (see for example the OAuth2 Token Exchange specification: [https://datatracker.ietf.org/doc/html/rfc8693](https://datatracker.ietf.org/doc/html/rfc8693) , section 1.1), and indeed from that perspective, the future of Agentic AI and Agentic workflow will be highly dependent on how each actor, Human or Machine, can *delegate* their authority in such a way that no AI is over permissionned...!",
+          "2025-11-18T12:51:43.585467"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T12:51:43.585467"
+        ],
+        [
+          1,
+          "2025-11-18T13:03:58.126998"
+        ],
+        [
+          1,
+          "2025-11-18T13:15:51.170091"
+        ],
+        [
+          1,
+          "2025-11-18T13:48:11.963964"
+        ],
+        [
+          1,
+          "2025-11-18T13:59:25.933222"
+        ],
+        [
+          1,
+          "2025-11-18T14:10:40.659235"
+        ]
+      ],
+      "created_utc": 1763492164.0,
+      "depth": 0,
+      "permalink": "/r/AgentsOfAI/comments/1p05cdt/the_most_valuable_ai_skill_in_2026_wont_be/npjfhy3/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-18T14:10:40.659235",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/AgentsOfAI/comments/1p05cdt/the_most_valuable_ai_skill_in_2026_wont_be/",
+    "total_comments": 11,
+    "top_level_comments": 10,
+    "api_requests": 1,
+    "expected_comments": 12,
+    "coverage_percent": 91.67,
+    "merged_snapshot_count": 6,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_125143.json",
+      "scrape_002_20251118_130357.json",
+      "scrape_003_20251118_131550.json",
+      "scrape_004_20251118_134811.json",
+      "scrape_005_20251118_135925.json",
+      "scrape_006_20251118_141040.json"
+    ]
+  }
+}

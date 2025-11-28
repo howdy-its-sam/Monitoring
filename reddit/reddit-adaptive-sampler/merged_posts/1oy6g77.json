@@ -1,0 +1,44 @@
+{
+  "post": {
+    "id": "1oy6g77",
+    "title": "SLM customization educational tool",
+    "author": "humble_pi_314",
+    "score_history": [
+      [
+        3,
+        "2025-11-19T03:30:34.507263"
+      ],
+      [
+        3,
+        "2025-11-19T03:39:14.007589"
+      ],
+      [
+        3,
+        "2025-11-19T03:41:29.627807"
+      ]
+    ],
+    "created_utc": 1763249970.0,
+    "num_comments": 0,
+    "subreddit": "MLQuestions",
+    "url": "https://www.reddit.com/r/MLQuestions/comments/1oy6g77/slm_customization_educational_tool/",
+    "selftext": "🚀 Over the past year I’ve learned a ton about ML from this community, and I finally built something based on those ideas: a lightweight web UI for experimenting with and iteratively customizing small language models.\n\nIt’s designed to make the concepts feel intuitive and hands-on — the kind of tool I wish I had when I first started digging into this stuff.\n\nFor the next 36 hours, I’m heads-down helping people try it out and collecting real workflow feedback. You can join remotely or swing by our SF space if you want to test it in person.\n\nYou’ll get:  \n✅ a model customized around your own workflow or task  \n✅ guidance and support as you experiment  \n✅ the chance to chat with other builders  \n✅ food if you drop by in person  \n✅ and I’ll highlight the most interesting use-cases that come out of this sprint\n\nIf you’re interested, chat me “SLM” and I’ll send the link + get you onboarded.",
+    "permalink": "/r/MLQuestions/comments/1oy6g77/slm_customization_educational_tool/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:41:29.627807",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/MLQuestions/comments/1oy6g77/slm_customization_educational_tool/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_033034.json",
+      "scrape_002_20251119_033913.json",
+      "scrape_003_20251119_034129.json"
+    ]
+  }
+}

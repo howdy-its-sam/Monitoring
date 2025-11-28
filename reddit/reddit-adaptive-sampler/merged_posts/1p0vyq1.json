@@ -1,0 +1,258 @@
+{
+  "post": {
+    "id": "1p0vyq1",
+    "title": "I need help",
+    "author": "No_Airline7553",
+    "score_history": [
+      [
+        1,
+        "2025-11-19T02:55:53.504661"
+      ],
+      [
+        1,
+        "2025-11-19T03:03:43.795248"
+      ],
+      [
+        1,
+        "2025-11-19T03:06:56.473919"
+      ]
+    ],
+    "created_utc": 1763520434.0,
+    "num_comments": 6,
+    "subreddit": "PromptEngineering",
+    "url": "https://www.reddit.com/r/PromptEngineering/comments/1p0vyq1/i_need_help/",
+    "selftext": "I need help, i want to generate photos for this shop i am helping my friend, the whole idea is about phone cases and phone acesories.I want to know how can i make the photos for the shop like the one i put.I want to add the photo of the case he has and ai to make the layout like the one on the photo, so i need help i dont know what ai to use or what prompt to write so it gives me consistent photos.I was thinking leonardo ai but not much else.If someone can think of the prompt please help!!\n",
+    "permalink": "/r/PromptEngineering/comments/1p0vyq1/i_need_help/"
+  },
+  "comments": [
+    {
+      "id": "npm3vwp",
+      "parent_id": "t3_1p0vyq1",
+      "author": "behrouzbk",
+      "text_history": [
+        [
+          "Have you tried Google AI Studio?",
+          "2025-11-19T02:55:53.504661"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:55:53.504661"
+        ],
+        [
+          1,
+          "2025-11-19T03:03:43.795248"
+        ],
+        [
+          1,
+          "2025-11-19T03:06:56.473919"
+        ]
+      ],
+      "created_utc": 1763524263.0,
+      "depth": 0,
+      "permalink": "/r/PromptEngineering/comments/1p0vyq1/i_need_help/npm3vwp/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npn5qy6",
+          "parent_id": "t1_npm3vwp",
+          "author": "No_Airline7553",
+          "text_history": [
+            [
+              "I didnt, i will.\nThanks for the feedback",
+              "2025-11-19T02:55:53.504661"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-19T02:55:53.504661"
+            ],
+            [
+              1,
+              "2025-11-19T03:03:43.795248"
+            ],
+            [
+              1,
+              "2025-11-19T03:06:56.473919"
+            ]
+          ],
+          "created_utc": 1763544380.0,
+          "depth": 1,
+          "permalink": "/r/PromptEngineering/comments/1p0vyq1/i_need_help/npn5qy6/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npm43s4",
+      "parent_id": "t3_1p0vyq1",
+      "author": "EntrepreneurNext8457",
+      "text_history": [
+        [
+          "Hm , do you know how to write prompts or it's Ai who fails to understand your request, in my opinion you should give a photo to Ai first, then tell it what you want. Tell me later ,if you really find it  helpful.",
+          "2025-11-19T02:55:53.504661"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:55:53.504661"
+        ],
+        [
+          1,
+          "2025-11-19T03:03:43.795248"
+        ],
+        [
+          1,
+          "2025-11-19T03:06:56.473919"
+        ]
+      ],
+      "created_utc": 1763524351.0,
+      "depth": 0,
+      "permalink": "/r/PromptEngineering/comments/1p0vyq1/i_need_help/npm43s4/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npn5l55",
+          "parent_id": "t1_npm43s4",
+          "author": "No_Airline7553",
+          "text_history": [
+            [
+              "i tried giving it photo for referance but it doesnt \"listen\" it either gives me the wrong layout or makes it look like ai(giving it more or less holes then nedded, add unnecesery design or simply it doesnt look real) i tried first giving the photo to prompt optimaizer and telling him what to do but that still dosent work.\nLast thing it said to me is that i should try leonardo ai, that its more consistent for image creation and better for more photos(cca 5000)",
+              "2025-11-19T02:55:53.504661"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-19T02:55:53.504661"
+            ],
+            [
+              1,
+              "2025-11-19T03:03:43.795248"
+            ],
+            [
+              1,
+              "2025-11-19T03:06:56.473919"
+            ]
+          ],
+          "created_utc": 1763544276.0,
+          "depth": 1,
+          "permalink": "/r/PromptEngineering/comments/1p0vyq1/i_need_help/npn5l55/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        },
+        {
+          "id": "npn5pf2",
+          "parent_id": "t1_npm43s4",
+          "author": "No_Airline7553",
+          "text_history": [
+            [
+              "Thanks for the feedback if you want i can send you the layup and what to do to see if you have more luck",
+              "2025-11-19T02:55:53.504661"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-19T02:55:53.504661"
+            ],
+            [
+              1,
+              "2025-11-19T03:03:43.795248"
+            ],
+            [
+              1,
+              "2025-11-19T03:06:56.473919"
+            ]
+          ],
+          "created_utc": 1763544352.0,
+          "depth": 1,
+          "permalink": "/r/PromptEngineering/comments/1p0vyq1/i_need_help/npn5pf2/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npn6c7k",
+              "parent_id": "t1_npn5pf2",
+              "author": "EntrepreneurNext8457",
+              "text_history": [
+                [
+                  "Sure",
+                  "2025-11-19T02:55:53.504661"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-19T02:55:53.504661"
+                ],
+                [
+                  1,
+                  "2025-11-19T03:03:43.795248"
+                ],
+                [
+                  1,
+                  "2025-11-19T03:06:56.473919"
+                ]
+              ],
+              "created_utc": 1763544755.0,
+              "depth": 2,
+              "permalink": "/r/PromptEngineering/comments/1p0vyq1/i_need_help/npn6c7k/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:06:56.473919",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/PromptEngineering/comments/1p0vyq1/i_need_help/",
+    "total_comments": 6,
+    "top_level_comments": 2,
+    "api_requests": 1,
+    "expected_comments": 6,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_025553.json",
+      "scrape_002_20251119_030343.json",
+      "scrape_003_20251119_030656.json"
+    ]
+  }
+}

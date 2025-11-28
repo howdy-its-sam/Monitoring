@@ -1,0 +1,44 @@
+{
+  "post": {
+    "id": "1p13slj",
+    "title": "Agentic RAG chatbot on Slush conference data",
+    "author": "lucido_dio",
+    "score_history": [
+      [
+        1,
+        "2025-11-19T02:56:10.644450"
+      ],
+      [
+        1,
+        "2025-11-19T03:08:36.745688"
+      ],
+      [
+        1,
+        "2025-11-19T03:17:52.414915"
+      ]
+    ],
+    "created_utc": 1763547080.0,
+    "num_comments": 0,
+    "subreddit": "AgentsOfAI",
+    "url": "https://www.reddit.com/r/AgentsOfAI/comments/1p13slj/agentic_rag_chatbot_on_slush_conference_data/",
+    "selftext": "Slush is happening right now, it's one of the core startup conferences in Europe, you cannot miss it if you're a founder or investor.\n\nI've created a RAG chatbot based on Slush's 700+ events, 6.2k+ companies.\n\nTo be precise, right now there's 7048 documents in the chat\n\nSlush actually has a great data model so I was able to export clean documents. That are easy to chunk and thus have good semantics.\n\nIt's great for finding after party events ;) After all, why are we are embedding at all?\n\nLink: [https://needle.app/slush-2025-chat](https://needle.app/slush-2025-chat)\n\n\n\nhttps://preview.redd.it/afwczo8vu62g1.png?width=1450&amp;format=png&amp;auto=webp&amp;s=8145ce440144ebd4cc9a7b810fe1e636dc582fd9\n\nhttps://preview.redd.it/rmg40wsvu62g1.png?width=1242&amp;format=png&amp;auto=webp&amp;s=35ba8c637ed22c4e94789138c814edd007328b1f\n\n",
+    "permalink": "/r/AgentsOfAI/comments/1p13slj/agentic_rag_chatbot_on_slush_conference_data/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:17:52.414915",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/AgentsOfAI/comments/1p13slj/agentic_rag_chatbot_on_slush_conference_data/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_025610.json",
+      "scrape_002_20251119_030836.json",
+      "scrape_003_20251119_031752.json"
+    ]
+  }
+}

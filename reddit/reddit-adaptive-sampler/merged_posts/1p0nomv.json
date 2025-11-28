@@ -1,0 +1,80 @@
+{
+  "post": {
+    "id": "1p0nomv",
+    "title": "BREAKING: CATHOLICS SAY HOPE IS NO LONGER...",
+    "author": "IT-Pro",
+    "score_history": [
+      [
+        0,
+        "2025-11-19T03:50:47.550250"
+      ],
+      [
+        0,
+        "2025-11-19T03:59:41.880374"
+      ],
+      [
+        0,
+        "2025-11-19T04:01:46.084320"
+      ]
+    ],
+    "created_utc": 1763499425.0,
+    "num_comments": 1,
+    "subreddit": "cybersecurity",
+    "url": "https://www.reddit.com/r/cybersecurity/comments/1p0nomv/breaking_catholics_say_hope_is_no_longer/",
+    "selftext": "[removed]",
+    "permalink": "/r/cybersecurity/comments/1p0nomv/breaking_catholics_say_hope_is_no_longer/"
+  },
+  "comments": [
+    {
+      "id": "npn4ph4",
+      "parent_id": "t3_1p0nomv",
+      "author": "Daniel0210",
+      "text_history": [
+        [
+          "Oh no! Anyway...\n\nFuck off with these clickbait titles...",
+          "2025-11-19T03:50:47.550250"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T03:50:47.550250"
+        ],
+        [
+          1,
+          "2025-11-19T03:59:41.880374"
+        ],
+        [
+          1,
+          "2025-11-19T04:01:46.084320"
+        ]
+      ],
+      "created_utc": 1763543717.0,
+      "depth": 0,
+      "permalink": "/r/cybersecurity/comments/1p0nomv/breaking_catholics_say_hope_is_no_longer/npn4ph4/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T04:01:46.084320",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/cybersecurity/comments/1p0nomv/breaking_catholics_say_hope_is_no_longer/",
+    "total_comments": 1,
+    "top_level_comments": 1,
+    "api_requests": 1,
+    "expected_comments": 1,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_035047.json",
+      "scrape_002_20251119_035941.json",
+      "scrape_003_20251119_040145.json"
+    ]
+  }
+}

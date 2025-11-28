@@ -1,0 +1,59 @@
+{
+  "post": {
+    "id": "1p04is6",
+    "title": "Introducing Inbox-Rag — Your Smart Financial Assistant",
+    "author": "_vinod_",
+    "score_history": [
+      [
+        1,
+        "2025-11-18T13:04:07.188078"
+      ],
+      [
+        1,
+        "2025-11-18T13:48:14.569118"
+      ],
+      [
+        1,
+        "2025-11-18T13:59:27.748413"
+      ],
+      [
+        1,
+        "2025-11-18T14:11:26.239635"
+      ],
+      [
+        1,
+        "2025-11-18T22:10:13.152516"
+      ],
+      [
+        1,
+        "2025-11-19T07:12:17.487281"
+      ]
+    ],
+    "created_utc": 1763446521.0,
+    "num_comments": 0,
+    "subreddit": "Rag",
+    "url": "https://www.reddit.com/r/Rag/comments/1p04is6/introducing_inboxrag_your_smart_financial/",
+    "selftext": "**InboxRag** can now answer your credit card–related questions in seconds. No digging through emails, no opening PDFs — just ask, and get insights instantly.\n\n  \nThe [GitHub](https://github.com/vinodmvd/InboxRag.git) repository contains the full codebase (with privacy-related components excluded). A YouTube demo ([InboxRag](https://youtu.be/dA6n9wK7gc0)) walks through the bot introduction, the data ingestion pipeline, and the query retrieval workflow.\n\nBelow are the highlights of the RAG bot. Let me know what you think! Drop your suggestions or improvements in the comments — I’d love to hear your thoughts. :)\n\n# Tech Stack:\n\n* **Gmail API** – Fetches PDF statements directly from your inbox.\n* **LangChain** – Processes PDFs and splits them into 500-token chunks.\n* **Sentence Transformer (all-miniLM-L6-V2)** – Generates embeddings for documents &amp; queries.\n* **Pinecone** – Vector database for fast Cosine similarity search.\n* **OpenAI (gpt-4o-mini)** – Uses context + user query to generate accurate answers.\n\n# Data Ingestion:\n\n1. Fetch raw PDF data using Gmail API.\n2. Convert raw data into structured documents.\n3. Split text into 500-token chunks with 200 overlap.\n4. Generate 384-dimensional embeddings.\n5. Store embeddings in Pinecone for efficient retrieval.\n\n# Query Retriever:\n\n1. User enters a query.\n2. Query is converted into embeddings.\n3. Perform Euclidean vector search. (top\\_k = 5)\n4. Provide retrieved context + query to the LLM.\n5. Stream the final answer back to the user.\n\n# Enhancements Planned:\n\n* Strengthen **data privacy** around stored vectors.\n* Introduce a **re-ranking strategy** to improve search relevance.\n* Expand support beyond bank statements to include **debit-card statements, shopping bills, internet bills, and more**.",
+    "permalink": "/r/Rag/comments/1p04is6/introducing_inboxrag_your_smart_financial/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T07:12:17.487281",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/Rag/comments/1p04is6/introducing_inboxrag_your_smart_financial/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 6,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_130406.json",
+      "scrape_002_20251118_134814.json",
+      "scrape_003_20251118_135927.json",
+      "scrape_004_20251118_141126.json",
+      "scrape_005_20251118_221012.json",
+      "scrape_006_20251119_071217.json"
+    ]
+  }
+}

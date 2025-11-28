@@ -1,0 +1,44 @@
+{
+  "post": {
+    "id": "1p0hrtn",
+    "title": "ChatGPT keeps forgetting previous work across chats. So we built something to fix that. Looking for input from power users.",
+    "author": "Competitive_Act4656",
+    "score_history": [
+      [
+        0,
+        "2025-11-18T14:22:31.850732"
+      ],
+      [
+        0,
+        "2025-11-18T14:32:52.287858"
+      ],
+      [
+        0,
+        "2025-11-18T14:42:48.655351"
+      ]
+    ],
+    "created_utc": 1763486188.0,
+    "num_comments": 0,
+    "subreddit": "ChatGPTCoding",
+    "url": "https://v.redd.it/l720q2jgt12g1",
+    "selftext": "Hey everyone, Jaka here. I spend most of my day inside ChatGPT, Cursor, and Claude Code, and I kept hitting the same problem many of you talk about here:\n\nChatGPT answers something perfectly, but two days later the context is gone.  \nAll the debugging notes, research steps, design decisions, explanations, and dead ends disappear unless you manually save them somewhere else.\n\nSo my team and I built something that tries to fix that missing layer.\n\nIt lets you save specific pieces of ChatGPT output as “Seeds”, auto-organise them by topic, and then load this context back into any new ChatGPT session through MCP. The idea is simple. You work once. The context stays available later, even across different models.\n\nYou can use it alongside ChatGPT like this:  \n• upload code snippets, PDFs, screenshots or notes  \n• get ChatGPT to synthesise them  \n• save the answer as a Seed  \n• return next week and ask about the same project without repeating yourself  \n• or ask ChatGPT to load your Seeds into the prompt via MCP\n\nRight now it is completely free in early access. We want feedback from people who actually push ChatGPT to its limits.\n\nWhat I would love to know from this sub:\n\n1. Would you use something like this in your workflow\n2. Should this be more integrated with ChatGPT via MCP\n3. What kind of context or memory do you wish ChatGPT could persist across sessions\n4. Any missing features for coding specific use cases\n\nHappy to answer every question and show examples.  \n\n\n[myneutron.ai](http://myneutron.ai)",
+    "permalink": "/r/ChatGPTCoding/comments/1p0hrtn/chatgpt_keeps_forgetting_previous_work_across/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-18T14:42:48.655351",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/ChatGPTCoding/comments/1p0hrtn/chatgpt_keeps_forgetting_previous_work_across/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_142231.json",
+      "scrape_002_20251118_143252.json",
+      "scrape_003_20251118_144248.json"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "post": {
+    "id": "1p0mvq7",
+    "title": "Google AI Introduces Gemini 3 Pro, Sparse MoE Multimodal Model With 1M Token Context for Agentic Workloads",
+    "author": "ai-lover",
+    "score_history": [
+      [
+        14,
+        "2025-11-19T03:18:05.044585"
+      ],
+      [
+        12,
+        "2025-11-19T03:25:23.324484"
+      ],
+      [
+        16,
+        "2025-11-19T03:29:03.719292"
+      ]
+    ],
+    "created_utc": 1763497554.0,
+    "num_comments": 0,
+    "subreddit": "machinelearningnews",
+    "url": "https://www.marktechpost.com/2025/11/18/googles-gemini-3-pro-turns-sparse-moe-and-1m-token-context-into-a-practical-engine-for-multimodal-agentic-workloads/",
+    "selftext": "Gemini 3 Pro is Google’s new flagship sparse MoE multimodal model with 1M token context, designed for long context reasoning, coding and agentic workloads across text, image, audio and video. It significantly outperforms Gemini 2.5 Pro, GPT 5.1 and Claude Sonnet 4.5 on key benchmarks such as Humanity’s Last Exam, ARC AGI 2, GPQA Diamond, AIME 2025 and MMMU Pro, and is already integrated into the Gemini app, AI Mode in Search, Gemini API, Vertex AI and the Antigravity agentic development environment.\n\nFull analysis: [https://www.marktechpost.com/2025/11/18/googles-gemini-3-pro-turns-sparse-moe-and-1m-token-context-into-a-practical-engine-for-multimodal-agentic-workloads/](https://www.marktechpost.com/2025/11/18/googles-gemini-3-pro-turns-sparse-moe-and-1m-token-context-into-a-practical-engine-for-multimodal-agentic-workloads/)\n\nDocs: [https://storage.googleapis.com/deepmind-media/gemini/gemini\\_3\\_pro\\_model\\_evaluation.pdf](https://storage.googleapis.com/deepmind-media/gemini/gemini_3_pro_model_evaluation.pdf)\n\nTechnical details: [https://blog.google/products/gemini/gemini-3/#note-from-ceo](https://blog.google/products/gemini/gemini-3/#note-from-ceo)",
+    "permalink": "/r/machinelearningnews/comments/1p0mvq7/google_ai_introduces_gemini_3_pro_sparse_moe/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:29:03.719292",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/machinelearningnews/comments/1p0mvq7/google_ai_introduces_gemini_3_pro_sparse_moe/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_031804.json",
+      "scrape_002_20251119_032523.json",
+      "scrape_003_20251119_032903.json"
+    ]
+  }
+}

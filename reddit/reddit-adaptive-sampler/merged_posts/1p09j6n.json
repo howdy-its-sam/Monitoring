@@ -1,0 +1,107 @@
+{
+  "post": {
+    "id": "1p09j6n",
+    "title": "I built an AI superconnector - founders, what roles are you hiring for right now?",
+    "author": "rollingincrypto",
+    "score_history": [
+      [
+        1,
+        "2025-11-18T12:51:34.451625"
+      ],
+      [
+        1,
+        "2025-11-18T13:03:53.322719"
+      ],
+      [
+        1,
+        "2025-11-18T13:15:44.905278"
+      ],
+      [
+        1,
+        "2025-11-18T13:48:10.888236"
+      ],
+      [
+        1,
+        "2025-11-18T13:59:38.873840"
+      ],
+      [
+        1,
+        "2025-11-18T14:10:56.046628"
+      ]
+    ],
+    "created_utc": 1763465437.0,
+    "num_comments": 1,
+    "subreddit": "AI_Agents",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1p09j6n/i_built_an_ai_superconnector_founders_what_roles/",
+    "selftext": "I’ve been building an AI superconnector that talks to candidates and founders, understands what both sides want, and then makes warm introductions.\n\nToday a bunch of candidates across PM, Design, Engineering, Ops, Sales, and Data are speaking with it and I want to see how helpful it can be for founders too.\n\nIf you’re hiring, comment below with:\n• Role\n• Experience level\n• Remote/hybrid/onsite\n\nI’ll see if Vance - AI Superconnector can match you with someone relevant today itself.\nNot selling anything, just testing this superconnector in the real world.",
+    "permalink": "/r/AI_Agents/comments/1p09j6n/i_built_an_ai_superconnector_founders_what_roles/"
+  },
+  "comments": [
+    {
+      "id": "nph4xik",
+      "parent_id": "t3_1p09j6n",
+      "author": "AutoModerator",
+      "text_history": [
+        [
+          "Thank you for your submission, for any questions regarding AI, please check out our wiki at https://www.reddit.com/r/ai_agents/wiki (this is currently in test and we are actively adding to the wiki)\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/AI_Agents) if you have any questions or concerns.*",
+          "2025-11-18T12:51:34.451625"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T12:51:34.451625"
+        ],
+        [
+          1,
+          "2025-11-18T13:03:53.322719"
+        ],
+        [
+          1,
+          "2025-11-18T13:15:44.905278"
+        ],
+        [
+          1,
+          "2025-11-18T13:48:10.888236"
+        ],
+        [
+          1,
+          "2025-11-18T13:59:38.873840"
+        ],
+        [
+          1,
+          "2025-11-18T14:10:56.046628"
+        ]
+      ],
+      "created_utc": 1763465438.0,
+      "depth": 0,
+      "permalink": "/r/AI_Agents/comments/1p09j6n/i_built_an_ai_superconnector_founders_what_roles/nph4xik/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-18T14:10:56.046628",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/AI_Agents/comments/1p09j6n/i_built_an_ai_superconnector_founders_what_roles/",
+    "total_comments": 1,
+    "top_level_comments": 1,
+    "api_requests": 1,
+    "expected_comments": 1,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 6,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_125134.json",
+      "scrape_002_20251118_130353.json",
+      "scrape_003_20251118_131544.json",
+      "scrape_004_20251118_134810.json",
+      "scrape_005_20251118_135938.json",
+      "scrape_006_20251118_141055.json"
+    ]
+  }
+}

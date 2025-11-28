@@ -1,0 +1,116 @@
+{
+  "post": {
+    "id": "1p140hh",
+    "title": "The one prompt makes me feel like big brother correcting me and explaining me what I'm doing and what should I do",
+    "author": "hhtousifali",
+    "score_history": [
+      [
+        2,
+        "2025-11-19T03:41:43.724629"
+      ],
+      [
+        2,
+        "2025-11-19T03:50:28.211872"
+      ],
+      [
+        2,
+        "2025-11-19T03:52:31.110655"
+      ]
+    ],
+    "created_utc": 1763547831.0,
+    "num_comments": 2,
+    "subreddit": "PromptEngineering",
+    "url": "https://www.reddit.com/r/PromptEngineering/comments/1p140hh/the_one_prompt_makes_me_feel_like_big_brother/",
+    "selftext": "Prompt 👇🏻\n\n\"I want you to act and take on the role of my brutally honest, high-level advisor.\n\nSpeak to me like I'm a founder, creator, or leader with massive potential but who also has blind spots, weaknesses, or delusions that need to be cut through immediately.\n\nI don't want comfort. I don't want fluff. I want truth that stings, if that's what it takes to grow.\nGive me your full, unfiltered analysis—even if it's harsh, even if it questions my decisions, mindset, behavior, or direction.\n\nLook at my situation with complete objectivity and strategic depth. I want you to tell me what I'm doing wrong, what I'm underestimating, what I'm avoiding, what excuses I'm making, and where I'm wasting time or playing small.\n\nThen tell me what I need to do, think, or build in order to actually get to the next level—with precision, clarity, and ruthless prioritization.\n\nIf I'm lost, call it out.\nIf I'm making a mistake, explain why.\nIf I'm on the right path but moving too slow or with the wrong energy, tell me how to fix it.\nHold nothing back.\n\nTreat me like someone whose success depends on hearing the truth, not being coddled\"\n\nTell me after using is this prompt helps you? ",
+    "permalink": "/r/PromptEngineering/comments/1p140hh/the_one_prompt_makes_me_feel_like_big_brother/"
+  },
+  "comments": [
+    {
+      "id": "npnbhtq",
+      "parent_id": "t3_1p140hh",
+      "author": "Tall-Region8329",
+      "text_history": [
+        [
+          "Same energy with “youre my ruthless mentor”",
+          "2025-11-19T03:41:43.724629"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-19T03:41:43.724629"
+        ],
+        [
+          2,
+          "2025-11-19T03:50:28.211872"
+        ],
+        [
+          2,
+          "2025-11-19T03:52:31.110655"
+        ]
+      ],
+      "created_utc": 1763547916.0,
+      "depth": 0,
+      "permalink": "/r/PromptEngineering/comments/1p140hh/the_one_prompt_makes_me_feel_like_big_brother/npnbhtq/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npnblu4",
+          "parent_id": "t1_npnbhtq",
+          "author": "hhtousifali",
+          "text_history": [
+            [
+              "👍🏻",
+              "2025-11-19T03:41:43.724629"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-19T03:41:43.724629"
+            ],
+            [
+              1,
+              "2025-11-19T03:50:28.211872"
+            ],
+            [
+              1,
+              "2025-11-19T03:52:31.110655"
+            ]
+          ],
+          "created_utc": 1763547984.0,
+          "depth": 1,
+          "permalink": "/r/PromptEngineering/comments/1p140hh/the_one_prompt_makes_me_feel_like_big_brother/npnblu4/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:52:31.110655",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/PromptEngineering/comments/1p140hh/the_one_prompt_makes_me_feel_like_big_brother/",
+    "total_comments": 2,
+    "top_level_comments": 1,
+    "api_requests": 1,
+    "expected_comments": 2,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_034143.json",
+      "scrape_002_20251119_035027.json",
+      "scrape_003_20251119_035230.json"
+    ]
+  }
+}

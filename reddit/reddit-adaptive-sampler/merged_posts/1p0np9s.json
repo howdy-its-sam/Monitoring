@@ -1,0 +1,44 @@
+{
+  "post": {
+    "id": "1p0np9s",
+    "title": "AI trying to make a videogame",
+    "author": "NameMain2601",
+    "score_history": [
+      [
+        1,
+        "2025-11-18T14:22:33.257118"
+      ],
+      [
+        3,
+        "2025-11-18T14:32:48.140434"
+      ],
+      [
+        3,
+        "2025-11-18T14:43:19.612846"
+      ]
+    ],
+    "created_utc": 1763499465.0,
+    "num_comments": 0,
+    "subreddit": "artificial",
+    "url": "https://v.redd.it/mjh5hpbbx22g1",
+    "selftext": "AI also made the music",
+    "permalink": "/r/artificial/comments/1p0np9s/ai_trying_to_make_a_videogame/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-18T14:43:19.612846",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/artificial/comments/1p0np9s/ai_trying_to_make_a_videogame/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_142233.json",
+      "scrape_002_20251118_143247.json",
+      "scrape_003_20251118_144319.json"
+    ]
+  }
+}

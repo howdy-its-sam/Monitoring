@@ -1,0 +1,54 @@
+{
+  "post": {
+    "id": "1p12r9r",
+    "title": "Built an email intelligence layer for agents, trying to figure out the best use cases",
+    "author": "EnoughNinja",
+    "score_history": [
+      [
+        1,
+        "2025-11-19T04:01:48.948218"
+      ],
+      [
+        1,
+        "2025-11-19T04:03:10.424382"
+      ],
+      [
+        1,
+        "2025-11-19T04:10:01.762773"
+      ],
+      [
+        1,
+        "2025-11-19T04:12:33.854922"
+      ],
+      [
+        1,
+        "2025-11-19T04:21:23.183917"
+      ]
+    ],
+    "created_utc": 1763543273.0,
+    "num_comments": 0,
+    "subreddit": "LangChain",
+    "url": "https://www.reddit.com/r/LangChain/comments/1p12r9r/built_an_email_intelligence_layer_for_agents/",
+    "selftext": "Hey\n\nI've been working on something and I'm genuinely not sure if I'm solving a real problem or just my own problem.\n\n**The situation:**\n\nI kept rebuilding the same email parsing infrastructure for different agent projects. Thread reconstruction, participant tracking, sentiment analysis, task extraction – the whole stack.\n\nEvery time I thought \"someone must have already solved this\" but couldn't find anything that wasn't either too basic (just Gmail API wrappers) or too opinionated (full agent platforms).\n\nSo I built an API that takes raw email threads and returns structured intelligence. Not summaries. Actual structured data about who said what, tone changes, commitments made, tasks created.\n\n**What I'm trying to figure out:**\n\nIs this genuinely useful beyond my own use cases? Or am I solving a problem that most people don't actually have?\n\n**Current use cases I've seen work:**\n\n* AI agents that need to prep someone for a meeting (needs full conversation context)\n* Sales tools that track deal health (sentiment + commitment tracking)\n* CS systems catching churn signals early (tone degradation detection)\n\n**My question for this community:**\n\nIf you're building agents with LangChain or similar frameworks, do you run into this problem? The \"I need my agent to actually understand email conversations, not just retrieve them\" problem?\n\nAnd if yes, what's your current solution? Are you building custom parsers? Using ChatGPT to extract? Something else?\n\nI'm offering free access + credits to anyone who wants to test this on real data. Not looking for validation, we are genuinely looking for feedback on what people will build with this.\n\nDrop a comment or DM if you're interested.\n\n",
+    "permalink": "/r/LangChain/comments/1p12r9r/built_an_email_intelligence_layer_for_agents/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T04:21:23.183917",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/LangChain/comments/1p12r9r/built_an_email_intelligence_layer_for_agents/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 5,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_040148.json",
+      "scrape_002_20251119_040310.json",
+      "scrape_003_20251119_041001.json",
+      "scrape_004_20251119_041233.json",
+      "scrape_005_20251119_042122.json"
+    ]
+  }
+}

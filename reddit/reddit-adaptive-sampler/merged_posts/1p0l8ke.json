@@ -1,0 +1,95 @@
+{
+  "post": {
+    "id": "1p0l8ke",
+    "title": "Build Your Own Visual Style with LLMs + Midjourney",
+    "author": "Weary_Reply",
+    "score_history": [
+      [
+        0,
+        "2025-11-18T13:49:03.200374"
+      ],
+      [
+        0,
+        "2025-11-18T14:00:38.862914"
+      ],
+      [
+        0,
+        "2025-11-18T14:12:14.258195"
+      ],
+      [
+        0,
+        "2025-11-18T22:00:01.083397"
+      ],
+      [
+        0,
+        "2025-11-18T23:54:38.018077"
+      ],
+      [
+        0,
+        "2025-11-19T01:39:58.845603"
+      ]
+    ],
+    "created_utc": 1763493819.0,
+    "num_comments": 1,
+    "subreddit": "artificial",
+    "url": "https://www.reddit.com/r/artificial/comments/1p0l8ke/build_your_own_visual_style_with_llms_midjourney/",
+    "selftext": "*A friendly note for designers, artists &amp; anyone who loves making beautiful things* ✨\n\n# Why Start with LLMs (and Not Jump Straight into Image Models)?\n\nThe AI world has exploded — new image models, new video tools, new pipelines. Super cool, but also… kind of chaotic.\n\nMeanwhile, **LLMs remain the chill, reliable grown‑up in the room**. They’re text‑based, low‑noise, and trained on huge infrastructure. They don’t panic. They don’t hallucinate (too much). And most importantly:\n\n**LLMs are consistent. Consistency is gold.**\n\nImage generators? They’re amazing — but they also wake up each morning with a new personality. Even the impressive ones (Sora, Nano Banana, Flux, etc.) still struggle with *stable personal style*. ComfyUI is powerful but not always friendly.\n\nMidjourney stands out because:\n\n* It has taste.\n* It has a vibe.\n* It has its own aesthetic world.\n\nBut MJ also has a temper. Its black‑box nature and inconsistent parameters mean your prompts sometimes get… misinterpreted.\n\nSo here’s the system I use to make MJ feel more like a *collaborator* and less like a mystery box\n\n# Step 1 — Let an LLM Think With You\n\nInstead of diving straight into MJ, start by giving the LLM a bit of \"context\":\n\n* what you're creating\n* who it’s for\n* the tone or personality\n* colors, shapes, typography\n* your references\n\nThis is just you telling the LLM: “Hey, here’s the world we’re playing in.”\n\n# Optional: build a tiny personal design scaffold\n\nDon’t worry — this isn’t homework.\n\nJust write down **how you think** when you design:\n\n* what you look at first\n* how you choose a direction\n* what you avoid\n* how you explore ideas\n\nThink of it like telling the LLM, “Here’s how my brain enjoys working.” Once the LLM knows your logic, the prompts it generates feel surprisingly aligned\n\n# Step 2 — Make a Mood Board Inside MJ\n\nYour MJ mood board becomes your **visual anchor**.\n\nCollect things you love:\n\n* colors\n* textures\n* gradients\n* photography styles\n* small visual cues that feel \"right\"\n\nTry not to overload it with random stuff. A clean board = a clear style direction\n\n# Step 3 — Let LLM + MJ Become Teammate\n\nThis is where it gets fun.\n\n1. Chat with the LLM about what you're making.\n2. Share a couple of images from your mood board.\n3. Let the LLM help build prompts that match *your* logic.\n4. Run them in MJ.\n5. Take good results → add them back into your mood board.\n6. Tell the LLM, “Look, we just evolved the style!”\n\nThis creates a positive loop:\n\n**LLM → Prompt → MJ → Output → Mood Board → Back to LLM**\n\nAfter a few rounds, your style becomes surprisingly stable\n\n# Step 4 — Gentle Iteration (No Need to Grind)\n\nThe early results might feel rough — totally normal.\n\nBut as the loop continues:\n\n* your prompts become sharper\n* MJ understands your vibe\n* your board gains personality\n* a unique style emerges\n\nEventually, you’ll notice something special:\n\n&gt;\n\nMJ handles aesthetics.  \nLLM handles structure.  \nYou handle taste\n\n# Final Thoughts \n\nThis workflow is not about being technical. It’s about:\n\n* reducing guesswork\n* giving yourself a stable creative backbone\n* letting AI understand your taste\n* building your style slowly, naturally\n\nIt’s simple, really.  \nJust a conversation between you and your tools.\n\nNo pressure. No heavy theory.  \nJust a path that helps your visual voice grow — one prompt at a time. 🎨✨\n\n",
+    "permalink": "/r/artificial/comments/1p0l8ke/build_your_own_visual_style_with_llms_midjourney/"
+  },
+  "comments": [
+    {
+      "id": "npkp2nb",
+      "parent_id": "t3_1p0l8ke",
+      "author": "Weary_Reply",
+      "text_history": [
+        [
+          "What is art? A simple thought.\n\nFor me, art is one of the most primitive and honest forms of human expression.\nIts origin isn’t in worship, religion, or the metaphysics we place in ivory towers today.\nArt’s source is much simpler than that—it comes from our basic desire to express something, anything.\n\nArt has never been delicate at its core.\nIt’s rough, spontaneous, sometimes just a form of play after we’ve eaten and rested.\nIt is an outward movement from an inner impulse.\n\nAs Martin Heidegger suggested, art is a channel—a conduit that carries the abstract, formless things inside us into the world outside.\nIt pulls something from the “black box” of our mind, something we don’t fully understand but want to make visible.\n\nThat medium can be anything:\na colored stone, a brush, a phone camera, a string of code, or even a prompt.\n\nThere is no rule that defines what art must be,\nand there is no rule that determines which tools are allowed to produce it.\n\nArt comes from your knowledge, your memories, your chaos.\nAnd when you finally externalize it—\nthat moment of “Ah, so that’s what was hiding inside me”—\nthat moment alone is worth everything.\n\nFinally, remember this:\n\nArt is always a partial truth.\nIt is a beam of light projected from your consciousness,\nand as it passes through the world, it will refract, distort, gather noise.\nIt will never be the whole of you.\n\nBut for me, that’s more than enough.\nArt is simply the act of allowing something within you to exist, here and now, in the open.",
+          "2025-11-18T22:00:01.083397"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T22:00:01.083397"
+        ],
+        [
+          1,
+          "2025-11-18T23:54:38.018077"
+        ],
+        [
+          1,
+          "2025-11-19T01:39:58.845603"
+        ]
+      ],
+      "created_utc": 1763506024.0,
+      "depth": 0,
+      "permalink": "/r/artificial/comments/1p0l8ke/build_your_own_visual_style_with_llms_midjourney/npkp2nb/",
+      "is_submitter": true,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T01:39:58.845603",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/artificial/comments/1p0l8ke/build_your_own_visual_style_with_llms_midjourney/",
+    "total_comments": 1,
+    "top_level_comments": 1,
+    "api_requests": 1,
+    "expected_comments": 1,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 6,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_134903.json",
+      "scrape_002_20251118_140038.json",
+      "scrape_003_20251118_141214.json",
+      "scrape_004_20251118_220000.json",
+      "scrape_005_20251118_235437.json",
+      "scrape_006_20251119_013958.json"
+    ]
+  }
+}

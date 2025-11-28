@@ -1,0 +1,80 @@
+{
+  "post": {
+    "id": "1p0sxw9",
+    "title": "This repository is a good component for my portfolium?",
+    "author": "DevelopmentThick7368",
+    "score_history": [
+      [
+        1,
+        "2025-11-19T03:30:37.128346"
+      ],
+      [
+        1,
+        "2025-11-19T03:39:14.778175"
+      ],
+      [
+        1,
+        "2025-11-19T03:41:26.435839"
+      ]
+    ],
+    "created_utc": 1763512109.0,
+    "num_comments": 1,
+    "subreddit": "learnmachinelearning",
+    "url": "https://www.reddit.com/r/learnmachinelearning/comments/1p0sxw9/this_repository_is_a_good_component_for_my/",
+    "selftext": "I'm starting in Machine Learning, and I built a project where I implemented the Perceptron model (Frank Rosenblatt, 1958) from scratch using low-level programming techniques in C, such as manual memory allocation/deallocation and file manipulation.\n\n[https://github.com/EliasGabrielSA/Perceptron-implementation-in-C](https://github.com/EliasGabrielSA/Perceptron-implementation-in-C)\n\nIs this a valid project? What is the next step to truly develop a solid foundation in machine learning?",
+    "permalink": "/r/learnmachinelearning/comments/1p0sxw9/this_repository_is_a_good_component_for_my/"
+  },
+  "comments": [
+    {
+      "id": "nplf9vk",
+      "parent_id": "t3_1p0sxw9",
+      "author": "SwimQueasy3610",
+      "text_history": [
+        [
+          "Definitely valid! I just took a quick look, from a glance this looks great, and is a good foundation to build from. One natural place to go from here would be to build a multilayer perceptron.",
+          "2025-11-19T03:30:37.128346"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T03:30:37.128346"
+        ],
+        [
+          1,
+          "2025-11-19T03:39:14.778175"
+        ],
+        [
+          1,
+          "2025-11-19T03:41:26.435839"
+        ]
+      ],
+      "created_utc": 1763515243.0,
+      "depth": 0,
+      "permalink": "/r/learnmachinelearning/comments/1p0sxw9/this_repository_is_a_good_component_for_my/nplf9vk/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:41:26.435839",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/learnmachinelearning/comments/1p0sxw9/this_repository_is_a_good_component_for_my/",
+    "total_comments": 1,
+    "top_level_comments": 1,
+    "api_requests": 1,
+    "expected_comments": 1,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_033036.json",
+      "scrape_002_20251119_033914.json",
+      "scrape_003_20251119_034126.json"
+    ]
+  }
+}

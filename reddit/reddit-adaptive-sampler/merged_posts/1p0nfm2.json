@@ -1,0 +1,663 @@
+{
+  "post": {
+    "id": "1p0nfm2",
+    "title": "Want to create hyper realistic Ai clone of myself",
+    "author": "Odd_Organization8000",
+    "score_history": [
+      [
+        1,
+        "2025-11-18T12:51:30.368360"
+      ],
+      [
+        1,
+        "2025-11-18T13:03:53.554285"
+      ],
+      [
+        1,
+        "2025-11-18T13:15:48.372304"
+      ],
+      [
+        0,
+        "2025-11-18T13:46:25.566391"
+      ],
+      [
+        0,
+        "2025-11-18T13:49:06.502040"
+      ],
+      [
+        0,
+        "2025-11-18T13:49:41.773768"
+      ],
+      [
+        0,
+        "2025-11-18T13:59:23.206239"
+      ],
+      [
+        0,
+        "2025-11-18T21:29:02.740286"
+      ],
+      [
+        0,
+        "2025-11-18T23:43:38.773144"
+      ],
+      [
+        0,
+        "2025-11-19T01:18:53.582301"
+      ]
+    ],
+    "created_utc": 1763498858.0,
+    "num_comments": 11,
+    "subreddit": "AI_Agents",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1p0nfm2/want_to_create_hyper_realistic_ai_clone_of_myself/",
+    "selftext": "Hi Everyone, I'm a 18yr old and really having a struggle with hyper realistic cloning.\n\nI want to create super well edited documentary styled content for my channel and want I want to do is clone myself completely to a level that it's impossible to tell if it's Ai or real. Is this something hey gen is capable of doing at the moment or is there any other open source or paid model I should work with? (Genuinely any leads or bump would be amazing)\n\nI've seen stupidly highly realistic Ai UGC ads and want to do something similar but for content. Would be generating 200-500 minutes of content monthly and have access to a couple high end GPU's aswell.\n\nIdeally I would love to have the option to change sitting option, Movements, Clothing and everything after training it properly once. I'm thinking for voice to train it using eleven labs Studio training option but genuinely confused with what to do for the video part.\n\nIs this even possible to do?",
+    "permalink": "/r/AI_Agents/comments/1p0nfm2/want_to_create_hyper_realistic_ai_clone_of_myself/"
+  },
+  "comments": [
+    {
+      "id": "npk1qoi",
+      "parent_id": "t3_1p0nfm2",
+      "author": "AutoModerator",
+      "text_history": [
+        [
+          "Thank you for your submission, for any questions regarding AI, please check out our wiki at https://www.reddit.com/r/ai_agents/wiki (this is currently in test and we are actively adding to the wiki)\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/AI_Agents) if you have any questions or concerns.*",
+          "2025-11-18T12:51:30.368360"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T12:51:30.368360"
+        ],
+        [
+          1,
+          "2025-11-18T13:03:53.554285"
+        ],
+        [
+          1,
+          "2025-11-18T13:15:48.372304"
+        ],
+        [
+          1,
+          "2025-11-18T13:46:25.566391"
+        ],
+        [
+          1,
+          "2025-11-18T13:49:06.502040"
+        ],
+        [
+          1,
+          "2025-11-18T13:49:41.773768"
+        ],
+        [
+          1,
+          "2025-11-18T13:59:23.206239"
+        ],
+        [
+          1,
+          "2025-11-18T21:29:02.740286"
+        ],
+        [
+          1,
+          "2025-11-18T23:43:38.773144"
+        ],
+        [
+          1,
+          "2025-11-19T01:18:53.582301"
+        ]
+      ],
+      "created_utc": 1763498859.0,
+      "depth": 0,
+      "permalink": "/r/AI_Agents/comments/1p0nfm2/want_to_create_hyper_realistic_ai_clone_of_myself/npk1qoi/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npk3elx",
+      "parent_id": "t3_1p0nfm2",
+      "author": "ai-agents-qa-bot",
+      "text_history": [
+        [
+          "Creating a hyper-realistic AI clone of yourself for documentary-style content is an ambitious project, but there are tools and models that can help you achieve this. Here are some suggestions:\n\n- **DeepSeek-R1**: This open-source AI model is designed for advanced reasoning and could be a good starting point for your project. It allows for rapid prototyping and community-driven improvements, which might be beneficial for your needs. You can explore its capabilities further in the [DeepSeek-R1 whitepaper](https://tinyurl.com/4sxhkp79).\n\n- **Video Generation Models**: Look into models specifically designed for video generation and manipulation. While DeepSeek-R1 focuses on reasoning, you may need additional tools that specialize in video synthesis and editing.\n\n- **Voice Synthesis**: Using Eleven Labs for voice training is a solid choice. It allows for high-quality voice generation, which can complement your video content.\n\n- **GPU Access**: Since you have access to high-end GPUs, you can leverage them for training and running these models efficiently.\n\n- **Experimentation**: Given the complexity of your project, be prepared for a lot of experimentation. The open-source nature of many AI tools means you can tweak and improve your models as you go.\n\nWhile achieving a completely indistinguishable AI clone may be challenging, advancements in AI are rapidly evolving, and with the right tools and dedication, you can create impressive content.",
+          "2025-11-18T13:03:53.554285"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T13:03:53.554285"
+        ],
+        [
+          1,
+          "2025-11-18T13:15:48.372304"
+        ],
+        [
+          1,
+          "2025-11-18T13:46:25.566391"
+        ],
+        [
+          1,
+          "2025-11-18T13:49:06.502040"
+        ],
+        [
+          1,
+          "2025-11-18T13:49:41.773768"
+        ],
+        [
+          1,
+          "2025-11-18T13:59:23.206239"
+        ],
+        [
+          1,
+          "2025-11-18T21:29:02.740286"
+        ],
+        [
+          1,
+          "2025-11-18T23:43:38.773144"
+        ],
+        [
+          1,
+          "2025-11-19T01:18:53.582301"
+        ]
+      ],
+      "created_utc": 1763499351.0,
+      "depth": 0,
+      "permalink": "/r/AI_Agents/comments/1p0nfm2/want_to_create_hyper_realistic_ai_clone_of_myself/npk3elx/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npk4dai",
+      "parent_id": "t3_1p0nfm2",
+      "author": "Hungry_Jackfruit_338",
+      "text_history": [
+        [
+          "[elevenlabs.com](http://elevenlabs.com) is your best shot.\n\nyou can upload up to 2 hours of your isolated voice  and it makes a very good clone.\n\nfrom there use eleven labs to make a voice agent off that voice, and build your prompt.",
+          "2025-11-18T13:03:53.554285"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T13:03:53.554285"
+        ],
+        [
+          1,
+          "2025-11-18T13:15:48.372304"
+        ],
+        [
+          1,
+          "2025-11-18T13:46:25.566391"
+        ],
+        [
+          1,
+          "2025-11-18T13:49:06.502040"
+        ],
+        [
+          1,
+          "2025-11-18T13:49:41.773768"
+        ],
+        [
+          1,
+          "2025-11-18T13:59:23.206239"
+        ],
+        [
+          1,
+          "2025-11-18T21:29:02.740286"
+        ],
+        [
+          1,
+          "2025-11-18T23:43:38.773144"
+        ],
+        [
+          1,
+          "2025-11-19T01:18:53.582301"
+        ]
+      ],
+      "created_utc": 1763499637.0,
+      "depth": 0,
+      "permalink": "/r/AI_Agents/comments/1p0nfm2/want_to_create_hyper_realistic_ai_clone_of_myself/npk4dai/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npk5d9x",
+          "parent_id": "t1_npk4dai",
+          "author": "Odd_Organization8000",
+          "text_history": [
+            [
+              "Thanks man, That's what I was thinking for the voice part too. Any ideas what I should do for video?",
+              "2025-11-18T13:15:48.372304"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T13:15:48.372304"
+            ],
+            [
+              1,
+              "2025-11-18T13:46:25.566391"
+            ],
+            [
+              1,
+              "2025-11-18T13:49:06.502040"
+            ],
+            [
+              1,
+              "2025-11-18T13:49:41.773768"
+            ],
+            [
+              1,
+              "2025-11-18T13:59:23.206239"
+            ],
+            [
+              1,
+              "2025-11-18T21:29:02.740286"
+            ],
+            [
+              1,
+              "2025-11-18T23:43:38.773144"
+            ],
+            [
+              1,
+              "2025-11-19T01:18:53.582301"
+            ]
+          ],
+          "created_utc": 1763499934.0,
+          "depth": 1,
+          "permalink": "/r/AI_Agents/comments/1p0nfm2/want_to_create_hyper_realistic_ai_clone_of_myself/npk5d9x/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npk8pho",
+              "parent_id": "t1_npk5d9x",
+              "author": "Hungry_Jackfruit_338",
+              "text_history": [
+                [
+                  "for live video??? above my pay grade.",
+                  "2025-11-18T13:46:25.566391"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-18T13:46:25.566391"
+                ],
+                [
+                  1,
+                  "2025-11-18T13:49:06.502040"
+                ],
+                [
+                  1,
+                  "2025-11-18T13:49:41.773768"
+                ],
+                [
+                  1,
+                  "2025-11-18T13:59:23.206239"
+                ],
+                [
+                  1,
+                  "2025-11-18T21:29:02.740286"
+                ],
+                [
+                  1,
+                  "2025-11-18T23:43:38.773144"
+                ],
+                [
+                  1,
+                  "2025-11-19T01:18:53.582301"
+                ]
+              ],
+              "created_utc": 1763500922.0,
+              "depth": 2,
+              "permalink": "/r/AI_Agents/comments/1p0nfm2/want_to_create_hyper_realistic_ai_clone_of_myself/npk8pho/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": [
+                {
+                  "id": "npk9oia",
+                  "parent_id": "t1_npk8pho",
+                  "author": "Odd_Organization8000",
+                  "text_history": [
+                    [
+                      "No don't need live video, Just want a Model I can train on my data and then just generate footages by suppling script and elevenlabs voice over. Hey gen but better qualtiy",
+                      "2025-11-18T13:46:25.566391"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      1,
+                      "2025-11-18T13:46:25.566391"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T13:49:06.502040"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T13:49:41.773768"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T13:59:23.206239"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T21:29:02.740286"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T23:43:38.773144"
+                    ],
+                    [
+                      1,
+                      "2025-11-19T01:18:53.582301"
+                    ]
+                  ],
+                  "created_utc": 1763501208.0,
+                  "depth": 3,
+                  "permalink": "/r/AI_Agents/comments/1p0nfm2/want_to_create_hyper_realistic_ai_clone_of_myself/npk9oia/",
+                  "is_submitter": true,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": [
+                    {
+                      "id": "npka3r3",
+                      "parent_id": "t1_npk9oia",
+                      "author": "Hungry_Jackfruit_338",
+                      "text_history": [
+                        [
+                          "[https://creatify.ai/features/ai-avatar/aurora](https://creatify.ai/features/ai-avatar/aurora)",
+                          "2025-11-18T13:46:25.566391"
+                        ]
+                      ],
+                      "score_history": [
+                        [
+                          1,
+                          "2025-11-18T13:46:25.566391"
+                        ],
+                        [
+                          1,
+                          "2025-11-18T13:49:06.502040"
+                        ],
+                        [
+                          1,
+                          "2025-11-18T13:49:41.773768"
+                        ],
+                        [
+                          1,
+                          "2025-11-18T13:59:23.206239"
+                        ],
+                        [
+                          1,
+                          "2025-11-18T21:29:02.740286"
+                        ],
+                        [
+                          1,
+                          "2025-11-18T23:43:38.773144"
+                        ],
+                        [
+                          1,
+                          "2025-11-19T01:18:53.582301"
+                        ]
+                      ],
+                      "created_utc": 1763501334.0,
+                      "depth": 4,
+                      "permalink": "/r/AI_Agents/comments/1p0nfm2/want_to_create_hyper_realistic_ai_clone_of_myself/npka3r3/",
+                      "is_submitter": false,
+                      "controversiality": 0,
+                      "gilded": 0,
+                      "edited": false,
+                      "deleted": false,
+                      "deleted_at": null,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "npk9hjl",
+              "parent_id": "t1_npk5d9x",
+              "author": "Pablito___",
+              "text_history": [
+                [
+                  "Wan 2.2 animate maybe can work",
+                  "2025-11-18T13:46:25.566391"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-18T13:46:25.566391"
+                ],
+                [
+                  1,
+                  "2025-11-18T13:49:06.502040"
+                ],
+                [
+                  1,
+                  "2025-11-18T13:49:41.773768"
+                ],
+                [
+                  1,
+                  "2025-11-18T13:59:23.206239"
+                ],
+                [
+                  1,
+                  "2025-11-18T21:29:02.740286"
+                ],
+                [
+                  1,
+                  "2025-11-18T23:43:38.773144"
+                ],
+                [
+                  1,
+                  "2025-11-19T01:18:53.582301"
+                ]
+              ],
+              "created_utc": 1763501151.0,
+              "depth": 2,
+              "permalink": "/r/AI_Agents/comments/1p0nfm2/want_to_create_hyper_realistic_ai_clone_of_myself/npk9hjl/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": [
+                {
+                  "id": "npk9ro9",
+                  "parent_id": "t1_npk9hjl",
+                  "author": "Odd_Organization8000",
+                  "text_history": [
+                    [
+                      "Any idea how it treats human video? also is it better then hey gen?",
+                      "2025-11-18T13:46:25.566391"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      1,
+                      "2025-11-18T13:46:25.566391"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T13:49:06.502040"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T13:49:41.773768"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T13:59:23.206239"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T21:29:02.740286"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T23:43:38.773144"
+                    ],
+                    [
+                      1,
+                      "2025-11-19T01:18:53.582301"
+                    ]
+                  ],
+                  "created_utc": 1763501235.0,
+                  "depth": 3,
+                  "permalink": "/r/AI_Agents/comments/1p0nfm2/want_to_create_hyper_realistic_ai_clone_of_myself/npk9ro9/",
+                  "is_submitter": true,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": [
+                    {
+                      "id": "npk9zl4",
+                      "parent_id": "t1_npk9ro9",
+                      "author": "Pablito___",
+                      "text_history": [
+                        [
+                          "pretty good. In my case, Hey Gen never surprised me, but it will be less expensive for what you need",
+                          "2025-11-18T13:46:25.566391"
+                        ]
+                      ],
+                      "score_history": [
+                        [
+                          1,
+                          "2025-11-18T13:46:25.566391"
+                        ],
+                        [
+                          1,
+                          "2025-11-18T13:49:06.502040"
+                        ],
+                        [
+                          1,
+                          "2025-11-18T13:49:41.773768"
+                        ],
+                        [
+                          1,
+                          "2025-11-18T13:59:23.206239"
+                        ],
+                        [
+                          1,
+                          "2025-11-18T21:29:02.740286"
+                        ],
+                        [
+                          1,
+                          "2025-11-18T23:43:38.773144"
+                        ],
+                        [
+                          1,
+                          "2025-11-19T01:18:53.582301"
+                        ]
+                      ],
+                      "created_utc": 1763501300.0,
+                      "depth": 4,
+                      "permalink": "/r/AI_Agents/comments/1p0nfm2/want_to_create_hyper_realistic_ai_clone_of_myself/npk9zl4/",
+                      "is_submitter": false,
+                      "controversiality": 0,
+                      "gilded": 0,
+                      "edited": false,
+                      "deleted": false,
+                      "deleted_at": null,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "nplaqvy",
+      "parent_id": "t3_1p0nfm2",
+      "author": "ketosteak",
+      "text_history": [
+        [
+          "Yes, I've been doing just that with Heygen. You can shoot multiples angles / avatars and alternate. It's not fully generated as in it's trained on your video, but at least the output is predictable. You can plan gestures over the text etc, but it's getting really good.\n\nYou can generate avatars and stock video brolls (i'm using my own voice from mp3 but you have a few voice models). n8n can send to heygen directly (through browserbase). One prompt goes to create the brolls (auto assembled video stock) on one side, then another prompt makes my avatar on a green screen to add on top of the brolls. Perfect for shorts but good for longer form even\n\nAll that unlimited on the 29 usd plan, not bad! Feel free to get in touch",
+          "2025-11-18T21:29:02.740286"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T21:29:02.740286"
+        ],
+        [
+          1,
+          "2025-11-18T23:43:38.773144"
+        ],
+        [
+          1,
+          "2025-11-19T01:18:53.582301"
+        ]
+      ],
+      "created_utc": 1763513599.0,
+      "depth": 0,
+      "permalink": "/r/AI_Agents/comments/1p0nfm2/want_to_create_hyper_realistic_ai_clone_of_myself/nplaqvy/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T01:18:53.582301",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/AI_Agents/comments/1p0nfm2/want_to_create_hyper_realistic_ai_clone_of_myself/",
+    "total_comments": 11,
+    "top_level_comments": 4,
+    "api_requests": 1,
+    "expected_comments": 11,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 10,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_125130.json",
+      "scrape_002_20251118_130353.json",
+      "scrape_003_20251118_131548.json",
+      "scrape_004_20251118_134625.json",
+      "scrape_005_20251118_134906.json",
+      "scrape_006_20251118_134941.json",
+      "scrape_007_20251118_135922.json",
+      "scrape_008_20251118_212902.json",
+      "scrape_009_20251118_234338.json",
+      "scrape_010_20251119_011853.json"
+    ]
+  }
+}

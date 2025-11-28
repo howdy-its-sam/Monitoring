@@ -1,0 +1,677 @@
+{
+  "post": {
+    "id": "1ozjhab",
+    "title": "Did langchain moved from chains to agent focussed?",
+    "author": "Pristine_Rough_6371",
+    "score_history": [
+      [
+        12,
+        "2025-11-18T13:49:48.851283"
+      ],
+      [
+        13,
+        "2025-11-18T14:00:58.801224"
+      ],
+      [
+        12,
+        "2025-11-18T14:12:16.098755"
+      ],
+      [
+        12,
+        "2025-11-18T21:39:18.473269"
+      ],
+      [
+        12,
+        "2025-11-18T23:14:03.410045"
+      ],
+      [
+        13,
+        "2025-11-19T00:58:01.111319"
+      ]
+    ],
+    "created_utc": 1763393900.0,
+    "num_comments": 13,
+    "subreddit": "LangChain",
+    "url": "https://www.reddit.com/r/LangChain/comments/1ozjhab/did_langchain_moved_from_chains_to_agent_focussed/",
+    "selftext": "Hey everyone, I’ve been learning GenAI and using LangChain for simple workflows and LangGraph for agentic ones. But I’m struggling to find proper LangChain documentation — most of what I get is from the chatbot on their website, not actual docs.\n\nAlso, did LangChain stop focusing on traditional “chains”? It looks like many prebuilt chains were moved to langchain_classic, and the current docs mainly show how to build agents with the new middleware.\n\nAm I the only one seeing this? How do you all find the proper docs, and what’s the current direction of LangChain?",
+    "permalink": "/r/LangChain/comments/1ozjhab/did_langchain_moved_from_chains_to_agent_focussed/"
+  },
+  "comments": [
+    {
+      "id": "npcsk41",
+      "parent_id": "t3_1ozjhab",
+      "author": "sydneyrunkle",
+      "text_history": [
+        [
+          "Yep, we've doubled down on the core agent loop (a model, calling tools)\n\nYou can see our new, consolidated docs here: [https://docs.langchain.com/oss/python/langchain/overview](https://docs.langchain.com/oss/python/langchain/overview)",
+          "2025-11-18T13:49:48.851283"
+        ]
+      ],
+      "score_history": [
+        [
+          7,
+          "2025-11-18T13:49:48.851283"
+        ],
+        [
+          5,
+          "2025-11-18T14:00:58.801224"
+        ],
+        [
+          5,
+          "2025-11-18T14:12:16.098755"
+        ],
+        [
+          6,
+          "2025-11-18T21:39:18.473269"
+        ],
+        [
+          6,
+          "2025-11-18T23:14:03.410045"
+        ],
+        [
+          5,
+          "2025-11-19T00:58:01.111319"
+        ]
+      ],
+      "created_utc": 1763403065.0,
+      "depth": 0,
+      "permalink": "/r/LangChain/comments/1ozjhab/did_langchain_moved_from_chains_to_agent_focussed/npcsk41/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npcufu5",
+          "parent_id": "t1_npcsk41",
+          "author": "Pristine_Rough_6371",
+          "text_history": [
+            [
+              "But what if i want to see the documentation related to some chains like map_reduce chain , its syntax or the import statement , i have ask the chatbot everytime , am i doing something wrong here, can't find the docs",
+              "2025-11-18T13:49:48.851283"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T13:49:48.851283"
+            ],
+            [
+              1,
+              "2025-11-18T14:00:58.801224"
+            ],
+            [
+              1,
+              "2025-11-18T14:12:16.098755"
+            ],
+            [
+              2,
+              "2025-11-18T21:39:18.473269"
+            ],
+            [
+              2,
+              "2025-11-18T23:14:03.410045"
+            ],
+            [
+              2,
+              "2025-11-19T00:58:01.111319"
+            ]
+          ],
+          "created_utc": 1763403599.0,
+          "depth": 1,
+          "permalink": "/r/LangChain/comments/1ozjhab/did_langchain_moved_from_chains_to_agent_focussed/npcufu5/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npcj9fn",
+      "parent_id": "t3_1ozjhab",
+      "author": "johndoerayme1",
+      "text_history": [
+        [
+          "Focus is on agentic flows. Might want to lean in on that.  \n[https://docs.langchain.com/oss/python/releases/langchain-v1](https://docs.langchain.com/oss/python/releases/langchain-v1)",
+          "2025-11-18T13:49:48.851283"
+        ]
+      ],
+      "score_history": [
+        [
+          4,
+          "2025-11-18T13:49:48.851283"
+        ],
+        [
+          3,
+          "2025-11-18T14:00:58.801224"
+        ],
+        [
+          3,
+          "2025-11-18T14:12:16.098755"
+        ],
+        [
+          5,
+          "2025-11-18T21:39:18.473269"
+        ],
+        [
+          4,
+          "2025-11-18T23:14:03.410045"
+        ],
+        [
+          4,
+          "2025-11-19T00:58:01.111319"
+        ]
+      ],
+      "created_utc": 1763400356.0,
+      "depth": 0,
+      "permalink": "/r/LangChain/comments/1ozjhab/did_langchain_moved_from_chains_to_agent_focussed/npcj9fn/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npcm8ra",
+          "parent_id": "t1_npcj9fn",
+          "author": "Pristine_Rough_6371",
+          "text_history": [
+            [
+              "But if langchain is also focussing on agentic flows. Then wouldn't the langchain and langgraph be the same",
+              "2025-11-18T13:49:48.851283"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T13:49:48.851283"
+            ],
+            [
+              1,
+              "2025-11-18T14:00:58.801224"
+            ],
+            [
+              1,
+              "2025-11-18T14:12:16.098755"
+            ],
+            [
+              1,
+              "2025-11-18T21:39:18.473269"
+            ],
+            [
+              1,
+              "2025-11-18T23:14:03.410045"
+            ],
+            [
+              1,
+              "2025-11-19T00:58:01.111319"
+            ]
+          ],
+          "created_utc": 1763401248.0,
+          "depth": 1,
+          "permalink": "/r/LangChain/comments/1ozjhab/did_langchain_moved_from_chains_to_agent_focussed/npcm8ra/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npcq95m",
+              "parent_id": "t1_npcm8ra",
+              "author": "johndoerayme1",
+              "text_history": [
+                [
+                  "Different approaches. If you want a deterministic workflow you can get that with langgraph now. \n\nRead this:  \n[https://docs.langchain.com/oss/python/langchain/overview](https://docs.langchain.com/oss/python/langchain/overview)",
+                  "2025-11-18T13:49:48.851283"
+                ]
+              ],
+              "score_history": [
+                [
+                  2,
+                  "2025-11-18T13:49:48.851283"
+                ],
+                [
+                  2,
+                  "2025-11-18T14:00:58.801224"
+                ],
+                [
+                  2,
+                  "2025-11-18T14:12:16.098755"
+                ],
+                [
+                  2,
+                  "2025-11-18T21:39:18.473269"
+                ],
+                [
+                  2,
+                  "2025-11-18T23:14:03.410045"
+                ],
+                [
+                  2,
+                  "2025-11-19T00:58:01.111319"
+                ]
+              ],
+              "created_utc": 1763402405.0,
+              "depth": 2,
+              "permalink": "/r/LangChain/comments/1ozjhab/did_langchain_moved_from_chains_to_agent_focussed/npcq95m/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "npbzeh8",
+      "parent_id": "t3_1ozjhab",
+      "author": "tocci8",
+      "text_history": [
+        [
+          "I've started to move away from Lang Graph after the last update.",
+          "2025-11-18T13:49:48.851283"
+        ]
+      ],
+      "score_history": [
+        [
+          0,
+          "2025-11-18T13:49:48.851283"
+        ],
+        [
+          -1,
+          "2025-11-18T14:00:58.801224"
+        ],
+        [
+          -1,
+          "2025-11-18T14:12:16.098755"
+        ],
+        [
+          0,
+          "2025-11-18T21:39:18.473269"
+        ],
+        [
+          0,
+          "2025-11-18T23:14:03.410045"
+        ],
+        [
+          1,
+          "2025-11-19T00:58:01.111319"
+        ]
+      ],
+      "created_utc": 1763394493.0,
+      "depth": 0,
+      "permalink": "/r/LangChain/comments/1ozjhab/did_langchain_moved_from_chains_to_agent_focussed/npbzeh8/",
+      "is_submitter": false,
+      "controversiality": 1,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npc1xtl",
+          "parent_id": "t1_npbzeh8",
+          "author": "Pristine_Rough_6371",
+          "text_history": [
+            [
+              "And where did you reached..? AutoGen, CrewAi?\nBut what's with langchain docs",
+              "2025-11-18T13:49:48.851283"
+            ]
+          ],
+          "score_history": [
+            [
+              2,
+              "2025-11-18T13:49:48.851283"
+            ],
+            [
+              2,
+              "2025-11-18T14:00:58.801224"
+            ],
+            [
+              2,
+              "2025-11-18T14:12:16.098755"
+            ],
+            [
+              2,
+              "2025-11-18T21:39:18.473269"
+            ],
+            [
+              2,
+              "2025-11-18T23:14:03.410045"
+            ],
+            [
+              2,
+              "2025-11-19T00:58:01.111319"
+            ]
+          ],
+          "created_utc": 1763395246.0,
+          "depth": 1,
+          "permalink": "/r/LangChain/comments/1ozjhab/did_langchain_moved_from_chains_to_agent_focussed/npc1xtl/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npc4yzl",
+              "parent_id": "t1_npc1xtl",
+              "author": "tocci8",
+              "text_history": [
+                [
+                  "Agno",
+                  "2025-11-18T13:49:48.851283"
+                ]
+              ],
+              "score_history": [
+                [
+                  0,
+                  "2025-11-18T13:49:48.851283"
+                ],
+                [
+                  0,
+                  "2025-11-18T14:00:58.801224"
+                ],
+                [
+                  0,
+                  "2025-11-18T14:12:16.098755"
+                ],
+                [
+                  0,
+                  "2025-11-18T21:39:18.473269"
+                ],
+                [
+                  0,
+                  "2025-11-18T23:14:03.410045"
+                ],
+                [
+                  0,
+                  "2025-11-19T00:58:01.111319"
+                ]
+              ],
+              "created_utc": 1763396145.0,
+              "depth": 2,
+              "permalink": "/r/LangChain/comments/1ozjhab/did_langchain_moved_from_chains_to_agent_focussed/npc4yzl/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            },
+            {
+              "id": "nped01c",
+              "parent_id": "t1_npc1xtl",
+              "author": "_eltigre_",
+              "text_history": [
+                [
+                  "Try Mastra!",
+                  "2025-11-18T13:49:48.851283"
+                ]
+              ],
+              "score_history": [
+                [
+                  0,
+                  "2025-11-18T13:49:48.851283"
+                ],
+                [
+                  0,
+                  "2025-11-18T14:00:58.801224"
+                ],
+                [
+                  0,
+                  "2025-11-18T14:12:16.098755"
+                ],
+                [
+                  0,
+                  "2025-11-18T21:39:18.473269"
+                ],
+                [
+                  0,
+                  "2025-11-18T23:14:03.410045"
+                ],
+                [
+                  0,
+                  "2025-11-19T00:58:01.111319"
+                ]
+              ],
+              "created_utc": 1763420170.0,
+              "depth": 2,
+              "permalink": "/r/LangChain/comments/1ozjhab/did_langchain_moved_from_chains_to_agent_focussed/nped01c/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "npc9557",
+          "parent_id": "t1_npbzeh8",
+          "author": "mdrxy",
+          "text_history": [
+            [
+              "what about it?",
+              "2025-11-18T13:49:48.851283"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T13:49:48.851283"
+            ],
+            [
+              1,
+              "2025-11-18T14:00:58.801224"
+            ],
+            [
+              1,
+              "2025-11-18T14:12:16.098755"
+            ],
+            [
+              1,
+              "2025-11-18T21:39:18.473269"
+            ],
+            [
+              1,
+              "2025-11-18T23:14:03.410045"
+            ],
+            [
+              1,
+              "2025-11-19T00:58:01.111319"
+            ]
+          ],
+          "created_utc": 1763397372.0,
+          "depth": 1,
+          "permalink": "/r/LangChain/comments/1ozjhab/did_langchain_moved_from_chains_to_agent_focussed/npc9557/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npceigv",
+              "parent_id": "t1_npc9557",
+              "author": "Pristine_Rough_6371",
+              "text_history": [
+                [
+                  "I meant what was he using instead of langgraph....but i guess he understood this",
+                  "2025-11-18T13:49:48.851283"
+                ]
+              ],
+              "score_history": [
+                [
+                  3,
+                  "2025-11-18T13:49:48.851283"
+                ],
+                [
+                  3,
+                  "2025-11-18T14:00:58.801224"
+                ],
+                [
+                  3,
+                  "2025-11-18T14:12:16.098755"
+                ],
+                [
+                  3,
+                  "2025-11-18T21:39:18.473269"
+                ],
+                [
+                  3,
+                  "2025-11-18T23:14:03.410045"
+                ],
+                [
+                  3,
+                  "2025-11-19T00:58:01.111319"
+                ]
+              ],
+              "created_utc": 1763398946.0,
+              "depth": 2,
+              "permalink": "/r/LangChain/comments/1ozjhab/did_langchain_moved_from_chains_to_agent_focussed/npceigv/",
+              "is_submitter": true,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "npcxz10",
+          "parent_id": "t1_npbzeh8",
+          "author": "Safe-Adhesiveness594",
+          "text_history": [
+            [
+              "Did you try pydantic-ai?",
+              "2025-11-18T13:49:48.851283"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T13:49:48.851283"
+            ],
+            [
+              1,
+              "2025-11-18T14:00:58.801224"
+            ],
+            [
+              1,
+              "2025-11-18T14:12:16.098755"
+            ],
+            [
+              1,
+              "2025-11-18T21:39:18.473269"
+            ],
+            [
+              1,
+              "2025-11-18T23:14:03.410045"
+            ],
+            [
+              1,
+              "2025-11-19T00:58:01.111319"
+            ]
+          ],
+          "created_utc": 1763404614.0,
+          "depth": 1,
+          "permalink": "/r/LangChain/comments/1ozjhab/did_langchain_moved_from_chains_to_agent_focussed/npcxz10/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npd9xk3",
+      "parent_id": "t3_1ozjhab",
+      "author": "ComprehensiveLaw8654",
+      "text_history": [
+        [
+          "I heard that Tavily put out a 30% HOLIDAY30 code",
+          "2025-11-18T13:49:48.851283"
+        ]
+      ],
+      "score_history": [
+        [
+          0,
+          "2025-11-18T13:49:48.851283"
+        ],
+        [
+          0,
+          "2025-11-18T14:00:58.801224"
+        ],
+        [
+          0,
+          "2025-11-18T14:12:16.098755"
+        ],
+        [
+          0,
+          "2025-11-18T21:39:18.473269"
+        ],
+        [
+          0,
+          "2025-11-18T23:14:03.410045"
+        ],
+        [
+          0,
+          "2025-11-19T00:58:01.111319"
+        ]
+      ],
+      "created_utc": 1763408150.0,
+      "depth": 0,
+      "permalink": "/r/LangChain/comments/1ozjhab/did_langchain_moved_from_chains_to_agent_focussed/npd9xk3/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T00:58:01.111319",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/LangChain/comments/1ozjhab/did_langchain_moved_from_chains_to_agent_focussed/",
+    "total_comments": 13,
+    "top_level_comments": 4,
+    "api_requests": 1,
+    "expected_comments": 13,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 6,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_134948.json",
+      "scrape_002_20251118_140058.json",
+      "scrape_003_20251118_141215.json",
+      "scrape_004_20251118_213918.json",
+      "scrape_005_20251118_231403.json",
+      "scrape_006_20251119_005800.json"
+    ]
+  }
+}

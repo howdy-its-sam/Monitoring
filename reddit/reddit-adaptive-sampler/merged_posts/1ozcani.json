@@ -1,0 +1,391 @@
+{
+  "post": {
+    "id": "1ozcani",
+    "title": "Quick question for AI devs - what's your biggest setup frustration?",
+    "author": "Alive-Practice-5448",
+    "score_history": [
+      [
+        3,
+        "2025-11-18T15:15:05.940603"
+      ],
+      [
+        2,
+        "2025-11-18T23:02:13.068433"
+      ],
+      [
+        3,
+        "2025-11-19T00:47:46.236057"
+      ],
+      [
+        3,
+        "2025-11-19T02:32:49.209492"
+      ]
+    ],
+    "created_utc": 1763373249.0,
+    "num_comments": 9,
+    "subreddit": "LangChain",
+    "url": "https://www.reddit.com/r/LangChain/comments/1ozcani/quick_question_for_ai_devs_whats_your_biggest/",
+    "selftext": "Hey everyone, I'm working on Day 5 of building AI tools and keep running into dependency hell with LangChain/LlamaIndex/OpenAI packages. Spent 3 hours yesterday just getting packages to install. Before I build something to fix this, genuine question: Is this YOUR biggest pain point too, or is it something else entirely? What eats most of your time when starting new AI projects? - Dependency conflicts - Finding the right prompts - Rate limits - Something else? Not selling anything, just trying to validate if I should build a solution or focus on my other project. Thanks!",
+    "permalink": "/r/LangChain/comments/1ozcani/quick_question_for_ai_devs_whats_your_biggest/"
+  },
+  "comments": [
+    {
+      "id": "npapqhf",
+      "parent_id": "t3_1ozcani",
+      "author": "TXT2",
+      "text_history": [
+        [
+          "I do uv add ... and everything works. The only thing I hate is compiling torch, flash-attn and other cuda related stuff because I don't have access to precompiled indexes.",
+          "2025-11-18T15:15:05.940603"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-18T15:15:05.940603"
+        ],
+        [
+          2,
+          "2025-11-18T23:02:13.068433"
+        ],
+        [
+          2,
+          "2025-11-19T00:47:46.236057"
+        ],
+        [
+          2,
+          "2025-11-19T02:32:49.209492"
+        ]
+      ],
+      "created_utc": 1763376511.0,
+      "depth": 0,
+      "permalink": "/r/LangChain/comments/1ozcani/quick_question_for_ai_devs_whats_your_biggest/npapqhf/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npm13yt",
+          "parent_id": "t1_npapqhf",
+          "author": "Polysulfide-75",
+          "text_history": [
+            [
+              "I run into that with some of my arm systems too.  I’m new to uv but when I try to use it, it always breaks on things that need to be built or use a local wheel.",
+              "2025-11-18T23:02:13.068433"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T23:02:13.068433"
+            ],
+            [
+              1,
+              "2025-11-19T00:47:46.236057"
+            ],
+            [
+              1,
+              "2025-11-19T02:32:49.209492"
+            ]
+          ],
+          "created_utc": 1763523164.0,
+          "depth": 1,
+          "permalink": "/r/LangChain/comments/1ozcani/quick_question_for_ai_devs_whats_your_biggest/npm13yt/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npbpuv5",
+      "parent_id": "t3_1ozcani",
+      "author": "Neither-Love6541",
+      "text_history": [
+        [
+          "Dependency issues are the worst especially when fine tuning LLMs, so many interconnected dependencies and every few months they always break with newer versions. \n\nEspecially with transformers, flash attention, xformers, trl, peft etc.. and them being tied to different CUDA and pytorch versions also. \n\nMakes you break your head but is usually fixable.",
+          "2025-11-18T15:15:05.940603"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T15:15:05.940603"
+        ],
+        [
+          2,
+          "2025-11-18T23:02:13.068433"
+        ],
+        [
+          2,
+          "2025-11-19T00:47:46.236057"
+        ],
+        [
+          2,
+          "2025-11-19T02:32:49.209492"
+        ]
+      ],
+      "created_utc": 1763391554.0,
+      "depth": 0,
+      "permalink": "/r/LangChain/comments/1ozcani/quick_question_for_ai_devs_whats_your_biggest/npbpuv5/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npm16f0",
+          "parent_id": "t1_npbpuv5",
+          "author": "Polysulfide-75",
+          "text_history": [
+            [
+              "Word",
+              "2025-11-18T23:02:13.068433"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T23:02:13.068433"
+            ],
+            [
+              1,
+              "2025-11-19T00:47:46.236057"
+            ],
+            [
+              1,
+              "2025-11-19T02:32:49.209492"
+            ]
+          ],
+          "created_utc": 1763523191.0,
+          "depth": 1,
+          "permalink": "/r/LangChain/comments/1ozcani/quick_question_for_ai_devs_whats_your_biggest/npm16f0/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npaqmnl",
+      "parent_id": "t3_1ozcani",
+      "author": "stingraycharles",
+      "text_history": [
+        [
+          "Writing the actual damned code and debugging usually takes the most time, as with all projects.",
+          "2025-11-18T15:15:05.940603"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T15:15:05.940603"
+        ],
+        [
+          1,
+          "2025-11-18T23:02:13.068433"
+        ],
+        [
+          1,
+          "2025-11-19T00:47:46.236057"
+        ],
+        [
+          1,
+          "2025-11-19T02:32:49.209492"
+        ]
+      ],
+      "created_utc": 1763377028.0,
+      "depth": 0,
+      "permalink": "/r/LangChain/comments/1ozcani/quick_question_for_ai_devs_whats_your_biggest/npaqmnl/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npb5pae",
+      "parent_id": "t3_1ozcani",
+      "author": "Ok-Reflection-4049",
+      "text_history": [
+        [
+          "Dependency issue is legit but i am skeptical about is this the most important one. The main issue is how to make a agent from a personal project phase to a production level phase. \n\nYou can checkout [RunAgent](https://github.com/runagent-dev/runagent) this",
+          "2025-11-18T15:15:05.940603"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T15:15:05.940603"
+        ],
+        [
+          1,
+          "2025-11-18T23:02:13.068433"
+        ],
+        [
+          1,
+          "2025-11-19T00:47:46.236057"
+        ],
+        [
+          1,
+          "2025-11-19T02:32:49.209492"
+        ]
+      ],
+      "created_utc": 1763384435.0,
+      "depth": 0,
+      "permalink": "/r/LangChain/comments/1ozcani/quick_question_for_ai_devs_whats_your_biggest/npb5pae/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npdewn7",
+      "parent_id": "t3_1ozcani",
+      "author": "tifa_cloud0",
+      "text_history": [
+        [
+          "everything is pretty straightforward. docs and material out there is solid and good thing is there are many ways to get to the result that devs want to. choosing the best path depends on project needs. \n\njust make sure as you learn, keep a bookmark of important links like github repo, or some websites or subreddits that have important information. those are what must have to be honest fr.",
+          "2025-11-18T15:15:05.940603"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T15:15:05.940603"
+        ],
+        [
+          1,
+          "2025-11-18T23:02:13.068433"
+        ],
+        [
+          1,
+          "2025-11-19T00:47:46.236057"
+        ],
+        [
+          1,
+          "2025-11-19T02:32:49.209492"
+        ]
+      ],
+      "created_utc": 1763409637.0,
+      "depth": 0,
+      "permalink": "/r/LangChain/comments/1ozcani/quick_question_for_ai_devs_whats_your_biggest/npdewn7/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npm0w5r",
+      "parent_id": "t3_1ozcani",
+      "author": "Polysulfide-75",
+      "text_history": [
+        [
+          "Using llamaindex I usually end up with unresolvable dependencies.  Like to install everything I need for my project I need to downgrade all the way to Python 3.7 and then something else breaks.\n\nWith langchain the deps change constantly but they’re resolvable.  Also the namespace changes constantly so your includes are deprecated the day after you write but that’s easy to fix.\n\nLangchain also changes how they do things constantly and there’s no way to know you’re banging your head against a library that was replaced two versions back and just has t officially deprecated yet.\n\nIt’s just life.   I mostly roll my own these days.",
+          "2025-11-18T23:02:13.068433"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T23:02:13.068433"
+        ],
+        [
+          1,
+          "2025-11-19T00:47:46.236057"
+        ],
+        [
+          1,
+          "2025-11-19T02:32:49.209492"
+        ]
+      ],
+      "created_utc": 1763523078.0,
+      "depth": 0,
+      "permalink": "/r/LangChain/comments/1ozcani/quick_question_for_ai_devs_whats_your_biggest/npm0w5r/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npanc5k",
+      "parent_id": "t3_1ozcani",
+      "author": "Hot_Substance_9432",
+      "text_history": [
+        [
+          "which package manager are you using?",
+          "2025-11-18T15:15:05.940603"
+        ]
+      ],
+      "score_history": [
+        [
+          0,
+          "2025-11-18T15:15:05.940603"
+        ],
+        [
+          0,
+          "2025-11-18T23:02:13.068433"
+        ],
+        [
+          0,
+          "2025-11-19T00:47:46.236057"
+        ],
+        [
+          0,
+          "2025-11-19T02:32:49.209492"
+        ]
+      ],
+      "created_utc": 1763375060.0,
+      "depth": 0,
+      "permalink": "/r/LangChain/comments/1ozcani/quick_question_for_ai_devs_whats_your_biggest/npanc5k/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T02:32:49.209492",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/LangChain/comments/1ozcani/quick_question_for_ai_devs_whats_your_biggest/",
+    "total_comments": 9,
+    "top_level_comments": 7,
+    "api_requests": 1,
+    "expected_comments": 9,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 4,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_151505.json",
+      "scrape_002_20251118_230212.json",
+      "scrape_003_20251119_004746.json",
+      "scrape_004_20251119_023248.json"
+    ]
+  }
+}

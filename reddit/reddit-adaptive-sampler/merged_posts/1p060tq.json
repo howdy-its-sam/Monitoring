@@ -1,0 +1,730 @@
+{
+  "post": {
+    "id": "1p060tq",
+    "title": "Which tool should be the best (code / no code anything works) to make complex workflow? It should be scalable",
+    "author": "hardii__",
+    "score_history": [
+      [
+        3,
+        "2025-11-18T12:51:36.437587"
+      ],
+      [
+        3,
+        "2025-11-18T13:03:58.381379"
+      ],
+      [
+        3,
+        "2025-11-18T13:15:50.643473"
+      ],
+      [
+        3,
+        "2025-11-18T13:48:33.673814"
+      ],
+      [
+        3,
+        "2025-11-18T14:00:04.550018"
+      ],
+      [
+        3,
+        "2025-11-18T14:11:19.988009"
+      ],
+      [
+        3,
+        "2025-11-18T21:39:23.650359"
+      ],
+      [
+        3,
+        "2025-11-18T23:54:46.322998"
+      ],
+      [
+        3,
+        "2025-11-19T01:40:00.983535"
+      ]
+    ],
+    "created_utc": 1763452120.0,
+    "num_comments": 13,
+    "subreddit": "AI_Agents",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1p060tq/which_tool_should_be_the_best_code_no_code/",
+    "selftext": "Hi, i am looking for a scalable solution. Paid should also work, but something whete i can build complex workflows. Ik langgraph n8n but they are not much scalable. Tell me if any. Developer and coding systems also work",
+    "permalink": "/r/AI_Agents/comments/1p060tq/which_tool_should_be_the_best_code_no_code/"
+  },
+  "comments": [
+    {
+      "id": "npgj1k1",
+      "parent_id": "t3_1p060tq",
+      "author": "AutoModerator",
+      "text_history": [
+        [
+          "Thank you for your submission, for any questions regarding AI, please check out our wiki at https://www.reddit.com/r/ai_agents/wiki (this is currently in test and we are actively adding to the wiki)\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/AI_Agents) if you have any questions or concerns.*",
+          "2025-11-18T12:51:36.437587"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T12:51:36.437587"
+        ],
+        [
+          1,
+          "2025-11-18T13:03:58.381379"
+        ],
+        [
+          1,
+          "2025-11-18T13:15:50.643473"
+        ],
+        [
+          1,
+          "2025-11-18T13:48:33.673814"
+        ],
+        [
+          1,
+          "2025-11-18T14:00:04.550018"
+        ],
+        [
+          1,
+          "2025-11-18T14:11:19.988009"
+        ],
+        [
+          1,
+          "2025-11-18T21:39:23.650359"
+        ],
+        [
+          1,
+          "2025-11-18T23:54:46.322998"
+        ],
+        [
+          1,
+          "2025-11-19T01:40:00.983535"
+        ]
+      ],
+      "created_utc": 1763452120.0,
+      "depth": 0,
+      "permalink": "/r/AI_Agents/comments/1p060tq/which_tool_should_be_the_best_code_no_code/npgj1k1/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npgjq4d",
+      "parent_id": "t3_1p060tq",
+      "author": "ai-agents-qa-bot",
+      "text_history": [
+        [
+          "For building complex and scalable workflows, you might consider the following tools:\n\n- **AutoGen**: This framework allows for the creation of agents that can handle complex tasks through iterative workflows. It integrates well with OpenAI's models and provides a structured way to manage tasks and feedback, making it suitable for scalable applications. More details can be found in the [How to Build An AI Agent](https://tinyurl.com/4z9ehwyy) document.\n\n- **LangGraph**: While you mentioned it may not be very scalable, it does offer a robust framework for creating multi-node workflows. It allows for the orchestration of various tasks and can be customized to fit complex requirements. You can learn more about it in the [Mastering Agents](https://tinyurl.com/3ppvudxd) document.\n\n- **smolagents**: This framework is designed for both simple and complex workflows, providing pre-built agents and tools for web searches and other tasks. It allows for flexible architecture and can scale as needed. More information is available in the [How to Build An AI Agent](https://tinyurl.com/4z9ehwyy) document.\n\n- **Zapier**: While primarily a no-code tool, Zapier can handle complex workflows by connecting various apps and automating tasks. It’s user-friendly and can scale with your needs.\n\n- **Apache Airflow**: If you're comfortable with coding, this open-source tool is excellent for managing complex workflows and data pipelines. It allows for scheduling and monitoring of workflows, making it highly scalable.\n\nThese options should provide a good starting point for creating scalable and complex workflows.",
+          "2025-11-18T12:51:36.437587"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T12:51:36.437587"
+        ],
+        [
+          1,
+          "2025-11-18T13:03:58.381379"
+        ],
+        [
+          1,
+          "2025-11-18T13:15:50.643473"
+        ],
+        [
+          1,
+          "2025-11-18T13:48:33.673814"
+        ],
+        [
+          1,
+          "2025-11-18T14:00:04.550018"
+        ],
+        [
+          1,
+          "2025-11-18T14:11:19.988009"
+        ],
+        [
+          1,
+          "2025-11-18T21:39:23.650359"
+        ],
+        [
+          1,
+          "2025-11-18T23:54:46.322998"
+        ],
+        [
+          1,
+          "2025-11-19T01:40:00.983535"
+        ]
+      ],
+      "created_utc": 1763452530.0,
+      "depth": 0,
+      "permalink": "/r/AI_Agents/comments/1p060tq/which_tool_should_be_the_best_code_no_code/npgjq4d/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npjnhvi",
+          "parent_id": "t1_npgjq4d",
+          "author": "smarkman19",
+          "text_history": [
+            [
+              "For real scalability with complex flows, pair a workflow engine (Temporal, Dagster, or Argo) with agent orchestration (LangGraph) and expose every tool as a narrow API.\n\nAirflow is great for batch, but long-running, high-retry agent tasks are smoother on Temporal/Dagster. Zapier is fine for glue, not for heavy concurrency. Put a queue (SQS or Redis) between the planner and tools, add idempotency keys, per-tool timeouts, and circuit breakers to prevent cascades. Keep a checkpointer and state in Postgres so runs can resume; use Redis for short-lived memory. Add tracing early (Langfuse or OpenTelemetry) and log tool inputs/outputs so you can debug multi-hop chains. \n\nFor data access, never let agents touch raw DBs; give them read-only, allowlisted endpoints. I’ve run this with Temporal and Prefect, and DreamFactory auto-generated secure REST APIs over Postgres and Snowflake so agents hit stable, auditable endpoints. Benchmark p50/p95, failure rates at 100+ concurrency, and cost per run before committing.",
+              "2025-11-18T12:51:36.437587"
+            ]
+          ],
+          "score_history": [
+            [
+              2,
+              "2025-11-18T12:51:36.437587"
+            ],
+            [
+              2,
+              "2025-11-18T13:03:58.381379"
+            ],
+            [
+              2,
+              "2025-11-18T13:15:50.643473"
+            ],
+            [
+              3,
+              "2025-11-18T13:48:33.673814"
+            ],
+            [
+              3,
+              "2025-11-18T14:00:04.550018"
+            ],
+            [
+              3,
+              "2025-11-18T14:11:19.988009"
+            ],
+            [
+              3,
+              "2025-11-18T21:39:23.650359"
+            ],
+            [
+              3,
+              "2025-11-18T23:54:46.322998"
+            ],
+            [
+              3,
+              "2025-11-19T01:40:00.983535"
+            ]
+          ],
+          "created_utc": 1763494546.0,
+          "depth": 1,
+          "permalink": "/r/AI_Agents/comments/1p060tq/which_tool_should_be_the_best_code_no_code/npjnhvi/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npjqgz6",
+              "parent_id": "t1_npjnhvi",
+              "author": "Ancient-Smell-4227",
+              "text_history": [
+                [
+                  "If you have a blog or Medium series, please let me know, Would love to see this flow!",
+                  "2025-11-18T12:51:36.437587"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-18T12:51:36.437587"
+                ],
+                [
+                  1,
+                  "2025-11-18T13:03:58.381379"
+                ],
+                [
+                  1,
+                  "2025-11-18T13:15:50.643473"
+                ],
+                [
+                  1,
+                  "2025-11-18T13:48:33.673814"
+                ],
+                [
+                  1,
+                  "2025-11-18T14:00:04.550018"
+                ],
+                [
+                  1,
+                  "2025-11-18T14:11:19.988009"
+                ],
+                [
+                  1,
+                  "2025-11-18T21:39:23.650359"
+                ],
+                [
+                  1,
+                  "2025-11-18T23:54:46.322998"
+                ],
+                [
+                  1,
+                  "2025-11-19T01:40:00.983535"
+                ]
+              ],
+              "created_utc": 1763495439.0,
+              "depth": 2,
+              "permalink": "/r/AI_Agents/comments/1p060tq/which_tool_should_be_the_best_code_no_code/npjqgz6/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "npgkyz1",
+      "parent_id": "t3_1p060tq",
+      "author": "alinarice",
+      "text_history": [
+        [
+          "Temporal is excellent: code-native, resilient, and scalable distributed workflow orchestration.",
+          "2025-11-18T12:51:36.437587"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T12:51:36.437587"
+        ],
+        [
+          1,
+          "2025-11-18T13:03:58.381379"
+        ],
+        [
+          1,
+          "2025-11-18T13:15:50.643473"
+        ],
+        [
+          1,
+          "2025-11-18T13:48:33.673814"
+        ],
+        [
+          1,
+          "2025-11-18T14:00:04.550018"
+        ],
+        [
+          1,
+          "2025-11-18T14:11:19.988009"
+        ],
+        [
+          1,
+          "2025-11-18T21:39:23.650359"
+        ],
+        [
+          1,
+          "2025-11-18T23:54:46.322998"
+        ],
+        [
+          1,
+          "2025-11-19T01:40:00.983535"
+        ]
+      ],
+      "created_utc": 1763453297.0,
+      "depth": 0,
+      "permalink": "/r/AI_Agents/comments/1p060tq/which_tool_should_be_the_best_code_no_code/npgkyz1/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npglpn2",
+          "parent_id": "t1_npgkyz1",
+          "author": "hardii__",
+          "text_history": [
+            [
+              "I was thinking claude + langgraph+ n8n and openai. Works? Can u tell most scalable workflow",
+              "2025-11-18T12:51:36.437587"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T12:51:36.437587"
+            ],
+            [
+              1,
+              "2025-11-18T13:03:58.381379"
+            ],
+            [
+              1,
+              "2025-11-18T13:15:50.643473"
+            ],
+            [
+              1,
+              "2025-11-18T13:48:33.673814"
+            ],
+            [
+              1,
+              "2025-11-18T14:00:04.550018"
+            ],
+            [
+              1,
+              "2025-11-18T14:11:19.988009"
+            ],
+            [
+              1,
+              "2025-11-18T21:39:23.650359"
+            ],
+            [
+              1,
+              "2025-11-18T23:54:46.322998"
+            ],
+            [
+              1,
+              "2025-11-19T01:40:00.983535"
+            ]
+          ],
+          "created_utc": 1763453752.0,
+          "depth": 1,
+          "permalink": "/r/AI_Agents/comments/1p060tq/which_tool_should_be_the_best_code_no_code/npglpn2/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npgmbs2",
+              "parent_id": "t1_npglpn2",
+              "author": "Kritiokun",
+              "text_history": [
+                [
+                  "Combining Claude with Langgraph and n8n could work for certain workflows, but scalability might be a concern depending on the complexity. You might want to look into using something like AWS Step Functions or even Temporal for more complex and scalable orchestration. They'll give you better control over the workflow as you scale up.",
+                  "2025-11-18T12:51:36.437587"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-18T12:51:36.437587"
+                ],
+                [
+                  1,
+                  "2025-11-18T13:03:58.381379"
+                ],
+                [
+                  1,
+                  "2025-11-18T13:15:50.643473"
+                ],
+                [
+                  1,
+                  "2025-11-18T13:48:33.673814"
+                ],
+                [
+                  1,
+                  "2025-11-18T14:00:04.550018"
+                ],
+                [
+                  1,
+                  "2025-11-18T14:11:19.988009"
+                ],
+                [
+                  1,
+                  "2025-11-18T21:39:23.650359"
+                ],
+                [
+                  1,
+                  "2025-11-18T23:54:46.322998"
+                ],
+                [
+                  1,
+                  "2025-11-19T01:40:00.983535"
+                ]
+              ],
+              "created_utc": 1763454135.0,
+              "depth": 2,
+              "permalink": "/r/AI_Agents/comments/1p060tq/which_tool_should_be_the_best_code_no_code/npgmbs2/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": [
+                {
+                  "id": "npgmr0b",
+                  "parent_id": "t1_npgmbs2",
+                  "author": "hardii__",
+                  "text_history": [
+                    [
+                      "Its medium complex. So i read about temporal and found it a good choice. Should i combine with langgraph or claude? Or would it stand alone (I don't have any exp with it)",
+                      "2025-11-18T12:51:36.437587"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      1,
+                      "2025-11-18T12:51:36.437587"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T13:03:58.381379"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T13:15:50.643473"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T13:48:33.673814"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T14:00:04.550018"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T14:11:19.988009"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T21:39:23.650359"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T23:54:46.322998"
+                    ],
+                    [
+                      1,
+                      "2025-11-19T01:40:00.983535"
+                    ]
+                  ],
+                  "created_utc": 1763454399.0,
+                  "depth": 3,
+                  "permalink": "/r/AI_Agents/comments/1p060tq/which_tool_should_be_the_best_code_no_code/npgmr0b/",
+                  "is_submitter": true,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "npgve73",
+      "parent_id": "t3_1p060tq",
+      "author": "Silly-Heat-1229",
+      "text_history": [
+        [
+          "Have you considered trying Kilo Code? It supports pretty much every AI model out there so you can choose which one to use, plus there's BYOK and pay-for-what-you-use options.  \nLiked it so much I actually ended up working with their team. Worth checking out if you're looking for something more stable and flexible. I combine it with Lovable, depends on the project...",
+          "2025-11-18T12:51:36.437587"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T12:51:36.437587"
+        ],
+        [
+          1,
+          "2025-11-18T13:03:58.381379"
+        ],
+        [
+          1,
+          "2025-11-18T13:15:50.643473"
+        ],
+        [
+          1,
+          "2025-11-18T13:48:33.673814"
+        ],
+        [
+          1,
+          "2025-11-18T14:00:04.550018"
+        ],
+        [
+          1,
+          "2025-11-18T14:11:19.988009"
+        ],
+        [
+          1,
+          "2025-11-18T21:39:23.650359"
+        ],
+        [
+          1,
+          "2025-11-18T23:54:46.322998"
+        ],
+        [
+          1,
+          "2025-11-19T01:40:00.983535"
+        ]
+      ],
+      "created_utc": 1763459897.0,
+      "depth": 0,
+      "permalink": "/r/AI_Agents/comments/1p060tq/which_tool_should_be_the_best_code_no_code/npgve73/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npgwoh8",
+          "parent_id": "t1_npgve73",
+          "author": "hardii__",
+          "text_history": [
+            [
+              "I haven't used any of that. What about agentic kit by openai?",
+              "2025-11-18T12:51:36.437587"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T12:51:36.437587"
+            ],
+            [
+              1,
+              "2025-11-18T13:03:58.381379"
+            ],
+            [
+              1,
+              "2025-11-18T13:15:50.643473"
+            ],
+            [
+              1,
+              "2025-11-18T13:48:33.673814"
+            ],
+            [
+              1,
+              "2025-11-18T14:00:04.550018"
+            ],
+            [
+              1,
+              "2025-11-18T14:11:19.988009"
+            ],
+            [
+              1,
+              "2025-11-18T21:39:23.650359"
+            ],
+            [
+              1,
+              "2025-11-18T23:54:46.322998"
+            ],
+            [
+              1,
+              "2025-11-19T01:40:00.983535"
+            ]
+          ],
+          "created_utc": 1763460677.0,
+          "depth": 1,
+          "permalink": "/r/AI_Agents/comments/1p060tq/which_tool_should_be_the_best_code_no_code/npgwoh8/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npi4p65",
+      "parent_id": "t3_1p060tq",
+      "author": "oriol_9",
+      "text_history": [
+        [
+          "each case is analyzed in detail\n\n\n\nit depends on your level and resources\n\n\n\nyou have to think like n8n or make like an orchestra conductor\n\nabout you have to look for the musicians\n\n\n\nif you give me more details I will try to help",
+          "2025-11-18T12:51:36.437587"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T12:51:36.437587"
+        ],
+        [
+          1,
+          "2025-11-18T13:03:58.381379"
+        ],
+        [
+          1,
+          "2025-11-18T13:15:50.643473"
+        ],
+        [
+          1,
+          "2025-11-18T13:48:33.673814"
+        ],
+        [
+          1,
+          "2025-11-18T14:00:04.550018"
+        ],
+        [
+          1,
+          "2025-11-18T14:11:19.988009"
+        ],
+        [
+          1,
+          "2025-11-18T21:39:23.650359"
+        ],
+        [
+          1,
+          "2025-11-18T23:54:46.322998"
+        ],
+        [
+          1,
+          "2025-11-19T01:40:00.983535"
+        ]
+      ],
+      "created_utc": 1763478460.0,
+      "depth": 0,
+      "permalink": "/r/AI_Agents/comments/1p060tq/which_tool_should_be_the_best_code_no_code/npi4p65/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T01:40:00.983535",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/AI_Agents/comments/1p060tq/which_tool_should_be_the_best_code_no_code/",
+    "total_comments": 11,
+    "top_level_comments": 5,
+    "api_requests": 1,
+    "expected_comments": 13,
+    "coverage_percent": 84.62,
+    "merged_snapshot_count": 9,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_125135.json",
+      "scrape_002_20251118_130358.json",
+      "scrape_003_20251118_131550.json",
+      "scrape_004_20251118_134833.json",
+      "scrape_005_20251118_140004.json",
+      "scrape_006_20251118_141119.json",
+      "scrape_007_20251118_213923.json",
+      "scrape_008_20251118_235446.json",
+      "scrape_009_20251119_014000.json"
+    ]
+  }
+}

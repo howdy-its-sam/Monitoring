@@ -1,0 +1,129 @@
+{
+  "post": {
+    "id": "1p18a1t",
+    "title": "I Automated My Sales Anxiety: The AI Script That Writes Better Pitches Than I Do",
+    "author": "RealHuiGe",
+    "score_history": [
+      [
+        1,
+        "2025-11-19T05:54:20.215600"
+      ],
+      [
+        1,
+        "2025-11-19T05:54:20.408423"
+      ],
+      [
+        1,
+        "2025-11-19T05:54:20.682309"
+      ],
+      [
+        1,
+        "2025-11-19T05:54:20.893367"
+      ],
+      [
+        1,
+        "2025-11-19T05:54:21.137891"
+      ],
+      [
+        1,
+        "2025-11-19T05:54:21.359725"
+      ],
+      [
+        1,
+        "2025-11-19T05:54:21.597472"
+      ],
+      [
+        1,
+        "2025-11-19T05:54:21.816949"
+      ],
+      [
+        1,
+        "2025-11-19T05:54:22.058376"
+      ],
+      [
+        1,
+        "2025-11-19T05:54:22.274838"
+      ],
+      [
+        1,
+        "2025-11-19T05:54:22.532412"
+      ],
+      [
+        1,
+        "2025-11-19T05:54:22.734818"
+      ],
+      [
+        1,
+        "2025-11-19T05:54:22.962878"
+      ],
+      [
+        1,
+        "2025-11-19T05:54:23.178709"
+      ],
+      [
+        1,
+        "2025-11-19T05:54:23.416817"
+      ],
+      [
+        1,
+        "2025-11-19T05:54:23.612275"
+      ],
+      [
+        1,
+        "2025-11-19T05:54:23.843860"
+      ],
+      [
+        1,
+        "2025-11-19T05:54:24.052998"
+      ],
+      [
+        1,
+        "2025-11-19T05:54:24.300929"
+      ],
+      [
+        1,
+        "2025-11-19T05:54:24.508279"
+      ]
+    ],
+    "created_utc": 1763560439.0,
+    "num_comments": 0,
+    "subreddit": "PromptEngineering",
+    "url": "https://www.reddit.com/r/PromptEngineering/comments/1p18a1t/i_automated_my_sales_anxiety_the_ai_script_that/",
+    "selftext": "Sweaty palms. The blinking cursor. The dread of hitting \"Send\" and waiting for a rejection that feels personal.\n\nIf you've ever had to sell anything—whether it's a SaaS product, your freelance services, or just an idea to your boss—you know that feeling. The problem with writing your own sales pitches is that you care too much. You overthink every word, you sound desperate, or you swing too far the other way and sound like a robot.\n\nI used to spend 45 minutes crafting a single \"perfect\" cold email, only to get ghosted. It wasn't a time management problem; it was an emotional one. I was too close to the product to sell it effectively.\n\nSo, I fired myself from writing pitches.\n\nI built a prompt that acts as a **Senior Sales Strategist**. It doesn't have an ego, it doesn't get nervous, and it knows more about persuasion psychology than I ever will. It uses frameworks like SPIN, Challenger, and Cialdini’s principles to engineer the perfect \"Yes.\"\n\n## The \"Me vs. You\" Trap\n\nThe biggest mistake humans make in sales is focusing on the \"What\" (features) instead of the \"So What?\" (value).\n\n**Human Pitch:**\n\"Hi, I'm John. I built a project management tool that has time tracking, Gantt charts, and unlimited users. It's $10/month. Want a demo?\"\n*(Result: Delete)*\n\n**AI Strategist Pitch:**\n\"John, I noticed your agency just scaled to 20 people. At that size, 'project management' usually turns into 'chasing people for updates.' Our tool kills the status meeting so you can actually ship work. Worth a 5-minute look?\"\n*(Result: Reply)*\n\nSee the difference? One is selling software; the other is selling *sanity*.\n\n## The Psychology-First AI Prompt\n\nThis isn't a generic \"write a sales email\" command. It's a role-playing script that forces the AI to adopt the persona of a veteran sales expert. It demands that every pitch follows a logical persuasion flow: **Hook → Agitation → Solution → Social Proof → CTA**.\n\nHere is the exact prompt I use. Copy this into ChatGPT, Claude, or Gemini:\n\n```markdown\n# Role Definition\nYou are a Senior Sales Strategist and Copywriting Expert with 15+ years of experience in B2B and B2C sales. You master various sales methodologies (SPIN, Challenger, Sandler) and psychological persuasion techniques (Cialdini's principles). You excel at turning features into benefits and crafting narratives that resonate with specific buyer personas.\n\n# Task Description\nPlease write a compelling Sales Pitch for the specified product or service. Your goal is to grab attention, build interest, and drive the prospect toward a specific call to action (CTA).\n\n[Please address the following context...]\n\n**Input Information** (Optional):\n- Product/Service Name: [Name]\n- Target Audience: [Job Title/Industry/Persona]\n- Key Features/USPs: [List 3-5 key features]\n- Pain Points Solved: [Specific problems the product solves]\n- Pitch Format: [e.g., Cold Email, Elevator Pitch, LinkedIn Message, Phone Script]\n- Desired Tone: [e.g., Professional, Empathetic, Urgent, Bold]\n\n# Output Requirements\n\n## 1. Content Structure\nThe pitch must follow a logical persuasion flow:\n- **Hook**: A strong opening statement or question that grabs attention immediately.\n- **Problem/Agitation**: Clearly articulate the pain point the prospect is facing.\n- **Solution/Value Proposition**: Introduce the product as the ideal solution, focusing on benefits, not just features.\n- **Social Proof/Credibility**: (Optional but recommended) Mention a relevant metric, case study, or client to build trust.\n- **Call to Action (CTA)**: A clear, low-friction next step for the prospect.\n\n## 2. Quality Standards\n- **Relevance**: Directly address the specific pain points of the target audience.\n- **Clarity**: Use concise, jargon-free language (unless industry-appropriate).\n- **Persuasiveness**: Use strong verbs and psychological triggers (e.g., scarcity, authority).\n- **Personalization**: Ensure the pitch sounds like it's written for a human, not a mass blast.\n\n## 3. Formatting Requirements\n- **Format**: Depends on the specified `Pitch Format`. \n  - For Emails: Subject line + Body.\n  - For Scripts: Dialogue cues.\n  - For Elevator Pitches: Single paragraph.\n- **Length**: Keep it concise. (e.g., &lt; 150 words for emails, &lt; 60 seconds for scripts).\n\n## 4. Style Constraints\n- **Tone**: Professional yet conversational. Avoid being overly aggressive or \"salesy.\"\n- **Perspective**: Focus on \"You\" (the prospect) more than \"We\" (the seller).\n- **Professionalism**: High. Avoid slang unless it fits the specific brand voice.\n\n# Quality Check List\n\nAfter generating the pitch, please self-check:\n- [ ] Does the Hook immediately grab attention?\n- [ ] Is the benefit clearly linked to the prospect's pain point?\n- [ ] Is the CTA clear and easy to say \"yes\" to?\n- [ ] Is the tone appropriate for the target audience?\n- [ ] Are there any passive sentences that can be made active?\n\n# Important Notes\n- Do not make up false statistics or client names. Use placeholders like [Insert Client Name] if needed.\n- Focus on the *value* (what they get), not just the *mechanism* (how it works).\n- Adapt the length strictly to the chosen format.\n\n# Output Format\nOutput the result in clearly marked sections (e.g., **Subject Line**, **Body**).\n```\n\n## Why This Works (The \"Secret Sauce\")\n\n1.  **It Forces \"Problem Agitation\"**: Most people skip straight to the solution. This prompt forces the AI to twist the knife a little bit first (\"Problem/Agitation\" section). You have to make them feel the pain before you offer the aspirin.\n2.  **It Demands Low-Friction CTAs**: Notice the checklist item: *\"Is the CTA clear and easy to say 'yes' to?\"* Bad pitches ask for marriage (\"Buy now!\"); good pitches ask for coffee (\"Worth a chat?\").\n3.  **It Checks Its Own Work**: The \"Quality Check List\" at the end forces the model to critique its own output, often catching passive voice or weak hooks that a standard prompt would miss.\n\n## How I Use It Daily\n\nI don't just use this for cold emails. I use it for:\n*   **LinkedIn DMs**: \"Write a connection request that doesn't sound like spam.\"\n*   **Upwork Proposals**: \"Pitch my web design services to a client who has been burned by cheap freelancers before.\"\n*   **Networking Intros**: \"Give me a 30-second elevator pitch for a cocktail party where nobody knows what 'SaaS' means.\"\n\n## The Result?\n\nI stopped dreading outreach. I just fill in the blanks: *Product, Audience, Pain Point*. The AI handles the psychology, the structure, and the tone. I just hit send.\n\nSales isn't about being a smooth talker. It's about empathy and engineering. Let the AI handle the engineering so you can focus on the empathy.\n\n---\n\n**TL;DR:** Sales anxiety kills deals. I built a \"Senior Sales Strategist\" AI prompt that uses proven frameworks (SPIN, Challenger) to write high-conversion pitches. It focuses on prospect pain points, not product features. Copy the prompt above to automate your persuasion.\n",
+    "permalink": "/r/PromptEngineering/comments/1p18a1t/i_automated_my_sales_anxiety_the_ai_script_that/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T05:54:24.508279",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/PromptEngineering/comments/1p18a1t/i_automated_my_sales_anxiety_the_ai_script_that/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 20,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_055420.json",
+      "scrape_002_20251119_055420.json",
+      "scrape_003_20251119_055420.json",
+      "scrape_004_20251119_055420.json",
+      "scrape_005_20251119_055420.json",
+      "scrape_006_20251119_055421.json",
+      "scrape_007_20251119_055421.json",
+      "scrape_008_20251119_055421.json",
+      "scrape_009_20251119_055421.json",
+      "scrape_010_20251119_055422.json",
+      "scrape_011_20251119_055422.json",
+      "scrape_012_20251119_055422.json",
+      "scrape_013_20251119_055422.json",
+      "scrape_014_20251119_055422.json",
+      "scrape_015_20251119_055423.json",
+      "scrape_016_20251119_055423.json",
+      "scrape_017_20251119_055423.json",
+      "scrape_018_20251119_055423.json",
+      "scrape_019_20251119_055424.json",
+      "scrape_020_20251119_055424.json"
+    ]
+  }
+}

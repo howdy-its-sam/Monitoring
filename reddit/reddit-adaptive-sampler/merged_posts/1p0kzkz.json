@@ -1,0 +1,154 @@
+{
+  "post": {
+    "id": "1p0kzkz",
+    "title": "AI Search Is Quietly Changing How Users Convert",
+    "author": "ExtensionAct8058",
+    "score_history": [
+      [
+        1,
+        "2025-11-18T13:49:42.244764"
+      ],
+      [
+        1,
+        "2025-11-18T14:00:50.610596"
+      ],
+      [
+        1,
+        "2025-11-18T14:12:13.235360"
+      ],
+      [
+        1,
+        "2025-11-18T21:39:19.036182"
+      ],
+      [
+        1,
+        "2025-11-18T23:24:19.386278"
+      ],
+      [
+        1,
+        "2025-11-19T01:08:29.684082"
+      ]
+    ],
+    "created_utc": 1763493259.0,
+    "num_comments": 2,
+    "subreddit": "DigitalMarketing",
+    "url": "https://www.reddit.com/r/DigitalMarketing/comments/1p0kzkz/ai_search_is_quietly_changing_how_users_convert/",
+    "selftext": "AI driven search features are starting to shift how people interact with brands online. Instead of clicking through to websites, users are beginning to get answers, comparisons, and even actions completed directly inside the search interface. Google’s AI Overviews, Search Labs experiments, and the rise of chat based assistants are reducing traditional traffic but increasing high intent actions that happen before a user ever reaches a landing page.\n\nFor marketers, this means the old model of chasing clicks is becoming less reliable. The focus is moving toward content that communicates expertise clearly, structured data that helps AI understand context, and brand signals that build trust even without a website visit. Conversion paths are becoming shorter and more controlled by the platform itself.\n\nUnderstanding how AI interprets your content and how your brand appears within these experiences is becoming just as important as ranking on page one ever was.",
+    "permalink": "/r/DigitalMarketing/comments/1p0kzkz/ai_search_is_quietly_changing_how_users_convert/"
+  },
+  "comments": [
+    {
+      "id": "npjj79l",
+      "parent_id": "t3_1p0kzkz",
+      "author": "AutoModerator",
+      "text_history": [
+        [
+          "[If this post doesn't follow the rules report it to the mods](https://www.reddit.com/r/DigitalMarketing/about/rules/). Have more questions? [Join our community Discord!](https://discord.gg/looking-for-marketing-discussion-811236647760298024)\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/DigitalMarketing) if you have any questions or concerns.*",
+          "2025-11-18T13:49:42.244764"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T13:49:42.244764"
+        ],
+        [
+          1,
+          "2025-11-18T14:00:50.610596"
+        ],
+        [
+          1,
+          "2025-11-18T14:12:13.235360"
+        ],
+        [
+          1,
+          "2025-11-18T21:39:19.036182"
+        ],
+        [
+          1,
+          "2025-11-18T23:24:19.386278"
+        ],
+        [
+          1,
+          "2025-11-19T01:08:29.684082"
+        ]
+      ],
+      "created_utc": 1763493259.0,
+      "depth": 0,
+      "permalink": "/r/DigitalMarketing/comments/1p0kzkz/ai_search_is_quietly_changing_how_users_convert/npjj79l/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npjj7b1",
+      "parent_id": "t3_1p0kzkz",
+      "author": "AutoModerator",
+      "text_history": [
+        [
+          "Are you a marketing professional and have 15 minutes to share your insights? [Take our 2025 State of Marketing Survey](https://lookingformarketing.com/survey?utm_source=reddit&amp;utm_medium=social&amp;utm_campaign=survey&amp;utm_content=r_digitalmarketing).\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/DigitalMarketing) if you have any questions or concerns.*",
+          "2025-11-18T13:49:42.244764"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T13:49:42.244764"
+        ],
+        [
+          1,
+          "2025-11-18T14:00:50.610596"
+        ],
+        [
+          1,
+          "2025-11-18T14:12:13.235360"
+        ],
+        [
+          1,
+          "2025-11-18T21:39:19.036182"
+        ],
+        [
+          1,
+          "2025-11-18T23:24:19.386278"
+        ],
+        [
+          1,
+          "2025-11-19T01:08:29.684082"
+        ]
+      ],
+      "created_utc": 1763493259.0,
+      "depth": 0,
+      "permalink": "/r/DigitalMarketing/comments/1p0kzkz/ai_search_is_quietly_changing_how_users_convert/npjj7b1/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T01:08:29.684082",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/DigitalMarketing/comments/1p0kzkz/ai_search_is_quietly_changing_how_users_convert/",
+    "total_comments": 2,
+    "top_level_comments": 2,
+    "api_requests": 1,
+    "expected_comments": 2,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 6,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_134942.json",
+      "scrape_002_20251118_140050.json",
+      "scrape_003_20251118_141213.json",
+      "scrape_004_20251118_213918.json",
+      "scrape_005_20251118_232419.json",
+      "scrape_006_20251119_010829.json"
+    ]
+  }
+}

@@ -1,0 +1,224 @@
+{
+  "post": {
+    "id": "1p0w9ay",
+    "title": "Best PDF parsing open source library for complex long research/patents.",
+    "author": "PrudentCondition6672",
+    "score_history": [
+      [
+        7,
+        "2025-11-19T02:55:49.670220"
+      ],
+      [
+        7,
+        "2025-11-19T03:03:42.814532"
+      ],
+      [
+        8,
+        "2025-11-19T03:06:55.940485"
+      ]
+    ],
+    "created_utc": 1763521285.0,
+    "num_comments": 5,
+    "subreddit": "LangChain",
+    "url": "https://www.reddit.com/r/LangChain/comments/1p0w9ay/best_pdf_parsing_open_source_library_for_complex/",
+    "selftext": "I would like to know a library better pypdf4llm that can effectively parse a two column, long text research/patent with tables,raster images and vector graphics.\n\nP.S: pypdf4llm works efficiently for 80% of the pdfs.",
+    "permalink": "/r/LangChain/comments/1p0w9ay/best_pdf_parsing_open_source_library_for_complex/"
+  },
+  "comments": [
+    {
+      "id": "npm5ixx",
+      "parent_id": "t3_1p0w9ay",
+      "author": "tifa_cloud0",
+      "text_history": [
+        [
+          "someone shared this here. check it - https://reddit.com/r/Rag/comments/1oz5oc7/i_made_a_fast_structured_pdf_extractor_for_rag/",
+          "2025-11-19T02:55:49.670220"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:55:49.670220"
+        ],
+        [
+          1,
+          "2025-11-19T03:03:42.814532"
+        ],
+        [
+          1,
+          "2025-11-19T03:06:55.940485"
+        ]
+      ],
+      "created_utc": 1763524934.0,
+      "depth": 0,
+      "permalink": "/r/LangChain/comments/1p0w9ay/best_pdf_parsing_open_source_library_for_complex/npm5ixx/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npm88ou",
+          "parent_id": "t1_npm5ixx",
+          "author": "PrudentCondition6672",
+          "text_history": [
+            [
+              "What's the difference between pypdf4llm and the C version of it?",
+              "2025-11-19T02:55:49.670220"
+            ]
+          ],
+          "score_history": [
+            [
+              2,
+              "2025-11-19T02:55:49.670220"
+            ],
+            [
+              2,
+              "2025-11-19T03:03:42.814532"
+            ],
+            [
+              2,
+              "2025-11-19T03:06:55.940485"
+            ]
+          ],
+          "created_utc": 1763526082.0,
+          "depth": 1,
+          "permalink": "/r/LangChain/comments/1p0w9ay/best_pdf_parsing_open_source_library_for_complex/npm88ou/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npm93xs",
+              "parent_id": "t1_npm88ou",
+              "author": "tifa_cloud0",
+              "text_history": [
+                [
+                  "i bet the author have introduced new features into it that traditional pypdf4llm lacks and modified it. looks solid in my opinion for pdf’s.",
+                  "2025-11-19T02:55:49.670220"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-19T02:55:49.670220"
+                ],
+                [
+                  1,
+                  "2025-11-19T03:03:42.814532"
+                ],
+                [
+                  1,
+                  "2025-11-19T03:06:55.940485"
+                ]
+              ],
+              "created_utc": 1763526464.0,
+              "depth": 2,
+              "permalink": "/r/LangChain/comments/1p0w9ay/best_pdf_parsing_open_source_library_for_complex/npm93xs/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": [
+                {
+                  "id": "npma6rl",
+                  "parent_id": "t1_npm93xs",
+                  "author": "PrudentCondition6672",
+                  "text_history": [
+                    [
+                      "Have you tested the pypdf4llm-C library for two column research papers?",
+                      "2025-11-19T02:55:49.670220"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      2,
+                      "2025-11-19T02:55:49.670220"
+                    ],
+                    [
+                      2,
+                      "2025-11-19T03:03:42.814532"
+                    ],
+                    [
+                      2,
+                      "2025-11-19T03:06:55.940485"
+                    ]
+                  ],
+                  "created_utc": 1763526942.0,
+                  "depth": 3,
+                  "permalink": "/r/LangChain/comments/1p0w9ay/best_pdf_parsing_open_source_library_for_complex/npma6rl/",
+                  "is_submitter": true,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": [
+                    {
+                      "id": "npmwj0c",
+                      "parent_id": "t1_npma6rl",
+                      "author": "tifa_cloud0",
+                      "text_history": [
+                        [
+                          "sadly not. i have only saved it for future use case.",
+                          "2025-11-19T02:55:49.670220"
+                        ]
+                      ],
+                      "score_history": [
+                        [
+                          1,
+                          "2025-11-19T02:55:49.670220"
+                        ],
+                        [
+                          1,
+                          "2025-11-19T03:03:42.814532"
+                        ],
+                        [
+                          1,
+                          "2025-11-19T03:06:55.940485"
+                        ]
+                      ],
+                      "created_utc": 1763538628.0,
+                      "depth": 4,
+                      "permalink": "/r/LangChain/comments/1p0w9ay/best_pdf_parsing_open_source_library_for_complex/npmwj0c/",
+                      "is_submitter": false,
+                      "controversiality": 0,
+                      "gilded": 0,
+                      "edited": false,
+                      "deleted": false,
+                      "deleted_at": null,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:06:55.940485",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/LangChain/comments/1p0w9ay/best_pdf_parsing_open_source_library_for_complex/",
+    "total_comments": 5,
+    "top_level_comments": 1,
+    "api_requests": 1,
+    "expected_comments": 5,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_025549.json",
+      "scrape_002_20251119_030342.json",
+      "scrape_003_20251119_030655.json"
+    ]
+  }
+}

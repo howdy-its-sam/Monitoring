@@ -1,0 +1,167 @@
+{
+  "post": {
+    "id": "1p0crej",
+    "title": "Chatgpt not working",
+    "author": "chaitralikakde",
+    "score_history": [
+      [
+        0,
+        "2025-11-18T12:51:41.968189"
+      ],
+      [
+        0,
+        "2025-11-18T13:04:00.978599"
+      ],
+      [
+        0,
+        "2025-11-18T13:15:47.817051"
+      ],
+      [
+        0,
+        "2025-11-18T13:46:26.569330"
+      ],
+      [
+        0,
+        "2025-11-18T13:49:27.541941"
+      ],
+      [
+        0,
+        "2025-11-18T13:59:20.600690"
+      ],
+      [
+        0,
+        "2025-11-18T14:10:40.032656"
+      ]
+    ],
+    "created_utc": 1763474603.0,
+    "num_comments": 2,
+    "subreddit": "AgentsOfAI",
+    "url": "https://www.reddit.com/r/AgentsOfAI/comments/1p0crej/chatgpt_not_working/",
+    "selftext": "Found out today that a huge number of websites including chatgpt rely on Cloudflare. And when Cloudflare has an issue, everything goes down with it. That’s the risk of putting all your eggs in one basket.\nYou can check the current status here: https://www.cloudflarestatus.com/\n\nUpdate - We are continuing working on restoring service for application services customers.\nNov 18, 2025 - 13:58 UTC\n\nUpdate - We are continuing working on restoring service for application services customers.\nNov 18, 2025 - 13:35 UTC\n\n**But what’s causing this issue? I’m curious to know the reason behind it**",
+    "permalink": "/r/AgentsOfAI/comments/1p0crej/chatgpt_not_working/"
+  },
+  "comments": [
+    {
+      "id": "nphufo7",
+      "parent_id": "t3_1p0crej",
+      "author": "nitkjh",
+      "text_history": [
+        [
+          "lol",
+          "2025-11-18T12:51:41.968189"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T12:51:41.968189"
+        ],
+        [
+          1,
+          "2025-11-18T13:04:00.978599"
+        ],
+        [
+          1,
+          "2025-11-18T13:15:47.817051"
+        ],
+        [
+          1,
+          "2025-11-18T13:46:26.569330"
+        ],
+        [
+          1,
+          "2025-11-18T13:49:27.541941"
+        ],
+        [
+          1,
+          "2025-11-18T13:59:20.600690"
+        ],
+        [
+          1,
+          "2025-11-18T14:10:40.032656"
+        ]
+      ],
+      "created_utc": 1763475201.0,
+      "depth": 0,
+      "permalink": "/r/AgentsOfAI/comments/1p0crej/chatgpt_not_working/nphufo7/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nphyi1j",
+      "parent_id": "t3_1p0crej",
+      "author": "Kitchen_Discount_312",
+      "text_history": [
+        [
+          "Cloudflare is down. The reason? Ask cloudflare",
+          "2025-11-18T12:51:41.968189"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T12:51:41.968189"
+        ],
+        [
+          1,
+          "2025-11-18T13:04:00.978599"
+        ],
+        [
+          1,
+          "2025-11-18T13:15:47.817051"
+        ],
+        [
+          1,
+          "2025-11-18T13:46:26.569330"
+        ],
+        [
+          1,
+          "2025-11-18T13:49:27.541941"
+        ],
+        [
+          1,
+          "2025-11-18T13:59:20.600690"
+        ],
+        [
+          1,
+          "2025-11-18T14:10:40.032656"
+        ]
+      ],
+      "created_utc": 1763476483.0,
+      "depth": 0,
+      "permalink": "/r/AgentsOfAI/comments/1p0crej/chatgpt_not_working/nphyi1j/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-18T14:10:40.032656",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/AgentsOfAI/comments/1p0crej/chatgpt_not_working/",
+    "total_comments": 2,
+    "top_level_comments": 2,
+    "api_requests": 1,
+    "expected_comments": 2,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 7,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_125141.json",
+      "scrape_002_20251118_130400.json",
+      "scrape_003_20251118_131547.json",
+      "scrape_004_20251118_134626.json",
+      "scrape_005_20251118_134927.json",
+      "scrape_006_20251118_135920.json",
+      "scrape_007_20251118_141039.json"
+    ]
+  }
+}

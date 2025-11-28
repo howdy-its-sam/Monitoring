@@ -1,0 +1,129 @@
+{
+  "post": {
+    "id": "1p18n1h",
+    "title": "Built a metric (CES) to measure crawler extraction quality for RAG, thoughts?",
+    "author": "BothCloud9443",
+    "score_history": [
+      [
+        1,
+        "2025-11-19T06:09:55.818264"
+      ],
+      [
+        1,
+        "2025-11-19T06:09:56.087893"
+      ],
+      [
+        1,
+        "2025-11-19T06:09:56.645041"
+      ],
+      [
+        1,
+        "2025-11-19T06:09:56.885168"
+      ],
+      [
+        1,
+        "2025-11-19T06:09:57.174214"
+      ],
+      [
+        1,
+        "2025-11-19T06:09:57.397289"
+      ],
+      [
+        1,
+        "2025-11-19T06:09:57.642305"
+      ],
+      [
+        1,
+        "2025-11-19T06:09:57.859090"
+      ],
+      [
+        1,
+        "2025-11-19T06:09:58.081428"
+      ],
+      [
+        1,
+        "2025-11-19T06:09:58.302932"
+      ],
+      [
+        1,
+        "2025-11-19T06:09:58.560377"
+      ],
+      [
+        1,
+        "2025-11-19T06:09:58.767932"
+      ],
+      [
+        1,
+        "2025-11-19T06:09:59.004879"
+      ],
+      [
+        1,
+        "2025-11-19T06:09:59.234040"
+      ],
+      [
+        1,
+        "2025-11-19T06:09:59.457743"
+      ],
+      [
+        1,
+        "2025-11-19T06:09:59.663835"
+      ],
+      [
+        1,
+        "2025-11-19T06:09:59.905529"
+      ],
+      [
+        1,
+        "2025-11-19T06:10:00.120166"
+      ],
+      [
+        1,
+        "2025-11-19T06:10:00.376612"
+      ],
+      [
+        1,
+        "2025-11-19T06:10:00.577288"
+      ]
+    ],
+    "created_utc": 1763561330.0,
+    "num_comments": 0,
+    "subreddit": "Rag",
+    "url": "https://www.reddit.com/r/Rag/comments/1p18n1h/built_a_metric_ces_to_measure_crawler_extraction/",
+    "selftext": "I’m a software engineer working on a platform that manages RAG knowledge for thousands of companies. One nagging issue that keeps popping up is ingesting web data reliably into the pipeline.\n\nMost crawlers don't even have benchmarks, which makes sense because what do you even *measure*?  \nMost focus on speed or scale but ignore how **clean and complete** the extracted data is. \n\nSo after a frustrating year of crawling thousands of sites, I built a benchmark and methodology I call **CES (Content Extraction Score)**\n\nIn my opinion, for RAG use cases, content quality matters more than coverage. Missing relevant information is more damaging than including extra noise. The goal is simply to **reward crawlers that extract full, clean content and penalize them for missing relevant data**.  \nNot just how much \"noise\" they include, but how much relevant data they *miss*.\n\n**The formula:**\n\nR = Relevant data expected\n\nC = Correct data extracted\n\nN = Noise data extracted\n\n3C³  \nCES = -----------  \nR²(3C + N)\n\nTo make it clearer, here are 2 scenarios:\n\n**Scenario A: Complete but noisy**\n\n* R = 100 relevant tokens total on the target page (count of words I WANT to be extracted)\n* C = 100 correct tokens extracted\n* N = 100 noise tokens included\n* CES = **0.75** ✓\n\nThis is actually good! You extracted all the relevant content and the noise ratio is manageable.\n\n**Scenario B: Clean but incomplete**\n\n* R = 100 relevant tokens total on the target page\n* C = 50 correct tokens extracted\n* N = 0 noise tokens\n* CES = **0.25** ✗\n\nBeing \"clean\" and extracting only relevant content doesn't help if you're missing half of it.  \n \n\nIf you're like me, spending your days figuring out configs instead of building features and want to compare notes, I’m always up for a deep dive. \n\n**TL;DR:** Some tools are great, only once you tune them for every weird site. Honestly, web crawlers should just work.",
+    "permalink": "/r/Rag/comments/1p18n1h/built_a_metric_ces_to_measure_crawler_extraction/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T06:10:00.577288",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/Rag/comments/1p18n1h/built_a_metric_ces_to_measure_crawler_extraction/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 20,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_060955.json",
+      "scrape_002_20251119_060955.json",
+      "scrape_003_20251119_060956.json",
+      "scrape_004_20251119_060956.json",
+      "scrape_005_20251119_060956.json",
+      "scrape_006_20251119_060957.json",
+      "scrape_007_20251119_060957.json",
+      "scrape_008_20251119_060957.json",
+      "scrape_009_20251119_060957.json",
+      "scrape_010_20251119_060958.json",
+      "scrape_011_20251119_060958.json",
+      "scrape_012_20251119_060958.json",
+      "scrape_013_20251119_060958.json",
+      "scrape_014_20251119_060959.json",
+      "scrape_015_20251119_060959.json",
+      "scrape_016_20251119_060959.json",
+      "scrape_017_20251119_060959.json",
+      "scrape_018_20251119_060959.json",
+      "scrape_019_20251119_061000.json",
+      "scrape_020_20251119_061000.json"
+    ]
+  }
+}

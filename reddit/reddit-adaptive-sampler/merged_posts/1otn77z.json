@@ -1,0 +1,54 @@
+{
+  "post": {
+    "id": "1otn77z",
+    "title": "Kimi infra team: Quantization is not a compromise, it's the next paradigm",
+    "author": "robogame_dev",
+    "score_history": [
+      [
+        6,
+        "2025-11-18T14:53:31.231845"
+      ],
+      [
+        4,
+        "2025-11-18T15:04:01.148245"
+      ],
+      [
+        4,
+        "2025-11-18T15:05:54.229099"
+      ],
+      [
+        5,
+        "2025-11-18T22:53:16.367861"
+      ],
+      [
+        6,
+        "2025-11-19T07:22:39.826557"
+      ]
+    ],
+    "created_utc": 1762802548.0,
+    "num_comments": 1,
+    "subreddit": "AI_developers",
+    "url": "/r/LocalLLaMA/comments/1ot6k56/kimi_infra_team_quantization_is_not_a_compromise/",
+    "selftext": "",
+    "permalink": "/r/AI_developers/comments/1otn77z/kimi_infra_team_quantization_is_not_a_compromise/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T07:22:39.826557",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/AI_developers/comments/1otn77z/kimi_infra_team_quantization_is_not_a_compromise/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 1,
+    "coverage_percent": 0.0,
+    "merged_snapshot_count": 5,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_145330.json",
+      "scrape_002_20251118_150400.json",
+      "scrape_003_20251118_150553.json",
+      "scrape_004_20251118_225316.json",
+      "scrape_005_20251119_072239.json"
+    ]
+  }
+}

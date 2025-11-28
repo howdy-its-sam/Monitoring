@@ -1,0 +1,49 @@
+{
+  "post": {
+    "id": "1ofkcqp",
+    "title": "Gartner Estimates That By 2030, $30T In Purchases Will Be Made Or Influenced By AI Agents",
+    "author": "sibraan_",
+    "score_history": [
+      [
+        1,
+        "2025-11-18T15:15:04.434309"
+      ],
+      [
+        1,
+        "2025-11-18T15:18:40.208235"
+      ],
+      [
+        1,
+        "2025-11-18T22:42:42.504951"
+      ],
+      [
+        1,
+        "2025-11-19T00:26:38.721909"
+      ]
+    ],
+    "created_utc": 1761373238.0,
+    "num_comments": 0,
+    "subreddit": "AutoGPT",
+    "url": "https://i.redd.it/7e5xbb3q97xf1.jpeg",
+    "selftext": "",
+    "permalink": "/r/AutoGPT/comments/1ofkcqp/gartner_estimates_that_by_2030_30t_in_purchases/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T00:26:38.721909",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/AutoGPT/comments/1ofkcqp/gartner_estimates_that_by_2030_30t_in_purchases/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 4,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_151504.json",
+      "scrape_002_20251118_151839.json",
+      "scrape_003_20251118_224242.json",
+      "scrape_004_20251119_002638.json"
+    ]
+  }
+}

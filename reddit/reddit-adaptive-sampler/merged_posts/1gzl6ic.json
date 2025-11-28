@@ -1,0 +1,44 @@
+{
+  "post": {
+    "id": "1gzl6ic",
+    "title": "AI news from last week",
+    "author": "Danny-Reid871",
+    "score_history": [
+      [
+        2,
+        "2025-11-18T15:16:50.564038"
+      ],
+      [
+        2,
+        "2025-11-18T23:03:44.136203"
+      ],
+      [
+        2,
+        "2025-11-19T00:57:56.885325"
+      ]
+    ],
+    "created_utc": 1732547906.0,
+    "num_comments": 0,
+    "subreddit": "ainews",
+    "url": "https://www.reddit.com/r/ainews/comments/1gzl6ic/ai_news_from_last_week/",
+    "selftext": "Hey everyone!\n\nTech companies have been cooking up this week, and I've rounded up some of the most interesting news for you:\n\n* Microsoft Ignite 2024: Microsoft showed off Azure AI Foundry and introduced some cool new AI agents in Microsoft 365, including real-time translation in Teams. This is all about making work easier and more productive.\n* Samsung’s Gauss2: Samsung launched their second-gen generative AI model, Gauss2. It's designed to boost performance and support more data types, all part of their “AI for All” mission.\n* Google DeepMind’s AlphaQubit: They introduced a new transformer-based neural network that improves error decoding in quantum computing. It’s a big step forward!\n* OpenAI’s New Browser: OpenAI is exploring a web browser that could integrate with their chatbot. This could shake things up in the search game!\n\nI got these news from different newsletters like the rundown, AI Pulse by Linkt, insideAI, and more. Definitely check those out if you want to be on top of everything.\n\nI'll start sharing my top 5 news every week so, hope to see you next Sunday here.\n\nP.S. Feel free to drop any other news in the comments—let’s discuss!",
+    "permalink": "/r/ainews/comments/1gzl6ic/ai_news_from_last_week/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T00:57:56.885325",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/ainews/comments/1gzl6ic/ai_news_from_last_week/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_151650.json",
+      "scrape_002_20251118_230343.json",
+      "scrape_003_20251119_005756.json"
+    ]
+  }
+}

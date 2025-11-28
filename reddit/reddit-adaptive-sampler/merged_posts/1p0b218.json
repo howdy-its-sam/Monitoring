@@ -1,0 +1,143 @@
+{
+  "post": {
+    "id": "1p0b218",
+    "title": "Help Needed: Connecting Yeastar PBX/TG400 Gateway to LiveKit Cloud Agent with Gemini Realtime Model",
+    "author": "mo7a-oti",
+    "score_history": [
+      [
+        1,
+        "2025-11-18T12:51:33.045412"
+      ],
+      [
+        1,
+        "2025-11-18T13:03:56.137408"
+      ],
+      [
+        1,
+        "2025-11-18T13:15:48.991353"
+      ],
+      [
+        1,
+        "2025-11-18T13:46:29.998654"
+      ],
+      [
+        1,
+        "2025-11-18T13:49:06.712654"
+      ],
+      [
+        1,
+        "2025-11-18T13:49:46.440444"
+      ],
+      [
+        1,
+        "2025-11-18T13:59:24.740425"
+      ],
+      [
+        1,
+        "2025-11-18T21:29:01.998508"
+      ],
+      [
+        1,
+        "2025-11-18T23:12:41.461169"
+      ],
+      [
+        1,
+        "2025-11-19T00:58:00.772271"
+      ]
+    ],
+    "created_utc": 1763470165.0,
+    "num_comments": 1,
+    "subreddit": "AI_Agents",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1p0b218/help_needed_connecting_yeastar_pbxtg400_gateway/",
+    "selftext": "***Setup:***\n\n* Yeastar P-Series Software Edition PBX\n* Yeastar TG400 Gateway with a phone number\n* LiveKit Agent deployed on LiveKit Cloud\n* Using Google Gemini 2.0 Flash Realtime Model for voice AI\n\n***What I'm trying to achieve:***\n\nI want incoming calls to my gateway phone number to be automatically answered by my LiveKit AI agent (a voice assistant using Google's Gemini realtime audio model). Essentially: User calls → Gateway → Yeastar PBX → LiveKit Agent answers and converses.\n\n***Current situation:***\n\nWhen I call the gateway number, the call connects but there's only silence, then it goes to voicemail\n\n* I have full access to configure the Yeastar PBX\n* My LiveKit agent works perfectly when tested directly through LiveKit's interface\n* The agent is built using LiveKit's native room-based architecture with the Agents framework\n\n***My questions:***\n\n* What's the proper way to bridge Yeastar PBX calls to a LiveKit Cloud agent?\n* Should I use SIP trunking between Yeastar and LiveKit, or is there a better method?\n* I see Yeastar has a \"WebSocket Audio Streaming\" feature - is this the right approach, or will it not work with LiveKit's room-based system?\n* Does LiveKit Cloud support incoming SIP calls that can trigger my agent?\n* Do I need middleware/bridge server between Yeastar and LiveKit to make this work?\n\n***Technical details:***\n\n* My agent uses livekit.agents.AgentSession and Google's realtime model\n* I can configure trunks, inbound/outbound routes, and extensions in Yeastar\n* LiveKit agent is deployed and running on LiveKit Cloud (not self-hosted)\n\nAny guidance on the proper architecture or configuration steps would be greatly appreciated! Has anyone successfully connected a traditional PBX system to LiveKit agents?",
+    "permalink": "/r/AI_Agents/comments/1p0b218/help_needed_connecting_yeastar_pbxtg400_gateway/"
+  },
+  "comments": [
+    {
+      "id": "nphfm8s",
+      "parent_id": "t3_1p0b218",
+      "author": "AutoModerator",
+      "text_history": [
+        [
+          "Thank you for your submission, for any questions regarding AI, please check out our wiki at https://www.reddit.com/r/ai_agents/wiki (this is currently in test and we are actively adding to the wiki)\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/AI_Agents) if you have any questions or concerns.*",
+          "2025-11-18T12:51:33.045412"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T12:51:33.045412"
+        ],
+        [
+          1,
+          "2025-11-18T13:03:56.137408"
+        ],
+        [
+          1,
+          "2025-11-18T13:15:48.991353"
+        ],
+        [
+          1,
+          "2025-11-18T13:46:29.998654"
+        ],
+        [
+          1,
+          "2025-11-18T13:49:06.712654"
+        ],
+        [
+          1,
+          "2025-11-18T13:49:46.440444"
+        ],
+        [
+          1,
+          "2025-11-18T13:59:24.740425"
+        ],
+        [
+          1,
+          "2025-11-18T21:29:01.998508"
+        ],
+        [
+          1,
+          "2025-11-18T23:12:41.461169"
+        ],
+        [
+          1,
+          "2025-11-19T00:58:00.772271"
+        ]
+      ],
+      "created_utc": 1763470166.0,
+      "depth": 0,
+      "permalink": "/r/AI_Agents/comments/1p0b218/help_needed_connecting_yeastar_pbxtg400_gateway/nphfm8s/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T00:58:00.772271",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/AI_Agents/comments/1p0b218/help_needed_connecting_yeastar_pbxtg400_gateway/",
+    "total_comments": 1,
+    "top_level_comments": 1,
+    "api_requests": 1,
+    "expected_comments": 1,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 10,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_125132.json",
+      "scrape_002_20251118_130355.json",
+      "scrape_003_20251118_131548.json",
+      "scrape_004_20251118_134629.json",
+      "scrape_005_20251118_134906.json",
+      "scrape_006_20251118_134946.json",
+      "scrape_007_20251118_135924.json",
+      "scrape_008_20251118_212901.json",
+      "scrape_009_20251118_231241.json",
+      "scrape_010_20251119_005800.json"
+    ]
+  }
+}

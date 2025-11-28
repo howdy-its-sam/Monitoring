@@ -1,0 +1,233 @@
+{
+  "post": {
+    "id": "1p18u81",
+    "title": "SEO link building workflow that should be an AI agent but isn't yet",
+    "author": "No-Risk747",
+    "score_history": [
+      [
+        1,
+        "2025-11-19T06:18:29.653939"
+      ],
+      [
+        1,
+        "2025-11-19T06:18:29.863618"
+      ],
+      [
+        1,
+        "2025-11-19T06:18:30.100551"
+      ],
+      [
+        1,
+        "2025-11-19T06:18:30.306119"
+      ],
+      [
+        1,
+        "2025-11-19T06:18:30.561914"
+      ],
+      [
+        1,
+        "2025-11-19T06:18:30.784279"
+      ],
+      [
+        1,
+        "2025-11-19T06:18:31.042745"
+      ],
+      [
+        1,
+        "2025-11-19T06:18:31.256683"
+      ],
+      [
+        1,
+        "2025-11-19T06:18:31.523711"
+      ],
+      [
+        1,
+        "2025-11-19T06:18:31.740998"
+      ],
+      [
+        1,
+        "2025-11-19T06:18:31.989804"
+      ],
+      [
+        1,
+        "2025-11-19T06:18:32.198397"
+      ],
+      [
+        1,
+        "2025-11-19T06:18:32.441023"
+      ],
+      [
+        1,
+        "2025-11-19T06:18:32.647610"
+      ],
+      [
+        1,
+        "2025-11-19T06:18:32.903136"
+      ],
+      [
+        1,
+        "2025-11-19T06:18:33.122438"
+      ],
+      [
+        1,
+        "2025-11-19T06:18:33.379894"
+      ],
+      [
+        1,
+        "2025-11-19T06:18:33.678292"
+      ],
+      [
+        1,
+        "2025-11-19T06:18:33.918571"
+      ],
+      [
+        1,
+        "2025-11-19T06:18:34.130303"
+      ]
+    ],
+    "created_utc": 1763561810.0,
+    "num_comments": 1,
+    "subreddit": "AI_Agents",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1p18u81/seo_link_building_workflow_that_should_be_an_ai/",
+    "selftext": "Been thinking about where AI agents can create actual value versus where they're overhype. SEO link building is a perfect use case with clear workflows and measurable outcomes but current solutions are either purpose-built services or require too much manual work.\n\nThe specific problem is directory submissions for new websites. You need to submit to 200+ directories to build baseline domain authority but it's completely repetitive work. Same company information, different form fields, tracking approval status, monitoring indexing in Search Console. This screams AI agent automation.\n\nThe workflow an agent should handle is research relevant directories based on industry and quality metrics, fill submission forms with consistent company data across all platforms, handle multi-step approvals and email verifications, track which submissions get indexed by Google, generate comprehensive report with proof screenshots, and monitor domain authority changes over time.\n\nCurrent solutions are mostly specialized services rather than flexible agents. For example getmorebacklinks.org automates directory submissions by handling 200+ for $127 but it's a fixed service not a customizable agent you can modify. Same with tools for broken link building or competitor analysis.\n\nWhat's missing is an agent framework that understands SEO domain knowledge. You'd want to prompt it like \"build 100 quality backlinks to my SaaS site focusing on tech directories\" and have it research directories, evaluate quality based on DA and spam scores, submit with proper NAP consistency, and report results. That level of sophistication doesn't exist yet.\n\nThe technical challenges are real. Agents need persistent memory to maintain consistent company data across submissions. They need to evaluate directory quality to avoid spam sites that hurt rankings. They need to handle CAPTCHAs and multi-step processes. They need Search Console integration to verify indexing.\n\nThe business case is compelling. Most startups spend 10-20 hours monthly on repetitive SEO tasks at $50-100 hourly opportunity cost. An agent that could automate this reliably would be worth $100-200 monthly easily. The TAM is massive since every company with a website needs SEO.\n\nCurrent limitations are agent frameworks lack SEO-specific integrations and knowledge. They can't evaluate backlink quality or understand which directories matter for different industries. Form filling works sometimes but breaks when fields have different labels meaning same thing. Multi-month campaigns require memory most agents don't have.\n\nI think we'll see purpose-built SEO agents in 2025-2026 for specific workflows. Link building agents, content optimization agents, technical audit agents, competitor monitoring agents. Each focused on high-value repeatable tasks rather than trying to replace human strategists.\n\nThe key is avoiding the trap of building agents too general. An agent that \"does SEO\" is useless because SEO requires strategic thinking. But an agent that \"submits to 50 quality directories monthly and tracks indexing\" is specific and measurable. That's where agents can create value.\n\nFor anyone building in this space focus on workflow automation for specific SEO tasks with clear inputs and outputs. Don't try to replace SEO strategists. Replace the boring manual work that wastes their time. That's where AI agents make sense and people will actually pay for.",
+    "permalink": "/r/AI_Agents/comments/1p18u81/seo_link_building_workflow_that_should_be_an_ai/"
+  },
+  "comments": [
+    {
+      "id": "npo6xyg",
+      "parent_id": "t3_1p18u81",
+      "author": "AutoModerator",
+      "text_history": [
+        [
+          "Thank you for your submission, for any questions regarding AI, please check out our wiki at https://www.reddit.com/r/ai_agents/wiki (this is currently in test and we are actively adding to the wiki)\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/AI_Agents) if you have any questions or concerns.*",
+          "2025-11-19T06:18:29.653939"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T06:18:29.653939"
+        ],
+        [
+          1,
+          "2025-11-19T06:18:29.863618"
+        ],
+        [
+          1,
+          "2025-11-19T06:18:30.100551"
+        ],
+        [
+          1,
+          "2025-11-19T06:18:30.306119"
+        ],
+        [
+          1,
+          "2025-11-19T06:18:30.561914"
+        ],
+        [
+          1,
+          "2025-11-19T06:18:30.784279"
+        ],
+        [
+          1,
+          "2025-11-19T06:18:31.042745"
+        ],
+        [
+          1,
+          "2025-11-19T06:18:31.256683"
+        ],
+        [
+          1,
+          "2025-11-19T06:18:31.523711"
+        ],
+        [
+          1,
+          "2025-11-19T06:18:31.740998"
+        ],
+        [
+          1,
+          "2025-11-19T06:18:31.989804"
+        ],
+        [
+          1,
+          "2025-11-19T06:18:32.198397"
+        ],
+        [
+          1,
+          "2025-11-19T06:18:32.441023"
+        ],
+        [
+          1,
+          "2025-11-19T06:18:32.647610"
+        ],
+        [
+          1,
+          "2025-11-19T06:18:32.903136"
+        ],
+        [
+          1,
+          "2025-11-19T06:18:33.122438"
+        ],
+        [
+          1,
+          "2025-11-19T06:18:33.379894"
+        ],
+        [
+          1,
+          "2025-11-19T06:18:33.678292"
+        ],
+        [
+          1,
+          "2025-11-19T06:18:33.918571"
+        ],
+        [
+          1,
+          "2025-11-19T06:18:34.130303"
+        ]
+      ],
+      "created_utc": 1763561811.0,
+      "depth": 0,
+      "permalink": "/r/AI_Agents/comments/1p18u81/seo_link_building_workflow_that_should_be_an_ai/npo6xyg/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T06:18:34.130303",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/AI_Agents/comments/1p18u81/seo_link_building_workflow_that_should_be_an_ai/",
+    "total_comments": 1,
+    "top_level_comments": 1,
+    "api_requests": 1,
+    "expected_comments": 1,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 20,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_061829.json",
+      "scrape_002_20251119_061829.json",
+      "scrape_003_20251119_061829.json",
+      "scrape_004_20251119_061830.json",
+      "scrape_005_20251119_061830.json",
+      "scrape_006_20251119_061830.json",
+      "scrape_007_20251119_061830.json",
+      "scrape_008_20251119_061831.json",
+      "scrape_009_20251119_061831.json",
+      "scrape_010_20251119_061831.json",
+      "scrape_011_20251119_061831.json",
+      "scrape_012_20251119_061832.json",
+      "scrape_013_20251119_061832.json",
+      "scrape_014_20251119_061832.json",
+      "scrape_015_20251119_061832.json",
+      "scrape_016_20251119_061832.json",
+      "scrape_017_20251119_061833.json",
+      "scrape_018_20251119_061833.json",
+      "scrape_019_20251119_061833.json",
+      "scrape_020_20251119_061833.json"
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "post": {
+    "id": "1ocf6i0",
+    "title": "Agent-to-Agent (A2A) Protocol for connecting healthcare agents together",
+    "author": "drfloydpepper",
+    "score_history": [
+      [
+        6,
+        "2025-11-18T14:43:34.688328"
+      ],
+      [
+        5,
+        "2025-11-18T14:52:57.576720"
+      ],
+      [
+        8,
+        "2025-11-18T14:54:21.853730"
+      ],
+      [
+        8,
+        "2025-11-18T22:21:53.852888"
+      ]
+    ],
+    "created_utc": 1761058583.0,
+    "num_comments": 0,
+    "subreddit": "HealthAI",
+    "url": "https://i.redd.it/nxwvdxmaahwf1.png",
+    "selftext": "I’ve been experimenting with Goog;e's agent-to-agent (A2A) protocol and Pydantic agents. I built a small open-source project called Health Agents Collective. It’s a multi-agent healthcare organization designed for use cases like triage and patient data retrieval using FHIR.\n\nEach agent (like triage, FHIR data access, or orchestration) can run standalone, but it can also expose it's skills through an HTTP/A2A interface. These agents can run locally or in containers and discover each other at runtime.\n\nThe orchestration agent acts like a care coordinator: it finds available agents, delegates tasks, and combines results into a unified response. The idea is to keep each agent focused and modular while still giving them a structured way to collaborate — a pattern that feels like the natural next step for multi-agent systems.\n\nIt’s a learning/research project, not production software. I’m mainly doing this to understand how A2A coordination works in practice and how these architectures might apply to healthcare workflows where privacy and modularity matter.\n\nIf you’re interested, please contribute.\n\nGitHub repo: [https://github.com/micklynch/health-agents-collective](https://github.com/micklynch/health-agents-collective)  \nLanding page: [https://thacollective.github.io/](https://thacollective.github.io/)\n\nWould love feedback or collaboration ideas from others working on similar things.",
+    "permalink": "/r/HealthAI/comments/1ocf6i0/agenttoagent_a2a_protocol_for_connecting/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-18T22:21:53.852888",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/HealthAI/comments/1ocf6i0/agenttoagent_a2a_protocol_for_connecting/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 4,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_144334.json",
+      "scrape_002_20251118_145257.json",
+      "scrape_003_20251118_145421.json",
+      "scrape_004_20251118_222153.json"
+    ]
+  }
+}

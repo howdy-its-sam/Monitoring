@@ -1,0 +1,163 @@
+{
+  "post": {
+    "id": "1p0tp22",
+    "title": "Are RAG embedding Aggregations &amp; Bloom filters a good idea?",
+    "author": "Hobgoblin102",
+    "score_history": [
+      [
+        1,
+        "2025-11-19T02:55:52.390759"
+      ],
+      [
+        2,
+        "2025-11-19T03:03:43.296859"
+      ],
+      [
+        2,
+        "2025-11-19T03:06:51.157118"
+      ],
+      [
+        1,
+        "2025-11-19T03:16:11.680124"
+      ]
+    ],
+    "created_utc": 1763514128.0,
+    "num_comments": 3,
+    "subreddit": "Rag",
+    "url": "https://www.reddit.com/r/Rag/comments/1p0tp22/are_rag_embedding_aggregations_bloom_filters_a/",
+    "selftext": "I'm playing around with the idea of a hyper-dense semantic search which has near no knowledge of the actual data it's indexing - and am wondering if some of my ideas have already been tried else where and I just can't find them.\n\n\n## 1. Embedding Aggregation\n\nPresumably when you create embedding from chunks, some of those embeddings add little to no new information.\nSo presumably you could find the embedding with the nearest neighbour where cosine similarity `&gt;= x%`.\nYou remove all embeddings from that cluster and replace it with the average of those nodes.\n\nRepeat until you can find no new clusters.\n\nObviously there will be some information loss and degradation.\nBut it could also drastically reduce storage size, but it's then a trade-off for future query accuracy.\nPlus there is then the question of should you even average the neighbours, or just cull the near neighbours.\n\nI'm hoping maybe someone has tried this and has experimental results, and I just don't know the right jargon to find it?\n\n## 2. Bloom Filter post-filtering\n\nIf all the search engine is storing is the embeddings, and you're applying some aggregation.\nIt would make searching for exact keywords impossible.\n\nBut you could use a bloom filter to encode individual words or tokens.\nThat way you could use it to rerank the results based on how many of the keywords in the search appear in the chunk that the embedding was created from (with some weighting).\n\nPlus if you are doing embedding aggregation you can just bitwise OR your bloomfilters together to merge the sets.\n\n---\n\nI feel like these aren't particularly novel ideas, but I can't find any information on people trying it.\n\nSo maybe it's just a really dumb idea so people have:\n  - never tried it, because it's bad\n  - tried it but it was so bad it got burried by better results\n\nI don't know 😅",
+    "permalink": "/r/Rag/comments/1p0tp22/are_rag_embedding_aggregations_bloom_filters_a/"
+  },
+  "comments": [
+    {
+      "id": "nplgqd0",
+      "parent_id": "t3_1p0tp22",
+      "author": "durable-racoon",
+      "text_history": [
+        [
+          "'1. Embedding Aggregation\n\nPresumably when you create embedding from chunks, some of those embeddings add little to no new information. So presumably you could find the embedding with the nearest neighbour where cosine similarity `&gt;= x%`. You remove all embeddings from that cluster and replace it with the average of those nodes.\n\n' ok but what if there's identical chunks across many documents, but they all link to totally unrelated documents?\n\nwhat if I want to find all documents with phrasing identical or similar to 'FOR INTERNAL USE ONLY'?\n\nIn most use cases this is probably bad?\n\n2. Bloom Filters\n\nthese are usually used to increase speed/reduce latency at the cost of precision. A very creative idea.\n\n'if most search engines only store the embeddings' - this is false however. most search engines store the raw text content and the metadata too.\n\nbm25/semantic hybrid search is the most common approach, where you search the embeddings and do an exact phrase text search.\n\n\n\nvery cool and creative ideas. I dont think they help for most use cases tho?",
+          "2025-11-19T02:55:52.390759"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:55:52.390759"
+        ],
+        [
+          1,
+          "2025-11-19T03:03:43.296859"
+        ],
+        [
+          1,
+          "2025-11-19T03:06:51.157118"
+        ],
+        [
+          1,
+          "2025-11-19T03:16:11.680124"
+        ]
+      ],
+      "created_utc": 1763515777.0,
+      "depth": 0,
+      "permalink": "/r/Rag/comments/1p0tp22/are_rag_embedding_aggregations_bloom_filters_a/nplgqd0/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npmj4kd",
+      "parent_id": "t3_1p0tp22",
+      "author": "JeanC413",
+      "text_history": [
+        [
+          "So.... vector index with extra steps?",
+          "2025-11-19T02:55:52.390759"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:55:52.390759"
+        ],
+        [
+          1,
+          "2025-11-19T03:03:43.296859"
+        ],
+        [
+          1,
+          "2025-11-19T03:06:51.157118"
+        ],
+        [
+          1,
+          "2025-11-19T03:16:11.680124"
+        ]
+      ],
+      "created_utc": 1763531127.0,
+      "depth": 0,
+      "permalink": "/r/Rag/comments/1p0tp22/are_rag_embedding_aggregations_bloom_filters_a/npmj4kd/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npnev1z",
+      "parent_id": "t3_1p0tp22",
+      "author": "Ecstatic_Heron_7944",
+      "text_history": [
+        [
+          "You can apply k-means clustering algorithm to embeddings to group them into clusters. I did this to group hackernews comments and used this to get the general vibe of the community sentiment towards a topic.\n\nFrom experience, it works really well and you can also use it group user interview responses, trustpilot reviews, extract key topics from a document etc. Let me know if you want an example link.\n\nQdrant also has Distance Matrix Pairs: [https://api.qdrant.tech/api-reference/search/matrix-pairs](https://api.qdrant.tech/api-reference/search/matrix-pairs), though this is more sophisticated approach.",
+          "2025-11-19T03:03:43.296859"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T03:03:43.296859"
+        ],
+        [
+          1,
+          "2025-11-19T03:06:51.157118"
+        ],
+        [
+          1,
+          "2025-11-19T03:16:11.680124"
+        ]
+      ],
+      "created_utc": 1763549878.0,
+      "depth": 0,
+      "permalink": "/r/Rag/comments/1p0tp22/are_rag_embedding_aggregations_bloom_filters_a/npnev1z/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:16:11.680124",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/Rag/comments/1p0tp22/are_rag_embedding_aggregations_bloom_filters_a/",
+    "total_comments": 3,
+    "top_level_comments": 3,
+    "api_requests": 1,
+    "expected_comments": 3,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 4,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_025552.json",
+      "scrape_002_20251119_030343.json",
+      "scrape_003_20251119_030650.json",
+      "scrape_004_20251119_031611.json"
+    ]
+  }
+}

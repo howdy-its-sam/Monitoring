@@ -1,0 +1,1611 @@
+{
+  "post": {
+    "id": "1p0i3us",
+    "title": "[ Removed by moderator ]",
+    "author": "Competitive_Act4656",
+    "score_history": [
+      [
+        9,
+        "2025-11-19T02:57:30.644602"
+      ],
+      [
+        11,
+        "2025-11-19T03:05:51.630405"
+      ],
+      [
+        10,
+        "2025-11-19T03:08:51.959763"
+      ]
+    ],
+    "created_utc": 1763486927.0,
+    "num_comments": 46,
+    "subreddit": "ChatGPTPro",
+    "url": "https://www.reddit.com/r/ChatGPTPro/comments/1p0i3us/power_users_how_do_you_keep_chatgpt_context_alive/",
+    "selftext": "[removed]",
+    "permalink": "/r/ChatGPTPro/comments/1p0i3us/power_users_how_do_you_keep_chatgpt_context_alive/"
+  },
+  "comments": [
+    {
+      "id": "npixdjt",
+      "parent_id": "t3_1p0i3us",
+      "author": "qualityvote2",
+      "text_history": [
+        [
+          "Hello u/Competitive_Act4656 👋 Welcome to r/ChatGPTPro!  \nThis is a community for advanced ChatGPT, AI tools, and prompt engineering discussions.  \nOther members will now vote on whether your post fits our community guidelines.\n\n\n---\n\nFor other users, does this post fit the subreddit?\n\nIf so, **upvote this comment!**\n\nOtherwise, **downvote this comment!**\n\nAnd if it does break the rules, **downvote this comment and report this post!**",
+          "2025-11-19T02:57:30.644602"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:57:30.644602"
+        ],
+        [
+          1,
+          "2025-11-19T03:05:51.630405"
+        ],
+        [
+          1,
+          "2025-11-19T03:08:51.959763"
+        ]
+      ],
+      "created_utc": 1763486929.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTPro/comments/1p0i3us/power_users_how_do_you_keep_chatgpt_context_alive/npixdjt/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npj171w",
+      "parent_id": "t3_1p0i3us",
+      "author": "Available_Canary_517",
+      "text_history": [
+        [
+          "I use gpt projects to keep it relevent , it is able to keep up with lots of contents there",
+          "2025-11-19T02:57:30.644602"
+        ]
+      ],
+      "score_history": [
+        [
+          7,
+          "2025-11-19T02:57:30.644602"
+        ],
+        [
+          7,
+          "2025-11-19T03:05:51.630405"
+        ],
+        [
+          7,
+          "2025-11-19T03:08:51.959763"
+        ]
+      ],
+      "created_utc": 1763488060.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTPro/comments/1p0i3us/power_users_how_do_you_keep_chatgpt_context_alive/npj171w/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npj5cog",
+          "parent_id": "t1_npj171w",
+          "author": "Competitive_Act4656",
+          "text_history": [
+            [
+              "GPT Projects is definitely one of the better attempts at giving people some continuity.\nThe main limitation I ran into is that Projects still live inside one model, so the moment you switch contexts or move between tools, things fall apart.\n\nDo you keep everything inside a single Project, or do you split things into many\nAnd how do you handle pulling older insights back up when a topic grows\nThis is exactly why we built myNeutron, because our own Chats and Projects kept getting too large or too fragmented over time.\n\nCurious how you are structuring yours.",
+              "2025-11-19T02:57:30.644602"
+            ]
+          ],
+          "score_history": [
+            [
+              3,
+              "2025-11-19T02:57:30.644602"
+            ],
+            [
+              3,
+              "2025-11-19T03:05:51.630405"
+            ],
+            [
+              3,
+              "2025-11-19T03:08:51.959763"
+            ]
+          ],
+          "created_utc": 1763489257.0,
+          "depth": 1,
+          "permalink": "/r/ChatGPTPro/comments/1p0i3us/power_users_how_do_you_keep_chatgpt_context_alive/npj5cog/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npkjr5k",
+              "parent_id": "t1_npj5cog",
+              "author": "niado",
+              "text_history": [
+                [
+                  "I know this is a marketing post, but I’ll say it anyway - - use projects per-topic so it has less to keep up with and less that needs refreshed when context is lost.  \n- have the model periodically (when it starts to degrade, or when you quit working in that chat for a while) generate a summary of what you’ve been working on, with any key details. \n- when you start up again, paste the latest summary into the chat (even a new chat within the same topic-delineated project) \n\nFrom what I gather, the product that you’re selling follows a process very similar to what I just described. But this is trivial to do manually - like saving your work when using traditional software. \n\nJust for clarity though, you’ll never maintain full context with granular detail using ChatGPT. ChatGPT is designed to work from summarization, and you just have to maintain your project details (code base, etc.)  independently.",
+                  "2025-11-19T02:57:30.644602"
+                ]
+              ],
+              "score_history": [
+                [
+                  2,
+                  "2025-11-19T02:57:30.644602"
+                ],
+                [
+                  2,
+                  "2025-11-19T03:05:51.630405"
+                ],
+                [
+                  2,
+                  "2025-11-19T03:08:51.959763"
+                ]
+              ],
+              "created_utc": 1763504286.0,
+              "depth": 2,
+              "permalink": "/r/ChatGPTPro/comments/1p0i3us/power_users_how_do_you_keep_chatgpt_context_alive/npkjr5k/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": [
+                {
+                  "id": "npmfm41",
+                  "parent_id": "t1_npkjr5k",
+                  "author": "Competitive_Act4656",
+                  "text_history": [
+                    [
+                      "You’re totally right about the manual workflow.\nBefore we built myNeutron, this is exactly what we were doing too:\n\n• split topics into separate chats or Projects\n• force the model to generate a recap when things drift\n• paste the summary into a fresh chat\n• repeat every time the thread gets too big or stale\n\nIt works, but only if you’re disciplined, and only if everything stays inside one model. The moment you switch between GPT, Claude, Cursor, Perplexity, or take a break for a few days, the chain breaks again and you have to rebuild the context manually.\n\nThat was the pain point that pushed us to create myNeutron.\n\nIt’s basically the same idea you described, except:\n\n• the recap becomes a Seed automatically\n• the Seeds don’t live inside any specific model\n• when you switch tools, the continuity stays intact\n• the system can pull up older reasoning without relying on a single chat history\n• you don’t need to remember to “refresh” context, it just persists\n\nYou’re right though, ChatGPT itself will always rely on summarization. That’s why we ended up externalizing the “source of truth” instead of trying to store long-term detail inside the model.\n\nCurious, since you’re already doing this manually:\nWhat is the biggest place where your current workflow still breaks down?\nIs it drift, recency loss, or just the friction of regenerating summaries?",
+                      "2025-11-19T02:57:30.644602"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      1,
+                      "2025-11-19T02:57:30.644602"
+                    ],
+                    [
+                      1,
+                      "2025-11-19T03:05:51.630405"
+                    ],
+                    [
+                      1,
+                      "2025-11-19T03:08:51.959763"
+                    ]
+                  ],
+                  "created_utc": 1763529418.0,
+                  "depth": 3,
+                  "permalink": "/r/ChatGPTPro/comments/1p0i3us/power_users_how_do_you_keep_chatgpt_context_alive/npmfm41/",
+                  "is_submitter": true,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": [
+                    {
+                      "id": "npmujdt",
+                      "parent_id": "t1_npmfm41",
+                      "author": "niado",
+                      "text_history": [
+                        [
+                          "How does a recap become a “seed” automatically? And what is a seed? Is it just the recap? How is what you’re doing better than the manual method I described? I know it’s not completely automated - managing the context is going to require user interaction, which goes back to how is it better?\n\nAnd my workflow only really breaks down when I run into actions that the model just isn’t capable of performing - for example: analyzing and processing large amounts of text word for word, physical actions, anything that requires code base continuity (interfacing with GitHub helps here).\n\nIt’s also frustrating when the model provides outdated or incorrect information and sends me down the wrong path, or makes a recommendation that doesn’t pan out because of some particular detail that it overlooked. This has gotten better though as I’ve curated memories and project bootstraps to push it towards factual accuracy.",
+                          "2025-11-19T02:57:30.644602"
+                        ]
+                      ],
+                      "score_history": [
+                        [
+                          1,
+                          "2025-11-19T02:57:30.644602"
+                        ],
+                        [
+                          1,
+                          "2025-11-19T03:05:51.630405"
+                        ],
+                        [
+                          1,
+                          "2025-11-19T03:08:51.959763"
+                        ]
+                      ],
+                      "created_utc": 1763537427.0,
+                      "depth": 4,
+                      "permalink": "/r/ChatGPTPro/comments/1p0i3us/power_users_how_do_you_keep_chatgpt_context_alive/npmujdt/",
+                      "is_submitter": false,
+                      "controversiality": 0,
+                      "gilded": 0,
+                      "edited": false,
+                      "deleted": false,
+                      "deleted_at": null,
+                      "replies": [
+                        {
+                          "id": "npmw55z",
+                          "parent_id": "t1_npmujdt",
+                          "author": "Competitive_Act4656",
+                          "text_history": [
+                            [
+                              "Great questions, let me unpack it clearly.\n\nA Seed in myNeutron is not just a recap. It is any piece of information that *you* decide is foundational for future work. A recap can become a Seed if you mark it, but you can also make Seeds from notes, rules, constraints, definitions, examples, plans, etc. The important part is that Seeds live outside the chat, so they don’t drift or get lost when the model resets.\n\nThe difference from the manual method you described is mostly in workflow friction.  \nYou already do all the right steps manually, but they take time and they don’t scale:\n\n* manually generating a recap\n* manually pasting it into a new chat\n* manually checking alignment\n* manually tracking which project a detail belongs to\n\nmyNeutron doesn’t replace that process, it compresses it:\n\n* one click to turn something into a Seed\n* Seeds automatically show up when you switch models\n* you don’t need to re paste summaries across chats\n* everything for a topic is grouped instead of spread across many threads\n* the model starts every session with the same stable foundation instead of building from scratch\n\nSo myNeutron doesn’t solve everything, but it removes the busywork layer that sits between you and the model.",
+                              "2025-11-19T02:57:30.644602"
+                            ]
+                          ],
+                          "score_history": [
+                            [
+                              1,
+                              "2025-11-19T02:57:30.644602"
+                            ],
+                            [
+                              1,
+                              "2025-11-19T03:05:51.630405"
+                            ],
+                            [
+                              1,
+                              "2025-11-19T03:08:51.959763"
+                            ]
+                          ],
+                          "created_utc": 1763538398.0,
+                          "depth": 5,
+                          "permalink": "/r/ChatGPTPro/comments/1p0i3us/power_users_how_do_you_keep_chatgpt_context_alive/npmw55z/",
+                          "is_submitter": true,
+                          "controversiality": 0,
+                          "gilded": 0,
+                          "edited": false,
+                          "deleted": false,
+                          "deleted_at": null,
+                          "replies": [
+                            {
+                              "id": "npmwe9c",
+                              "parent_id": "t1_npmw55z",
+                              "author": "Competitive_Act4656",
+                              "text_history": [
+                                [
+                                  "oh sorry and to your second point:  \nYou are right that context breaks when the model is asked to do work it simply cannot do, like reading thousands of lines of code or maintaining long term structural understanding. That’s a model limitation, not a workflow one. Tools like GitHub integration help because they give the model the missing data directly.\n\nWhere myNeutron helps is in the parts the model should be able to keep straight but often doesn’t, like:  \nnaming, constraints, decisions, definitions, reasoning paths that matter later, subtle details that you don’t want to re explain every morning.\n\nYou also mentioned outdated or inaccurate AI suggestions.  \nThat is a perfect example of why we built Seeds in the first place. The model tends to go off track when it mixes new context with old assumptions. Having a clean set of fixed Seeds gives it a stable frame so less of that pollution happens.\n\nTo be very honest, none of this is rocket science or magic and none of it replaces the user.  \nIt just makes the manual process you already do faster, cleaner, and easier to repeat across tools. At least we hope it does, lol, that is why I'm asking and hoping for feedback.",
+                                  "2025-11-19T02:57:30.644602"
+                                ]
+                              ],
+                              "score_history": [
+                                [
+                                  1,
+                                  "2025-11-19T02:57:30.644602"
+                                ],
+                                [
+                                  1,
+                                  "2025-11-19T03:05:51.630405"
+                                ],
+                                [
+                                  1,
+                                  "2025-11-19T03:08:51.959763"
+                                ]
+                              ],
+                              "created_utc": 1763538550.0,
+                              "depth": 6,
+                              "permalink": "/r/ChatGPTPro/comments/1p0i3us/power_users_how_do_you_keep_chatgpt_context_alive/npmwe9c/",
+                              "is_submitter": true,
+                              "controversiality": 0,
+                              "gilded": 0,
+                              "edited": false,
+                              "deleted": false,
+                              "deleted_at": null,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "npjh9rq",
+      "parent_id": "t3_1p0i3us",
+      "author": "VagueRumi",
+      "text_history": [
+        [
+          "When a chat becomes too big, i ask chatgpt to write a recap, what we’re doing, what we’ve done so far and what needs to be done next. I paste that in new chat and it continues from there. \n\nI also ask chatgpt to check last 10-20 merged PRs to get more context. \n\nI’m also building a system currently, sorts of like a real time updating logs for chatgpt to check before every new task, an SSOT - single source of truth. \n\nI am still in the process though.",
+          "2025-11-19T02:57:30.644602"
+        ]
+      ],
+      "score_history": [
+        [
+          4,
+          "2025-11-19T02:57:30.644602"
+        ],
+        [
+          4,
+          "2025-11-19T03:05:51.630405"
+        ],
+        [
+          4,
+          "2025-11-19T03:08:51.959763"
+        ]
+      ],
+      "created_utc": 1763492687.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTPro/comments/1p0i3us/power_users_how_do_you_keep_chatgpt_context_alive/npjh9rq/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npjj9jl",
+          "parent_id": "t1_npjh9rq",
+          "author": "Competitive_Act4656",
+          "text_history": [
+            [
+              "This is exactly the kind of workflow I kept seeing. Everyone is basically building their own SSOT because the models will not hold anything stable across sessions.\n\nYour recap method is smart. I used to do the same. When a chat gets too heavy, force GPT to summarize the thread, paste that into a new chat, continue from there, pray it does not drift. It works, but only until the next big context jump.\n\nThe PR checking idea is clever too. That is the part that made me realize the real issue. We keep building these side systems because the work never gets a real home.\n\nThat is why we built myNeutron. Instead of relying on the model to remember or recap, every important piece you figure out becomes a Seed outside the chat. When you start a new conversation or switch models, the continuity stays intact. The model reads from your Seeds and stays aligned without you re-explaining or re-summarizing.\n\nYour SSOT idea is exactly what myNeutron tries to solve, but without needing to manually rebuild context every time the chat gets too long.\n\nCurious though, in your system:\n\n-How do you prevent drift over time\n-Do recap summaries ever lose important nuance\n-How big is your SSOT getting already\n\nEveryone is hacking their way to continuity in different ways. It is fascinating to see how many parallel solutions appear.",
+              "2025-11-19T02:57:30.644602"
+            ]
+          ],
+          "score_history": [
+            [
+              2,
+              "2025-11-19T02:57:30.644602"
+            ],
+            [
+              2,
+              "2025-11-19T03:05:51.630405"
+            ],
+            [
+              2,
+              "2025-11-19T03:08:51.959763"
+            ]
+          ],
+          "created_utc": 1763493278.0,
+          "depth": 1,
+          "permalink": "/r/ChatGPTPro/comments/1p0i3us/power_users_how_do_you_keep_chatgpt_context_alive/npjj9jl/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npjjx1l",
+              "parent_id": "t1_npjj9jl",
+              "author": "ObjectiveBadger6493",
+              "text_history": [
+                [
+                  "Totally get that! It’s wild how we have to create our own systems just to keep things organized. Having a Seed system sounds like a solid way to bypass the memory issues. If you nail the continuity part, it'll save a ton of headaches for everyone trying to juggle long-term projects.",
+                  "2025-11-19T02:57:30.644602"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-19T02:57:30.644602"
+                ],
+                [
+                  1,
+                  "2025-11-19T03:05:51.630405"
+                ],
+                [
+                  1,
+                  "2025-11-19T03:08:51.959763"
+                ]
+              ],
+              "created_utc": 1763493474.0,
+              "depth": 2,
+              "permalink": "/r/ChatGPTPro/comments/1p0i3us/power_users_how_do_you_keep_chatgpt_context_alive/npjjx1l/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": [
+                {
+                  "id": "npjmkmm",
+                  "parent_id": "t1_npjjx1l",
+                  "author": "Competitive_Act4656",
+                  "text_history": [
+                    [
+                      "Appreciate that. What surprised me the most is how everyone ends up building some version of continuity management on the side. Recaps, Projects, folders, giant scratchpads, SSOT docs… none of us really trust the model to hold the thread for more than a session.\n\nThat was basically the trigger for us. Once we started saving the important pieces as Seeds outside the chat, continuity stopped depending on the model’s memory and started depending on what we captured. It suddenly felt a lot more stable, especially when switching models or reopening things days later.\n\nStill curious how you handle this in your own setup:\n– Do Projects stay stable enough for you long term\n– Does drift start after a few days or only after big context jumps\n– What’s the biggest pain point for you right now, model or structure\n\nWe built myNeutron mostly for ourselves, so hearing how other power users solve the same problems helps us shape it better. If your system ever hits a wall, I’d genuinely love to hear how it compares.",
+                      "2025-11-19T02:57:30.644602"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      1,
+                      "2025-11-19T02:57:30.644602"
+                    ],
+                    [
+                      1,
+                      "2025-11-19T03:05:51.630405"
+                    ],
+                    [
+                      1,
+                      "2025-11-19T03:08:51.959763"
+                    ]
+                  ],
+                  "created_utc": 1763494268.0,
+                  "depth": 3,
+                  "permalink": "/r/ChatGPTPro/comments/1p0i3us/power_users_how_do_you_keep_chatgpt_context_alive/npjmkmm/",
+                  "is_submitter": true,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "npkp5c3",
+          "parent_id": "t1_npjh9rq",
+          "author": "TheLawIsSacred",
+          "text_history": [
+            [
+              "In addition to setting up [Supermemory.AI](http://Supermemory.AI) (an MCP) to my three frontier models (Claude Max 5x, Gemini 3 Thinking, ChatGPT Plus, 5.1 Thinking) -  \n  \nI have also been copying and pasting my high-importance chats into a notebook on NotebookLM (including a short, standardized prompt as a preamble before copying &amp; pasting the chat - it is a standardized prompt that I use for all chats that I upload as Sources to this notebook, so the notebook may easily reference it).",
+              "2025-11-19T02:57:30.644602"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-19T02:57:30.644602"
+            ],
+            [
+              1,
+              "2025-11-19T03:05:51.630405"
+            ],
+            [
+              1,
+              "2025-11-19T03:08:51.959763"
+            ]
+          ],
+          "created_utc": 1763506049.0,
+          "depth": 1,
+          "permalink": "/r/ChatGPTPro/comments/1p0i3us/power_users_how_do_you_keep_chatgpt_context_alive/npkp5c3/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npmhkop",
+              "parent_id": "t1_npkp5c3",
+              "author": "Competitive_Act4656",
+              "text_history": [
+                [
+                  "Super interesting setup. It’s wild how many of us ended up building some version of an external “anchor” because none of the models can hold long term structure on their own.\n\nUsing NotebookLM as a standardized source layer makes a lot of sense, especially since you can feed multiple models from the same reference. Cool to see how different people are stitching together their own continuity stack.",
+                  "2025-11-19T02:57:30.644602"
+                ]
+              ],
+              "score_history": [
+                [
+                  2,
+                  "2025-11-19T02:57:30.644602"
+                ],
+                [
+                  2,
+                  "2025-11-19T03:05:51.630405"
+                ],
+                [
+                  2,
+                  "2025-11-19T03:08:51.959763"
+                ]
+              ],
+              "created_utc": 1763530362.0,
+              "depth": 2,
+              "permalink": "/r/ChatGPTPro/comments/1p0i3us/power_users_how_do_you_keep_chatgpt_context_alive/npmhkop/",
+              "is_submitter": true,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "npjqv52",
+      "parent_id": "t3_1p0i3us",
+      "author": "newtrilobite",
+      "text_history": [
+        [
+          "OP, \n\nif you're not able to communicate and interact as a person, I have no confidence in your AI tool.",
+          "2025-11-19T02:57:30.644602"
+        ]
+      ],
+      "score_history": [
+        [
+          3,
+          "2025-11-19T02:57:30.644602"
+        ],
+        [
+          3,
+          "2025-11-19T03:05:51.630405"
+        ],
+        [
+          3,
+          "2025-11-19T03:08:51.959763"
+        ]
+      ],
+      "created_utc": 1763495554.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTPro/comments/1p0i3us/power_users_how_do_you_keep_chatgpt_context_alive/npjqv52/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npjrv0o",
+          "parent_id": "t1_npjqv52",
+          "author": "Competitive_Act4656",
+          "text_history": [
+            [
+              "Hmmmm 🤔\n\nYou judge AI tools and apps based on that? Interesting. But no worries, I'm capable",
+              "2025-11-19T02:57:30.644602"
+            ]
+          ],
+          "score_history": [
+            [
+              -1,
+              "2025-11-19T02:57:30.644602"
+            ],
+            [
+              -1,
+              "2025-11-19T03:05:51.630405"
+            ],
+            [
+              -1,
+              "2025-11-19T03:08:51.959763"
+            ]
+          ],
+          "created_utc": 1763495847.0,
+          "depth": 1,
+          "permalink": "/r/ChatGPTPro/comments/1p0i3us/power_users_how_do_you_keep_chatgpt_context_alive/npjrv0o/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npk2ego",
+              "parent_id": "t1_npjrv0o",
+              "author": "newtrilobite",
+              "text_history": [
+                [
+                  "I just *people* by that.\n\nif you, yourself, are only able to interact with others in a simple reddit thread by copy/pasting canned responses, that's a red flag.\n\n(and welcome, finally, to the thread!)",
+                  "2025-11-19T02:57:30.644602"
+                ]
+              ],
+              "score_history": [
+                [
+                  4,
+                  "2025-11-19T02:57:30.644602"
+                ],
+                [
+                  3,
+                  "2025-11-19T03:05:51.630405"
+                ],
+                [
+                  5,
+                  "2025-11-19T03:08:51.959763"
+                ]
+              ],
+              "created_utc": 1763499054.0,
+              "depth": 2,
+              "permalink": "/r/ChatGPTPro/comments/1p0i3us/power_users_how_do_you_keep_chatgpt_context_alive/npk2ego/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": [
+                {
+                  "id": "npkehif",
+                  "parent_id": "t1_npk2ego",
+                  "author": "Competitive_Act4656",
+                  "text_history": [
+                    [
+                      "I'm in the thread the whole time lol. \n\nDo I ran my responses (obviously not yours) through an AI to correct my grammar, my expressions and my vocabular, ofc, yes, I'm guilty like 99% of the people whos English is not their native language (mine ofc is not, I'm a Slovenian). \n\nBut what does that change?",
+                      "2025-11-19T02:57:30.644602"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      -1,
+                      "2025-11-19T02:57:30.644602"
+                    ],
+                    [
+                      -1,
+                      "2025-11-19T03:05:51.630405"
+                    ],
+                    [
+                      -1,
+                      "2025-11-19T03:08:51.959763"
+                    ]
+                  ],
+                  "created_utc": 1763502654.0,
+                  "depth": 3,
+                  "permalink": "/r/ChatGPTPro/comments/1p0i3us/power_users_how_do_you_keep_chatgpt_context_alive/npkehif/",
+                  "is_submitter": true,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "npj6vgv",
+      "parent_id": "t3_1p0i3us",
+      "author": "TwoRight9509",
+      "text_history": [
+        [
+          "Remindme! One month",
+          "2025-11-19T02:57:30.644602"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:57:30.644602"
+        ],
+        [
+          1,
+          "2025-11-19T03:05:51.630405"
+        ],
+        [
+          1,
+          "2025-11-19T03:08:51.959763"
+        ]
+      ],
+      "created_utc": 1763489694.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTPro/comments/1p0i3us/power_users_how_do_you_keep_chatgpt_context_alive/npj6vgv/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npj717k",
+          "parent_id": "t1_npj6vgv",
+          "author": "RemindMeBot",
+          "text_history": [
+            [
+              "I will be messaging you in 1 month on [**2025-12-18 18:14:54 UTC**](http://www.wolframalpha.com/input/?i=2025-12-18%2018:14:54%20UTC%20To%20Local%20Time) to remind you of [**this link**](https://www.reddit.com/r/ChatGPTPro/comments/1p0i3us/power_users_how_do_you_keep_chatgpt_context_alive/npj6vgv/?context=3)\n\n[**1 OTHERS CLICKED THIS LINK**](https://www.reddit.com/message/compose/?to=RemindMeBot&amp;subject=Reminder&amp;message=%5Bhttps%3A%2F%2Fwww.reddit.com%2Fr%2FChatGPTPro%2Fcomments%2F1p0i3us%2Fpower_users_how_do_you_keep_chatgpt_context_alive%2Fnpj6vgv%2F%5D%0A%0ARemindMe%21%202025-12-18%2018%3A14%3A54%20UTC) to send a PM to also be reminded and to reduce spam.\n\n^(Parent commenter can ) [^(delete this message to hide from others.)](https://www.reddit.com/message/compose/?to=RemindMeBot&amp;subject=Delete%20Comment&amp;message=Delete%21%201p0i3us)\n\n*****\n\n|[^(Info)](https://www.reddit.com/r/RemindMeBot/comments/e1bko7/remindmebot_info_v21/)|[^(Custom)](https://www.reddit.com/message/compose/?to=RemindMeBot&amp;subject=Reminder&amp;message=%5BLink%20or%20message%20inside%20square%20brackets%5D%0A%0ARemindMe%21%20Time%20period%20here)|[^(Your Reminders)](https://www.reddit.com/message/compose/?to=RemindMeBot&amp;subject=List%20Of%20Reminders&amp;message=MyReminders%21)|[^(Feedback)](https://www.reddit.com/message/compose/?to=Watchful1&amp;subject=RemindMeBot%20Feedback)|\n|-|-|-|-|",
+              "2025-11-19T02:57:30.644602"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-19T02:57:30.644602"
+            ],
+            [
+              1,
+              "2025-11-19T03:05:51.630405"
+            ],
+            [
+              1,
+              "2025-11-19T03:08:51.959763"
+            ]
+          ],
+          "created_utc": 1763489739.0,
+          "depth": 1,
+          "permalink": "/r/ChatGPTPro/comments/1p0i3us/power_users_how_do_you_keep_chatgpt_context_alive/npj717k/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": 1763497965.0,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npjdnu2",
+      "parent_id": "t3_1p0i3us",
+      "author": "Direct-Cheetah-711",
+      "text_history": [
+        [
+          "I trained it at the onset with rules and goals and to always use that as a basis.",
+          "2025-11-19T02:57:30.644602"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:57:30.644602"
+        ],
+        [
+          1,
+          "2025-11-19T03:05:51.630405"
+        ],
+        [
+          1,
+          "2025-11-19T03:08:51.959763"
+        ]
+      ],
+      "created_utc": 1763491635.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTPro/comments/1p0i3us/power_users_how_do_you_keep_chatgpt_context_alive/npjdnu2/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npjjutc",
+          "parent_id": "t1_npjdnu2",
+          "author": "Competitive_Act4656",
+          "text_history": [
+            [
+              "That makes sense. A strong initial system prompt with rules and goals definitely helps reduce drift, especially for short or medium sessions.\n\nThe part I always struggled with was what happens after a week or two, once the chat is huge or when you need to switch models. Even with a solid setup, the model eventually forgets earlier decisions, or it starts interpreting the rules differently over time.\n\nThat is what pushed us to build myNeutron. Instead of relying on one long chat or one prompt, every important decision or insight becomes a Seed outside the conversation. When you come back days or weeks later, you do not need to retrain the model from scratch. The continuity stays stable no matter how many chats you start.\n\nOut of curiosity, how often do you need to “reset” your system prompt or repeat the rules\nAnd do you ever run into situations where the model starts bending the goals you set at the beginning\n\nAlways interesting to see how different people try to keep long running work consistent.",
+              "2025-11-19T02:57:30.644602"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-19T02:57:30.644602"
+            ],
+            [
+              1,
+              "2025-11-19T03:05:51.630405"
+            ],
+            [
+              1,
+              "2025-11-19T03:08:51.959763"
+            ]
+          ],
+          "created_utc": 1763493455.0,
+          "depth": 1,
+          "permalink": "/r/ChatGPTPro/comments/1p0i3us/power_users_how_do_you_keep_chatgpt_context_alive/npjjutc/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npjzfxt",
+              "parent_id": "t1_npjjutc",
+              "author": "Nalmyth",
+              "text_history": [
+                [
+                  "I keep it in my head.. You really wanna replace software devs already?\n\nPerhaps think with any ethical bone in your body first lol",
+                  "2025-11-19T02:57:30.644602"
+                ]
+              ],
+              "score_history": [
+                [
+                  0,
+                  "2025-11-19T02:57:30.644602"
+                ],
+                [
+                  0,
+                  "2025-11-19T03:05:51.630405"
+                ],
+                [
+                  0,
+                  "2025-11-19T03:08:51.959763"
+                ]
+              ],
+              "created_utc": 1763498162.0,
+              "depth": 2,
+              "permalink": "/r/ChatGPTPro/comments/1p0i3us/power_users_how_do_you_keep_chatgpt_context_alive/npjzfxt/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": [
+                {
+                  "id": "npka1rk",
+                  "parent_id": "t1_npjzfxt",
+                  "author": "Competitive_Act4656",
+                  "text_history": [
+                    [
+                      "Oh no trust me, I’m not a developer at all, Vibe coding the \"this is how I want this to look like\" is the best you'll get out ouf me... I’m on the marketing side, so without devs I can do jack sh...\n\nThe whole point of my question wasn’t “replace software devs”. It was the opposite. I’m trying to understand how people who actually build things keep their long projects consistent when ChatGPT forgets everything between sessions.\n\nI literally could not ship anything without developers, even with all the new AI toys. This is just me trying to figure out better continuity, not automate anyone out of existence.\n\nBut since you keep everything in your head, I’m curious: how do you track bigger decisions or debugging history across weeks? Do you just remember it all instinctively?",
+                      "2025-11-19T02:57:30.644602"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      0,
+                      "2025-11-19T02:57:30.644602"
+                    ],
+                    [
+                      0,
+                      "2025-11-19T03:05:51.630405"
+                    ],
+                    [
+                      0,
+                      "2025-11-19T03:08:51.959763"
+                    ]
+                  ],
+                  "created_utc": 1763501318.0,
+                  "depth": 3,
+                  "permalink": "/r/ChatGPTPro/comments/1p0i3us/power_users_how_do_you_keep_chatgpt_context_alive/npka1rk/",
+                  "is_submitter": true,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": [
+                    {
+                      "id": "npkbnmf",
+                      "parent_id": "t1_npka1rk",
+                      "author": "Nalmyth",
+                      "text_history": [
+                        [
+                          "Once you get good enough at software dev the problems are obvious and continual enough that you don't really need to write anything down.\n\nEverything is right there, in plain view",
+                          "2025-11-19T02:57:30.644602"
+                        ]
+                      ],
+                      "score_history": [
+                        [
+                          1,
+                          "2025-11-19T02:57:30.644602"
+                        ],
+                        [
+                          1,
+                          "2025-11-19T03:05:51.630405"
+                        ],
+                        [
+                          1,
+                          "2025-11-19T03:08:51.959763"
+                        ]
+                      ],
+                      "created_utc": 1763501805.0,
+                      "depth": 4,
+                      "permalink": "/r/ChatGPTPro/comments/1p0i3us/power_users_how_do_you_keep_chatgpt_context_alive/npkbnmf/",
+                      "is_submitter": false,
+                      "controversiality": 0,
+                      "gilded": 0,
+                      "edited": false,
+                      "deleted": false,
+                      "deleted_at": null,
+                      "replies": [
+                        {
+                          "id": "npkhjmv",
+                          "parent_id": "t1_npkbnmf",
+                          "author": "Competitive_Act4656",
+                          "text_history": [
+                            [
+                              "That makes sense for a lot of day to day coding.\nIf the problem space is familiar enough, you don’t really need an external system because the patterns repeat \n\nBut I’m genuinely curious...\n\nHow do you handle the stuff that doesn’t stay “in plain view”\nLike:\n• multi week architectural changes\n• debugging weird regressions that come back months later\n• decisions you made that only make sense with old context\n• onboarding someone new to the codebase\n• or switching between multiple projects at once\n\nI’m in marketing, not engineering, so my brain basically leaks context constantly.\nI admire anyone who can hold that all in their head, I’m just trying to understand how you do it in practice.",
+                              "2025-11-19T02:57:30.644602"
+                            ]
+                          ],
+                          "score_history": [
+                            [
+                              0,
+                              "2025-11-19T02:57:30.644602"
+                            ],
+                            [
+                              0,
+                              "2025-11-19T03:05:51.630405"
+                            ],
+                            [
+                              0,
+                              "2025-11-19T03:08:51.959763"
+                            ]
+                          ],
+                          "created_utc": 1763503586.0,
+                          "depth": 5,
+                          "permalink": "/r/ChatGPTPro/comments/1p0i3us/power_users_how_do_you_keep_chatgpt_context_alive/npkhjmv/",
+                          "is_submitter": true,
+                          "controversiality": 0,
+                          "gilded": 0,
+                          "edited": false,
+                          "deleted": false,
+                          "deleted_at": null,
+                          "replies": [
+                            {
+                              "id": "npkmbbr",
+                              "parent_id": "t1_npkhjmv",
+                              "author": "Nalmyth",
+                              "text_history": [
+                                [
+                                  "We hold it in our head by training to hold it there. If you are trying to replace that, and your programmers are trying to replace that... you are helping bring unimaginable suffering to the world by replacing every one. (Not just programmers)\n\nOk perhaps that's the way the world is going anyway, but shouldn't you be pointing your drive at something that can help humanity, like corruption or starvation? \n\nI mean this broadly, you are in an ethical situation. Your questions show me you are more likely to follow profit, than to think of humanity. \n\nLet's build AI responsibly shall we?",
+                                  "2025-11-19T02:57:30.644602"
+                                ]
+                              ],
+                              "score_history": [
+                                [
+                                  1,
+                                  "2025-11-19T02:57:30.644602"
+                                ],
+                                [
+                                  1,
+                                  "2025-11-19T03:05:51.630405"
+                                ],
+                                [
+                                  1,
+                                  "2025-11-19T03:08:51.959763"
+                                ]
+                              ],
+                              "created_utc": 1763505114.0,
+                              "depth": 6,
+                              "permalink": "/r/ChatGPTPro/comments/1p0i3us/power_users_how_do_you_keep_chatgpt_context_alive/npkmbbr/",
+                              "is_submitter": false,
+                              "controversiality": 0,
+                              "gilded": 0,
+                              "edited": false,
+                              "deleted": false,
+                              "deleted_at": null,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "npjiiri",
+      "parent_id": "t3_1p0i3us",
+      "author": "rag-deploy-rag",
+      "text_history": [
+        [
+          "Nice try, but implementation could be better imo. All in all a nice idea though.",
+          "2025-11-19T02:57:30.644602"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:57:30.644602"
+        ],
+        [
+          1,
+          "2025-11-19T03:05:51.630405"
+        ],
+        [
+          1,
+          "2025-11-19T03:08:51.959763"
+        ]
+      ],
+      "created_utc": 1763493058.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTPro/comments/1p0i3us/power_users_how_do_you_keep_chatgpt_context_alive/npjiiri/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npjkut8",
+          "parent_id": "t1_npjiiri",
+          "author": "Competitive_Act4656",
+          "text_history": [
+            [
+              "Totally fair. We’re still early and a lot of the implementation decisions are things we’re actively iterating on.\n\nOut of curiosity, which part felt weak to you\n- The UI\n- The grouping logic\n- The way Seeds are generated\n- Or something else entirely\n\nWe built the first version mainly to solve our own continuity pain, so outside perspectives like yours are super valuable.\nIf you have a clearer picture of how you’d expect an ideal implementation to behave, I’d genuinely love to hear it.",
+              "2025-11-19T02:57:30.644602"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-19T02:57:30.644602"
+            ],
+            [
+              1,
+              "2025-11-19T03:05:51.630405"
+            ],
+            [
+              1,
+              "2025-11-19T03:08:51.959763"
+            ]
+          ],
+          "created_utc": 1763493756.0,
+          "depth": 1,
+          "permalink": "/r/ChatGPTPro/comments/1p0i3us/power_users_how_do_you_keep_chatgpt_context_alive/npjkut8/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npk5uid",
+      "parent_id": "t3_1p0i3us",
+      "author": "Puzzleheaded-Tone-52",
+      "text_history": [
+        [
+          "Remindme! 3 weeks",
+          "2025-11-19T02:57:30.644602"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:57:30.644602"
+        ],
+        [
+          1,
+          "2025-11-19T03:05:51.630405"
+        ],
+        [
+          1,
+          "2025-11-19T03:08:51.959763"
+        ]
+      ],
+      "created_utc": 1763500075.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTPro/comments/1p0i3us/power_users_how_do_you_keep_chatgpt_context_alive/npk5uid/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npki4us",
+      "parent_id": "t3_1p0i3us",
+      "author": "blkw1dow_gs",
+      "text_history": [
+        [
+          "Create a Context Drift Control module",
+          "2025-11-19T02:57:30.644602"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:57:30.644602"
+        ],
+        [
+          1,
+          "2025-11-19T03:05:51.630405"
+        ],
+        [
+          1,
+          "2025-11-19T03:08:51.959763"
+        ]
+      ],
+      "created_utc": 1763503772.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTPro/comments/1p0i3us/power_users_how_do_you_keep_chatgpt_context_alive/npki4us/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npmcglv",
+          "parent_id": "t1_npki4us",
+          "author": "Competitive_Act4656",
+          "text_history": [
+            [
+              "We’ve been thinking along the same lines.\nIn myNeutron every important piece becomes a Seed outside the chat window, and the model reads from those Seeds so the context doesn’t drift or rewrite itself.\n\nWould love to hear your feedback on it",
+              "2025-11-19T02:57:30.644602"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-19T02:57:30.644602"
+            ],
+            [
+              1,
+              "2025-11-19T03:05:51.630405"
+            ],
+            [
+              1,
+              "2025-11-19T03:08:51.959763"
+            ]
+          ],
+          "created_utc": 1763527954.0,
+          "depth": 1,
+          "permalink": "/r/ChatGPTPro/comments/1p0i3us/power_users_how_do_you_keep_chatgpt_context_alive/npmcglv/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npkkhcp",
+      "parent_id": "t3_1p0i3us",
+      "author": "FreshRadish2957",
+      "text_history": [
+        [
+          "I think everyone here is solving the same problem from a different angle. We are not just fighting “context loss”. We are fighting the fact that these models do not hold a stable identity or a stable interpretation of our goals over time.\n\nThat is why every workaround ends up looking similar.\nRecaps. Seeds. PR scans. SSOT docs. Projects. External notes.\nAll of them are doing the same job: creating a stable reference point outside the model.\n\nThe part I found most helpful in my own workflow is treating the system like it is stateless by design.\nOnce I stopped expecting the model to remember anything long term, everything got easier.\nI keep one clear foundation document for each project. Not a giant archive. Not a “chat dump”. A single living root. When a session drifts, I pull that root back in and the model snaps into alignment again.\n\nNothing fancy.\nJust a cleaner mental model of how these tools actually work.\n\nI am genuinely curious how many people here see the same pattern.\nMost of us are not building continuity systems for fun. We are building them because the model cannot hold a stable frame across days without help.\n\nIf you solved that part better in \"myNeutron\", I can see why people might find it useful.\n\nEither way, this whole thread has been great to read.",
+          "2025-11-19T02:57:30.644602"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:57:30.644602"
+        ],
+        [
+          1,
+          "2025-11-19T03:05:51.630405"
+        ],
+        [
+          1,
+          "2025-11-19T03:08:51.959763"
+        ]
+      ],
+      "created_utc": 1763504518.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTPro/comments/1p0i3us/power_users_how_do_you_keep_chatgpt_context_alive/npkkhcp/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npmg9nc",
+          "parent_id": "t1_npkkhcp",
+          "author": "Competitive_Act4656",
+          "text_history": [
+            [
+              "This is gold, honestly. It validates that we are all fighting the same problem, just from different angles. Everyone has hacked together their own version of continuity. We are just trying to solve that shared pain in a cleaner way.",
+              "2025-11-19T02:57:30.644602"
+            ]
+          ],
+          "score_history": [
+            [
+              2,
+              "2025-11-19T02:57:30.644602"
+            ],
+            [
+              2,
+              "2025-11-19T03:05:51.630405"
+            ],
+            [
+              2,
+              "2025-11-19T03:08:51.959763"
+            ]
+          ],
+          "created_utc": 1763529729.0,
+          "depth": 1,
+          "permalink": "/r/ChatGPTPro/comments/1p0i3us/power_users_how_do_you_keep_chatgpt_context_alive/npmg9nc/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npkobwa",
+      "parent_id": "t3_1p0i3us",
+      "author": "TheLawIsSacred",
+      "text_history": [
+        [
+          "I connected my Claude Max 5x subscription (via Claude's desktop app) to [Supermemory.AI](http://Supermemory.AI) (the latter is MCP, but does not require developer skills to set up; I am not a dev). \n\nI hit a snag trying to connect my ChatGPT Plus subscription (via ChatGPT Plus' desktop app and, more specifically, its beta \"Developer Mode\") - need to work on it more today and tomorrow. \n\nConnecting Gemini Pro will likely be the most challenging, as it lacks a separate PC/desktop app.",
+          "2025-11-19T02:57:30.644602"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:57:30.644602"
+        ],
+        [
+          1,
+          "2025-11-19T03:05:51.630405"
+        ],
+        [
+          1,
+          "2025-11-19T03:08:51.959763"
+        ]
+      ],
+      "created_utc": 1763505780.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTPro/comments/1p0i3us/power_users_how_do_you_keep_chatgpt_context_alive/npkobwa/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npkpw1t",
+      "parent_id": "t3_1p0i3us",
+      "author": "xter418",
+      "text_history": [
+        [
+          "1st: I have an archive I regularly update with every word and chat. I keep it in Obsidian, so it is searchable.\n\n2nd: I have some chats set aside as contextual, and I often pull from information within them. Or copy paste directly to put the old full text in the current context window.\n\n3rd: I have an AI Dewey Decimal System. It write's and gives a classification for memories that aren't stored directly to the ChatGPT memory function, but instead something I note separately. I keep a log of the top level classifications and it has a stored memory that lets it know it can ask if there is additional context in the system.\n\n4th: I have a process for ensuring the conversation is on the right track called a \"context sync\", where I describe a general idea of something worked on before and ask what the AI knows about that. Then, once it tells me what it has pulled up from the description, I fill in the blanks for any missing context. Sometimes from direct copy pasting, sometimes from my own recollection.\n\n5th: The \"access to all chat history\" is turned on. My read of this feature isn't that it has much direct memory of the prior chats, and I don't think it seems to be able to go back through and read any of them, but instead the weightings of the LLM seem to change some based on prior information and shared language use. This kind of supercharged the whole system on top of the other 4 layers, because then I started using specific naming schemes that the LLM seemed the have strong weighted emphasis toward when brought up again, despite there being no context or memory directly to pull that information from.\n\nI think that just about sums up the system I have built for long term context. Been a plus user for a long time, and talk with the LLM daily as an assistant (in various capacities) for at least \\~13 months with at least 25 months regularly having chats with the LLM.\n\nIt hasn't missed a beat over that time, so the system itself seems to be high functioning in holding long term context.",
+          "2025-11-19T02:57:30.644602"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:57:30.644602"
+        ],
+        [
+          1,
+          "2025-11-19T03:05:51.630405"
+        ],
+        [
+          1,
+          "2025-11-19T03:08:51.959763"
+        ]
+      ],
+      "created_utc": 1763506298.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTPro/comments/1p0i3us/power_users_how_do_you_keep_chatgpt_context_alive/npkpw1t/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npl2nux",
+          "parent_id": "t1_npkpw1t",
+          "author": "keepalgo",
+          "text_history": [
+            [
+              "Chat history memory feeds the model relevant summaries of your prior chats. It doesn't change the model's parameter weights. It'll cause context pollution issues but whether that matters enough depends on your use cases.",
+              "2025-11-19T02:57:30.644602"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-19T02:57:30.644602"
+            ],
+            [
+              1,
+              "2025-11-19T03:05:51.630405"
+            ],
+            [
+              1,
+              "2025-11-19T03:08:51.959763"
+            ]
+          ],
+          "created_utc": 1763510781.0,
+          "depth": 1,
+          "permalink": "/r/ChatGPTPro/comments/1p0i3us/power_users_how_do_you_keep_chatgpt_context_alive/npl2nux/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npmh0uf",
+              "parent_id": "t1_npl2nux",
+              "author": "Competitive_Act4656",
+              "text_history": [
+                [
+                  "This is exactly how I’ve understood it too. The “chat history memory” feels more like a rolling summary layer instead of anything persistent, which is why things start to drift or get polluted once a project gets big enough.\n\nThat’s why so many of us end up building our own reference systems outside the model. It’s interesting to see how many people arrive at the same conclusion from different angles.",
+                  "2025-11-19T02:57:30.644602"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-19T02:57:30.644602"
+                ],
+                [
+                  1,
+                  "2025-11-19T03:05:51.630405"
+                ],
+                [
+                  1,
+                  "2025-11-19T03:08:51.959763"
+                ]
+              ],
+              "created_utc": 1763530097.0,
+              "depth": 2,
+              "permalink": "/r/ChatGPTPro/comments/1p0i3us/power_users_how_do_you_keep_chatgpt_context_alive/npmh0uf/",
+              "is_submitter": true,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "npmgsow",
+          "parent_id": "t1_npkpw1t",
+          "author": "Competitive_Act4656",
+          "text_history": [
+            [
+              "This is insanely impressive. The way you built multiple layers around the model, plus your own Dewey-style system, is exactly the kind of power-user engineering that inspired us to work on myNeutron in the first place.\n\nEveryone here is basically constructing their own continuity stack because the model can’t hold stable context on its own. Seeing your approach laid out like this really confirms that the problem is real and not just something we imagined.\n\nThanks for writing this up!",
+              "2025-11-19T02:57:30.644602"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-19T02:57:30.644602"
+            ],
+            [
+              1,
+              "2025-11-19T03:05:51.630405"
+            ],
+            [
+              1,
+              "2025-11-19T03:08:51.959763"
+            ]
+          ],
+          "created_utc": 1763529989.0,
+          "depth": 1,
+          "permalink": "/r/ChatGPTPro/comments/1p0i3us/power_users_how_do_you_keep_chatgpt_context_alive/npmgsow/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npl13z0",
+      "parent_id": "t3_1p0i3us",
+      "author": "Direct-Cheetah-711",
+      "text_history": [
+        [
+          "I conduct audit every 10 prompts to catch drift",
+          "2025-11-19T02:57:30.644602"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:57:30.644602"
+        ],
+        [
+          1,
+          "2025-11-19T03:05:51.630405"
+        ],
+        [
+          1,
+          "2025-11-19T03:08:51.959763"
+        ]
+      ],
+      "created_utc": 1763510232.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTPro/comments/1p0i3us/power_users_how_do_you_keep_chatgpt_context_alive/npl13z0/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npm42iy",
+      "parent_id": "t3_1p0i3us",
+      "author": "ValehartProject",
+      "text_history": [
+        [
+          "Hi fellow small team! \n\nWe use a tag system and notion integration.\n\nWe ask GPT to remember tags and create pages on notion that help our AI perform search references.\nEach team does vary but this is mine:\n\nPlease add /EUREKA/ to memory, this will be used to track the apple harvest project. When we are working on this mode, we are focused on coordinates xxx. Xx. Xx. Keep track of the harvest cycle according to xxx\n\n\nThe above gives it a workflow as well as references. \nOn notion, we use this to add things like coding, formulas, results, etc.\n\nWe have a few other things we do. If you are interested or want me to elaborate on the above, happy to share.",
+          "2025-11-19T02:57:30.644602"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:57:30.644602"
+        ],
+        [
+          1,
+          "2025-11-19T03:05:51.630405"
+        ],
+        [
+          1,
+          "2025-11-19T03:08:51.959763"
+        ]
+      ],
+      "created_utc": 1763524337.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTPro/comments/1p0i3us/power_users_how_do_you_keep_chatgpt_context_alive/npm42iy/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npmyla3",
+      "parent_id": "t3_1p0i3us",
+      "author": "niado",
+      "text_history": [
+        [
+          "I believe what you are trying to sell is already available and is called a “text editor”. If someone wants to get really organized they can use a spreadsheet. \n\nCan you describe the actual workflow of someone using your “new” notepad thing, and highlight how it differs from and improves upon:\n\n1 - copy items of note, summaries of status, etc. from chat into a text file (“selecting items to become seeds”) \n2 - paste the contents of the text file (or part of it) into chat every time you return or start a new chat (“selecting seeds to add to current context”). \n\nYour tool isn’t doing anything else, because that’s the only way to get data from the model, and the only way to get data to the model. (Aside from app integrations which don’t function in a way that contributes to context, and saving things into memories, which is a native function of the platform). If you were using the API’s you could automate it, but at least the OpenAI API doesn’t maintain context at all, so that’s a non starter.",
+          "2025-11-19T02:57:30.644602"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:57:30.644602"
+        ],
+        [
+          1,
+          "2025-11-19T03:05:51.630405"
+        ],
+        [
+          1,
+          "2025-11-19T03:08:51.959763"
+        ]
+      ],
+      "created_utc": 1763539863.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTPro/comments/1p0i3us/power_users_how_do_you_keep_chatgpt_context_alive/npmyla3/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npj0dhi",
+      "parent_id": "t3_1p0i3us",
+      "author": "olianatasha04",
+      "text_history": [
+        [
+          "Following!",
+          "2025-11-19T02:57:30.644602"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:57:30.644602"
+        ],
+        [
+          1,
+          "2025-11-19T03:05:51.630405"
+        ],
+        [
+          1,
+          "2025-11-19T03:08:51.959763"
+        ]
+      ],
+      "created_utc": 1763487820.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTPro/comments/1p0i3us/power_users_how_do_you_keep_chatgpt_context_alive/npj0dhi/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npjpn6s",
+          "parent_id": "t1_npj0dhi",
+          "author": "Competitive_Act4656",
+          "text_history": [
+            [
+              "👋👋",
+              "2025-11-19T02:57:30.644602"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-19T02:57:30.644602"
+            ],
+            [
+              1,
+              "2025-11-19T03:05:51.630405"
+            ],
+            [
+              1,
+              "2025-11-19T03:08:51.959763"
+            ]
+          ],
+          "created_utc": 1763495191.0,
+          "depth": 1,
+          "permalink": "/r/ChatGPTPro/comments/1p0i3us/power_users_how_do_you_keep_chatgpt_context_alive/npjpn6s/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:08:51.959763",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/ChatGPTPro/comments/1p0i3us/power_users_how_do_you_keep_chatgpt_context_alive/",
+    "total_comments": 44,
+    "top_level_comments": 16,
+    "api_requests": 1,
+    "expected_comments": 46,
+    "coverage_percent": 95.65,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_025730.json",
+      "scrape_002_20251119_030551.json",
+      "scrape_003_20251119_030851.json"
+    ]
+  }
+}

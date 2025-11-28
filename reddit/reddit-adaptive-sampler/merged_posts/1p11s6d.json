@@ -1,0 +1,115 @@
+{
+  "post": {
+    "id": "1p11s6d",
+    "title": "Reality Winner",
+    "author": "SirCicSensation",
+    "score_history": [
+      [
+        0,
+        "2025-11-19T03:28:51.695174"
+      ],
+      [
+        0,
+        "2025-11-19T03:37:42.543436"
+      ],
+      [
+        0,
+        "2025-11-19T03:39:35.867956"
+      ]
+    ],
+    "created_utc": 1763539638.0,
+    "num_comments": 2,
+    "subreddit": "cybersecurity",
+    "url": "https://www.reddit.com/r/cybersecurity/comments/1p11s6d/reality_winner/",
+    "selftext": "Just watched the movie with Sydney Sweeney. Never heard of this woman before this movie came out. You’d think this would’ve been a bigger story.\n\nI’ve seen the other posts on Reddit about it but that’s not what shocks me the most. She was actively attempting to regain her clearance, in order to go overseas and still did this anyway.\n\nIt just seems crazy to me. I’ve been fighting for years and years to get to a point where I could have a life again. Here someone is, so massively talented and ends up losing it all over something that she shouldn’t have gone to jail over. I think what she did was stupid and she should’ve lost her job but to jail her for ten years and ruin her life seems harsh.\n\nJust hard to believe that in a blink, one action can ruin a persons entire life.\n\nShe will never work for the government again, never have a secret clearance, never get to go overseas, and now she can’t even become a vet tech despite going to college for it. She’s 33 and she will have to start from the bottom, without a career. I don’t know, just makes me sad seeing someone lose everything I’ve worked so hard for over something like this. Thoughts?",
+    "permalink": "/r/cybersecurity/comments/1p11s6d/reality_winner/"
+  },
+  "comments": [
+    {
+      "id": "npn53x6",
+      "parent_id": "t3_1p11s6d",
+      "author": "CMDR-Hooker",
+      "text_history": [
+        [
+          "I get it, Trump is the bad man, but my guy... \n\nOne of the biggest things that is stressed to those who get security clearances is that by disclosing classified information is a jailable offense. Where I work, we read people into various special access programs on a weekly basis (as well as read people out) and in every single read in, we have to stress to them the seriousness of disclosing anything that they see, read and hear regarding the programs they're being read in to. \n\nIf Reality really felt that it was an issue, she should have gone to the intelligence community inspector general. Her actions were not protected as \"protected disclosure\" as disclosing the information is not whistleblowing. In short, she new *exactly* what she was doing. She didn't care for the Trump administration (I don't blame her in the least), but she expressed support for the various Taliban leaders. She is a giant red flag in my security world, and sadly, she will not be the last.\n\nShe made her bed and then proceeded to shit in it. I don't wish her ill, but I'm not the least bit sorry for what she got herself in to.",
+          "2025-11-19T03:28:51.695174"
+        ]
+      ],
+      "score_history": [
+        [
+          6,
+          "2025-11-19T03:28:51.695174"
+        ],
+        [
+          6,
+          "2025-11-19T03:37:42.543436"
+        ],
+        [
+          6,
+          "2025-11-19T03:39:35.867956"
+        ]
+      ],
+      "created_utc": 1763543972.0,
+      "depth": 0,
+      "permalink": "/r/cybersecurity/comments/1p11s6d/reality_winner/npn53x6/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npn7bex",
+      "parent_id": "t3_1p11s6d",
+      "author": "-hacks4pancakes-",
+      "text_history": [
+        [
+          "I just have to note it was a huge story in infosec / cybersecurity circles when it happened but you’re looking at US news which didn’t cover it much or kindly because …. Reasons. Like always. We  certainly had complicated and conflicting feelings about it.",
+          "2025-11-19T03:28:51.695174"
+        ]
+      ],
+      "score_history": [
+        [
+          3,
+          "2025-11-19T03:28:51.695174"
+        ],
+        [
+          3,
+          "2025-11-19T03:37:42.543436"
+        ],
+        [
+          3,
+          "2025-11-19T03:39:35.867956"
+        ]
+      ],
+      "created_utc": 1763545369.0,
+      "depth": 0,
+      "permalink": "/r/cybersecurity/comments/1p11s6d/reality_winner/npn7bex/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:39:35.867956",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/cybersecurity/comments/1p11s6d/reality_winner/",
+    "total_comments": 2,
+    "top_level_comments": 2,
+    "api_requests": 1,
+    "expected_comments": 2,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_032851.json",
+      "scrape_002_20251119_033742.json",
+      "scrape_003_20251119_033935.json"
+    ]
+  }
+}

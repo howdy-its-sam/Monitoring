@@ -1,0 +1,151 @@
+{
+  "post": {
+    "id": "1p0x7io",
+    "title": "An experiment that lets beginners see AI drift",
+    "author": "tool_base",
+    "score_history": [
+      [
+        0,
+        "2025-11-19T02:55:53.209632"
+      ],
+      [
+        0,
+        "2025-11-19T03:04:54.694607"
+      ],
+      [
+        0,
+        "2025-11-19T03:07:00.359092"
+      ]
+    ],
+    "created_utc": 1763524014.0,
+    "num_comments": 6,
+    "subreddit": "PromptEngineering",
+    "url": "https://www.reddit.com/r/PromptEngineering/comments/1p0x7io/an_experiment_that_lets_beginners_see_ai_drift/",
+    "selftext": "Try this quick experiment — it reveals drift in a way that beginners can actually *see*.\n\nStart a fresh chat and do this:\n\nWrite a short motivational message for me.\n\nSend that same message **10 times**, one after another.  \nNo extra context.  \nJust repeat the exact same line.\n\nThen tell me:  \n**What changed between Run1 and Run10?**  \nTone?  \nLength?  \nLanguage?  \nEmojis?  \nEnergy level?",
+    "permalink": "/r/PromptEngineering/comments/1p0x7io/an_experiment_that_lets_beginners_see_ai_drift/"
+  },
+  "comments": [
+    {
+      "id": "npm9srj",
+      "parent_id": "t3_1p0x7io",
+      "author": "HYP3K",
+      "text_history": [
+        [
+          "Are you making up problems?",
+          "2025-11-19T02:55:53.209632"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-19T02:55:53.209632"
+        ],
+        [
+          2,
+          "2025-11-19T03:04:54.694607"
+        ],
+        [
+          2,
+          "2025-11-19T03:07:00.359092"
+        ]
+      ],
+      "created_utc": 1763526768.0,
+      "depth": 0,
+      "permalink": "/r/PromptEngineering/comments/1p0x7io/an_experiment_that_lets_beginners_see_ai_drift/npm9srj/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npmf03w",
+          "parent_id": "t1_npm9srj",
+          "author": "tool_base",
+          "text_history": [
+            [
+              "Try it yourself — you’ll see the tone start shifting, even with identical inputs.\nNo trick, no setup.",
+              "2025-11-19T02:55:53.209632"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-19T02:55:53.209632"
+            ],
+            [
+              1,
+              "2025-11-19T03:04:54.694607"
+            ],
+            [
+              1,
+              "2025-11-19T03:07:00.359092"
+            ]
+          ],
+          "created_utc": 1763529131.0,
+          "depth": 1,
+          "permalink": "/r/PromptEngineering/comments/1p0x7io/an_experiment_that_lets_beginners_see_ai_drift/npmf03w/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npn74k4",
+      "parent_id": "t3_1p0x7io",
+      "author": "Tall-Region8329",
+      "text_history": [
+        [
+          "This will make the AI haluccination comes true. 😂",
+          "2025-11-19T02:55:53.209632"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-19T02:55:53.209632"
+        ],
+        [
+          2,
+          "2025-11-19T03:04:54.694607"
+        ],
+        [
+          2,
+          "2025-11-19T03:07:00.359092"
+        ]
+      ],
+      "created_utc": 1763545249.0,
+      "depth": 0,
+      "permalink": "/r/PromptEngineering/comments/1p0x7io/an_experiment_that_lets_beginners_see_ai_drift/npn74k4/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:07:00.359092",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/PromptEngineering/comments/1p0x7io/an_experiment_that_lets_beginners_see_ai_drift/",
+    "total_comments": 3,
+    "top_level_comments": 2,
+    "api_requests": 1,
+    "expected_comments": 6,
+    "coverage_percent": 50.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_025552.json",
+      "scrape_002_20251119_030454.json",
+      "scrape_003_20251119_030700.json"
+    ]
+  }
+}

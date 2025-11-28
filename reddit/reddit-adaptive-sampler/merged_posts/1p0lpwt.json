@@ -1,0 +1,44 @@
+{
+  "post": {
+    "id": "1p0lpwt",
+    "title": "Struggling to track AI agents? This open-source tool gives you a single source of truth",
+    "author": "yourbasicgeek",
+    "score_history": [
+      [
+        4,
+        "2025-11-19T03:19:53.403422"
+      ],
+      [
+        6,
+        "2025-11-19T03:25:41.803484"
+      ],
+      [
+        6,
+        "2025-11-19T03:27:16.165682"
+      ]
+    ],
+    "created_utc": 1763494924.0,
+    "num_comments": 0,
+    "subreddit": "technology",
+    "url": "https://www.zdnet.com/article/struggling-to-track-ai-agents-this-open-source-tool-gives-you-a-single-source-of-truth/",
+    "selftext": "",
+    "permalink": "/r/technology/comments/1p0lpwt/struggling_to_track_ai_agents_this_opensource/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:27:16.165682",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/technology/comments/1p0lpwt/struggling_to_track_ai_agents_this_opensource/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_031953.json",
+      "scrape_002_20251119_032541.json",
+      "scrape_003_20251119_032715.json"
+    ]
+  }
+}

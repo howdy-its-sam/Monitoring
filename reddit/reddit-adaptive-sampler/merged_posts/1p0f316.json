@@ -1,0 +1,371 @@
+{
+  "post": {
+    "id": "1p0f316",
+    "title": "AI tools being blocked",
+    "author": "Old_Software8554",
+    "score_history": [
+      [
+        1,
+        "2025-11-18T12:51:32.624295"
+      ],
+      [
+        1,
+        "2025-11-18T13:03:56.788634"
+      ],
+      [
+        1,
+        "2025-11-18T13:15:54.234925"
+      ],
+      [
+        1,
+        "2025-11-18T13:48:13.818989"
+      ],
+      [
+        1,
+        "2025-11-18T13:59:46.519567"
+      ],
+      [
+        1,
+        "2025-11-18T14:11:10.907202"
+      ],
+      [
+        1,
+        "2025-11-18T21:29:05.260035"
+      ],
+      [
+        1,
+        "2025-11-18T23:03:43.399417"
+      ],
+      [
+        1,
+        "2025-11-19T00:47:46.713661"
+      ]
+    ],
+    "created_utc": 1763480194.0,
+    "num_comments": 5,
+    "subreddit": "AI_Agents",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1p0f316/ai_tools_being_blocked/",
+    "selftext": "Is your workplace blocking AI tools such as Claude and Chat GPT? \n\nI can understand why companies want to do this but I am just trying to get an idea of the scale at which this is happening and the impact on the providers. ",
+    "permalink": "/r/AI_Agents/comments/1p0f316/ai_tools_being_blocked/"
+  },
+  "comments": [
+    {
+      "id": "npibwuo",
+      "parent_id": "t3_1p0f316",
+      "author": "ai-agents-qa-bot",
+      "text_history": [
+        [
+          "- Many workplaces are indeed blocking AI tools like Claude and ChatGPT due to concerns over data security, productivity, and compliance with company policies.\n- The scale of these restrictions varies widely across industries and organizations, with some sectors, like finance and healthcare, being more stringent due to regulatory requirements.\n- The impact on AI providers can be significant, as reduced access to their tools in corporate environments may limit user growth and adoption rates.\n- Companies may also be developing their own internal AI solutions or using alternative tools that align better with their security protocols.\n\nFor more insights on AI tools and their implications, you can check out the following resources:\n- [How to Monitor and Control AI Workloads with Control Center](https://tinyurl.com/mtbxmbsd)\n- [MCP (Model Context Protocol) vs A2A (Agent-to-Agent Protocol) Clearly Explained](https://tinyurl.com/bdzba922)",
+          "2025-11-18T12:51:32.624295"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T12:51:32.624295"
+        ],
+        [
+          1,
+          "2025-11-18T13:03:56.788634"
+        ],
+        [
+          1,
+          "2025-11-18T13:15:54.234925"
+        ],
+        [
+          1,
+          "2025-11-18T13:48:13.818989"
+        ],
+        [
+          1,
+          "2025-11-18T13:59:46.519567"
+        ],
+        [
+          1,
+          "2025-11-18T14:11:10.907202"
+        ],
+        [
+          2,
+          "2025-11-18T21:29:05.260035"
+        ],
+        [
+          2,
+          "2025-11-18T23:03:43.399417"
+        ],
+        [
+          2,
+          "2025-11-19T00:47:46.713661"
+        ]
+      ],
+      "created_utc": 1763480640.0,
+      "depth": 0,
+      "permalink": "/r/AI_Agents/comments/1p0f316/ai_tools_being_blocked/npibwuo/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npiaezx",
+      "parent_id": "t3_1p0f316",
+      "author": "AutoModerator",
+      "text_history": [
+        [
+          "Thank you for your submission, for any questions regarding AI, please check out our wiki at https://www.reddit.com/r/ai_agents/wiki (this is currently in test and we are actively adding to the wiki)\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/AI_Agents) if you have any questions or concerns.*",
+          "2025-11-18T12:51:32.624295"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T12:51:32.624295"
+        ],
+        [
+          1,
+          "2025-11-18T13:03:56.788634"
+        ],
+        [
+          1,
+          "2025-11-18T13:15:54.234925"
+        ],
+        [
+          1,
+          "2025-11-18T13:48:13.818989"
+        ],
+        [
+          1,
+          "2025-11-18T13:59:46.519567"
+        ],
+        [
+          1,
+          "2025-11-18T14:11:10.907202"
+        ],
+        [
+          1,
+          "2025-11-18T21:29:05.260035"
+        ],
+        [
+          1,
+          "2025-11-18T23:03:43.399417"
+        ],
+        [
+          1,
+          "2025-11-19T00:47:46.713661"
+        ]
+      ],
+      "created_utc": 1763480194.0,
+      "depth": 0,
+      "permalink": "/r/AI_Agents/comments/1p0f316/ai_tools_being_blocked/npiaezx/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npizi5w",
+      "parent_id": "t3_1p0f316",
+      "author": "BidWestern1056",
+      "text_history": [
+        [
+          "because they are mostly evil, use npc studio and run your stuff locally\nhttps://github.com/npc-worldwide/npc-studio",
+          "2025-11-18T12:51:32.624295"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T12:51:32.624295"
+        ],
+        [
+          1,
+          "2025-11-18T13:03:56.788634"
+        ],
+        [
+          1,
+          "2025-11-18T13:15:54.234925"
+        ],
+        [
+          1,
+          "2025-11-18T13:48:13.818989"
+        ],
+        [
+          1,
+          "2025-11-18T13:59:46.519567"
+        ],
+        [
+          1,
+          "2025-11-18T14:11:10.907202"
+        ],
+        [
+          1,
+          "2025-11-18T21:29:05.260035"
+        ],
+        [
+          1,
+          "2025-11-18T23:03:43.399417"
+        ],
+        [
+          1,
+          "2025-11-19T00:47:46.713661"
+        ]
+      ],
+      "created_utc": 1763487564.0,
+      "depth": 0,
+      "permalink": "/r/AI_Agents/comments/1p0f316/ai_tools_being_blocked/npizi5w/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npiarib",
+      "parent_id": "t3_1p0f316",
+      "author": "advikipedia",
+      "text_history": [
+        [
+          "It's mainly to prevent data leakage - employees could potentially post sensitive content into ChatGPT. \n\nExcept I think this is a bad strategy, people find creative ways to get around it, creating a Shadow AI problem",
+          "2025-11-18T12:51:32.624295"
+        ]
+      ],
+      "score_history": [
+        [
+          0,
+          "2025-11-18T12:51:32.624295"
+        ],
+        [
+          0,
+          "2025-11-18T13:03:56.788634"
+        ],
+        [
+          1,
+          "2025-11-18T13:15:54.234925"
+        ],
+        [
+          1,
+          "2025-11-18T13:48:13.818989"
+        ],
+        [
+          1,
+          "2025-11-18T13:59:46.519567"
+        ],
+        [
+          1,
+          "2025-11-18T14:11:10.907202"
+        ],
+        [
+          1,
+          "2025-11-18T21:29:05.260035"
+        ],
+        [
+          1,
+          "2025-11-18T23:03:43.399417"
+        ],
+        [
+          1,
+          "2025-11-19T00:47:46.713661"
+        ]
+      ],
+      "created_utc": 1763480297.0,
+      "depth": 0,
+      "permalink": "/r/AI_Agents/comments/1p0f316/ai_tools_being_blocked/npiarib/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npilky5",
+          "parent_id": "t1_npiarib",
+          "author": "LaserToy",
+          "text_history": [
+            [
+              "Which is solvable by firing couple outrageous examples",
+              "2025-11-18T12:51:32.624295"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T12:51:32.624295"
+            ],
+            [
+              1,
+              "2025-11-18T13:03:56.788634"
+            ],
+            [
+              2,
+              "2025-11-18T13:15:54.234925"
+            ],
+            [
+              2,
+              "2025-11-18T13:48:13.818989"
+            ],
+            [
+              2,
+              "2025-11-18T13:59:46.519567"
+            ],
+            [
+              2,
+              "2025-11-18T14:11:10.907202"
+            ],
+            [
+              2,
+              "2025-11-18T21:29:05.260035"
+            ],
+            [
+              2,
+              "2025-11-18T23:03:43.399417"
+            ],
+            [
+              2,
+              "2025-11-19T00:47:46.713661"
+            ]
+          ],
+          "created_utc": 1763483461.0,
+          "depth": 1,
+          "permalink": "/r/AI_Agents/comments/1p0f316/ai_tools_being_blocked/npilky5/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T00:47:46.713661",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/AI_Agents/comments/1p0f316/ai_tools_being_blocked/",
+    "total_comments": 5,
+    "top_level_comments": 4,
+    "api_requests": 1,
+    "expected_comments": 5,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 9,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_125132.json",
+      "scrape_002_20251118_130356.json",
+      "scrape_003_20251118_131554.json",
+      "scrape_004_20251118_134813.json",
+      "scrape_005_20251118_135946.json",
+      "scrape_006_20251118_141110.json",
+      "scrape_007_20251118_212905.json",
+      "scrape_008_20251118_230343.json",
+      "scrape_009_20251119_004746.json"
+    ]
+  }
+}

@@ -1,0 +1,401 @@
+{
+  "post": {
+    "id": "1oyhvju",
+    "title": "Need resources",
+    "author": "krisadegyorii",
+    "score_history": [
+      [
+        4,
+        "2025-11-18T14:22:15.102403"
+      ],
+      [
+        5,
+        "2025-11-18T14:32:11.660004"
+      ],
+      [
+        4,
+        "2025-11-18T14:41:18.186360"
+      ]
+    ],
+    "created_utc": 1763286983.0,
+    "num_comments": 13,
+    "subreddit": "MLQuestions",
+    "url": "https://www.reddit.com/r/MLQuestions/comments/1oyhvju/need_resources/",
+    "selftext": "Hello everyone!  \nI’ve recently started getting into machine learning because I want to add YOLO-based object detection to my FPV drone setup (onboard camera → ground station processing).  \nEnded up enjoying the whole ML side a lot more than expected, so I’m considering choosing this field as my specialization at university (I’m an electrical engineering student at Budapest University of Technology and Economics).\n\nI’ve been working through *Mathematics for Machine Learning*, of which the maths part has been a solid refresher so far. Now I’d like to dive deeper.\n\n**What resources would you recommend for someone getting serious about ML?**  \nBooks, online courses, lecture series, anything that actually builds strong fundamentals.\n\nThanks in advance!😁",
+    "permalink": "/r/MLQuestions/comments/1oyhvju/need_resources/"
+  },
+  "comments": [
+    {
+      "id": "np4lfm0",
+      "parent_id": "t3_1oyhvju",
+      "author": "nothmoth",
+      "text_history": [
+        [
+          "My advise is [Understanding Deep Learning](https://udlbook.github.io/udlbook/) book. It's new, free, full of theory and formulas, and, importantly, has practical exercises in Jupyter/Google Collab format.",
+          "2025-11-18T14:22:15.102403"
+        ]
+      ],
+      "score_history": [
+        [
+          6,
+          "2025-11-18T14:22:15.102403"
+        ],
+        [
+          6,
+          "2025-11-18T14:32:11.660004"
+        ],
+        [
+          6,
+          "2025-11-18T14:41:18.186360"
+        ]
+      ],
+      "created_utc": 1763290064.0,
+      "depth": 0,
+      "permalink": "/r/MLQuestions/comments/1oyhvju/need_resources/np4lfm0/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "np4p7t9",
+          "parent_id": "t1_np4lfm0",
+          "author": "krisadegyorii",
+          "text_history": [
+            [
+              "Took a quick glance at it, looks promising. Thank you so much!",
+              "2025-11-18T14:22:15.102403"
+            ]
+          ],
+          "score_history": [
+            [
+              3,
+              "2025-11-18T14:22:15.102403"
+            ],
+            [
+              3,
+              "2025-11-18T14:32:11.660004"
+            ],
+            [
+              3,
+              "2025-11-18T14:41:18.186360"
+            ]
+          ],
+          "created_utc": 1763292325.0,
+          "depth": 1,
+          "permalink": "/r/MLQuestions/comments/1oyhvju/need_resources/np4p7t9/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "np4sl04",
+      "parent_id": "t3_1oyhvju",
+      "author": "marcinbogdanski",
+      "text_history": [
+        [
+          "That's fantastic!\n\nMy advice is to find exciting project and jump head in! Learning should be fun.\n\nAndrew Ng [Machine Learning](https://www.deeplearning.ai/courses/machine-learning-specialization/) and [Deep Learning](https://www.deeplearning.ai/courses/deep-learning-specialization/) lay solid foundation (I think they are free).\n\nFor \"how it works from scratch, let's just build stuff\" check out Andrej Karpathy [Zero to Hero](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ) playlist and his other videos, his building an LLM, but foundations are applicable across all Deep Learning.\n\nFor advanced topics (for later) Stanfords lectures are IMHO very good\n\n* [CS230 Deep Learning 2025](https://www.youtube.com/playlist?list=PLoROMvodv4rNRRGdS0rBbXOUGA0wjdh1X) \\- co-tough by Andrew Ng, this is ongoing, but first videos are out\n* [CS231N Computer Vision 2025](https://www.youtube.com/playlist?list=PLoROMvodv4rOmsNzYBMe0gJY2XS8AQg16) \\- computer vision\n* [CS336 Language Modeling 2025](https://youtube.com/playlist?list=PLoROMvodv4rOY23Y0BoGoBGgQ1zmU_MT_) \\- how modern LLMs work - pick only if interested\n\nThere is plenty more Stanford and MIT resources on foundations as well. Courses on [deeplearning.ai](http://deeplearning.ai) and Coursera, which may be good if you want exercises you can complete, but i would not pay too much for these.\n\nHave a great fun!\n\nEDIT: Above resources are more on Deep Learning, which based on context (YOLO) is I guess what you were asking.",
+          "2025-11-18T14:22:15.102403"
+        ]
+      ],
+      "score_history": [
+        [
+          5,
+          "2025-11-18T14:22:15.102403"
+        ],
+        [
+          5,
+          "2025-11-18T14:32:11.660004"
+        ],
+        [
+          5,
+          "2025-11-18T14:41:18.186360"
+        ]
+      ],
+      "created_utc": 1763294204.0,
+      "depth": 0,
+      "permalink": "/r/MLQuestions/comments/1oyhvju/need_resources/np4sl04/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "np4v6rc",
+          "parent_id": "t1_np4sl04",
+          "author": "krisadegyorii",
+          "text_history": [
+            [
+              "Thank you! I’ll make sure to check these out.\nFor me it came in a more natural way, so I found drones and such to be cool, then I realised that diving deeper might make it easier to understand what I’m actually doing.\nI’ll buy a Pi4/5 because my Zero 2W is not that powerful to handle Yolo, but I was planning on doing the “practice” and “theory” simultaneously like how it’s structured at my uni.\nThis way it’ll be much more fun than just reading but also more in depth than just understanding how things work on the outside, and learn the inside structures as well.\nAnyways, thank you for the thorough answer!",
+              "2025-11-18T14:22:15.102403"
+            ]
+          ],
+          "score_history": [
+            [
+              2,
+              "2025-11-18T14:22:15.102403"
+            ],
+            [
+              2,
+              "2025-11-18T14:32:11.660004"
+            ],
+            [
+              2,
+              "2025-11-18T14:41:18.186360"
+            ]
+          ],
+          "created_utc": 1763295581.0,
+          "depth": 1,
+          "permalink": "/r/MLQuestions/comments/1oyhvju/need_resources/np4v6rc/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "np82jq0",
+              "parent_id": "t1_np4v6rc",
+              "author": "x-jhp-x",
+              "text_history": [
+                [
+                  "Although more pricey, I've been using nvidia jetsons with yolo + computer vision since the tx2 came out. I'm not sure what the latest is, since I just use the jetson almost exclusively for embedded now, but there used to be a few coprocessors you could get for cheap as well, like google coral, and that can be used with the pi zero. It's been a long time, but i think i may have also slapped a coral on a stm32 h7 chip running linux once, but i don't remember if i actually did that. i can also write linux kernel drivers, so device support is less important to me than it probably is to you). I haven't  tried the jetson nano yet, but performance wise, unless they came out with a new version, it seemed like it was equivalent to the tx2.\n\n  \nAnother option that seems to be popular in the industrial drone/vehicle use are the combo processor/fpga boards, like [https://www.amd.com/en/products/system-on-modules/kria/k26/kv260-vision-starter-kit.html](https://www.amd.com/en/products/system-on-modules/kria/k26/kv260-vision-starter-kit.html) the fpgas have another nice benefit, which is the whole RF front end -- an example of a combo fpga + cpu (zynq) with an included rf front end (analog devices) is: [https://www.analog.com/en/resources/evaluation-hardware-and-software/evaluation-boards-kits/adalm-pluto.html](https://www.analog.com/en/resources/evaluation-hardware-and-software/evaluation-boards-kits/adalm-pluto.html)\n\n  \nBut with the ukraine war, all the fpgas, especially those with pre-built rf suites, have gone up almost 5x-10x in price. I also went to hungary a couple years ago, and saw lots of anti-nato propaganda everywhere, so I also don't know how easy it'd be to get this stuff like this over there -- I've been grilled when ordering RF equipment in the US before, and personally, there's no way I'd take the risk of violating US export controls to send RF equipment outside of the US, and that goes doubly so for countries like hungary.\n\n  \nAnother issue with FPGAs, along with learning very different languages (from c/python) like verilog/vhdl &amp; electrical engineering, is that I remember asking an FPGA engineer 10-15 years ago if I should learn how to use an fpga for ml/ai, and his response was that I should not learn it because any advancement that's made with an FPGA or ASIC will get included in newer generations of GPUs if it's a worthwhile advancement. He was 100% right, and GPUs have far more tensor cores &amp; hw ray tracers in 2025 than they did in 2015 and earlier, so I'd argue that you may want to forget about the fpga.\n\n  \nOf course, since you're working on fpv drones, you're actually using an RF suite, so I think there is an argument for learning fpgas, especially depending on your intended application. For robotic movement and sensing, the current industry standard seems to be combined data pipelines (radar/sonar/lidar + vision).",
+                  "2025-11-18T14:22:15.102403"
+                ]
+              ],
+              "score_history": [
+                [
+                  3,
+                  "2025-11-18T14:22:15.102403"
+                ],
+                [
+                  3,
+                  "2025-11-18T14:32:11.660004"
+                ],
+                [
+                  3,
+                  "2025-11-18T14:41:18.186360"
+                ]
+              ],
+              "created_utc": 1763333625.0,
+              "depth": 2,
+              "permalink": "/r/MLQuestions/comments/1oyhvju/need_resources/np82jq0/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": [
+                {
+                  "id": "np84g3n",
+                  "parent_id": "t1_np82jq0",
+                  "author": "x-jhp-x",
+                  "text_history": [
+                    [
+                      "one more word of caution on the jetsons -- although there's plenty of examples of getting cameras + yolo running on it, if you have a lot of custom work you want to do, you'll be using multiple libraries to construct an image processing pipeline. the jetson has different accelerator chips in it, and to use some of the chips, which run on different clocks &amp; may or may not have different memory, and currently (2024/2025) you need to use multiple libraries to take advantage of them. That might look like pytorch/tensorflow + cuda + vpi. I've also had to do my own debayer filter for 'real time' performance, but there's plenty of advantages to doing that with filtering as well. I tried to get chatgpt to do some of the work for me (i.e. modify nvidia's sample code according to my camera's datasheet), and chatgpt was incapable of doing the work in this instance, so if you're thinking of relying on chatgpt, this is probably not the product to go with. There's been many advancements, and nvidia gets to train and correct ai for their products, so I'd also assume that chatgpt or another tool \\_will\\_ be able to do the work in the very near future, if there isn't already another tool available.",
+                      "2025-11-18T14:22:15.102403"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      1,
+                      "2025-11-18T14:22:15.102403"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T14:32:11.660004"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T14:41:18.186360"
+                    ]
+                  ],
+                  "created_utc": 1763334263.0,
+                  "depth": 3,
+                  "permalink": "/r/MLQuestions/comments/1oyhvju/need_resources/np84g3n/",
+                  "is_submitter": false,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": [
+                    {
+                      "id": "npacljj",
+                      "parent_id": "t1_np84g3n",
+                      "author": "krisadegyorii",
+                      "text_history": [
+                        [
+                          "Yeah, I looked at jetsons, I read it almost everywhere they’re the real deal, but like you said, they’re very pricey.\nI personally haven’t come across any anti-nato propaganda, though buying fpgas might be difficult, I didn’t dig that deep.\nI think I’ll just stick to using a pi 4/5 on my drone as a camera feed transmitter, and run YOLO on my laptop, as the size and thus the battery also limits what my drone is able to handle, plus I can still use it as an FPV drone, by removing the Pi.\nPlus like you said, learning new languages and libraris might not be the best for me right now, as I don’t want this project to stretch too long, might learn about those later if needed.\nYou helped clear up things as I actually just dived head in, but I already spent a shitload on this project so might as well make it work now, even if the AI is not on-board. \nDo you think that later on it would still be worth it to learn verilog or other languages tho? Or should I just undersrand what’s happening on the surface, and edit an open source code or use ai to write it? I’m good with just C/C++ and python for now tbh.\nAnyways, thank you! :)",
+                          "2025-11-18T14:22:15.102403"
+                        ]
+                      ],
+                      "score_history": [
+                        [
+                          2,
+                          "2025-11-18T14:22:15.102403"
+                        ],
+                        [
+                          2,
+                          "2025-11-18T14:32:11.660004"
+                        ],
+                        [
+                          2,
+                          "2025-11-18T14:41:18.186360"
+                        ]
+                      ],
+                      "created_utc": 1763368205.0,
+                      "depth": 4,
+                      "permalink": "/r/MLQuestions/comments/1oyhvju/need_resources/npacljj/",
+                      "is_submitter": true,
+                      "controversiality": 0,
+                      "gilded": 0,
+                      "edited": false,
+                      "deleted": false,
+                      "deleted_at": null,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "np57rha",
+      "parent_id": "t3_1oyhvju",
+      "author": "Altruistic_Leek6283",
+      "text_history": [
+        [
+          "You got the AAA tier from the answers here man! DL is the way.   \nYT Stanford, is for free.   \nCoursera has a lot of class included with Andrew NG. Andrew NG platforms has great classes as well. \n\nThis universe of AI is fascinating. Welcome",
+          "2025-11-18T14:22:15.102403"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-18T14:22:15.102403"
+        ],
+        [
+          2,
+          "2025-11-18T14:32:11.660004"
+        ],
+        [
+          2,
+          "2025-11-18T14:41:18.186360"
+        ]
+      ],
+      "created_utc": 1763301111.0,
+      "depth": 0,
+      "permalink": "/r/MLQuestions/comments/1oyhvju/need_resources/np57rha/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "np59mcd",
+          "parent_id": "t1_np57rha",
+          "author": "krisadegyorii",
+          "text_history": [
+            [
+              "Thank you very much!\nI’ll check all these out.",
+              "2025-11-18T14:22:15.102403"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T14:22:15.102403"
+            ],
+            [
+              1,
+              "2025-11-18T14:32:11.660004"
+            ],
+            [
+              1,
+              "2025-11-18T14:41:18.186360"
+            ]
+          ],
+          "created_utc": 1763301824.0,
+          "depth": 1,
+          "permalink": "/r/MLQuestions/comments/1oyhvju/need_resources/np59mcd/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npel252",
+      "parent_id": "t3_1oyhvju",
+      "author": "ViciousIvy",
+      "text_history": [
+        [
+          "hey there! my company offers a free ai/ml engineering fundamentals course if you'd like to check it out feel free to message me\n\ni'm also building an ai/ml community on discord &gt; we share news + hold discussions on various topics and would love for u to come hang out \\^-\\^ link is in my bio ",
+          "2025-11-18T14:22:15.102403"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:22:15.102403"
+        ],
+        [
+          1,
+          "2025-11-18T14:32:11.660004"
+        ],
+        [
+          1,
+          "2025-11-18T14:41:18.186360"
+        ]
+      ],
+      "created_utc": 1763422986.0,
+      "depth": 0,
+      "permalink": "/r/MLQuestions/comments/1oyhvju/need_resources/npel252/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-18T14:41:18.186360",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/MLQuestions/comments/1oyhvju/need_resources/",
+    "total_comments": 10,
+    "top_level_comments": 4,
+    "api_requests": 1,
+    "expected_comments": 13,
+    "coverage_percent": 76.92,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_142214.json",
+      "scrape_002_20251118_143211.json",
+      "scrape_003_20251118_144117.json"
+    ]
+  }
+}

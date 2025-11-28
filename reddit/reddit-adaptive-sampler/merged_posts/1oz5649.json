@@ -1,0 +1,1096 @@
+{
+  "post": {
+    "id": "1oz5649",
+    "title": "Google to flag Android apps with excessive battery use on the Play Store",
+    "author": "ControlCAD",
+    "score_history": [
+      [
+        996,
+        "2025-11-18T14:12:38.937329"
+      ],
+      [
+        997,
+        "2025-11-18T14:21:42.393426"
+      ],
+      [
+        995,
+        "2025-11-18T14:22:03.226704"
+      ],
+      [
+        1000,
+        "2025-11-18T22:21:51.149401"
+      ],
+      [
+        995,
+        "2025-11-19T00:15:30.148175"
+      ],
+      [
+        1000,
+        "2025-11-19T01:51:05.383159"
+      ]
+    ],
+    "created_utc": 1763348299.0,
+    "num_comments": 24,
+    "subreddit": "technews",
+    "url": "https://www.bleepingcomputer.com/news/security/google-to-flag-android-apps-with-excessive-battery-use-on-the-play-store/",
+    "selftext": "",
+    "permalink": "/r/technews/comments/1oz5649/google_to_flag_android_apps_with_excessive/"
+  },
+  "comments": [
+    {
+      "id": "np9h52g",
+      "parent_id": "t3_1oz5649",
+      "author": "vipulbhandari82",
+      "text_history": [
+        [
+          "An exceptionally positive development, albeit delayed, has finally materialized.\n\nCall out the bad actors. I hope Google ads... Oops apps are included too.",
+          "2025-11-18T14:12:38.937329"
+        ]
+      ],
+      "score_history": [
+        [
+          122,
+          "2025-11-18T14:12:38.937329"
+        ],
+        [
+          124,
+          "2025-11-18T14:21:42.393426"
+        ],
+        [
+          122,
+          "2025-11-18T14:22:03.226704"
+        ],
+        [
+          122,
+          "2025-11-18T22:21:51.149401"
+        ],
+        [
+          123,
+          "2025-11-19T00:15:30.148175"
+        ],
+        [
+          122,
+          "2025-11-19T01:51:05.383159"
+        ]
+      ],
+      "created_utc": 1763351804.0,
+      "depth": 0,
+      "permalink": "/r/technews/comments/1oz5649/google_to_flag_android_apps_with_excessive/np9h52g/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "np9mvgd",
+      "parent_id": "t3_1oz5649",
+      "author": "NnyAppleseed",
+      "text_history": [
+        [
+          "Will they be flagging chrome then?",
+          "2025-11-18T14:12:38.937329"
+        ]
+      ],
+      "score_history": [
+        [
+          47,
+          "2025-11-18T14:12:38.937329"
+        ],
+        [
+          48,
+          "2025-11-18T14:21:42.393426"
+        ],
+        [
+          49,
+          "2025-11-18T14:22:03.226704"
+        ],
+        [
+          52,
+          "2025-11-18T22:21:51.149401"
+        ],
+        [
+          53,
+          "2025-11-19T00:15:30.148175"
+        ],
+        [
+          52,
+          "2025-11-19T01:51:05.383159"
+        ]
+      ],
+      "created_utc": 1763354180.0,
+      "depth": 0,
+      "permalink": "/r/technews/comments/1oz5649/google_to_flag_android_apps_with_excessive/np9mvgd/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npb9oov",
+          "parent_id": "t1_np9mvgd",
+          "author": "L0ST-SP4CE",
+          "text_history": [
+            [
+              "I hope they flag YouTube app. It uses around 3X the battery than when I use YouTube through brave browser on my phone.",
+              "2025-11-18T14:12:38.937329"
+            ]
+          ],
+          "score_history": [
+            [
+              17,
+              "2025-11-18T14:12:38.937329"
+            ],
+            [
+              16,
+              "2025-11-18T14:21:42.393426"
+            ],
+            [
+              18,
+              "2025-11-18T14:22:03.226704"
+            ],
+            [
+              17,
+              "2025-11-18T22:21:51.149401"
+            ],
+            [
+              20,
+              "2025-11-19T00:15:30.148175"
+            ],
+            [
+              19,
+              "2025-11-19T01:51:05.383159"
+            ]
+          ],
+          "created_utc": 1763385969.0,
+          "depth": 1,
+          "permalink": "/r/technews/comments/1oz5649/google_to_flag_android_apps_with_excessive/npb9oov/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "np9lihi",
+      "parent_id": "t3_1oz5649",
+      "author": "Laylasita",
+      "text_history": [
+        [
+          "Samsung update put a widget on my home screen.  Between apps and this widget, my battery was depleted by the afternoon.  Thank you Google!",
+          "2025-11-18T14:12:38.937329"
+        ]
+      ],
+      "score_history": [
+        [
+          26,
+          "2025-11-18T14:12:38.937329"
+        ],
+        [
+          27,
+          "2025-11-18T14:21:42.393426"
+        ],
+        [
+          27,
+          "2025-11-18T14:22:03.226704"
+        ],
+        [
+          26,
+          "2025-11-18T22:21:51.149401"
+        ],
+        [
+          28,
+          "2025-11-19T00:15:30.148175"
+        ],
+        [
+          28,
+          "2025-11-19T01:51:05.383159"
+        ]
+      ],
+      "created_utc": 1763353634.0,
+      "depth": 0,
+      "permalink": "/r/technews/comments/1oz5649/google_to_flag_android_apps_with_excessive/np9lihi/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "np9q34p",
+      "parent_id": "t3_1oz5649",
+      "author": "Old-Plum-21",
+      "text_history": [
+        [
+          "Ironic coming from the makers of the most overheating smartphone in history",
+          "2025-11-18T14:12:38.937329"
+        ]
+      ],
+      "score_history": [
+        [
+          17,
+          "2025-11-18T14:12:38.937329"
+        ],
+        [
+          18,
+          "2025-11-18T14:21:42.393426"
+        ],
+        [
+          16,
+          "2025-11-18T14:22:03.226704"
+        ],
+        [
+          19,
+          "2025-11-18T22:21:51.149401"
+        ],
+        [
+          19,
+          "2025-11-19T00:15:30.148175"
+        ],
+        [
+          20,
+          "2025-11-19T01:51:05.383159"
+        ]
+      ],
+      "created_utc": 1763355630.0,
+      "depth": 0,
+      "permalink": "/r/technews/comments/1oz5649/google_to_flag_android_apps_with_excessive/np9q34p/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npces02",
+          "parent_id": "t1_np9q34p",
+          "author": "FewHorror1019",
+          "text_history": [
+            [
+              "Samsung?",
+              "2025-11-18T14:12:38.937329"
+            ]
+          ],
+          "score_history": [
+            [
+              -2,
+              "2025-11-18T14:12:38.937329"
+            ],
+            [
+              -2,
+              "2025-11-18T14:21:42.393426"
+            ],
+            [
+              -2,
+              "2025-11-18T14:22:03.226704"
+            ],
+            [
+              -2,
+              "2025-11-18T22:21:51.149401"
+            ],
+            [
+              -2,
+              "2025-11-19T00:15:30.148175"
+            ],
+            [
+              -2,
+              "2025-11-19T01:51:05.383159"
+            ]
+          ],
+          "created_utc": 1763399025.0,
+          "depth": 1,
+          "permalink": "/r/technews/comments/1oz5649/google_to_flag_android_apps_with_excessive/npces02/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "np9tq3z",
+      "parent_id": "t3_1oz5649",
+      "author": "_B_Little_me",
+      "text_history": [
+        [
+          "Google ads wants all of your battery for itself.",
+          "2025-11-18T14:12:38.937329"
+        ]
+      ],
+      "score_history": [
+        [
+          18,
+          "2025-11-18T14:12:38.937329"
+        ],
+        [
+          18,
+          "2025-11-18T14:21:42.393426"
+        ],
+        [
+          18,
+          "2025-11-18T14:22:03.226704"
+        ],
+        [
+          17,
+          "2025-11-18T22:21:51.149401"
+        ],
+        [
+          16,
+          "2025-11-19T00:15:30.148175"
+        ],
+        [
+          17,
+          "2025-11-19T01:51:05.383159"
+        ]
+      ],
+      "created_utc": 1763357398.0,
+      "depth": 0,
+      "permalink": "/r/technews/comments/1oz5649/google_to_flag_android_apps_with_excessive/np9tq3z/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "np9lqj2",
+      "parent_id": "t3_1oz5649",
+      "author": "freakinweasel353",
+      "text_history": [
+        [
+          "RIP Pokémon Go. 😁",
+          "2025-11-18T14:12:38.937329"
+        ]
+      ],
+      "score_history": [
+        [
+          14,
+          "2025-11-18T14:12:38.937329"
+        ],
+        [
+          15,
+          "2025-11-18T14:21:42.393426"
+        ],
+        [
+          15,
+          "2025-11-18T14:22:03.226704"
+        ],
+        [
+          14,
+          "2025-11-18T22:21:51.149401"
+        ],
+        [
+          15,
+          "2025-11-19T00:15:30.148175"
+        ],
+        [
+          15,
+          "2025-11-19T01:51:05.383159"
+        ]
+      ],
+      "created_utc": 1763353729.0,
+      "depth": 0,
+      "permalink": "/r/technews/comments/1oz5649/google_to_flag_android_apps_with_excessive/np9lqj2/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "np9rj6c",
+      "parent_id": "t3_1oz5649",
+      "author": "JonJonJonnyBoy",
+      "text_history": [
+        [
+          "This will greatly benefit us poor plebs that have a cheap smartphone. These high battery consumption and unoptimized apps are the bane of our existence.",
+          "2025-11-18T14:12:38.937329"
+        ]
+      ],
+      "score_history": [
+        [
+          10,
+          "2025-11-18T14:12:38.937329"
+        ],
+        [
+          11,
+          "2025-11-18T14:21:42.393426"
+        ],
+        [
+          11,
+          "2025-11-18T14:22:03.226704"
+        ],
+        [
+          11,
+          "2025-11-18T22:21:51.149401"
+        ],
+        [
+          11,
+          "2025-11-19T00:15:30.148175"
+        ],
+        [
+          10,
+          "2025-11-19T01:51:05.383159"
+        ]
+      ],
+      "created_utc": 1763356311.0,
+      "depth": 0,
+      "permalink": "/r/technews/comments/1oz5649/google_to_flag_android_apps_with_excessive/np9rj6c/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "np9gtre",
+      "parent_id": "t3_1oz5649",
+      "author": "Accomplished-Fix6598",
+      "text_history": [
+        [
+          "Good.",
+          "2025-11-18T14:12:38.937329"
+        ]
+      ],
+      "score_history": [
+        [
+          8,
+          "2025-11-18T14:12:38.937329"
+        ],
+        [
+          4,
+          "2025-11-18T14:21:42.393426"
+        ],
+        [
+          5,
+          "2025-11-18T14:22:03.226704"
+        ],
+        [
+          5,
+          "2025-11-18T22:21:51.149401"
+        ],
+        [
+          5,
+          "2025-11-19T00:15:30.148175"
+        ],
+        [
+          6,
+          "2025-11-19T01:51:05.383159"
+        ]
+      ],
+      "created_utc": 1763351678.0,
+      "depth": 0,
+      "permalink": "/r/technews/comments/1oz5649/google_to_flag_android_apps_with_excessive/np9gtre/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npaz1sz",
+      "parent_id": "t3_1oz5649",
+      "author": "CamiloArturo",
+      "text_history": [
+        [
+          "So…. Google Chrome and all the apps Android doesn’t let uninstall but are always on stand by will be flagged immediately?",
+          "2025-11-18T14:12:38.937329"
+        ]
+      ],
+      "score_history": [
+        [
+          6,
+          "2025-11-18T14:12:38.937329"
+        ],
+        [
+          6,
+          "2025-11-18T14:21:42.393426"
+        ],
+        [
+          6,
+          "2025-11-18T14:22:03.226704"
+        ],
+        [
+          7,
+          "2025-11-18T22:21:51.149401"
+        ],
+        [
+          7,
+          "2025-11-19T00:15:30.148175"
+        ],
+        [
+          6,
+          "2025-11-19T01:51:05.383159"
+        ]
+      ],
+      "created_utc": 1763381491.0,
+      "depth": 0,
+      "permalink": "/r/technews/comments/1oz5649/google_to_flag_android_apps_with_excessive/npaz1sz/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npanvm0",
+      "parent_id": "t3_1oz5649",
+      "author": "TheBrands360",
+      "text_history": [
+        [
+          "Love this change, but I’m curious: will Google actually enforce it on big apps… or only on smaller devs who can’t fight back?",
+          "2025-11-18T14:12:38.937329"
+        ]
+      ],
+      "score_history": [
+        [
+          5,
+          "2025-11-18T14:12:38.937329"
+        ],
+        [
+          5,
+          "2025-11-18T14:21:42.393426"
+        ],
+        [
+          4,
+          "2025-11-18T14:22:03.226704"
+        ],
+        [
+          3,
+          "2025-11-18T22:21:51.149401"
+        ],
+        [
+          4,
+          "2025-11-19T00:15:30.148175"
+        ],
+        [
+          3,
+          "2025-11-19T01:51:05.383159"
+        ]
+      ],
+      "created_utc": 1763375392.0,
+      "depth": 0,
+      "permalink": "/r/technews/comments/1oz5649/google_to_flag_android_apps_with_excessive/npanvm0/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "np9r0jh",
+      "parent_id": "t3_1oz5649",
+      "author": "thisistherevolt",
+      "text_history": [
+        [
+          "Imgur shaking in their boots right now.",
+          "2025-11-18T14:12:38.937329"
+        ]
+      ],
+      "score_history": [
+        [
+          3,
+          "2025-11-18T14:12:38.937329"
+        ],
+        [
+          3,
+          "2025-11-18T14:21:42.393426"
+        ],
+        [
+          3,
+          "2025-11-18T14:22:03.226704"
+        ],
+        [
+          3,
+          "2025-11-18T22:21:51.149401"
+        ],
+        [
+          3,
+          "2025-11-19T00:15:30.148175"
+        ],
+        [
+          3,
+          "2025-11-19T01:51:05.383159"
+        ]
+      ],
+      "created_utc": 1763356065.0,
+      "depth": 0,
+      "permalink": "/r/technews/comments/1oz5649/google_to_flag_android_apps_with_excessive/np9r0jh/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npatyc4",
+      "parent_id": "t3_1oz5649",
+      "author": "Micronlance",
+      "text_history": [
+        [
+          "Cryptominers will just throttle to stay under the 2hr/24hr threshold. This catches poorly optimized malware, not sophisticated threat actors.",
+          "2025-11-18T14:12:38.937329"
+        ]
+      ],
+      "score_history": [
+        [
+          3,
+          "2025-11-18T14:12:38.937329"
+        ],
+        [
+          3,
+          "2025-11-18T14:21:42.393426"
+        ],
+        [
+          3,
+          "2025-11-18T14:22:03.226704"
+        ],
+        [
+          3,
+          "2025-11-18T22:21:51.149401"
+        ],
+        [
+          3,
+          "2025-11-19T00:15:30.148175"
+        ],
+        [
+          3,
+          "2025-11-19T01:51:05.383159"
+        ]
+      ],
+      "created_utc": 1763378894.0,
+      "depth": 0,
+      "permalink": "/r/technews/comments/1oz5649/google_to_flag_android_apps_with_excessive/npatyc4/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npbc086",
+      "parent_id": "t3_1oz5649",
+      "author": "pyramidworld",
+      "text_history": [
+        [
+          "Hope Apple follows suit.",
+          "2025-11-18T14:12:38.937329"
+        ]
+      ],
+      "score_history": [
+        [
+          3,
+          "2025-11-18T14:12:38.937329"
+        ],
+        [
+          3,
+          "2025-11-18T14:21:42.393426"
+        ],
+        [
+          3,
+          "2025-11-18T14:22:03.226704"
+        ],
+        [
+          3,
+          "2025-11-18T22:21:51.149401"
+        ],
+        [
+          3,
+          "2025-11-19T00:15:30.148175"
+        ],
+        [
+          3,
+          "2025-11-19T01:51:05.383159"
+        ]
+      ],
+      "created_utc": 1763386820.0,
+      "depth": 0,
+      "permalink": "/r/technews/comments/1oz5649/google_to_flag_android_apps_with_excessive/npbc086/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npdb7j2",
+      "parent_id": "t3_1oz5649",
+      "author": "Sir-Farts-",
+      "text_history": [
+        [
+          "Facebook drains the absolute life out of my battery ,sucking all the data out of my phone .",
+          "2025-11-18T14:12:38.937329"
+        ]
+      ],
+      "score_history": [
+        [
+          3,
+          "2025-11-18T14:12:38.937329"
+        ],
+        [
+          3,
+          "2025-11-18T14:21:42.393426"
+        ],
+        [
+          3,
+          "2025-11-18T14:22:03.226704"
+        ],
+        [
+          3,
+          "2025-11-18T22:21:51.149401"
+        ],
+        [
+          3,
+          "2025-11-19T00:15:30.148175"
+        ],
+        [
+          3,
+          "2025-11-19T01:51:05.383159"
+        ]
+      ],
+      "created_utc": 1763408533.0,
+      "depth": 0,
+      "permalink": "/r/technews/comments/1oz5649/google_to_flag_android_apps_with_excessive/npdb7j2/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "np9h9i6",
+      "parent_id": "t3_1oz5649",
+      "author": "Taki_Minase",
+      "text_history": [
+        [
+          "Image Gen ouch",
+          "2025-11-18T14:12:38.937329"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-18T14:12:38.937329"
+        ],
+        [
+          2,
+          "2025-11-18T14:21:42.393426"
+        ],
+        [
+          2,
+          "2025-11-18T14:22:03.226704"
+        ],
+        [
+          2,
+          "2025-11-18T22:21:51.149401"
+        ],
+        [
+          2,
+          "2025-11-19T00:15:30.148175"
+        ],
+        [
+          2,
+          "2025-11-19T01:51:05.383159"
+        ]
+      ],
+      "created_utc": 1763351854.0,
+      "depth": 0,
+      "permalink": "/r/technews/comments/1oz5649/google_to_flag_android_apps_with_excessive/np9h9i6/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "np9so8b",
+      "parent_id": "t3_1oz5649",
+      "author": "prountercoductive",
+      "text_history": [
+        [
+          "Hi Pokemon Go",
+          "2025-11-18T14:12:38.937329"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-18T14:12:38.937329"
+        ],
+        [
+          2,
+          "2025-11-18T14:21:42.393426"
+        ],
+        [
+          2,
+          "2025-11-18T14:22:03.226704"
+        ],
+        [
+          2,
+          "2025-11-18T22:21:51.149401"
+        ],
+        [
+          2,
+          "2025-11-19T00:15:30.148175"
+        ],
+        [
+          2,
+          "2025-11-19T01:51:05.383159"
+        ]
+      ],
+      "created_utc": 1763356869.0,
+      "depth": 0,
+      "permalink": "/r/technews/comments/1oz5649/google_to_flag_android_apps_with_excessive/np9so8b/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npbe9zj",
+      "parent_id": "t3_1oz5649",
+      "author": "wimbs27",
+      "text_history": [
+        [
+          "Maybe Strava will finally optimize their app!",
+          "2025-11-18T14:12:38.937329"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-18T14:12:38.937329"
+        ],
+        [
+          2,
+          "2025-11-18T14:21:42.393426"
+        ],
+        [
+          2,
+          "2025-11-18T14:22:03.226704"
+        ],
+        [
+          2,
+          "2025-11-18T22:21:51.149401"
+        ],
+        [
+          2,
+          "2025-11-19T00:15:30.148175"
+        ],
+        [
+          2,
+          "2025-11-19T01:51:05.383159"
+        ]
+      ],
+      "created_utc": 1763387624.0,
+      "depth": 0,
+      "permalink": "/r/technews/comments/1oz5649/google_to_flag_android_apps_with_excessive/npbe9zj/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npax5a7",
+      "parent_id": "t3_1oz5649",
+      "author": "superpj",
+      "text_history": [
+        [
+          "Better see WhatsApp on that list too",
+          "2025-11-18T14:12:38.937329"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:12:38.937329"
+        ],
+        [
+          1,
+          "2025-11-18T14:21:42.393426"
+        ],
+        [
+          1,
+          "2025-11-18T14:22:03.226704"
+        ],
+        [
+          1,
+          "2025-11-18T22:21:51.149401"
+        ],
+        [
+          1,
+          "2025-11-19T00:15:30.148175"
+        ],
+        [
+          1,
+          "2025-11-19T01:51:05.383159"
+        ]
+      ],
+      "created_utc": 1763380556.0,
+      "depth": 0,
+      "permalink": "/r/technews/comments/1oz5649/google_to_flag_android_apps_with_excessive/npax5a7/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npbeunl",
+      "parent_id": "t3_1oz5649",
+      "author": "chumlySparkFire",
+      "text_history": [
+        [
+          "Android includes battery drain, 24/7 privacy invasion and no iMessage…. 🤮",
+          "2025-11-18T14:12:38.937329"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:12:38.937329"
+        ],
+        [
+          1,
+          "2025-11-18T14:21:42.393426"
+        ],
+        [
+          1,
+          "2025-11-18T14:22:03.226704"
+        ],
+        [
+          1,
+          "2025-11-18T22:21:51.149401"
+        ],
+        [
+          1,
+          "2025-11-19T00:15:30.148175"
+        ],
+        [
+          1,
+          "2025-11-19T01:51:05.383159"
+        ]
+      ],
+      "created_utc": 1763387826.0,
+      "depth": 0,
+      "permalink": "/r/technews/comments/1oz5649/google_to_flag_android_apps_with_excessive/npbeunl/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npbveo0",
+      "parent_id": "t3_1oz5649",
+      "author": "TheMetabaronIV",
+      "text_history": [
+        [
+          "Used to use Spotify at work playing music, when the shift was over my phone was always at 10%. Switched to Apple Music and now my phone doesn’t go under 50% at the end of an eight hour shift.",
+          "2025-11-18T14:12:38.937329"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:12:38.937329"
+        ],
+        [
+          1,
+          "2025-11-18T14:21:42.393426"
+        ],
+        [
+          1,
+          "2025-11-18T14:22:03.226704"
+        ],
+        [
+          1,
+          "2025-11-18T22:21:51.149401"
+        ],
+        [
+          1,
+          "2025-11-19T00:15:30.148175"
+        ],
+        [
+          1,
+          "2025-11-19T01:51:05.383159"
+        ]
+      ],
+      "created_utc": 1763393287.0,
+      "depth": 0,
+      "permalink": "/r/technews/comments/1oz5649/google_to_flag_android_apps_with_excessive/npbveo0/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T01:51:05.383159",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/technews/comments/1oz5649/google_to_flag_android_apps_with_excessive/",
+    "total_comments": 22,
+    "top_level_comments": 20,
+    "api_requests": 1,
+    "expected_comments": 24,
+    "coverage_percent": 91.67,
+    "merged_snapshot_count": 6,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_141238.json",
+      "scrape_002_20251118_142141.json",
+      "scrape_003_20251118_142202.json",
+      "scrape_004_20251118_222150.json",
+      "scrape_005_20251119_001529.json",
+      "scrape_006_20251119_015104.json"
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "post": {
+    "id": "1oy42mq",
+    "title": "Compression-Aware Intelligence (CAI) and benchmark testing LLM consistency under semantically equivalent prompts",
+    "author": "Shot-Negotiation6979",
+    "score_history": [
+      [
+        1,
+        "2025-11-18T13:49:49.453006"
+      ],
+      [
+        1,
+        "2025-11-18T14:00:54.979573"
+      ],
+      [
+        1,
+        "2025-11-18T14:12:20.893821"
+      ],
+      [
+        1,
+        "2025-11-18T21:59:58.631683"
+      ],
+      [
+        1,
+        "2025-11-19T07:12:25.719650"
+      ]
+    ],
+    "created_utc": 1763243701.0,
+    "num_comments": 0,
+    "subreddit": "MLQuestions",
+    "url": "/r/deeplearning/comments/1oy41zf/compressionaware_intelligence_cai_and_benchmark/",
+    "selftext": "",
+    "permalink": "/r/MLQuestions/comments/1oy42mq/compressionaware_intelligence_cai_and_benchmark/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T07:12:25.719650",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/MLQuestions/comments/1oy42mq/compressionaware_intelligence_cai_and_benchmark/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 5,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_134949.json",
+      "scrape_002_20251118_140054.json",
+      "scrape_003_20251118_141220.json",
+      "scrape_004_20251118_215958.json",
+      "scrape_005_20251119_071225.json"
+    ]
+  }
+}

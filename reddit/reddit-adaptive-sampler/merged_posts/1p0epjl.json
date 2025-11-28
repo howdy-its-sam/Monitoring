@@ -1,0 +1,150 @@
+{
+  "post": {
+    "id": "1p0epjl",
+    "title": "Idea for serious game/workshop for company event",
+    "author": "Blow_Your_Shit",
+    "score_history": [
+      [
+        1,
+        "2025-11-18T14:22:32.498525"
+      ],
+      [
+        1,
+        "2025-11-18T14:32:51.825990"
+      ],
+      [
+        1,
+        "2025-11-18T14:42:49.343906"
+      ]
+    ],
+    "created_utc": 1763479329.0,
+    "num_comments": 3,
+    "subreddit": "cybersecurity",
+    "url": "https://www.reddit.com/r/cybersecurity/comments/1p0epjl/idea_for_serious_gameworkshop_for_company_event/",
+    "selftext": "Hi guys,\n\nI'm currently trying to think of idea of workshop or serious game related to cybersec for a Christmas company event, taking place in a few weeks. I'd like to focus a major part of this workshop around phishing and its consequences. But overall, this should be quite general, and I'd just like users to take part in this session in a fun and amusing way.\n\nAll company will be present, and I wondered if you had any fun idea that could engage everyone. I'll be speaking on some kind of scene/stage. I'll have around 1 hour.\n\nGot a one or two idea, but nothing really extravagant, would love to hear more from you guys. Thanks.",
+    "permalink": "/r/cybersecurity/comments/1p0epjl/idea_for_serious_gameworkshop_for_company_event/"
+  },
+  "comments": [
+    {
+      "id": "npigy9w",
+      "parent_id": "t3_1p0epjl",
+      "author": "Loptical",
+      "text_history": [
+        [
+          "Set up a evilginx instance and a test tenant then phish yourself in a presentation. You can sign up for a MFA trial and show you bypassing that too, then get people to create phishing emails. Theyll hopefully walk away a bit more knowledgeable on how phishing works and how to spot them.",
+          "2025-11-18T14:22:32.498525"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:22:32.498525"
+        ],
+        [
+          1,
+          "2025-11-18T14:32:51.825990"
+        ],
+        [
+          1,
+          "2025-11-18T14:42:49.343906"
+        ]
+      ],
+      "created_utc": 1763482117.0,
+      "depth": 0,
+      "permalink": "/r/cybersecurity/comments/1p0epjl/idea_for_serious_gameworkshop_for_company_event/npigy9w/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npj1frc",
+      "parent_id": "t3_1p0epjl",
+      "author": "cyberpunk0x0",
+      "text_history": [
+        [
+          "You can setup Gophish framework and do a live demo of a phishing campaign. It shows how easy it is for attachers to do phishing campaigns. It’s pretty easy to setup.\nAnother idea is to make some slides and ask audience to spot which email is phishing and which one is original.",
+          "2025-11-18T14:22:32.498525"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:22:32.498525"
+        ],
+        [
+          1,
+          "2025-11-18T14:32:51.825990"
+        ],
+        [
+          1,
+          "2025-11-18T14:42:49.343906"
+        ]
+      ],
+      "created_utc": 1763488131.0,
+      "depth": 0,
+      "permalink": "/r/cybersecurity/comments/1p0epjl/idea_for_serious_gameworkshop_for_company_event/npj1frc/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npkdjqp",
+      "parent_id": "t3_1p0epjl",
+      "author": "T_Thriller_T",
+      "text_history": [
+        [
+          "Look up \"Incident Response Tabletop\".\n\nThere are multiple games which are lead by a game master, but so follow simplified incident response / SOC response schemes.\nSome are technical, some are rather watered down with simple actions like \"investigate\", and \"repair\".\n\nStill, the scenarios are simplified realism, which is great.\n\nAlternatively, turn either trying to get in or an attack into some kind of escape room.\nLevels may vary, from identifying a non-phishing mail in a set of increasingly well down phishing ones to having them go through defined processes, or even up to some kind of organising some kind of tokens on a desk to make a good security architecture in order to unlock the next key/clue",
+          "2025-11-18T14:22:32.498525"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:22:32.498525"
+        ],
+        [
+          1,
+          "2025-11-18T14:32:51.825990"
+        ],
+        [
+          1,
+          "2025-11-18T14:42:49.343906"
+        ]
+      ],
+      "created_utc": 1763502377.0,
+      "depth": 0,
+      "permalink": "/r/cybersecurity/comments/1p0epjl/idea_for_serious_gameworkshop_for_company_event/npkdjqp/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-18T14:42:49.343906",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/cybersecurity/comments/1p0epjl/idea_for_serious_gameworkshop_for_company_event/",
+    "total_comments": 3,
+    "top_level_comments": 3,
+    "api_requests": 1,
+    "expected_comments": 3,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_142232.json",
+      "scrape_002_20251118_143251.json",
+      "scrape_003_20251118_144249.json"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "post": {
+    "id": "1j6ixg7",
+    "title": "The Chinese AI Startup that beat ChatGPT: DeepSeek (Documentary)",
+    "author": "BadBig7869",
+    "score_history": [
+      [
+        1,
+        "2025-11-18T14:22:30.786884"
+      ],
+      [
+        1,
+        "2025-11-18T14:32:48.356797"
+      ],
+      [
+        1,
+        "2025-11-18T14:43:12.885395"
+      ]
+    ],
+    "created_utc": 1741446022.0,
+    "num_comments": 0,
+    "subreddit": "ainews",
+    "url": "https://youtu.be/1qSdeYom8ak",
+    "selftext": "",
+    "permalink": "/r/ainews/comments/1j6ixg7/the_chinese_ai_startup_that_beat_chatgpt_deepseek/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-18T14:43:12.885395",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/ainews/comments/1j6ixg7/the_chinese_ai_startup_that_beat_chatgpt_deepseek/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_142230.json",
+      "scrape_002_20251118_143248.json",
+      "scrape_003_20251118_144312.json"
+    ]
+  }
+}

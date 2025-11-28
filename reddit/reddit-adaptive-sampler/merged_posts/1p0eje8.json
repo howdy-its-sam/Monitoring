@@ -1,0 +1,978 @@
+{
+  "post": {
+    "id": "1p0eje8",
+    "title": "What's your policy when a critical CVE appears that has no fix or remediation actions?",
+    "author": "Tricky-Report-1343",
+    "score_history": [
+      [
+        31,
+        "2025-11-18T15:16:48.780742"
+      ],
+      [
+        50,
+        "2025-11-18T23:14:02.285038"
+      ],
+      [
+        53,
+        "2025-11-19T00:58:03.221589"
+      ],
+      [
+        50,
+        "2025-11-19T02:32:52.408532"
+      ]
+    ],
+    "created_utc": 1763478938.0,
+    "num_comments": 24,
+    "subreddit": "cybersecurity",
+    "url": "https://www.reddit.com/r/cybersecurity/comments/1p0eje8/whats_your_policy_when_a_critical_cve_appears/",
+    "selftext": "An interesting scenario appeared, there might be a time window when a critical CVE is found but a fix for it is not released yet. It's unknown when that CVE would be fixed. What policies do you follow on this?\n\nExample as of when I am posting this: [https://nvd.nist.gov/vuln/detail/CVE-2025-45768](https://nvd.nist.gov/vuln/detail/CVE-2025-45768)\n\nScenarios I consider:  \n1.  Hire a penetration tester to literally exploit this in your environment and gives you binary success report and you can act on it to take observability actions and block those possible actions.  \n2. Create theories around how it could be prevented and try to create observability and rejection patterns.\n\nWhat are your opinions for this?",
+    "permalink": "/r/cybersecurity/comments/1p0eje8/whats_your_policy_when_a_critical_cve_appears/"
+  },
+  "comments": [
+    {
+      "id": "npj52vo",
+      "parent_id": "t3_1p0eje8",
+      "author": "Admirable_Group_6661",
+      "text_history": [
+        [
+          "So, the example you provided is not really a good one; it's disputed. Furthermore, to mitigate this, you just need to ensure sufficient key length meeting your requirements.\n\nIf it was a severe vulnerability (9 - 10), and it's a business critical system, then you need to perform a risk assessment. In the even that no mitigation is feasible, you may have to simply accept the risks because business continuity is more critical.",
+          "2025-11-18T15:16:48.780742"
+        ]
+      ],
+      "score_history": [
+        [
+          13,
+          "2025-11-18T15:16:48.780742"
+        ],
+        [
+          29,
+          "2025-11-18T23:14:02.285038"
+        ],
+        [
+          31,
+          "2025-11-19T00:58:03.221589"
+        ],
+        [
+          31,
+          "2025-11-19T02:32:52.408532"
+        ]
+      ],
+      "created_utc": 1763489178.0,
+      "depth": 0,
+      "permalink": "/r/cybersecurity/comments/1p0eje8/whats_your_policy_when_a_critical_cve_appears/npj52vo/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npjfxis",
+      "parent_id": "t3_1p0eje8",
+      "author": "oxidizingremnant",
+      "text_history": [
+        [
+          "You need to look at the CVE and determine if it is relevant to your environment.\n\nIn this case, the CVE is saying that the library does not enforce a strong key length for signing JWT. So really the CVE isn't a weakness in code but related to implementation. That means to review the implementation and determine if you're affected. In your code using pyjwt, what length of key did your engineers implement and does that match your company's key management policies and procedures? If so, then you would mark this CVE as not relevant and move on. If the key doesn't match your policies, then you would fix the key and mark the CVE as fixed and move on. \n\nAlso, this NVD entry is showing at most this is a HIGH (7.0) CVSS, so it's not critical by any means.",
+          "2025-11-18T15:16:48.780742"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-18T15:16:48.780742"
+        ],
+        [
+          6,
+          "2025-11-18T23:14:02.285038"
+        ],
+        [
+          6,
+          "2025-11-19T00:58:03.221589"
+        ],
+        [
+          6,
+          "2025-11-19T02:32:52.408532"
+        ]
+      ],
+      "created_utc": 1763492289.0,
+      "depth": 0,
+      "permalink": "/r/cybersecurity/comments/1p0eje8/whats_your_policy_when_a_critical_cve_appears/npjfxis/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npk7sz5",
+      "parent_id": "t3_1p0eje8",
+      "author": "Kiss-cyber",
+      "text_history": [
+        [
+          "When there’s no patch, the real control is governance:\nrisk acceptance, compensating controls, and re-prioritizing exposure.\nYou don’t “fix” the CVE, you fix the conditions that would make it exploitable.\nAsset criticality, network paths, identity hardening, and blast-radius reduction usually matter more than waiting for a vendor fix",
+          "2025-11-18T15:16:48.780742"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T15:16:48.780742"
+        ],
+        [
+          4,
+          "2025-11-18T23:14:02.285038"
+        ],
+        [
+          5,
+          "2025-11-19T00:58:03.221589"
+        ],
+        [
+          4,
+          "2025-11-19T02:32:52.408532"
+        ]
+      ],
+      "created_utc": 1763500656.0,
+      "depth": 0,
+      "permalink": "/r/cybersecurity/comments/1p0eje8/whats_your_policy_when_a_critical_cve_appears/npk7sz5/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npjlwhu",
+      "parent_id": "t3_1p0eje8",
+      "author": "Grandpabart",
+      "text_history": [
+        [
+          "Not a fun answer, but best solution is secure by design. Use Echo or another provider to get vuln-free images from the start.",
+          "2025-11-18T15:16:48.780742"
+        ]
+      ],
+      "score_history": [
+        [
+          16,
+          "2025-11-18T15:16:48.780742"
+        ],
+        [
+          20,
+          "2025-11-18T23:14:02.285038"
+        ],
+        [
+          19,
+          "2025-11-19T00:58:03.221589"
+        ],
+        [
+          19,
+          "2025-11-19T02:32:52.408532"
+        ]
+      ],
+      "created_utc": 1763494068.0,
+      "depth": 0,
+      "permalink": "/r/cybersecurity/comments/1p0eje8/whats_your_policy_when_a_critical_cve_appears/npjlwhu/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npi95ta",
+      "parent_id": "t3_1p0eje8",
+      "author": "robonova-1",
+      "text_history": [
+        [
+          "How is it critical if it's being disputed?",
+          "2025-11-18T15:16:48.780742"
+        ]
+      ],
+      "score_history": [
+        [
+          20,
+          "2025-11-18T15:16:48.780742"
+        ],
+        [
+          18,
+          "2025-11-18T23:14:02.285038"
+        ],
+        [
+          16,
+          "2025-11-19T00:58:03.221589"
+        ],
+        [
+          17,
+          "2025-11-19T02:32:52.408532"
+        ]
+      ],
+      "created_utc": 1763479819.0,
+      "depth": 0,
+      "permalink": "/r/cybersecurity/comments/1p0eje8/whats_your_policy_when_a_critical_cve_appears/npi95ta/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npiarii",
+          "parent_id": "t1_npi95ta",
+          "author": "Tricky-Report-1343",
+          "text_history": [
+            [
+              "Some security software classifies it as critical.  I think doing internal risk assessment is the key I understood from two comments.",
+              "2025-11-18T15:16:48.780742"
+            ]
+          ],
+          "score_history": [
+            [
+              5,
+              "2025-11-18T15:16:48.780742"
+            ],
+            [
+              8,
+              "2025-11-18T23:14:02.285038"
+            ],
+            [
+              7,
+              "2025-11-19T00:58:03.221589"
+            ],
+            [
+              7,
+              "2025-11-19T02:32:52.408532"
+            ]
+          ],
+          "created_utc": 1763480297.0,
+          "depth": 1,
+          "permalink": "/r/cybersecurity/comments/1p0eje8/whats_your_policy_when_a_critical_cve_appears/npiarii/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npiaeg9",
+      "parent_id": "t3_1p0eje8",
+      "author": "Hogger18",
+      "text_history": [
+        [
+          "This is where risk assessment comes in. Does it apply to your environment? Determine exposure and perform your own CVSS scoring. Apply some interim mitigations in the meantime and actively monitor affected/risked systems until a fix comes.",
+          "2025-11-18T15:16:48.780742"
+        ]
+      ],
+      "score_history": [
+        [
+          19,
+          "2025-11-18T15:16:48.780742"
+        ],
+        [
+          25,
+          "2025-11-18T23:14:02.285038"
+        ],
+        [
+          23,
+          "2025-11-19T00:58:03.221589"
+        ],
+        [
+          25,
+          "2025-11-19T02:32:52.408532"
+        ]
+      ],
+      "created_utc": 1763480190.0,
+      "depth": 0,
+      "permalink": "/r/cybersecurity/comments/1p0eje8/whats_your_policy_when_a_critical_cve_appears/npiaeg9/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npiau7j",
+          "parent_id": "t1_npiaeg9",
+          "author": "Tricky-Report-1343",
+          "text_history": [
+            [
+              "It makes total sense.",
+              "2025-11-18T15:16:48.780742"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T15:16:48.780742"
+            ],
+            [
+              1,
+              "2025-11-18T23:14:02.285038"
+            ],
+            [
+              1,
+              "2025-11-19T00:58:03.221589"
+            ],
+            [
+              1,
+              "2025-11-19T02:32:52.408532"
+            ]
+          ],
+          "created_utc": 1763480319.0,
+          "depth": 1,
+          "permalink": "/r/cybersecurity/comments/1p0eje8/whats_your_policy_when_a_critical_cve_appears/npiau7j/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        },
+        {
+          "id": "npk2saf",
+          "parent_id": "t1_npiaeg9",
+          "author": "shinyviper",
+          "text_history": [
+            [
+              "Came here to say this.  This is literally the definition of why risk assessments exist and are conducted.  There is structured methodology in place to determine what the risk is and what mitigations are applicable.",
+              "2025-11-18T15:16:48.780742"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T15:16:48.780742"
+            ],
+            [
+              1,
+              "2025-11-18T23:14:02.285038"
+            ],
+            [
+              1,
+              "2025-11-19T00:58:03.221589"
+            ],
+            [
+              1,
+              "2025-11-19T02:32:52.408532"
+            ]
+          ],
+          "created_utc": 1763499169.0,
+          "depth": 1,
+          "permalink": "/r/cybersecurity/comments/1p0eje8/whats_your_policy_when_a_critical_cve_appears/npk2saf/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npiji8i",
+      "parent_id": "t3_1p0eje8",
+      "author": "8923ns671",
+      "text_history": [
+        [
+          "Not a cybersecurity professional but I'd imagine compensating controls are a part of it. For example, writing a detection for the exploitation of the CVE.",
+          "2025-11-18T15:16:48.780742"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T15:16:48.780742"
+        ],
+        [
+          3,
+          "2025-11-18T23:14:02.285038"
+        ],
+        [
+          3,
+          "2025-11-19T00:58:03.221589"
+        ],
+        [
+          3,
+          "2025-11-19T02:32:52.408532"
+        ]
+      ],
+      "created_utc": 1763482861.0,
+      "depth": 0,
+      "permalink": "/r/cybersecurity/comments/1p0eje8/whats_your_policy_when_a_critical_cve_appears/npiji8i/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npiryy1",
+      "parent_id": "t3_1p0eje8",
+      "author": "theoreoman",
+      "text_history": [
+        [
+          "For this specific scenario you do a risk assessment.\n\nBased on the key length your using how long would it take to break the \"weak\" encryption. What is this encryption protecting?  If the answer is it'll a very long time for everyone including state actors and the data isnt anything special I wouldn't care. If possible increase the key length because it sounds like it's only an issue if yiu use a short key length",
+          "2025-11-18T15:16:48.780742"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T15:16:48.780742"
+        ],
+        [
+          1,
+          "2025-11-18T23:14:02.285038"
+        ],
+        [
+          1,
+          "2025-11-19T00:58:03.221589"
+        ],
+        [
+          1,
+          "2025-11-19T02:32:52.408532"
+        ]
+      ],
+      "created_utc": 1763485331.0,
+      "depth": 0,
+      "permalink": "/r/cybersecurity/comments/1p0eje8/whats_your_policy_when_a_critical_cve_appears/npiryy1/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npj2xq9",
+      "parent_id": "t3_1p0eje8",
+      "author": "lawtechie",
+      "text_history": [
+        [
+          "You can do four things to a risk:eliminate, fix, mitigate or accept.  \n  \nHere's an analog example. I'm walking in a city and it starts raining.   \n  \nI can eliminate the risk of getting wet by going inside a building and stopping my trip.  \nI can fix getting wet by getting an umbrella.   \n  \nI can mitigate getting wet by changing my path to walk where there are awnings and overhangs  \n  \nOr I can accept getting wet.",
+          "2025-11-18T15:16:48.780742"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T15:16:48.780742"
+        ],
+        [
+          1,
+          "2025-11-18T23:14:02.285038"
+        ],
+        [
+          1,
+          "2025-11-19T00:58:03.221589"
+        ],
+        [
+          1,
+          "2025-11-19T02:32:52.408532"
+        ]
+      ],
+      "created_utc": 1763488559.0,
+      "depth": 0,
+      "permalink": "/r/cybersecurity/comments/1p0eje8/whats_your_policy_when_a_critical_cve_appears/npj2xq9/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npji9gd",
+          "parent_id": "t1_npj2xq9",
+          "author": "Mark_in_Portland",
+          "text_history": [
+            [
+              "You can also transfer the risk via insurance. If you get popped the insurance company will try everything to not pay but if you followed the terms of insurance they will pay.\n\nPart of accepting the risk is related to the value of what you are protecting. \n\nOne thing that really stood out for me in a cyber class that I took was we aren't going to buy a $1k lock for a $10 bike.\n\nI guess the  another factor would be are you in a regulated industry where you have to resolve risks within a certain period of time.",
+              "2025-11-18T15:16:48.780742"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T15:16:48.780742"
+            ],
+            [
+              2,
+              "2025-11-18T23:14:02.285038"
+            ],
+            [
+              2,
+              "2025-11-19T00:58:03.221589"
+            ],
+            [
+              2,
+              "2025-11-19T02:32:52.408532"
+            ]
+          ],
+          "created_utc": 1763492980.0,
+          "depth": 1,
+          "permalink": "/r/cybersecurity/comments/1p0eje8/whats_your_policy_when_a_critical_cve_appears/npji9gd/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npjaz9r",
+      "parent_id": "t3_1p0eje8",
+      "author": "T_Thriller_T",
+      "text_history": [
+        [
+          "I feel both options are very radical and a little lacking in methodology.\n\nWhat was already said is right: deeper risk assessment.\n\nBut, to give you some more direct ideas.\n\nFrom what I have done so far it depends on the CVE, what it belongs to and context.\n\nFor _software packages_, especially with good AppSec like a package mirror and secure environment, the solution can often be to check and from then on enforce that the vulnerable function or subpart is not used.\n\nQuite easy if it's a library delivered as code. Go to the mirror, write a wrapper, adapt your static code checking to not allow anything using that function to pass pipelines/checks, roll out (as hot/security fix to all projecrs), adapt surveillance.\n\nFor _packages, software and systems_ one simple check can be: Can we throw it out? Often easier with a software package that one project uses for one specific task than for whole software, but with good software management it may be very possible. A good example here is a CVE hitting just one or two switches or access points. Don't wait for new firmware, just grab the newer device and pull a technician for half a day to do it.\n\nAnother check and possible \"hot fix\" would be usage patterns and what the vulnerability is about. Can we externally secure against it's abuse? E.g. a software with a web management interface you offer is vulnerable to SQL injection, so you could sanitise user input yourself before anything gets sent to the server. Simple stupid way could be to force rerouting from wherever the input is to a webform you control, which then inputs sanitised, and goes back to results from sanitised.  (Yes, WAF, DB settings and so many more also exist).\n\nThis is not \"a theory how it could be prevented\" but explicitly stepping him and boarding of all access points through secondary and tertiary systems and failsafes.\n\nIf none of that is possible, which happens, it's a risk management thing.\n\nWhat security measures are already in place, where do we see the percentage of these preventing access?\nAre there options which are not boarding of access, but making it harder, and thus lowering the risk of getting there to acceptable scores?\nCan we, temporarily, shut off affected systems and eat those costs instead of risking an attack? Or reduce connectivity so an impact would be smaller?\nDo we need to learn more through specialised help like a pen tester?\nCan we transfer the risk to an insurer?",
+          "2025-11-18T15:16:48.780742"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T15:16:48.780742"
+        ],
+        [
+          1,
+          "2025-11-18T23:14:02.285038"
+        ],
+        [
+          1,
+          "2025-11-19T00:58:03.221589"
+        ],
+        [
+          1,
+          "2025-11-19T02:32:52.408532"
+        ]
+      ],
+      "created_utc": 1763490867.0,
+      "depth": 0,
+      "permalink": "/r/cybersecurity/comments/1p0eje8/whats_your_policy_when_a_critical_cve_appears/npjaz9r/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": 1763493384.0,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npkgaro",
+      "parent_id": "t3_1p0eje8",
+      "author": "Complex_System_25",
+      "text_history": [
+        [
+          "This is an issue purely related to implementation of code making use of this library. The library allows for short encryption key lengths that are relatively easy to crack. So the question for you is where is this library used within your organization and what length were the keys specified where it was used? \n\nHopefully you have the ability to identify all these uses. Are you doing SCA scanning on all code? If so, the identification of where the package is used should be pretty straightforward and the better SCA scanning tools should already be flagging this concern. If you aren't aware of all code, you've got a bigger problem to resolve first. Once you've identified where the library is being used, review the length of keys generated by it and make them longer if necessary.\n\nThere are potential 3rd and 4th party effects as well if developers of other software your company is using have implemented short keys using this library or if developers of products they're using have done the same, but you don't have much control over that. You can contact them about the concerns, but you may not get much traction. In any case, keep an eye out for updates to products you're using and implement them when available.",
+          "2025-11-18T15:16:48.780742"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T15:16:48.780742"
+        ],
+        [
+          1,
+          "2025-11-18T23:14:02.285038"
+        ],
+        [
+          1,
+          "2025-11-19T00:58:03.221589"
+        ],
+        [
+          1,
+          "2025-11-19T02:32:52.408532"
+        ]
+      ],
+      "created_utc": 1763503199.0,
+      "depth": 0,
+      "permalink": "/r/cybersecurity/comments/1p0eje8/whats_your_policy_when_a_critical_cve_appears/npkgaro/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npkrfu2",
+      "parent_id": "t3_1p0eje8",
+      "author": "Dunamivora",
+      "text_history": [
+        [
+          "Layers. Put something in front to prevent it. A WAF or network firewall.",
+          "2025-11-18T15:16:48.780742"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T15:16:48.780742"
+        ],
+        [
+          1,
+          "2025-11-18T23:14:02.285038"
+        ],
+        [
+          1,
+          "2025-11-19T00:58:03.221589"
+        ],
+        [
+          1,
+          "2025-11-19T02:32:52.408532"
+        ]
+      ],
+      "created_utc": 1763506822.0,
+      "depth": 0,
+      "permalink": "/r/cybersecurity/comments/1p0eje8/whats_your_policy_when_a_critical_cve_appears/npkrfu2/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npl1rhw",
+      "parent_id": "t3_1p0eje8",
+      "author": "was_fired",
+      "text_history": [
+        [
+          "As others have said you need to read the CVE and determine the nature and scope of the impact to your organization.  Then focus on a few key elements:\n\n1. Are you actually using the thing which has the CVE in a way the CVE can be exploited?  If you see a critical pip CVE on your server which you only ever execute pip on when you install a new application and do it from a static requirements file then it probably doesn't matter.  If you have a critical CVE in a random Java library that is on a code path you don't think can ever be executed in normal operations your probably safe.  If you find out that it can be then we move onto question 2.\n\n  \n2. If the CVE can be exploited who could exploit it?  Is this internal only?  Does it require that they have root already?  Is this something which is public and internet facing?\n\n  \n3. Do you have any other controls in place that could prevent this from happening?  If you have something which is internet facing does it have auth in front of it to help mitigate it?  Could a WAF rule be used to mitigate the issue?\n\n  \n4. Can the business work without it and how bad would it be if this blows up?  This is what you have to ask last because if it the scope is large enough and you can't grab other controls to mitigate it enough you might have to consider shutting it down.  For some applications like say, your VPN, that can be a major business decision that can have huge impacts... on the flip side the exploits can also be huge if there is no patch so it can be worth it.",
+          "2025-11-18T23:14:02.285038"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T23:14:02.285038"
+        ],
+        [
+          1,
+          "2025-11-19T00:58:03.221589"
+        ],
+        [
+          1,
+          "2025-11-19T02:32:52.408532"
+        ]
+      ],
+      "created_utc": 1763510463.0,
+      "depth": 0,
+      "permalink": "/r/cybersecurity/comments/1p0eje8/whats_your_policy_when_a_critical_cve_appears/npl1rhw/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npl4ezd",
+      "parent_id": "t3_1p0eje8",
+      "author": "Far-Low7610",
+      "text_history": [
+        [
+          "Why are you using a disputed CVE?\n\nI would test the exploit in my sandbox.\n\nIf successful I would call for a risk assessment to determine cost depending on the risk level it'd either remove the impacted software/service/assets, or accept the risk.\n\nif not successful I'd report the results of testing to management. And have them make the decision based on risk. \n\n  \nI wouldn't hire a pentester, by the time they have results a breach could've already occurred. Nor would I create theories as security is a layered approach and understanding where risk falls in the OSI model is extremely important for understanding defense in depth.",
+          "2025-11-18T23:14:02.285038"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T23:14:02.285038"
+        ],
+        [
+          1,
+          "2025-11-19T00:58:03.221589"
+        ],
+        [
+          1,
+          "2025-11-19T02:32:52.408532"
+        ]
+      ],
+      "created_utc": 1763511394.0,
+      "depth": 0,
+      "permalink": "/r/cybersecurity/comments/1p0eje8/whats_your_policy_when_a_critical_cve_appears/npl4ezd/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npl51gw",
+          "parent_id": "t1_npl4ezd",
+          "author": "Tricky-Report-1343",
+          "text_history": [
+            [
+              "IF noone is able to do this \"I would test the exploit in my sandbox.\" how would you achieve that?",
+              "2025-11-18T23:14:02.285038"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T23:14:02.285038"
+            ],
+            [
+              1,
+              "2025-11-19T00:58:03.221589"
+            ],
+            [
+              1,
+              "2025-11-19T02:32:52.408532"
+            ]
+          ],
+          "created_utc": 1763511611.0,
+          "depth": 1,
+          "permalink": "/r/cybersecurity/comments/1p0eje8/whats_your_policy_when_a_critical_cve_appears/npl51gw/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npl5s65",
+              "parent_id": "t1_npl51gw",
+              "author": "Far-Low7610",
+              "text_history": [
+                [
+                  "What do you mean?\n\n  \nIf I'm working for a business, and they don't have a virtual infrastructure. I wouldn't be there to begin with.\n\n  \nWorse case scenario if you don't have virtual infra, grab vbox and follow along the CVE. Just make sure you don't bridge the target VM back to your primary network, ensure it's isolated and routing directly out the gateway.",
+                  "2025-11-18T23:14:02.285038"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-18T23:14:02.285038"
+                ],
+                [
+                  1,
+                  "2025-11-19T00:58:03.221589"
+                ],
+                [
+                  1,
+                  "2025-11-19T02:32:52.408532"
+                ]
+              ],
+              "created_utc": 1763511872.0,
+              "depth": 2,
+              "permalink": "/r/cybersecurity/comments/1p0eje8/whats_your_policy_when_a_critical_cve_appears/npl5s65/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "npibz9j",
+      "parent_id": "t3_1p0eje8",
+      "author": "irishcybercolab",
+      "text_history": [
+        [
+          "I just drink a cup of coffee and laugh a little ... \n\n\n\n\n\n\n\nAs I think of the dudes I was playing cards with the night before who didn't update and take stuff offline or treat residual risk with a treatment plan. Always get sign off.  It's not your risk... Assign it if they don't take it willingly.\n\nYou listening?",
+          "2025-11-18T15:16:48.780742"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T15:16:48.780742"
+        ],
+        [
+          1,
+          "2025-11-18T23:14:02.285038"
+        ],
+        [
+          1,
+          "2025-11-19T00:58:03.221589"
+        ],
+        [
+          1,
+          "2025-11-19T02:32:52.408532"
+        ]
+      ],
+      "created_utc": 1763480660.0,
+      "depth": 0,
+      "permalink": "/r/cybersecurity/comments/1p0eje8/whats_your_policy_when_a_critical_cve_appears/npibz9j/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npiccuz",
+          "parent_id": "t1_npibz9j",
+          "author": "Tricky-Report-1343",
+          "text_history": [
+            [
+              "What if I own that and there's no one else?",
+              "2025-11-18T15:16:48.780742"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T15:16:48.780742"
+            ],
+            [
+              1,
+              "2025-11-18T23:14:02.285038"
+            ],
+            [
+              1,
+              "2025-11-19T00:58:03.221589"
+            ],
+            [
+              1,
+              "2025-11-19T02:32:52.408532"
+            ]
+          ],
+          "created_utc": 1763480773.0,
+          "depth": 1,
+          "permalink": "/r/cybersecurity/comments/1p0eje8/whats_your_policy_when_a_critical_cve_appears/npiccuz/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npiczot",
+              "parent_id": "t1_npiccuz",
+              "author": "irishcybercolab",
+              "text_history": [
+                [
+                  "There are 4 basic methods to treat risk.  You know those?  I break those down into about 30 processes beyond that. \n\nThere are many answers to your issue.  1st is ask Google. \n\nWhat are the 4 methods to treat risk.  Then let's move forward.  I am here .",
+                  "2025-11-18T15:16:48.780742"
+                ]
+              ],
+              "score_history": [
+                [
+                  2,
+                  "2025-11-18T15:16:48.780742"
+                ],
+                [
+                  2,
+                  "2025-11-18T23:14:02.285038"
+                ],
+                [
+                  2,
+                  "2025-11-19T00:58:03.221589"
+                ],
+                [
+                  2,
+                  "2025-11-19T02:32:52.408532"
+                ]
+              ],
+              "created_utc": 1763480961.0,
+              "depth": 2,
+              "permalink": "/r/cybersecurity/comments/1p0eje8/whats_your_policy_when_a_critical_cve_appears/npiczot/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": [
+                {
+                  "id": "npif4uq",
+                  "parent_id": "t1_npiczot",
+                  "author": "Tricky-Report-1343",
+                  "text_history": [
+                    [
+                      "Thanks, let me not take your time. I am not practicing it. Yes curious but have other stuff to do :) . I just wanted to learn what's the level people stress about it in general and compare to what I experienced. \n\nthis was useful to understand it   \n\"I just drink a cup of coffee and laugh a little ...\"",
+                      "2025-11-18T15:16:48.780742"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      2,
+                      "2025-11-18T15:16:48.780742"
+                    ],
+                    [
+                      2,
+                      "2025-11-18T23:14:02.285038"
+                    ],
+                    [
+                      2,
+                      "2025-11-19T00:58:03.221589"
+                    ],
+                    [
+                      2,
+                      "2025-11-19T02:32:52.408532"
+                    ]
+                  ],
+                  "created_utc": 1763481587.0,
+                  "depth": 3,
+                  "permalink": "/r/cybersecurity/comments/1p0eje8/whats_your_policy_when_a_critical_cve_appears/npif4uq/",
+                  "is_submitter": true,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T02:32:52.408532",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/cybersecurity/comments/1p0eje8/whats_your_policy_when_a_critical_cve_appears/",
+    "total_comments": 24,
+    "top_level_comments": 15,
+    "api_requests": 1,
+    "expected_comments": 24,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 4,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_151648.json",
+      "scrape_002_20251118_231359.json",
+      "scrape_003_20251119_005802.json",
+      "scrape_004_20251119_023252.json"
+    ]
+  }
+}

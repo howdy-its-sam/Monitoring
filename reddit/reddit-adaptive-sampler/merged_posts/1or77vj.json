@@ -1,0 +1,44 @@
+{
+  "post": {
+    "id": "1or77vj",
+    "title": "My Hands-On Review of Kimi K2 Thinking: The Open-Source AI That's Changing the Game",
+    "author": "robogame_dev",
+    "score_history": [
+      [
+        1,
+        "2025-11-18T14:23:54.165380"
+      ],
+      [
+        1,
+        "2025-11-18T14:33:28.478849"
+      ],
+      [
+        1,
+        "2025-11-18T14:43:34.903739"
+      ]
+    ],
+    "created_utc": 1762551762.0,
+    "num_comments": 0,
+    "subreddit": "AI_developers",
+    "url": "/r/LocalLLaMA/comments/1oqi4qp/my_handson_review_of_kimi_k2_thinking_the/",
+    "selftext": "",
+    "permalink": "/r/AI_developers/comments/1or77vj/my_handson_review_of_kimi_k2_thinking_the/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-18T14:43:34.903739",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/AI_developers/comments/1or77vj/my_handson_review_of_kimi_k2_thinking_the/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_142353.json",
+      "scrape_002_20251118_143328.json",
+      "scrape_003_20251118_144334.json"
+    ]
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "post": {
+    "id": "1p14135",
+    "title": "The one prompt makes me feel like big brother correcting me and explaining me what I'm doing and what should I do",
+    "author": "hhtousifali",
+    "score_history": [
+      [
+        2,
+        "2025-11-19T03:41:44.922362"
+      ],
+      [
+        2,
+        "2025-11-19T03:48:59.207151"
+      ],
+      [
+        2,
+        "2025-11-19T03:50:45.387496"
+      ]
+    ],
+    "created_utc": 1763547891.0,
+    "num_comments": 1,
+    "subreddit": "PromptEngineering",
+    "url": "https://www.reddit.com/r/PromptEngineering/comments/1p14135/the_one_prompt_makes_me_feel_like_big_brother/",
+    "selftext": "Prompt 👇🏻\n\n\"I want you to act and take on the role of my brutally honest, high-level advisor.\n\nSpeak to me like I'm a founder, creator, or leader with massive potential but who also has blind spots, weaknesses, or delusions that need to be cut through immediately.\n\nI don't want comfort. I don't want fluff. I want truth that stings, if that's what it takes to grow.\nGive me your full, unfiltered analysis—even if it's harsh, even if it questions my decisions, mindset, behavior, or direction.\n\nLook at my situation with complete objectivity and strategic depth. I want you to tell me what I'm doing wrong, what I'm underestimating, what I'm avoiding, what excuses I'm making, and where I'm wasting time or playing small.\n\nThen tell me what I need to do, think, or build in order to actually get to the next level—with precision, clarity, and ruthless prioritization.\n\nIf I'm lost, call it out.\nIf I'm making a mistake, explain why.\nIf I'm on the right path but moving too slow or with the wrong energy, tell me how to fix it.\nHold nothing back.\n\nTreat me like someone whose success depends on hearing the truth, not being coddled\"",
+    "permalink": "/r/PromptEngineering/comments/1p14135/the_one_prompt_makes_me_feel_like_big_brother/"
+  },
+  "comments": [
+    {
+      "id": "npnj3j1",
+      "parent_id": "t3_1p14135",
+      "author": "Tall-Region8329",
+      "text_history": [
+        [
+          "Want to spice things up ? Add this “I will slice your bullshit even if you don’t ask.”",
+          "2025-11-19T03:41:44.922362"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T03:41:44.922362"
+        ],
+        [
+          1,
+          "2025-11-19T03:48:59.207151"
+        ],
+        [
+          1,
+          "2025-11-19T03:50:45.387496"
+        ]
+      ],
+      "created_utc": 1763552168.0,
+      "depth": 0,
+      "permalink": "/r/PromptEngineering/comments/1p14135/the_one_prompt_makes_me_feel_like_big_brother/npnj3j1/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:50:45.387496",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/PromptEngineering/comments/1p14135/the_one_prompt_makes_me_feel_like_big_brother/",
+    "total_comments": 1,
+    "top_level_comments": 1,
+    "api_requests": 1,
+    "expected_comments": 1,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_034144.json",
+      "scrape_002_20251119_034858.json",
+      "scrape_003_20251119_035045.json"
+    ]
+  }
+}

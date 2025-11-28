@@ -1,0 +1,257 @@
+{
+  "post": {
+    "id": "1p0v47q",
+    "title": "More and more incorrect answers and statements.",
+    "author": "naes993",
+    "score_history": [
+      [
+        2,
+        "2025-11-19T03:30:55.069744"
+      ],
+      [
+        2,
+        "2025-11-19T03:37:44.670918"
+      ],
+      [
+        2,
+        "2025-11-19T03:39:15.236113"
+      ]
+    ],
+    "created_utc": 1763518046.0,
+    "num_comments": 6,
+    "subreddit": "ChatGPTPro",
+    "url": "https://www.reddit.com/r/ChatGPTPro/comments/1p0v47q/more_and_more_incorrect_answers_and_statements/",
+    "selftext": "Maybe I'm just noticing this more for some reason, but over the past month or two it's been telling me to \"share the public edit link and I'll do it for you\", while knowing it can't. Just now I was asking for it's suggestion on re-building a site and wether to start from scratch or use staging and it said:\n\n\n\n# SEO\n\n* RankMath Pro (I know you use RankMath heavily)\n\n  \nWhich I don't, and here's a screenshot of the next bit\n\nhttps://preview.redd.it/qlr8a99xf42g1.png?width=978&amp;format=png&amp;auto=webp&amp;s=2198b442369ccc2bf89c8fb819555f1bd94f85c5\n\nThere have been so many other examples of this and I've even started putting prompts telling it to always verify what it's telling me is correct before responding and that does not help.\n\nIt almost takes me longer at this point because I feel the need to verify answers and starting to wonder why I should continue to pay for pro. If anyone has a suggestion to help remedy this it would be greatly appreciated.",
+    "permalink": "/r/ChatGPTPro/comments/1p0v47q/more_and_more_incorrect_answers_and_statements/"
+  },
+  "comments": [
+    {
+      "id": "npln39p",
+      "parent_id": "t3_1p0v47q",
+      "author": "qualityvote2",
+      "text_history": [
+        [
+          "Hello u/naes993 👋 Welcome to r/ChatGPTPro!  \nThis is a community for advanced ChatGPT, AI tools, and prompt engineering discussions.  \nOther members will now vote on whether your post fits our community guidelines.\n\n\n---\n\nFor other users, does this post fit the subreddit?\n\nIf so, **upvote this comment!**\n\nOtherwise, **downvote this comment!**\n\nAnd if it does break the rules, **downvote this comment and report this post!**",
+          "2025-11-19T03:30:55.069744"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T03:30:55.069744"
+        ],
+        [
+          1,
+          "2025-11-19T03:37:44.670918"
+        ],
+        [
+          1,
+          "2025-11-19T03:39:15.236113"
+        ]
+      ],
+      "created_utc": 1763518048.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTPro/comments/1p0v47q/more_and_more_incorrect_answers_and_statements/npln39p/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nplt9q4",
+      "parent_id": "t3_1p0v47q",
+      "author": "Reidinski",
+      "text_history": [
+        [
+          "Turn off the memory feature and tell Chat to tell you when the chat is affecting its performance negatively.",
+          "2025-11-19T03:30:55.069744"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T03:30:55.069744"
+        ],
+        [
+          1,
+          "2025-11-19T03:37:44.670918"
+        ],
+        [
+          1,
+          "2025-11-19T03:39:15.236113"
+        ]
+      ],
+      "created_utc": 1763520266.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTPro/comments/1p0v47q/more_and_more_incorrect_answers_and_statements/nplt9q4/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npluuib",
+          "parent_id": "t1_nplt9q4",
+          "author": "naes993",
+          "text_history": [
+            [
+              "Interesting, this is actually inside a project for a specific client so possibly using the instructions + normal memory could be affecting it? I have not thought about this. I don't see why memory would make something up like that when inside the instructions I actually mention SEOPress as a plugin that is used on this site. \n\nI'll try this and see how it goes and maybe you're correct and it is crossing instructions and memory and confusing it's self. Thanks for the suggestion.",
+              "2025-11-19T03:30:55.069744"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-19T03:30:55.069744"
+            ],
+            [
+              1,
+              "2025-11-19T03:37:44.670918"
+            ],
+            [
+              1,
+              "2025-11-19T03:39:15.236113"
+            ]
+          ],
+          "created_utc": 1763520826.0,
+          "depth": 1,
+          "permalink": "/r/ChatGPTPro/comments/1p0v47q/more_and_more_incorrect_answers_and_statements/npluuib/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "nplyn14",
+              "parent_id": "t1_npluuib",
+              "author": "Reidinski",
+              "text_history": [
+                [
+                  "It works by associations, so the longer the chat, the more associations that pile up and confuse it. This also works across chats when you have memory function on. It doesn't remember everything but it does retain the associations, or at least some of them. I learned this from working on some very long projects and arguing far too much with a machine.  LOL  According to ChatGPT, I have, in fact attained professional level in some aspects.   🤷‍♂️  I thought I was just fooling around. If you are an artist, DM me.",
+                  "2025-11-19T03:30:55.069744"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-19T03:30:55.069744"
+                ],
+                [
+                  1,
+                  "2025-11-19T03:37:44.670918"
+                ],
+                [
+                  1,
+                  "2025-11-19T03:39:15.236113"
+                ]
+              ],
+              "created_utc": 1763522212.0,
+              "depth": 2,
+              "permalink": "/r/ChatGPTPro/comments/1p0v47q/more_and_more_incorrect_answers_and_statements/nplyn14/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "npmfcyr",
+      "parent_id": "t3_1p0v47q",
+      "author": "RenegadeMaster111",
+      "text_history": [
+        [
+          "Yep. Everyone responsible for that August 2025 downgrade should be fired. OpenAI broke ChatGPT.",
+          "2025-11-19T03:30:55.069744"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T03:30:55.069744"
+        ],
+        [
+          1,
+          "2025-11-19T03:37:44.670918"
+        ],
+        [
+          1,
+          "2025-11-19T03:39:15.236113"
+        ]
+      ],
+      "created_utc": 1763529298.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTPro/comments/1p0v47q/more_and_more_incorrect_answers_and_statements/npmfcyr/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npmrsxw",
+      "parent_id": "t3_1p0v47q",
+      "author": "Oldschool728603",
+      "text_history": [
+        [
+          "\"I've even started putting prompts telling it to always verify what it's telling me is correct before responding and that does not help.\"   \n  \nIt ignores such requests, for good reason.\n\nWhat if you told it to verify its verification of its verification of its verification of what it told you?  It saves tokens by avoiding going down that road.",
+          "2025-11-19T03:30:55.069744"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T03:30:55.069744"
+        ],
+        [
+          1,
+          "2025-11-19T03:37:44.670918"
+        ],
+        [
+          1,
+          "2025-11-19T03:39:15.236113"
+        ]
+      ],
+      "created_utc": 1763535822.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTPro/comments/1p0v47q/more_and_more_incorrect_answers_and_statements/npmrsxw/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:39:15.236113",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/ChatGPTPro/comments/1p0v47q/more_and_more_incorrect_answers_and_statements/",
+    "total_comments": 6,
+    "top_level_comments": 4,
+    "api_requests": 1,
+    "expected_comments": 6,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_033054.json",
+      "scrape_002_20251119_033744.json",
+      "scrape_003_20251119_033915.json"
+    ]
+  }
+}

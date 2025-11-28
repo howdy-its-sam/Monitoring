@@ -1,0 +1,44 @@
+{
+  "post": {
+    "id": "1ov4m0y",
+    "title": "Notice v1.3 — built with your feedback! Now live on iOS, Mac &amp; Android",
+    "author": "SliceSuccessful1245",
+    "score_history": [
+      [
+        1,
+        "2025-11-19T02:55:39.794967"
+      ],
+      [
+        1,
+        "2025-11-19T03:05:43.831066"
+      ],
+      [
+        1,
+        "2025-11-19T03:16:14.571295"
+      ]
+    ],
+    "created_utc": 1762952724.0,
+    "num_comments": 0,
+    "subreddit": "AutoGPT",
+    "url": "https://i.redd.it/ym5zk6v5rt0g1.png",
+    "selftext": "**Notice v1.3 is here — built with your feedback!**\n\n\n\n**Hey everyone** 👋\n\nWe’ve just rolled out **Notice v1.3**, and this update is a special one — it’s all about listening to *you*, our amazing community. So many of the new features and tweaks came directly from your feedback and suggestions ❤️\n\n\n\n**Here’s what’s new 👇**\n\n• **AI Streaming** – Notice Chat now feels more natural and responsive than ever. Real-time replies, smoother flow!\n\n• **New AI Animation** – A fresh and fluid loading animation that makes every interaction feel smoother.\n\n• **Mobile Tables** – Create and edit tables right on your phone! Resize, format, and organize easily.\n\n• **Better Management** – Drag notes into folders or use the new “Move” option for quicker organization.\n\n• **Vibration Control** – Reduced vibration feedback and added an option to turn it off completely for a calmer experience.\n\n• **Visual Improvements** – Cleaner look, smoother transitions, and an overall more polished feel.\n\n\n\nAnd of course, we’ve packed in **tons of performance improvements** — Notice is now faster, more stable, and more reliable across all devices.\n\n\n\n✨ **What’s coming next:**\n\n• **Collaboration** – Share notes and folders and work together in real time.\n\n\n\n🧠 **A few extra things:**\n\n• This update is currently available for **iOS, iPadOS, and Android** users.\n\n• There are *many more cool features and small changes* that are just too much for one post — so feel free to dive in and explore!\n\n\n\n**For those who are new, you can check out Notice here:**\n\n[iOS &amp; Mac](https://apps.apple.com/us/app/notice-notes/id6752545070)\n\n[Android](https://play.google.com/store/apps/details?id=com.waykode.noticenotes)\n\n\n\nA massive thank you to everyone using Notice — and an even bigger shoutout to our **Premium subscribers**! 💛 You make updates like this possible and help us keep improving every single day.",
+    "permalink": "/r/AutoGPT/comments/1ov4m0y/notice_v13_built_with_your_feedback_now_live_on/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:16:14.571295",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/AutoGPT/comments/1ov4m0y/notice_v13_built_with_your_feedback_now_live_on/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_025539.json",
+      "scrape_002_20251119_030543.json",
+      "scrape_003_20251119_031614.json"
+    ]
+  }
+}

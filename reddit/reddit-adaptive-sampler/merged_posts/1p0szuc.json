@@ -1,0 +1,80 @@
+{
+  "post": {
+    "id": "1p0szuc",
+    "title": "i found a crazy etsy seo hack using google ai studio and gemini (erank alternative)",
+    "author": "rez405",
+    "score_history": [
+      [
+        1,
+        "2025-11-19T02:55:54.496968"
+      ],
+      [
+        1,
+        "2025-11-19T03:04:57.505405"
+      ],
+      [
+        1,
+        "2025-11-19T03:08:28.046330"
+      ]
+    ],
+    "created_utc": 1763512256.0,
+    "num_comments": 2,
+    "subreddit": "PromptEngineering",
+    "url": "https://www.reddit.com/r/PromptEngineering/comments/1p0szuc/i_found_a_crazy_etsy_seo_hack_using_google_ai/",
+    "selftext": "i accidentally discovered something wild today. if you use google ai studio with the gemini 3 model, you can basically create your own etsy keyword research + seo tool that pulls real data from etsy search results.\n\nthis thing literally gives you:\n• top-performing etsy titles for any keyword  \n• estimated click and search volume based on real snippets  \n• competition insights  \n• title suggestions that actually match what’s ranking  \n• and grounding data that only uses etsy.com sources  \n\nit works shockingly well, and the best part is you don’t need to publish anything. just run it directly inside google ai studio or it won’t scrape.\n\ni’m sharing the exact prompt below so you can build the same setup.\n\n```Act as a Senior Fullstack Engineer and UI/UX Designer. I need you to build a fully functional \"Etsy Keyword Research &amp; SEO Tool\" using React, Tailwind CSS, and the Google GenAI SDK (@google/genai).\n\n### 1. Project Scope &amp; Tech Stack\n- Framework: React (use functional components and hooks).\n- Styling: Tailwind CSS (Clean, professional dashboard aesthetic, Orange/Slate color palette similar to Etsy).\n- Charts: Recharts (AreaChart for trend data).\n- AI Integration: Google Gemini API (model: `gemini-2.5-flash`).\n- Icons: Lucide-react or SVG icons.\n\n### 2. Core Feature: Evidence-Based Keyword Analysis (CRITICAL)\nYou must implement a `geminiService.ts` that uses the Gemini API with the `googleSearch` tool.\n\nStrict Rules for the AI Prompt logic inside the service:\n1. Search Constraint: The AI must ONLY search using `site:etsy.com` to perform a \"Deep Scrape Simulation\".\n2. No Hallucinations: Explicitly instruct the model NOT to guess search volumes. It must derive metrics from evidence in the snippets (e.g., \"If snippet says '1k+ bought', estimate volume = 15x that number\").\n3. Parameters: Set `temperature: 0.1` to force analytical, deterministic outputs.\n4. Grounding Data: Extract `groundingChunks` (URLs). You must write a filter to REMOVE any URL that is NOT from `etsy.com`.\n5. Output Format: The AI must return strict JSON containing:\n    - score (0–100)\n    - searchVolumeLabel\n    - competitionLabel\n    - trendData (array)\n    - relatedKeywords (with CPC, CTR, Volume derived from snippets)\n    - marketLeaders (titles + prices)\n    - generatedTitles (SEO titles)\n\n### 3. UI Components &amp; Architecture\nBuild a clean, responsive single-page app with:\n- Header: “EtsyRanker AI”\n- Search Input: Large central input with loading indicators\n- Metric Cards: Score, Volume, Competition, Trend\n- Title Analysis: AI Recommended Titles vs Top Competitor Titles\n- Trend Chart: AreaChart for seasonality\n- Keyword Table: Long-tail keywords with metrics\n- Data Sources: Sidebar listing Etsy URLs from grounding\n\n### 4. Implementation Details\n- Handle all loading and error states\n- Add JSON parsing fallback logic\n- World-class UI: shadows, rounded corners, proper spacing\n\nStart by setting up the project structure and implementing `geminiService.ts` with strict prompt logic above.  ```",
+    "permalink": "/r/PromptEngineering/comments/1p0szuc/i_found_a_crazy_etsy_seo_hack_using_google_ai/"
+  },
+  "comments": [
+    {
+      "id": "nplrp00",
+      "parent_id": "t3_1p0szuc",
+      "author": "0LoveAnonymous0",
+      "text_history": [
+        [
+          "Damn, that’s genius. You basically turned Gemini into a full Etsy SEO tool without touching their API directly. The grounding snippet logic is key, makes it way more accurate than just guessing. Definitely going to try this setup.",
+          "2025-11-19T02:55:54.496968"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:55:54.496968"
+        ],
+        [
+          1,
+          "2025-11-19T03:04:57.505405"
+        ],
+        [
+          1,
+          "2025-11-19T03:08:28.046330"
+        ]
+      ],
+      "created_utc": 1763519700.0,
+      "depth": 0,
+      "permalink": "/r/PromptEngineering/comments/1p0szuc/i_found_a_crazy_etsy_seo_hack_using_google_ai/nplrp00/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:08:28.046330",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/PromptEngineering/comments/1p0szuc/i_found_a_crazy_etsy_seo_hack_using_google_ai/",
+    "total_comments": 1,
+    "top_level_comments": 1,
+    "api_requests": 1,
+    "expected_comments": 2,
+    "coverage_percent": 50.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_025554.json",
+      "scrape_002_20251119_030457.json",
+      "scrape_003_20251119_030827.json"
+    ]
+  }
+}

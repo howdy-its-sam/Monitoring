@@ -1,0 +1,221 @@
+{
+  "post": {
+    "id": "1p0wy2p",
+    "title": "Can RAG actually handle complex policy Qs (like multi-state leave laws) without hallucinating? Asking for a project.",
+    "author": "ConsiderationOwn4606",
+    "score_history": [
+      [
+        5,
+        "2025-11-19T02:55:51.078878"
+      ],
+      [
+        6,
+        "2025-11-19T03:04:55.519634"
+      ],
+      [
+        6,
+        "2025-11-19T03:08:28.508104"
+      ]
+    ],
+    "created_utc": 1763523239.0,
+    "num_comments": 5,
+    "subreddit": "Rag",
+    "url": "https://www.reddit.com/r/Rag/comments/1p0wy2p/can_rag_actually_handle_complex_policy_qs_like/",
+    "selftext": "Hi everyone—I'm a developer working on private RAG systems for HR documents... I want to know specifically how HR pros deal with the risk of a bot giving a wrong answer on state-specific laws. What's the biggest flaw I need to design around?",
+    "permalink": "/r/Rag/comments/1p0wy2p/can_rag_actually_handle_complex_policy_qs_like/"
+  },
+  "comments": [
+    {
+      "id": "npm296l",
+      "parent_id": "t3_1p0wy2p",
+      "author": "themightychris",
+      "text_history": [
+        [
+          "relevant author: https://daveguarino.substack.com/",
+          "2025-11-19T02:55:51.078878"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-19T02:55:51.078878"
+        ],
+        [
+          2,
+          "2025-11-19T03:04:55.519634"
+        ],
+        [
+          2,
+          "2025-11-19T03:08:28.508104"
+        ]
+      ],
+      "created_utc": 1763523623.0,
+      "depth": 0,
+      "permalink": "/r/Rag/comments/1p0wy2p/can_rag_actually_handle_complex_policy_qs_like/npm296l/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npm9c5k",
+      "parent_id": "t3_1p0wy2p",
+      "author": "coloradical5280",
+      "text_history": [
+        [
+          "100% yes, BUT, you need to use the options kit, so to speak. Multi-query, path bonuses, discriminative and semantic keywords, and ideally a feedback mechanism that trains a cross-encoder model to rerank results. And good visibility on evals, so you can very clearly see the paths and knobs and levers that are helping, and the ones that aren’t. Throwing more fanciness at stuff can absolutely hurt more than help so visually watch it like a hawk (and for in prod HR stuff I would set alerts too, like if a canary pass rate drops to the floor one night after some automated nightly evals). \n\nI cant stand the overdone self promotion on Reddit but I have a thing in beta that packages all that complexity nicely, imo at least, let me know if you want a link it’s all open source and local only.",
+          "2025-11-19T02:55:51.078878"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-19T02:55:51.078878"
+        ],
+        [
+          2,
+          "2025-11-19T03:04:55.519634"
+        ],
+        [
+          2,
+          "2025-11-19T03:08:28.508104"
+        ]
+      ],
+      "created_utc": 1763526563.0,
+      "depth": 0,
+      "permalink": "/r/Rag/comments/1p0wy2p/can_rag_actually_handle_complex_policy_qs_like/npm9c5k/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npmzg28",
+          "parent_id": "t1_npm9c5k",
+          "author": "Past_Physics2936",
+          "text_history": [
+            [
+              "I want to see it",
+              "2025-11-19T02:55:51.078878"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-19T02:55:51.078878"
+            ],
+            [
+              1,
+              "2025-11-19T03:04:55.519634"
+            ],
+            [
+              1,
+              "2025-11-19T03:08:28.508104"
+            ]
+          ],
+          "created_utc": 1763540393.0,
+          "depth": 1,
+          "permalink": "/r/Rag/comments/1p0wy2p/can_rag_actually_handle_complex_policy_qs_like/npmzg28/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        },
+        {
+          "id": "npn5f5h",
+          "parent_id": "t1_npm9c5k",
+          "author": "i4858i",
+          "text_history": [
+            [
+              "Following this comment, waiting for you to drop the link. DM works too, if it is open source.",
+              "2025-11-19T02:55:51.078878"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-19T02:55:51.078878"
+            ],
+            [
+              1,
+              "2025-11-19T03:04:55.519634"
+            ],
+            [
+              1,
+              "2025-11-19T03:08:28.508104"
+            ]
+          ],
+          "created_utc": 1763544170.0,
+          "depth": 1,
+          "permalink": "/r/Rag/comments/1p0wy2p/can_rag_actually_handle_complex_policy_qs_like/npn5f5h/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        },
+        {
+          "id": "npn6w8c",
+          "parent_id": "t1_npm9c5k",
+          "author": "Local-Cartoonist3723",
+          "text_history": [
+            [
+              "Joining the queue, exciting stuff.",
+              "2025-11-19T02:55:51.078878"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-19T02:55:51.078878"
+            ],
+            [
+              1,
+              "2025-11-19T03:04:55.519634"
+            ],
+            [
+              1,
+              "2025-11-19T03:08:28.508104"
+            ]
+          ],
+          "created_utc": 1763545109.0,
+          "depth": 1,
+          "permalink": "/r/Rag/comments/1p0wy2p/can_rag_actually_handle_complex_policy_qs_like/npn6w8c/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:08:28.508104",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/Rag/comments/1p0wy2p/can_rag_actually_handle_complex_policy_qs_like/",
+    "total_comments": 5,
+    "top_level_comments": 2,
+    "api_requests": 1,
+    "expected_comments": 5,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_025550.json",
+      "scrape_002_20251119_030455.json",
+      "scrape_003_20251119_030828.json"
+    ]
+  }
+}

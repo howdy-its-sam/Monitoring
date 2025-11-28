@@ -1,0 +1,69 @@
+{
+  "post": {
+    "id": "1p0evou",
+    "title": "Building a Minimum Viable Product (MVP) For Your AI Startup",
+    "author": "NickyB808",
+    "score_history": [
+      [
+        1,
+        "2025-11-18T12:51:41.284804"
+      ],
+      [
+        1,
+        "2025-11-18T13:03:57.855771"
+      ],
+      [
+        1,
+        "2025-11-18T13:15:48.040218"
+      ],
+      [
+        1,
+        "2025-11-18T13:48:14.786138"
+      ],
+      [
+        1,
+        "2025-11-18T13:59:46.958838"
+      ],
+      [
+        1,
+        "2025-11-18T14:12:28.640241"
+      ],
+      [
+        1,
+        "2025-11-18T22:10:31.310883"
+      ],
+      [
+        1,
+        "2025-11-19T07:12:18.101488"
+      ]
+    ],
+    "created_utc": 1763479717.0,
+    "num_comments": 0,
+    "subreddit": "AgentsOfAI",
+    "url": "https://www.reddit.com/r/AgentsOfAI/comments/1p0evou/building_a_minimum_viable_product_mvp_for_your_ai/",
+    "selftext": "An MVP is a test product that you will put out for your AI business that will act as a starting point to test your idea or system. This is always a necessary part of designing and creating your own AI tool, you will need something to look at and work with if you have real plans of launching your product. Here is a step by step guide on an beginning your process and getting something out into the world.\n\nStep 1: Defining your idea\n\nIf you want to have serious plans of building an AI product and successfully marketing it to your audience, you must start with solving the pain point. This sounds simple but inevitably is always the hardest part of creating a business. What are you going to actually do for people, so that they will then give you money. This can take a lot of thinking, research, knowledge of your customers, and expertise. However there are hundreds of issues we face every day as normal people, the key is finding one specific issue that you know your audience is facing, and taking of the challenge of 'how can I fix this for them'.\n\nStep 2: Essentials planning, and non-essentials dropping\n\nNow that we have a pain point we are fixing, and an idea on how to fix it, we have to start thinking about creating something digital as an outline for our application. Something we can keep building on, testing, and working with over time until it is finally time for us to promote and launch our product. Decide on all of the elements that you would like to include in your design. List out everything about your app that you can think of, this will give you a good place to start deciding what is absolutely essential to have a working product. Start crossing things off that you can leave towards later, aren't sure about, or need help with. This will give you a really good idea of what you will need for you MVP.\n\nStep 3: Actually developing your AI tool.\n\nThis is where the fun, and the work begins in the designing of your product. If you are going into this without any coding experience, you will definitely need to understand the landscape of AI coding and application development. I have other guides on r/aisolobusinesses  on how to use these application and will be coming out with even more guides soon. But the toolkit for developing a 'no-code' app is Bubble, Blazetech, Roocode, and many others. These each take a little bit of knowledge on how to use, but definitely easier than learning how to code from scratch. For the AI, I would recommend using free opensource companies like Tensorflow, Pytorch, and Hugging Face. At this point in the process I wouldn't pay for an expensive model to use. Finally you can use Zapier and Make to connect all the processes together.\n\nThis development process will definitely take a little bit of time depending on if you have any help or not. You will need to learn to use the right tool that is going to be for the product that you are creating, learn how to use these tools, and then you will be all good to go for creating you minimum viable product. Then use this framework to keep building an eventually you will have a full fledged AI product to launch.\n\nIs anyone currently working on this type of thing or would like to create your own AI product? Let me know! We are working on this kind of stuff all the time here at [r/aisolobusinesses](https://www.reddit.com/r/aisolobusinesses/)",
+    "permalink": "/r/AgentsOfAI/comments/1p0evou/building_a_minimum_viable_product_mvp_for_your_ai/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T07:12:18.101488",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/AgentsOfAI/comments/1p0evou/building_a_minimum_viable_product_mvp_for_your_ai/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 8,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_125141.json",
+      "scrape_002_20251118_130357.json",
+      "scrape_003_20251118_131547.json",
+      "scrape_004_20251118_134814.json",
+      "scrape_005_20251118_135946.json",
+      "scrape_006_20251118_141228.json",
+      "scrape_007_20251118_221031.json",
+      "scrape_008_20251119_071217.json"
+    ]
+  }
+}

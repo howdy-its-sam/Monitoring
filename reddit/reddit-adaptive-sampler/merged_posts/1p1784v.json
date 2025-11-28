@@ -1,0 +1,79 @@
+{
+  "post": {
+    "id": "1p1784v",
+    "title": "I built an API to handle document versioning for RAG (so I stop burning embedding credits)",
+    "author": "YummyJuice",
+    "score_history": [
+      [
+        1,
+        "2025-11-19T05:09:03.682844"
+      ],
+      [
+        1,
+        "2025-11-19T05:09:04.137476"
+      ],
+      [
+        1,
+        "2025-11-19T05:09:04.589380"
+      ],
+      [
+        1,
+        "2025-11-19T05:09:05.047226"
+      ],
+      [
+        1,
+        "2025-11-19T05:09:05.529881"
+      ],
+      [
+        1,
+        "2025-11-19T05:09:06.001045"
+      ],
+      [
+        1,
+        "2025-11-19T05:09:06.454482"
+      ],
+      [
+        1,
+        "2025-11-19T05:09:06.936402"
+      ],
+      [
+        1,
+        "2025-11-19T05:09:07.403705"
+      ],
+      [
+        1,
+        "2025-11-19T05:09:07.883844"
+      ]
+    ],
+    "created_utc": 1763557691.0,
+    "num_comments": 0,
+    "subreddit": "LangChain",
+    "url": "https://www.raptordata.dev",
+    "selftext": "",
+    "permalink": "/r/LangChain/comments/1p1784v/i_built_an_api_to_handle_document_versioning_for/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T05:09:07.883844",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/LangChain/comments/1p1784v/i_built_an_api_to_handle_document_versioning_for/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 10,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_050903.json",
+      "scrape_002_20251119_050903.json",
+      "scrape_003_20251119_050904.json",
+      "scrape_004_20251119_050904.json",
+      "scrape_005_20251119_050905.json",
+      "scrape_006_20251119_050905.json",
+      "scrape_007_20251119_050906.json",
+      "scrape_008_20251119_050906.json",
+      "scrape_009_20251119_050907.json",
+      "scrape_010_20251119_050907.json"
+    ]
+  }
+}

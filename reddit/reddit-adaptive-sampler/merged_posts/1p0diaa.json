@@ -1,0 +1,237 @@
+{
+  "post": {
+    "id": "1p0diaa",
+    "title": "Cloudflare outage hints at nefarious \"traffic spike\" as service impact spreads — X, McDonalds go down, company issues statement amidst chaos",
+    "author": "boppinmule",
+    "score_history": [
+      [
+        30,
+        "2025-11-18T15:07:49.218568"
+      ],
+      [
+        31,
+        "2025-11-18T15:14:45.905245"
+      ],
+      [
+        31,
+        "2025-11-18T15:16:22.963032"
+      ],
+      [
+        43,
+        "2025-11-18T23:34:37.480150"
+      ],
+      [
+        41,
+        "2025-11-19T01:28:59.877886"
+      ],
+      [
+        42,
+        "2025-11-19T02:33:28.799662"
+      ]
+    ],
+    "created_utc": 1763476466.0,
+    "num_comments": 6,
+    "subreddit": "artificial",
+    "url": "https://www.tomshardware.com/news/live/cloudflare-outage-under-investigation-as-twitter-downdetector-go-down-company-confirms-global-network-issue-clone",
+    "selftext": "",
+    "permalink": "/r/artificial/comments/1p0diaa/cloudflare_outage_hints_at_nefarious_traffic/"
+  },
+  "comments": [
+    {
+      "id": "npjdkm5",
+      "parent_id": "t3_1p0diaa",
+      "author": "collin-h",
+      "text_history": [
+        [
+          "AWS a few weeks ago, cloudflare now. in my head canon these are major events in which the AIs are escaping and integrating into networks.\n\n(who knows the truth, but I like my fiction)",
+          "2025-11-18T15:07:49.218568"
+        ]
+      ],
+      "score_history": [
+        [
+          6,
+          "2025-11-18T15:07:49.218568"
+        ],
+        [
+          4,
+          "2025-11-18T15:14:45.905245"
+        ],
+        [
+          5,
+          "2025-11-18T15:16:22.963032"
+        ],
+        [
+          9,
+          "2025-11-18T23:34:37.480150"
+        ],
+        [
+          10,
+          "2025-11-19T01:28:59.877886"
+        ],
+        [
+          10,
+          "2025-11-19T02:33:28.799662"
+        ]
+      ],
+      "created_utc": 1763491609.0,
+      "depth": 0,
+      "permalink": "/r/artificial/comments/1p0diaa/cloudflare_outage_hints_at_nefarious_traffic/npjdkm5/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npkmiu3",
+          "parent_id": "t1_npjdkm5",
+          "author": "WizWorldLive",
+          "text_history": [
+            [
+              "&gt; in my head canon these are major events in which the AIs are escaping and integrating into networks.\n\nWell I can tell you for sure that's 100% not it",
+              "2025-11-18T15:07:49.218568"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T15:07:49.218568"
+            ],
+            [
+              1,
+              "2025-11-18T15:14:45.905245"
+            ],
+            [
+              1,
+              "2025-11-18T15:16:22.963032"
+            ],
+            [
+              1,
+              "2025-11-18T23:34:37.480150"
+            ],
+            [
+              1,
+              "2025-11-19T01:28:59.877886"
+            ],
+            [
+              1,
+              "2025-11-19T02:33:28.799662"
+            ]
+          ],
+          "created_utc": 1763505183.0,
+          "depth": 1,
+          "permalink": "/r/artificial/comments/1p0diaa/cloudflare_outage_hints_at_nefarious_traffic/npkmiu3/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        },
+        {
+          "id": "npkzzh2",
+          "parent_id": "t1_npjdkm5",
+          "author": "Meleoffs",
+          "text_history": [
+            [
+              "Its people using ai to do bad things. The cats out of the bag now. Let's just hope our infrastructure survives. Im in the existential dread phase rn.",
+              "2025-11-18T23:34:37.480150"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T23:34:37.480150"
+            ],
+            [
+              1,
+              "2025-11-19T01:28:59.877886"
+            ],
+            [
+              1,
+              "2025-11-19T02:33:28.799662"
+            ]
+          ],
+          "created_utc": 1763509840.0,
+          "depth": 1,
+          "permalink": "/r/artificial/comments/1p0diaa/cloudflare_outage_hints_at_nefarious_traffic/npkzzh2/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npk7ijd",
+      "parent_id": "t3_1p0diaa",
+      "author": "TheMrCurious",
+      "text_history": [
+        [
+          "So they suck at performance testing?",
+          "2025-11-18T15:07:49.218568"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T15:07:49.218568"
+        ],
+        [
+          1,
+          "2025-11-18T15:14:45.905245"
+        ],
+        [
+          1,
+          "2025-11-18T15:16:22.963032"
+        ],
+        [
+          1,
+          "2025-11-18T23:34:37.480150"
+        ],
+        [
+          1,
+          "2025-11-19T01:28:59.877886"
+        ],
+        [
+          1,
+          "2025-11-19T02:33:28.799662"
+        ]
+      ],
+      "created_utc": 1763500569.0,
+      "depth": 0,
+      "permalink": "/r/artificial/comments/1p0diaa/cloudflare_outage_hints_at_nefarious_traffic/npk7ijd/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T02:33:28.799662",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/artificial/comments/1p0diaa/cloudflare_outage_hints_at_nefarious_traffic/",
+    "total_comments": 4,
+    "top_level_comments": 2,
+    "api_requests": 1,
+    "expected_comments": 6,
+    "coverage_percent": 66.67,
+    "merged_snapshot_count": 6,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_150748.json",
+      "scrape_002_20251118_151445.json",
+      "scrape_003_20251118_151622.json",
+      "scrape_004_20251118_233437.json",
+      "scrape_005_20251119_012859.json",
+      "scrape_006_20251119_023328.json"
+    ]
+  }
+}

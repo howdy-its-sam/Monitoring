@@ -1,0 +1,124 @@
+{
+  "post": {
+    "id": "1p17di7",
+    "title": "Tesla receives ride-hailing permit in Arizona in last required step to launch robotaxi service",
+    "author": "TripleShotPls",
+    "score_history": [
+      [
+        1,
+        "2025-11-19T05:15:50.457021"
+      ],
+      [
+        1,
+        "2025-11-19T05:15:50.732040"
+      ],
+      [
+        1,
+        "2025-11-19T05:15:51.111845"
+      ],
+      [
+        1,
+        "2025-11-19T05:15:51.417902"
+      ],
+      [
+        1,
+        "2025-11-19T05:15:51.695701"
+      ],
+      [
+        1,
+        "2025-11-19T05:15:51.974015"
+      ],
+      [
+        1,
+        "2025-11-19T05:15:52.257992"
+      ],
+      [
+        1,
+        "2025-11-19T05:15:52.483500"
+      ],
+      [
+        1,
+        "2025-11-19T05:15:52.781000"
+      ],
+      [
+        1,
+        "2025-11-19T05:15:53.047632"
+      ],
+      [
+        1,
+        "2025-11-19T05:15:53.318899"
+      ],
+      [
+        1,
+        "2025-11-19T05:15:53.566619"
+      ],
+      [
+        1,
+        "2025-11-19T05:15:53.842209"
+      ],
+      [
+        1,
+        "2025-11-19T05:15:54.058609"
+      ],
+      [
+        1,
+        "2025-11-19T05:15:54.364476"
+      ],
+      [
+        1,
+        "2025-11-19T05:15:54.625324"
+      ],
+      [
+        1,
+        "2025-11-19T05:15:54.864056"
+      ],
+      [
+        1,
+        "2025-11-19T05:15:55.136257"
+      ],
+      [
+        1,
+        "2025-11-19T05:15:55.390579"
+      ]
+    ],
+    "created_utc": 1763558087.0,
+    "num_comments": 0,
+    "subreddit": "technology",
+    "url": "https://techcrunch.com/2025/11/18/tesla-receives-ride-hailing-permit-in-arizona-in-last-required-step-to-launch-robotaxi-service/",
+    "selftext": "",
+    "permalink": "/r/technology/comments/1p17di7/tesla_receives_ridehailing_permit_in_arizona_in/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T05:15:55.390579",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/technology/comments/1p17di7/tesla_receives_ridehailing_permit_in_arizona_in/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 19,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_051550.json",
+      "scrape_002_20251119_051550.json",
+      "scrape_003_20251119_051550.json",
+      "scrape_004_20251119_051551.json",
+      "scrape_005_20251119_051551.json",
+      "scrape_006_20251119_051551.json",
+      "scrape_007_20251119_051552.json",
+      "scrape_008_20251119_051552.json",
+      "scrape_009_20251119_051552.json",
+      "scrape_010_20251119_051552.json",
+      "scrape_011_20251119_051553.json",
+      "scrape_012_20251119_051553.json",
+      "scrape_013_20251119_051553.json",
+      "scrape_014_20251119_051553.json",
+      "scrape_015_20251119_051554.json",
+      "scrape_016_20251119_051554.json",
+      "scrape_017_20251119_051554.json",
+      "scrape_018_20251119_051554.json",
+      "scrape_019_20251119_051555.json"
+    ]
+  }
+}

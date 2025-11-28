@@ -1,0 +1,115 @@
+{
+  "post": {
+    "id": "1p0yqqa",
+    "title": "Has anyone cracked consistent lighting across product shoots?",
+    "author": "TerpeneTalker",
+    "score_history": [
+      [
+        1,
+        "2025-11-19T03:28:53.613239"
+      ],
+      [
+        1,
+        "2025-11-19T03:37:41.490270"
+      ],
+      [
+        1,
+        "2025-11-19T03:39:36.899198"
+      ]
+    ],
+    "created_utc": 1763528770.0,
+    "num_comments": 2,
+    "subreddit": "DigitalMarketing",
+    "url": "https://www.reddit.com/r/DigitalMarketing/comments/1p0yqqa/has_anyone_cracked_consistent_lighting_across/",
+    "selftext": "Even slight changes in daylight throw everything off. Do you fix it in post, or shoot everything under strictly controlled lighting?",
+    "permalink": "/r/DigitalMarketing/comments/1p0yqqa/has_anyone_cracked_consistent_lighting_across/"
+  },
+  "comments": [
+    {
+      "id": "npme88i",
+      "parent_id": "t3_1p0yqqa",
+      "author": "AutoModerator",
+      "text_history": [
+        [
+          "[If this post doesn't follow the rules report it to the mods](https://www.reddit.com/r/DigitalMarketing/about/rules/). Have more questions? [Join our community Discord!](https://discord.gg/looking-for-marketing-discussion-811236647760298024)\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/DigitalMarketing) if you have any questions or concerns.*",
+          "2025-11-19T03:28:53.613239"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T03:28:53.613239"
+        ],
+        [
+          1,
+          "2025-11-19T03:37:41.490270"
+        ],
+        [
+          1,
+          "2025-11-19T03:39:36.899198"
+        ]
+      ],
+      "created_utc": 1763528770.0,
+      "depth": 0,
+      "permalink": "/r/DigitalMarketing/comments/1p0yqqa/has_anyone_cracked_consistent_lighting_across/npme88i/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npme89m",
+      "parent_id": "t3_1p0yqqa",
+      "author": "AutoModerator",
+      "text_history": [
+        [
+          "Are you a marketing professional and have 15 minutes to share your insights? [Take our 2025 State of Marketing Survey](https://lookingformarketing.com/survey?utm_source=reddit&amp;utm_medium=social&amp;utm_campaign=survey&amp;utm_content=r_digitalmarketing).\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/DigitalMarketing) if you have any questions or concerns.*",
+          "2025-11-19T03:28:53.613239"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T03:28:53.613239"
+        ],
+        [
+          1,
+          "2025-11-19T03:37:41.490270"
+        ],
+        [
+          1,
+          "2025-11-19T03:39:36.899198"
+        ]
+      ],
+      "created_utc": 1763528771.0,
+      "depth": 0,
+      "permalink": "/r/DigitalMarketing/comments/1p0yqqa/has_anyone_cracked_consistent_lighting_across/npme89m/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:39:36.899198",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/DigitalMarketing/comments/1p0yqqa/has_anyone_cracked_consistent_lighting_across/",
+    "total_comments": 2,
+    "top_level_comments": 2,
+    "api_requests": 1,
+    "expected_comments": 2,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_032853.json",
+      "scrape_002_20251119_033741.json",
+      "scrape_003_20251119_033936.json"
+    ]
+  }
+}

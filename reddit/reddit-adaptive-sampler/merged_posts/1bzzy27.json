@@ -1,0 +1,44 @@
+{
+  "post": {
+    "id": "1bzzy27",
+    "title": "Computational Linguistics B.S. in Saarland",
+    "author": "[deleted]",
+    "score_history": [
+      [
+        20,
+        "2025-11-18T15:16:47.950823"
+      ],
+      [
+        21,
+        "2025-11-18T23:22:56.025648"
+      ],
+      [
+        21,
+        "2025-11-19T01:08:31.537720"
+      ]
+    ],
+    "created_utc": 1712688710.0,
+    "num_comments": 1,
+    "subreddit": "compling",
+    "url": "https://www.reddit.com/r/compling/comments/1bzzy27/computational_linguistics_bs_in_saarland/",
+    "selftext": "Hi, I’m currently thinking on studying computational linguistics in Germany. The option that I like the most is Saarland’s program. \n\n¿Have you studied there?\n¿Could you please describe how you experience was and if you consider that option good too? \n\nI also would like to know what kind of job opportunities are present in Saarland or near the university, in case I want to work or do some internships during my studies.\nI know there are more job options in bigger cities but I just want to know if Saarland still has some options thanks to the Artificial Intelligence Centre or others. \n\nI’m deeply interested in NLP and maybe I’d like to work in that field, also, I’m interested in the bachelor’s degree, not in the master’s degree\n\n",
+    "permalink": "/r/compling/comments/1bzzy27/computational_linguistics_bs_in_saarland/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T01:08:31.537720",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/compling/comments/1bzzy27/computational_linguistics_bs_in_saarland/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 1,
+    "coverage_percent": 0.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_151647.json",
+      "scrape_002_20251118_232255.json",
+      "scrape_003_20251119_010831.json"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "post": {
+    "id": "1p0idn9",
+    "title": "Python ML- How should I proceed?",
+    "author": "AryaBro7",
+    "score_history": [
+      [
+        1,
+        "2025-11-18T15:15:05.256925"
+      ],
+      [
+        1,
+        "2025-11-18T22:42:37.857079"
+      ],
+      [
+        1,
+        "2025-11-19T00:26:28.004087"
+      ]
+    ],
+    "created_utc": 1763487519.0,
+    "num_comments": 0,
+    "subreddit": "MLQuestions",
+    "url": "https://www.reddit.com/r/MLQuestions/comments/1p0idn9/python_ml_how_should_i_proceed/",
+    "selftext": "Hello guys short post but I just mastered basic Python stuff like- Libraries, dictionaries, loops, inheritances etc etc. I can do basic stuff like- Make calculators, math games, simple games 2d, simple chatbots etc etc, you get a idea I hope. I want to proceed with making my own open-sourced AI models and projects, and work for real life companies. Genuinely, pardon me for being new, but how should I proceed? Should I start with NumPy, and Pandas, or is there something else??\n\nAnd what are the resources- are the 1 hour, 2 hour courses on youtube or online sufficient? Or is it just entry-level. I am so lost, please help guys.",
+    "permalink": "/r/MLQuestions/comments/1p0idn9/python_ml_how_should_i_proceed/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T00:26:28.004087",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/MLQuestions/comments/1p0idn9/python_ml_how_should_i_proceed/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_151505.json",
+      "scrape_002_20251118_224237.json",
+      "scrape_003_20251119_002627.json"
+    ]
+  }
+}

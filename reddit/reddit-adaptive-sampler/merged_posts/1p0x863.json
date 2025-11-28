@@ -1,0 +1,788 @@
+{
+  "post": {
+    "id": "1p0x863",
+    "title": "A Simple WhatsApp Security Flaw Exposed 3.5 Billion Phone Numbers | By plugging tens of billions of phone numbers into WhatsApp’s contact discovery tool, researchers found “the most extensive exposure of phone numbers” ever—along with profile photos and more",
+    "author": "Hrmbee",
+    "score_history": [
+      [
+        352,
+        "2025-11-19T03:39:39.525253"
+      ],
+      [
+        363,
+        "2025-11-19T03:48:57.653690"
+      ],
+      [
+        360,
+        "2025-11-19T03:50:44.917319"
+      ]
+    ],
+    "created_utc": 1763524067.0,
+    "num_comments": 21,
+    "subreddit": "technology",
+    "url": "https://www.wired.com/story/a-simple-whatsapp-security-flaw-exposed-billions-phone-numbers/",
+    "selftext": "",
+    "permalink": "/r/technology/comments/1p0x863/a_simple_whatsapp_security_flaw_exposed_35/"
+  },
+  "comments": [
+    {
+      "id": "npm4rli",
+      "parent_id": "t3_1p0x863",
+      "author": "Hrmbee",
+      "text_history": [
+        [
+          "Some pertinent issues:\n\n&gt;Add someone's phone number, and WhatsApp instantly shows whether they're on the service, and often their profile picture and name, too.\n&gt;\n&gt;Repeat that same trick a few billion times with every possible phone number, it turns out, and the same feature can also serve as a convenient way to obtain the cell number of virtually every WhatsApp user on earth—along with, in many cases, profile photos and text that identifies each of those users. The result is a sprawling exposure of personal information for a significant fraction of the world population.\n&gt;\n&gt;One group of Austrian researchers have now shown that they were able to use that simple method of checking every possible number in WhatsApp's contact discovery to extract 3.5 billion users’ phone numbers from the messaging service. For about 57 percent of those users, they also found that they could access their profile photos, and for another 29 percent, the text on their profiles. Despite a previous warning about WhatsApp's exposure of this data from a different researcher in 2017, they say, the service's parent company, Meta, still failed to limit the speed or number of contact discovery requests the researchers could make by interacting with WhatsApp's browser-based app, allowing them to check roughly a hundred million numbers an hour.\n&gt;\n&gt;The result would be “the largest data leak in history, had it not been collated as part of a responsibly conducted research study,” as the researchers describe it in a paper documenting their findings.\n&gt;\n&gt;“To the best of our knowledge, this marks the most extensive exposure of phone numbers and related user data ever documented,” says Aljosha Judmayer, one of the researchers at the University of Vienna who worked on the study.\n&gt;\n&gt;...\n&gt;\n&gt;In a statement to WIRED, Meta thanked the researchers, who reported their discovery through Meta's “bug bounty” system, and described the exposed data as “basic publicly available information,” since profile photos and text weren't exposed for users who opted to make it private. “We had already been working on industry-leading anti-scraping systems, and this study was instrumental in stress-testing and confirming the immediate efficacy of these new defenses,” writes Nitin Gupta, vice president of engineering at WhatsApp. Gupta adds, “We have found no evidence of malicious actors abusing this vector. As a reminder, user messages remained private and secure thanks to WhatsApp’s default end-to-end encryption, and no non-public data was accessible to the researchers.”\n&gt;\n&gt;...\n&gt;\n&gt;One interested audience for the exposed phone number data, the researchers point out, would be scammers and spammers who are seeking a database of potential targets. But the researchers also found millions of phone numbers registered to WhatsApp in countries where it's officially banned, including 2.3 million in China and 1.6 million in Myanmar. Those countries' governments could have used WhatsApp's exposure to collect those numbers and hunt down illegal app users, the researchers point out. Muslims in China, according to some reports, have been detained merely for having WhatsApp installed on their phones.\n&gt;\n&gt;The University of Vienna researchers also analyzed the cryptographic keys for the 3.5 billion accounts they found exposed via their enumeration method, the long strings of characters used to receive encrypted messages in WhatsApp's end-to-end encryption protocol. They found that a surprising number of accounts used duplicate keys—a security issue given that anyone who has the same key as another user would also be able to decrypt messages sent to them.\n&gt;\n&gt;Some keys were reused hundreds of times, they found, and 20 US numbers used a key of all zeroes, strangely. The researchers speculate, though, that the key duplication was likely the result of unauthorized WhatsApp clients, rather than a flaw in WhatsApp itself. On closer examination of some of the accounts with repeated cryptographic keys, they also noted that they looked like scammer accounts, suggesting that some scam operations that exploit WhatsApp may use a client with broken encryption features.\n&gt;\n&gt;...\n&gt;\n&gt;“Phone numbers were not designed to be used as secret identifiers for accounts, but that's how they're used in practice,” says Judmayer. “If you have a big service that's used by more than a third of the world population, and this is the discovery mechanism, that's a problem.”\n\nIn addition to the issues with WhatsApp identified in the article, so many pieces of personal information that were never intended to be secret identifiers have become such in our connected world. It would be useful if governments and other similar systems came up with bona fide secure identifiers that can be used instead, rather than these ad hoc bits that are being used now.",
+          "2025-11-19T03:39:39.525253"
+        ]
+      ],
+      "score_history": [
+        [
+          36,
+          "2025-11-19T03:39:39.525253"
+        ],
+        [
+          35,
+          "2025-11-19T03:48:57.653690"
+        ],
+        [
+          36,
+          "2025-11-19T03:50:44.917319"
+        ]
+      ],
+      "created_utc": 1763524619.0,
+      "depth": 0,
+      "permalink": "/r/technology/comments/1p0x863/a_simple_whatsapp_security_flaw_exposed_35/npm4rli/",
+      "is_submitter": true,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npm8i3b",
+          "parent_id": "t1_npm4rli",
+          "author": "Suitable-Opening3690",
+          "text_history": [
+            [
+              "I knew it. I didn’t get spam calls nearly as much until I was forced to use what’s app for work. What a fucking joke.",
+              "2025-11-19T03:39:39.525253"
+            ]
+          ],
+          "score_history": [
+            [
+              26,
+              "2025-11-19T03:39:39.525253"
+            ],
+            [
+              26,
+              "2025-11-19T03:48:57.653690"
+            ],
+            [
+              25,
+              "2025-11-19T03:50:44.917319"
+            ]
+          ],
+          "created_utc": 1763526196.0,
+          "depth": 1,
+          "permalink": "/r/technology/comments/1p0x863/a_simple_whatsapp_security_flaw_exposed_35/npm8i3b/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        },
+        {
+          "id": "npncs18",
+          "parent_id": "t1_npm4rli",
+          "author": "lgclnoo",
+          "text_history": [
+            [
+              "She forgot to say that Meta thinks privacy by default is stupid!",
+              "2025-11-19T03:39:39.525253"
+            ]
+          ],
+          "score_history": [
+            [
+              2,
+              "2025-11-19T03:39:39.525253"
+            ],
+            [
+              2,
+              "2025-11-19T03:48:57.653690"
+            ],
+            [
+              2,
+              "2025-11-19T03:50:44.917319"
+            ]
+          ],
+          "created_utc": 1763548686.0,
+          "depth": 1,
+          "permalink": "/r/technology/comments/1p0x863/a_simple_whatsapp_security_flaw_exposed_35/npncs18/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npmckdx",
+      "parent_id": "t3_1p0x863",
+      "author": "m0ppi",
+      "text_history": [
+        [
+          "Showing all your data to everyone is a feature of whatsapp that you can change in privacy settings. Dunno if it's really a flaw if it's by design.",
+          "2025-11-19T03:39:39.525253"
+        ]
+      ],
+      "score_history": [
+        [
+          35,
+          "2025-11-19T03:39:39.525253"
+        ],
+        [
+          35,
+          "2025-11-19T03:48:57.653690"
+        ],
+        [
+          36,
+          "2025-11-19T03:50:44.917319"
+        ]
+      ],
+      "created_utc": 1763528002.0,
+      "depth": 0,
+      "permalink": "/r/technology/comments/1p0x863/a_simple_whatsapp_security_flaw_exposed_35/npmckdx/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npmlb64",
+          "parent_id": "t1_npmckdx",
+          "author": "346785za21",
+          "text_history": [
+            [
+              "I thought the flaw here is absence of rate limit which should make checking more than few phone numbers in short span of time practically difficult.",
+              "2025-11-19T03:39:39.525253"
+            ]
+          ],
+          "score_history": [
+            [
+              37,
+              "2025-11-19T03:39:39.525253"
+            ],
+            [
+              37,
+              "2025-11-19T03:48:57.653690"
+            ],
+            [
+              36,
+              "2025-11-19T03:50:44.917319"
+            ]
+          ],
+          "created_utc": 1763532249.0,
+          "depth": 1,
+          "permalink": "/r/technology/comments/1p0x863/a_simple_whatsapp_security_flaw_exposed_35/npmlb64/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npn2r78",
+              "parent_id": "t1_npmlb64",
+              "author": "GonePh1shing",
+              "text_history": [
+                [
+                  "That's exactly the problem, yeah. This article is seriously misrepresenting the study. No phone numbers were 'exposed' here; Each user did that themselves by signing up to the service.\n\n\nWhatsapp is not and was never meant to be an anonymous service. The fact that it's tied to your phone number and that your phone number is discoverable is a feature of the app. If you don't like that, there are other apps and communications protocols that fit your needs better. ",
+                  "2025-11-19T03:39:39.525253"
+                ]
+              ],
+              "score_history": [
+                [
+                  4,
+                  "2025-11-19T03:39:39.525253"
+                ],
+                [
+                  5,
+                  "2025-11-19T03:48:57.653690"
+                ],
+                [
+                  4,
+                  "2025-11-19T03:50:44.917319"
+                ]
+              ],
+              "created_utc": 1763542471.0,
+              "depth": 2,
+              "permalink": "/r/technology/comments/1p0x863/a_simple_whatsapp_security_flaw_exposed_35/npn2r78/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "npn3gt0",
+          "parent_id": "t1_npmckdx",
+          "author": "komma_5",
+          "text_history": [
+            [
+              "I dont think you can hide your phone number though, as in, you can always be found with it. Or like they did, brute forcing every possible number",
+              "2025-11-19T03:39:39.525253"
+            ]
+          ],
+          "score_history": [
+            [
+              3,
+              "2025-11-19T03:39:39.525253"
+            ],
+            [
+              3,
+              "2025-11-19T03:48:57.653690"
+            ],
+            [
+              3,
+              "2025-11-19T03:50:44.917319"
+            ]
+          ],
+          "created_utc": 1763542920.0,
+          "depth": 1,
+          "permalink": "/r/technology/comments/1p0x863/a_simple_whatsapp_security_flaw_exposed_35/npn3gt0/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        },
+        {
+          "id": "npncxri",
+          "parent_id": "t1_npmckdx",
+          "author": "lgclnoo",
+          "text_history": [
+            [
+              "It's definitely a design choice to make the user experience more vivid.",
+              "2025-11-19T03:39:39.525253"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-19T03:39:39.525253"
+            ],
+            [
+              1,
+              "2025-11-19T03:48:57.653690"
+            ],
+            [
+              1,
+              "2025-11-19T03:50:44.917319"
+            ]
+          ],
+          "created_utc": 1763548781.0,
+          "depth": 1,
+          "permalink": "/r/technology/comments/1p0x863/a_simple_whatsapp_security_flaw_exposed_35/npncxri/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        },
+        {
+          "id": "npmiezy",
+          "parent_id": "t1_npmckdx",
+          "author": "jackstringer1298",
+          "text_history": [
+            [
+              "fair point. It’s more of a default setting than a flaw.",
+              "2025-11-19T03:39:39.525253"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-19T03:39:39.525253"
+            ],
+            [
+              1,
+              "2025-11-19T03:48:57.653690"
+            ],
+            [
+              1,
+              "2025-11-19T03:50:44.917319"
+            ]
+          ],
+          "created_utc": 1763530778.0,
+          "depth": 1,
+          "permalink": "/r/technology/comments/1p0x863/a_simple_whatsapp_security_flaw_exposed_35/npmiezy/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npm4zi6",
+      "parent_id": "t3_1p0x863",
+      "author": "aquarain",
+      "text_history": [
+        [
+          "There used to be a giant book that leaked every single phone number, name and address. And the phone company would deliver a copy to every house. They would keep copies of all the books in the libraries. One day they hit on a grand scheme to extort more money from their long suffering victims, and let you pay more money monthly to not be in that book. The \"unlisted number\" was born. \n\nAlso, after they got broken up they would charge you far more to call across an imaginary line in your own town (local long distance) than all the way across the country (long distance).",
+          "2025-11-19T03:39:39.525253"
+        ]
+      ],
+      "score_history": [
+        [
+          32,
+          "2025-11-19T03:39:39.525253"
+        ],
+        [
+          35,
+          "2025-11-19T03:48:57.653690"
+        ],
+        [
+          33,
+          "2025-11-19T03:50:44.917319"
+        ]
+      ],
+      "created_utc": 1763524709.0,
+      "depth": 0,
+      "permalink": "/r/technology/comments/1p0x863/a_simple_whatsapp_security_flaw_exposed_35/npm4zi6/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npm8l2b",
+          "parent_id": "t1_npm4zi6",
+          "author": "meyerpw",
+          "text_history": [
+            [
+              "I completely agree with you...\nThis is the largest phone number leak since...... The phone book.....",
+              "2025-11-19T03:39:39.525253"
+            ]
+          ],
+          "score_history": [
+            [
+              12,
+              "2025-11-19T03:39:39.525253"
+            ],
+            [
+              13,
+              "2025-11-19T03:48:57.653690"
+            ],
+            [
+              12,
+              "2025-11-19T03:50:44.917319"
+            ]
+          ],
+          "created_utc": 1763526230.0,
+          "depth": 1,
+          "permalink": "/r/technology/comments/1p0x863/a_simple_whatsapp_security_flaw_exposed_35/npm8l2b/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        },
+        {
+          "id": "npm9ge1",
+          "parent_id": "t1_npm4zi6",
+          "author": "hmr0987",
+          "text_history": [
+            [
+              "Yea that is a funny thing to point out, however WhatsApp is marketed as a privacy focused form of communication with end to end encryption. It’s always been a lie but it’s how they advertise their product…",
+              "2025-11-19T03:39:39.525253"
+            ]
+          ],
+          "score_history": [
+            [
+              4,
+              "2025-11-19T03:39:39.525253"
+            ],
+            [
+              2,
+              "2025-11-19T03:48:57.653690"
+            ],
+            [
+              4,
+              "2025-11-19T03:50:44.917319"
+            ]
+          ],
+          "created_utc": 1763526614.0,
+          "depth": 1,
+          "permalink": "/r/technology/comments/1p0x863/a_simple_whatsapp_security_flaw_exposed_35/npm9ge1/",
+          "is_submitter": false,
+          "controversiality": 1,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npn3ipl",
+              "parent_id": "t1_npm9ge1",
+              "author": "GonePh1shing",
+              "text_history": [
+                [
+                  "&gt;WhatsApp is marketed as a privacy focused form of communication with end to end encryption. It’s always been a lie but it’s how they advertise their product\n\n\nAnd this 'leak' doesn't change that. Privacy is not the same as anonymity. \n\n\nWhatsapp has always required your phone number, and it has always been discoverable. If you want an anonymous communications app that is also private, there are protocols out there like matrix that serve that purpose.\n\n\nI've got plenty of issues with Whatsapp and how they've gone about implementing the signal protocol, but this certainly isn't one of them. ",
+                  "2025-11-19T03:39:39.525253"
+                ]
+              ],
+              "score_history": [
+                [
+                  2,
+                  "2025-11-19T03:39:39.525253"
+                ],
+                [
+                  2,
+                  "2025-11-19T03:48:57.653690"
+                ],
+                [
+                  2,
+                  "2025-11-19T03:50:44.917319"
+                ]
+              ],
+              "created_utc": 1763542953.0,
+              "depth": 2,
+              "permalink": "/r/technology/comments/1p0x863/a_simple_whatsapp_security_flaw_exposed_35/npn3ipl/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "npmfo5e",
+          "parent_id": "t1_npm4zi6",
+          "author": "The_Doctor_Bear",
+          "text_history": [
+            [
+              "This is why I laugh when Gen Z and even some of my millennial friends like get weird about someone even knowing their address. Like yeah, what is someone realistically going to do because they know where someone lives?",
+              "2025-11-19T03:39:39.525253"
+            ]
+          ],
+          "score_history": [
+            [
+              -10,
+              "2025-11-19T03:39:39.525253"
+            ],
+            [
+              -9,
+              "2025-11-19T03:48:57.653690"
+            ],
+            [
+              -9,
+              "2025-11-19T03:50:44.917319"
+            ]
+          ],
+          "created_utc": 1763529445.0,
+          "depth": 1,
+          "permalink": "/r/technology/comments/1p0x863/a_simple_whatsapp_security_flaw_exposed_35/npmfo5e/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npmh8zl",
+              "parent_id": "t1_npmfo5e",
+              "author": "hoverbone",
+              "text_history": [
+                [
+                  "In the cases of psychotic exes, quite a bit… everything from harassment to kidnapping lost custody kids to murder. Might not apply to your friends, but for some people it’s a huge deal.",
+                  "2025-11-19T03:39:39.525253"
+                ]
+              ],
+              "score_history": [
+                [
+                  9,
+                  "2025-11-19T03:39:39.525253"
+                ],
+                [
+                  9,
+                  "2025-11-19T03:48:57.653690"
+                ],
+                [
+                  8,
+                  "2025-11-19T03:50:44.917319"
+                ]
+              ],
+              "created_utc": 1763530207.0,
+              "depth": 2,
+              "permalink": "/r/technology/comments/1p0x863/a_simple_whatsapp_security_flaw_exposed_35/npmh8zl/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": [
+                {
+                  "id": "npmhi1l",
+                  "parent_id": "t1_npmh8zl",
+                  "author": "The_Doctor_Bear",
+                  "text_history": [
+                    [
+                      "I mean if you’re in like witness protection mode because of a psychotic ex obviously that’s a different situation. That’s hardly everyone’s condition.",
+                      "2025-11-19T03:39:39.525253"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      -5,
+                      "2025-11-19T03:39:39.525253"
+                    ],
+                    [
+                      -5,
+                      "2025-11-19T03:48:57.653690"
+                    ],
+                    [
+                      -4,
+                      "2025-11-19T03:50:44.917319"
+                    ]
+                  ],
+                  "created_utc": 1763530327.0,
+                  "depth": 3,
+                  "permalink": "/r/technology/comments/1p0x863/a_simple_whatsapp_security_flaw_exposed_35/npmhi1l/",
+                  "is_submitter": false,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "npmr16x",
+              "parent_id": "t1_npmfo5e",
+              "author": "ora408",
+              "text_history": [
+                [
+                  "imagine posting your address here for all to see",
+                  "2025-11-19T03:39:39.525253"
+                ]
+              ],
+              "score_history": [
+                [
+                  3,
+                  "2025-11-19T03:39:39.525253"
+                ],
+                [
+                  3,
+                  "2025-11-19T03:48:57.653690"
+                ],
+                [
+                  3,
+                  "2025-11-19T03:50:44.917319"
+                ]
+              ],
+              "created_utc": 1763535384.0,
+              "depth": 2,
+              "permalink": "/r/technology/comments/1p0x863/a_simple_whatsapp_security_flaw_exposed_35/npmr16x/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "npn5ugm",
+      "parent_id": "t3_1p0x863",
+      "author": "v1king3r",
+      "text_history": [
+        [
+          "Is it a data leak or just a way for WhatsApp and Facebook to share user data regardless of the user's privacy settings? ",
+          "2025-11-19T03:39:39.525253"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T03:39:39.525253"
+        ],
+        [
+          1,
+          "2025-11-19T03:48:57.653690"
+        ],
+        [
+          1,
+          "2025-11-19T03:50:44.917319"
+        ]
+      ],
+      "created_utc": 1763544441.0,
+      "depth": 0,
+      "permalink": "/r/technology/comments/1p0x863/a_simple_whatsapp_security_flaw_exposed_35/npn5ugm/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npn9uc2",
+          "parent_id": "t1_npn5ugm",
+          "author": "randomrealname",
+          "text_history": [
+            [
+              "Ad hooks... they are siphoning your data all day everyday.",
+              "2025-11-19T03:39:39.525253"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-19T03:39:39.525253"
+            ],
+            [
+              1,
+              "2025-11-19T03:48:57.653690"
+            ],
+            [
+              1,
+              "2025-11-19T03:50:44.917319"
+            ]
+          ],
+          "created_utc": 1763546917.0,
+          "depth": 1,
+          "permalink": "/r/technology/comments/1p0x863/a_simple_whatsapp_security_flaw_exposed_35/npn9uc2/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npnddfq",
+      "parent_id": "t3_1p0x863",
+      "author": "golslyr",
+      "text_history": [
+        [
+          "I remembered this being an issue with Snapchat years ago",
+          "2025-11-19T03:39:39.525253"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T03:39:39.525253"
+        ],
+        [
+          1,
+          "2025-11-19T03:48:57.653690"
+        ],
+        [
+          1,
+          "2025-11-19T03:50:44.917319"
+        ]
+      ],
+      "created_utc": 1763549032.0,
+      "depth": 0,
+      "permalink": "/r/technology/comments/1p0x863/a_simple_whatsapp_security_flaw_exposed_35/npnddfq/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npmrujy",
+      "parent_id": "t3_1p0x863",
+      "author": "IncorrectAddress",
+      "text_history": [
+        [
+          "It was only a matter of time.",
+          "2025-11-19T03:39:39.525253"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-19T03:39:39.525253"
+        ],
+        [
+          1,
+          "2025-11-19T03:48:57.653690"
+        ],
+        [
+          1,
+          "2025-11-19T03:50:44.917319"
+        ]
+      ],
+      "created_utc": 1763535848.0,
+      "depth": 0,
+      "permalink": "/r/technology/comments/1p0x863/a_simple_whatsapp_security_flaw_exposed_35/npmrujy/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:50:44.917319",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/technology/comments/1p0x863/a_simple_whatsapp_security_flaw_exposed_35/",
+    "total_comments": 21,
+    "top_level_comments": 6,
+    "api_requests": 1,
+    "expected_comments": 21,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_033939.json",
+      "scrape_002_20251119_034857.json",
+      "scrape_003_20251119_035044.json"
+    ]
+  }
+}

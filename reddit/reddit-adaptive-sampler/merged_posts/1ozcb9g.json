@@ -1,0 +1,185 @@
+{
+  "post": {
+    "id": "1ozcb9g",
+    "title": "America’s Chip Restrictions Are Biting in China | Shortages of advanced AI chips are so acute that Beijing is intervening and tech companies are resorting to workarounds",
+    "author": "MetaKnowing",
+    "score_history": [
+      [
+        55,
+        "2025-11-18T14:22:10.774368"
+      ],
+      [
+        51,
+        "2025-11-18T14:32:12.142124"
+      ],
+      [
+        55,
+        "2025-11-18T14:41:18.494640"
+      ]
+    ],
+    "created_utc": 1763373311.0,
+    "num_comments": 5,
+    "subreddit": "technews",
+    "url": "https://www.wsj.com/tech/ai/china-us-ai-chip-restrictions-effect-275a311e",
+    "selftext": "",
+    "permalink": "/r/technews/comments/1ozcb9g/americas_chip_restrictions_are_biting_in_china/"
+  },
+  "comments": [
+    {
+      "id": "npdd6uo",
+      "parent_id": "t3_1ozcb9g",
+      "author": "MikeSifoda",
+      "text_history": [
+        [
+          "All that did was inconvenience and convince them to become completely chip independent in their next 5 year plan. They will just catch up and dominate that market too even faster.\n\nAnd China has consistently been fulfilling all objectives of their economic plans for decades.",
+          "2025-11-18T14:22:10.774368"
+        ]
+      ],
+      "score_history": [
+        [
+          5,
+          "2025-11-18T14:22:10.774368"
+        ],
+        [
+          5,
+          "2025-11-18T14:32:12.142124"
+        ],
+        [
+          5,
+          "2025-11-18T14:41:18.494640"
+        ]
+      ],
+      "created_utc": 1763409123.0,
+      "depth": 0,
+      "permalink": "/r/technews/comments/1ozcb9g/americas_chip_restrictions_are_biting_in_china/npdd6uo/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npdnrzv",
+      "parent_id": "t3_1ozcb9g",
+      "author": "SolarDynasty",
+      "text_history": [
+        [
+          "Throwing out good relations to make ourselves irrelevant. The American Way? 😂",
+          "2025-11-18T14:22:10.774368"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-18T14:22:10.774368"
+        ],
+        [
+          2,
+          "2025-11-18T14:32:12.142124"
+        ],
+        [
+          2,
+          "2025-11-18T14:41:18.494640"
+        ]
+      ],
+      "created_utc": 1763412339.0,
+      "depth": 0,
+      "permalink": "/r/technews/comments/1ozcb9g/americas_chip_restrictions_are_biting_in_china/npdnrzv/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npfs847",
+      "parent_id": "t3_1ozcb9g",
+      "author": "NotAPreppie",
+      "text_history": [
+        [
+          "Gamers Nexus did a long exposé on the nvidia AI chip black market in China. It's an interesting piece and worth the watch:\n\nhttps://youtu.be/1H3xQaf7BFI",
+          "2025-11-18T14:22:10.774368"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-18T14:22:10.774368"
+        ],
+        [
+          2,
+          "2025-11-18T14:32:12.142124"
+        ],
+        [
+          2,
+          "2025-11-18T14:41:18.494640"
+        ]
+      ],
+      "created_utc": 1763438515.0,
+      "depth": 0,
+      "permalink": "/r/technews/comments/1ozcb9g/americas_chip_restrictions_are_biting_in_china/npfs847/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npbgukd",
+      "parent_id": "t3_1ozcb9g",
+      "author": "fellipec",
+      "text_history": [
+        [
+          "Wasn't that the idea?",
+          "2025-11-18T14:22:10.774368"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-18T14:22:10.774368"
+        ],
+        [
+          3,
+          "2025-11-18T14:32:12.142124"
+        ],
+        [
+          4,
+          "2025-11-18T14:41:18.494640"
+        ]
+      ],
+      "created_utc": 1763388532.0,
+      "depth": 0,
+      "permalink": "/r/technews/comments/1ozcb9g/americas_chip_restrictions_are_biting_in_china/npbgukd/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-18T14:41:18.494640",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/technews/comments/1ozcb9g/americas_chip_restrictions_are_biting_in_china/",
+    "total_comments": 4,
+    "top_level_comments": 4,
+    "api_requests": 1,
+    "expected_comments": 5,
+    "coverage_percent": 80.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_142210.json",
+      "scrape_002_20251118_143211.json",
+      "scrape_003_20251118_144118.json"
+    ]
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "post": {
+    "id": "1p0im4s",
+    "title": "From Email Chaos to Smooth Approvals: Sharing Our Workflow Automation Experience",
+    "author": "crowcanyonsoftware",
+    "score_history": [
+      [
+        1,
+        "2025-11-18T12:51:32.142937"
+      ],
+      [
+        1,
+        "2025-11-18T13:03:52.874464"
+      ],
+      [
+        1,
+        "2025-11-18T13:15:49.954762"
+      ],
+      [
+        1,
+        "2025-11-18T13:46:25.796567"
+      ],
+      [
+        1,
+        "2025-11-18T13:49:27.782523"
+      ],
+      [
+        1,
+        "2025-11-18T13:59:18.677266"
+      ],
+      [
+        1,
+        "2025-11-18T14:10:39.560719"
+      ]
+    ],
+    "created_utc": 1763488032.0,
+    "num_comments": 1,
+    "subreddit": "AI_Agents",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1p0im4s/from_email_chaos_to_smooth_approvals_sharing_our/",
+    "selftext": "Is anyone else here getting buried in purchase requests at work? Endless email chains, approvals lost in inboxes, and duplicate entries—it's as if the process was designed to test your patience.\n\nA few months ago, my team switched to a purchasing workflow automation system, and it amazed me when it improved dramatically. Requests go straight into a central system, approvals are automatic, and everything syncs with our financial program. No more searching for emails or asking \"did you approve this yet?\" a lot of times.\n\nI'm curious, how does your team manage purchase approvals? Are you still stuck in the email mess, or have you discovered a better solution?",
+    "permalink": "/r/AI_Agents/comments/1p0im4s/from_email_chaos_to_smooth_approvals_sharing_our/"
+  },
+  "comments": [
+    {
+      "id": "npj13o1",
+      "parent_id": "t3_1p0im4s",
+      "author": "AutoModerator",
+      "text_history": [
+        [
+          "Thank you for your submission, for any questions regarding AI, please check out our wiki at https://www.reddit.com/r/ai_agents/wiki (this is currently in test and we are actively adding to the wiki)\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/AI_Agents) if you have any questions or concerns.*",
+          "2025-11-18T12:51:32.142937"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T12:51:32.142937"
+        ],
+        [
+          1,
+          "2025-11-18T13:03:52.874464"
+        ],
+        [
+          1,
+          "2025-11-18T13:15:49.954762"
+        ],
+        [
+          1,
+          "2025-11-18T13:46:25.796567"
+        ],
+        [
+          1,
+          "2025-11-18T13:49:27.782523"
+        ],
+        [
+          1,
+          "2025-11-18T13:59:18.677266"
+        ],
+        [
+          1,
+          "2025-11-18T14:10:39.560719"
+        ]
+      ],
+      "created_utc": 1763488032.0,
+      "depth": 0,
+      "permalink": "/r/AI_Agents/comments/1p0im4s/from_email_chaos_to_smooth_approvals_sharing_our/npj13o1/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-18T14:10:39.560719",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/AI_Agents/comments/1p0im4s/from_email_chaos_to_smooth_approvals_sharing_our/",
+    "total_comments": 1,
+    "top_level_comments": 1,
+    "api_requests": 1,
+    "expected_comments": 1,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 7,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_125131.json",
+      "scrape_002_20251118_130352.json",
+      "scrape_003_20251118_131549.json",
+      "scrape_004_20251118_134625.json",
+      "scrape_005_20251118_134927.json",
+      "scrape_006_20251118_135918.json",
+      "scrape_007_20251118_141039.json"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "post": {
+    "id": "1j80tat",
+    "title": "New AI Agent, Manus, Emerges to Bridge the Gap Between Conception and Execution",
+    "author": "qptbook",
+    "score_history": [
+      [
+        1,
+        "2025-11-19T02:55:48.441469"
+      ],
+      [
+        1,
+        "2025-11-19T03:06:50.891696"
+      ],
+      [
+        1,
+        "2025-11-19T03:17:34.028739"
+      ]
+    ],
+    "created_utc": 1741619357.0,
+    "num_comments": 2,
+    "subreddit": "ainews",
+    "url": "https://news.qualitypointtech.com/2025/03/10/new-ai-agent-manus-emerges-to-bridge-the-gap-between-conception-and-execution/",
+    "selftext": "",
+    "permalink": "/r/ainews/comments/1j80tat/new_ai_agent_manus_emerges_to_bridge_the_gap/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:17:34.028739",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/ainews/comments/1j80tat/new_ai_agent_manus_emerges_to_bridge_the_gap/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 2,
+    "coverage_percent": 0.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_025548.json",
+      "scrape_002_20251119_030650.json",
+      "scrape_003_20251119_031733.json"
+    ]
+  }
+}

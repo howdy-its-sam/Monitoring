@@ -1,0 +1,783 @@
+{
+  "post": {
+    "id": "1p07p9e",
+    "title": "Cheap vector database",
+    "author": "Parking_Bluebird826",
+    "score_history": [
+      [
+        12,
+        "2025-11-18T14:23:20.394237"
+      ],
+      [
+        13,
+        "2025-11-18T14:33:20.111921"
+      ],
+      [
+        14,
+        "2025-11-18T14:43:10.858376"
+      ]
+    ],
+    "created_utc": 1763458711.0,
+    "num_comments": 24,
+    "subreddit": "Rag",
+    "url": "https://www.reddit.com/r/Rag/comments/1p07p9e/cheap_vector_database/",
+    "selftext": "hello i am new to this and im currently using weaviate cluster at 25 dollars per month.  \nim looking for the best available options for vector database for 1–5k embeds (3k dims) preferably low-cost but scalable. right now i am using it for a few pdfs but maybe i will expand in the future. \n\n  \nif you could please suggest some options or even other ideas , please help",
+    "permalink": "/r/Rag/comments/1p07p9e/cheap_vector_database/"
+  },
+  "comments": [
+    {
+      "id": "npgwbcj",
+      "parent_id": "t3_1p07p9e",
+      "author": "thiagobr90",
+      "text_history": [
+        [
+          "Postgres with pgvector on a VPS?",
+          "2025-11-18T14:23:20.394237"
+        ]
+      ],
+      "score_history": [
+        [
+          9,
+          "2025-11-18T14:23:20.394237"
+        ],
+        [
+          8,
+          "2025-11-18T14:33:20.111921"
+        ],
+        [
+          8,
+          "2025-11-18T14:43:10.858376"
+        ]
+      ],
+      "created_utc": 1763460456.0,
+      "depth": 0,
+      "permalink": "/r/Rag/comments/1p07p9e/cheap_vector_database/npgwbcj/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "nph3qsy",
+          "parent_id": "t1_npgwbcj",
+          "author": "esp_py",
+          "text_history": [
+            [
+              "This is the way to go..",
+              "2025-11-18T14:23:20.394237"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T14:23:20.394237"
+            ],
+            [
+              1,
+              "2025-11-18T14:33:20.111921"
+            ],
+            [
+              1,
+              "2025-11-18T14:43:10.858376"
+            ]
+          ],
+          "created_utc": 1763464803.0,
+          "depth": 1,
+          "permalink": "/r/Rag/comments/1p07p9e/cheap_vector_database/nph3qsy/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npguv7u",
+      "parent_id": "t3_1p07p9e",
+      "author": "Hot_Substance_9432",
+      "text_history": [
+        [
+          "I think this would be okay  [https://milvus.io/](https://milvus.io/)",
+          "2025-11-18T14:23:20.394237"
+        ]
+      ],
+      "score_history": [
+        [
+          3,
+          "2025-11-18T14:23:20.394237"
+        ],
+        [
+          3,
+          "2025-11-18T14:33:20.111921"
+        ],
+        [
+          3,
+          "2025-11-18T14:43:10.858376"
+        ]
+      ],
+      "created_utc": 1763459574.0,
+      "depth": 0,
+      "permalink": "/r/Rag/comments/1p07p9e/cheap_vector_database/npguv7u/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npgucvu",
+      "parent_id": "t3_1p07p9e",
+      "author": "charlyAtWork2",
+      "text_history": [
+        [
+          "do you got a VM and install a open source vector database on it ?",
+          "2025-11-18T14:23:20.394237"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:23:20.394237"
+        ],
+        [
+          1,
+          "2025-11-18T14:33:20.111921"
+        ],
+        [
+          1,
+          "2025-11-18T14:43:10.858376"
+        ]
+      ],
+      "created_utc": 1763459258.0,
+      "depth": 0,
+      "permalink": "/r/Rag/comments/1p07p9e/cheap_vector_database/npgucvu/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npgvjnw",
+          "parent_id": "t1_npgucvu",
+          "author": "Parking_Bluebird826",
+          "text_history": [
+            [
+              "im not very familiar with running my own VM yet. Long-term i might pivot to that but it looks like a hassle and it would take some time , but in the short term I’m looking for a cheaper alternative to weaviate. \n\nwouldnt mind some articles/videos related to self hosting vector databases for learning tho",
+              "2025-11-18T14:23:20.394237"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T14:23:20.394237"
+            ],
+            [
+              1,
+              "2025-11-18T14:33:20.111921"
+            ],
+            [
+              1,
+              "2025-11-18T14:43:10.858376"
+            ]
+          ],
+          "created_utc": 1763459989.0,
+          "depth": 1,
+          "permalink": "/r/Rag/comments/1p07p9e/cheap_vector_database/npgvjnw/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npgzu3d",
+      "parent_id": "t3_1p07p9e",
+      "author": "reddit-newbie-2023",
+      "text_history": [
+        [
+          "You are better off hosting your own milvus for this load on some VPS  or if it's for personal use, just it up with docker on your laptop - it is easy.",
+          "2025-11-18T14:23:20.394237"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:23:20.394237"
+        ],
+        [
+          1,
+          "2025-11-18T14:33:20.111921"
+        ],
+        [
+          1,
+          "2025-11-18T14:43:10.858376"
+        ]
+      ],
+      "created_utc": 1763462583.0,
+      "depth": 0,
+      "permalink": "/r/Rag/comments/1p07p9e/cheap_vector_database/npgzu3d/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nph0q9l",
+      "parent_id": "t3_1p07p9e",
+      "author": "Infamous_Ad5702",
+      "text_history": [
+        [
+          "Do you use vector for a reason or means to an end? Are you doing RAG? \nI find Vector works in lines and finds similar items radiating out…I need to find breadth and depth on a topic for my clients…so I use a tool I built.\n\nIt’s free. No tokens. No hallucinations.\nFirst it builds an index, then a knowledge graph. And for every query I give it, it builds a fresh KG.\n\nHappy to show you how I do it. I’ve got a few people keen, might do a group call rather than 1:1. Cheers.",
+          "2025-11-18T14:23:20.394237"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:23:20.394237"
+        ],
+        [
+          1,
+          "2025-11-18T14:33:20.111921"
+        ],
+        [
+          1,
+          "2025-11-18T14:43:10.858376"
+        ]
+      ],
+      "created_utc": 1763463098.0,
+      "depth": 0,
+      "permalink": "/r/Rag/comments/1p07p9e/cheap_vector_database/nph0q9l/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "nph0v15",
+          "parent_id": "t1_nph0q9l",
+          "author": "Infamous_Ad5702",
+          "text_history": [
+            [
+              "I do about 30MB of txt files, or PDF and that’s the lower range it scales higher, haven’t found its limit yet, I’m sure it’s not insane.",
+              "2025-11-18T14:23:20.394237"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T14:23:20.394237"
+            ],
+            [
+              1,
+              "2025-11-18T14:33:20.111921"
+            ],
+            [
+              1,
+              "2025-11-18T14:43:10.858376"
+            ]
+          ],
+          "created_utc": 1763463175.0,
+          "depth": 1,
+          "permalink": "/r/Rag/comments/1p07p9e/cheap_vector_database/nph0v15/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "nph5ry5",
+      "parent_id": "t3_1p07p9e",
+      "author": "Crashbox3000",
+      "text_history": [
+        [
+          "I use Pinecone free version for my pilots and project explorations. Free tier is limited, but more than capable for a test case like you describe. The next tier up is $50 per month minimum.",
+          "2025-11-18T14:23:20.394237"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:23:20.394237"
+        ],
+        [
+          1,
+          "2025-11-18T14:33:20.111921"
+        ],
+        [
+          1,
+          "2025-11-18T14:43:10.858376"
+        ]
+      ],
+      "created_utc": 1763465875.0,
+      "depth": 0,
+      "permalink": "/r/Rag/comments/1p07p9e/cheap_vector_database/nph5ry5/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nph6wiz",
+      "parent_id": "t3_1p07p9e",
+      "author": "No-Consequence-1779",
+      "text_history": [
+        [
+          "If it’s personal, you can actually code one yourself, complete with an api. It will actually be faster. ",
+          "2025-11-18T14:23:20.394237"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:23:20.394237"
+        ],
+        [
+          1,
+          "2025-11-18T14:33:20.111921"
+        ],
+        [
+          1,
+          "2025-11-18T14:43:10.858376"
+        ]
+      ],
+      "created_utc": 1763466423.0,
+      "depth": 0,
+      "permalink": "/r/Rag/comments/1p07p9e/cheap_vector_database/nph6wiz/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nphl0gy",
+      "parent_id": "t3_1p07p9e",
+      "author": "NotDeffect",
+      "text_history": [
+        [
+          "This is extremely low scale so you don’t need vector DB at all. \nVector databases start making sense when you have more than 5M embeddings, until then it’s much easier and cheaper to use Postgres with pgvector",
+          "2025-11-18T14:23:20.394237"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:23:20.394237"
+        ],
+        [
+          1,
+          "2025-11-18T14:33:20.111921"
+        ],
+        [
+          1,
+          "2025-11-18T14:43:10.858376"
+        ]
+      ],
+      "created_utc": 1763472146.0,
+      "depth": 0,
+      "permalink": "/r/Rag/comments/1p07p9e/cheap_vector_database/nphl0gy/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nphu38m",
+      "parent_id": "t3_1p07p9e",
+      "author": "69_________________",
+      "text_history": [
+        [
+          "Typesense",
+          "2025-11-18T14:23:20.394237"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:23:20.394237"
+        ],
+        [
+          1,
+          "2025-11-18T14:33:20.111921"
+        ],
+        [
+          1,
+          "2025-11-18T14:43:10.858376"
+        ]
+      ],
+      "created_utc": 1763475091.0,
+      "depth": 0,
+      "permalink": "/r/Rag/comments/1p07p9e/cheap_vector_database/nphu38m/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npi7m6k",
+      "parent_id": "t3_1p07p9e",
+      "author": "Shashwat-jain",
+      "text_history": [
+        [
+          "Following this thread.",
+          "2025-11-18T14:23:20.394237"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:23:20.394237"
+        ],
+        [
+          1,
+          "2025-11-18T14:33:20.111921"
+        ],
+        [
+          1,
+          "2025-11-18T14:43:10.858376"
+        ]
+      ],
+      "created_utc": 1763479355.0,
+      "depth": 0,
+      "permalink": "/r/Rag/comments/1p07p9e/cheap_vector_database/npi7m6k/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npigs6x",
+      "parent_id": "t3_1p07p9e",
+      "author": "learnwithparam",
+      "text_history": [
+        [
+          "PgVector is the best option in that case.",
+          "2025-11-18T14:23:20.394237"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:23:20.394237"
+        ],
+        [
+          1,
+          "2025-11-18T14:33:20.111921"
+        ],
+        [
+          1,
+          "2025-11-18T14:43:10.858376"
+        ]
+      ],
+      "created_utc": 1763482068.0,
+      "depth": 0,
+      "permalink": "/r/Rag/comments/1p07p9e/cheap_vector_database/npigs6x/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npimzd7",
+      "parent_id": "t3_1p07p9e",
+      "author": "achton",
+      "text_history": [
+        [
+          "Zilliz has a free tier that may suit you.",
+          "2025-11-18T14:23:20.394237"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:23:20.394237"
+        ],
+        [
+          1,
+          "2025-11-18T14:33:20.111921"
+        ],
+        [
+          1,
+          "2025-11-18T14:43:10.858376"
+        ]
+      ],
+      "created_utc": 1763483874.0,
+      "depth": 0,
+      "permalink": "/r/Rag/comments/1p07p9e/cheap_vector_database/npimzd7/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npj483y",
+      "parent_id": "t3_1p07p9e",
+      "author": "bigahuna",
+      "text_history": [
+        [
+          "There is a ready to use docker compose file for chrome. Use this on a cheap vps and you are good to go and able to scale anytime you want",
+          "2025-11-18T14:23:20.394237"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:23:20.394237"
+        ],
+        [
+          1,
+          "2025-11-18T14:33:20.111921"
+        ],
+        [
+          1,
+          "2025-11-18T14:43:10.858376"
+        ]
+      ],
+      "created_utc": 1763488928.0,
+      "depth": 0,
+      "permalink": "/r/Rag/comments/1p07p9e/cheap_vector_database/npj483y/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npjixpa",
+      "parent_id": "t3_1p07p9e",
+      "author": "Immediate_Habit_2398",
+      "text_history": [
+        [
+          "You can use payloadcms-vectorize (look it up on npm). It lets you use payloadcms + RAG databases. It uses pgvector under the hood.",
+          "2025-11-18T14:23:20.394237"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:23:20.394237"
+        ],
+        [
+          1,
+          "2025-11-18T14:33:20.111921"
+        ],
+        [
+          1,
+          "2025-11-18T14:43:10.858376"
+        ]
+      ],
+      "created_utc": 1763493181.0,
+      "depth": 0,
+      "permalink": "/r/Rag/comments/1p07p9e/cheap_vector_database/npjixpa/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": 1763493458.0,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npjjv2g",
+      "parent_id": "t3_1p07p9e",
+      "author": "Natural-Election1094",
+      "text_history": [
+        [
+          "Try AWS S3 vectors; at its price point, I think you can live with its limitations.https://aws.amazon.com/s3/features/vectors/",
+          "2025-11-18T14:23:20.394237"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:23:20.394237"
+        ],
+        [
+          1,
+          "2025-11-18T14:33:20.111921"
+        ],
+        [
+          1,
+          "2025-11-18T14:43:10.858376"
+        ]
+      ],
+      "created_utc": 1763493457.0,
+      "depth": 0,
+      "permalink": "/r/Rag/comments/1p07p9e/cheap_vector_database/npjjv2g/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npjtzrg",
+      "parent_id": "t3_1p07p9e",
+      "author": "JoshuaJosephson",
+      "text_history": [
+        [
+          "Simple = LanceDB\n\nIf you want to deal with database management, then you can go with PGVector",
+          "2025-11-18T14:23:20.394237"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:23:20.394237"
+        ],
+        [
+          1,
+          "2025-11-18T14:33:20.111921"
+        ],
+        [
+          1,
+          "2025-11-18T14:43:10.858376"
+        ]
+      ],
+      "created_utc": 1763496494.0,
+      "depth": 0,
+      "permalink": "/r/Rag/comments/1p07p9e/cheap_vector_database/npjtzrg/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npjz2kq",
+      "parent_id": "t3_1p07p9e",
+      "author": "roseate134",
+      "text_history": [
+        [
+          "Turbopuffer. They claim to be the cheapest at scale.",
+          "2025-11-18T14:23:20.394237"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:23:20.394237"
+        ],
+        [
+          1,
+          "2025-11-18T14:33:20.111921"
+        ],
+        [
+          1,
+          "2025-11-18T14:43:10.858376"
+        ]
+      ],
+      "created_utc": 1763498049.0,
+      "depth": 0,
+      "permalink": "/r/Rag/comments/1p07p9e/cheap_vector_database/npjz2kq/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npilk3s",
+      "parent_id": "t3_1p07p9e",
+      "author": "jai-js",
+      "text_history": [
+        [
+          "The cheapest option now is file search from Google https://blog.google/technology/developers/file-search-gemini-api/",
+          "2025-11-18T14:23:20.394237"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:23:20.394237"
+        ],
+        [
+          1,
+          "2025-11-18T14:33:20.111921"
+        ],
+        [
+          0,
+          "2025-11-18T14:43:10.858376"
+        ]
+      ],
+      "created_utc": 1763483455.0,
+      "depth": 0,
+      "permalink": "/r/Rag/comments/1p07p9e/cheap_vector_database/npilk3s/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-18T14:43:10.858376",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/Rag/comments/1p07p9e/cheap_vector_database/",
+    "total_comments": 21,
+    "top_level_comments": 18,
+    "api_requests": 1,
+    "expected_comments": 24,
+    "coverage_percent": 87.5,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_142320.json",
+      "scrape_002_20251118_143319.json",
+      "scrape_003_20251118_144310.json"
+    ]
+  }
+}

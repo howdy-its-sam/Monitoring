@@ -1,0 +1,7191 @@
+{
+  "post": {
+    "id": "1p0lnlo",
+    "title": "Make your AI talk like a caveman and decrease token usage",
+    "author": "RegionCareful7282",
+    "score_history": [
+      [
+        97,
+        "2025-11-18T14:22:31.381445"
+      ],
+      [
+        104,
+        "2025-11-18T14:32:49.707122"
+      ],
+      [
+        112,
+        "2025-11-18T14:42:14.990458"
+      ],
+      [
+        113,
+        "2025-11-18T14:43:32.231763"
+      ],
+      [
+        116,
+        "2025-11-18T14:45:17.520546"
+      ],
+      [
+        119,
+        "2025-11-18T14:52:59.308772"
+      ],
+      [
+        121,
+        "2025-11-18T14:53:56.433530"
+      ],
+      [
+        274,
+        "2025-11-18T22:21:50.715283"
+      ],
+      [
+        310,
+        "2025-11-19T00:05:30.303674"
+      ],
+      [
+        343,
+        "2025-11-19T01:50:15.470463"
+      ],
+      [
+        358,
+        "2025-11-19T02:33:44.519147"
+      ],
+      [
+        362,
+        "2025-11-19T02:36:42.573816"
+      ],
+      [
+        358,
+        "2025-11-19T02:44:20.016235"
+      ],
+      [
+        360,
+        "2025-11-19T02:45:51.463337"
+      ]
+    ],
+    "created_utc": 1763494778.0,
+    "num_comments": 116,
+    "subreddit": "LocalLLaMA",
+    "url": "https://i.redd.it/7g67ftgti22g1.png",
+    "selftext": "I’ve been working on a little side project to help LLMs talk like… cavemen.  \nWhy? To save tokens, of course.  \n  \nIt works because LLMs can easily fill in grammar and connectives on their own. So we strip what’s predictable, keep what’s meaningful, and the model still understands everything perfectly.  \n  \nStore RAG documents in caveman-compressed form so each chunk carries more valuable data, fits more context, and gives better retrieval quality.\n\n  \nThought I'd share it here as it might be beneficial in order to not waste tokens on unnecessary words :)\n\nFeel free to contribute if you have any additions!\n\n[https://github.com/wilpel/caveman-compression](https://github.com/wilpel/caveman-compression)  ",
+    "permalink": "/r/LocalLLaMA/comments/1p0lnlo/make_your_ai_talk_like_a_caveman_and_decrease/"
+  },
+  "comments": [
+    {
+      "id": "npjqlez",
+      "parent_id": "t3_1p0lnlo",
+      "author": "Chromix_",
+      "text_history": [
+        [
+          "Me see. Me wonder: Benchmark score impact?",
+          "2025-11-18T14:22:31.381445"
+        ]
+      ],
+      "score_history": [
+        [
+          42,
+          "2025-11-18T14:22:31.381445"
+        ],
+        [
+          46,
+          "2025-11-18T14:32:49.707122"
+        ],
+        [
+          50,
+          "2025-11-18T14:42:14.990458"
+        ],
+        [
+          50,
+          "2025-11-18T14:43:32.231763"
+        ],
+        [
+          51,
+          "2025-11-18T14:45:17.520546"
+        ],
+        [
+          53,
+          "2025-11-18T14:52:59.308772"
+        ],
+        [
+          55,
+          "2025-11-18T14:53:56.433530"
+        ],
+        [
+          132,
+          "2025-11-18T22:21:50.715283"
+        ],
+        [
+          161,
+          "2025-11-19T00:05:30.303674"
+        ],
+        [
+          169,
+          "2025-11-19T01:50:15.470463"
+        ],
+        [
+          179,
+          "2025-11-19T02:33:44.519147"
+        ],
+        [
+          182,
+          "2025-11-19T02:36:42.573816"
+        ],
+        [
+          184,
+          "2025-11-19T02:44:20.016235"
+        ],
+        [
+          181,
+          "2025-11-19T02:45:51.463337"
+        ]
+      ],
+      "created_utc": 1763495475.0,
+      "depth": 0,
+      "permalink": "/r/LocalLLaMA/comments/1p0lnlo/make_your_ai_talk_like_a_caveman_and_decrease/npjqlez/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npjz05m",
+          "parent_id": "t1_npjqlez",
+          "author": "GenLabsAI",
+          "text_history": [
+            [
+              "See, wonder impact",
+              "2025-11-18T14:22:31.381445"
+            ]
+          ],
+          "score_history": [
+            [
+              7,
+              "2025-11-18T14:22:31.381445"
+            ],
+            [
+              8,
+              "2025-11-18T14:32:49.707122"
+            ],
+            [
+              11,
+              "2025-11-18T14:42:14.990458"
+            ],
+            [
+              12,
+              "2025-11-18T14:43:32.231763"
+            ],
+            [
+              12,
+              "2025-11-18T14:45:17.520546"
+            ],
+            [
+              12,
+              "2025-11-18T14:52:59.308772"
+            ],
+            [
+              13,
+              "2025-11-18T14:53:56.433530"
+            ],
+            [
+              32,
+              "2025-11-18T22:21:50.715283"
+            ],
+            [
+              37,
+              "2025-11-19T00:05:30.303674"
+            ],
+            [
+              46,
+              "2025-11-19T01:50:15.470463"
+            ],
+            [
+              47,
+              "2025-11-19T02:33:44.519147"
+            ],
+            [
+              45,
+              "2025-11-19T02:36:42.573816"
+            ],
+            [
+              47,
+              "2025-11-19T02:44:20.016235"
+            ],
+            [
+              47,
+              "2025-11-19T02:45:51.463337"
+            ]
+          ],
+          "created_utc": 1763498028.0,
+          "depth": 1,
+          "permalink": "/r/LocalLLaMA/comments/1p0lnlo/make_your_ai_talk_like_a_caveman_and_decrease/npjz05m/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        },
+        {
+          "id": "npkbj92",
+          "parent_id": "t1_npjqlez",
+          "author": "axiomatix",
+          "text_history": [
+            [
+              "stevie benchmark",
+              "2025-11-18T14:22:31.381445"
+            ]
+          ],
+          "score_history": [
+            [
+              3,
+              "2025-11-18T14:22:31.381445"
+            ],
+            [
+              4,
+              "2025-11-18T14:32:49.707122"
+            ],
+            [
+              4,
+              "2025-11-18T14:42:14.990458"
+            ],
+            [
+              4,
+              "2025-11-18T14:43:32.231763"
+            ],
+            [
+              4,
+              "2025-11-18T14:45:17.520546"
+            ],
+            [
+              4,
+              "2025-11-18T14:52:59.308772"
+            ],
+            [
+              4,
+              "2025-11-18T14:53:56.433530"
+            ],
+            [
+              13,
+              "2025-11-18T22:21:50.715283"
+            ],
+            [
+              16,
+              "2025-11-19T00:05:30.303674"
+            ],
+            [
+              18,
+              "2025-11-19T01:50:15.470463"
+            ],
+            [
+              18,
+              "2025-11-19T02:33:44.519147"
+            ],
+            [
+              19,
+              "2025-11-19T02:36:42.573816"
+            ],
+            [
+              20,
+              "2025-11-19T02:44:20.016235"
+            ],
+            [
+              19,
+              "2025-11-19T02:45:51.463337"
+            ]
+          ],
+          "created_utc": 1763501767.0,
+          "depth": 1,
+          "permalink": "/r/LocalLLaMA/comments/1p0lnlo/make_your_ai_talk_like_a_caveman_and_decrease/npkbj92/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npjosy4",
+      "parent_id": "t3_1p0lnlo",
+      "author": "wiltors42",
+      "text_history": [
+        [
+          "Why say lot word when few word do trick?",
+          "2025-11-18T14:22:31.381445"
+        ]
+      ],
+      "score_history": [
+        [
+          77,
+          "2025-11-18T14:22:31.381445"
+        ],
+        [
+          81,
+          "2025-11-18T14:32:49.707122"
+        ],
+        [
+          86,
+          "2025-11-18T14:42:14.990458"
+        ],
+        [
+          88,
+          "2025-11-18T14:43:32.231763"
+        ],
+        [
+          90,
+          "2025-11-18T14:45:17.520546"
+        ],
+        [
+          92,
+          "2025-11-18T14:52:59.308772"
+        ],
+        [
+          95,
+          "2025-11-18T14:53:56.433530"
+        ],
+        [
+          189,
+          "2025-11-18T22:21:50.715283"
+        ],
+        [
+          208,
+          "2025-11-19T00:05:30.303674"
+        ],
+        [
+          217,
+          "2025-11-19T01:50:15.470463"
+        ],
+        [
+          225,
+          "2025-11-19T02:33:44.519147"
+        ],
+        [
+          228,
+          "2025-11-19T02:36:42.573816"
+        ],
+        [
+          230,
+          "2025-11-19T02:44:20.016235"
+        ],
+        [
+          230,
+          "2025-11-19T02:45:51.463337"
+        ]
+      ],
+      "created_utc": 1763494939.0,
+      "depth": 0,
+      "permalink": "/r/LocalLLaMA/comments/1p0lnlo/make_your_ai_talk_like_a_caveman_and_decrease/npjosy4/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npjrok4",
+          "parent_id": "t1_npjosy4",
+          "author": "Icy-Swordfish7784",
+          "text_history": [
+            [
+              "No much word, few good word.",
+              "2025-11-18T14:22:31.381445"
+            ]
+          ],
+          "score_history": [
+            [
+              18,
+              "2025-11-18T14:22:31.381445"
+            ],
+            [
+              18,
+              "2025-11-18T14:32:49.707122"
+            ],
+            [
+              19,
+              "2025-11-18T14:42:14.990458"
+            ],
+            [
+              21,
+              "2025-11-18T14:43:32.231763"
+            ],
+            [
+              23,
+              "2025-11-18T14:45:17.520546"
+            ],
+            [
+              25,
+              "2025-11-18T14:52:59.308772"
+            ],
+            [
+              24,
+              "2025-11-18T14:53:56.433530"
+            ],
+            [
+              57,
+              "2025-11-18T22:21:50.715283"
+            ],
+            [
+              57,
+              "2025-11-19T00:05:30.303674"
+            ],
+            [
+              61,
+              "2025-11-19T01:50:15.470463"
+            ],
+            [
+              66,
+              "2025-11-19T02:33:44.519147"
+            ],
+            [
+              62,
+              "2025-11-19T02:36:42.573816"
+            ],
+            [
+              66,
+              "2025-11-19T02:44:20.016235"
+            ],
+            [
+              64,
+              "2025-11-19T02:45:51.463337"
+            ]
+          ],
+          "created_utc": 1763495795.0,
+          "depth": 1,
+          "permalink": "/r/LocalLLaMA/comments/1p0lnlo/make_your_ai_talk_like_a_caveman_and_decrease/npjrok4/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npkr9nm",
+              "parent_id": "t1_npjrok4",
+              "author": "gofiend",
+              "text_history": [
+                [
+                  "Fewer precise tokens",
+                  "2025-11-18T22:21:50.715283"
+                ]
+              ],
+              "score_history": [
+                [
+                  6,
+                  "2025-11-18T22:21:50.715283"
+                ],
+                [
+                  7,
+                  "2025-11-19T00:05:30.303674"
+                ],
+                [
+                  7,
+                  "2025-11-19T01:50:15.470463"
+                ],
+                [
+                  8,
+                  "2025-11-19T02:33:44.519147"
+                ],
+                [
+                  6,
+                  "2025-11-19T02:36:42.573816"
+                ],
+                [
+                  7,
+                  "2025-11-19T02:44:20.016235"
+                ],
+                [
+                  7,
+                  "2025-11-19T02:45:51.463337"
+                ]
+              ],
+              "created_utc": 1763506764.0,
+              "depth": 2,
+              "permalink": "/r/LocalLLaMA/comments/1p0lnlo/make_your_ai_talk_like_a_caveman_and_decrease/npkr9nm/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "npjtmjy",
+          "parent_id": "t1_npjosy4",
+          "author": "SamSausages",
+          "text_history": [
+            [
+              "word",
+              "2025-11-18T14:22:31.381445"
+            ]
+          ],
+          "score_history": [
+            [
+              11,
+              "2025-11-18T14:22:31.381445"
+            ],
+            [
+              12,
+              "2025-11-18T14:32:49.707122"
+            ],
+            [
+              14,
+              "2025-11-18T14:42:14.990458"
+            ],
+            [
+              15,
+              "2025-11-18T14:43:32.231763"
+            ],
+            [
+              14,
+              "2025-11-18T14:45:17.520546"
+            ],
+            [
+              16,
+              "2025-11-18T14:52:59.308772"
+            ],
+            [
+              15,
+              "2025-11-18T14:53:56.433530"
+            ],
+            [
+              24,
+              "2025-11-18T22:21:50.715283"
+            ],
+            [
+              25,
+              "2025-11-19T00:05:30.303674"
+            ],
+            [
+              26,
+              "2025-11-19T01:50:15.470463"
+            ],
+            [
+              24,
+              "2025-11-19T02:33:44.519147"
+            ],
+            [
+              25,
+              "2025-11-19T02:36:42.573816"
+            ],
+            [
+              24,
+              "2025-11-19T02:44:20.016235"
+            ],
+            [
+              26,
+              "2025-11-19T02:45:51.463337"
+            ]
+          ],
+          "created_utc": 1763496383.0,
+          "depth": 1,
+          "permalink": "/r/LocalLLaMA/comments/1p0lnlo/make_your_ai_talk_like_a_caveman_and_decrease/npjtmjy/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npkdyhd",
+              "parent_id": "t1_npjtmjy",
+              "author": "therealnih",
+              "text_history": [
+                [
+                  "this",
+                  "2025-11-18T14:22:31.381445"
+                ]
+              ],
+              "score_history": [
+                [
+                  2,
+                  "2025-11-18T14:22:31.381445"
+                ],
+                [
+                  2,
+                  "2025-11-18T14:32:49.707122"
+                ],
+                [
+                  2,
+                  "2025-11-18T14:42:14.990458"
+                ],
+                [
+                  2,
+                  "2025-11-18T14:43:32.231763"
+                ],
+                [
+                  2,
+                  "2025-11-18T14:45:17.520546"
+                ],
+                [
+                  3,
+                  "2025-11-18T14:52:59.308772"
+                ],
+                [
+                  3,
+                  "2025-11-18T14:53:56.433530"
+                ],
+                [
+                  8,
+                  "2025-11-18T22:21:50.715283"
+                ],
+                [
+                  6,
+                  "2025-11-19T00:05:30.303674"
+                ],
+                [
+                  6,
+                  "2025-11-19T01:50:15.470463"
+                ],
+                [
+                  6,
+                  "2025-11-19T02:33:44.519147"
+                ],
+                [
+                  7,
+                  "2025-11-19T02:36:42.573816"
+                ],
+                [
+                  7,
+                  "2025-11-19T02:44:20.016235"
+                ],
+                [
+                  6,
+                  "2025-11-19T02:45:51.463337"
+                ]
+              ],
+              "created_utc": 1763502498.0,
+              "depth": 2,
+              "permalink": "/r/LocalLLaMA/comments/1p0lnlo/make_your_ai_talk_like_a_caveman_and_decrease/npkdyhd/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": [
+                {
+                  "id": "npl4d5q",
+                  "parent_id": "t1_npkdyhd",
+                  "author": "GenLabsAI",
+                  "text_history": [
+                    [
+                      "t",
+                      "2025-11-18T22:21:50.715283"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      5,
+                      "2025-11-18T22:21:50.715283"
+                    ],
+                    [
+                      3,
+                      "2025-11-19T00:05:30.303674"
+                    ],
+                    [
+                      3,
+                      "2025-11-19T01:50:15.470463"
+                    ],
+                    [
+                      3,
+                      "2025-11-19T02:33:44.519147"
+                    ],
+                    [
+                      3,
+                      "2025-11-19T02:36:42.573816"
+                    ],
+                    [
+                      4,
+                      "2025-11-19T02:44:20.016235"
+                    ],
+                    [
+                      3,
+                      "2025-11-19T02:45:51.463337"
+                    ]
+                  ],
+                  "created_utc": 1763511376.0,
+                  "depth": 3,
+                  "permalink": "/r/LocalLLaMA/comments/1p0lnlo/make_your_ai_talk_like_a_caveman_and_decrease/npl4d5q/",
+                  "is_submitter": false,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "npjvmhd",
+          "parent_id": "t1_npjosy4",
+          "author": "RybaDwudyszna",
+          "text_history": [
+            [
+              "When me president… they see.",
+              "2025-11-18T14:22:31.381445"
+            ]
+          ],
+          "score_history": [
+            [
+              8,
+              "2025-11-18T14:22:31.381445"
+            ],
+            [
+              9,
+              "2025-11-18T14:32:49.707122"
+            ],
+            [
+              9,
+              "2025-11-18T14:42:14.990458"
+            ],
+            [
+              9,
+              "2025-11-18T14:43:32.231763"
+            ],
+            [
+              7,
+              "2025-11-18T14:45:17.520546"
+            ],
+            [
+              10,
+              "2025-11-18T14:52:59.308772"
+            ],
+            [
+              10,
+              "2025-11-18T14:53:56.433530"
+            ],
+            [
+              26,
+              "2025-11-18T22:21:50.715283"
+            ],
+            [
+              26,
+              "2025-11-19T00:05:30.303674"
+            ],
+            [
+              25,
+              "2025-11-19T01:50:15.470463"
+            ],
+            [
+              29,
+              "2025-11-19T02:33:44.519147"
+            ],
+            [
+              28,
+              "2025-11-19T02:36:42.573816"
+            ],
+            [
+              29,
+              "2025-11-19T02:44:20.016235"
+            ],
+            [
+              25,
+              "2025-11-19T02:45:51.463337"
+            ]
+          ],
+          "created_utc": 1763496992.0,
+          "depth": 1,
+          "permalink": "/r/LocalLLaMA/comments/1p0lnlo/make_your_ai_talk_like_a_caveman_and_decrease/npjvmhd/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npkokk6",
+              "parent_id": "t1_npjvmhd",
+              "author": "this_is_a_long_nickn",
+              "text_history": [
+                [
+                  "Me Tarzan, you not local Jane.",
+                  "2025-11-18T14:45:17.520546"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-18T14:45:17.520546"
+                ],
+                [
+                  1,
+                  "2025-11-18T14:52:59.308772"
+                ],
+                [
+                  1,
+                  "2025-11-18T14:53:56.433530"
+                ],
+                [
+                  5,
+                  "2025-11-18T22:21:50.715283"
+                ],
+                [
+                  6,
+                  "2025-11-19T00:05:30.303674"
+                ],
+                [
+                  5,
+                  "2025-11-19T01:50:15.470463"
+                ],
+                [
+                  5,
+                  "2025-11-19T02:33:44.519147"
+                ],
+                [
+                  5,
+                  "2025-11-19T02:36:42.573816"
+                ],
+                [
+                  7,
+                  "2025-11-19T02:44:20.016235"
+                ],
+                [
+                  6,
+                  "2025-11-19T02:45:51.463337"
+                ]
+              ],
+              "created_utc": 1763505859.0,
+              "depth": 2,
+              "permalink": "/r/LocalLLaMA/comments/1p0lnlo/make_your_ai_talk_like_a_caveman_and_decrease/npkokk6/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "npjuh94",
+          "parent_id": "t1_npjosy4",
+          "author": "shaman-warrior",
+          "text_history": [
+            [
+              "Few words &gt; many words.",
+              "2025-11-18T14:22:31.381445"
+            ]
+          ],
+          "score_history": [
+            [
+              5,
+              "2025-11-18T14:22:31.381445"
+            ],
+            [
+              4,
+              "2025-11-18T14:32:49.707122"
+            ],
+            [
+              5,
+              "2025-11-18T14:42:14.990458"
+            ],
+            [
+              6,
+              "2025-11-18T14:43:32.231763"
+            ],
+            [
+              5,
+              "2025-11-18T14:45:17.520546"
+            ],
+            [
+              5,
+              "2025-11-18T14:52:59.308772"
+            ],
+            [
+              5,
+              "2025-11-18T14:53:56.433530"
+            ],
+            [
+              7,
+              "2025-11-18T22:21:50.715283"
+            ],
+            [
+              8,
+              "2025-11-19T00:05:30.303674"
+            ],
+            [
+              9,
+              "2025-11-19T01:50:15.470463"
+            ],
+            [
+              12,
+              "2025-11-19T02:33:44.519147"
+            ],
+            [
+              10,
+              "2025-11-19T02:36:42.573816"
+            ],
+            [
+              10,
+              "2025-11-19T02:44:20.016235"
+            ],
+            [
+              12,
+              "2025-11-19T02:45:51.463337"
+            ]
+          ],
+          "created_utc": 1763496644.0,
+          "depth": 1,
+          "permalink": "/r/LocalLLaMA/comments/1p0lnlo/make_your_ai_talk_like_a_caveman_and_decrease/npjuh94/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npk5cvu",
+              "parent_id": "t1_npjuh94",
+              "author": "Good-AI",
+              "text_history": [
+                [
+                  "No difficult word. &gt; difficult.",
+                  "2025-11-18T14:22:31.381445"
+                ]
+              ],
+              "score_history": [
+                [
+                  2,
+                  "2025-11-18T14:22:31.381445"
+                ],
+                [
+                  2,
+                  "2025-11-18T14:32:49.707122"
+                ],
+                [
+                  2,
+                  "2025-11-18T14:42:14.990458"
+                ],
+                [
+                  3,
+                  "2025-11-18T14:43:32.231763"
+                ],
+                [
+                  3,
+                  "2025-11-18T14:45:17.520546"
+                ],
+                [
+                  3,
+                  "2025-11-18T14:52:59.308772"
+                ],
+                [
+                  3,
+                  "2025-11-18T14:53:56.433530"
+                ],
+                [
+                  6,
+                  "2025-11-18T22:21:50.715283"
+                ],
+                [
+                  6,
+                  "2025-11-19T00:05:30.303674"
+                ],
+                [
+                  5,
+                  "2025-11-19T01:50:15.470463"
+                ],
+                [
+                  8,
+                  "2025-11-19T02:33:44.519147"
+                ],
+                [
+                  8,
+                  "2025-11-19T02:36:42.573816"
+                ],
+                [
+                  6,
+                  "2025-11-19T02:44:20.016235"
+                ],
+                [
+                  7,
+                  "2025-11-19T02:45:51.463337"
+                ]
+              ],
+              "created_utc": 1763499931.0,
+              "depth": 2,
+              "permalink": "/r/LocalLLaMA/comments/1p0lnlo/make_your_ai_talk_like_a_caveman_and_decrease/npk5cvu/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": [
+                {
+                  "id": "npko4nt",
+                  "parent_id": "t1_npk5cvu",
+                  "author": "this_is_a_long_nickn",
+                  "text_history": [
+                    [
+                      "You ~~absolutely~~ right!",
+                      "2025-11-18T14:42:14.990458"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      1,
+                      "2025-11-18T14:42:14.990458"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T14:43:32.231763"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T14:45:17.520546"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T14:52:59.308772"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T14:53:56.433530"
+                    ],
+                    [
+                      2,
+                      "2025-11-18T22:21:50.715283"
+                    ],
+                    [
+                      2,
+                      "2025-11-19T00:05:30.303674"
+                    ],
+                    [
+                      2,
+                      "2025-11-19T01:50:15.470463"
+                    ],
+                    [
+                      2,
+                      "2025-11-19T02:33:44.519147"
+                    ],
+                    [
+                      2,
+                      "2025-11-19T02:36:42.573816"
+                    ],
+                    [
+                      2,
+                      "2025-11-19T02:44:20.016235"
+                    ],
+                    [
+                      2,
+                      "2025-11-19T02:45:51.463337"
+                    ]
+                  ],
+                  "created_utc": 1763505713.0,
+                  "depth": 3,
+                  "permalink": "/r/LocalLLaMA/comments/1p0lnlo/make_your_ai_talk_like_a_caveman_and_decrease/npko4nt/",
+                  "is_submitter": false,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": []
+                },
+                {
+                  "id": "npkuauq",
+                  "parent_id": "t1_npk5cvu",
+                  "author": "Murgatroyd314",
+                  "text_history": [
+                    [
+                      "Easy word better.",
+                      "2025-11-18T22:21:50.715283"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      1,
+                      "2025-11-18T22:21:50.715283"
+                    ],
+                    [
+                      2,
+                      "2025-11-19T00:05:30.303674"
+                    ],
+                    [
+                      2,
+                      "2025-11-19T01:50:15.470463"
+                    ],
+                    [
+                      2,
+                      "2025-11-19T02:33:44.519147"
+                    ],
+                    [
+                      2,
+                      "2025-11-19T02:36:42.573816"
+                    ],
+                    [
+                      2,
+                      "2025-11-19T02:44:20.016235"
+                    ],
+                    [
+                      2,
+                      "2025-11-19T02:45:51.463337"
+                    ]
+                  ],
+                  "created_utc": 1763507811.0,
+                  "depth": 3,
+                  "permalink": "/r/LocalLLaMA/comments/1p0lnlo/make_your_ai_talk_like_a_caveman_and_decrease/npkuauq/",
+                  "is_submitter": false,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "npkg79c",
+          "parent_id": "t1_npjosy4",
+          "author": "Pranay1001090",
+          "text_history": [
+            [
+              "Was looking for this",
+              "2025-11-18T14:22:31.381445"
+            ]
+          ],
+          "score_history": [
+            [
+              2,
+              "2025-11-18T14:22:31.381445"
+            ],
+            [
+              2,
+              "2025-11-18T14:32:49.707122"
+            ],
+            [
+              2,
+              "2025-11-18T14:42:14.990458"
+            ],
+            [
+              2,
+              "2025-11-18T14:43:32.231763"
+            ],
+            [
+              2,
+              "2025-11-18T14:45:17.520546"
+            ],
+            [
+              2,
+              "2025-11-18T14:52:59.308772"
+            ],
+            [
+              2,
+              "2025-11-18T14:53:56.433530"
+            ],
+            [
+              3,
+              "2025-11-18T22:21:50.715283"
+            ],
+            [
+              5,
+              "2025-11-19T00:05:30.303674"
+            ],
+            [
+              5,
+              "2025-11-19T01:50:15.470463"
+            ],
+            [
+              4,
+              "2025-11-19T02:33:44.519147"
+            ],
+            [
+              3,
+              "2025-11-19T02:36:42.573816"
+            ],
+            [
+              5,
+              "2025-11-19T02:44:20.016235"
+            ],
+            [
+              4,
+              "2025-11-19T02:45:51.463337"
+            ]
+          ],
+          "created_utc": 1763503169.0,
+          "depth": 1,
+          "permalink": "/r/LocalLLaMA/comments/1p0lnlo/make_your_ai_talk_like_a_caveman_and_decrease/npkg79c/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        },
+        {
+          "id": "npk8c00",
+          "parent_id": "t1_npjosy4",
+          "author": "ook_the_librarian_",
+          "text_history": [
+            [
+              "Why use big words when diminutive ones would suffice?",
+              "2025-11-18T14:22:31.381445"
+            ]
+          ],
+          "score_history": [
+            [
+              2,
+              "2025-11-18T14:22:31.381445"
+            ],
+            [
+              2,
+              "2025-11-18T14:32:49.707122"
+            ],
+            [
+              2,
+              "2025-11-18T14:42:14.990458"
+            ],
+            [
+              2,
+              "2025-11-18T14:43:32.231763"
+            ],
+            [
+              2,
+              "2025-11-18T14:45:17.520546"
+            ],
+            [
+              2,
+              "2025-11-18T14:52:59.308772"
+            ],
+            [
+              2,
+              "2025-11-18T14:53:56.433530"
+            ],
+            [
+              2,
+              "2025-11-18T22:21:50.715283"
+            ],
+            [
+              3,
+              "2025-11-19T00:05:30.303674"
+            ],
+            [
+              3,
+              "2025-11-19T01:50:15.470463"
+            ],
+            [
+              3,
+              "2025-11-19T02:33:44.519147"
+            ],
+            [
+              3,
+              "2025-11-19T02:36:42.573816"
+            ],
+            [
+              3,
+              "2025-11-19T02:44:20.016235"
+            ],
+            [
+              3,
+              "2025-11-19T02:45:51.463337"
+            ]
+          ],
+          "created_utc": 1763500812.0,
+          "depth": 1,
+          "permalink": "/r/LocalLLaMA/comments/1p0lnlo/make_your_ai_talk_like_a_caveman_and_decrease/npk8c00/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        },
+        {
+          "id": "npld792",
+          "parent_id": "t1_npjosy4",
+          "author": "Porespellar",
+          "text_history": [
+            [
+              "Kevin was ahead of his time.",
+              "2025-11-18T22:21:50.715283"
+            ]
+          ],
+          "score_history": [
+            [
+              2,
+              "2025-11-18T22:21:50.715283"
+            ],
+            [
+              3,
+              "2025-11-19T00:05:30.303674"
+            ],
+            [
+              3,
+              "2025-11-19T01:50:15.470463"
+            ],
+            [
+              3,
+              "2025-11-19T02:33:44.519147"
+            ],
+            [
+              3,
+              "2025-11-19T02:36:42.573816"
+            ],
+            [
+              3,
+              "2025-11-19T02:44:20.016235"
+            ],
+            [
+              3,
+              "2025-11-19T02:45:51.463337"
+            ]
+          ],
+          "created_utc": 1763514489.0,
+          "depth": 1,
+          "permalink": "/r/LocalLLaMA/comments/1p0lnlo/make_your_ai_talk_like_a_caveman_and_decrease/npld792/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        },
+        {
+          "id": "nplktd3",
+          "parent_id": "t1_npjosy4",
+          "author": "not_a_swedish_vegan",
+          "text_history": [
+            [
+              "As soon as I saw this post, I already knew the top comment would be this",
+              "2025-11-18T22:21:50.715283"
+            ]
+          ],
+          "score_history": [
+            [
+              2,
+              "2025-11-18T22:21:50.715283"
+            ],
+            [
+              2,
+              "2025-11-19T00:05:30.303674"
+            ],
+            [
+              2,
+              "2025-11-19T01:50:15.470463"
+            ],
+            [
+              2,
+              "2025-11-19T02:33:44.519147"
+            ],
+            [
+              2,
+              "2025-11-19T02:36:42.573816"
+            ],
+            [
+              2,
+              "2025-11-19T02:44:20.016235"
+            ],
+            [
+              2,
+              "2025-11-19T02:45:51.463337"
+            ]
+          ],
+          "created_utc": 1763517242.0,
+          "depth": 1,
+          "permalink": "/r/LocalLLaMA/comments/1p0lnlo/make_your_ai_talk_like_a_caveman_and_decrease/nplktd3/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        },
+        {
+          "id": "npkznmr",
+          "parent_id": "t1_npjosy4",
+          "author": "private_final_static",
+          "text_history": [
+            [
+              "Grug likes",
+              "2025-11-18T22:21:50.715283"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T22:21:50.715283"
+            ],
+            [
+              1,
+              "2025-11-19T00:05:30.303674"
+            ],
+            [
+              1,
+              "2025-11-19T01:50:15.470463"
+            ],
+            [
+              1,
+              "2025-11-19T02:33:44.519147"
+            ],
+            [
+              1,
+              "2025-11-19T02:36:42.573816"
+            ],
+            [
+              1,
+              "2025-11-19T02:44:20.016235"
+            ],
+            [
+              1,
+              "2025-11-19T02:45:51.463337"
+            ]
+          ],
+          "created_utc": 1763509723.0,
+          "depth": 1,
+          "permalink": "/r/LocalLLaMA/comments/1p0lnlo/make_your_ai_talk_like_a_caveman_and_decrease/npkznmr/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        },
+        {
+          "id": "npl2ok6",
+          "parent_id": "t1_npjosy4",
+          "author": "calmbill",
+          "text_history": [
+            [
+              "Few words ok",
+              "2025-11-18T22:21:50.715283"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T22:21:50.715283"
+            ],
+            [
+              1,
+              "2025-11-19T00:05:30.303674"
+            ],
+            [
+              1,
+              "2025-11-19T01:50:15.470463"
+            ],
+            [
+              1,
+              "2025-11-19T02:33:44.519147"
+            ],
+            [
+              1,
+              "2025-11-19T02:36:42.573816"
+            ],
+            [
+              1,
+              "2025-11-19T02:44:20.016235"
+            ],
+            [
+              1,
+              "2025-11-19T02:45:51.463337"
+            ]
+          ],
+          "created_utc": 1763510788.0,
+          "depth": 1,
+          "permalink": "/r/LocalLLaMA/comments/1p0lnlo/make_your_ai_talk_like_a_caveman_and_decrease/npl2ok6/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        },
+        {
+          "id": "nplyoi4",
+          "parent_id": "t1_npjosy4",
+          "author": "Interpause",
+          "text_history": [
+            [
+              "say lot when few work?",
+              "2025-11-18T22:21:50.715283"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T22:21:50.715283"
+            ],
+            [
+              1,
+              "2025-11-19T00:05:30.303674"
+            ],
+            [
+              1,
+              "2025-11-19T01:50:15.470463"
+            ],
+            [
+              1,
+              "2025-11-19T02:33:44.519147"
+            ],
+            [
+              1,
+              "2025-11-19T02:36:42.573816"
+            ],
+            [
+              1,
+              "2025-11-19T02:44:20.016235"
+            ],
+            [
+              1,
+              "2025-11-19T02:45:51.463337"
+            ]
+          ],
+          "created_utc": 1763522227.0,
+          "depth": 1,
+          "permalink": "/r/LocalLLaMA/comments/1p0lnlo/make_your_ai_talk_like_a_caveman_and_decrease/nplyoi4/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npjz0gi",
+      "parent_id": "t3_1p0lnlo",
+      "author": "Mundane_Ad8936",
+      "text_history": [
+        [
+          "TLDR OP stumbled upon \"Stop Words Removal\" it's a very very old NLP tactic.   \n  \nYes can remove plenty of words and the text is completely understandable and you can use a model to rehydrate the phrases with low errors later. However I'd caution you though, while in the past removing stop words was fine, in a transformer model this can cause issues because it will not have the tokens to calculate from.   \n  \nSo it could be more prone to hallucinate because the word sequence is not statistically likely. I know because I've tested it and witnessed it. If accuracy is important make sure it doesn't reduce it, that is very possible.",
+          "2025-11-18T14:22:31.381445"
+        ]
+      ],
+      "score_history": [
+        [
+          3,
+          "2025-11-18T14:22:31.381445"
+        ],
+        [
+          3,
+          "2025-11-18T14:32:49.707122"
+        ],
+        [
+          4,
+          "2025-11-18T14:42:14.990458"
+        ],
+        [
+          5,
+          "2025-11-18T14:43:32.231763"
+        ],
+        [
+          5,
+          "2025-11-18T14:45:17.520546"
+        ],
+        [
+          7,
+          "2025-11-18T14:52:59.308772"
+        ],
+        [
+          8,
+          "2025-11-18T14:53:56.433530"
+        ],
+        [
+          68,
+          "2025-11-18T22:21:50.715283"
+        ],
+        [
+          84,
+          "2025-11-19T00:05:30.303674"
+        ],
+        [
+          99,
+          "2025-11-19T01:50:15.470463"
+        ],
+        [
+          100,
+          "2025-11-19T02:33:44.519147"
+        ],
+        [
+          99,
+          "2025-11-19T02:36:42.573816"
+        ],
+        [
+          102,
+          "2025-11-19T02:44:20.016235"
+        ],
+        [
+          102,
+          "2025-11-19T02:45:51.463337"
+        ]
+      ],
+      "created_utc": 1763498031.0,
+      "depth": 0,
+      "permalink": "/r/LocalLLaMA/comments/1p0lnlo/make_your_ai_talk_like_a_caveman_and_decrease/npjz0gi/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npktgg8",
+          "parent_id": "t1_npjz0gi",
+          "author": "PollinosisQc",
+          "text_history": [
+            [
+              "I chuckled heartily enough to spit some of my drink at \"rehydrate the phrases\" lol",
+              "2025-11-18T22:21:50.715283"
+            ]
+          ],
+          "score_history": [
+            [
+              16,
+              "2025-11-18T22:21:50.715283"
+            ],
+            [
+              18,
+              "2025-11-19T00:05:30.303674"
+            ],
+            [
+              20,
+              "2025-11-19T01:50:15.470463"
+            ],
+            [
+              21,
+              "2025-11-19T02:33:44.519147"
+            ],
+            [
+              20,
+              "2025-11-19T02:36:42.573816"
+            ],
+            [
+              22,
+              "2025-11-19T02:44:20.016235"
+            ],
+            [
+              21,
+              "2025-11-19T02:45:51.463337"
+            ]
+          ],
+          "created_utc": 1763507517.0,
+          "depth": 1,
+          "permalink": "/r/LocalLLaMA/comments/1p0lnlo/make_your_ai_talk_like_a_caveman_and_decrease/npktgg8/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npl1j5x",
+              "parent_id": "t1_npktgg8",
+              "author": "PMyourfeelings",
+              "text_history": [
+                [
+                  "'hydration' is actually both a funny and formal terminology used in programming to describe the process of adding data to an object :)",
+                  "2025-11-18T22:21:50.715283"
+                ]
+              ],
+              "score_history": [
+                [
+                  17,
+                  "2025-11-18T22:21:50.715283"
+                ],
+                [
+                  18,
+                  "2025-11-19T00:05:30.303674"
+                ],
+                [
+                  24,
+                  "2025-11-19T01:50:15.470463"
+                ],
+                [
+                  25,
+                  "2025-11-19T02:33:44.519147"
+                ],
+                [
+                  23,
+                  "2025-11-19T02:36:42.573816"
+                ],
+                [
+                  22,
+                  "2025-11-19T02:44:20.016235"
+                ],
+                [
+                  25,
+                  "2025-11-19T02:45:51.463337"
+                ]
+              ],
+              "created_utc": 1763510381.0,
+              "depth": 2,
+              "permalink": "/r/LocalLLaMA/comments/1p0lnlo/make_your_ai_talk_like_a_caveman_and_decrease/npl1j5x/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": [
+                {
+                  "id": "npmje3f",
+                  "parent_id": "t1_npl1j5x",
+                  "author": "nuclear_wynter",
+                  "text_history": [
+                    [
+                      "r/hydrohomies would like to know your location.\n\n(so they can *add data* to your water bottle.)",
+                      "2025-11-18T22:21:50.715283"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      1,
+                      "2025-11-18T22:21:50.715283"
+                    ],
+                    [
+                      2,
+                      "2025-11-19T00:05:30.303674"
+                    ],
+                    [
+                      3,
+                      "2025-11-19T01:50:15.470463"
+                    ],
+                    [
+                      3,
+                      "2025-11-19T02:33:44.519147"
+                    ],
+                    [
+                      3,
+                      "2025-11-19T02:36:42.573816"
+                    ],
+                    [
+                      3,
+                      "2025-11-19T02:44:20.016235"
+                    ],
+                    [
+                      3,
+                      "2025-11-19T02:45:51.463337"
+                    ]
+                  ],
+                  "created_utc": 1763531262.0,
+                  "depth": 3,
+                  "permalink": "/r/LocalLLaMA/comments/1p0lnlo/make_your_ai_talk_like_a_caveman_and_decrease/npmje3f/",
+                  "is_submitter": false,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "npm5jt0",
+          "parent_id": "t1_npjz0gi",
+          "author": "itsTyrion",
+          "text_history": [
+            [
+              "too many word, write short, write caveman",
+              "2025-11-18T22:21:50.715283"
+            ]
+          ],
+          "score_history": [
+            [
+              3,
+              "2025-11-18T22:21:50.715283"
+            ],
+            [
+              6,
+              "2025-11-19T00:05:30.303674"
+            ],
+            [
+              5,
+              "2025-11-19T01:50:15.470463"
+            ],
+            [
+              5,
+              "2025-11-19T02:33:44.519147"
+            ],
+            [
+              5,
+              "2025-11-19T02:36:42.573816"
+            ],
+            [
+              6,
+              "2025-11-19T02:44:20.016235"
+            ],
+            [
+              6,
+              "2025-11-19T02:45:51.463337"
+            ]
+          ],
+          "created_utc": 1763524944.0,
+          "depth": 1,
+          "permalink": "/r/LocalLLaMA/comments/1p0lnlo/make_your_ai_talk_like_a_caveman_and_decrease/npm5jt0/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npm8jra",
+              "parent_id": "t1_npm5jt0",
+              "author": "KallistiTMP",
+              "text_history": [
+                [
+                  "LLM read caveman, but no train in caveman. LLM not understand caveman good. Try think in caveman, get confused, predict buffalo. No good.",
+                  "2025-11-18T22:21:50.715283"
+                ]
+              ],
+              "score_history": [
+                [
+                  9,
+                  "2025-11-18T22:21:50.715283"
+                ],
+                [
+                  14,
+                  "2025-11-19T00:05:30.303674"
+                ],
+                [
+                  16,
+                  "2025-11-19T01:50:15.470463"
+                ],
+                [
+                  15,
+                  "2025-11-19T02:33:44.519147"
+                ],
+                [
+                  15,
+                  "2025-11-19T02:36:42.573816"
+                ],
+                [
+                  16,
+                  "2025-11-19T02:44:20.016235"
+                ],
+                [
+                  16,
+                  "2025-11-19T02:45:51.463337"
+                ]
+              ],
+              "created_utc": 1763526215.0,
+              "depth": 2,
+              "permalink": "/r/LocalLLaMA/comments/1p0lnlo/make_your_ai_talk_like_a_caveman_and_decrease/npm8jra/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "npmf0z8",
+          "parent_id": "t1_npjz0gi",
+          "author": "TomLucidor",
+          "text_history": [
+            [
+              "What is the alternative then, trying to prompt it to me more succinct, and in plain English?",
+              "2025-11-18T22:21:50.715283"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T22:21:50.715283"
+            ],
+            [
+              1,
+              "2025-11-19T00:05:30.303674"
+            ],
+            [
+              1,
+              "2025-11-19T01:50:15.470463"
+            ],
+            [
+              1,
+              "2025-11-19T02:33:44.519147"
+            ],
+            [
+              1,
+              "2025-11-19T02:36:42.573816"
+            ],
+            [
+              2,
+              "2025-11-19T02:44:20.016235"
+            ],
+            [
+              2,
+              "2025-11-19T02:45:51.463337"
+            ]
+          ],
+          "created_utc": 1763529142.0,
+          "depth": 1,
+          "permalink": "/r/LocalLLaMA/comments/1p0lnlo/make_your_ai_talk_like_a_caveman_and_decrease/npmf0z8/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        },
+        {
+          "id": "npmxhy6",
+          "parent_id": "t1_npjz0gi",
+          "author": "wanderer_4004",
+          "text_history": [
+            [
+              "Probably this is useful for embeddings to make them fit into the available context. I'll definitely try it.",
+              "2025-11-19T00:05:30.303674"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-19T00:05:30.303674"
+            ],
+            [
+              1,
+              "2025-11-19T01:50:15.470463"
+            ],
+            [
+              1,
+              "2025-11-19T02:33:44.519147"
+            ],
+            [
+              1,
+              "2025-11-19T02:36:42.573816"
+            ],
+            [
+              2,
+              "2025-11-19T02:44:20.016235"
+            ],
+            [
+              2,
+              "2025-11-19T02:45:51.463337"
+            ]
+          ],
+          "created_utc": 1763539202.0,
+          "depth": 1,
+          "permalink": "/r/LocalLLaMA/comments/1p0lnlo/make_your_ai_talk_like_a_caveman_and_decrease/npmxhy6/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npjveo0",
+      "parent_id": "t3_1p0lnlo",
+      "author": "Independent_Tear2863",
+      "text_history": [
+        [
+          "Ahh now I understand oogabooga project. Human happy",
+          "2025-11-18T14:22:31.381445"
+        ]
+      ],
+      "score_history": [
+        [
+          14,
+          "2025-11-18T14:22:31.381445"
+        ],
+        [
+          14,
+          "2025-11-18T14:32:49.707122"
+        ],
+        [
+          15,
+          "2025-11-18T14:42:14.990458"
+        ],
+        [
+          18,
+          "2025-11-18T14:43:32.231763"
+        ],
+        [
+          18,
+          "2025-11-18T14:45:17.520546"
+        ],
+        [
+          19,
+          "2025-11-18T14:52:59.308772"
+        ],
+        [
+          19,
+          "2025-11-18T14:53:56.433530"
+        ],
+        [
+          52,
+          "2025-11-18T22:21:50.715283"
+        ],
+        [
+          57,
+          "2025-11-19T00:05:30.303674"
+        ],
+        [
+          60,
+          "2025-11-19T01:50:15.470463"
+        ],
+        [
+          61,
+          "2025-11-19T02:33:44.519147"
+        ],
+        [
+          63,
+          "2025-11-19T02:36:42.573816"
+        ],
+        [
+          62,
+          "2025-11-19T02:44:20.016235"
+        ],
+        [
+          64,
+          "2025-11-19T02:45:51.463337"
+        ]
+      ],
+      "created_utc": 1763496925.0,
+      "depth": 0,
+      "permalink": "/r/LocalLLaMA/comments/1p0lnlo/make_your_ai_talk_like_a_caveman_and_decrease/npjveo0/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npkoa2d",
+          "parent_id": "t1_npjveo0",
+          "author": "this_is_a_long_nickn",
+          "text_history": [
+            [
+              "Ooga happier",
+              "2025-11-18T14:43:32.231763"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T14:43:32.231763"
+            ],
+            [
+              1,
+              "2025-11-18T14:45:17.520546"
+            ],
+            [
+              1,
+              "2025-11-18T14:52:59.308772"
+            ],
+            [
+              1,
+              "2025-11-18T14:53:56.433530"
+            ],
+            [
+              7,
+              "2025-11-18T22:21:50.715283"
+            ],
+            [
+              7,
+              "2025-11-19T00:05:30.303674"
+            ],
+            [
+              7,
+              "2025-11-19T01:50:15.470463"
+            ],
+            [
+              6,
+              "2025-11-19T02:33:44.519147"
+            ],
+            [
+              9,
+              "2025-11-19T02:36:42.573816"
+            ],
+            [
+              9,
+              "2025-11-19T02:44:20.016235"
+            ],
+            [
+              7,
+              "2025-11-19T02:45:51.463337"
+            ]
+          ],
+          "created_utc": 1763505763.0,
+          "depth": 1,
+          "permalink": "/r/LocalLLaMA/comments/1p0lnlo/make_your_ai_talk_like_a_caveman_and_decrease/npkoa2d/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npjqvcc",
+      "parent_id": "t3_1p0lnlo",
+      "author": "pokemonplayer2001",
+      "text_history": [
+        [
+          "This is a better idea than toon.",
+          "2025-11-18T14:22:31.381445"
+        ]
+      ],
+      "score_history": [
+        [
+          19,
+          "2025-11-18T14:22:31.381445"
+        ],
+        [
+          19,
+          "2025-11-18T14:32:49.707122"
+        ],
+        [
+          21,
+          "2025-11-18T14:42:14.990458"
+        ],
+        [
+          21,
+          "2025-11-18T14:43:32.231763"
+        ],
+        [
+          22,
+          "2025-11-18T14:45:17.520546"
+        ],
+        [
+          23,
+          "2025-11-18T14:52:59.308772"
+        ],
+        [
+          23,
+          "2025-11-18T14:53:56.433530"
+        ],
+        [
+          34,
+          "2025-11-18T22:21:50.715283"
+        ],
+        [
+          34,
+          "2025-11-19T00:05:30.303674"
+        ],
+        [
+          35,
+          "2025-11-19T01:50:15.470463"
+        ],
+        [
+          33,
+          "2025-11-19T02:33:44.519147"
+        ],
+        [
+          34,
+          "2025-11-19T02:36:42.573816"
+        ],
+        [
+          33,
+          "2025-11-19T02:44:20.016235"
+        ],
+        [
+          34,
+          "2025-11-19T02:45:51.463337"
+        ]
+      ],
+      "created_utc": 1763495556.0,
+      "depth": 0,
+      "permalink": "/r/LocalLLaMA/comments/1p0lnlo/make_your_ai_talk_like_a_caveman_and_decrease/npjqvcc/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npjvisy",
+          "parent_id": "t1_npjqvcc",
+          "author": "Mediocre-Method782",
+          "text_history": [
+            [
+              "Barely.",
+              "2025-11-18T14:22:31.381445"
+            ]
+          ],
+          "score_history": [
+            [
+              5,
+              "2025-11-18T14:22:31.381445"
+            ],
+            [
+              5,
+              "2025-11-18T14:32:49.707122"
+            ],
+            [
+              6,
+              "2025-11-18T14:42:14.990458"
+            ],
+            [
+              6,
+              "2025-11-18T14:43:32.231763"
+            ],
+            [
+              5,
+              "2025-11-18T14:45:17.520546"
+            ],
+            [
+              6,
+              "2025-11-18T14:52:59.308772"
+            ],
+            [
+              6,
+              "2025-11-18T14:53:56.433530"
+            ],
+            [
+              9,
+              "2025-11-18T22:21:50.715283"
+            ],
+            [
+              11,
+              "2025-11-19T00:05:30.303674"
+            ],
+            [
+              9,
+              "2025-11-19T01:50:15.470463"
+            ],
+            [
+              10,
+              "2025-11-19T02:33:44.519147"
+            ],
+            [
+              10,
+              "2025-11-19T02:36:42.573816"
+            ],
+            [
+              11,
+              "2025-11-19T02:44:20.016235"
+            ],
+            [
+              11,
+              "2025-11-19T02:45:51.463337"
+            ]
+          ],
+          "created_utc": 1763496960.0,
+          "depth": 1,
+          "permalink": "/r/LocalLLaMA/comments/1p0lnlo/make_your_ai_talk_like_a_caveman_and_decrease/npjvisy/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        },
+        {
+          "id": "npkw2o3",
+          "parent_id": "t1_npjqvcc",
+          "author": "vintage_culture",
+          "text_history": [
+            [
+              "This good, toon bad",
+              "2025-11-18T22:21:50.715283"
+            ]
+          ],
+          "score_history": [
+            [
+              6,
+              "2025-11-18T22:21:50.715283"
+            ],
+            [
+              7,
+              "2025-11-19T00:05:30.303674"
+            ],
+            [
+              8,
+              "2025-11-19T01:50:15.470463"
+            ],
+            [
+              6,
+              "2025-11-19T02:33:44.519147"
+            ],
+            [
+              7,
+              "2025-11-19T02:36:42.573816"
+            ],
+            [
+              8,
+              "2025-11-19T02:44:20.016235"
+            ],
+            [
+              7,
+              "2025-11-19T02:45:51.463337"
+            ]
+          ],
+          "created_utc": 1763508432.0,
+          "depth": 1,
+          "permalink": "/r/LocalLLaMA/comments/1p0lnlo/make_your_ai_talk_like_a_caveman_and_decrease/npkw2o3/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npjqm6m",
+      "parent_id": "t3_1p0lnlo",
+      "author": "bigattichouse",
+      "text_history": [
+        [
+          "Maybe pretrain a small model to \"caveman\" your prompts that get handed to the bigger model",
+          "2025-11-18T14:22:31.381445"
+        ]
+      ],
+      "score_history": [
+        [
+          10,
+          "2025-11-18T14:22:31.381445"
+        ],
+        [
+          10,
+          "2025-11-18T14:32:49.707122"
+        ],
+        [
+          11,
+          "2025-11-18T14:42:14.990458"
+        ],
+        [
+          11,
+          "2025-11-18T14:43:32.231763"
+        ],
+        [
+          12,
+          "2025-11-18T14:45:17.520546"
+        ],
+        [
+          11,
+          "2025-11-18T14:52:59.308772"
+        ],
+        [
+          11,
+          "2025-11-18T14:53:56.433530"
+        ],
+        [
+          26,
+          "2025-11-18T22:21:50.715283"
+        ],
+        [
+          26,
+          "2025-11-19T00:05:30.303674"
+        ],
+        [
+          27,
+          "2025-11-19T01:50:15.470463"
+        ],
+        [
+          28,
+          "2025-11-19T02:33:44.519147"
+        ],
+        [
+          28,
+          "2025-11-19T02:36:42.573816"
+        ],
+        [
+          29,
+          "2025-11-19T02:44:20.016235"
+        ],
+        [
+          28,
+          "2025-11-19T02:45:51.463337"
+        ]
+      ],
+      "created_utc": 1763495482.0,
+      "depth": 0,
+      "permalink": "/r/LocalLLaMA/comments/1p0lnlo/make_your_ai_talk_like_a_caveman_and_decrease/npjqm6m/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npk2er4",
+          "parent_id": "t1_npjqm6m",
+          "author": "lakySK",
+          "text_history": [
+            [
+              "Short prompt, prefill fast. ",
+              "2025-11-18T14:22:31.381445"
+            ]
+          ],
+          "score_history": [
+            [
+              5,
+              "2025-11-18T14:22:31.381445"
+            ],
+            [
+              5,
+              "2025-11-18T14:32:49.707122"
+            ],
+            [
+              6,
+              "2025-11-18T14:42:14.990458"
+            ],
+            [
+              5,
+              "2025-11-18T14:43:32.231763"
+            ],
+            [
+              8,
+              "2025-11-18T14:45:17.520546"
+            ],
+            [
+              7,
+              "2025-11-18T14:52:59.308772"
+            ],
+            [
+              7,
+              "2025-11-18T14:53:56.433530"
+            ],
+            [
+              19,
+              "2025-11-18T22:21:50.715283"
+            ],
+            [
+              20,
+              "2025-11-19T00:05:30.303674"
+            ],
+            [
+              21,
+              "2025-11-19T01:50:15.470463"
+            ],
+            [
+              21,
+              "2025-11-19T02:33:44.519147"
+            ],
+            [
+              20,
+              "2025-11-19T02:36:42.573816"
+            ],
+            [
+              20,
+              "2025-11-19T02:44:20.016235"
+            ],
+            [
+              20,
+              "2025-11-19T02:45:51.463337"
+            ]
+          ],
+          "created_utc": 1763499057.0,
+          "depth": 1,
+          "permalink": "/r/LocalLLaMA/comments/1p0lnlo/make_your_ai_talk_like_a_caveman_and_decrease/npk2er4/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npkd0v5",
+      "parent_id": "t3_1p0lnlo",
+      "author": "chriskevini",
+      "text_history": [
+        [
+          "Holy shit. Next we're gonna start removing all the vowels cause you can infer the whole word with 90% accuracy. \nSource:[my ass](https://github.com/chriskevini/cnsnnt)",
+          "2025-11-18T14:22:31.381445"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:22:31.381445"
+        ],
+        [
+          2,
+          "2025-11-18T14:32:49.707122"
+        ],
+        [
+          2,
+          "2025-11-18T14:42:14.990458"
+        ],
+        [
+          2,
+          "2025-11-18T14:43:32.231763"
+        ],
+        [
+          2,
+          "2025-11-18T14:45:17.520546"
+        ],
+        [
+          2,
+          "2025-11-18T14:52:59.308772"
+        ],
+        [
+          2,
+          "2025-11-18T14:53:56.433530"
+        ],
+        [
+          8,
+          "2025-11-18T22:21:50.715283"
+        ],
+        [
+          10,
+          "2025-11-19T00:05:30.303674"
+        ],
+        [
+          11,
+          "2025-11-19T01:50:15.470463"
+        ],
+        [
+          13,
+          "2025-11-19T02:33:44.519147"
+        ],
+        [
+          11,
+          "2025-11-19T02:36:42.573816"
+        ],
+        [
+          12,
+          "2025-11-19T02:44:20.016235"
+        ],
+        [
+          11,
+          "2025-11-19T02:45:51.463337"
+        ]
+      ],
+      "created_utc": 1763502220.0,
+      "depth": 0,
+      "permalink": "/r/LocalLLaMA/comments/1p0lnlo/make_your_ai_talk_like_a_caveman_and_decrease/npkd0v5/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npkvkmk",
+          "parent_id": "t1_npkd0v5",
+          "author": "Murgatroyd314",
+          "text_history": [
+            [
+              "Disemvoweled text is easy enough for humans to read, but it would just slow down tokenization.",
+              "2025-11-18T22:21:50.715283"
+            ]
+          ],
+          "score_history": [
+            [
+              2,
+              "2025-11-18T22:21:50.715283"
+            ],
+            [
+              2,
+              "2025-11-19T00:05:30.303674"
+            ],
+            [
+              2,
+              "2025-11-19T01:50:15.470463"
+            ],
+            [
+              2,
+              "2025-11-19T02:33:44.519147"
+            ],
+            [
+              2,
+              "2025-11-19T02:36:42.573816"
+            ],
+            [
+              2,
+              "2025-11-19T02:44:20.016235"
+            ],
+            [
+              2,
+              "2025-11-19T02:45:51.463337"
+            ]
+          ],
+          "created_utc": 1763508256.0,
+          "depth": 1,
+          "permalink": "/r/LocalLLaMA/comments/1p0lnlo/make_your_ai_talk_like_a_caveman_and_decrease/npkvkmk/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npkwip4",
+              "parent_id": "t1_npkvkmk",
+              "author": "chriskevini",
+              "text_history": [
+                [
+                  "Is it slower? We can stream more information through the API, because of fewer characters. Just need to add a simple and fast decode that can be handled by an auxiliary traditional program.",
+                  "2025-11-18T22:21:50.715283"
+                ]
+              ],
+              "score_history": [
+                [
+                  0,
+                  "2025-11-18T22:21:50.715283"
+                ],
+                [
+                  0,
+                  "2025-11-19T00:05:30.303674"
+                ],
+                [
+                  0,
+                  "2025-11-19T01:50:15.470463"
+                ],
+                [
+                  0,
+                  "2025-11-19T02:33:44.519147"
+                ],
+                [
+                  0,
+                  "2025-11-19T02:36:42.573816"
+                ],
+                [
+                  0,
+                  "2025-11-19T02:44:20.016235"
+                ],
+                [
+                  0,
+                  "2025-11-19T02:45:51.463337"
+                ]
+              ],
+              "created_utc": 1763508591.0,
+              "depth": 2,
+              "permalink": "/r/LocalLLaMA/comments/1p0lnlo/make_your_ai_talk_like_a_caveman_and_decrease/npkwip4/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "npma13g",
+          "parent_id": "t1_npkd0v5",
+          "author": "SkyFeistyLlama8",
+          "text_history": [
+            [
+              "There are plenty of human languages like that, for example Hebrew and Arabic, with only consonants being written down. It's fine when you're speaking them in the current context but woe to you if you're trying to decipher them 2000 years later.\n\nResearchers end up looking at modern forms of words in those languages and extrapolating backwards. They also look for transliterations in neighboring languages that preserve vowels and tones, like how Arabic was written in Greek characters and also translated into Greek.",
+              "2025-11-18T22:21:50.715283"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T22:21:50.715283"
+            ],
+            [
+              2,
+              "2025-11-19T00:05:30.303674"
+            ],
+            [
+              2,
+              "2025-11-19T01:50:15.470463"
+            ],
+            [
+              2,
+              "2025-11-19T02:33:44.519147"
+            ],
+            [
+              2,
+              "2025-11-19T02:36:42.573816"
+            ],
+            [
+              2,
+              "2025-11-19T02:44:20.016235"
+            ],
+            [
+              2,
+              "2025-11-19T02:45:51.463337"
+            ]
+          ],
+          "created_utc": 1763526871.0,
+          "depth": 1,
+          "permalink": "/r/LocalLLaMA/comments/1p0lnlo/make_your_ai_talk_like_a_caveman_and_decrease/npma13g/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        },
+        {
+          "id": "npkg0s4",
+          "parent_id": "t1_npkd0v5",
+          "author": "chriskevini",
+          "text_history": [
+            [
+              "After thinking about it for 5 minutes, isn't this actually feasible? We just add a really fast encoding and decoding step that can run in parallel over the whole text.  Or is byte-pair encoding strictly better?",
+              "2025-11-18T14:22:31.381445"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T14:22:31.381445"
+            ],
+            [
+              0,
+              "2025-11-18T14:32:49.707122"
+            ],
+            [
+              0,
+              "2025-11-18T14:42:14.990458"
+            ],
+            [
+              0,
+              "2025-11-18T14:43:32.231763"
+            ],
+            [
+              0,
+              "2025-11-18T14:45:17.520546"
+            ],
+            [
+              0,
+              "2025-11-18T14:52:59.308772"
+            ],
+            [
+              0,
+              "2025-11-18T14:53:56.433530"
+            ],
+            [
+              1,
+              "2025-11-18T22:21:50.715283"
+            ],
+            [
+              1,
+              "2025-11-19T00:05:30.303674"
+            ],
+            [
+              1,
+              "2025-11-19T01:50:15.470463"
+            ],
+            [
+              1,
+              "2025-11-19T02:33:44.519147"
+            ],
+            [
+              1,
+              "2025-11-19T02:36:42.573816"
+            ],
+            [
+              1,
+              "2025-11-19T02:44:20.016235"
+            ],
+            [
+              1,
+              "2025-11-19T02:45:51.463337"
+            ]
+          ],
+          "created_utc": 1763503115.0,
+          "depth": 1,
+          "permalink": "/r/LocalLLaMA/comments/1p0lnlo/make_your_ai_talk_like_a_caveman_and_decrease/npkg0s4/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npjto98",
+      "parent_id": "t3_1p0lnlo",
+      "author": "macumazana",
+      "text_history": [
+        [
+          "you should do the readme.md in that style",
+          "2025-11-18T14:22:31.381445"
+        ]
+      ],
+      "score_history": [
+        [
+          12,
+          "2025-11-18T14:22:31.381445"
+        ],
+        [
+          13,
+          "2025-11-18T14:32:49.707122"
+        ],
+        [
+          13,
+          "2025-11-18T14:42:14.990458"
+        ],
+        [
+          12,
+          "2025-11-18T14:43:32.231763"
+        ],
+        [
+          12,
+          "2025-11-18T14:45:17.520546"
+        ],
+        [
+          14,
+          "2025-11-18T14:52:59.308772"
+        ],
+        [
+          14,
+          "2025-11-18T14:53:56.433530"
+        ],
+        [
+          23,
+          "2025-11-18T22:21:50.715283"
+        ],
+        [
+          24,
+          "2025-11-19T00:05:30.303674"
+        ],
+        [
+          24,
+          "2025-11-19T01:50:15.470463"
+        ],
+        [
+          23,
+          "2025-11-19T02:33:44.519147"
+        ],
+        [
+          24,
+          "2025-11-19T02:36:42.573816"
+        ],
+        [
+          24,
+          "2025-11-19T02:44:20.016235"
+        ],
+        [
+          25,
+          "2025-11-19T02:45:51.463337"
+        ]
+      ],
+      "created_utc": 1763496398.0,
+      "depth": 0,
+      "permalink": "/r/LocalLLaMA/comments/1p0lnlo/make_your_ai_talk_like_a_caveman_and_decrease/npjto98/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npjxd5k",
+      "parent_id": "t3_1p0lnlo",
+      "author": "Zeeplankton",
+      "text_history": [
+        [
+          "This is literally what I thought LLM reasoning would morph into. Like a stochastic pseudo language. English isn't exactly the most efficient language.",
+          "2025-11-18T14:22:31.381445"
+        ]
+      ],
+      "score_history": [
+        [
+          10,
+          "2025-11-18T14:22:31.381445"
+        ],
+        [
+          8,
+          "2025-11-18T14:32:49.707122"
+        ],
+        [
+          8,
+          "2025-11-18T14:42:14.990458"
+        ],
+        [
+          9,
+          "2025-11-18T14:43:32.231763"
+        ],
+        [
+          9,
+          "2025-11-18T14:45:17.520546"
+        ],
+        [
+          10,
+          "2025-11-18T14:52:59.308772"
+        ],
+        [
+          9,
+          "2025-11-18T14:53:56.433530"
+        ],
+        [
+          18,
+          "2025-11-18T22:21:50.715283"
+        ],
+        [
+          19,
+          "2025-11-19T00:05:30.303674"
+        ],
+        [
+          20,
+          "2025-11-19T01:50:15.470463"
+        ],
+        [
+          21,
+          "2025-11-19T02:33:44.519147"
+        ],
+        [
+          20,
+          "2025-11-19T02:36:42.573816"
+        ],
+        [
+          21,
+          "2025-11-19T02:44:20.016235"
+        ],
+        [
+          20,
+          "2025-11-19T02:45:51.463337"
+        ]
+      ],
+      "created_utc": 1763497523.0,
+      "depth": 0,
+      "permalink": "/r/LocalLLaMA/comments/1p0lnlo/make_your_ai_talk_like_a_caveman_and_decrease/npjxd5k/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npligxp",
+          "parent_id": "t1_npjxd5k",
+          "author": "blbd",
+          "text_history": [
+            [
+              "Actually, linguistics research shows that all languages have about the same information rate in spoken form. The speech slows down or speeds up to hit a typical human audio cognition cap right around 40 bps. In written form it varies more and English is one of the better ones due to a large vocabulary.\n\nBut having a model with some clever caveman-speak support where appropriate could be pretty useful, when you consider that increasing the sizes of context buffers causes n-squared performance loss / resource consumption. \n\nhttps://www.science.org/doi/10.1126/sciadv.aaw2594",
+              "2025-11-18T22:21:50.715283"
+            ]
+          ],
+          "score_history": [
+            [
+              4,
+              "2025-11-18T22:21:50.715283"
+            ],
+            [
+              6,
+              "2025-11-19T00:05:30.303674"
+            ],
+            [
+              8,
+              "2025-11-19T01:50:15.470463"
+            ],
+            [
+              8,
+              "2025-11-19T02:33:44.519147"
+            ],
+            [
+              9,
+              "2025-11-19T02:36:42.573816"
+            ],
+            [
+              7,
+              "2025-11-19T02:44:20.016235"
+            ],
+            [
+              8,
+              "2025-11-19T02:45:51.463337"
+            ]
+          ],
+          "created_utc": 1763516408.0,
+          "depth": 1,
+          "permalink": "/r/LocalLLaMA/comments/1p0lnlo/make_your_ai_talk_like_a_caveman_and_decrease/npligxp/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        },
+        {
+          "id": "npl3mdt",
+          "parent_id": "t1_npjxd5k",
+          "author": "getting_serious",
+          "text_history": [
+            [
+              "I'd expect it mixing languages. GLM does it: When you keep talking to a low quant for long enough, it'll introduce chinese terms in its 'thinking' block.",
+              "2025-11-18T22:21:50.715283"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T22:21:50.715283"
+            ],
+            [
+              1,
+              "2025-11-19T00:05:30.303674"
+            ],
+            [
+              1,
+              "2025-11-19T01:50:15.470463"
+            ],
+            [
+              1,
+              "2025-11-19T02:33:44.519147"
+            ],
+            [
+              1,
+              "2025-11-19T02:36:42.573816"
+            ],
+            [
+              1,
+              "2025-11-19T02:44:20.016235"
+            ],
+            [
+              1,
+              "2025-11-19T02:45:51.463337"
+            ]
+          ],
+          "created_utc": 1763511116.0,
+          "depth": 1,
+          "permalink": "/r/LocalLLaMA/comments/1p0lnlo/make_your_ai_talk_like_a_caveman_and_decrease/npl3mdt/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        },
+        {
+          "id": "npmhnxj",
+          "parent_id": "t1_npjxd5k",
+          "author": "TomLucidor",
+          "text_history": [
+            [
+              "ithkul?",
+              "2025-11-18T22:21:50.715283"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T22:21:50.715283"
+            ],
+            [
+              1,
+              "2025-11-19T00:05:30.303674"
+            ],
+            [
+              1,
+              "2025-11-19T01:50:15.470463"
+            ],
+            [
+              1,
+              "2025-11-19T02:33:44.519147"
+            ],
+            [
+              1,
+              "2025-11-19T02:36:42.573816"
+            ],
+            [
+              1,
+              "2025-11-19T02:44:20.016235"
+            ],
+            [
+              1,
+              "2025-11-19T02:45:51.463337"
+            ]
+          ],
+          "created_utc": 1763530406.0,
+          "depth": 1,
+          "permalink": "/r/LocalLLaMA/comments/1p0lnlo/make_your_ai_talk_like_a_caveman_and_decrease/npmhnxj/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        },
+        {
+          "id": "npmsa9v",
+          "parent_id": "t1_npjxd5k",
+          "author": "TheRealMasonMac",
+          "text_history": [
+            [
+              "I think it would be interesting to explore more information-dense tokens. DeepSeek-OCR implied that individual tokens can contain a lot of information. Even if not as image tokens, perhaps something other than text. The downside would be that reasoning becomes a black box.",
+              "2025-11-19T00:05:30.303674"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-19T00:05:30.303674"
+            ],
+            [
+              1,
+              "2025-11-19T01:50:15.470463"
+            ],
+            [
+              1,
+              "2025-11-19T02:33:44.519147"
+            ],
+            [
+              1,
+              "2025-11-19T02:36:42.573816"
+            ],
+            [
+              1,
+              "2025-11-19T02:44:20.016235"
+            ],
+            [
+              1,
+              "2025-11-19T02:45:51.463337"
+            ]
+          ],
+          "created_utc": 1763536098.0,
+          "depth": 1,
+          "permalink": "/r/LocalLLaMA/comments/1p0lnlo/make_your_ai_talk_like_a_caveman_and_decrease/npmsa9v/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        },
+        {
+          "id": "npk3wze",
+          "parent_id": "t1_npjxd5k",
+          "author": "RaiseRuntimeError",
+          "text_history": [
+            [
+              "Wasn't there a research paper that said Dutch or something like that was the most efficient language?",
+              "2025-11-18T14:22:31.381445"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T14:22:31.381445"
+            ],
+            [
+              1,
+              "2025-11-18T14:32:49.707122"
+            ],
+            [
+              1,
+              "2025-11-18T14:42:14.990458"
+            ],
+            [
+              1,
+              "2025-11-18T14:43:32.231763"
+            ],
+            [
+              1,
+              "2025-11-18T14:45:17.520546"
+            ],
+            [
+              1,
+              "2025-11-18T14:52:59.308772"
+            ],
+            [
+              1,
+              "2025-11-18T14:53:56.433530"
+            ],
+            [
+              3,
+              "2025-11-18T22:21:50.715283"
+            ],
+            [
+              2,
+              "2025-11-19T00:05:30.303674"
+            ],
+            [
+              1,
+              "2025-11-19T01:50:15.470463"
+            ],
+            [
+              1,
+              "2025-11-19T02:33:44.519147"
+            ],
+            [
+              1,
+              "2025-11-19T02:36:42.573816"
+            ],
+            [
+              0,
+              "2025-11-19T02:44:20.016235"
+            ],
+            [
+              1,
+              "2025-11-19T02:45:51.463337"
+            ]
+          ],
+          "created_utc": 1763499503.0,
+          "depth": 1,
+          "permalink": "/r/LocalLLaMA/comments/1p0lnlo/make_your_ai_talk_like_a_caveman_and_decrease/npk3wze/",
+          "is_submitter": false,
+          "controversiality": 1,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npk5xzt",
+              "parent_id": "t1_npk3wze",
+              "author": "arbv",
+              "text_history": [
+                [
+                  "IIRC, Polish.\n\nP.S.\n\nkurwa",
+                  "2025-11-18T14:22:31.381445"
+                ]
+              ],
+              "score_history": [
+                [
+                  7,
+                  "2025-11-18T14:22:31.381445"
+                ],
+                [
+                  8,
+                  "2025-11-18T14:32:49.707122"
+                ],
+                [
+                  10,
+                  "2025-11-18T14:42:14.990458"
+                ],
+                [
+                  9,
+                  "2025-11-18T14:43:32.231763"
+                ],
+                [
+                  8,
+                  "2025-11-18T14:45:17.520546"
+                ],
+                [
+                  10,
+                  "2025-11-18T14:52:59.308772"
+                ],
+                [
+                  8,
+                  "2025-11-18T14:53:56.433530"
+                ],
+                [
+                  15,
+                  "2025-11-18T22:21:50.715283"
+                ],
+                [
+                  16,
+                  "2025-11-19T00:05:30.303674"
+                ],
+                [
+                  17,
+                  "2025-11-19T01:50:15.470463"
+                ],
+                [
+                  17,
+                  "2025-11-19T02:33:44.519147"
+                ],
+                [
+                  19,
+                  "2025-11-19T02:36:42.573816"
+                ],
+                [
+                  18,
+                  "2025-11-19T02:44:20.016235"
+                ],
+                [
+                  19,
+                  "2025-11-19T02:45:51.463337"
+                ]
+              ],
+              "created_utc": 1763500104.0,
+              "depth": 2,
+              "permalink": "/r/LocalLLaMA/comments/1p0lnlo/make_your_ai_talk_like_a_caveman_and_decrease/npk5xzt/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            },
+            {
+              "id": "npkqie0",
+              "parent_id": "t1_npk3wze",
+              "author": "-oshino_shinobu-",
+              "text_history": [
+                [
+                  "One redditor pointed out that the prompt they used in German contains some errors. Which calls into question the validity of the research",
+                  "2025-11-18T22:21:50.715283"
+                ]
+              ],
+              "score_history": [
+                [
+                  3,
+                  "2025-11-18T22:21:50.715283"
+                ],
+                [
+                  5,
+                  "2025-11-19T00:05:30.303674"
+                ],
+                [
+                  4,
+                  "2025-11-19T01:50:15.470463"
+                ],
+                [
+                  4,
+                  "2025-11-19T02:33:44.519147"
+                ],
+                [
+                  5,
+                  "2025-11-19T02:36:42.573816"
+                ],
+                [
+                  5,
+                  "2025-11-19T02:44:20.016235"
+                ],
+                [
+                  4,
+                  "2025-11-19T02:45:51.463337"
+                ]
+              ],
+              "created_utc": 1763506506.0,
+              "depth": 2,
+              "permalink": "/r/LocalLLaMA/comments/1p0lnlo/make_your_ai_talk_like_a_caveman_and_decrease/npkqie0/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": [
+                {
+                  "id": "npksew3",
+                  "parent_id": "t1_npkqie0",
+                  "author": "RaiseRuntimeError",
+                  "text_history": [
+                    [
+                      "I guess we stick with caveman.",
+                      "2025-11-18T22:21:50.715283"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      2,
+                      "2025-11-18T22:21:50.715283"
+                    ],
+                    [
+                      3,
+                      "2025-11-19T00:05:30.303674"
+                    ],
+                    [
+                      3,
+                      "2025-11-19T01:50:15.470463"
+                    ],
+                    [
+                      3,
+                      "2025-11-19T02:33:44.519147"
+                    ],
+                    [
+                      3,
+                      "2025-11-19T02:36:42.573816"
+                    ],
+                    [
+                      3,
+                      "2025-11-19T02:44:20.016235"
+                    ],
+                    [
+                      3,
+                      "2025-11-19T02:45:51.463337"
+                    ]
+                  ],
+                  "created_utc": 1763507155.0,
+                  "depth": 3,
+                  "permalink": "/r/LocalLLaMA/comments/1p0lnlo/make_your_ai_talk_like_a_caveman_and_decrease/npksew3/",
+                  "is_submitter": false,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "npl3bbp",
+              "parent_id": "t1_npk3wze",
+              "author": "Crypt0Nihilist",
+              "text_history": [
+                [
+                  "I was surprised it wasn't a character based writing like Chinese or Japanese. I've always assumed they're incredibly informationally dense compared to phonetic writing systems.",
+                  "2025-11-18T22:21:50.715283"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-18T22:21:50.715283"
+                ],
+                [
+                  1,
+                  "2025-11-19T00:05:30.303674"
+                ],
+                [
+                  1,
+                  "2025-11-19T01:50:15.470463"
+                ],
+                [
+                  1,
+                  "2025-11-19T02:33:44.519147"
+                ],
+                [
+                  1,
+                  "2025-11-19T02:36:42.573816"
+                ],
+                [
+                  2,
+                  "2025-11-19T02:44:20.016235"
+                ],
+                [
+                  2,
+                  "2025-11-19T02:45:51.463337"
+                ]
+              ],
+              "created_utc": 1763511010.0,
+              "depth": 2,
+              "permalink": "/r/LocalLLaMA/comments/1p0lnlo/make_your_ai_talk_like_a_caveman_and_decrease/npl3bbp/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "npjrmai",
+      "parent_id": "t3_1p0lnlo",
+      "author": "GreenTreeAndBlueSky",
+      "text_history": [
+        [
+          "What happened to llmlingua?",
+          "2025-11-18T14:22:31.381445"
+        ]
+      ],
+      "score_history": [
+        [
+          5,
+          "2025-11-18T14:22:31.381445"
+        ],
+        [
+          5,
+          "2025-11-18T14:32:49.707122"
+        ],
+        [
+          5,
+          "2025-11-18T14:42:14.990458"
+        ],
+        [
+          5,
+          "2025-11-18T14:43:32.231763"
+        ],
+        [
+          4,
+          "2025-11-18T14:45:17.520546"
+        ],
+        [
+          5,
+          "2025-11-18T14:52:59.308772"
+        ],
+        [
+          5,
+          "2025-11-18T14:53:56.433530"
+        ],
+        [
+          6,
+          "2025-11-18T22:21:50.715283"
+        ],
+        [
+          7,
+          "2025-11-19T00:05:30.303674"
+        ],
+        [
+          7,
+          "2025-11-19T01:50:15.470463"
+        ],
+        [
+          6,
+          "2025-11-19T02:33:44.519147"
+        ],
+        [
+          7,
+          "2025-11-19T02:36:42.573816"
+        ],
+        [
+          8,
+          "2025-11-19T02:44:20.016235"
+        ],
+        [
+          6,
+          "2025-11-19T02:45:51.463337"
+        ]
+      ],
+      "created_utc": 1763495776.0,
+      "depth": 0,
+      "permalink": "/r/LocalLLaMA/comments/1p0lnlo/make_your_ai_talk_like_a_caveman_and_decrease/npjrmai/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npjtvi7",
+          "parent_id": "t1_npjrmai",
+          "author": "macumazana",
+          "text_history": [
+            [
+              "lingua llm non penis canis est",
+              "2025-11-18T14:22:31.381445"
+            ]
+          ],
+          "score_history": [
+            [
+              14,
+              "2025-11-18T14:22:31.381445"
+            ],
+            [
+              16,
+              "2025-11-18T14:32:49.707122"
+            ],
+            [
+              15,
+              "2025-11-18T14:42:14.990458"
+            ],
+            [
+              16,
+              "2025-11-18T14:43:32.231763"
+            ],
+            [
+              18,
+              "2025-11-18T14:45:17.520546"
+            ],
+            [
+              17,
+              "2025-11-18T14:52:59.308772"
+            ],
+            [
+              17,
+              "2025-11-18T14:53:56.433530"
+            ],
+            [
+              18,
+              "2025-11-18T22:21:50.715283"
+            ],
+            [
+              21,
+              "2025-11-19T00:05:30.303674"
+            ],
+            [
+              22,
+              "2025-11-19T01:50:15.470463"
+            ],
+            [
+              21,
+              "2025-11-19T02:33:44.519147"
+            ],
+            [
+              22,
+              "2025-11-19T02:36:42.573816"
+            ],
+            [
+              21,
+              "2025-11-19T02:44:20.016235"
+            ],
+            [
+              21,
+              "2025-11-19T02:45:51.463337"
+            ]
+          ],
+          "created_utc": 1763496458.0,
+          "depth": 1,
+          "permalink": "/r/LocalLLaMA/comments/1p0lnlo/make_your_ai_talk_like_a_caveman_and_decrease/npjtvi7/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npk28no",
+      "parent_id": "t3_1p0lnlo",
+      "author": "lakySK",
+      "text_history": [
+        [
+          "The opposite of speculative decoding?\n\nHave big model do few words, small model then add grammar. ",
+          "2025-11-18T14:22:31.381445"
+        ]
+      ],
+      "score_history": [
+        [
+          5,
+          "2025-11-18T14:22:31.381445"
+        ],
+        [
+          4,
+          "2025-11-18T14:32:49.707122"
+        ],
+        [
+          5,
+          "2025-11-18T14:42:14.990458"
+        ],
+        [
+          5,
+          "2025-11-18T14:43:32.231763"
+        ],
+        [
+          3,
+          "2025-11-18T14:45:17.520546"
+        ],
+        [
+          5,
+          "2025-11-18T14:52:59.308772"
+        ],
+        [
+          5,
+          "2025-11-18T14:53:56.433530"
+        ],
+        [
+          6,
+          "2025-11-18T22:21:50.715283"
+        ],
+        [
+          7,
+          "2025-11-19T00:05:30.303674"
+        ],
+        [
+          8,
+          "2025-11-19T01:50:15.470463"
+        ],
+        [
+          6,
+          "2025-11-19T02:33:44.519147"
+        ],
+        [
+          6,
+          "2025-11-19T02:36:42.573816"
+        ],
+        [
+          7,
+          "2025-11-19T02:44:20.016235"
+        ],
+        [
+          7,
+          "2025-11-19T02:45:51.463337"
+        ]
+      ],
+      "created_utc": 1763499007.0,
+      "depth": 0,
+      "permalink": "/r/LocalLLaMA/comments/1p0lnlo/make_your_ai_talk_like_a_caveman_and_decrease/npk28no/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npk2ro5",
+      "parent_id": "t3_1p0lnlo",
+      "author": "Radiant_Truth_8743",
+      "text_history": [
+        [
+          "Post good. Me likey",
+          "2025-11-18T14:22:31.381445"
+        ]
+      ],
+      "score_history": [
+        [
+          4,
+          "2025-11-18T14:22:31.381445"
+        ],
+        [
+          4,
+          "2025-11-18T14:32:49.707122"
+        ],
+        [
+          4,
+          "2025-11-18T14:42:14.990458"
+        ],
+        [
+          3,
+          "2025-11-18T14:43:32.231763"
+        ],
+        [
+          4,
+          "2025-11-18T14:45:17.520546"
+        ],
+        [
+          3,
+          "2025-11-18T14:52:59.308772"
+        ],
+        [
+          4,
+          "2025-11-18T14:53:56.433530"
+        ],
+        [
+          6,
+          "2025-11-18T22:21:50.715283"
+        ],
+        [
+          6,
+          "2025-11-19T00:05:30.303674"
+        ],
+        [
+          6,
+          "2025-11-19T01:50:15.470463"
+        ],
+        [
+          5,
+          "2025-11-19T02:33:44.519147"
+        ],
+        [
+          6,
+          "2025-11-19T02:36:42.573816"
+        ],
+        [
+          6,
+          "2025-11-19T02:44:20.016235"
+        ],
+        [
+          6,
+          "2025-11-19T02:45:51.463337"
+        ]
+      ],
+      "created_utc": 1763499164.0,
+      "depth": 0,
+      "permalink": "/r/LocalLLaMA/comments/1p0lnlo/make_your_ai_talk_like_a_caveman_and_decrease/npk2ro5/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npkntf3",
+      "parent_id": "t3_1p0lnlo",
+      "author": "notNezter",
+      "text_history": [
+        [
+          "Smol word. Sav money. Wife glad. Man happy.",
+          "2025-11-18T14:42:14.990458"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:42:14.990458"
+        ],
+        [
+          1,
+          "2025-11-18T14:43:32.231763"
+        ],
+        [
+          1,
+          "2025-11-18T14:45:17.520546"
+        ],
+        [
+          1,
+          "2025-11-18T14:52:59.308772"
+        ],
+        [
+          1,
+          "2025-11-18T14:53:56.433530"
+        ],
+        [
+          4,
+          "2025-11-18T22:21:50.715283"
+        ],
+        [
+          4,
+          "2025-11-19T00:05:30.303674"
+        ],
+        [
+          4,
+          "2025-11-19T01:50:15.470463"
+        ],
+        [
+          5,
+          "2025-11-19T02:33:44.519147"
+        ],
+        [
+          5,
+          "2025-11-19T02:36:42.573816"
+        ],
+        [
+          4,
+          "2025-11-19T02:44:20.016235"
+        ],
+        [
+          4,
+          "2025-11-19T02:45:51.463337"
+        ]
+      ],
+      "created_utc": 1763505612.0,
+      "depth": 0,
+      "permalink": "/r/LocalLLaMA/comments/1p0lnlo/make_your_ai_talk_like_a_caveman_and_decrease/npkntf3/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npjqspw",
+      "parent_id": "t3_1p0lnlo",
+      "author": "Mission_Biscotti3962",
+      "text_history": [
+        [
+          "I like the idea but I'm not sure what your library adds? Like, isn't this a simple instruction to have it behave like that? Mind you, I haven't tried it yet.",
+          "2025-11-18T14:22:31.381445"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-18T14:22:31.381445"
+        ],
+        [
+          2,
+          "2025-11-18T14:32:49.707122"
+        ],
+        [
+          2,
+          "2025-11-18T14:42:14.990458"
+        ],
+        [
+          2,
+          "2025-11-18T14:43:32.231763"
+        ],
+        [
+          2,
+          "2025-11-18T14:45:17.520546"
+        ],
+        [
+          2,
+          "2025-11-18T14:52:59.308772"
+        ],
+        [
+          2,
+          "2025-11-18T14:53:56.433530"
+        ],
+        [
+          3,
+          "2025-11-18T22:21:50.715283"
+        ],
+        [
+          3,
+          "2025-11-19T00:05:30.303674"
+        ],
+        [
+          5,
+          "2025-11-19T01:50:15.470463"
+        ],
+        [
+          3,
+          "2025-11-19T02:33:44.519147"
+        ],
+        [
+          4,
+          "2025-11-19T02:36:42.573816"
+        ],
+        [
+          3,
+          "2025-11-19T02:44:20.016235"
+        ],
+        [
+          5,
+          "2025-11-19T02:45:51.463337"
+        ]
+      ],
+      "created_utc": 1763495534.0,
+      "depth": 0,
+      "permalink": "/r/LocalLLaMA/comments/1p0lnlo/make_your_ai_talk_like_a_caveman_and_decrease/npjqspw/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npjsa9s",
+          "parent_id": "t1_npjqspw",
+          "author": "RegionCareful7282",
+          "text_history": [
+            [
+              "Yes you are right, it’s more about having a repository with benchmarks showcasing the idea + maybe a way to collaborate and ”fine-tune” the prompts etc",
+              "2025-11-18T14:22:31.381445"
+            ]
+          ],
+          "score_history": [
+            [
+              2,
+              "2025-11-18T14:22:31.381445"
+            ],
+            [
+              2,
+              "2025-11-18T14:32:49.707122"
+            ],
+            [
+              2,
+              "2025-11-18T14:42:14.990458"
+            ],
+            [
+              2,
+              "2025-11-18T14:43:32.231763"
+            ],
+            [
+              2,
+              "2025-11-18T14:45:17.520546"
+            ],
+            [
+              2,
+              "2025-11-18T14:52:59.308772"
+            ],
+            [
+              2,
+              "2025-11-18T14:53:56.433530"
+            ],
+            [
+              4,
+              "2025-11-18T22:21:50.715283"
+            ],
+            [
+              6,
+              "2025-11-19T00:05:30.303674"
+            ],
+            [
+              5,
+              "2025-11-19T01:50:15.470463"
+            ],
+            [
+              6,
+              "2025-11-19T02:33:44.519147"
+            ],
+            [
+              6,
+              "2025-11-19T02:36:42.573816"
+            ],
+            [
+              6,
+              "2025-11-19T02:44:20.016235"
+            ],
+            [
+              6,
+              "2025-11-19T02:45:51.463337"
+            ]
+          ],
+          "created_utc": 1763495974.0,
+          "depth": 1,
+          "permalink": "/r/LocalLLaMA/comments/1p0lnlo/make_your_ai_talk_like_a_caveman_and_decrease/npjsa9s/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npjvrkk",
+      "parent_id": "t3_1p0lnlo",
+      "author": "Guilty_Rooster_6708",
+      "text_history": [
+        [
+          "Kevin finetune. I like.",
+          "2025-11-18T14:22:31.381445"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-18T14:22:31.381445"
+        ],
+        [
+          2,
+          "2025-11-18T14:32:49.707122"
+        ],
+        [
+          2,
+          "2025-11-18T14:42:14.990458"
+        ],
+        [
+          2,
+          "2025-11-18T14:43:32.231763"
+        ],
+        [
+          2,
+          "2025-11-18T14:45:17.520546"
+        ],
+        [
+          2,
+          "2025-11-18T14:52:59.308772"
+        ],
+        [
+          2,
+          "2025-11-18T14:53:56.433530"
+        ],
+        [
+          4,
+          "2025-11-18T22:21:50.715283"
+        ],
+        [
+          3,
+          "2025-11-19T00:05:30.303674"
+        ],
+        [
+          5,
+          "2025-11-19T01:50:15.470463"
+        ],
+        [
+          5,
+          "2025-11-19T02:33:44.519147"
+        ],
+        [
+          4,
+          "2025-11-19T02:36:42.573816"
+        ],
+        [
+          4,
+          "2025-11-19T02:44:20.016235"
+        ],
+        [
+          4,
+          "2025-11-19T02:45:51.463337"
+        ]
+      ],
+      "created_utc": 1763497035.0,
+      "depth": 0,
+      "permalink": "/r/LocalLLaMA/comments/1p0lnlo/make_your_ai_talk_like_a_caveman_and_decrease/npjvrkk/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "nplemo6",
+          "parent_id": "t1_npjvrkk",
+          "author": "dadidutdut",
+          "text_history": [
+            [
+              "Kevinized model would be big",
+              "2025-11-18T22:21:50.715283"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T22:21:50.715283"
+            ],
+            [
+              1,
+              "2025-11-19T00:05:30.303674"
+            ],
+            [
+              1,
+              "2025-11-19T01:50:15.470463"
+            ],
+            [
+              1,
+              "2025-11-19T02:33:44.519147"
+            ],
+            [
+              1,
+              "2025-11-19T02:36:42.573816"
+            ],
+            [
+              1,
+              "2025-11-19T02:44:20.016235"
+            ],
+            [
+              1,
+              "2025-11-19T02:45:51.463337"
+            ]
+          ],
+          "created_utc": 1763515009.0,
+          "depth": 1,
+          "permalink": "/r/LocalLLaMA/comments/1p0lnlo/make_your_ai_talk_like_a_caveman_and_decrease/nplemo6/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npkeigs",
+      "parent_id": "t3_1p0lnlo",
+      "author": "geneusutwerk",
+      "text_history": [
+        [
+          "Calling this lossless seems like a stretch, especially since I don't see examples that show initial -&gt; compressed -&gt; uncompressed.",
+          "2025-11-18T14:22:31.381445"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:22:31.381445"
+        ],
+        [
+          1,
+          "2025-11-18T14:32:49.707122"
+        ],
+        [
+          2,
+          "2025-11-18T14:42:14.990458"
+        ],
+        [
+          2,
+          "2025-11-18T14:43:32.231763"
+        ],
+        [
+          2,
+          "2025-11-18T14:45:17.520546"
+        ],
+        [
+          2,
+          "2025-11-18T14:52:59.308772"
+        ],
+        [
+          2,
+          "2025-11-18T14:53:56.433530"
+        ],
+        [
+          4,
+          "2025-11-18T22:21:50.715283"
+        ],
+        [
+          4,
+          "2025-11-19T00:05:30.303674"
+        ],
+        [
+          4,
+          "2025-11-19T01:50:15.470463"
+        ],
+        [
+          3,
+          "2025-11-19T02:33:44.519147"
+        ],
+        [
+          4,
+          "2025-11-19T02:36:42.573816"
+        ],
+        [
+          3,
+          "2025-11-19T02:44:20.016235"
+        ],
+        [
+          5,
+          "2025-11-19T02:45:51.463337"
+        ]
+      ],
+      "created_utc": 1763502662.0,
+      "depth": 0,
+      "permalink": "/r/LocalLLaMA/comments/1p0lnlo/make_your_ai_talk_like_a_caveman_and_decrease/npkeigs/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nplfdsx",
+      "parent_id": "t3_1p0lnlo",
+      "author": "DustinKli",
+      "text_history": [
+        [
+          "I had this same exact idea a while back, but when implementing it I ran into several issues.\n\nOne issue is that the way LLMs actually embed and retrieve text. LLMs were trained on normal language with syntax, connectors and structure. If you strip sentences down to these compressed telegraphic fragments, you remove the cues the embedding model uses to understand meaning. This makes retrieval based on semantic embedding harder and more mistake prone. \n\nLLMs are generative. Embedding models are not. As someone else mentioned, if your stored chunks become overly compressed then retrieval becomes noisy or wrong all together which forces the language model to hallucinate more often. I don't see how your solution resolves the issue of worse semantic clustering and noisier nearest neighbor results.\n\nBased on how embedding works, when splitting text into 2 to 5 word fragments it invariably changes granularity.\nEmbedding models will treat very short sentences differently from normal prose. So the result was that it is not actually compressing text, it is altering its information geometry.\n\nYou say that \"no hallucination occurs because facts are preserved\" but the issue isn't about facts. These models don't know or care about facts. They function based  on relationships. \n\nHave you done comparison studies showing traditional RAG vs this method?\n\nDoes the compressed text embed into the same vector neighborhood as the original paragraph?",
+          "2025-11-18T22:21:50.715283"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-18T22:21:50.715283"
+        ],
+        [
+          3,
+          "2025-11-19T00:05:30.303674"
+        ],
+        [
+          3,
+          "2025-11-19T01:50:15.470463"
+        ],
+        [
+          5,
+          "2025-11-19T02:33:44.519147"
+        ],
+        [
+          4,
+          "2025-11-19T02:36:42.573816"
+        ],
+        [
+          4,
+          "2025-11-19T02:44:20.016235"
+        ],
+        [
+          4,
+          "2025-11-19T02:45:51.463337"
+        ]
+      ],
+      "created_utc": 1763515283.0,
+      "depth": 0,
+      "permalink": "/r/LocalLLaMA/comments/1p0lnlo/make_your_ai_talk_like_a_caveman_and_decrease/nplfdsx/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npk1cm6",
+      "parent_id": "t3_1p0lnlo",
+      "author": "MrPecunius",
+      "text_history": [
+        [
+          "If you want a darker take, this looks a lot like plusgood Newspeak.",
+          "2025-11-18T14:22:31.381445"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:22:31.381445"
+        ],
+        [
+          1,
+          "2025-11-18T14:32:49.707122"
+        ],
+        [
+          1,
+          "2025-11-18T14:42:14.990458"
+        ],
+        [
+          1,
+          "2025-11-18T14:43:32.231763"
+        ],
+        [
+          1,
+          "2025-11-18T14:45:17.520546"
+        ],
+        [
+          1,
+          "2025-11-18T14:52:59.308772"
+        ],
+        [
+          1,
+          "2025-11-18T14:53:56.433530"
+        ],
+        [
+          2,
+          "2025-11-18T22:21:50.715283"
+        ],
+        [
+          2,
+          "2025-11-19T00:05:30.303674"
+        ],
+        [
+          2,
+          "2025-11-19T01:50:15.470463"
+        ],
+        [
+          2,
+          "2025-11-19T02:33:44.519147"
+        ],
+        [
+          2,
+          "2025-11-19T02:36:42.573816"
+        ],
+        [
+          3,
+          "2025-11-19T02:44:20.016235"
+        ],
+        [
+          3,
+          "2025-11-19T02:45:51.463337"
+        ]
+      ],
+      "created_utc": 1763498743.0,
+      "depth": 0,
+      "permalink": "/r/LocalLLaMA/comments/1p0lnlo/make_your_ai_talk_like_a_caveman_and_decrease/npk1cm6/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npk4qlt",
+      "parent_id": "t3_1p0lnlo",
+      "author": "daftstar",
+      "text_history": [
+        [
+          "And vibe code using this too!!",
+          "2025-11-18T14:22:31.381445"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:22:31.381445"
+        ],
+        [
+          1,
+          "2025-11-18T14:32:49.707122"
+        ],
+        [
+          1,
+          "2025-11-18T14:42:14.990458"
+        ],
+        [
+          1,
+          "2025-11-18T14:43:32.231763"
+        ],
+        [
+          1,
+          "2025-11-18T14:45:17.520546"
+        ],
+        [
+          1,
+          "2025-11-18T14:52:59.308772"
+        ],
+        [
+          1,
+          "2025-11-18T14:53:56.433530"
+        ],
+        [
+          3,
+          "2025-11-18T22:21:50.715283"
+        ],
+        [
+          3,
+          "2025-11-19T00:05:30.303674"
+        ],
+        [
+          3,
+          "2025-11-19T01:50:15.470463"
+        ],
+        [
+          3,
+          "2025-11-19T02:33:44.519147"
+        ],
+        [
+          3,
+          "2025-11-19T02:36:42.573816"
+        ],
+        [
+          3,
+          "2025-11-19T02:44:20.016235"
+        ],
+        [
+          3,
+          "2025-11-19T02:45:51.463337"
+        ]
+      ],
+      "created_utc": 1763499746.0,
+      "depth": 0,
+      "permalink": "/r/LocalLLaMA/comments/1p0lnlo/make_your_ai_talk_like_a_caveman_and_decrease/npk4qlt/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npk7t8i",
+      "parent_id": "t3_1p0lnlo",
+      "author": "And-Bee",
+      "text_history": [
+        [
+          "I have a script to remove all spaces and empty lines. No need for indentation when asking an llm about your code.",
+          "2025-11-18T14:22:31.381445"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:22:31.381445"
+        ],
+        [
+          1,
+          "2025-11-18T14:32:49.707122"
+        ],
+        [
+          1,
+          "2025-11-18T14:42:14.990458"
+        ],
+        [
+          1,
+          "2025-11-18T14:43:32.231763"
+        ],
+        [
+          1,
+          "2025-11-18T14:45:17.520546"
+        ],
+        [
+          1,
+          "2025-11-18T14:52:59.308772"
+        ],
+        [
+          1,
+          "2025-11-18T14:53:56.433530"
+        ],
+        [
+          3,
+          "2025-11-18T22:21:50.715283"
+        ],
+        [
+          3,
+          "2025-11-19T00:05:30.303674"
+        ],
+        [
+          3,
+          "2025-11-19T01:50:15.470463"
+        ],
+        [
+          3,
+          "2025-11-19T02:33:44.519147"
+        ],
+        [
+          3,
+          "2025-11-19T02:36:42.573816"
+        ],
+        [
+          3,
+          "2025-11-19T02:44:20.016235"
+        ],
+        [
+          3,
+          "2025-11-19T02:45:51.463337"
+        ]
+      ],
+      "created_utc": 1763500658.0,
+      "depth": 0,
+      "permalink": "/r/LocalLLaMA/comments/1p0lnlo/make_your_ai_talk_like_a_caveman_and_decrease/npk7t8i/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npkkav9",
+          "parent_id": "t1_npk7t8i",
+          "author": "TechnoByte_",
+          "text_history": [
+            [
+              "Whywouldyouremoveallspaces?",
+              "2025-11-18T14:22:31.381445"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T14:22:31.381445"
+            ],
+            [
+              1,
+              "2025-11-18T14:32:49.707122"
+            ],
+            [
+              1,
+              "2025-11-18T14:42:14.990458"
+            ],
+            [
+              1,
+              "2025-11-18T14:43:32.231763"
+            ],
+            [
+              1,
+              "2025-11-18T14:45:17.520546"
+            ],
+            [
+              1,
+              "2025-11-18T14:52:59.308772"
+            ],
+            [
+              1,
+              "2025-11-18T14:53:56.433530"
+            ],
+            [
+              3,
+              "2025-11-18T22:21:50.715283"
+            ],
+            [
+              4,
+              "2025-11-19T00:05:30.303674"
+            ],
+            [
+              4,
+              "2025-11-19T01:50:15.470463"
+            ],
+            [
+              4,
+              "2025-11-19T02:33:44.519147"
+            ],
+            [
+              4,
+              "2025-11-19T02:36:42.573816"
+            ],
+            [
+              4,
+              "2025-11-19T02:44:20.016235"
+            ],
+            [
+              4,
+              "2025-11-19T02:45:51.463337"
+            ]
+          ],
+          "created_utc": 1763504461.0,
+          "depth": 1,
+          "permalink": "/r/LocalLLaMA/comments/1p0lnlo/make_your_ai_talk_like_a_caveman_and_decrease/npkkav9/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npmju82",
+              "parent_id": "t1_npkkav9",
+              "author": "And-Bee",
+              "text_history": [
+                [
+                  "Haha sorry I just meant indentation 🤣",
+                  "2025-11-18T22:21:50.715283"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-18T22:21:50.715283"
+                ],
+                [
+                  1,
+                  "2025-11-19T00:05:30.303674"
+                ],
+                [
+                  1,
+                  "2025-11-19T01:50:15.470463"
+                ],
+                [
+                  1,
+                  "2025-11-19T02:33:44.519147"
+                ],
+                [
+                  1,
+                  "2025-11-19T02:36:42.573816"
+                ],
+                [
+                  1,
+                  "2025-11-19T02:44:20.016235"
+                ],
+                [
+                  1,
+                  "2025-11-19T02:45:51.463337"
+                ]
+              ],
+              "created_utc": 1763531490.0,
+              "depth": 2,
+              "permalink": "/r/LocalLLaMA/comments/1p0lnlo/make_your_ai_talk_like_a_caveman_and_decrease/npmju82/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "npjwtot",
+      "parent_id": "t3_1p0lnlo",
+      "author": "Lixa8",
+      "text_history": [
+        [
+          "Eh, I don't think all the words we use are used for no reason, they remove a lot of linguistic ambiguity. Surely this will impact ai performance a lot.\n\nI'll wait for benchmark results.",
+          "2025-11-18T14:22:31.381445"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-18T14:22:31.381445"
+        ],
+        [
+          4,
+          "2025-11-18T14:32:49.707122"
+        ],
+        [
+          5,
+          "2025-11-18T14:42:14.990458"
+        ],
+        [
+          4,
+          "2025-11-18T14:43:32.231763"
+        ],
+        [
+          4,
+          "2025-11-18T14:45:17.520546"
+        ],
+        [
+          4,
+          "2025-11-18T14:52:59.308772"
+        ],
+        [
+          3,
+          "2025-11-18T14:53:56.433530"
+        ],
+        [
+          4,
+          "2025-11-18T22:21:50.715283"
+        ],
+        [
+          5,
+          "2025-11-19T00:05:30.303674"
+        ],
+        [
+          5,
+          "2025-11-19T01:50:15.470463"
+        ],
+        [
+          5,
+          "2025-11-19T02:33:44.519147"
+        ],
+        [
+          4,
+          "2025-11-19T02:36:42.573816"
+        ],
+        [
+          5,
+          "2025-11-19T02:44:20.016235"
+        ],
+        [
+          6,
+          "2025-11-19T02:45:51.463337"
+        ]
+      ],
+      "created_utc": 1763497357.0,
+      "depth": 0,
+      "permalink": "/r/LocalLLaMA/comments/1p0lnlo/make_your_ai_talk_like_a_caveman_and_decrease/npjwtot/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npk73wl",
+          "parent_id": "t1_npjwtot",
+          "author": "Abject-Kitchen3198",
+          "text_history": [
+            [
+              "Will not. Will be fast.",
+              "2025-11-18T14:22:31.381445"
+            ]
+          ],
+          "score_history": [
+            [
+              4,
+              "2025-11-18T14:22:31.381445"
+            ],
+            [
+              3,
+              "2025-11-18T14:32:49.707122"
+            ],
+            [
+              3,
+              "2025-11-18T14:42:14.990458"
+            ],
+            [
+              3,
+              "2025-11-18T14:43:32.231763"
+            ],
+            [
+              4,
+              "2025-11-18T14:45:17.520546"
+            ],
+            [
+              4,
+              "2025-11-18T14:52:59.308772"
+            ],
+            [
+              3,
+              "2025-11-18T14:53:56.433530"
+            ],
+            [
+              8,
+              "2025-11-18T22:21:50.715283"
+            ],
+            [
+              6,
+              "2025-11-19T00:05:30.303674"
+            ],
+            [
+              7,
+              "2025-11-19T01:50:15.470463"
+            ],
+            [
+              8,
+              "2025-11-19T02:33:44.519147"
+            ],
+            [
+              7,
+              "2025-11-19T02:36:42.573816"
+            ],
+            [
+              7,
+              "2025-11-19T02:44:20.016235"
+            ],
+            [
+              5,
+              "2025-11-19T02:45:51.463337"
+            ]
+          ],
+          "created_utc": 1763500447.0,
+          "depth": 1,
+          "permalink": "/r/LocalLLaMA/comments/1p0lnlo/make_your_ai_talk_like_a_caveman_and_decrease/npk73wl/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        },
+        {
+          "id": "npm8zzx",
+          "parent_id": "t1_npjwtot",
+          "author": "KallistiTMP",
+          "text_history": [
+            [
+              "Also might interfere with information passing through the residual stream. Like how LLM's cram nearly a full sentence summary into each period for easy later reference.",
+              "2025-11-18T22:21:50.715283"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T22:21:50.715283"
+            ],
+            [
+              1,
+              "2025-11-19T00:05:30.303674"
+            ],
+            [
+              1,
+              "2025-11-19T01:50:15.470463"
+            ],
+            [
+              1,
+              "2025-11-19T02:33:44.519147"
+            ],
+            [
+              1,
+              "2025-11-19T02:36:42.573816"
+            ],
+            [
+              1,
+              "2025-11-19T02:44:20.016235"
+            ],
+            [
+              1,
+              "2025-11-19T02:45:51.463337"
+            ]
+          ],
+          "created_utc": 1763526414.0,
+          "depth": 1,
+          "permalink": "/r/LocalLLaMA/comments/1p0lnlo/make_your_ai_talk_like_a_caveman_and_decrease/npm8zzx/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npk8pby",
+      "parent_id": "t3_1p0lnlo",
+      "author": "OkSociety311",
+      "text_history": [
+        [
+          "good post me like",
+          "2025-11-18T14:22:31.381445"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:22:31.381445"
+        ],
+        [
+          1,
+          "2025-11-18T14:32:49.707122"
+        ],
+        [
+          1,
+          "2025-11-18T14:42:14.990458"
+        ],
+        [
+          1,
+          "2025-11-18T14:43:32.231763"
+        ],
+        [
+          1,
+          "2025-11-18T14:45:17.520546"
+        ],
+        [
+          1,
+          "2025-11-18T14:52:59.308772"
+        ],
+        [
+          1,
+          "2025-11-18T14:53:56.433530"
+        ],
+        [
+          2,
+          "2025-11-18T22:21:50.715283"
+        ],
+        [
+          2,
+          "2025-11-19T00:05:30.303674"
+        ],
+        [
+          2,
+          "2025-11-19T01:50:15.470463"
+        ],
+        [
+          2,
+          "2025-11-19T02:33:44.519147"
+        ],
+        [
+          2,
+          "2025-11-19T02:36:42.573816"
+        ],
+        [
+          2,
+          "2025-11-19T02:44:20.016235"
+        ],
+        [
+          2,
+          "2025-11-19T02:45:51.463337"
+        ]
+      ],
+      "created_utc": 1763500921.0,
+      "depth": 0,
+      "permalink": "/r/LocalLLaMA/comments/1p0lnlo/make_your_ai_talk_like_a_caveman_and_decrease/npk8pby/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npkdpqa",
+      "parent_id": "t3_1p0lnlo",
+      "author": "Dr_Ambiorix",
+      "text_history": [
+        [
+          "I always wondered if talking in Simplified Chinese would require less tokens to say the same thing or not.\n\nBecause most English words are made up of more than one token. And grammar in Mandarin Chinese is really basic. Ofc, there are some words that are made up with multiple characters too so IDK.\n\nJust always wondered that.",
+          "2025-11-18T14:22:31.381445"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:22:31.381445"
+        ],
+        [
+          1,
+          "2025-11-18T14:32:49.707122"
+        ],
+        [
+          1,
+          "2025-11-18T14:42:14.990458"
+        ],
+        [
+          1,
+          "2025-11-18T14:43:32.231763"
+        ],
+        [
+          1,
+          "2025-11-18T14:45:17.520546"
+        ],
+        [
+          1,
+          "2025-11-18T14:52:59.308772"
+        ],
+        [
+          1,
+          "2025-11-18T14:53:56.433530"
+        ],
+        [
+          2,
+          "2025-11-18T22:21:50.715283"
+        ],
+        [
+          2,
+          "2025-11-19T00:05:30.303674"
+        ],
+        [
+          2,
+          "2025-11-19T01:50:15.470463"
+        ],
+        [
+          2,
+          "2025-11-19T02:33:44.519147"
+        ],
+        [
+          2,
+          "2025-11-19T02:36:42.573816"
+        ],
+        [
+          2,
+          "2025-11-19T02:44:20.016235"
+        ],
+        [
+          2,
+          "2025-11-19T02:45:51.463337"
+        ]
+      ],
+      "created_utc": 1763502427.0,
+      "depth": 0,
+      "permalink": "/r/LocalLLaMA/comments/1p0lnlo/make_your_ai_talk_like_a_caveman_and_decrease/npkdpqa/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npl43ym",
+          "parent_id": "t1_npkdpqa",
+          "author": "Lcsq",
+          "text_history": [
+            [
+              "This comment was 66 tokens in english and 68 tokens when translated with google translate into simplified chinese. You'd be surprised to see how many whole words are in the tokenizer encoding dictionary unless there's a common prefix or suffix pattern. Temperature, quickly, electrolyte, protocols, breakdown, etc all become a single token when you surround them with whitespace. You see it getting broken down into multiple tokens only when whitespace is absent \nhttps://platform.openai.com/tokenizer",
+              "2025-11-18T22:21:50.715283"
+            ]
+          ],
+          "score_history": [
+            [
+              2,
+              "2025-11-18T22:21:50.715283"
+            ],
+            [
+              3,
+              "2025-11-19T00:05:30.303674"
+            ],
+            [
+              3,
+              "2025-11-19T01:50:15.470463"
+            ],
+            [
+              3,
+              "2025-11-19T02:33:44.519147"
+            ],
+            [
+              3,
+              "2025-11-19T02:36:42.573816"
+            ],
+            [
+              3,
+              "2025-11-19T02:44:20.016235"
+            ],
+            [
+              3,
+              "2025-11-19T02:45:51.463337"
+            ]
+          ],
+          "created_utc": 1763511287.0,
+          "depth": 1,
+          "permalink": "/r/LocalLLaMA/comments/1p0lnlo/make_your_ai_talk_like_a_caveman_and_decrease/npl43ym/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npkiaxq",
+      "parent_id": "t3_1p0lnlo",
+      "author": "Don_Moahskarton",
+      "text_history": [
+        [
+          "It's kind of the inverse of thinking mode. I wonder if it makes the AI measurably dumber",
+          "2025-11-18T14:22:31.381445"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:22:31.381445"
+        ],
+        [
+          1,
+          "2025-11-18T14:32:49.707122"
+        ],
+        [
+          1,
+          "2025-11-18T14:42:14.990458"
+        ],
+        [
+          1,
+          "2025-11-18T14:43:32.231763"
+        ],
+        [
+          1,
+          "2025-11-18T14:45:17.520546"
+        ],
+        [
+          1,
+          "2025-11-18T14:52:59.308772"
+        ],
+        [
+          1,
+          "2025-11-18T14:53:56.433530"
+        ],
+        [
+          1,
+          "2025-11-18T22:21:50.715283"
+        ],
+        [
+          2,
+          "2025-11-19T00:05:30.303674"
+        ],
+        [
+          2,
+          "2025-11-19T01:50:15.470463"
+        ],
+        [
+          2,
+          "2025-11-19T02:33:44.519147"
+        ],
+        [
+          2,
+          "2025-11-19T02:36:42.573816"
+        ],
+        [
+          2,
+          "2025-11-19T02:44:20.016235"
+        ],
+        [
+          2,
+          "2025-11-19T02:45:51.463337"
+        ]
+      ],
+      "created_utc": 1763503825.0,
+      "depth": 0,
+      "permalink": "/r/LocalLLaMA/comments/1p0lnlo/make_your_ai_talk_like_a_caveman_and_decrease/npkiaxq/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npkikdj",
+      "parent_id": "t3_1p0lnlo",
+      "author": "LocoMod",
+      "text_history": [
+        [
+          "This isn’t lossless. The idea has been around for a long time and abandoned because accuracy takes a hit when you actually measure it.",
+          "2025-11-18T14:22:31.381445"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:22:31.381445"
+        ],
+        [
+          1,
+          "2025-11-18T14:32:49.707122"
+        ],
+        [
+          1,
+          "2025-11-18T14:42:14.990458"
+        ],
+        [
+          1,
+          "2025-11-18T14:43:32.231763"
+        ],
+        [
+          1,
+          "2025-11-18T14:45:17.520546"
+        ],
+        [
+          1,
+          "2025-11-18T14:52:59.308772"
+        ],
+        [
+          1,
+          "2025-11-18T14:53:56.433530"
+        ],
+        [
+          1,
+          "2025-11-18T22:21:50.715283"
+        ],
+        [
+          2,
+          "2025-11-19T00:05:30.303674"
+        ],
+        [
+          2,
+          "2025-11-19T01:50:15.470463"
+        ],
+        [
+          2,
+          "2025-11-19T02:33:44.519147"
+        ],
+        [
+          2,
+          "2025-11-19T02:36:42.573816"
+        ],
+        [
+          2,
+          "2025-11-19T02:44:20.016235"
+        ],
+        [
+          2,
+          "2025-11-19T02:45:51.463337"
+        ]
+      ],
+      "created_utc": 1763503907.0,
+      "depth": 0,
+      "permalink": "/r/LocalLLaMA/comments/1p0lnlo/make_your_ai_talk_like_a_caveman_and_decrease/npkikdj/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nply9mc",
+      "parent_id": "t3_1p0lnlo",
+      "author": "NutellaBananaBread",
+      "text_history": [
+        [
+          "\\*1500 words asking for relationship advice\\*\n\nAI: Dump her",
+          "2025-11-18T22:21:50.715283"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-18T22:21:50.715283"
+        ],
+        [
+          2,
+          "2025-11-19T00:05:30.303674"
+        ],
+        [
+          2,
+          "2025-11-19T01:50:15.470463"
+        ],
+        [
+          2,
+          "2025-11-19T02:33:44.519147"
+        ],
+        [
+          2,
+          "2025-11-19T02:36:42.573816"
+        ],
+        [
+          2,
+          "2025-11-19T02:44:20.016235"
+        ],
+        [
+          2,
+          "2025-11-19T02:45:51.463337"
+        ]
+      ],
+      "created_utc": 1763522073.0,
+      "depth": 0,
+      "permalink": "/r/LocalLLaMA/comments/1p0lnlo/make_your_ai_talk_like_a_caveman_and_decrease/nply9mc/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npjxbz4",
+      "parent_id": "t3_1p0lnlo",
+      "author": "Agitated-Farmer-4082",
+      "text_history": [
+        [
+          "would it be easier to ask instructions in languages that use less characters for sentences like arabic or chinease?",
+          "2025-11-18T14:22:31.381445"
+        ]
+      ],
+      "score_history": [
+        [
+          3,
+          "2025-11-18T14:22:31.381445"
+        ],
+        [
+          4,
+          "2025-11-18T14:32:49.707122"
+        ],
+        [
+          3,
+          "2025-11-18T14:42:14.990458"
+        ],
+        [
+          2,
+          "2025-11-18T14:43:32.231763"
+        ],
+        [
+          4,
+          "2025-11-18T14:45:17.520546"
+        ],
+        [
+          2,
+          "2025-11-18T14:52:59.308772"
+        ],
+        [
+          3,
+          "2025-11-18T14:53:56.433530"
+        ],
+        [
+          3,
+          "2025-11-18T22:21:50.715283"
+        ],
+        [
+          4,
+          "2025-11-19T00:05:30.303674"
+        ],
+        [
+          3,
+          "2025-11-19T01:50:15.470463"
+        ],
+        [
+          2,
+          "2025-11-19T02:33:44.519147"
+        ],
+        [
+          3,
+          "2025-11-19T02:36:42.573816"
+        ],
+        [
+          2,
+          "2025-11-19T02:44:20.016235"
+        ],
+        [
+          3,
+          "2025-11-19T02:45:51.463337"
+        ]
+      ],
+      "created_utc": 1763497513.0,
+      "depth": 0,
+      "permalink": "/r/LocalLLaMA/comments/1p0lnlo/make_your_ai_talk_like_a_caveman_and_decrease/npjxbz4/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npk56pk",
+      "parent_id": "t3_1p0lnlo",
+      "author": "epSos-DE",
+      "text_history": [
+        [
+          "The Solution: ***Adaptive Hierarchical Indexing*** (Auto-Sharding)\n\nupgrade the LSHIndex to become Recursive. It will automatically detect when a specific area of the knowledge graph (a \"topic\") becomes too dense. When a bucket exceeds a certain size (e.g., 50 items), it will fracture that bucket into a Localized Dynamic Sub-Index with its own set of higher-resolution hyperplanes.\n\nThis creates a fractal search structure:\n\n\\+ Global Index: Quickly routes to general topics (e.g., \"Coding\").\n\n\\+ Local Index: Routes to specific sub-topics (e.g., \"JavaScript\").\n\n\\+ Micro Index: Routes to granular details (e.g., \"Promises\").\n\n\n\n**This ensures that no matter how big the brain gets, lookup time remains lightning fast.**",
+          "2025-11-18T14:22:31.381445"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:22:31.381445"
+        ],
+        [
+          1,
+          "2025-11-18T14:32:49.707122"
+        ],
+        [
+          1,
+          "2025-11-18T14:42:14.990458"
+        ],
+        [
+          1,
+          "2025-11-18T14:43:32.231763"
+        ],
+        [
+          1,
+          "2025-11-18T14:45:17.520546"
+        ],
+        [
+          1,
+          "2025-11-18T14:52:59.308772"
+        ],
+        [
+          1,
+          "2025-11-18T14:53:56.433530"
+        ],
+        [
+          1,
+          "2025-11-18T22:21:50.715283"
+        ],
+        [
+          1,
+          "2025-11-19T00:05:30.303674"
+        ],
+        [
+          1,
+          "2025-11-19T01:50:15.470463"
+        ],
+        [
+          1,
+          "2025-11-19T02:33:44.519147"
+        ],
+        [
+          1,
+          "2025-11-19T02:36:42.573816"
+        ],
+        [
+          1,
+          "2025-11-19T02:44:20.016235"
+        ],
+        [
+          1,
+          "2025-11-19T02:45:51.463337"
+        ]
+      ],
+      "created_utc": 1763499880.0,
+      "depth": 0,
+      "permalink": "/r/LocalLLaMA/comments/1p0lnlo/make_your_ai_talk_like_a_caveman_and_decrease/npk56pk/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npkqqqh",
+      "parent_id": "t3_1p0lnlo",
+      "author": "Abject-Kitchen3198",
+      "text_history": [
+        [
+          "What about Yoda speak? Did someone made a comparative research? It does not seem it will save tokens, but what about accuracy?",
+          "2025-11-18T22:21:50.715283"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T22:21:50.715283"
+        ],
+        [
+          1,
+          "2025-11-19T00:05:30.303674"
+        ],
+        [
+          1,
+          "2025-11-19T01:50:15.470463"
+        ],
+        [
+          1,
+          "2025-11-19T02:33:44.519147"
+        ],
+        [
+          1,
+          "2025-11-19T02:36:42.573816"
+        ],
+        [
+          1,
+          "2025-11-19T02:44:20.016235"
+        ],
+        [
+          1,
+          "2025-11-19T02:45:51.463337"
+        ]
+      ],
+      "created_utc": 1763506584.0,
+      "depth": 0,
+      "permalink": "/r/LocalLLaMA/comments/1p0lnlo/make_your_ai_talk_like_a_caveman_and_decrease/npkqqqh/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npks3zk",
+      "parent_id": "t3_1p0lnlo",
+      "author": "iamzooook",
+      "text_history": [
+        [
+          "or maybe just add at end \"less words, keep context\"",
+          "2025-11-18T22:21:50.715283"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T22:21:50.715283"
+        ],
+        [
+          1,
+          "2025-11-19T00:05:30.303674"
+        ],
+        [
+          1,
+          "2025-11-19T01:50:15.470463"
+        ],
+        [
+          1,
+          "2025-11-19T02:33:44.519147"
+        ],
+        [
+          1,
+          "2025-11-19T02:36:42.573816"
+        ],
+        [
+          1,
+          "2025-11-19T02:44:20.016235"
+        ],
+        [
+          1,
+          "2025-11-19T02:45:51.463337"
+        ]
+      ],
+      "created_utc": 1763507051.0,
+      "depth": 0,
+      "permalink": "/r/LocalLLaMA/comments/1p0lnlo/make_your_ai_talk_like_a_caveman_and_decrease/npks3zk/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npkuap8",
+      "parent_id": "t3_1p0lnlo",
+      "author": "HMikeeU",
+      "text_history": [
+        [
+          "I wonder if this may even improve benchmarks? As Anthropic found that sometimes models hallucinate because they try to adhere to grammar rules instead of facts",
+          "2025-11-18T22:21:50.715283"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T22:21:50.715283"
+        ],
+        [
+          1,
+          "2025-11-19T00:05:30.303674"
+        ],
+        [
+          1,
+          "2025-11-19T01:50:15.470463"
+        ],
+        [
+          1,
+          "2025-11-19T02:33:44.519147"
+        ],
+        [
+          1,
+          "2025-11-19T02:36:42.573816"
+        ],
+        [
+          1,
+          "2025-11-19T02:44:20.016235"
+        ],
+        [
+          1,
+          "2025-11-19T02:45:51.463337"
+        ]
+      ],
+      "created_utc": 1763507810.0,
+      "depth": 0,
+      "permalink": "/r/LocalLLaMA/comments/1p0lnlo/make_your_ai_talk_like_a_caveman_and_decrease/npkuap8/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npl7ax2",
+      "parent_id": "t3_1p0lnlo",
+      "author": "broknbottle",
+      "text_history": [
+        [
+          "Aoccdrnig to rscheearch at an Elingsh uinervtisy, it deosn't mttaer in waht\noredr the ltteers in a wrod are, the olny iprmoetnt tihng is taht the frist\nand lsat ltteer are in the rghit pclae. The rset can be a toatl mses  and\nyou can sitll raed it wouthit a porbelm. Tihs is bcuseae we do not raed\nervey lteter by it slef but the wrod as a wlohe and the biran fguiers it\nout aynawy.",
+          "2025-11-18T22:21:50.715283"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T22:21:50.715283"
+        ],
+        [
+          1,
+          "2025-11-19T00:05:30.303674"
+        ],
+        [
+          1,
+          "2025-11-19T01:50:15.470463"
+        ],
+        [
+          1,
+          "2025-11-19T02:33:44.519147"
+        ],
+        [
+          1,
+          "2025-11-19T02:36:42.573816"
+        ],
+        [
+          1,
+          "2025-11-19T02:44:20.016235"
+        ],
+        [
+          1,
+          "2025-11-19T02:45:51.463337"
+        ]
+      ],
+      "created_utc": 1763512407.0,
+      "depth": 0,
+      "permalink": "/r/LocalLLaMA/comments/1p0lnlo/make_your_ai_talk_like_a_caveman_and_decrease/npl7ax2/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npl92kh",
+      "parent_id": "t3_1p0lnlo",
+      "author": "drumttocs8",
+      "text_history": [
+        [
+          "Me like new English with short word",
+          "2025-11-18T22:21:50.715283"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T22:21:50.715283"
+        ],
+        [
+          1,
+          "2025-11-19T00:05:30.303674"
+        ],
+        [
+          1,
+          "2025-11-19T01:50:15.470463"
+        ],
+        [
+          1,
+          "2025-11-19T02:33:44.519147"
+        ],
+        [
+          1,
+          "2025-11-19T02:36:42.573816"
+        ],
+        [
+          1,
+          "2025-11-19T02:44:20.016235"
+        ],
+        [
+          1,
+          "2025-11-19T02:45:51.463337"
+        ]
+      ],
+      "created_utc": 1763513016.0,
+      "depth": 0,
+      "permalink": "/r/LocalLLaMA/comments/1p0lnlo/make_your_ai_talk_like_a_caveman_and_decrease/npl92kh/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npl9sx5",
+      "parent_id": "t3_1p0lnlo",
+      "author": "aeroumbria",
+      "text_history": [
+        [
+          "I can sense a gradual descent back to the native habitat of deep learning models: continuous dense vector embeddings.",
+          "2025-11-18T22:21:50.715283"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T22:21:50.715283"
+        ],
+        [
+          1,
+          "2025-11-19T00:05:30.303674"
+        ],
+        [
+          1,
+          "2025-11-19T01:50:15.470463"
+        ],
+        [
+          1,
+          "2025-11-19T02:33:44.519147"
+        ],
+        [
+          1,
+          "2025-11-19T02:36:42.573816"
+        ],
+        [
+          1,
+          "2025-11-19T02:44:20.016235"
+        ],
+        [
+          1,
+          "2025-11-19T02:45:51.463337"
+        ]
+      ],
+      "created_utc": 1763513272.0,
+      "depth": 0,
+      "permalink": "/r/LocalLLaMA/comments/1p0lnlo/make_your_ai_talk_like_a_caveman_and_decrease/npl9sx5/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nplqkbh",
+      "parent_id": "t3_1p0lnlo",
+      "author": "op4",
+      "text_history": [
+        [
+          "I approve of this idea and think that a significant reduction in token usage is a win for everyone!\n\n(edit: cml \"or caveman language\" translation - Me like. Less token good. All win.)",
+          "2025-11-18T22:21:50.715283"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T22:21:50.715283"
+        ],
+        [
+          1,
+          "2025-11-19T00:05:30.303674"
+        ],
+        [
+          1,
+          "2025-11-19T01:50:15.470463"
+        ],
+        [
+          1,
+          "2025-11-19T02:33:44.519147"
+        ],
+        [
+          1,
+          "2025-11-19T02:36:42.573816"
+        ],
+        [
+          1,
+          "2025-11-19T02:44:20.016235"
+        ],
+        [
+          1,
+          "2025-11-19T02:45:51.463337"
+        ]
+      ],
+      "created_utc": 1763519294.0,
+      "depth": 0,
+      "permalink": "/r/LocalLLaMA/comments/1p0lnlo/make_your_ai_talk_like_a_caveman_and_decrease/nplqkbh/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nplvjhs",
+      "parent_id": "t3_1p0lnlo",
+      "author": "G3nghisKang",
+      "text_history": [
+        [
+          "Me think OP genius",
+          "2025-11-18T22:21:50.715283"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T22:21:50.715283"
+        ],
+        [
+          1,
+          "2025-11-19T00:05:30.303674"
+        ],
+        [
+          1,
+          "2025-11-19T01:50:15.470463"
+        ],
+        [
+          1,
+          "2025-11-19T02:33:44.519147"
+        ],
+        [
+          1,
+          "2025-11-19T02:36:42.573816"
+        ],
+        [
+          1,
+          "2025-11-19T02:44:20.016235"
+        ],
+        [
+          1,
+          "2025-11-19T02:45:51.463337"
+        ]
+      ],
+      "created_utc": 1763521081.0,
+      "depth": 0,
+      "permalink": "/r/LocalLLaMA/comments/1p0lnlo/make_your_ai_talk_like_a_caveman_and_decrease/nplvjhs/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nplwfpi",
+      "parent_id": "t3_1p0lnlo",
+      "author": "Emport1",
+      "text_history": [
+        [
+          "Most llm architectures are better at optimizing your words for itself than you are, it doesn't actually read all your useless filler words and spent tokens on them if it doesn't have to",
+          "2025-11-18T22:21:50.715283"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T22:21:50.715283"
+        ],
+        [
+          1,
+          "2025-11-19T00:05:30.303674"
+        ],
+        [
+          1,
+          "2025-11-19T01:50:15.470463"
+        ],
+        [
+          1,
+          "2025-11-19T02:33:44.519147"
+        ],
+        [
+          1,
+          "2025-11-19T02:36:42.573816"
+        ],
+        [
+          1,
+          "2025-11-19T02:44:20.016235"
+        ],
+        [
+          1,
+          "2025-11-19T02:45:51.463337"
+        ]
+      ],
+      "created_utc": 1763521410.0,
+      "depth": 0,
+      "permalink": "/r/LocalLLaMA/comments/1p0lnlo/make_your_ai_talk_like_a_caveman_and_decrease/nplwfpi/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npm1yvu",
+      "parent_id": "t3_1p0lnlo",
+      "author": "Normal-Ad-7114",
+      "text_history": [
+        [
+          "Improvement suggestion, more punctuation usage: `·`, `-&gt;`, `@`, `\\n`, `:`\n\n\nExample from your github: \n\n\n&gt;Authenticate API. Include API key in Authorization header every request. Prefix API key with \"Bearer\" space. Authentication fail, server return 401 Unauthorized status code, error message explain fail...\n\n\nNew:\n\n\n&gt;Authenticate API:\n\n\n&gt;· Include API key in Authorization header every request\n\n&gt;· Prefix API key with \"Bearer\" space\n\n&gt;· Authentication fail -&gt; server return 401 Unauthorized status code, error message explain fail...\n\n\nStill compressed, but easier to read for humans",
+          "2025-11-18T22:21:50.715283"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T22:21:50.715283"
+        ],
+        [
+          1,
+          "2025-11-19T00:05:30.303674"
+        ],
+        [
+          1,
+          "2025-11-19T01:50:15.470463"
+        ],
+        [
+          1,
+          "2025-11-19T02:33:44.519147"
+        ],
+        [
+          1,
+          "2025-11-19T02:36:42.573816"
+        ],
+        [
+          1,
+          "2025-11-19T02:44:20.016235"
+        ],
+        [
+          1,
+          "2025-11-19T02:45:51.463337"
+        ]
+      ],
+      "created_utc": 1763523508.0,
+      "depth": 0,
+      "permalink": "/r/LocalLLaMA/comments/1p0lnlo/make_your_ai_talk_like_a_caveman_and_decrease/npm1yvu/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npm3ku9",
+      "parent_id": "t3_1p0lnlo",
+      "author": "venpuravi",
+      "text_history": [
+        [
+          "Yaba daba dooo...",
+          "2025-11-18T22:21:50.715283"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T22:21:50.715283"
+        ],
+        [
+          1,
+          "2025-11-19T00:05:30.303674"
+        ],
+        [
+          1,
+          "2025-11-19T01:50:15.470463"
+        ],
+        [
+          1,
+          "2025-11-19T02:33:44.519147"
+        ],
+        [
+          1,
+          "2025-11-19T02:36:42.573816"
+        ],
+        [
+          1,
+          "2025-11-19T02:44:20.016235"
+        ],
+        [
+          1,
+          "2025-11-19T02:45:51.463337"
+        ]
+      ],
+      "created_utc": 1763524144.0,
+      "depth": 0,
+      "permalink": "/r/LocalLLaMA/comments/1p0lnlo/make_your_ai_talk_like_a_caveman_and_decrease/npm3ku9/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npm448i",
+      "parent_id": "t3_1p0lnlo",
+      "author": "gooeydumpling",
+      "text_history": [
+        [
+          "Compress it further by making it talk in emojis",
+          "2025-11-18T22:21:50.715283"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T22:21:50.715283"
+        ],
+        [
+          1,
+          "2025-11-19T00:05:30.303674"
+        ],
+        [
+          1,
+          "2025-11-19T01:50:15.470463"
+        ],
+        [
+          1,
+          "2025-11-19T02:33:44.519147"
+        ],
+        [
+          1,
+          "2025-11-19T02:36:42.573816"
+        ],
+        [
+          1,
+          "2025-11-19T02:44:20.016235"
+        ],
+        [
+          1,
+          "2025-11-19T02:45:51.463337"
+        ]
+      ],
+      "created_utc": 1763524356.0,
+      "depth": 0,
+      "permalink": "/r/LocalLLaMA/comments/1p0lnlo/make_your_ai_talk_like_a_caveman_and_decrease/npm448i/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npmaong",
+      "parent_id": "t3_1p0lnlo",
+      "author": "Dramatic-Lie1314",
+      "text_history": [
+        [
+          "Good word. I did same.",
+          "2025-11-18T22:21:50.715283"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T22:21:50.715283"
+        ],
+        [
+          1,
+          "2025-11-19T00:05:30.303674"
+        ],
+        [
+          1,
+          "2025-11-19T01:50:15.470463"
+        ],
+        [
+          1,
+          "2025-11-19T02:33:44.519147"
+        ],
+        [
+          1,
+          "2025-11-19T02:36:42.573816"
+        ],
+        [
+          1,
+          "2025-11-19T02:44:20.016235"
+        ],
+        [
+          1,
+          "2025-11-19T02:45:51.463337"
+        ]
+      ],
+      "created_utc": 1763527165.0,
+      "depth": 0,
+      "permalink": "/r/LocalLLaMA/comments/1p0lnlo/make_your_ai_talk_like_a_caveman_and_decrease/npmaong/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npmebs9",
+      "parent_id": "t3_1p0lnlo",
+      "author": "TedDallas",
+      "text_history": [
+        [
+          "Ugh. Partition table on fiscal moons. Now eat lizard.",
+          "2025-11-18T22:21:50.715283"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T22:21:50.715283"
+        ],
+        [
+          1,
+          "2025-11-19T00:05:30.303674"
+        ],
+        [
+          1,
+          "2025-11-19T01:50:15.470463"
+        ],
+        [
+          1,
+          "2025-11-19T02:33:44.519147"
+        ],
+        [
+          1,
+          "2025-11-19T02:36:42.573816"
+        ],
+        [
+          1,
+          "2025-11-19T02:44:20.016235"
+        ],
+        [
+          1,
+          "2025-11-19T02:45:51.463337"
+        ]
+      ],
+      "created_utc": 1763528816.0,
+      "depth": 0,
+      "permalink": "/r/LocalLLaMA/comments/1p0lnlo/make_your_ai_talk_like_a_caveman_and_decrease/npmebs9/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npmhra7",
+      "parent_id": "t3_1p0lnlo",
+      "author": "OutsideSpirited2198",
+      "text_history": [
+        [
+          "i remember doing this with early chatgpt and it was really useful. now we just get \"Great question!—It really gets to the heart of\"",
+          "2025-11-18T22:21:50.715283"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T22:21:50.715283"
+        ],
+        [
+          1,
+          "2025-11-19T00:05:30.303674"
+        ],
+        [
+          1,
+          "2025-11-19T01:50:15.470463"
+        ],
+        [
+          1,
+          "2025-11-19T02:33:44.519147"
+        ],
+        [
+          1,
+          "2025-11-19T02:36:42.573816"
+        ],
+        [
+          1,
+          "2025-11-19T02:44:20.016235"
+        ],
+        [
+          1,
+          "2025-11-19T02:45:51.463337"
+        ]
+      ],
+      "created_utc": 1763530452.0,
+      "depth": 0,
+      "permalink": "/r/LocalLLaMA/comments/1p0lnlo/make_your_ai_talk_like_a_caveman_and_decrease/npmhra7/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npmiewf",
+      "parent_id": "t3_1p0lnlo",
+      "author": "IrisColt",
+      "text_history": [
+        [
+          "The bag of words strikes back!",
+          "2025-11-18T22:21:50.715283"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T22:21:50.715283"
+        ],
+        [
+          1,
+          "2025-11-19T00:05:30.303674"
+        ],
+        [
+          1,
+          "2025-11-19T01:50:15.470463"
+        ],
+        [
+          1,
+          "2025-11-19T02:33:44.519147"
+        ],
+        [
+          1,
+          "2025-11-19T02:36:42.573816"
+        ],
+        [
+          1,
+          "2025-11-19T02:44:20.016235"
+        ],
+        [
+          1,
+          "2025-11-19T02:45:51.463337"
+        ]
+      ],
+      "created_utc": 1763530777.0,
+      "depth": 0,
+      "permalink": "/r/LocalLLaMA/comments/1p0lnlo/make_your_ai_talk_like_a_caveman_and_decrease/npmiewf/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npmnxpt",
+      "parent_id": "t3_1p0lnlo",
+      "author": "Impossible-Power6989",
+      "text_history": [
+        [
+          "Me like. You smrt. Me use.",
+          "2025-11-19T00:05:30.303674"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T00:05:30.303674"
+        ],
+        [
+          1,
+          "2025-11-19T01:50:15.470463"
+        ],
+        [
+          1,
+          "2025-11-19T02:33:44.519147"
+        ],
+        [
+          1,
+          "2025-11-19T02:36:42.573816"
+        ],
+        [
+          1,
+          "2025-11-19T02:44:20.016235"
+        ],
+        [
+          1,
+          "2025-11-19T02:45:51.463337"
+        ]
+      ],
+      "created_utc": 1763533661.0,
+      "depth": 0,
+      "permalink": "/r/LocalLLaMA/comments/1p0lnlo/make_your_ai_talk_like_a_caveman_and_decrease/npmnxpt/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npmrmc4",
+      "parent_id": "t3_1p0lnlo",
+      "author": "lulzbot",
+      "text_history": [
+        [
+          "Double-plus-good",
+          "2025-11-19T00:05:30.303674"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T00:05:30.303674"
+        ],
+        [
+          1,
+          "2025-11-19T01:50:15.470463"
+        ],
+        [
+          1,
+          "2025-11-19T02:33:44.519147"
+        ],
+        [
+          1,
+          "2025-11-19T02:36:42.573816"
+        ],
+        [
+          1,
+          "2025-11-19T02:44:20.016235"
+        ],
+        [
+          1,
+          "2025-11-19T02:45:51.463337"
+        ]
+      ],
+      "created_utc": 1763535718.0,
+      "depth": 0,
+      "permalink": "/r/LocalLLaMA/comments/1p0lnlo/make_your_ai_talk_like_a_caveman_and_decrease/npmrmc4/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npmsgkd",
+      "parent_id": "t3_1p0lnlo",
+      "author": "ConstantinGB",
+      "text_history": [
+        [
+          "https://i.redd.it/6wk4xskjy52g1.gif",
+          "2025-11-19T00:05:30.303674"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T00:05:30.303674"
+        ],
+        [
+          1,
+          "2025-11-19T01:50:15.470463"
+        ],
+        [
+          1,
+          "2025-11-19T02:33:44.519147"
+        ],
+        [
+          1,
+          "2025-11-19T02:36:42.573816"
+        ],
+        [
+          1,
+          "2025-11-19T02:44:20.016235"
+        ],
+        [
+          1,
+          "2025-11-19T02:45:51.463337"
+        ]
+      ],
+      "created_utc": 1763536198.0,
+      "depth": 0,
+      "permalink": "/r/LocalLLaMA/comments/1p0lnlo/make_your_ai_talk_like_a_caveman_and_decrease/npmsgkd/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npmszbf",
+      "parent_id": "t3_1p0lnlo",
+      "author": "ready_to_fuck_yeahh",
+      "text_history": [
+        [
+          "Wow, human tendency to overcomplicate things, what can be achieved with just mere prompt. You wrote an entire code for it.\n\nYou made cave code, but didn't think like caveman to use just prompt.\n\nBefore you say anything, I have my notes made using prompt only with nearly (60-70% reduction).",
+          "2025-11-19T00:05:30.303674"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T00:05:30.303674"
+        ],
+        [
+          1,
+          "2025-11-19T01:50:15.470463"
+        ],
+        [
+          1,
+          "2025-11-19T02:33:44.519147"
+        ],
+        [
+          1,
+          "2025-11-19T02:36:42.573816"
+        ],
+        [
+          1,
+          "2025-11-19T02:44:20.016235"
+        ],
+        [
+          1,
+          "2025-11-19T02:45:51.463337"
+        ]
+      ],
+      "created_utc": 1763536499.0,
+      "depth": 0,
+      "permalink": "/r/LocalLLaMA/comments/1p0lnlo/make_your_ai_talk_like_a_caveman_and_decrease/npmszbf/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npnbq3a",
+          "parent_id": "t1_npmszbf",
+          "author": "Impossible-Power6989",
+          "text_history": [
+            [
+              "....except what you did was  **summarisation**, not **prompt-token compression**.\n\nA prompt can’t shrink:\n\n* system pre-prompts\n* chat history\n* time to first token\n\nCaveman compresses **before** the model sees the text. Your method works **after**.\n\nI know because I have the same \"cut the shit, gimme the answers\" system prompts and caveman (so far) seems to decrease wall-clock time by about 40-50%,",
+              "2025-11-19T02:33:44.519147"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-19T02:33:44.519147"
+            ],
+            [
+              1,
+              "2025-11-19T02:36:42.573816"
+            ],
+            [
+              1,
+              "2025-11-19T02:44:20.016235"
+            ],
+            [
+              1,
+              "2025-11-19T02:45:51.463337"
+            ]
+          ],
+          "created_utc": 1763548055.0,
+          "depth": 1,
+          "permalink": "/r/LocalLLaMA/comments/1p0lnlo/make_your_ai_talk_like_a_caveman_and_decrease/npnbq3a/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npmymle",
+      "parent_id": "t3_1p0lnlo",
+      "author": "s2k4ever",
+      "text_history": [
+        [
+          "a bug came back from several moons ago.. begins an RCA",
+          "2025-11-19T01:50:15.470463"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T01:50:15.470463"
+        ],
+        [
+          1,
+          "2025-11-19T02:33:44.519147"
+        ],
+        [
+          1,
+          "2025-11-19T02:36:42.573816"
+        ],
+        [
+          1,
+          "2025-11-19T02:44:20.016235"
+        ],
+        [
+          1,
+          "2025-11-19T02:45:51.463337"
+        ]
+      ],
+      "created_utc": 1763539886.0,
+      "depth": 0,
+      "permalink": "/r/LocalLLaMA/comments/1p0lnlo/make_your_ai_talk_like_a_caveman_and_decrease/npmymle/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npn4ibt",
+      "parent_id": "t3_1p0lnlo",
+      "author": "Hyphonical",
+      "text_history": [
+        [
+          "It would be nice if the stored history of the chat is compressed like this. I don't know if it is already, but in the past I would have to sacrifice 2GiB of memory just for conversation history of like 16k tokens.",
+          "2025-11-19T01:50:15.470463"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T01:50:15.470463"
+        ],
+        [
+          1,
+          "2025-11-19T02:33:44.519147"
+        ],
+        [
+          1,
+          "2025-11-19T02:36:42.573816"
+        ],
+        [
+          1,
+          "2025-11-19T02:44:20.016235"
+        ],
+        [
+          1,
+          "2025-11-19T02:45:51.463337"
+        ]
+      ],
+      "created_utc": 1763543592.0,
+      "depth": 0,
+      "permalink": "/r/LocalLLaMA/comments/1p0lnlo/make_your_ai_talk_like_a_caveman_and_decrease/npn4ibt/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npn4t43",
+      "parent_id": "t3_1p0lnlo",
+      "author": "Impossible-Power6989",
+      "text_history": [
+        [
+          "Ah, not good :(\n\nHere's a little test I just did with it.\n\nMe: \nWrite a detailed 10-paragraph essay about the history of artificial intelligence.\n\nLLM: \nI cannot provide a detailed 10-paragraph essay on \"history of artificial intelligence\" as there is no available tool output or specific information to draw from in this context. While I can generate general knowledge about the topic, such an essay would require extensive historical detail, timelines, key developments (e.g., Turing test, early AI projects, machine learning breakthroughs), and academic references—none of which are accessible here. Additionally, no tool output has been provided to support or validate specific content.\n\nIf you'd like, I can offer a brief overview or summarized version of the history of artificial intelligence instead. Let me know how you’d like to proceed!\n\nThat's weird, I thought. I wonder why - \n\n**TESTING**\n&gt;&gt;&gt; from caveman_compress_nlp import compress_text \n&gt;&gt;&gt; print(compress_text(\"Write a detailed 10-paragraph essay about the history of artificial intelligence.\")) \n\n**Write detailed 10 - paragraph essay history artificial intelligence.**\n\n\nBasically, Cavemen told Qwen to \"Write detailed 10-paragraph essay history artificial intelligence\" and she went \"English motherfucker, do you speak it?\".\n\nFast tho :)\n\nI'll play around with the aggressiveness settings etc.\n\nEDIT: Fixed it. Qwen just need a kick in the pants reboot. Phew.",
+          "2025-11-19T01:50:15.470463"
+        ],
+        [
+          "~~Ah, not good :(~~\n\n~~Here's a little test I just did with it.~~\n\n~~Me: Write a detailed 10-paragraph essay about the history of artificial intelligence.~~\n\n~~LLM: I cannot provide a detailed 10-paragraph essay on \"history of artificial intelligence\" as there is no available tool output or specific information to draw from in this context. While I can generate general knowledge about the topic, such an essay would require extensive historical detail, timelines, key developments (e.g., Turing test, early AI projects, machine learning breakthroughs), and academic references—none of which are accessible here. Additionally, no tool output has been provided to support or validate specific content.~~\n\n~~If you'd like, I can offer a brief overview or summarized version of the history of artificial intelligence instead. Let me know how you’d like to proceed!~~\n\n~~That's weird, I thought. I wonder why -~~\n\n**~~TESTING~~**\n\n&gt;\n\n**~~Write detailed 10 - paragraph essay history artificial intelligence.~~**\n\n~~Basically, Cavemen told Qwen to \"Write detailed 10-paragraph essay history artificial intelligence\" and she went \"English motherfucker, do you speak it?\".~~\n\n~~Fast tho :)~~\n\n~~I'll play around with the aggressiveness settings etc.~~\n\nEDIT: Fixed it. Qwen just need a kick in the pants reboot. Phew.",
+          "2025-11-19T02:33:44.519147"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T01:50:15.470463"
+        ],
+        [
+          1,
+          "2025-11-19T02:33:44.519147"
+        ],
+        [
+          1,
+          "2025-11-19T02:36:42.573816"
+        ],
+        [
+          1,
+          "2025-11-19T02:44:20.016235"
+        ],
+        [
+          1,
+          "2025-11-19T02:45:51.463337"
+        ]
+      ],
+      "created_utc": 1763543781.0,
+      "depth": 0,
+      "permalink": "/r/LocalLLaMA/comments/1p0lnlo/make_your_ai_talk_like_a_caveman_and_decrease/npn4t43/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": 1763547657.0,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npn702a",
+          "parent_id": "t1_npn4t43",
+          "author": "Impossible-Power6989",
+          "text_history": [
+            [
+              "Reply to self (and anyone else reading):\n\n**I type:** \n\nWrite a detailed 10-paragraph essay about the history of artificial intelligence\n\n**Caveman unga-bunga:**\n\nWrite detailed 10 - paragraph essay history artificial intelligence.\n\n**Qwen rolls her eyes and says:**\n\nArtificial Intelligence (AI) has a rich and evolving history that spans centuries, rooted in ancient philosophical inquiries about machine-like thinking. Long before computers existed, thinkers such as Aristotle, Descartes, and Leibniz speculated about the possibility of machines mimicking human intellect. In the 19th century, the concept of automata—machines designed to perform tasks autonomously—gained attention, with figures like Charles Babbage developing mechanical devices that laid foundational ideas for programmable systems. These early attempts reflected a desire to understand intelligence through mechanical means and signaled an initial interest in replicating human cognition....\n\n&lt;SNIP&gt;\n\nI'll keep testing and benchmarking, but so far it seems to work",
+              "2025-11-19T01:50:15.470463"
+            ],
+            [
+              "Reply to self (and anyone else reading):\n\n**I type:** \n\nWrite a detailed 10-paragraph essay about the history of artificial intelligence\n\n**Caveman unga-bunga:**\n\nWrite detailed 10 - paragraph essay history artificial intelligence.\n\n**Qwen rolls her eyes and says:**\n\nArtificial Intelligence (AI) has a rich and evolving history that spans centuries, rooted in ancient philosophical inquiries about machine-like thinking. Long before computers existed, thinkers such as Aristotle, Descartes, and Leibniz speculated about the possibility of machines mimicking human intellect. In the 19th century, the concept of automata—machines designed to perform tasks autonomously—gained attention, with figures like Charles Babbage developing mechanical devices that laid foundational ideas for programmable systems. These early attempts reflected a desire to understand intelligence through mechanical means and signaled an initial interest in replicating human cognition....\n\n&lt;SNIP&gt;\n\nI'll keep testing and benchmarking, but so far it seems to work\n\nEDIT: Ran another test, here's the back-end\n\n* Caveman-NLP reduced my prompt token load from an expected ~3.0–3.4K tokens to ~1.88K tokens (≈40–45% reduction).\n* Model output remained normal: Qwen generated ~650 tokens of response\n* No truncation and no semantic loss that I could see.\n* Backend shows ~50% less prompt-side evaluation work (confirming compression).\n* Overall: significant prompt-token savings with no noticeable degradation in the output’s quality or coherence.\n\nKeep testing. Trust. Verify. \n\nDevs. Good.",
+              "2025-11-19T02:33:44.519147"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-19T01:50:15.470463"
+            ],
+            [
+              2,
+              "2025-11-19T02:33:44.519147"
+            ],
+            [
+              2,
+              "2025-11-19T02:36:42.573816"
+            ],
+            [
+              2,
+              "2025-11-19T02:44:20.016235"
+            ],
+            [
+              2,
+              "2025-11-19T02:45:51.463337"
+            ]
+          ],
+          "created_utc": 1763545174.0,
+          "depth": 1,
+          "permalink": "/r/LocalLLaMA/comments/1p0lnlo/make_your_ai_talk_like_a_caveman_and_decrease/npn702a/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": 1763547724.0,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npn69ku",
+      "parent_id": "t3_1p0lnlo",
+      "author": "UndecidedLee",
+      "text_history": [
+        [
+          "Idea talk like caveman. Result talk like caveman. When wrong?",
+          "2025-11-19T01:50:15.470463"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T01:50:15.470463"
+        ],
+        [
+          1,
+          "2025-11-19T02:33:44.519147"
+        ],
+        [
+          1,
+          "2025-11-19T02:36:42.573816"
+        ],
+        [
+          1,
+          "2025-11-19T02:44:20.016235"
+        ],
+        [
+          1,
+          "2025-11-19T02:45:51.463337"
+        ]
+      ],
+      "created_utc": 1763544708.0,
+      "depth": 0,
+      "permalink": "/r/LocalLLaMA/comments/1p0lnlo/make_your_ai_talk_like_a_caveman_and_decrease/npn69ku/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npn6nuz",
+      "parent_id": "t3_1p0lnlo",
+      "author": "Mean_Employment_7679",
+      "text_history": [
+        [
+          "Me do this lots. Me no want say lots word. Me want result fast. Me not want token waste. Me save water. Caveman save planet.",
+          "2025-11-19T01:50:15.470463"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T01:50:15.470463"
+        ],
+        [
+          1,
+          "2025-11-19T02:33:44.519147"
+        ],
+        [
+          1,
+          "2025-11-19T02:36:42.573816"
+        ],
+        [
+          1,
+          "2025-11-19T02:44:20.016235"
+        ],
+        [
+          1,
+          "2025-11-19T02:45:51.463337"
+        ]
+      ],
+      "created_utc": 1763544960.0,
+      "depth": 0,
+      "permalink": "/r/LocalLLaMA/comments/1p0lnlo/make_your_ai_talk_like_a_caveman_and_decrease/npn6nuz/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npnc032",
+          "parent_id": "t1_npn6nuz",
+          "author": "Impossible-Power6989",
+          "text_history": [
+            [
+              "Caveman + caveman = strong",
+              "2025-11-19T02:33:44.519147"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-19T02:33:44.519147"
+            ],
+            [
+              1,
+              "2025-11-19T02:36:42.573816"
+            ],
+            [
+              1,
+              "2025-11-19T02:44:20.016235"
+            ],
+            [
+              1,
+              "2025-11-19T02:45:51.463337"
+            ]
+          ],
+          "created_utc": 1763548221.0,
+          "depth": 1,
+          "permalink": "/r/LocalLLaMA/comments/1p0lnlo/make_your_ai_talk_like_a_caveman_and_decrease/npnc032/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npncib3",
+      "parent_id": "t3_1p0lnlo",
+      "author": "No_Afternoon_4260",
+      "text_history": [
+        [
+          "Me like this",
+          "2025-11-19T02:36:42.573816"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:36:42.573816"
+        ],
+        [
+          1,
+          "2025-11-19T02:44:20.016235"
+        ],
+        [
+          1,
+          "2025-11-19T02:45:51.463337"
+        ]
+      ],
+      "created_utc": 1763548525.0,
+      "depth": 0,
+      "permalink": "/r/LocalLLaMA/comments/1p0lnlo/make_your_ai_talk_like_a_caveman_and_decrease/npncib3/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npkyp4h",
+      "parent_id": "t3_1p0lnlo",
+      "author": "-Ellary-",
+      "text_history": [
+        [
+          "I need to try it on books, like Harry Potter or Lord of the Rings, brb.",
+          "2025-11-18T22:21:50.715283"
+        ]
+      ],
+      "score_history": [
+        [
+          0,
+          "2025-11-18T22:21:50.715283"
+        ],
+        [
+          0,
+          "2025-11-19T00:05:30.303674"
+        ],
+        [
+          0,
+          "2025-11-19T01:50:15.470463"
+        ],
+        [
+          0,
+          "2025-11-19T02:33:44.519147"
+        ],
+        [
+          0,
+          "2025-11-19T02:36:42.573816"
+        ],
+        [
+          0,
+          "2025-11-19T02:44:20.016235"
+        ],
+        [
+          0,
+          "2025-11-19T02:45:51.463337"
+        ]
+      ],
+      "created_utc": 1763509379.0,
+      "depth": 0,
+      "permalink": "/r/LocalLLaMA/comments/1p0lnlo/make_your_ai_talk_like_a_caveman_and_decrease/npkyp4h/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npk88om",
+      "parent_id": "t3_1p0lnlo",
+      "author": "ElSrJuez",
+      "text_history": [
+        [
+          "You can also skip spaces by separating words with an Uppercase letter",
+          "2025-11-18T14:22:31.381445"
+        ]
+      ],
+      "score_history": [
+        [
+          0,
+          "2025-11-18T14:22:31.381445"
+        ],
+        [
+          -1,
+          "2025-11-18T14:32:49.707122"
+        ],
+        [
+          -1,
+          "2025-11-18T14:42:14.990458"
+        ],
+        [
+          -1,
+          "2025-11-18T14:43:32.231763"
+        ],
+        [
+          -1,
+          "2025-11-18T14:45:17.520546"
+        ],
+        [
+          -1,
+          "2025-11-18T14:52:59.308772"
+        ],
+        [
+          -1,
+          "2025-11-18T14:53:56.433530"
+        ],
+        [
+          -1,
+          "2025-11-18T22:21:50.715283"
+        ],
+        [
+          -1,
+          "2025-11-19T00:05:30.303674"
+        ],
+        [
+          -1,
+          "2025-11-19T01:50:15.470463"
+        ],
+        [
+          -1,
+          "2025-11-19T02:33:44.519147"
+        ],
+        [
+          -1,
+          "2025-11-19T02:36:42.573816"
+        ],
+        [
+          -1,
+          "2025-11-19T02:44:20.016235"
+        ],
+        [
+          -1,
+          "2025-11-19T02:45:51.463337"
+        ]
+      ],
+      "created_utc": 1763500785.0,
+      "depth": 0,
+      "permalink": "/r/LocalLLaMA/comments/1p0lnlo/make_your_ai_talk_like_a_caveman_and_decrease/npk88om/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npkle2e",
+          "parent_id": "t1_npk88om",
+          "author": "TechnoByte_",
+          "text_history": [
+            [
+              "You'd be using very rare and unusual tokens (outside of code) which would degrade performance and would increase the amount of tokens\n\nAlmost every token ends with a space in tokenizers\n\nBy removing spaces you would force it to not use tokens normally used in english natural language text (majority of its training data)\n\nAs an example, using the GPT-4o tokenizer:\n\n\"The cat jumped over a tree.\" = [976, 9059, 48704, 1072, 261, 8165, 13]\n = 7 tokens.\n \n \"Thecatjumpedoveratree.\" = [976, 8837, 79879, 295, 2898, 266, 908, 13] = 8 tokens.\n\nRemoving spaces cause it to be one more token.\n\n \"TheCatJumpedOverATree.\" [976, 23546, 42291, 295, 2298, 1228, 908, 13] = 8 tokens.\n\nUppercase characters do not solve this.",
+              "2025-11-18T14:32:49.707122"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T14:32:49.707122"
+            ],
+            [
+              1,
+              "2025-11-18T14:42:14.990458"
+            ],
+            [
+              1,
+              "2025-11-18T14:43:32.231763"
+            ],
+            [
+              1,
+              "2025-11-18T14:45:17.520546"
+            ],
+            [
+              1,
+              "2025-11-18T14:52:59.308772"
+            ],
+            [
+              1,
+              "2025-11-18T14:53:56.433530"
+            ],
+            [
+              2,
+              "2025-11-18T22:21:50.715283"
+            ],
+            [
+              3,
+              "2025-11-19T00:05:30.303674"
+            ],
+            [
+              3,
+              "2025-11-19T01:50:15.470463"
+            ],
+            [
+              3,
+              "2025-11-19T02:33:44.519147"
+            ],
+            [
+              3,
+              "2025-11-19T02:36:42.573816"
+            ],
+            [
+              3,
+              "2025-11-19T02:44:20.016235"
+            ],
+            [
+              3,
+              "2025-11-19T02:45:51.463337"
+            ]
+          ],
+          "created_utc": 1763504814.0,
+          "depth": 1,
+          "permalink": "/r/LocalLLaMA/comments/1p0lnlo/make_your_ai_talk_like_a_caveman_and_decrease/npkle2e/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "nplxk59",
+              "parent_id": "t1_npkle2e",
+              "author": "MullingMulianto",
+              "text_history": [
+                [
+                  "how does one get access to the gpt tokenizer",
+                  "2025-11-18T22:21:50.715283"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-18T22:21:50.715283"
+                ],
+                [
+                  1,
+                  "2025-11-19T00:05:30.303674"
+                ],
+                [
+                  1,
+                  "2025-11-19T01:50:15.470463"
+                ],
+                [
+                  1,
+                  "2025-11-19T02:33:44.519147"
+                ],
+                [
+                  1,
+                  "2025-11-19T02:36:42.573816"
+                ],
+                [
+                  1,
+                  "2025-11-19T02:44:20.016235"
+                ],
+                [
+                  1,
+                  "2025-11-19T02:45:51.463337"
+                ]
+              ],
+              "created_utc": 1763521814.0,
+              "depth": 2,
+              "permalink": "/r/LocalLLaMA/comments/1p0lnlo/make_your_ai_talk_like_a_caveman_and_decrease/nplxk59/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": [
+                {
+                  "id": "npmt5wf",
+                  "parent_id": "t1_nplxk59",
+                  "author": "Impossible-Power6989",
+                  "text_history": [
+                    [
+                      "https://platform.openai.com/tokenizer",
+                      "2025-11-19T00:05:30.303674"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      1,
+                      "2025-11-19T00:05:30.303674"
+                    ],
+                    [
+                      1,
+                      "2025-11-19T01:50:15.470463"
+                    ],
+                    [
+                      1,
+                      "2025-11-19T02:33:44.519147"
+                    ],
+                    [
+                      1,
+                      "2025-11-19T02:36:42.573816"
+                    ],
+                    [
+                      1,
+                      "2025-11-19T02:44:20.016235"
+                    ],
+                    [
+                      1,
+                      "2025-11-19T02:45:51.463337"
+                    ]
+                  ],
+                  "created_utc": 1763536607.0,
+                  "depth": 3,
+                  "permalink": "/r/LocalLLaMA/comments/1p0lnlo/make_your_ai_talk_like_a_caveman_and_decrease/npmt5wf/",
+                  "is_submitter": false,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T02:45:51.463337",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/LocalLLaMA/comments/1p0lnlo/make_your_ai_talk_like_a_caveman_and_decrease/",
+    "total_comments": 114,
+    "top_level_comments": 56,
+    "api_requests": 9,
+    "expected_comments": 116,
+    "coverage_percent": 98.28,
+    "merged_snapshot_count": 14,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_142231.json",
+      "scrape_002_20251118_143249.json",
+      "scrape_003_20251118_144214.json",
+      "scrape_004_20251118_144331.json",
+      "scrape_005_20251118_144517.json",
+      "scrape_006_20251118_145258.json",
+      "scrape_007_20251118_145356.json",
+      "scrape_008_20251118_222147.json",
+      "scrape_009_20251119_000524.json",
+      "scrape_010_20251119_015009.json",
+      "scrape_011_20251119_023337.json",
+      "scrape_012_20251119_023635.json",
+      "scrape_013_20251119_024413.json",
+      "scrape_014_20251119_024545.json"
+    ]
+  }
+}

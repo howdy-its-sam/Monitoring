@@ -1,0 +1,615 @@
+{
+  "post": {
+    "id": "1p0hr0b",
+    "title": "Budget motors for 5 bar parallel robot",
+    "author": "SuperdocHD",
+    "score_history": [
+      [
+        16,
+        "2025-11-19T03:50:48.534707"
+      ],
+      [
+        17,
+        "2025-11-19T03:59:41.429639"
+      ],
+      [
+        17,
+        "2025-11-19T04:01:45.387374"
+      ]
+    ],
+    "created_utc": 1763486137.0,
+    "num_comments": 16,
+    "subreddit": "robotics",
+    "url": "https://i.redd.it/jn2ksplot12g1.png",
+    "selftext": "TLDR: I need motors with ±0.045º accuracy for around 50-100$.\n\nI'm currently an undergraduate in electrical engineering and I need to do an interdisciplinary project where we need to design and build a puzzle solving robot. We decided to use a 5 bar robot for our design. I know that an xy gantry would have been much easier but most of the other teams use a gantry and we wanted to do something different. \n\nI'm now tasked to determine the needed accuracy of the motors and finding motors which are in our budget. I used a python script together with some math and determined that the motors need to have a relative accuracy of ±0.045º. The robot however does not need to be this accurate the whole time. It needs to be less accurate for positioning over the puzzle piece origin because it is the going to pick it up. From this position to the target position it needs to have the ±0.045º accuracy to its origin. After that it goes back and gets the next puzzle piece. There are a total of 6 puzzle pieces. \n\nThe problem now is that we are on a tight budget and only have about 50-100$ per Motor (We need 2 motors). Our total budget is 500$. What I've found is that using strain wave gears would be the best solution because of zero backlash but I haven't found any in our budget. I had a look at the [closed loop steppers from stepperOnline](https://www.omc-stepperonline.com/1-axis-closed-loop-stepper-cnc-kit-80ncm-113-29oz-in-nema-17-motor-driver-1-cl42t-s08-v41) but they don't specify the accuracy/repeatability of the motors and drivers (Support also wasn't helpful). A friend suggested using drive belts maybe this could be an option too. In the end space isn't that critical and torque also doesn't need to be that high because the robot only operates horizontally.\n\nDo you guys have an idea or suggestion for motors? Or maby some creative idea to make motors more accurate.\n\nAlso here are some specs about the robot for further context:\nThe robot has a max weight of 5Kg\nThe links each have a lenght of roughly 20cm\nThe endeffector will be about 500g\nI also attached a sketch of the robot (It's german, sorry)\n\n\n\n\n\n",
+    "permalink": "/r/robotics/comments/1p0hr0b/budget_motors_for_5_bar_parallel_robot/"
+  },
+  "comments": [
+    {
+      "id": "npix8ki",
+      "parent_id": "t3_1p0hr0b",
+      "author": "solitude042",
+      "text_history": [
+        [
+          "If driven properly and loaded under their torque &amp; speed limit, steppers are intrinsically 100% repeatable.  Drive belts (e.g., the GT2 belts used in 3d printers &amp; laser cutters) are effectively inelastic - tension them properly, and you shouldn't have any positioning errors of note.  Laser cutters routinely use inexpensive open-loop steppers to achieve repeatable accuracy to &lt; .1mm (and often better).",
+          "2025-11-19T03:50:48.534707"
+        ]
+      ],
+      "score_history": [
+        [
+          9,
+          "2025-11-19T03:50:48.534707"
+        ],
+        [
+          9,
+          "2025-11-19T03:59:41.429639"
+        ],
+        [
+          10,
+          "2025-11-19T04:01:45.387374"
+        ]
+      ],
+      "created_utc": 1763486888.0,
+      "depth": 0,
+      "permalink": "/r/robotics/comments/1p0hr0b/budget_motors_for_5_bar_parallel_robot/npix8ki/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npj7ck4",
+          "parent_id": "t1_npix8ki",
+          "author": "SuperdocHD",
+          "text_history": [
+            [
+              "Yes I know that they are pretty accurate for the steps but I would need to be able to set positions in 0.09° steps. Which would mean that i need a reduction of 20:1(for 1.8° step motors) plus some headroom. Would this still be feasible?",
+              "2025-11-19T03:50:48.534707"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-19T03:50:48.534707"
+            ],
+            [
+              1,
+              "2025-11-19T03:59:41.429639"
+            ],
+            [
+              1,
+              "2025-11-19T04:01:45.387374"
+            ]
+          ],
+          "created_utc": 1763489827.0,
+          "depth": 1,
+          "permalink": "/r/robotics/comments/1p0hr0b/budget_motors_for_5_bar_parallel_robot/npj7ck4/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npjpv7m",
+              "parent_id": "t1_npj7ck4",
+              "author": "TheCorruptedEngineer",
+              "text_history": [
+                [
+                  "You don't need a reduction. The steper drivers can micro step motors. Which can be set to move the motor shaft 1/16th of a step or 1/32 of a step all the way to 1/256th of a step per step signal",
+                  "2025-11-19T03:50:48.534707"
+                ]
+              ],
+              "score_history": [
+                [
+                  3,
+                  "2025-11-19T03:50:48.534707"
+                ],
+                [
+                  3,
+                  "2025-11-19T03:59:41.429639"
+                ],
+                [
+                  3,
+                  "2025-11-19T04:01:45.387374"
+                ]
+              ],
+              "created_utc": 1763495257.0,
+              "depth": 2,
+              "permalink": "/r/robotics/comments/1p0hr0b/budget_motors_for_5_bar_parallel_robot/npjpv7m/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": [
+                {
+                  "id": "npkhozz",
+                  "parent_id": "t1_npjpv7m",
+                  "author": "solitude042",
+                  "text_history": [
+                    [
+                      "Microstepping isn't very precise for repeatable positioning - it's more useful for reducing noise &amp; vibration, but poor at providing consistent holding torque and absolute position.",
+                      "2025-11-19T03:50:48.534707"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      2,
+                      "2025-11-19T03:50:48.534707"
+                    ],
+                    [
+                      2,
+                      "2025-11-19T03:59:41.429639"
+                    ],
+                    [
+                      2,
+                      "2025-11-19T04:01:45.387374"
+                    ]
+                  ],
+                  "created_utc": 1763503633.0,
+                  "depth": 3,
+                  "permalink": "/r/robotics/comments/1p0hr0b/budget_motors_for_5_bar_parallel_robot/npkhozz/",
+                  "is_submitter": false,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "npjcgdb",
+              "parent_id": "t1_npj7ck4",
+              "author": "solitude042",
+              "text_history": [
+                [
+                  "Certainly... for example, you could use a pair of different sized pulleys for smaller ratio reductions (&lt;5:1 or so), or by throwing a planetary reducer on the stepper for much larger reductions.  For your use case, it seems those would be preferable to microstepping, which is great for smooth/quiet motion, but not good for repeatable positioning - better to stick with full stepping and a reducer if precision is the key requirement.",
+                  "2025-11-19T03:50:48.534707"
+                ]
+              ],
+              "score_history": [
+                [
+                  2,
+                  "2025-11-19T03:50:48.534707"
+                ],
+                [
+                  2,
+                  "2025-11-19T03:59:41.429639"
+                ],
+                [
+                  2,
+                  "2025-11-19T04:01:45.387374"
+                ]
+              ],
+              "created_utc": 1763491287.0,
+              "depth": 2,
+              "permalink": "/r/robotics/comments/1p0hr0b/budget_motors_for_5_bar_parallel_robot/npjcgdb/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": [
+                {
+                  "id": "npnblzy",
+                  "parent_id": "t1_npjcgdb",
+                  "author": "SuperdocHD",
+                  "text_history": [
+                    [
+                      "Okay, the Problem I see with using a planetary gear is the Backlash which in my price range is mostly about 15 arcminutes (0.25°) or higher which is too much. With belts I would probably need a reduction of 20:1 this would give me 0.09° at the output which would be in the range we need.\nAnd maybe I could use microstepping to half the stepsize (although this won't be exact).",
+                      "2025-11-19T03:50:48.534707"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      1,
+                      "2025-11-19T03:50:48.534707"
+                    ],
+                    [
+                      1,
+                      "2025-11-19T03:59:41.429639"
+                    ],
+                    [
+                      1,
+                      "2025-11-19T04:01:45.387374"
+                    ]
+                  ],
+                  "created_utc": 1763547986.0,
+                  "depth": 3,
+                  "permalink": "/r/robotics/comments/1p0hr0b/budget_motors_for_5_bar_parallel_robot/npnblzy/",
+                  "is_submitter": true,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "npkh21l",
+      "parent_id": "t3_1p0hr0b",
+      "author": "hlx-atom",
+      "text_history": [
+        [
+          "Your arms and hinges are going to flex more than 0.045 degrees. Making a robot that precise requires good mechanical design. the accuracy of your stepper motors is not going to be the limiting factor. They are going to be way more precise than your assembly.\n\nTo get 0.04 step size, you need 8000 steps per revolution. That is theoretically measurable with a 14 bit encoder. Not sure if standard steppers can micro step that small.",
+          "2025-11-19T03:50:48.534707"
+        ]
+      ],
+      "score_history": [
+        [
+          4,
+          "2025-11-19T03:50:48.534707"
+        ],
+        [
+          4,
+          "2025-11-19T03:59:41.429639"
+        ],
+        [
+          5,
+          "2025-11-19T04:01:45.387374"
+        ]
+      ],
+      "created_utc": 1763503433.0,
+      "depth": 0,
+      "permalink": "/r/robotics/comments/1p0hr0b/budget_motors_for_5_bar_parallel_robot/npkh21l/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": 1763503680.0,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npl3zi6",
+          "parent_id": "t1_npkh21l",
+          "author": "manlywho",
+          "text_history": [
+            [
+              "Could op add some gearing for increased resolution or is that a no no in this situation?",
+              "2025-11-19T03:50:48.534707"
+            ]
+          ],
+          "score_history": [
+            [
+              2,
+              "2025-11-19T03:50:48.534707"
+            ],
+            [
+              2,
+              "2025-11-19T03:59:41.429639"
+            ],
+            [
+              2,
+              "2025-11-19T04:01:45.387374"
+            ]
+          ],
+          "created_utc": 1763511244.0,
+          "depth": 1,
+          "permalink": "/r/robotics/comments/1p0hr0b/budget_motors_for_5_bar_parallel_robot/npl3zi6/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npl82u2",
+              "parent_id": "t1_npl3zi6",
+              "author": "hlx-atom",
+              "text_history": [
+                [
+                  "Theoretically it would improve resolution, but the gearing will have slop/backlash on that magnitude. 0.04 degrees is around 2 arcmin. You will need well made gears to get resolution that small.",
+                  "2025-11-19T03:50:48.534707"
+                ]
+              ],
+              "score_history": [
+                [
+                  2,
+                  "2025-11-19T03:50:48.534707"
+                ],
+                [
+                  2,
+                  "2025-11-19T03:59:41.429639"
+                ],
+                [
+                  2,
+                  "2025-11-19T04:01:45.387374"
+                ]
+              ],
+              "created_utc": 1763512675.0,
+              "depth": 2,
+              "permalink": "/r/robotics/comments/1p0hr0b/budget_motors_for_5_bar_parallel_robot/npl82u2/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": [
+                {
+                  "id": "npnbyvr",
+                  "parent_id": "t1_npl82u2",
+                  "author": "SuperdocHD",
+                  "text_history": [
+                    [
+                      "Yep, from what I have found harmonic drives would be ideal since they have zero backlash. They however are too expensive. Other gearings all have too much backlash at this price point.",
+                      "2025-11-19T03:50:48.534707"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      1,
+                      "2025-11-19T03:50:48.534707"
+                    ],
+                    [
+                      1,
+                      "2025-11-19T03:59:41.429639"
+                    ],
+                    [
+                      1,
+                      "2025-11-19T04:01:45.387374"
+                    ]
+                  ],
+                  "created_utc": 1763548201.0,
+                  "depth": 3,
+                  "permalink": "/r/robotics/comments/1p0hr0b/budget_motors_for_5_bar_parallel_robot/npnbyvr/",
+                  "is_submitter": true,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "npndgqh",
+          "parent_id": "t1_npkh21l",
+          "author": "SuperdocHD",
+          "text_history": [
+            [
+              "What we need our robot to do is pick up pieces with a max deviation of 0.5mm. From my calculations I determined that if my motors both have a wobble of ± 0.045° the max deviation is 0.05mm (radius around the target point). So my step size would only need to be 0.09° or am I wrong?\n\nThe closed loop Stepper I linked would be able to do microstepping with 40000 steps per revolution. The encoder is optical and has 4000 counts per revolution which would give me exactly 0.09°. And through interpolation I could probably also do smaller steps too. The only thing I don't know about the encoders is, how accurate they are.",
+              "2025-11-19T03:50:48.534707"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-19T03:50:48.534707"
+            ],
+            [
+              1,
+              "2025-11-19T03:59:41.429639"
+            ],
+            [
+              1,
+              "2025-11-19T04:01:45.387374"
+            ]
+          ],
+          "created_utc": 1763549085.0,
+          "depth": 1,
+          "permalink": "/r/robotics/comments/1p0hr0b/budget_motors_for_5_bar_parallel_robot/npndgqh/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npj13xh",
+      "parent_id": "t3_1p0hr0b",
+      "author": "RoboLord66",
+      "text_history": [
+        [
+          "No comment on the motors, but a tip on the actuation:  make sure your up down motion has compliance and implement a small (scalable) wiggle on x y and theta axes when placing a piece.",
+          "2025-11-19T03:50:48.534707"
+        ]
+      ],
+      "score_history": [
+        [
+          3,
+          "2025-11-19T03:50:48.534707"
+        ],
+        [
+          3,
+          "2025-11-19T03:59:41.429639"
+        ],
+        [
+          3,
+          "2025-11-19T04:01:45.387374"
+        ]
+      ],
+      "created_utc": 1763488034.0,
+      "depth": 0,
+      "permalink": "/r/robotics/comments/1p0hr0b/budget_motors_for_5_bar_parallel_robot/npj13xh/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npj5j6v",
+          "parent_id": "t1_npj13xh",
+          "author": "SuperdocHD",
+          "text_history": [
+            [
+              "Yes, we plan on making the tip spring loaded or something similar. And the wiggle is a good tip. Will note that down for implementation of the motion controller.",
+              "2025-11-19T03:50:48.534707"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-19T03:50:48.534707"
+            ],
+            [
+              1,
+              "2025-11-19T03:59:41.429639"
+            ],
+            [
+              1,
+              "2025-11-19T04:01:45.387374"
+            ]
+          ],
+          "created_utc": 1763489309.0,
+          "depth": 1,
+          "permalink": "/r/robotics/comments/1p0hr0b/budget_motors_for_5_bar_parallel_robot/npj5j6v/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npmqwwj",
+      "parent_id": "t3_1p0hr0b",
+      "author": "VivekSena",
+      "text_history": [
+        [
+          "I’m not sure you really need 0.045º of accuracy for project you are describing. Either way, your best bet is nema17 with TMC2209 using 1:256 microstepping. Closed loop stepper is even better. \n\nBut if you truly want accuracy, try using bldc motors with FOC control. Like Damiao J4340-2EC or Robstride05 edu lite.",
+          "2025-11-19T03:50:48.534707"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-19T03:50:48.534707"
+        ],
+        [
+          2,
+          "2025-11-19T03:59:41.429639"
+        ],
+        [
+          2,
+          "2025-11-19T04:01:45.387374"
+        ]
+      ],
+      "created_utc": 1763535316.0,
+      "depth": 0,
+      "permalink": "/r/robotics/comments/1p0hr0b/budget_motors_for_5_bar_parallel_robot/npmqwwj/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npnekoz",
+          "parent_id": "t1_npmqwwj",
+          "author": "SuperdocHD",
+          "text_history": [
+            [
+              "Isn't the problem with microstepping that it can't increase accuracy it just makes the motor run smoother and more silent.\n\nThe two bldc look interesting. Do you know how the repeatability of the encoders are since they are magnetic they have noise so I can't just divide 360° through the resolution.",
+              "2025-11-19T03:50:48.534707"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-19T03:50:48.534707"
+            ],
+            [
+              1,
+              "2025-11-19T03:59:41.429639"
+            ],
+            [
+              1,
+              "2025-11-19T04:01:45.387374"
+            ]
+          ],
+          "created_utc": 1763549714.0,
+          "depth": 1,
+          "permalink": "/r/robotics/comments/1p0hr0b/budget_motors_for_5_bar_parallel_robot/npnekoz/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npnh2s7",
+              "parent_id": "t1_npnekoz",
+              "author": "VivekSena",
+              "text_history": [
+                [
+                  "For BLDC, repeatability is not dependent on encoder alone. How you are implementing FOC matters lot more. We use velocity mode &amp; our error is less than 0.01º at 6Nm torque &amp; 300rpm. That’s precise for most humanoids &amp; robotics. \n\nPrecise tuning of kp values &amp; accurate current sensing, can easily lead to accuracy you are requesting. Dual encoders are huge plus, both being 14 bit. \n\nI would suggest you try using nema17+tmc2209, it costs less than $20. Then you can explore makerbase FOC board to run SimpleFOC costs less than $50. Or simpleFOC mini v1.1 board &amp; run low kv drone motor.",
+                  "2025-11-19T03:50:48.534707"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-19T03:50:48.534707"
+                ],
+                [
+                  1,
+                  "2025-11-19T03:59:41.429639"
+                ],
+                [
+                  1,
+                  "2025-11-19T04:01:45.387374"
+                ]
+              ],
+              "created_utc": 1763551103.0,
+              "depth": 2,
+              "permalink": "/r/robotics/comments/1p0hr0b/budget_motors_for_5_bar_parallel_robot/npnh2s7/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T04:01:45.387374",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/robotics/comments/1p0hr0b/budget_motors_for_5_bar_parallel_robot/",
+    "total_comments": 16,
+    "top_level_comments": 4,
+    "api_requests": 1,
+    "expected_comments": 16,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_035048.json",
+      "scrape_002_20251119_035941.json",
+      "scrape_003_20251119_040145.json"
+    ]
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "post": {
+    "id": "1oyu3yz",
+    "title": "How do you handle agents in production?",
+    "author": "MammothSea6173",
+    "score_history": [
+      [
+        8,
+        "2025-11-19T02:55:59.071172"
+      ],
+      [
+        8,
+        "2025-11-19T03:06:56.697946"
+      ],
+      [
+        7,
+        "2025-11-19T03:16:15.316286"
+      ]
+    ],
+    "created_utc": 1763319944.0,
+    "num_comments": 2,
+    "subreddit": "LangChain",
+    "url": "https://www.reddit.com/r/LangChain/comments/1oyu3yz/how_do_you_handle_agents_in_production/",
+    "selftext": "Hey everyone,\n\nI am researching how teams actually manage their agents in development and once they hit production. I see a lot of tutorials on building agents and performance benchmarks but not so much on the ops side.\n\nQuestions:\n\n- How do you manage agents across environments like stage and prod with different configs and environments?\n- What do you do when something causes an agent to break?\n- How do you manage changes across multiple agents that talk to each other?\n\nAnd honestly what’s the biggest pain point you’ve run when managing agents in actual workflows.\n\nDrop your experience below!",
+    "permalink": "/r/LangChain/comments/1oyu3yz/how_do_you_handle_agents_in_production/"
+  },
+  "comments": [
+    {
+      "id": "npabde5",
+      "parent_id": "t3_1oyu3yz",
+      "author": "iUchihaMadara",
+      "text_history": [
+        [
+          "I have been developing agents for enterprise, and i think if you get your evals right, then you're 90% sorted. Unfortunately (IMO) there is no good offering or solution out there for evals. Most of them suck. \n\nThe rest is just following good classical engineering hygiene.",
+          "2025-11-19T02:55:59.071172"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:55:59.071172"
+        ],
+        [
+          1,
+          "2025-11-19T03:06:56.697946"
+        ],
+        [
+          1,
+          "2025-11-19T03:16:15.316286"
+        ]
+      ],
+      "created_utc": 1763367425.0,
+      "depth": 0,
+      "permalink": "/r/LangChain/comments/1oyu3yz/how_do_you_handle_agents_in_production/npabde5/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npaga53",
+          "parent_id": "t1_npabde5",
+          "author": "saru2020",
+          "text_history": [
+            [
+              "Hi,\nWhat do you use for evals? Like Ragas framework or any other frameworks/tools?",
+              "2025-11-19T02:55:59.071172"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-19T02:55:59.071172"
+            ],
+            [
+              1,
+              "2025-11-19T03:06:56.697946"
+            ],
+            [
+              1,
+              "2025-11-19T03:16:15.316286"
+            ]
+          ],
+          "created_utc": 1763370575.0,
+          "depth": 1,
+          "permalink": "/r/LangChain/comments/1oyu3yz/how_do_you_handle_agents_in_production/npaga53/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:16:15.316286",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/LangChain/comments/1oyu3yz/how_do_you_handle_agents_in_production/",
+    "total_comments": 2,
+    "top_level_comments": 1,
+    "api_requests": 1,
+    "expected_comments": 2,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_025558.json",
+      "scrape_002_20251119_030656.json",
+      "scrape_003_20251119_031615.json"
+    ]
+  }
+}

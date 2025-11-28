@@ -1,0 +1,54 @@
+{
+  "post": {
+    "id": "1p0i0u8",
+    "title": "Is Introduction to Statistical Learning worth working through as an intro to ML, or should I skip straight to Dive into Deep Learning?",
+    "author": "Professional-Map-945",
+    "score_history": [
+      [
+        2,
+        "2025-11-18T14:45:28.999462"
+      ],
+      [
+        2,
+        "2025-11-18T14:53:12.798323"
+      ],
+      [
+        2,
+        "2025-11-18T14:55:52.103402"
+      ],
+      [
+        2,
+        "2025-11-18T22:32:15.839921"
+      ],
+      [
+        2,
+        "2025-11-19T00:05:24.326515"
+      ]
+    ],
+    "created_utc": 1763486739.0,
+    "num_comments": 0,
+    "subreddit": "learnmachinelearning",
+    "url": "https://www.reddit.com/r/learnmachinelearning/comments/1p0i0u8/is_introduction_to_statistical_learning_worth/",
+    "selftext": "For context, I've already read the first 2 chapters of Dive into Deep Learning and Introduction to Statistical Learning.  \n  \nBoth seem solid, but I'm wondering which approach makes more sense for someone just getting started.",
+    "permalink": "/r/learnmachinelearning/comments/1p0i0u8/is_introduction_to_statistical_learning_worth/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T00:05:24.326515",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/learnmachinelearning/comments/1p0i0u8/is_introduction_to_statistical_learning_worth/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 5,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_144528.json",
+      "scrape_002_20251118_145312.json",
+      "scrape_003_20251118_145551.json",
+      "scrape_004_20251118_223215.json",
+      "scrape_005_20251119_000524.json"
+    ]
+  }
+}

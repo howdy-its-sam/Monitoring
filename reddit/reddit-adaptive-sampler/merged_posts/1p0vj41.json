@@ -1,0 +1,115 @@
+{
+  "post": {
+    "id": "1p0vj41",
+    "title": "How to call APIs and Webhooks on locally hosted n8n",
+    "author": "Flashy_Sort_6367",
+    "score_history": [
+      [
+        2,
+        "2025-11-19T02:55:53.989746"
+      ],
+      [
+        2,
+        "2025-11-19T03:08:47.142215"
+      ],
+      [
+        2,
+        "2025-11-19T03:17:36.055106"
+      ]
+    ],
+    "created_utc": 1763519231.0,
+    "num_comments": 2,
+    "subreddit": "AI_Agents",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1p0vj41/how_to_call_apis_and_webhooks_on_locally_hosted/",
+    "selftext": "Hi, I'm starting to learn n8n and for that I've hosted n8n locally now the only problem is that how do I use APIs and webhooks in local environment if I use third party applications? I read about docker and stuff but I'm really confused. I've just started learning and can't buy domain and hosting right now.",
+    "permalink": "/r/AI_Agents/comments/1p0vj41/how_to_call_apis_and_webhooks_on_locally_hosted/"
+  },
+  "comments": [
+    {
+      "id": "nplqe2o",
+      "parent_id": "t3_1p0vj41",
+      "author": "AutoModerator",
+      "text_history": [
+        [
+          "Thank you for your submission, for any questions regarding AI, please check out our wiki at https://www.reddit.com/r/ai_agents/wiki (this is currently in test and we are actively adding to the wiki)\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/AI_Agents) if you have any questions or concerns.*",
+          "2025-11-19T02:55:53.989746"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:55:53.989746"
+        ],
+        [
+          1,
+          "2025-11-19T03:08:47.142215"
+        ],
+        [
+          1,
+          "2025-11-19T03:17:36.055106"
+        ]
+      ],
+      "created_utc": 1763519231.0,
+      "depth": 0,
+      "permalink": "/r/AI_Agents/comments/1p0vj41/how_to_call_apis_and_webhooks_on_locally_hosted/nplqe2o/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npmegp9",
+      "parent_id": "t3_1p0vj41",
+      "author": "alinarice",
+      "text_history": [
+        [
+          "Use ngrok or localtunnel to expose n8n webhooks extrenally.",
+          "2025-11-19T02:55:53.989746"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:55:53.989746"
+        ],
+        [
+          1,
+          "2025-11-19T03:08:47.142215"
+        ],
+        [
+          1,
+          "2025-11-19T03:17:36.055106"
+        ]
+      ],
+      "created_utc": 1763528880.0,
+      "depth": 0,
+      "permalink": "/r/AI_Agents/comments/1p0vj41/how_to_call_apis_and_webhooks_on_locally_hosted/npmegp9/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:17:36.055106",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/AI_Agents/comments/1p0vj41/how_to_call_apis_and_webhooks_on_locally_hosted/",
+    "total_comments": 2,
+    "top_level_comments": 2,
+    "api_requests": 1,
+    "expected_comments": 2,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_025553.json",
+      "scrape_002_20251119_030846.json",
+      "scrape_003_20251119_031735.json"
+    ]
+  }
+}

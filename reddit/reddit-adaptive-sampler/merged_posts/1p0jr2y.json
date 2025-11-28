@@ -1,0 +1,455 @@
+{
+  "post": {
+    "id": "1p0jr2y",
+    "title": "Favorite threat intelligence platform?",
+    "author": "Brief_Highway8411",
+    "score_history": [
+      [
+        5,
+        "2025-11-18T15:15:03.123404"
+      ],
+      [
+        24,
+        "2025-11-18T23:03:43.934052"
+      ],
+      [
+        21,
+        "2025-11-19T00:47:51.054758"
+      ],
+      [
+        22,
+        "2025-11-19T02:22:46.036366"
+      ]
+    ],
+    "created_utc": 1763490532.0,
+    "num_comments": 13,
+    "subreddit": "cybersecurity",
+    "url": "https://www.reddit.com/r/cybersecurity/comments/1p0jr2y/favorite_threat_intelligence_platform/",
+    "selftext": "My team is looking into threat intelligence platforms and I was hoping to get some second opinions. We have a few different commercial intel and OSINT sources and are looking for a platform to help combine and stream threat data into our SIEM (Elastic).\n\nWe were looking at: Recorded Future, ThreatQuotient, ThreatConnect, Feedly, and Cyware. There have been threads this in the past but some of the platforms like ThreatQuotient and ThreatConnect were acquired recently and I was wondering whether the service has been consistent. Anomali has also come recommended in the past but I can't find any recent reviews and it doesn't look like they're focused on threat intelligence anymore. I wasn't sure how well Recorded Future works with other intel vendors or if their platform is mostly just for their own intel sources.\n\nAny opinions or suggestions would be great. Thank you!",
+    "permalink": "/r/cybersecurity/comments/1p0jr2y/favorite_threat_intelligence_platform/"
+  },
+  "comments": [
+    {
+      "id": "npjshtx",
+      "parent_id": "t3_1p0jr2y",
+      "author": "ChiefKingSosa",
+      "text_history": [
+        [
+          "Google Threat Intel is good",
+          "2025-11-18T15:15:03.123404"
+        ]
+      ],
+      "score_history": [
+        [
+          3,
+          "2025-11-18T15:15:03.123404"
+        ],
+        [
+          7,
+          "2025-11-18T23:03:43.934052"
+        ],
+        [
+          8,
+          "2025-11-19T00:47:51.054758"
+        ],
+        [
+          8,
+          "2025-11-19T02:22:46.036366"
+        ]
+      ],
+      "created_utc": 1763496037.0,
+      "depth": 0,
+      "permalink": "/r/cybersecurity/comments/1p0jr2y/favorite_threat_intelligence_platform/npjshtx/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npjrkjw",
+      "parent_id": "t3_1p0jr2y",
+      "author": "cyberguy2369",
+      "text_history": [
+        [
+          "each is a little different, all allow trials. I'd done some with recorded future and anamoli.\n\nboth were good for our uses.. I tried Anamoli early in their development and I felt like I was giving them ideas for them to implement and profit from while I was paying for their service which I wasnt crazy about.. many of their features they promised weren't mature yet.. but this was 3-4 yrs ago, I've heard good things recently. \n\nopenCTI (free open source) project is getting pretty strong too.",
+          "2025-11-18T15:15:03.123404"
+        ]
+      ],
+      "score_history": [
+        [
+          3,
+          "2025-11-18T15:15:03.123404"
+        ],
+        [
+          3,
+          "2025-11-18T23:03:43.934052"
+        ],
+        [
+          4,
+          "2025-11-19T00:47:51.054758"
+        ],
+        [
+          5,
+          "2025-11-19T02:22:46.036366"
+        ]
+      ],
+      "created_utc": 1763495762.0,
+      "depth": 0,
+      "permalink": "/r/cybersecurity/comments/1p0jr2y/favorite_threat_intelligence_platform/npjrkjw/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npl05op",
+          "parent_id": "t1_npjrkjw",
+          "author": "Brief_Highway8411",
+          "text_history": [
+            [
+              "Is openCTI/Filigran the same thing? That’s what I’m seeing when I google it. I’ll check it out.",
+              "2025-11-18T23:03:43.934052"
+            ]
+          ],
+          "score_history": [
+            [
+              3,
+              "2025-11-18T23:03:43.934052"
+            ],
+            [
+              3,
+              "2025-11-19T00:47:51.054758"
+            ],
+            [
+              3,
+              "2025-11-19T02:22:46.036366"
+            ]
+          ],
+          "created_utc": 1763509899.0,
+          "depth": 1,
+          "permalink": "/r/cybersecurity/comments/1p0jr2y/favorite_threat_intelligence_platform/npl05op/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npl1j9p",
+              "parent_id": "t1_npl05op",
+              "author": "cyberguy2369",
+              "text_history": [
+                [
+                  "filigran is the company, OpenCTI is the opensource intellgence platform. \n\nit really depends on what you want and what your use case is.. but for information sharing or a database of IOC's.. its a good product expecially for free. like any free product it takes some tinkering.. you dont get teh support as a paid product, but there is a really good slack group that is community support that has helped me out alot.",
+                  "2025-11-18T23:03:43.934052"
+                ]
+              ],
+              "score_history": [
+                [
+                  2,
+                  "2025-11-18T23:03:43.934052"
+                ],
+                [
+                  2,
+                  "2025-11-19T00:47:51.054758"
+                ],
+                [
+                  2,
+                  "2025-11-19T02:22:46.036366"
+                ]
+              ],
+              "created_utc": 1763510382.0,
+              "depth": 2,
+              "permalink": "/r/cybersecurity/comments/1p0jr2y/favorite_threat_intelligence_platform/npl1j9p/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": [
+                {
+                  "id": "npm81fp",
+                  "parent_id": "t1_npl1j9p",
+                  "author": "MReprogle",
+                  "text_history": [
+                    [
+                      "Love OpenCTI so far, but haven’t gotten into the sharing side of it. Looks easy enough, but I’m not sure I’ve seen other users sharing out their streams. I’d imagine I’d adds a ton of duplicates, but I’d be interested if there was a way to see what was being shared.",
+                      "2025-11-18T23:03:43.934052"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      1,
+                      "2025-11-18T23:03:43.934052"
+                    ],
+                    [
+                      1,
+                      "2025-11-19T00:47:51.054758"
+                    ],
+                    [
+                      1,
+                      "2025-11-19T02:22:46.036366"
+                    ]
+                  ],
+                  "created_utc": 1763525995.0,
+                  "depth": 3,
+                  "permalink": "/r/cybersecurity/comments/1p0jr2y/favorite_threat_intelligence_platform/npm81fp/",
+                  "is_submitter": false,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": [
+                    {
+                      "id": "npmd0u9",
+                      "parent_id": "t1_npm81fp",
+                      "author": "cyberguy2369",
+                      "text_history": [
+                        [
+                          "deduping is always a problem. OpenCTI does have some mechanisms to dedupe.\n\nmy team uses it internally and feeds the data from OpenCTI into other tools and equipment (stix/taxii feed)\n\nwe've spoken about making a open/general feed.. but we just havent gotten that far yet.\n\nthe platform has matured ALOT in the last few years. documentation, expecially the API docs arent as far along as I'd like, but it has a really strong community that helps.",
+                          "2025-11-18T23:03:43.934052"
+                        ]
+                      ],
+                      "score_history": [
+                        [
+                          1,
+                          "2025-11-18T23:03:43.934052"
+                        ],
+                        [
+                          1,
+                          "2025-11-19T00:47:51.054758"
+                        ],
+                        [
+                          1,
+                          "2025-11-19T02:22:46.036366"
+                        ]
+                      ],
+                      "created_utc": 1763528210.0,
+                      "depth": 4,
+                      "permalink": "/r/cybersecurity/comments/1p0jr2y/favorite_threat_intelligence_platform/npmd0u9/",
+                      "is_submitter": false,
+                      "controversiality": 0,
+                      "gilded": 0,
+                      "edited": false,
+                      "deleted": false,
+                      "deleted_at": null,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "nplsnu0",
+      "parent_id": "t3_1p0jr2y",
+      "author": "incolumitas",
+      "text_history": [
+        [
+          "Shameless self promotion: I am running https://ipapi.is/ and it's a very good API for IP threat intelligence such as VPN detection and hosting detection and general IP meta data.",
+          "2025-11-18T23:03:43.934052"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-18T23:03:43.934052"
+        ],
+        [
+          2,
+          "2025-11-19T00:47:51.054758"
+        ],
+        [
+          2,
+          "2025-11-19T02:22:46.036366"
+        ]
+      ],
+      "created_utc": 1763520048.0,
+      "depth": 0,
+      "permalink": "/r/cybersecurity/comments/1p0jr2y/favorite_threat_intelligence_platform/nplsnu0/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npkpofl",
+      "parent_id": "t3_1p0jr2y",
+      "author": "dehum22",
+      "text_history": [
+        [
+          "I really like digital shadows",
+          "2025-11-18T15:15:03.123404"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T15:15:03.123404"
+        ],
+        [
+          1,
+          "2025-11-18T23:03:43.934052"
+        ],
+        [
+          1,
+          "2025-11-19T00:47:51.054758"
+        ],
+        [
+          1,
+          "2025-11-19T02:22:46.036366"
+        ]
+      ],
+      "created_utc": 1763506228.0,
+      "depth": 0,
+      "permalink": "/r/cybersecurity/comments/1p0jr2y/favorite_threat_intelligence_platform/npkpofl/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npkymsv",
+      "parent_id": "t3_1p0jr2y",
+      "author": "Vexenzaliac",
+      "text_history": [
+        [
+          "Feedly is the goat",
+          "2025-11-18T23:03:43.934052"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T23:03:43.934052"
+        ],
+        [
+          1,
+          "2025-11-19T00:47:51.054758"
+        ],
+        [
+          1,
+          "2025-11-19T02:22:46.036366"
+        ]
+      ],
+      "created_utc": 1763509356.0,
+      "depth": 0,
+      "permalink": "/r/cybersecurity/comments/1p0jr2y/favorite_threat_intelligence_platform/npkymsv/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npljhpp",
+      "parent_id": "t3_1p0jr2y",
+      "author": "scooterthetroll",
+      "text_history": [
+        [
+          "VulnCheck, their KEV is free and 3x the size of CISA and days to weeks ahead.",
+          "2025-11-18T23:03:43.934052"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T23:03:43.934052"
+        ],
+        [
+          1,
+          "2025-11-19T00:47:51.054758"
+        ],
+        [
+          1,
+          "2025-11-19T02:22:46.036366"
+        ]
+      ],
+      "created_utc": 1763516770.0,
+      "depth": 0,
+      "permalink": "/r/cybersecurity/comments/1p0jr2y/favorite_threat_intelligence_platform/npljhpp/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npk6u5b",
+      "parent_id": "t3_1p0jr2y",
+      "author": "Ok-Bodybuilder-8015",
+      "text_history": [
+        [
+          "Hmm about citizens app?",
+          "2025-11-18T15:15:03.123404"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T15:15:03.123404"
+        ],
+        [
+          -5,
+          "2025-11-18T23:03:43.934052"
+        ],
+        [
+          -3,
+          "2025-11-19T00:47:51.054758"
+        ],
+        [
+          -4,
+          "2025-11-19T02:22:46.036366"
+        ]
+      ],
+      "created_utc": 1763500366.0,
+      "depth": 0,
+      "permalink": "/r/cybersecurity/comments/1p0jr2y/favorite_threat_intelligence_platform/npk6u5b/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T02:22:46.036366",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/cybersecurity/comments/1p0jr2y/favorite_threat_intelligence_platform/",
+    "total_comments": 11,
+    "top_level_comments": 7,
+    "api_requests": 1,
+    "expected_comments": 13,
+    "coverage_percent": 84.62,
+    "merged_snapshot_count": 4,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_151502.json",
+      "scrape_002_20251118_230343.json",
+      "scrape_003_20251119_004750.json",
+      "scrape_004_20251119_022245.json"
+    ]
+  }
+}

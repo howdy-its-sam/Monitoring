@@ -1,0 +1,233 @@
+{
+  "post": {
+    "id": "1p19wxw",
+    "title": "Can AI finally give small stores Amazon-level personalization?",
+    "author": "Sad_Perception_8890",
+    "score_history": [
+      [
+        1,
+        "2025-11-19T07:00:50.365610"
+      ],
+      [
+        1,
+        "2025-11-19T07:00:50.598689"
+      ],
+      [
+        1,
+        "2025-11-19T07:00:50.854252"
+      ],
+      [
+        1,
+        "2025-11-19T07:00:51.066574"
+      ],
+      [
+        1,
+        "2025-11-19T07:00:51.324762"
+      ],
+      [
+        1,
+        "2025-11-19T07:00:51.546973"
+      ],
+      [
+        1,
+        "2025-11-19T07:00:51.794914"
+      ],
+      [
+        1,
+        "2025-11-19T07:00:52.021889"
+      ],
+      [
+        1,
+        "2025-11-19T07:00:52.253978"
+      ],
+      [
+        1,
+        "2025-11-19T07:00:52.494196"
+      ],
+      [
+        1,
+        "2025-11-19T07:00:52.731985"
+      ],
+      [
+        1,
+        "2025-11-19T07:00:52.945817"
+      ],
+      [
+        1,
+        "2025-11-19T07:00:53.204889"
+      ],
+      [
+        1,
+        "2025-11-19T07:00:53.440285"
+      ],
+      [
+        1,
+        "2025-11-19T07:00:53.712032"
+      ],
+      [
+        1,
+        "2025-11-19T07:00:53.935037"
+      ],
+      [
+        1,
+        "2025-11-19T07:00:54.188807"
+      ],
+      [
+        1,
+        "2025-11-19T07:00:54.389137"
+      ],
+      [
+        1,
+        "2025-11-19T07:00:54.649841"
+      ],
+      [
+        1,
+        "2025-11-19T07:00:54.861164"
+      ]
+    ],
+    "created_utc": 1763564409.0,
+    "num_comments": 1,
+    "subreddit": "AI_Agents",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1p19wxw/can_ai_finally_give_small_stores_amazonlevel/",
+    "selftext": "We were talking about this internally today, and it still surprises us how long this gap has existed.  \n  \nScrolling through Product Hunt and seeing Markopolo AI trending reminded us of the core problem we’ve been obsessed with for the last two years:  \n  \nWhy don’t regular eCommerce stores follow up the way Amazon does?  \n  \nBig tech personalizes everything:  \n  \n• Amazon feels like it knows you  \n• Netflix senses when your interest dips  \n• TikTok, Meta, YouTube react to every micro-pause and intent signal  \n  \nBut most Shopify / WooCommerce stores? You leave and… nothing.  \n  \nMaybe an abandoned cart email, maybe a generic SMS, and that’s the end of the conversation. Meanwhile social platforms are optimizing based on a 0.2-second hover.  \n  \nIt’s not the store owners’ fault, true omnichannel, language-aware personalization wasn’t possible before AI. Not without massive engineering teams like Amazon’s.  \n  \nThat’s what pushed us to rebuild Markopolo AI from scratch: Stores should be able to follow up as intelligently as big tech… automatically, personally and at the exact moment the shopper is ready.  \n  \nSeeing it on today’s leaderboard made us reflect: If platforms can predict what you’ll watch next… why can’t your favourite store understand what you were hesitating to buy?  \n  \nWould love to hear what others think… is this the “of course this should exist” shift for eCommerce?  \n",
+    "permalink": "/r/AI_Agents/comments/1p19wxw/can_ai_finally_give_small_stores_amazonlevel/"
+  },
+  "comments": [
+    {
+      "id": "npoepfv",
+      "parent_id": "t3_1p19wxw",
+      "author": "AutoModerator",
+      "text_history": [
+        [
+          "Thank you for your submission, for any questions regarding AI, please check out our wiki at https://www.reddit.com/r/ai_agents/wiki (this is currently in test and we are actively adding to the wiki)\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/AI_Agents) if you have any questions or concerns.*",
+          "2025-11-19T07:00:50.365610"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T07:00:50.365610"
+        ],
+        [
+          1,
+          "2025-11-19T07:00:50.598689"
+        ],
+        [
+          1,
+          "2025-11-19T07:00:50.854252"
+        ],
+        [
+          1,
+          "2025-11-19T07:00:51.066574"
+        ],
+        [
+          1,
+          "2025-11-19T07:00:51.324762"
+        ],
+        [
+          1,
+          "2025-11-19T07:00:51.546973"
+        ],
+        [
+          1,
+          "2025-11-19T07:00:51.794914"
+        ],
+        [
+          1,
+          "2025-11-19T07:00:52.021889"
+        ],
+        [
+          1,
+          "2025-11-19T07:00:52.253978"
+        ],
+        [
+          1,
+          "2025-11-19T07:00:52.494196"
+        ],
+        [
+          1,
+          "2025-11-19T07:00:52.731985"
+        ],
+        [
+          1,
+          "2025-11-19T07:00:52.945817"
+        ],
+        [
+          1,
+          "2025-11-19T07:00:53.204889"
+        ],
+        [
+          1,
+          "2025-11-19T07:00:53.440285"
+        ],
+        [
+          1,
+          "2025-11-19T07:00:53.712032"
+        ],
+        [
+          1,
+          "2025-11-19T07:00:53.935037"
+        ],
+        [
+          1,
+          "2025-11-19T07:00:54.188807"
+        ],
+        [
+          1,
+          "2025-11-19T07:00:54.389137"
+        ],
+        [
+          1,
+          "2025-11-19T07:00:54.649841"
+        ],
+        [
+          1,
+          "2025-11-19T07:00:54.861164"
+        ]
+      ],
+      "created_utc": 1763564411.0,
+      "depth": 0,
+      "permalink": "/r/AI_Agents/comments/1p19wxw/can_ai_finally_give_small_stores_amazonlevel/npoepfv/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T07:00:54.861164",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/AI_Agents/comments/1p19wxw/can_ai_finally_give_small_stores_amazonlevel/",
+    "total_comments": 1,
+    "top_level_comments": 1,
+    "api_requests": 1,
+    "expected_comments": 1,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 20,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_070050.json",
+      "scrape_002_20251119_070050.json",
+      "scrape_003_20251119_070050.json",
+      "scrape_004_20251119_070050.json",
+      "scrape_005_20251119_070051.json",
+      "scrape_006_20251119_070051.json",
+      "scrape_007_20251119_070051.json",
+      "scrape_008_20251119_070051.json",
+      "scrape_009_20251119_070052.json",
+      "scrape_010_20251119_070052.json",
+      "scrape_011_20251119_070052.json",
+      "scrape_012_20251119_070052.json",
+      "scrape_013_20251119_070052.json",
+      "scrape_014_20251119_070053.json",
+      "scrape_015_20251119_070053.json",
+      "scrape_016_20251119_070053.json",
+      "scrape_017_20251119_070053.json",
+      "scrape_018_20251119_070054.json",
+      "scrape_019_20251119_070054.json",
+      "scrape_020_20251119_070054.json"
+    ]
+  }
+}

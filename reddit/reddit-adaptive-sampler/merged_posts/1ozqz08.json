@@ -1,0 +1,1517 @@
+{
+  "post": {
+    "id": "1ozqz08",
+    "title": "how i got thousands of dollars in free ai credits to build my app (guide)",
+    "author": "No-Offer5835",
+    "score_history": [
+      [
+        36,
+        "2025-11-18T13:49:40.942543"
+      ],
+      [
+        34,
+        "2025-11-18T14:00:59.177384"
+      ],
+      [
+        35,
+        "2025-11-18T14:12:16.701003"
+      ],
+      [
+        40,
+        "2025-11-18T21:49:53.726795"
+      ],
+      [
+        44,
+        "2025-11-18T23:54:36.217669"
+      ],
+      [
+        42,
+        "2025-11-19T01:40:02.959895"
+      ],
+      [
+        42,
+        "2025-11-19T02:32:50.155735"
+      ],
+      [
+        42,
+        "2025-11-19T02:36:26.639294"
+      ]
+    ],
+    "created_utc": 1763410433.0,
+    "num_comments": 27,
+    "subreddit": "ChatGPTCoding",
+    "url": "https://www.reddit.com/r/ChatGPTCoding/comments/1ozqz08/how_i_got_thousands_of_dollars_in_free_ai_credits/",
+    "selftext": "People kept asking how I got all the free AI credits for my app, so I put everything in one place.\n\nI kept seeing people say “use free credits” and never saw an actual list, so I spent way too long hunting them down. Sharing so you can skip the rabbit hole.\n\nquick hits first, links right there so you do not have to google anything:\n\nMicrosoft for Startups - Founders Hub\nsolo founder friendly, no investor needed at the beginning, gives you Azure credits you can use on Azure OpenAI plus GitHub etc\nhttps://www.microsoft.com/en-us/startups\n\nAWS Activate\nstartup focused AWS credits, smaller chunks if you are independent, bigger if you get into an accelerator or have a VC, having an LLC and real site helps a lot\nhttps://aws.amazon.com/activate/\n\nGoogle Cloud AI Startup Program\nfor AI first startups that already raised (seed/Series A), huge Google Cloud credits if you qualify, good if you want to live on Vertex AI and Gemini\nhttps://cloud.google.com/startup/ai\n\nElevenLabs Startup Grants\nif you are doing voice or conversational audio this is crazy useful, big pool of free characters for TTS and voice cloning for early stage teams\nhttps://elevenlabs.io/blog/elevenlabs-startup-grants-just-got-bigger-now-12-months-and-over-680-hours-of-conversational-ai-audio\n\nCohere Catalyst Grants\nAPI credits for research, public good and impact projects, especially if you are in academia or doing civic / nonprofit stuff\nhttps://cohere.com/research/grants\n\nMiniMax\nfree AI voice, music and LLM testing, you get a chunk of free monthly credits on the audio side so you can try voices and music before paying, defintely worth a spin if you need sound\nhttps://www.minimax.io/audio\n\nif you want a bigger list of recources, sites like CreditForStartups keep updated directories of tools and credit bundles from clouds, dev tools, etc, but the ones above are the stuff I would hit first\n\nI am using this whole free credit stack to build my app Dialed. it helps ADHD brains actually start tasks with short personalized pep talks instead of staring at the screen. a bit over 2,000 people are already using it to get themselves moving. if you deal with task paralysis or ADHD inertia, search Dialed on the App Store and try a pep talk next time your brain refuses to start something.",
+    "permalink": "/r/ChatGPTCoding/comments/1ozqz08/how_i_got_thousands_of_dollars_in_free_ai_credits/"
+  },
+  "comments": [
+    {
+      "id": "npdj74l",
+      "parent_id": "t3_1ozqz08",
+      "author": "No-Offer5835",
+      "text_history": [
+        [
+          "Proof it works\n\nhttps://preview.redd.it/iz0bmp63mv1g1.jpeg?width=590&amp;format=pjpg&amp;auto=webp&amp;s=33ee4601fb2df9547c05eb70cd11a7d42ceda375",
+          "2025-11-18T13:49:40.942543"
+        ]
+      ],
+      "score_history": [
+        [
+          4,
+          "2025-11-18T13:49:40.942543"
+        ],
+        [
+          4,
+          "2025-11-18T14:00:59.177384"
+        ],
+        [
+          5,
+          "2025-11-18T14:12:16.701003"
+        ],
+        [
+          5,
+          "2025-11-18T21:49:53.726795"
+        ],
+        [
+          5,
+          "2025-11-18T23:54:36.217669"
+        ],
+        [
+          5,
+          "2025-11-19T01:40:02.959895"
+        ],
+        [
+          5,
+          "2025-11-19T02:32:50.155735"
+        ],
+        [
+          4,
+          "2025-11-19T02:36:26.639294"
+        ]
+      ],
+      "created_utc": 1763410943.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTCoding/comments/1ozqz08/how_i_got_thousands_of_dollars_in_free_ai_credits/npdj74l/",
+      "is_submitter": true,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npe3dmi",
+          "parent_id": "t1_npdj74l",
+          "author": "No_Quantity_9561",
+          "text_history": [
+            [
+              "Is this ElevenLabs credits?",
+              "2025-11-18T13:49:40.942543"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T13:49:40.942543"
+            ],
+            [
+              1,
+              "2025-11-18T14:00:59.177384"
+            ],
+            [
+              1,
+              "2025-11-18T14:12:16.701003"
+            ],
+            [
+              1,
+              "2025-11-18T21:49:53.726795"
+            ],
+            [
+              1,
+              "2025-11-18T23:54:36.217669"
+            ],
+            [
+              1,
+              "2025-11-19T01:40:02.959895"
+            ],
+            [
+              1,
+              "2025-11-19T02:32:50.155735"
+            ],
+            [
+              1,
+              "2025-11-19T02:36:26.639294"
+            ]
+          ],
+          "created_utc": 1763417062.0,
+          "depth": 1,
+          "permalink": "/r/ChatGPTCoding/comments/1ozqz08/how_i_got_thousands_of_dollars_in_free_ai_credits/npe3dmi/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npe6vrl",
+              "parent_id": "t1_npe3dmi",
+              "author": "No-Offer5835",
+              "text_history": [
+                [
+                  "No this was open ai but I also have eleven labs credits!",
+                  "2025-11-18T13:49:40.942543"
+                ]
+              ],
+              "score_history": [
+                [
+                  -2,
+                  "2025-11-18T13:49:40.942543"
+                ],
+                [
+                  -2,
+                  "2025-11-18T14:00:59.177384"
+                ],
+                [
+                  -2,
+                  "2025-11-18T14:12:16.701003"
+                ],
+                [
+                  -1,
+                  "2025-11-18T21:49:53.726795"
+                ],
+                [
+                  -1,
+                  "2025-11-18T23:54:36.217669"
+                ],
+                [
+                  -1,
+                  "2025-11-19T01:40:02.959895"
+                ],
+                [
+                  -1,
+                  "2025-11-19T02:32:50.155735"
+                ],
+                [
+                  -1,
+                  "2025-11-19T02:36:26.639294"
+                ]
+              ],
+              "created_utc": 1763418172.0,
+              "depth": 2,
+              "permalink": "/r/ChatGPTCoding/comments/1ozqz08/how_i_got_thousands_of_dollars_in_free_ai_credits/npe6vrl/",
+              "is_submitter": true,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "npdlmkm",
+      "parent_id": "t3_1ozqz08",
+      "author": "Aqui10",
+      "text_history": [
+        [
+          "You get OpenAI credits from Azure?",
+          "2025-11-18T13:49:40.942543"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T13:49:40.942543"
+        ],
+        [
+          1,
+          "2025-11-18T14:00:59.177384"
+        ],
+        [
+          1,
+          "2025-11-18T14:12:16.701003"
+        ],
+        [
+          1,
+          "2025-11-18T21:49:53.726795"
+        ],
+        [
+          1,
+          "2025-11-18T23:54:36.217669"
+        ],
+        [
+          1,
+          "2025-11-19T01:40:02.959895"
+        ],
+        [
+          1,
+          "2025-11-19T02:32:50.155735"
+        ],
+        [
+          1,
+          "2025-11-19T02:36:26.639294"
+        ]
+      ],
+      "created_utc": 1763411683.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTCoding/comments/1ozqz08/how_i_got_thousands_of_dollars_in_free_ai_credits/npdlmkm/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npdlqrr",
+          "parent_id": "t1_npdlmkm",
+          "author": "No-Offer5835",
+          "text_history": [
+            [
+              "You can use open ai models through azure which is essentially the same!",
+              "2025-11-18T13:49:40.942543"
+            ]
+          ],
+          "score_history": [
+            [
+              2,
+              "2025-11-18T13:49:40.942543"
+            ],
+            [
+              2,
+              "2025-11-18T14:00:59.177384"
+            ],
+            [
+              2,
+              "2025-11-18T14:12:16.701003"
+            ],
+            [
+              2,
+              "2025-11-18T21:49:53.726795"
+            ],
+            [
+              2,
+              "2025-11-18T23:54:36.217669"
+            ],
+            [
+              2,
+              "2025-11-19T01:40:02.959895"
+            ],
+            [
+              2,
+              "2025-11-19T02:32:50.155735"
+            ],
+            [
+              2,
+              "2025-11-19T02:36:26.639294"
+            ]
+          ],
+          "created_utc": 1763411719.0,
+          "depth": 1,
+          "permalink": "/r/ChatGPTCoding/comments/1ozqz08/how_i_got_thousands_of_dollars_in_free_ai_credits/npdlqrr/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npe3emh",
+      "parent_id": "t3_1ozqz08",
+      "author": "Fit-Palpitation-7427",
+      "text_history": [
+        [
+          "Is there any for startup doing i2v with kling or maybe wan 2.2?",
+          "2025-11-18T13:49:40.942543"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T13:49:40.942543"
+        ],
+        [
+          1,
+          "2025-11-18T14:00:59.177384"
+        ],
+        [
+          1,
+          "2025-11-18T14:12:16.701003"
+        ],
+        [
+          1,
+          "2025-11-18T21:49:53.726795"
+        ],
+        [
+          1,
+          "2025-11-18T23:54:36.217669"
+        ],
+        [
+          1,
+          "2025-11-19T01:40:02.959895"
+        ],
+        [
+          1,
+          "2025-11-19T02:32:50.155735"
+        ],
+        [
+          1,
+          "2025-11-19T02:36:26.639294"
+        ]
+      ],
+      "created_utc": 1763417071.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTCoding/comments/1ozqz08/how_i_got_thousands_of_dollars_in_free_ai_credits/npe3emh/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npe70vm",
+          "parent_id": "t1_npe3emh",
+          "author": "No-Offer5835",
+          "text_history": [
+            [
+              "Not sure about those - never used them before!",
+              "2025-11-18T13:49:40.942543"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T13:49:40.942543"
+            ],
+            [
+              1,
+              "2025-11-18T14:00:59.177384"
+            ],
+            [
+              1,
+              "2025-11-18T14:12:16.701003"
+            ],
+            [
+              1,
+              "2025-11-18T21:49:53.726795"
+            ],
+            [
+              1,
+              "2025-11-18T23:54:36.217669"
+            ],
+            [
+              1,
+              "2025-11-19T01:40:02.959895"
+            ],
+            [
+              1,
+              "2025-11-19T02:32:50.155735"
+            ],
+            [
+              1,
+              "2025-11-19T02:36:26.639294"
+            ]
+          ],
+          "created_utc": 1763418216.0,
+          "depth": 1,
+          "permalink": "/r/ChatGPTCoding/comments/1ozqz08/how_i_got_thousands_of_dollars_in_free_ai_credits/npe70vm/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npextut",
+      "parent_id": "t3_1ozqz08",
+      "author": "[deleted]",
+      "text_history": [
+        [
+          "[removed]",
+          "2025-11-18T13:49:40.942543"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T13:49:40.942543"
+        ],
+        [
+          1,
+          "2025-11-18T14:00:59.177384"
+        ],
+        [
+          1,
+          "2025-11-18T14:12:16.701003"
+        ],
+        [
+          1,
+          "2025-11-18T21:49:53.726795"
+        ],
+        [
+          1,
+          "2025-11-18T23:54:36.217669"
+        ],
+        [
+          1,
+          "2025-11-19T01:40:02.959895"
+        ],
+        [
+          1,
+          "2025-11-19T02:32:50.155735"
+        ],
+        [
+          1,
+          "2025-11-19T02:36:26.639294"
+        ]
+      ],
+      "created_utc": 1763427424.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTCoding/comments/1ozqz08/how_i_got_thousands_of_dollars_in_free_ai_credits/npextut/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npextyj",
+          "parent_id": "t1_npextut",
+          "author": "AutoModerator",
+          "text_history": [
+            [
+              "Sorry, your submission has been removed due to inadequate account karma.\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/ChatGPTCoding) if you have any questions or concerns.*",
+              "2025-11-18T13:49:40.942543"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T13:49:40.942543"
+            ],
+            [
+              1,
+              "2025-11-18T14:00:59.177384"
+            ],
+            [
+              1,
+              "2025-11-18T14:12:16.701003"
+            ],
+            [
+              1,
+              "2025-11-18T21:49:53.726795"
+            ],
+            [
+              1,
+              "2025-11-18T23:54:36.217669"
+            ],
+            [
+              1,
+              "2025-11-19T01:40:02.959895"
+            ],
+            [
+              1,
+              "2025-11-19T02:32:50.155735"
+            ],
+            [
+              1,
+              "2025-11-19T02:36:26.639294"
+            ]
+          ],
+          "created_utc": 1763427425.0,
+          "depth": 1,
+          "permalink": "/r/ChatGPTCoding/comments/1ozqz08/how_i_got_thousands_of_dollars_in_free_ai_credits/npextyj/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npfxtws",
+      "parent_id": "t3_1ozqz08",
+      "author": "unfathomably_big",
+      "text_history": [
+        [
+          "Are you the guy who was trying to sell them for 50% off",
+          "2025-11-18T13:49:40.942543"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T13:49:40.942543"
+        ],
+        [
+          1,
+          "2025-11-18T14:00:59.177384"
+        ],
+        [
+          1,
+          "2025-11-18T14:12:16.701003"
+        ],
+        [
+          1,
+          "2025-11-18T21:49:53.726795"
+        ],
+        [
+          1,
+          "2025-11-18T23:54:36.217669"
+        ],
+        [
+          1,
+          "2025-11-19T01:40:02.959895"
+        ],
+        [
+          1,
+          "2025-11-19T02:32:50.155735"
+        ],
+        [
+          1,
+          "2025-11-19T02:36:26.639294"
+        ]
+      ],
+      "created_utc": 1763440924.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTCoding/comments/1ozqz08/how_i_got_thousands_of_dollars_in_free_ai_credits/npfxtws/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npfxxyv",
+          "parent_id": "t1_npfxtws",
+          "author": "No-Offer5835",
+          "text_history": [
+            [
+              "No haha",
+              "2025-11-18T13:49:40.942543"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T13:49:40.942543"
+            ],
+            [
+              1,
+              "2025-11-18T14:00:59.177384"
+            ],
+            [
+              1,
+              "2025-11-18T14:12:16.701003"
+            ],
+            [
+              1,
+              "2025-11-18T21:49:53.726795"
+            ],
+            [
+              1,
+              "2025-11-18T23:54:36.217669"
+            ],
+            [
+              1,
+              "2025-11-19T01:40:02.959895"
+            ],
+            [
+              1,
+              "2025-11-19T02:32:50.155735"
+            ],
+            [
+              1,
+              "2025-11-19T02:36:26.639294"
+            ]
+          ],
+          "created_utc": 1763440975.0,
+          "depth": 1,
+          "permalink": "/r/ChatGPTCoding/comments/1ozqz08/how_i_got_thousands_of_dollars_in_free_ai_credits/npfxxyv/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "nphcfky",
+      "parent_id": "t3_1ozqz08",
+      "author": "HixVAC",
+      "text_history": [
+        [
+          "Hey thanks for the heads up on the free compute!",
+          "2025-11-18T13:49:40.942543"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T13:49:40.942543"
+        ],
+        [
+          1,
+          "2025-11-18T14:00:59.177384"
+        ],
+        [
+          1,
+          "2025-11-18T14:12:16.701003"
+        ],
+        [
+          1,
+          "2025-11-18T21:49:53.726795"
+        ],
+        [
+          1,
+          "2025-11-18T23:54:36.217669"
+        ],
+        [
+          1,
+          "2025-11-19T01:40:02.959895"
+        ],
+        [
+          1,
+          "2025-11-19T02:32:50.155735"
+        ],
+        [
+          1,
+          "2025-11-19T02:36:26.639294"
+        ]
+      ],
+      "created_utc": 1763468856.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTCoding/comments/1ozqz08/how_i_got_thousands_of_dollars_in_free_ai_credits/nphcfky/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nphf7yj",
+      "parent_id": "t3_1ozqz08",
+      "author": "[deleted]",
+      "text_history": [
+        [
+          "[removed]",
+          "2025-11-18T13:49:40.942543"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T13:49:40.942543"
+        ],
+        [
+          1,
+          "2025-11-18T14:00:59.177384"
+        ],
+        [
+          1,
+          "2025-11-18T14:12:16.701003"
+        ],
+        [
+          1,
+          "2025-11-18T21:49:53.726795"
+        ],
+        [
+          1,
+          "2025-11-18T23:54:36.217669"
+        ],
+        [
+          1,
+          "2025-11-19T01:40:02.959895"
+        ],
+        [
+          1,
+          "2025-11-19T02:32:50.155735"
+        ],
+        [
+          1,
+          "2025-11-19T02:36:26.639294"
+        ]
+      ],
+      "created_utc": 1763470012.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTCoding/comments/1ozqz08/how_i_got_thousands_of_dollars_in_free_ai_credits/nphf7yj/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "nphf80v",
+          "parent_id": "t1_nphf7yj",
+          "author": "AutoModerator",
+          "text_history": [
+            [
+              "Sorry, your submission has been removed due to inadequate account karma.\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/ChatGPTCoding) if you have any questions or concerns.*",
+              "2025-11-18T13:49:40.942543"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T13:49:40.942543"
+            ],
+            [
+              1,
+              "2025-11-18T14:00:59.177384"
+            ],
+            [
+              1,
+              "2025-11-18T14:12:16.701003"
+            ],
+            [
+              1,
+              "2025-11-18T21:49:53.726795"
+            ],
+            [
+              1,
+              "2025-11-18T23:54:36.217669"
+            ],
+            [
+              1,
+              "2025-11-19T01:40:02.959895"
+            ],
+            [
+              1,
+              "2025-11-19T02:32:50.155735"
+            ],
+            [
+              1,
+              "2025-11-19T02:36:26.639294"
+            ]
+          ],
+          "created_utc": 1763470013.0,
+          "depth": 1,
+          "permalink": "/r/ChatGPTCoding/comments/1ozqz08/how_i_got_thousands_of_dollars_in_free_ai_credits/nphf80v/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npn5cjw",
+      "parent_id": "t3_1ozqz08",
+      "author": "[deleted]",
+      "text_history": [
+        [
+          "[removed]",
+          "2025-11-19T01:40:02.959895"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T01:40:02.959895"
+        ],
+        [
+          1,
+          "2025-11-19T02:32:50.155735"
+        ],
+        [
+          1,
+          "2025-11-19T02:36:26.639294"
+        ]
+      ],
+      "created_utc": 1763544125.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTCoding/comments/1ozqz08/how_i_got_thousands_of_dollars_in_free_ai_credits/npn5cjw/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npn5cmw",
+          "parent_id": "t1_npn5cjw",
+          "author": "AutoModerator",
+          "text_history": [
+            [
+              "Sorry, your submission has been removed due to inadequate account karma.\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/ChatGPTCoding) if you have any questions or concerns.*",
+              "2025-11-19T01:40:02.959895"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-19T01:40:02.959895"
+            ],
+            [
+              1,
+              "2025-11-19T02:32:50.155735"
+            ],
+            [
+              1,
+              "2025-11-19T02:36:26.639294"
+            ]
+          ],
+          "created_utc": 1763544126.0,
+          "depth": 1,
+          "permalink": "/r/ChatGPTCoding/comments/1ozqz08/how_i_got_thousands_of_dollars_in_free_ai_credits/npn5cmw/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npdxt97",
+      "parent_id": "t3_1ozqz08",
+      "author": "Strong-Strike2001",
+      "text_history": [
+        [
+          "Also Chutes have a startup program",
+          "2025-11-18T13:49:40.942543"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T13:49:40.942543"
+        ],
+        [
+          1,
+          "2025-11-18T14:00:59.177384"
+        ],
+        [
+          1,
+          "2025-11-18T14:12:16.701003"
+        ],
+        [
+          1,
+          "2025-11-18T21:49:53.726795"
+        ],
+        [
+          1,
+          "2025-11-18T23:54:36.217669"
+        ],
+        [
+          1,
+          "2025-11-19T01:40:02.959895"
+        ],
+        [
+          1,
+          "2025-11-19T02:32:50.155735"
+        ],
+        [
+          1,
+          "2025-11-19T02:36:26.639294"
+        ]
+      ],
+      "created_utc": 1763415384.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTCoding/comments/1ozqz08/how_i_got_thousands_of_dollars_in_free_ai_credits/npdxt97/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npdzy98",
+          "parent_id": "t1_npdxt97",
+          "author": "No-Offer5835",
+          "text_history": [
+            [
+              "Nice!",
+              "2025-11-18T13:49:40.942543"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T13:49:40.942543"
+            ],
+            [
+              1,
+              "2025-11-18T14:00:59.177384"
+            ],
+            [
+              1,
+              "2025-11-18T14:12:16.701003"
+            ],
+            [
+              1,
+              "2025-11-18T21:49:53.726795"
+            ],
+            [
+              1,
+              "2025-11-18T23:54:36.217669"
+            ],
+            [
+              1,
+              "2025-11-19T01:40:02.959895"
+            ],
+            [
+              1,
+              "2025-11-19T02:32:50.155735"
+            ],
+            [
+              1,
+              "2025-11-19T02:36:26.639294"
+            ]
+          ],
+          "created_utc": 1763416021.0,
+          "depth": 1,
+          "permalink": "/r/ChatGPTCoding/comments/1ozqz08/how_i_got_thousands_of_dollars_in_free_ai_credits/npdzy98/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npe4ljt",
+      "parent_id": "t3_1ozqz08",
+      "author": "angelarose210",
+      "text_history": [
+        [
+          "I got the $5k from Microsoft founders hub but can log into redeem it 🙁",
+          "2025-11-18T13:49:40.942543"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T13:49:40.942543"
+        ],
+        [
+          1,
+          "2025-11-18T14:00:59.177384"
+        ],
+        [
+          1,
+          "2025-11-18T14:12:16.701003"
+        ],
+        [
+          1,
+          "2025-11-18T21:49:53.726795"
+        ],
+        [
+          1,
+          "2025-11-18T23:54:36.217669"
+        ],
+        [
+          1,
+          "2025-11-19T01:40:02.959895"
+        ],
+        [
+          1,
+          "2025-11-19T02:32:50.155735"
+        ],
+        [
+          1,
+          "2025-11-19T02:36:26.639294"
+        ]
+      ],
+      "created_utc": 1763417446.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTCoding/comments/1ozqz08/how_i_got_thousands_of_dollars_in_free_ai_credits/npe4ljt/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npe6ypn",
+          "parent_id": "t1_npe4ljt",
+          "author": "No-Offer5835",
+          "text_history": [
+            [
+              "Weird - maybe try emailing them?",
+              "2025-11-18T13:49:40.942543"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T13:49:40.942543"
+            ],
+            [
+              1,
+              "2025-11-18T14:00:59.177384"
+            ],
+            [
+              1,
+              "2025-11-18T14:12:16.701003"
+            ],
+            [
+              1,
+              "2025-11-18T21:49:53.726795"
+            ],
+            [
+              1,
+              "2025-11-18T23:54:36.217669"
+            ],
+            [
+              1,
+              "2025-11-19T01:40:02.959895"
+            ],
+            [
+              1,
+              "2025-11-19T02:32:50.155735"
+            ],
+            [
+              1,
+              "2025-11-19T02:36:26.639294"
+            ]
+          ],
+          "created_utc": 1763418198.0,
+          "depth": 1,
+          "permalink": "/r/ChatGPTCoding/comments/1ozqz08/how_i_got_thousands_of_dollars_in_free_ai_credits/npe6ypn/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npeli69",
+              "parent_id": "t1_npe6ypn",
+              "author": "angelarose210",
+              "text_history": [
+                [
+                  "I did two different support requests and got the runaround",
+                  "2025-11-18T13:49:40.942543"
+                ]
+              ],
+              "score_history": [
+                [
+                  0,
+                  "2025-11-18T13:49:40.942543"
+                ],
+                [
+                  0,
+                  "2025-11-18T14:00:59.177384"
+                ],
+                [
+                  0,
+                  "2025-11-18T14:12:16.701003"
+                ],
+                [
+                  0,
+                  "2025-11-18T21:49:53.726795"
+                ],
+                [
+                  0,
+                  "2025-11-18T23:54:36.217669"
+                ],
+                [
+                  0,
+                  "2025-11-19T01:40:02.959895"
+                ],
+                [
+                  0,
+                  "2025-11-19T02:32:50.155735"
+                ],
+                [
+                  0,
+                  "2025-11-19T02:36:26.639294"
+                ]
+              ],
+              "created_utc": 1763423144.0,
+              "depth": 2,
+              "permalink": "/r/ChatGPTCoding/comments/1ozqz08/how_i_got_thousands_of_dollars_in_free_ai_credits/npeli69/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": [
+                {
+                  "id": "npeo6c3",
+                  "parent_id": "t1_npeli69",
+                  "author": "No_Quantity_9561",
+                  "text_history": [
+                    [
+                      "Have you signed up with your linkedin or outlook account? \n\nTry signing into this page and you'll see an option to Activate your credits : [https://portal.startups.microsoft.com/login](https://portal.startups.microsoft.com/login)",
+                      "2025-11-18T13:49:40.942543"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      0,
+                      "2025-11-18T13:49:40.942543"
+                    ],
+                    [
+                      0,
+                      "2025-11-18T14:00:59.177384"
+                    ],
+                    [
+                      0,
+                      "2025-11-18T14:12:16.701003"
+                    ],
+                    [
+                      0,
+                      "2025-11-18T21:49:53.726795"
+                    ],
+                    [
+                      0,
+                      "2025-11-18T23:54:36.217669"
+                    ],
+                    [
+                      0,
+                      "2025-11-19T01:40:02.959895"
+                    ],
+                    [
+                      0,
+                      "2025-11-19T02:32:50.155735"
+                    ],
+                    [
+                      0,
+                      "2025-11-19T02:36:26.639294"
+                    ]
+                  ],
+                  "created_utc": 1763424077.0,
+                  "depth": 3,
+                  "permalink": "/r/ChatGPTCoding/comments/1ozqz08/how_i_got_thousands_of_dollars_in_free_ai_credits/npeo6c3/",
+                  "is_submitter": false,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "npl7u56",
+          "parent_id": "t1_npe4ljt",
+          "author": "ApplesAreGood1312",
+          "text_history": [
+            [
+              "Microsoft Founders Hub is one of the jankiest sites I have ever interacted with.",
+              "2025-11-18T21:49:53.726795"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T21:49:53.726795"
+            ],
+            [
+              1,
+              "2025-11-18T23:54:36.217669"
+            ],
+            [
+              1,
+              "2025-11-19T01:40:02.959895"
+            ],
+            [
+              1,
+              "2025-11-19T02:32:50.155735"
+            ],
+            [
+              1,
+              "2025-11-19T02:36:26.639294"
+            ]
+          ],
+          "created_utc": 1763512592.0,
+          "depth": 1,
+          "permalink": "/r/ChatGPTCoding/comments/1ozqz08/how_i_got_thousands_of_dollars_in_free_ai_credits/npl7u56/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npdk8wn",
+      "parent_id": "t3_1ozqz08",
+      "author": "0xEbo",
+      "text_history": [
+        [
+          "Great resource ! Thanks for sharing !",
+          "2025-11-18T13:49:40.942543"
+        ]
+      ],
+      "score_history": [
+        [
+          0,
+          "2025-11-18T13:49:40.942543"
+        ],
+        [
+          0,
+          "2025-11-18T14:00:59.177384"
+        ],
+        [
+          0,
+          "2025-11-18T14:12:16.701003"
+        ],
+        [
+          0,
+          "2025-11-18T21:49:53.726795"
+        ],
+        [
+          0,
+          "2025-11-18T23:54:36.217669"
+        ],
+        [
+          0,
+          "2025-11-19T01:40:02.959895"
+        ],
+        [
+          0,
+          "2025-11-19T02:32:50.155735"
+        ],
+        [
+          0,
+          "2025-11-19T02:36:26.639294"
+        ]
+      ],
+      "created_utc": 1763411263.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTCoding/comments/1ozqz08/how_i_got_thousands_of_dollars_in_free_ai_credits/npdk8wn/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npdkci9",
+          "parent_id": "t1_npdk8wn",
+          "author": "No-Offer5835",
+          "text_history": [
+            [
+              "Of course :)",
+              "2025-11-18T13:49:40.942543"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T13:49:40.942543"
+            ],
+            [
+              1,
+              "2025-11-18T14:00:59.177384"
+            ],
+            [
+              1,
+              "2025-11-18T14:12:16.701003"
+            ],
+            [
+              1,
+              "2025-11-18T21:49:53.726795"
+            ],
+            [
+              1,
+              "2025-11-18T23:54:36.217669"
+            ],
+            [
+              1,
+              "2025-11-19T01:40:02.959895"
+            ],
+            [
+              1,
+              "2025-11-19T02:32:50.155735"
+            ],
+            [
+              1,
+              "2025-11-19T02:36:26.639294"
+            ]
+          ],
+          "created_utc": 1763411294.0,
+          "depth": 1,
+          "permalink": "/r/ChatGPTCoding/comments/1ozqz08/how_i_got_thousands_of_dollars_in_free_ai_credits/npdkci9/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npe5xrt",
+      "parent_id": "t3_1ozqz08",
+      "author": "OutsideSpirited2198",
+      "text_history": [
+        [
+          "I don't think anybody is asking tbh",
+          "2025-11-18T13:49:40.942543"
+        ]
+      ],
+      "score_history": [
+        [
+          -4,
+          "2025-11-18T13:49:40.942543"
+        ],
+        [
+          -5,
+          "2025-11-18T14:00:59.177384"
+        ],
+        [
+          -5,
+          "2025-11-18T14:12:16.701003"
+        ],
+        [
+          -5,
+          "2025-11-18T21:49:53.726795"
+        ],
+        [
+          -5,
+          "2025-11-18T23:54:36.217669"
+        ],
+        [
+          -5,
+          "2025-11-19T01:40:02.959895"
+        ],
+        [
+          -4,
+          "2025-11-19T02:32:50.155735"
+        ],
+        [
+          -4,
+          "2025-11-19T02:36:26.639294"
+        ]
+      ],
+      "created_utc": 1763417872.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTCoding/comments/1ozqz08/how_i_got_thousands_of_dollars_in_free_ai_credits/npe5xrt/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npe6x5x",
+          "parent_id": "t1_npe5xrt",
+          "author": "No-Offer5835",
+          "text_history": [
+            [
+              ":)",
+              "2025-11-18T13:49:40.942543"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T13:49:40.942543"
+            ],
+            [
+              1,
+              "2025-11-18T14:00:59.177384"
+            ],
+            [
+              1,
+              "2025-11-18T14:12:16.701003"
+            ],
+            [
+              1,
+              "2025-11-18T21:49:53.726795"
+            ],
+            [
+              1,
+              "2025-11-18T23:54:36.217669"
+            ],
+            [
+              1,
+              "2025-11-19T01:40:02.959895"
+            ],
+            [
+              1,
+              "2025-11-19T02:32:50.155735"
+            ],
+            [
+              1,
+              "2025-11-19T02:36:26.639294"
+            ]
+          ],
+          "created_utc": 1763418184.0,
+          "depth": 1,
+          "permalink": "/r/ChatGPTCoding/comments/1ozqz08/how_i_got_thousands_of_dollars_in_free_ai_credits/npe6x5x/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T02:36:26.639294",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/ChatGPTCoding/comments/1ozqz08/how_i_got_thousands_of_dollars_in_free_ai_credits/",
+    "total_comments": 27,
+    "top_level_comments": 12,
+    "api_requests": 1,
+    "expected_comments": 27,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 8,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_134940.json",
+      "scrape_002_20251118_140058.json",
+      "scrape_003_20251118_141216.json",
+      "scrape_004_20251118_214953.json",
+      "scrape_005_20251118_235435.json",
+      "scrape_006_20251119_014002.json",
+      "scrape_007_20251119_023249.json",
+      "scrape_008_20251119_023626.json"
+    ]
+  }
+}

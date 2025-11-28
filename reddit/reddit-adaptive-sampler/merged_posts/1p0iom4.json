@@ -1,0 +1,1538 @@
+{
+  "post": {
+    "id": "1p0iom4",
+    "title": "I spent the last week or so having a few arguments with people about LLMs and hitting walls, with a few expecting Gemini 3 to be an unimportant release. I want to hear from people who were skeptical, does this release so far change your mind if you thought we were at, or close to a wall?",
+    "author": "TFenrir",
+    "score_history": [
+      [
+        23,
+        "2025-11-19T02:55:45.634792"
+      ],
+      [
+        23,
+        "2025-11-19T03:04:55.175794"
+      ],
+      [
+        23,
+        "2025-11-19T03:16:02.903237"
+      ]
+    ],
+    "created_utc": 1763488186.0,
+    "num_comments": 44,
+    "subreddit": "singularity",
+    "url": "https://www.reddit.com/r/singularity/comments/1p0iom4/i_spent_the_last_week_or_so_having_a_few/",
+    "selftext": "Lots of discussions that happen in Reddit at large are anti AI and people are not reasonable about the topic. That's whatever, but lots of discussions in this sub I feel like have increasingly parroted similar talking points.\n\nThings like... We're at a wall, gpt5 shows we hit a limit, LLMs can't get any better, etc.\n\nIt's only been a couple of hours but the response to Gemini 3 is intense, even beyond benchmarks, users are effusive in their praise. \n\nFor those who would have agreed with this idea that we were hitting a wall, does this change your mind? To people in general, what does this release mark for you in your model of AI progress?",
+    "permalink": "/r/singularity/comments/1p0iom4/i_spent_the_last_week_or_so_having_a_few/"
+  },
+  "comments": [
+    {
+      "id": "npj2l3l",
+      "parent_id": "t3_1p0iom4",
+      "author": "Puzzled_Cycle_71",
+      "text_history": [
+        [
+          "Literally the smartest humans in history are being funded by the richest humans in history. No walls. If a plateau happens it will be because of limitations to the inferential abilities inherent in the architecture (but I wouldn't bank on it)",
+          "2025-11-19T02:55:45.634792"
+        ]
+      ],
+      "score_history": [
+        [
+          29,
+          "2025-11-19T02:55:45.634792"
+        ],
+        [
+          29,
+          "2025-11-19T03:04:55.175794"
+        ],
+        [
+          27,
+          "2025-11-19T03:16:02.903237"
+        ]
+      ],
+      "created_utc": 1763488459.0,
+      "depth": 0,
+      "permalink": "/r/singularity/comments/1p0iom4/i_spent_the_last_week_or_so_having_a_few/npj2l3l/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npj761m",
+          "parent_id": "t1_npj2l3l",
+          "author": "floodgater",
+          "text_history": [
+            [
+              "This. Very well put. AND all of those people are engaged in an all out (potentially ) winner take all race. No walls",
+              "2025-11-19T02:55:45.634792"
+            ]
+          ],
+          "score_history": [
+            [
+              7,
+              "2025-11-19T02:55:45.634792"
+            ],
+            [
+              8,
+              "2025-11-19T03:04:55.175794"
+            ],
+            [
+              11,
+              "2025-11-19T03:16:02.903237"
+            ]
+          ],
+          "created_utc": 1763489777.0,
+          "depth": 1,
+          "permalink": "/r/singularity/comments/1p0iom4/i_spent_the_last_week_or_so_having_a_few/npj761m/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        },
+        {
+          "id": "npk8219",
+          "parent_id": "t1_npj2l3l",
+          "author": "Lucky_Yam_1581",
+          "text_history": [
+            [
+              "Very well put! glad they moved away from funding cryptobros and other adjacent techbros!",
+              "2025-11-19T02:55:45.634792"
+            ]
+          ],
+          "score_history": [
+            [
+              3,
+              "2025-11-19T02:55:45.634792"
+            ],
+            [
+              3,
+              "2025-11-19T03:04:55.175794"
+            ],
+            [
+              3,
+              "2025-11-19T03:16:02.903237"
+            ]
+          ],
+          "created_utc": 1763500731.0,
+          "depth": 1,
+          "permalink": "/r/singularity/comments/1p0iom4/i_spent_the_last_week_or_so_having_a_few/npk8219/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        },
+        {
+          "id": "npj8ag2",
+          "parent_id": "t1_npj2l3l",
+          "author": "666callme",
+          "text_history": [
+            [
+              "Yeah but you are forgetting something,this is all derived by profit and richest men in history are either stupid (elon musk) or only here for profit and will withdraw all their money if they find something else more profitable(Thiel  and remember how much Zuckerberg was interested in the metaverse only to never talk about it again).\nI have no idea what to think about ai,the journalists are morons and the smart people have a skin in the game and benefit from lying to you,I dont trust anyone so I have no idea what to believe.",
+              "2025-11-19T02:55:45.634792"
+            ]
+          ],
+          "score_history": [
+            [
+              -3,
+              "2025-11-19T02:55:45.634792"
+            ],
+            [
+              -3,
+              "2025-11-19T03:04:55.175794"
+            ],
+            [
+              -2,
+              "2025-11-19T03:16:02.903237"
+            ]
+          ],
+          "created_utc": 1763490097.0,
+          "depth": 1,
+          "permalink": "/r/singularity/comments/1p0iom4/i_spent_the_last_week_or_so_having_a_few/npj8ag2/",
+          "is_submitter": false,
+          "controversiality": 1,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "nplin6r",
+              "parent_id": "t1_npj8ag2",
+              "author": "DungeonJailer",
+              "text_history": [
+                [
+                  "Yes the man who has contributed more to space technology than anyone but Von Braun and Korolev  is stupid.  Stop being blinded by political bias.",
+                  "2025-11-19T02:55:45.634792"
+                ]
+              ],
+              "score_history": [
+                [
+                  2,
+                  "2025-11-19T02:55:45.634792"
+                ],
+                [
+                  2,
+                  "2025-11-19T03:04:55.175794"
+                ],
+                [
+                  2,
+                  "2025-11-19T03:16:02.903237"
+                ]
+              ],
+              "created_utc": 1763516469.0,
+              "depth": 2,
+              "permalink": "/r/singularity/comments/1p0iom4/i_spent_the_last_week_or_so_having_a_few/nplin6r/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": [
+                {
+                  "id": "npliy2l",
+                  "parent_id": "t1_nplin6r",
+                  "author": "666callme",
+                  "text_history": [
+                    [
+                      "lol,haven’t you read my comment,I wish he focuses more on space and self driving he did a great job ther.",
+                      "2025-11-19T02:55:45.634792"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      1,
+                      "2025-11-19T02:55:45.634792"
+                    ],
+                    [
+                      1,
+                      "2025-11-19T03:04:55.175794"
+                    ],
+                    [
+                      1,
+                      "2025-11-19T03:16:02.903237"
+                    ]
+                  ],
+                  "created_utc": 1763516576.0,
+                  "depth": 3,
+                  "permalink": "/r/singularity/comments/1p0iom4/i_spent_the_last_week_or_so_having_a_few/npliy2l/",
+                  "is_submitter": false,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": [
+                    {
+                      "id": "nplm44e",
+                      "parent_id": "t1_npliy2l",
+                      "author": "DungeonJailer",
+                      "text_history": [
+                        [
+                          "You said he is stupid.",
+                          "2025-11-19T02:55:45.634792"
+                        ]
+                      ],
+                      "score_history": [
+                        [
+                          1,
+                          "2025-11-19T02:55:45.634792"
+                        ],
+                        [
+                          1,
+                          "2025-11-19T03:04:55.175794"
+                        ],
+                        [
+                          1,
+                          "2025-11-19T03:16:02.903237"
+                        ]
+                      ],
+                      "created_utc": 1763517705.0,
+                      "depth": 4,
+                      "permalink": "/r/singularity/comments/1p0iom4/i_spent_the_last_week_or_so_having_a_few/nplm44e/",
+                      "is_submitter": false,
+                      "controversiality": 0,
+                      "gilded": 0,
+                      "edited": false,
+                      "deleted": false,
+                      "deleted_at": null,
+                      "replies": [
+                        {
+                          "id": "nplpuvm",
+                          "parent_id": "t1_nplm44e",
+                          "author": "666callme",
+                          "text_history": [
+                            [
+                              "Did he gain anything for his time in politics? Or did he lose a lot ? Want his time better spent elsewhere?",
+                              "2025-11-19T02:55:45.634792"
+                            ]
+                          ],
+                          "score_history": [
+                            [
+                              2,
+                              "2025-11-19T02:55:45.634792"
+                            ],
+                            [
+                              2,
+                              "2025-11-19T03:04:55.175794"
+                            ],
+                            [
+                              2,
+                              "2025-11-19T03:16:02.903237"
+                            ]
+                          ],
+                          "created_utc": 1763519034.0,
+                          "depth": 5,
+                          "permalink": "/r/singularity/comments/1p0iom4/i_spent_the_last_week_or_so_having_a_few/nplpuvm/",
+                          "is_submitter": false,
+                          "controversiality": 0,
+                          "gilded": 0,
+                          "edited": false,
+                          "deleted": false,
+                          "deleted_at": null,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "npmw5fn",
+                  "parent_id": "t1_nplin6r",
+                  "author": "fatrabidrats",
+                  "text_history": [
+                    [
+                      "The best thing musk ever did was get a bunch of incredibly talented engineers together with the resources needed to work their magic. \n\n\nThat's about as far as his credit goes, it isn't fair to compare him to people who did all the engineering. \n\n\nLike, NASA literally tried to make the rockets without von braun and couldn't get it right. Musk, is not that kind of man.",
+                      "2025-11-19T02:55:45.634792"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      1,
+                      "2025-11-19T02:55:45.634792"
+                    ],
+                    [
+                      1,
+                      "2025-11-19T03:04:55.175794"
+                    ],
+                    [
+                      1,
+                      "2025-11-19T03:16:02.903237"
+                    ]
+                  ],
+                  "created_utc": 1763538402.0,
+                  "depth": 3,
+                  "permalink": "/r/singularity/comments/1p0iom4/i_spent_the_last_week_or_so_having_a_few/npmw5fn/",
+                  "is_submitter": false,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": [
+                    {
+                      "id": "npnalur",
+                      "parent_id": "t1_npmw5fn",
+                      "author": "DungeonJailer",
+                      "text_history": [
+                        [
+                          "Then why is everyone else so far behind musk?  Blue Origin has a billionaire in charge and even more employees.  They’ve launched like one rocket.  Elon has launched more than the rest of the US combined in its entire history.  How is Elon able to make starship so much cheaper than SLS?",
+                          "2025-11-19T02:55:45.634792"
+                        ]
+                      ],
+                      "score_history": [
+                        [
+                          1,
+                          "2025-11-19T02:55:45.634792"
+                        ],
+                        [
+                          1,
+                          "2025-11-19T03:04:55.175794"
+                        ],
+                        [
+                          1,
+                          "2025-11-19T03:16:02.903237"
+                        ]
+                      ],
+                      "created_utc": 1763547382.0,
+                      "depth": 4,
+                      "permalink": "/r/singularity/comments/1p0iom4/i_spent_the_last_week_or_so_having_a_few/npnalur/",
+                      "is_submitter": false,
+                      "controversiality": 0,
+                      "gilded": 0,
+                      "edited": false,
+                      "deleted": false,
+                      "deleted_at": null,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "npjibps",
+              "parent_id": "t1_npj8ag2",
+              "author": "Additional-Bee1379",
+              "text_history": [
+                [
+                  "Musk is an ass, but he's not stupid.",
+                  "2025-11-19T02:55:45.634792"
+                ]
+              ],
+              "score_history": [
+                [
+                  4,
+                  "2025-11-19T02:55:45.634792"
+                ],
+                [
+                  4,
+                  "2025-11-19T03:04:55.175794"
+                ],
+                [
+                  4,
+                  "2025-11-19T03:16:02.903237"
+                ]
+              ],
+              "created_utc": 1763492999.0,
+              "depth": 2,
+              "permalink": "/r/singularity/comments/1p0iom4/i_spent_the_last_week_or_so_having_a_few/npjibps/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": [
+                {
+                  "id": "npjpcs8",
+                  "parent_id": "t1_npjibps",
+                  "author": "666callme",
+                  "text_history": [
+                    [
+                      "All I'm saying if he was smart he would have been a lot richer,how can you be the one flying rocket to Mars and the most hated person in the world.if he didnt do the politic shit which resulted of him being hated by both sides tesla stocks would be soaring right now.",
+                      "2025-11-19T02:55:45.634792"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      -1,
+                      "2025-11-19T02:55:45.634792"
+                    ],
+                    [
+                      -1,
+                      "2025-11-19T03:04:55.175794"
+                    ],
+                    [
+                      -1,
+                      "2025-11-19T03:16:02.903237"
+                    ]
+                  ],
+                  "created_utc": 1763495105.0,
+                  "depth": 3,
+                  "permalink": "/r/singularity/comments/1p0iom4/i_spent_the_last_week_or_so_having_a_few/npjpcs8/",
+                  "is_submitter": false,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": [
+                    {
+                      "id": "npk664h",
+                      "parent_id": "t1_npjpcs8",
+                      "author": "StraightTrifle",
+                      "text_history": [
+                        [
+                          "He's on track to become the first trillionaire in human history what the fuck are you talking about",
+                          "2025-11-19T02:55:45.634792"
+                        ]
+                      ],
+                      "score_history": [
+                        [
+                          6,
+                          "2025-11-19T02:55:45.634792"
+                        ],
+                        [
+                          5,
+                          "2025-11-19T03:04:55.175794"
+                        ],
+                        [
+                          6,
+                          "2025-11-19T03:16:02.903237"
+                        ]
+                      ],
+                      "created_utc": 1763500171.0,
+                      "depth": 4,
+                      "permalink": "/r/singularity/comments/1p0iom4/i_spent_the_last_week_or_so_having_a_few/npk664h/",
+                      "is_submitter": false,
+                      "controversiality": 0,
+                      "gilded": 0,
+                      "edited": false,
+                      "deleted": false,
+                      "deleted_at": null,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "npjjfr0",
+      "parent_id": "t3_1p0iom4",
+      "author": "kaggleqrdl",
+      "text_history": [
+        [
+          "the visual stuff is cool and I think is a key step forward, so in that regard we haven't hit a wall, but coming in 3rd on swebench is a red flag for sure.   We need to see how it does on stuff like frontier math benchmark.  I did some lean math stuff and it seems to be better even though it is hallucinating things.\n\nunless we can see serious progress on frontier math, yes, we've definitely hit a wall.  \n\nBut I imagine there will be some progress at least.  at least I hope so.",
+          "2025-11-19T02:55:45.634792"
+        ]
+      ],
+      "score_history": [
+        [
+          6,
+          "2025-11-19T02:55:45.634792"
+        ],
+        [
+          5,
+          "2025-11-19T03:04:55.175794"
+        ],
+        [
+          7,
+          "2025-11-19T03:16:02.903237"
+        ]
+      ],
+      "created_utc": 1763493330.0,
+      "depth": 0,
+      "permalink": "/r/singularity/comments/1p0iom4/i_spent_the_last_week_or_so_having_a_few/npjjfr0/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npkmuxj",
+          "parent_id": "t1_npjjfr0",
+          "author": "socoolandawesome",
+          "text_history": [
+            [
+              "Why is frontier math the only measure of whether we hit a wall?",
+              "2025-11-19T02:55:45.634792"
+            ]
+          ],
+          "score_history": [
+            [
+              2,
+              "2025-11-19T02:55:45.634792"
+            ],
+            [
+              2,
+              "2025-11-19T03:04:55.175794"
+            ],
+            [
+              2,
+              "2025-11-19T03:16:02.903237"
+            ]
+          ],
+          "created_utc": 1763505295.0,
+          "depth": 1,
+          "permalink": "/r/singularity/comments/1p0iom4/i_spent_the_last_week_or_so_having_a_few/npkmuxj/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        },
+        {
+          "id": "npk8hla",
+          "parent_id": "t1_npjjfr0",
+          "author": "Lucky_Yam_1581",
+          "text_history": [
+            [
+              "I feel coming in 3rd may be a strategic decision for anthropic to keep earning billions from enterprises and save their billions of their own money as investment in anthropic",
+              "2025-11-19T02:55:45.634792"
+            ]
+          ],
+          "score_history": [
+            [
+              -2,
+              "2025-11-19T02:55:45.634792"
+            ],
+            [
+              -2,
+              "2025-11-19T03:04:55.175794"
+            ],
+            [
+              -2,
+              "2025-11-19T03:16:02.903237"
+            ]
+          ],
+          "created_utc": 1763500858.0,
+          "depth": 1,
+          "permalink": "/r/singularity/comments/1p0iom4/i_spent_the_last_week_or_so_having_a_few/npk8hla/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npj3j9z",
+      "parent_id": "t3_1p0iom4",
+      "author": "Mighty-anemone",
+      "text_history": [
+        [
+          "As Demis says, we're going to need more architectural breakthroughs, but I am confident they'll come. Companies like Verses and Sakana are already developing versatile scaleable alternatives. Le Cun is also one to watch, of course",
+          "2025-11-19T02:55:45.634792"
+        ]
+      ],
+      "score_history": [
+        [
+          3,
+          "2025-11-19T02:55:45.634792"
+        ],
+        [
+          3,
+          "2025-11-19T03:04:55.175794"
+        ],
+        [
+          3,
+          "2025-11-19T03:16:02.903237"
+        ]
+      ],
+      "created_utc": 1763488730.0,
+      "depth": 0,
+      "permalink": "/r/singularity/comments/1p0iom4/i_spent_the_last_week_or_so_having_a_few/npj3j9z/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npj5a2s",
+          "parent_id": "t1_npj3j9z",
+          "author": "HyperQuandaryAck",
+          "text_history": [
+            [
+              "i like to imagine a device that incorporates current transformer elements in it as a small part of the whole. what a cool concept",
+              "2025-11-19T02:55:45.634792"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-19T02:55:45.634792"
+            ],
+            [
+              1,
+              "2025-11-19T03:04:55.175794"
+            ],
+            [
+              1,
+              "2025-11-19T03:16:02.903237"
+            ]
+          ],
+          "created_utc": 1763489236.0,
+          "depth": 1,
+          "permalink": "/r/singularity/comments/1p0iom4/i_spent_the_last_week_or_so_having_a_few/npj5a2s/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npj3lyj",
+      "parent_id": "t3_1p0iom4",
+      "author": "Brilliant-Weekend-68",
+      "text_history": [
+        [
+          "I was getting worried that there would be a wall. 3.0 has removed these worries from me at least. Awesome model!",
+          "2025-11-19T02:55:45.634792"
+        ]
+      ],
+      "score_history": [
+        [
+          7,
+          "2025-11-19T02:55:45.634792"
+        ],
+        [
+          6,
+          "2025-11-19T03:04:55.175794"
+        ],
+        [
+          5,
+          "2025-11-19T03:16:02.903237"
+        ]
+      ],
+      "created_utc": 1763488752.0,
+      "depth": 0,
+      "permalink": "/r/singularity/comments/1p0iom4/i_spent_the_last_week_or_so_having_a_few/npj3lyj/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npj8dyk",
+      "parent_id": "t3_1p0iom4",
+      "author": "FateOfMuffins",
+      "text_history": [
+        [
+          "I cannot understand how people thinks there's a wall when the whole slew of competitions happened this summer with an experimental model. Like, we *know* GPT 5 isn't the best OpenAI has even as of July before they released GPT 5. So what does GPT 5 even tell us about frontier capabilities other than setting a floor? Nothing. \n\nOn a sidenote, it seems to me that OpenAI holds onto their models longer than others. Like Google didn't have Gemini 3 for those competitions this summer (otherwise I doubt they would've let themselves get embarrassed by OpenAI for the ICPC). It seems Google's turnaround is much faster when releasing models.\n\nPossibly because they are (were) playing catch-up while OpenAI had the leeway? So like, OpenAI never releases the best they have. Similarly to how OpenAI had o3 benchmarks in December and released it in April after Google showed their hand for Gemini 2.5 in March, I'm expecting more next month. \n\n\nOn a side note something feels a little weird in hindsight with some of the competitions this summer. I recall maybe around a year ago or so, Google had 3 levels of Gemini - Flash, Pro and Ultra. Where Ultra is internal only and Pro is distilled from Ultra, such that each version of Pro is roughly speaking equal performance as the last generation of Ultra. It seems to me that they've completely abandoned Ultra even internally? In favor of more test time compute with DeepThink, once Google got reasoning models starting with 2.5 Pro.",
+          "2025-11-19T02:55:45.634792"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-19T02:55:45.634792"
+        ],
+        [
+          2,
+          "2025-11-19T03:04:55.175794"
+        ],
+        [
+          2,
+          "2025-11-19T03:16:02.903237"
+        ]
+      ],
+      "created_utc": 1763490125.0,
+      "depth": 0,
+      "permalink": "/r/singularity/comments/1p0iom4/i_spent_the_last_week_or_so_having_a_few/npj8dyk/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npj2x89",
+      "parent_id": "t3_1p0iom4",
+      "author": "stopthecope",
+      "text_history": [
+        [
+          "&gt; I spent last week having arguments about LLMs\n\n\nbut why?",
+          "2025-11-19T02:55:45.634792"
+        ]
+      ],
+      "score_history": [
+        [
+          3,
+          "2025-11-19T02:55:45.634792"
+        ],
+        [
+          3,
+          "2025-11-19T03:04:55.175794"
+        ],
+        [
+          1,
+          "2025-11-19T03:16:02.903237"
+        ]
+      ],
+      "created_utc": 1763488555.0,
+      "depth": 0,
+      "permalink": "/r/singularity/comments/1p0iom4/i_spent_the_last_week_or_so_having_a_few/npj2x89/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npj3csm",
+          "parent_id": "t1_npj2x89",
+          "author": "TFenrir",
+          "text_history": [
+            [
+              "Mmm. I enjoy debating, I think the singularity is a real thing that is going to happen soon (10ish years, with fuzziness around definitions) and I think it's better if everyone is aware. Also it helps me build a better model of what people from different parts of the Internet think and understand about AI",
+              "2025-11-19T02:55:45.634792"
+            ]
+          ],
+          "score_history": [
+            [
+              7,
+              "2025-11-19T02:55:45.634792"
+            ],
+            [
+              8,
+              "2025-11-19T03:04:55.175794"
+            ],
+            [
+              7,
+              "2025-11-19T03:16:02.903237"
+            ]
+          ],
+          "created_utc": 1763488678.0,
+          "depth": 1,
+          "permalink": "/r/singularity/comments/1p0iom4/i_spent_the_last_week_or_so_having_a_few/npj3csm/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npjaaqm",
+              "parent_id": "t1_npj3csm",
+              "author": "TallonZek",
+              "text_history": [
+                [
+                  "We are boiling frogs.",
+                  "2025-11-19T02:55:45.634792"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-19T02:55:45.634792"
+                ],
+                [
+                  1,
+                  "2025-11-19T03:04:55.175794"
+                ],
+                [
+                  1,
+                  "2025-11-19T03:16:02.903237"
+                ]
+              ],
+              "created_utc": 1763490672.0,
+              "depth": 2,
+              "permalink": "/r/singularity/comments/1p0iom4/i_spent_the_last_week_or_so_having_a_few/npjaaqm/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": [
+                {
+                  "id": "npk7vhf",
+                  "parent_id": "t1_npjaaqm",
+                  "author": "Puzzled_Cycle_71",
+                  "text_history": [
+                    [
+                      "we're boiling frogs boiling ourselves; like we could just not, but we must.",
+                      "2025-11-19T02:55:45.634792"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      2,
+                      "2025-11-19T02:55:45.634792"
+                    ],
+                    [
+                      2,
+                      "2025-11-19T03:04:55.175794"
+                    ],
+                    [
+                      2,
+                      "2025-11-19T03:16:02.903237"
+                    ]
+                  ],
+                  "created_utc": 1763500677.0,
+                  "depth": 3,
+                  "permalink": "/r/singularity/comments/1p0iom4/i_spent_the_last_week_or_so_having_a_few/npk7vhf/",
+                  "is_submitter": false,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "npk9by4",
+              "parent_id": "t1_npj3csm",
+              "author": "AlverinMoon",
+              "text_history": [
+                [
+                  "We should debate some time if you're an optimist. I'm a certified doomer. Where do you do your debating?",
+                  "2025-11-19T02:55:45.634792"
+                ]
+              ],
+              "score_history": [
+                [
+                  0,
+                  "2025-11-19T02:55:45.634792"
+                ],
+                [
+                  0,
+                  "2025-11-19T03:04:55.175794"
+                ],
+                [
+                  0,
+                  "2025-11-19T03:16:02.903237"
+                ]
+              ],
+              "created_utc": 1763501105.0,
+              "depth": 2,
+              "permalink": "/r/singularity/comments/1p0iom4/i_spent_the_last_week_or_so_having_a_few/npk9by4/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": [
+                {
+                  "id": "npkbkly",
+                  "parent_id": "t1_npk9by4",
+                  "author": "TFenrir",
+                  "text_history": [
+                    [
+                      "I'll do it here, love a good debate so I'm down",
+                      "2025-11-19T02:55:45.634792"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      2,
+                      "2025-11-19T02:55:45.634792"
+                    ],
+                    [
+                      2,
+                      "2025-11-19T03:04:55.175794"
+                    ],
+                    [
+                      2,
+                      "2025-11-19T03:16:02.903237"
+                    ]
+                  ],
+                  "created_utc": 1763501779.0,
+                  "depth": 3,
+                  "permalink": "/r/singularity/comments/1p0iom4/i_spent_the_last_week_or_so_having_a_few/npkbkly/",
+                  "is_submitter": true,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": [
+                    {
+                      "id": "nplz5bu",
+                      "parent_id": "t1_npkbkly",
+                      "author": "AlverinMoon",
+                      "text_history": [
+                        [
+                          "Do you believe superintelligence is possible and imminent?",
+                          "2025-11-19T02:55:45.634792"
+                        ]
+                      ],
+                      "score_history": [
+                        [
+                          1,
+                          "2025-11-19T02:55:45.634792"
+                        ],
+                        [
+                          1,
+                          "2025-11-19T03:04:55.175794"
+                        ],
+                        [
+                          1,
+                          "2025-11-19T03:16:02.903237"
+                        ]
+                      ],
+                      "created_utc": 1763522403.0,
+                      "depth": 4,
+                      "permalink": "/r/singularity/comments/1p0iom4/i_spent_the_last_week_or_so_having_a_few/nplz5bu/",
+                      "is_submitter": false,
+                      "controversiality": 0,
+                      "gilded": 0,
+                      "edited": false,
+                      "deleted": false,
+                      "deleted_at": null,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "npj5sr2",
+      "parent_id": "t3_1p0iom4",
+      "author": "bobcatgoldthwait",
+      "text_history": [
+        [
+          "I'm curious how many of us are using these tools in a way that we can really tell?\n\nI use it for *lots* of things, including help with software development.  I guess the best barometer for me is \"how quickly can it get me to the right answer?  How often does the code it gives me contain bugs that needs some refinement?\"  But that's the most advanced use case for me.  Any other time I'm just asking general questions; any question that might pop up in day-to-day life.\n\nFor example, last week I had a leaky pipe in my house.  I took some pictures, asked it some questions, used it to try to help diagnose the problem.  It's already pretty damn good at stuff like that.  I am sure at times it's spitting out a hallucination/incorrect information, but more often than not, I'm just not going to know unless it's a topic I'm *deeply* familiar with.\n\nI think for me the next true improvement I would hope to see is better memory; more consistency across responses.  As an example, I've got a Vue project I'm working on that was built in JavaScript.  When I have to modify a function or something, ChatGPT often gives me back an example in TypeScript, and I have to remind it that I'm not using TS for this project and to not give me an example in TS unless I tell it to.  It'll remember for the rest of that chat, but if I open a new chat it defaults to TS again.\n\nI guess what I want to see next is learning.  Not just in the sense that \"I have updated my memory to include that you are using JS for this app\" but actual updates to its training data (or something like a separate set of training data that is exclusive to each user) so that it truly remembers and maintains total consistency across all conversations.",
+          "2025-11-19T02:55:45.634792"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:55:45.634792"
+        ],
+        [
+          1,
+          "2025-11-19T03:04:55.175794"
+        ],
+        [
+          1,
+          "2025-11-19T03:16:02.903237"
+        ]
+      ],
+      "created_utc": 1763489385.0,
+      "depth": 0,
+      "permalink": "/r/singularity/comments/1p0iom4/i_spent_the_last_week_or_so_having_a_few/npj5sr2/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npj8ylg",
+      "parent_id": "t3_1p0iom4",
+      "author": "DepartmentDapper9823",
+      "text_history": [
+        [
+          "I'm too dumb to see how much better it is than Gemini 2.5. But I can say that it's already helping me with my projects and is performing brilliantly. Its responses have become neater, more accurate, and more like what human experts would write. It's started formatting mathematical expressions in LaTeX without me having to remind it. I'll need to use it for at least a week to see how much less hallucinatory it is.",
+          "2025-11-19T02:55:45.634792"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:55:45.634792"
+        ],
+        [
+          1,
+          "2025-11-19T03:04:55.175794"
+        ],
+        [
+          1,
+          "2025-11-19T03:16:02.903237"
+        ]
+      ],
+      "created_utc": 1763490290.0,
+      "depth": 0,
+      "permalink": "/r/singularity/comments/1p0iom4/i_spent_the_last_week_or_so_having_a_few/npj8ylg/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npliam3",
+      "parent_id": "t3_1p0iom4",
+      "author": "DungeonJailer",
+      "text_history": [
+        [
+          "No we are still plateauing.  It’s better than I expected, but nothing revolutionary.  I will believe that there is no plateau when ai is regularly and indisputably making new scientific or mathematical discoveries.  Right now it’s still a regurgitation machine.  A very good one though.  I expect agi around 2035-2045.",
+          "2025-11-19T02:55:45.634792"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:55:45.634792"
+        ],
+        [
+          1,
+          "2025-11-19T03:04:55.175794"
+        ],
+        [
+          1,
+          "2025-11-19T03:16:02.903237"
+        ]
+      ],
+      "created_utc": 1763516346.0,
+      "depth": 0,
+      "permalink": "/r/singularity/comments/1p0iom4/i_spent_the_last_week_or_so_having_a_few/npliam3/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "nplja8w",
+          "parent_id": "t1_npliam3",
+          "author": "TFenrir",
+          "text_history": [
+            [
+              "I mean... It is? Have you been following along with alpha evolve and similar research?",
+              "2025-11-19T02:55:45.634792"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-19T02:55:45.634792"
+            ],
+            [
+              1,
+              "2025-11-19T03:04:55.175794"
+            ],
+            [
+              1,
+              "2025-11-19T03:16:02.903237"
+            ]
+          ],
+          "created_utc": 1763516695.0,
+          "depth": 1,
+          "permalink": "/r/singularity/comments/1p0iom4/i_spent_the_last_week_or_so_having_a_few/nplja8w/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "nplm03y",
+              "parent_id": "t1_nplja8w",
+              "author": "DungeonJailer",
+              "text_history": [
+                [
+                  "I’ve heard of a few interesting things that maybe sound like they might count as new discoveries, but that wasn’t what I specified.  Finding one new algorithm that solves a niche problem isn’t what I’m looking for.  Coming up with a good theory of quantum gravity would count as AGI in my book, and I think it will be ai that does that, but probably in 20-40 years rather than 2-5 years.",
+                  "2025-11-19T02:55:45.634792"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-19T02:55:45.634792"
+                ],
+                [
+                  1,
+                  "2025-11-19T03:04:55.175794"
+                ],
+                [
+                  1,
+                  "2025-11-19T03:16:02.903237"
+                ]
+              ],
+              "created_utc": 1763517666.0,
+              "depth": 2,
+              "permalink": "/r/singularity/comments/1p0iom4/i_spent_the_last_week_or_so_having_a_few/nplm03y/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": [
+                {
+                  "id": "nplmu49",
+                  "parent_id": "t1_nplm03y",
+                  "author": "RipleyVanDalen",
+                  "text_history": [
+                    [
+                      "That is a ridiculously high bar. And not a very useful one.",
+                      "2025-11-19T02:55:45.634792"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      1,
+                      "2025-11-19T02:55:45.634792"
+                    ],
+                    [
+                      1,
+                      "2025-11-19T03:04:55.175794"
+                    ],
+                    [
+                      1,
+                      "2025-11-19T03:16:02.903237"
+                    ]
+                  ],
+                  "created_utc": 1763517959.0,
+                  "depth": 3,
+                  "permalink": "/r/singularity/comments/1p0iom4/i_spent_the_last_week_or_so_having_a_few/nplmu49/",
+                  "is_submitter": false,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "npj4jyb",
+      "parent_id": "t3_1p0iom4",
+      "author": "LexyconG",
+      "text_history": [
+        [
+          "wall",
+          "2025-11-19T02:55:45.634792"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:55:45.634792"
+        ],
+        [
+          1,
+          "2025-11-19T03:04:55.175794"
+        ],
+        [
+          1,
+          "2025-11-19T03:16:02.903237"
+        ]
+      ],
+      "created_utc": 1763489023.0,
+      "depth": 0,
+      "permalink": "/r/singularity/comments/1p0iom4/i_spent_the_last_week_or_so_having_a_few/npj4jyb/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npjo3sl",
+      "parent_id": "t3_1p0iom4",
+      "author": "Mandoman61",
+      "text_history": [
+        [
+          "which wall are we talking about? \n\n\nthe training data availability wall?\n\n\nthe AGI wall?\n\n\nThe cost of improvement wall?\n\n\nI do not think that simply getting better benchmark scores in itself really tells us much.\n\n\nI have never heard of a benchmark score wall. ",
+          "2025-11-19T02:55:45.634792"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:55:45.634792"
+        ],
+        [
+          1,
+          "2025-11-19T03:04:55.175794"
+        ],
+        [
+          1,
+          "2025-11-19T03:16:02.903237"
+        ]
+      ],
+      "created_utc": 1763494730.0,
+      "depth": 0,
+      "permalink": "/r/singularity/comments/1p0iom4/i_spent_the_last_week_or_so_having_a_few/npjo3sl/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npjow38",
+          "parent_id": "t1_npjo3sl",
+          "author": "TFenrir",
+          "text_history": [
+            [
+              "Well which wall? None of the ones here really seem to exist, and Gemini shows that in spades. I mean training data availability wall is a good example of a wall that didn't exist even before Gemini. Most of the data we want/use now is synthetic. I don't even know what an AGI wall is.\n\nWhen people talk about walls, they generally mean raw capability - which benchmarks are a proxy for, eg - ARC AGI, frontier math.\n\nIn fact, when I talk to people about walls, it's almost always benchmark adjacent",
+              "2025-11-19T02:55:45.634792"
+            ]
+          ],
+          "score_history": [
+            [
+              2,
+              "2025-11-19T02:55:45.634792"
+            ],
+            [
+              2,
+              "2025-11-19T03:04:55.175794"
+            ],
+            [
+              2,
+              "2025-11-19T03:16:02.903237"
+            ]
+          ],
+          "created_utc": 1763494967.0,
+          "depth": 1,
+          "permalink": "/r/singularity/comments/1p0iom4/i_spent_the_last_week_or_so_having_a_few/npjow38/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npjsg9w",
+              "parent_id": "t1_npjow38",
+              "author": "Mandoman61",
+              "text_history": [
+                [
+                  "I don't think that any significant portion of training data is synthetic. we do keep producing new data but the bulk has already been used. \n\n\nThe AGI wall would be moving from LLM to AGI.\n\n\nBenchmarks have never demonstrated raw capabilities well because the represent a tiny fraction of all possible questions.\n\n\ninteresting, I do not think I have ever seen someone make a claim that some new model will not improve on a benchmark.",
+                  "2025-11-19T02:55:45.634792"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-19T02:55:45.634792"
+                ],
+                [
+                  1,
+                  "2025-11-19T03:04:55.175794"
+                ],
+                [
+                  1,
+                  "2025-11-19T03:16:02.903237"
+                ]
+              ],
+              "created_utc": 1763496025.0,
+              "depth": 2,
+              "permalink": "/r/singularity/comments/1p0iom4/i_spent_the_last_week_or_so_having_a_few/npjsg9w/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": [
+                {
+                  "id": "npju3eo",
+                  "parent_id": "t1_npjsg9w",
+                  "author": "TFenrir",
+                  "text_history": [
+                    [
+                      "&gt;I don't think that any significant portion of training data is synthetic. we do keep producing new data but the bulk has already been used.\n\nThe majority of data, vast majority, in RL post training is synthetic, and the amount of compute spent in RL post increases. Also pre-training data is increasingly augmented by synthetic. You can just look it up, or I can find the data for you\n\n&gt;The AGI wall would be moving from LLM to AGI.\n\nThis isn't saying anything\n\n&gt;Benchmarks have never demonstrated raw capabilities well because the represent a tiny fraction of all possible questions\n\nAnd yet they are almost the only way we have of really objectively measuring, which is why they are featured so much in discussions\n\n&gt;interesting, I do not think I have ever seen someone make a claim that some new model will not improve on a benchmark.\n\nI have these arguments all the time, people will for example look at data I share from epoch showing improvements in math. I had I've recently and someone was like \"here's your wall, look at claude 4.5 it sucks\" - I then had to explain that anthropic can't afford to spend the compute on math training.",
+                      "2025-11-19T02:55:45.634792"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      1,
+                      "2025-11-19T02:55:45.634792"
+                    ],
+                    [
+                      1,
+                      "2025-11-19T03:04:55.175794"
+                    ],
+                    [
+                      1,
+                      "2025-11-19T03:16:02.903237"
+                    ]
+                  ],
+                  "created_utc": 1763496524.0,
+                  "depth": 3,
+                  "permalink": "/r/singularity/comments/1p0iom4/i_spent_the_last_week_or_so_having_a_few/npju3eo/",
+                  "is_submitter": true,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "npj90u5",
+      "parent_id": "t3_1p0iom4",
+      "author": "Ok_Elderberry_6727",
+      "text_history": [
+        [
+          "Tokenization of generality is possible in llm’s and every major lab already has a roadmap, superintelligence is the next race",
+          "2025-11-19T02:55:45.634792"
+        ]
+      ],
+      "score_history": [
+        [
+          0,
+          "2025-11-19T02:55:45.634792"
+        ],
+        [
+          0,
+          "2025-11-19T03:04:55.175794"
+        ],
+        [
+          0,
+          "2025-11-19T03:16:02.903237"
+        ]
+      ],
+      "created_utc": 1763490307.0,
+      "depth": 0,
+      "permalink": "/r/singularity/comments/1p0iom4/i_spent_the_last_week_or_so_having_a_few/npj90u5/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npkm7d6",
+      "parent_id": "t3_1p0iom4",
+      "author": "doodlinghearsay",
+      "text_history": [
+        [
+          "&gt; discussions [...] are anti AI and people are not reasonable about the topic. That's whatever, but lots of discussions in this sub I feel like have increasingly **parroted similar talking points**.\n\nThat's one way to guarantee you won't get any valuable feedback.\n\n&gt; For those who would have agreed with this idea that we were hitting a wall, does this change your mind?\n\nFirst you'll have to make a decision on whether you actually want to have a discussion or you just want props for your self-delusion. Because one of these doesn't sound like a good use of time.",
+          "2025-11-19T02:55:45.634792"
+        ]
+      ],
+      "score_history": [
+        [
+          -2,
+          "2025-11-19T02:55:45.634792"
+        ],
+        [
+          -2,
+          "2025-11-19T03:04:55.175794"
+        ],
+        [
+          -2,
+          "2025-11-19T03:16:02.903237"
+        ]
+      ],
+      "created_utc": 1763505078.0,
+      "depth": 0,
+      "permalink": "/r/singularity/comments/1p0iom4/i_spent_the_last_week_or_so_having_a_few/npkm7d6/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npknfir",
+          "parent_id": "t1_npkm7d6",
+          "author": "TFenrir",
+          "text_history": [
+            [
+              "&gt;That's one way to guarantee you won't get any valuable feedback.\n\nI minced my words quite a bit throughout, but I do feel strongly that people who espouse these claims are not doing so from a good understanding of the state of play, but instead because of a regurgitation of talking points. \n\nI want to challenge those people as much as possible, and it's difficult striking the balance between using language that amounts to coddling in an attempt to encourage willingness to communicate, and cruelty, as I express why I think that person's model of reasoning through something so important is incredibly detrimental. \n\nDid you feel put off from sharing because of how I describe these kinds of arguments? \n\n&gt;First you'll have to make a decision on whether you actually want to have a discussion or you just want props for your self-delusion. Because one of these doesn't sound like a good use of time.\n\nI'm here, why don't you try to actually communicate about something on topic. We can endeavour to focus on technicalities and avoid any kind of ad hominems.",
+              "2025-11-19T02:55:45.634792"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-19T02:55:45.634792"
+            ],
+            [
+              1,
+              "2025-11-19T03:04:55.175794"
+            ],
+            [
+              1,
+              "2025-11-19T03:16:02.903237"
+            ]
+          ],
+          "created_utc": 1763505485.0,
+          "depth": 1,
+          "permalink": "/r/singularity/comments/1p0iom4/i_spent_the_last_week_or_so_having_a_few/npknfir/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npkyvds",
+              "parent_id": "t1_npknfir",
+              "author": "doodlinghearsay",
+              "text_history": [
+                [
+                  "&gt; Did you feel put off from sharing because of how I describe these kinds of arguments? \n\nI don't mind ad hominems _that_ much, personally. I was just worried that it was a sign that you weren't interested in seriously considering replies that don't fit your worldview. But if you are, sure, I'm happy to share my own opinion.\n\nIt's very hard to tell after a few hours, but from the benchmarks and the limited testing I've done, it is at the higher end of my expectations, even after the adjustments made based on the optimistic rumours. Which to be fair I didn't trust too much.\n\nThen again, I don't think wall was a great metaphor in the first place. What we've been seeing is diminishing returns, which were masked by unsustainable growth in capital spending. Gemini 3 is above the trendline. So was o1 and o3. GPT5 was below.\n\nProgress was never impossible, so seeing progress doesn't really disprove the premise either. It was just very difficult and almost certainly unprofitable. Most likely, it will continue to be difficult. \n\nIDK, we'll need some time to see if Gemini 3 is capable enough to actually generate significant revenue. My suspicion is, that it isn't, or if it is, it is going to be mostly at the expense of its competitors. Hallucination will continue to be an issue. So will be the fact that most of problems are just hard, and you can't just generate vast amounts of progress just by assigning a lot of compute to a task, even if the task is to help experts in a field. \n\nAnd even where AI will be successful, it might not be as impactful as people expect. For example, it might cure cancer and might barely make up for the effects of obesity or deaths of despair. Or figure out help us figure out fusion power in a way that's only 10% cheaper than the current trendline for clean power. \n\nSo yeah, overall my opinion hasn't changed much. Progress in AI is hard and probably just not profitable, unless you can do it without having to spend exponentially more on training and experiments. I don't see strong evidence for that yet.\n\nOf course there are pretty big uncertainties around every claim here.",
+                  "2025-11-19T02:55:45.634792"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-19T02:55:45.634792"
+                ],
+                [
+                  1,
+                  "2025-11-19T03:04:55.175794"
+                ],
+                [
+                  1,
+                  "2025-11-19T03:16:02.903237"
+                ]
+              ],
+              "created_utc": 1763509442.0,
+              "depth": 2,
+              "permalink": "/r/singularity/comments/1p0iom4/i_spent_the_last_week_or_so_having_a_few/npkyvds/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:16:02.903237",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/singularity/comments/1p0iom4/i_spent_the_last_week_or_so_having_a_few/",
+    "total_comments": 42,
+    "top_level_comments": 13,
+    "api_requests": 1,
+    "expected_comments": 44,
+    "coverage_percent": 95.45,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_025545.json",
+      "scrape_002_20251119_030454.json",
+      "scrape_003_20251119_031602.json"
+    ]
+  }
+}

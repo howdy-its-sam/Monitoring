@@ -1,0 +1,49 @@
+{
+  "post": {
+    "id": "1p156hb",
+    "title": "Complete multimodal GenAI guide - vision, audio, video processing  with LangChain",
+    "author": "SKD_Sumit",
+    "score_history": [
+      [
+        1,
+        "2025-11-19T03:41:47.049183"
+      ],
+      [
+        1,
+        "2025-11-19T03:50:19.423723"
+      ],
+      [
+        1,
+        "2025-11-19T03:52:31.942337"
+      ],
+      [
+        1,
+        "2025-11-19T07:22:50.187644"
+      ]
+    ],
+    "created_utc": 1763551665.0,
+    "num_comments": 0,
+    "subreddit": "AgentsOfAI",
+    "url": "https://www.reddit.com/r/AgentsOfAI/comments/1p156hb/complete_multimodal_genai_guide_vision_audio/",
+    "selftext": "Working with multimodal GenAI applications and documented how to integrate vision, audio, video understanding, and image generation through one framework.\n\n🔗 [Multimodal AI with LangChain (Full Python Code Included)](https://www.youtube.com/watch?v=I3UaV7u4JBA&amp;list=PLAgxe7DpTXmei0IV7-u9Zt9aoWP3eAHRg&amp;index=7&amp;t=211s&amp;pp=gAQBiAQB)\n\n**The multimodal GenAI stack:**\n\nModern applications need multiple modalities:\n\n* Vision models for image understanding\n* Audio transcription and processing\n* Video content analysis\n\nLangChain provides unified interfaces across all these capabilities.\n\n**Cross-provider implementation:** Working with both OpenAI and Gemini multimodal capabilities through consistent code. The abstraction layer makes experimentation and provider switching straightforward.",
+    "permalink": "/r/AgentsOfAI/comments/1p156hb/complete_multimodal_genai_guide_vision_audio/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T07:22:50.187644",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/AgentsOfAI/comments/1p156hb/complete_multimodal_genai_guide_vision_audio/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 4,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_034146.json",
+      "scrape_002_20251119_035019.json",
+      "scrape_003_20251119_035231.json",
+      "scrape_004_20251119_072250.json"
+    ]
+  }
+}

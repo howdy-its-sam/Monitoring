@@ -1,0 +1,253 @@
+{
+  "post": {
+    "id": "1ozheo6",
+    "title": "Exact drawings not possible?",
+    "author": "8kbr",
+    "score_history": [
+      [
+        2,
+        "2025-11-18T13:49:06.225724"
+      ],
+      [
+        2,
+        "2025-11-18T14:00:50.368345"
+      ],
+      [
+        2,
+        "2025-11-18T14:12:14.491370"
+      ],
+      [
+        2,
+        "2025-11-18T21:39:25.556805"
+      ],
+      [
+        2,
+        "2025-11-18T23:24:21.515079"
+      ],
+      [
+        2,
+        "2025-11-19T01:08:29.159103"
+      ]
+    ],
+    "created_utc": 1763388976.0,
+    "num_comments": 4,
+    "subreddit": "ChatGPTPro",
+    "url": "https://www.reddit.com/r/ChatGPTPro/comments/1ozheo6/exact_drawings_not_possible/",
+    "selftext": "Is ChatGPT not at all capable to draw some lines when you exactly say where they belong? Be it my garden where I want to place flowers on a map or my house where I exactly tell where the rooms are - it never works. But maybe there is an advanced way to get to drawings that are exact?",
+    "permalink": "/r/ChatGPTPro/comments/1ozheo6/exact_drawings_not_possible/"
+  },
+  "comments": [
+    {
+      "id": "npbi48w",
+      "parent_id": "t3_1ozheo6",
+      "author": "qualityvote2",
+      "text_history": [
+        [
+          "Hello u/8kbr 👋 Welcome to r/ChatGPTPro!  \nThis is a community for advanced ChatGPT, AI tools, and prompt engineering discussions.  \nOther members will now vote on whether your post fits our community guidelines.\n\n\n---\n\nFor other users, does this post fit the subreddit?\n\nIf so, **upvote this comment!**\n\nOtherwise, **downvote this comment!**\n\nAnd if it does break the rules, **downvote this comment and report this post!**",
+          "2025-11-18T13:49:06.225724"
+        ],
+        [
+          "u/8kbr, there weren’t enough community votes to determine your post’s quality.  \nIt will remain for moderator review or until more votes are cast.",
+          "2025-11-18T21:39:25.556805"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T13:49:06.225724"
+        ],
+        [
+          1,
+          "2025-11-18T14:00:50.368345"
+        ],
+        [
+          1,
+          "2025-11-18T14:12:14.491370"
+        ],
+        [
+          1,
+          "2025-11-18T21:39:25.556805"
+        ],
+        [
+          1,
+          "2025-11-18T23:24:21.515079"
+        ],
+        [
+          1,
+          "2025-11-19T01:08:29.159103"
+        ]
+      ],
+      "created_utc": 1763388977.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTPro/comments/1ozheo6/exact_drawings_not_possible/npbi48w/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": 1763518578.0,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npbr4r4",
+      "parent_id": "t3_1ozheo6",
+      "author": "BlackStarCorona",
+      "text_history": [
+        [
+          "Whatever you’re trying to render as an image is handled by a third party generator, chat is the middle man. So you can often describe exactly what you want, or even feed it a photo but it’s always estimating the outcome.",
+          "2025-11-18T13:49:06.225724"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T13:49:06.225724"
+        ],
+        [
+          1,
+          "2025-11-18T14:00:50.368345"
+        ],
+        [
+          1,
+          "2025-11-18T14:12:14.491370"
+        ],
+        [
+          1,
+          "2025-11-18T21:39:25.556805"
+        ],
+        [
+          1,
+          "2025-11-18T23:24:21.515079"
+        ],
+        [
+          1,
+          "2025-11-19T01:08:29.159103"
+        ]
+      ],
+      "created_utc": 1763391967.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTPro/comments/1ozheo6/exact_drawings_not_possible/npbr4r4/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npbriji",
+          "parent_id": "t1_npbr4r4",
+          "author": "8kbr",
+          "text_history": [
+            [
+              "Maybe I will try to pin it to a matrix (like C12 as the third row and the 12th column) to be more precise. Could be a different way that I haven’t tried yet.",
+              "2025-11-18T13:49:06.225724"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T13:49:06.225724"
+            ],
+            [
+              1,
+              "2025-11-18T14:00:50.368345"
+            ],
+            [
+              1,
+              "2025-11-18T14:12:14.491370"
+            ],
+            [
+              1,
+              "2025-11-18T21:39:25.556805"
+            ],
+            [
+              1,
+              "2025-11-18T23:24:21.515079"
+            ],
+            [
+              1,
+              "2025-11-19T01:08:29.159103"
+            ]
+          ],
+          "created_utc": 1763392086.0,
+          "depth": 1,
+          "permalink": "/r/ChatGPTPro/comments/1ozheo6/exact_drawings_not_possible/npbriji/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npd5874",
+      "parent_id": "t3_1ozheo6",
+      "author": "Tall-Region8329",
+      "text_history": [
+        [
+          "Try it and connect it with another apps. Maybe Notion , Zap or etc. (I dont know man Im just giving suggestion)",
+          "2025-11-18T13:49:06.225724"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T13:49:06.225724"
+        ],
+        [
+          1,
+          "2025-11-18T14:00:50.368345"
+        ],
+        [
+          1,
+          "2025-11-18T14:12:14.491370"
+        ],
+        [
+          1,
+          "2025-11-18T21:39:25.556805"
+        ],
+        [
+          1,
+          "2025-11-18T23:24:21.515079"
+        ],
+        [
+          1,
+          "2025-11-19T01:08:29.159103"
+        ]
+      ],
+      "created_utc": 1763406735.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTPro/comments/1ozheo6/exact_drawings_not_possible/npd5874/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T01:08:29.159103",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/ChatGPTPro/comments/1ozheo6/exact_drawings_not_possible/",
+    "total_comments": 4,
+    "top_level_comments": 3,
+    "api_requests": 1,
+    "expected_comments": 4,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 6,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_134906.json",
+      "scrape_002_20251118_140050.json",
+      "scrape_003_20251118_141214.json",
+      "scrape_004_20251118_213925.json",
+      "scrape_005_20251118_232421.json",
+      "scrape_006_20251119_010828.json"
+    ]
+  }
+}

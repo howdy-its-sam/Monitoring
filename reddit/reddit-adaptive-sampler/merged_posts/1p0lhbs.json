@@ -1,0 +1,44 @@
+{
+  "post": {
+    "id": "1p0lhbs",
+    "title": "Start building with Gemini 3",
+    "author": "dot_mun",
+    "score_history": [
+      [
+        13,
+        "2025-11-18T14:23:21.313128"
+      ],
+      [
+        12,
+        "2025-11-18T14:33:05.103558"
+      ],
+      [
+        13,
+        "2025-11-18T14:43:22.136713"
+      ]
+    ],
+    "created_utc": 1763494373.0,
+    "num_comments": 0,
+    "subreddit": "singularity",
+    "url": "https://blog.google/technology/developers/gemini-3-developers/",
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1p0lhbs/start_building_with_gemini_3/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-18T14:43:22.136713",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/singularity/comments/1p0lhbs/start_building_with_gemini_3/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_142321.json",
+      "scrape_002_20251118_143304.json",
+      "scrape_003_20251118_144321.json"
+    ]
+  }
+}

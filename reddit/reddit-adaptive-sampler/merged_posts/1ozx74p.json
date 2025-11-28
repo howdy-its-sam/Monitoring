@@ -1,0 +1,337 @@
+{
+  "post": {
+    "id": "1ozx74p",
+    "title": "Looking for Advice: White-Label Voice AI Dashboard (Voicerr + Vapi) — What Are You All Using?",
+    "author": "Narrow_Economics_233",
+    "score_history": [
+      [
+        1,
+        "2025-11-18T12:51:38.254723"
+      ],
+      [
+        1,
+        "2025-11-18T13:03:55.523417"
+      ],
+      [
+        1,
+        "2025-11-18T13:15:44.200419"
+      ],
+      [
+        1,
+        "2025-11-18T13:46:28.133346"
+      ],
+      [
+        1,
+        "2025-11-18T13:49:29.906561"
+      ],
+      [
+        1,
+        "2025-11-18T13:59:21.303120"
+      ],
+      [
+        1,
+        "2025-11-18T14:10:44.010670"
+      ]
+    ],
+    "created_utc": 1763425121.0,
+    "num_comments": 6,
+    "subreddit": "AI_Agents",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1ozx74p/looking_for_advice_whitelabel_voice_ai_dashboard/",
+    "selftext": "Hey everyone!\n\nI’m building a voice AI agency and currently using Voicerr as my white-label dashboard while creating my voice agents on Vapi. I love the idea of having a client-facing portal, but I’ve been running into some issues — especially with outbound calls being inconsistent and very limited visibility to troubleshoot when things break.\n\nI’d love to hear how others are handling this.\n\nAre you:\n\t•\tUsing a different white-label platform?\n\t•\tBuilding your own proprietary SaaS for client-facing controls?\n\t•\tHandling reporting, call logs, and outbound campaign management in a different way?\n\nAny recommendations, experiences, or “what I wish I knew sooner” advice would be super appreciated. I’m trying to figure out the best long-term setup as I scale.",
+    "permalink": "/r/AI_Agents/comments/1ozx74p/looking_for_advice_whitelabel_voice_ai_dashboard/"
+  },
+  "comments": [
+    {
+      "id": "nper7kf",
+      "parent_id": "t3_1ozx74p",
+      "author": "AutoModerator",
+      "text_history": [
+        [
+          "Thank you for your submission, for any questions regarding AI, please check out our wiki at https://www.reddit.com/r/ai_agents/wiki (this is currently in test and we are actively adding to the wiki)\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/AI_Agents) if you have any questions or concerns.*",
+          "2025-11-18T12:51:38.254723"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T12:51:38.254723"
+        ],
+        [
+          1,
+          "2025-11-18T13:03:55.523417"
+        ],
+        [
+          1,
+          "2025-11-18T13:15:44.200419"
+        ],
+        [
+          1,
+          "2025-11-18T13:46:28.133346"
+        ],
+        [
+          1,
+          "2025-11-18T13:49:29.906561"
+        ],
+        [
+          1,
+          "2025-11-18T13:59:21.303120"
+        ],
+        [
+          1,
+          "2025-11-18T14:10:44.010670"
+        ]
+      ],
+      "created_utc": 1763425122.0,
+      "depth": 0,
+      "permalink": "/r/AI_Agents/comments/1ozx74p/looking_for_advice_whitelabel_voice_ai_dashboard/nper7kf/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nph8mrq",
+      "parent_id": "t3_1ozx74p",
+      "author": "birch_hollow",
+      "text_history": [
+        [
+          "Ive been using kuga and vapi for my chatbots and voice agents for my agency. No problems at all with either, its the finding clients thats the hard part lol",
+          "2025-11-18T12:51:38.254723"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T12:51:38.254723"
+        ],
+        [
+          1,
+          "2025-11-18T13:03:55.523417"
+        ],
+        [
+          1,
+          "2025-11-18T13:15:44.200419"
+        ],
+        [
+          1,
+          "2025-11-18T13:46:28.133346"
+        ],
+        [
+          1,
+          "2025-11-18T13:49:29.906561"
+        ],
+        [
+          1,
+          "2025-11-18T13:59:21.303120"
+        ],
+        [
+          1,
+          "2025-11-18T14:10:44.010670"
+        ]
+      ],
+      "created_utc": 1763467210.0,
+      "depth": 0,
+      "permalink": "/r/AI_Agents/comments/1ozx74p/looking_for_advice_whitelabel_voice_ai_dashboard/nph8mrq/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npk9git",
+          "parent_id": "t1_nph8mrq",
+          "author": "Narrow_Economics_233",
+          "text_history": [
+            [
+              "Thanks for the tip. I’ll check them out.",
+              "2025-11-18T13:46:28.133346"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T13:46:28.133346"
+            ],
+            [
+              1,
+              "2025-11-18T13:49:29.906561"
+            ],
+            [
+              1,
+              "2025-11-18T13:59:21.303120"
+            ],
+            [
+              1,
+              "2025-11-18T14:10:44.010670"
+            ]
+          ],
+          "created_utc": 1763501143.0,
+          "depth": 1,
+          "permalink": "/r/AI_Agents/comments/1ozx74p/looking_for_advice_whitelabel_voice_ai_dashboard/npk9git/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        },
+        {
+          "id": "npkaab2",
+          "parent_id": "t1_nph8mrq",
+          "author": "Narrow_Economics_233",
+          "text_history": [
+            [
+              "Are there specific industries you’re targeting for new clients?",
+              "2025-11-18T13:46:28.133346"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T13:46:28.133346"
+            ],
+            [
+              1,
+              "2025-11-18T13:49:29.906561"
+            ],
+            [
+              1,
+              "2025-11-18T13:59:21.303120"
+            ],
+            [
+              1,
+              "2025-11-18T14:10:44.010670"
+            ]
+          ],
+          "created_utc": 1763501388.0,
+          "depth": 1,
+          "permalink": "/r/AI_Agents/comments/1ozx74p/looking_for_advice_whitelabel_voice_ai_dashboard/npkaab2/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npi6cei",
+      "parent_id": "t3_1ozx74p",
+      "author": "oriol_9",
+      "text_history": [
+        [
+          "hello\n\noriol from barcelona\n\ncould you explain in more detail what you need\n\nwhat the control panel has to do",
+          "2025-11-18T12:51:38.254723"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T12:51:38.254723"
+        ],
+        [
+          1,
+          "2025-11-18T13:03:55.523417"
+        ],
+        [
+          1,
+          "2025-11-18T13:15:44.200419"
+        ],
+        [
+          1,
+          "2025-11-18T13:46:28.133346"
+        ],
+        [
+          1,
+          "2025-11-18T13:49:29.906561"
+        ],
+        [
+          1,
+          "2025-11-18T13:59:21.303120"
+        ],
+        [
+          1,
+          "2025-11-18T14:10:44.010670"
+        ]
+      ],
+      "created_utc": 1763478969.0,
+      "depth": 0,
+      "permalink": "/r/AI_Agents/comments/1ozx74p/looking_for_advice_whitelabel_voice_ai_dashboard/npi6cei/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npk9yed",
+          "parent_id": "t1_npi6cei",
+          "author": "Narrow_Economics_233",
+          "text_history": [
+            [
+              "All I want is a control panel that works consistently. I’ve tried two different platforms now, and both have the same issue: outbound calls start off fine, then suddenly stop with no explanation—even though there are still plenty of leads left in the list.",
+              "2025-11-18T13:46:28.133346"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T13:46:28.133346"
+            ],
+            [
+              1,
+              "2025-11-18T13:49:29.906561"
+            ],
+            [
+              1,
+              "2025-11-18T13:59:21.303120"
+            ],
+            [
+              1,
+              "2025-11-18T14:10:44.010670"
+            ]
+          ],
+          "created_utc": 1763501290.0,
+          "depth": 1,
+          "permalink": "/r/AI_Agents/comments/1ozx74p/looking_for_advice_whitelabel_voice_ai_dashboard/npk9yed/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-18T14:10:44.010670",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/AI_Agents/comments/1ozx74p/looking_for_advice_whitelabel_voice_ai_dashboard/",
+    "total_comments": 6,
+    "top_level_comments": 3,
+    "api_requests": 1,
+    "expected_comments": 6,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 7,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_125138.json",
+      "scrape_002_20251118_130355.json",
+      "scrape_003_20251118_131543.json",
+      "scrape_004_20251118_134627.json",
+      "scrape_005_20251118_134929.json",
+      "scrape_006_20251118_135921.json",
+      "scrape_007_20251118_141043.json"
+    ]
+  }
+}

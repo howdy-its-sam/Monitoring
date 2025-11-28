@@ -1,0 +1,44 @@
+{
+  "post": {
+    "id": "1outn97",
+    "title": "Built an automated vector embedding for Obsidian Notes",
+    "author": "ash_master_",
+    "score_history": [
+      [
+        1,
+        "2025-11-18T14:22:30.997227"
+      ],
+      [
+        1,
+        "2025-11-18T14:32:48.576160"
+      ],
+      [
+        1,
+        "2025-11-18T14:43:13.850965"
+      ]
+    ],
+    "created_utc": 1762915735.0,
+    "num_comments": 0,
+    "subreddit": "AutoGPT",
+    "url": "https://www.reddit.com/r/AutoGPT/comments/1outn97/built_an_automated_vector_embedding_for_obsidian/",
+    "selftext": "Wanted to learn more about RAG and vector embeddings. \n\n  \nSo I built a Go-based vector embedding system for Obsidian notes  \nIt uses Merkle trees to find local file changes and automatically syncs the vector embedding in Pinecone whenever any note changes.\n\nThis embeddings can be used in your local LLM to give context to your chats directly from your notes.\n\nYou can check it out here: [https://github.com/ashmaster/vector-notes](https://github.com/ashmaster/vector-notes)",
+    "permalink": "/r/AutoGPT/comments/1outn97/built_an_automated_vector_embedding_for_obsidian/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-18T14:43:13.850965",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/AutoGPT/comments/1outn97/built_an_automated_vector_embedding_for_obsidian/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_142230.json",
+      "scrape_002_20251118_143248.json",
+      "scrape_003_20251118_144313.json"
+    ]
+  }
+}

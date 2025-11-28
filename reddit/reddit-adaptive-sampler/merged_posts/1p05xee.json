@@ -1,0 +1,368 @@
+{
+  "post": {
+    "id": "1p05xee",
+    "title": "Terrible images and great images",
+    "author": "TestohZuppa",
+    "score_history": [
+      [
+        2,
+        "2025-11-18T14:43:38.740579"
+      ],
+      [
+        2,
+        "2025-11-18T14:53:10.176615"
+      ],
+      [
+        2,
+        "2025-11-18T14:54:19.101590"
+      ],
+      [
+        2,
+        "2025-11-18T22:20:28.067506"
+      ],
+      [
+        2,
+        "2025-11-19T00:05:06.224367"
+      ],
+      [
+        2,
+        "2025-11-19T01:50:23.506864"
+      ]
+    ],
+    "created_utc": 1763451741.0,
+    "num_comments": 8,
+    "subreddit": "ChatGPTPro",
+    "url": "https://www.reddit.com/r/ChatGPTPro/comments/1p05xee/terrible_images_and_great_images/",
+    "selftext": "I'm having a problem with ChatGPT's image generation. I used it for the past months for my D&amp;D campaign, to modify pictures of characters found on Pinterest and other websites, adding a details, an item in hand, making the image more crisp. Really useful to have good images of less relevant characters without drawing them from scratch, excellent improvement in productivity.\n\nUsually I sent an image, told Chat to modify it following my prompt and then it appeared on my chat:\n\n&gt; Processing image Lots of people are creating images right now so this might take a bit We'll notify you when your image is ready\n\nI waited a bit and the image that came out was usually great! Also, Chat never said anything else after generating the image, the output was always just the image, with no commentary. \n\nBut since last week something changed, specifically the 14th of november. It stopped showing the text mentioned above, it started generating images really fast, like in seconds and it started giving me commentary after generating the picture. Every picture generated fast like this is absolute trash.\n\nWhat happened? How can I make it generate decent images again?",
+    "permalink": "/r/ChatGPTPro/comments/1p05xee/terrible_images_and_great_images/"
+  },
+  "comments": [
+    {
+      "id": "npgif50",
+      "parent_id": "t3_1p05xee",
+      "author": "qualityvote2",
+      "text_history": [
+        [
+          "Hello u/TestohZuppa 👋 Welcome to r/ChatGPTPro!  \nThis is a community for advanced ChatGPT, AI tools, and prompt engineering discussions.  \nOther members will now vote on whether your post fits our community guidelines.\n\n\n---\n\nFor other users, does this post fit the subreddit?\n\nIf so, **upvote this comment!**\n\nOtherwise, **downvote this comment!**\n\nAnd if it does break the rules, **downvote this comment and report this post!**",
+          "2025-11-18T14:43:38.740579"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:43:38.740579"
+        ],
+        [
+          1,
+          "2025-11-18T14:53:10.176615"
+        ],
+        [
+          1,
+          "2025-11-18T14:54:19.101590"
+        ],
+        [
+          1,
+          "2025-11-18T22:20:28.067506"
+        ],
+        [
+          1,
+          "2025-11-19T00:05:06.224367"
+        ],
+        [
+          1,
+          "2025-11-19T01:50:23.506864"
+        ]
+      ],
+      "created_utc": 1763451743.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTPro/comments/1p05xee/terrible_images_and_great_images/npgif50/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npkmu02",
+      "parent_id": "t3_1p05xee",
+      "author": "FreshRadish2957",
+      "text_history": [
+        [
+          "You’re hitting a change OpenAI rolled out mid-November. The model now switches between a “fast” generator and a “slow high-quality edit mode,” and your prompts are accidentally triggering the fast one.\n\nTo get the old behaviour back, force ChatGPT into edit mode:\n\nTry this structure:\n\n1. Upload the image\n\n\n2. Send a new message:\n“Edit the image I just sent. Keep the original style. Only make the following changes: [list]. Output image only.”\n\n\n\nOr add this line at the top:\n“This is an image edit, not a new image. Use the high-quality mode.”\n\nThat brings back the slow “processing image…” workflow and the good results.",
+          "2025-11-18T14:43:38.740579"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:43:38.740579"
+        ],
+        [
+          1,
+          "2025-11-18T14:53:10.176615"
+        ],
+        [
+          1,
+          "2025-11-18T14:54:19.101590"
+        ],
+        [
+          1,
+          "2025-11-18T22:20:28.067506"
+        ],
+        [
+          1,
+          "2025-11-19T00:05:06.224367"
+        ],
+        [
+          1,
+          "2025-11-19T01:50:23.506864"
+        ]
+      ],
+      "created_utc": 1763505286.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTPro/comments/1p05xee/terrible_images_and_great_images/npkmu02/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npl98vc",
+          "parent_id": "t1_npkmu02",
+          "author": "TestohZuppa",
+          "text_history": [
+            [
+              "Nope, it didn't work sadly. The prompt was the following:\n\n&gt;Edit the image I just sent. Keep the original style. Only make the following changes:\n\n&gt;Up the resolution of this heavy armored soldier; Make the laser cannons on his back more clear and futuristic;\nMake the shield on the armor more evident\n\n&gt;This is an image edit, not a new image. Use the high-quality mode. Output image only.\n\nI sent [this image.](https://pin.it/53DZ0vZSw) I just cut the text and kept the big image on the top left. I chose this specifically because last month I sent it and it did a great job, it modified it perfectly. And this was the result this time.\n\n\n\nIt has nothing to do with the original image. It just made a prompt from the image I sent and created it from scratch, even when I told it to modify it",
+              "2025-11-18T22:20:28.067506"
+            ]
+          ],
+          "score_history": [
+            [
+              2,
+              "2025-11-18T22:20:28.067506"
+            ],
+            [
+              2,
+              "2025-11-19T00:05:06.224367"
+            ],
+            [
+              2,
+              "2025-11-19T01:50:23.506864"
+            ]
+          ],
+          "created_utc": 1763513076.0,
+          "depth": 1,
+          "permalink": "/r/ChatGPTPro/comments/1p05xee/terrible_images_and_great_images/npl98vc/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npladzf",
+              "parent_id": "t1_npl98vc",
+              "author": "FreshRadish2957",
+              "text_history": [
+                [
+                  "Try this. The issue is not the image at all. ChatGPT is still jumping into the fast generator instead of the slow high quality edit mode. That is why you are getting a fresh picture instead of a proper modification.\n\nUse the two step method. It forces the right behaviour every time.\n\n1. Upload the image with no text\n\n\n2. Send a new message that begins with:\n“This is an image edit. Use the high quality edit mode. Do not create a new image.”\nThen list your edits.\n“Keep the original style. Only change the following. [list]. Output the edited image only.”\n\n\n\nIf it still rushes the output, add this at the top:\n“Do not use the fast generator. Use the slow edit mode.”\n\nThis brings back the old workflow where it says it is processing the image and the quality returns to normal.",
+                  "2025-11-18T22:20:28.067506"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-18T22:20:28.067506"
+                ],
+                [
+                  1,
+                  "2025-11-19T00:05:06.224367"
+                ],
+                [
+                  1,
+                  "2025-11-19T01:50:23.506864"
+                ]
+              ],
+              "created_utc": 1763513474.0,
+              "depth": 2,
+              "permalink": "/r/ChatGPTPro/comments/1p05xee/terrible_images_and_great_images/npladzf/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": [
+                {
+                  "id": "nplcl42",
+                  "parent_id": "t1_npladzf",
+                  "author": "TestohZuppa",
+                  "text_history": [
+                    [
+                      "I sent the following prompt (this is the exact wording)\n\n&gt; This is an image edit. Use the high quality edit mode. Do not create a new image. Keep the original style. Only change the following.\n\n&gt; Upscale the image quality to, make the details sharper\n&gt; Make the cannons on the back more futuristic, like laser cannons\n&gt; Make the shield on the arm bigger\n\n&gt; Output the edited image only. Do not use the fast generator. Use the slow edit mode.\n\nAnd it still generated a new picture from scratch! I even told it in the message after it \"No, you didn't modify it! You created a new one, that's not what I asked!\" and the response was weird.\n\n&gt; You’re right — I tried to edit it directly here but my image-edit attempt failed. Sorry about that. I can’t access/modify the file in-place from this chat right now, but I can give you a ready-to-run Python script that will take the original image file you just uploaded and produce an edited version that:\n\n&gt; upscales the artwork (2×, Lanczos)\n&gt; sharpens and clarifies the twin cannons on the back and adds subtle sci-fi vents / a glowing core\n&gt; makes the left forearm shield larger and more prominent with a brass rim and scratches\n&gt; preserves the painted style and paper background\n\n&gt; Save the script below as edit_image.py, place your original image next to it (name it original.png or pass its filename as the first argument), then run it. It produces /mnt/data/edited_image.png (or edited_image.png in the script folder) — same-folder path printed after completion.\n\nIt made a script so that I could modify it myself. It behaves like it isn't able to modify pictures, even with your prompt. Really weird change from OpenAI, at this point I'll switch to another AI",
+                      "2025-11-18T22:20:28.067506"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      1,
+                      "2025-11-18T22:20:28.067506"
+                    ],
+                    [
+                      1,
+                      "2025-11-19T00:05:06.224367"
+                    ],
+                    [
+                      1,
+                      "2025-11-19T01:50:23.506864"
+                    ]
+                  ],
+                  "created_utc": 1763514266.0,
+                  "depth": 3,
+                  "permalink": "/r/ChatGPTPro/comments/1p05xee/terrible_images_and_great_images/nplcl42/",
+                  "is_submitter": true,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": [
+                    {
+                      "id": "nplfrnz",
+                      "parent_id": "t1_nplcl42",
+                      "author": "FreshRadish2957",
+                      "text_history": [
+                        [
+                          "That script response means ChatGPT never entered the real image-edit mode. When edit mode fails, it falls back to “I can’t modify this image, but here’s code,” which is what you saw. That tells me the issue is not your prompt but the chat thread itself.\n\nQuick test:\n\nAsk ChatGPT in a new empty chat:\n“Can you edit images in this chat. Answer yes or no.”\n\nIf it says “no”, then that chat thread was started without image editing enabled.\nTo fix it:\n\n1. Open a brand new chat\n\n\n2. Upload the image first\n\n\n3. Then send the edit command\n\n\n\nThat forces the editor to load correctly.\n\nIf it says “yes”, then your wording is still triggering generation mode and I’ll adjust the exact phrasing for you.\n\nGive me the response from that test and we’ll sort it.",
+                          "2025-11-18T22:20:28.067506"
+                        ]
+                      ],
+                      "score_history": [
+                        [
+                          1,
+                          "2025-11-18T22:20:28.067506"
+                        ],
+                        [
+                          1,
+                          "2025-11-19T00:05:06.224367"
+                        ],
+                        [
+                          1,
+                          "2025-11-19T01:50:23.506864"
+                        ]
+                      ],
+                      "created_utc": 1763515422.0,
+                      "depth": 4,
+                      "permalink": "/r/ChatGPTPro/comments/1p05xee/terrible_images_and_great_images/nplfrnz/",
+                      "is_submitter": false,
+                      "controversiality": 0,
+                      "gilded": 0,
+                      "edited": false,
+                      "deleted": false,
+                      "deleted_at": null,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "nplbptf",
+              "parent_id": "t1_npl98vc",
+              "author": "FreshRadish2957",
+              "text_history": [
+                [
+                  "If this still doesn't work, send me the exact wording you used and the same message order in your chat. I can check why it's still triggering the wrong mode. When we figure out the problem I can show you the proper wording so you can run edits smoothly again.",
+                  "2025-11-18T22:20:28.067506"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-18T22:20:28.067506"
+                ],
+                [
+                  1,
+                  "2025-11-19T00:05:06.224367"
+                ],
+                [
+                  1,
+                  "2025-11-19T01:50:23.506864"
+                ]
+              ],
+              "created_utc": 1763513947.0,
+              "depth": 2,
+              "permalink": "/r/ChatGPTPro/comments/1p05xee/terrible_images_and_great_images/nplbptf/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "npkqo5r",
+      "parent_id": "t3_1p05xee",
+      "author": "pinksunsetflower",
+      "text_history": [
+        [
+          "First, have you tried Gemini's Nano Banana?  It's their image editing AI generator.  It's built specifically for image editing like you're doing.  It's much faster than ChatGPT's image generator.  Not necessarily always better but faster.  It has a different style.  It's included with free Gemini.  Today Gemini changed to 3, upgraded from 2.5 so the image generation might be different, but from my quick test, it looks the same.\n\nThen as the other commenter mentioned, it depends on which model you're using.  If you're using a 5 series, you're probably getting model switching which can lead to inconsistency.  \n\nIf you're on a paid tier, use a more consistent model like 4o or 4.1.  If you're on the free tier, I don't know which models you have access to, but pick the one that has more thinking.",
+          "2025-11-18T22:20:28.067506"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T22:20:28.067506"
+        ],
+        [
+          1,
+          "2025-11-19T00:05:06.224367"
+        ],
+        [
+          1,
+          "2025-11-19T01:50:23.506864"
+        ]
+      ],
+      "created_utc": 1763506560.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTPro/comments/1p05xee/terrible_images_and_great_images/npkqo5r/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T01:50:23.506864",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/ChatGPTPro/comments/1p05xee/terrible_images_and_great_images/",
+    "total_comments": 8,
+    "top_level_comments": 3,
+    "api_requests": 1,
+    "expected_comments": 8,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 6,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_144338.json",
+      "scrape_002_20251118_145309.json",
+      "scrape_003_20251118_145418.json",
+      "scrape_004_20251118_222027.json",
+      "scrape_005_20251119_000505.json",
+      "scrape_006_20251119_015023.json"
+    ]
+  }
+}

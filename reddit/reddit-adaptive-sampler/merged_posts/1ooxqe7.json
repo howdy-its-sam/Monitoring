@@ -1,0 +1,531 @@
+{
+  "post": {
+    "id": "1ooxqe7",
+    "title": "How do you stop writing content that doesn’t convert?",
+    "author": "Away_You9725",
+    "score_history": [
+      [
+        20,
+        "2025-11-18T13:48:52.534178"
+      ],
+      [
+        18,
+        "2025-11-18T14:00:14.658640"
+      ],
+      [
+        20,
+        "2025-11-18T14:11:21.855347"
+      ],
+      [
+        20,
+        "2025-11-18T21:49:51.547402"
+      ],
+      [
+        19,
+        "2025-11-18T23:54:36.747224"
+      ],
+      [
+        18,
+        "2025-11-19T01:40:00.463200"
+      ]
+    ],
+    "created_utc": 1762332302.0,
+    "num_comments": 10,
+    "subreddit": "ContentMarketing",
+    "url": "https://www.reddit.com/r/ContentMarketing/comments/1ooxqe7/how_do_you_stop_writing_content_that_doesnt/",
+    "selftext": "We’re putting out blog posts every week, traffic looks fine, but it doesn’t move revenue. Feels like we’re just creating content to fill a quota.",
+    "permalink": "/r/ContentMarketing/comments/1ooxqe7/how_do_you_stop_writing_content_that_doesnt/"
+  },
+  "comments": [
+    {
+      "id": "nndp7oq",
+      "parent_id": "t3_1ooxqe7",
+      "author": "smartyladyphd",
+      "text_history": [
+        [
+          "Happens often when there’s no link between SEO and sales. Try building posts around decision-stage keywords or real customer questions. I’ve seen KNVRT mentioned for helping structure content that supports revenue goals.",
+          "2025-11-18T13:48:52.534178"
+        ]
+      ],
+      "score_history": [
+        [
+          4,
+          "2025-11-18T13:48:52.534178"
+        ],
+        [
+          5,
+          "2025-11-18T14:00:14.658640"
+        ],
+        [
+          4,
+          "2025-11-18T14:11:21.855347"
+        ],
+        [
+          5,
+          "2025-11-18T21:49:51.547402"
+        ],
+        [
+          4,
+          "2025-11-18T23:54:36.747224"
+        ],
+        [
+          3,
+          "2025-11-19T01:40:00.463200"
+        ]
+      ],
+      "created_utc": 1762412440.0,
+      "depth": 0,
+      "permalink": "/r/ContentMarketing/comments/1ooxqe7/how_do_you_stop_writing_content_that_doesnt/nndp7oq/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nn7knwd",
+      "parent_id": "t3_1ooxqe7",
+      "author": "Greedy-Credit-1943",
+      "text_history": [
+        [
+          "I haven’t seen your website so can’t say for sure, but I feel this could be because you’re unintentional about what each post. If you’re in B2B, focus on creating BOFU content (those end of the funnel posts) to drive conversion. Once you’ve got enough, slowly add more TOFU pieces with strategic product placement or update old ones, such posts get traffic and lead your readers to the next stage of the funnel.\n\nSince you said traffic looks fine, I would suggest going heavy with those BOFU posts and adding their links to your traffic pages. This would bring some readers to your conversion pages.",
+          "2025-11-18T13:48:52.534178"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T13:48:52.534178"
+        ],
+        [
+          1,
+          "2025-11-18T14:00:14.658640"
+        ],
+        [
+          1,
+          "2025-11-18T14:11:21.855347"
+        ],
+        [
+          1,
+          "2025-11-18T21:49:51.547402"
+        ],
+        [
+          1,
+          "2025-11-18T23:54:36.747224"
+        ],
+        [
+          1,
+          "2025-11-19T01:40:00.463200"
+        ]
+      ],
+      "created_utc": 1762334504.0,
+      "depth": 0,
+      "permalink": "/r/ContentMarketing/comments/1ooxqe7/how_do_you_stop_writing_content_that_doesnt/nn7knwd/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "nngq4mh",
+          "parent_id": "t1_nn7knwd",
+          "author": "bigredjelly",
+          "text_history": [
+            [
+              "Agree with this. To expand, blog posts are extremely Top-of-Funnel. Their main purpose is traffic acquisition and awareness. Once you get people to you site, you have to ask yourself how to keep them there. If you wrote a \"how to\" blog post, provide a link to a downloadable lead magnet with a checklist related to that topic. Require users to fill out a lead form (\"submit the form and we'll send the checklist straight to your inbox!\"). With proper consent, you can then add that person to your marketing email nurture campaigns, continuing to send them relevant content. That's where you include links to Bottom-of-Funnel landing pages. Give it a while, and with good content, you'll start to see conversions ramp up. Especially in B2B, it's all about capturing leads and moving them down the funnel.",
+              "2025-11-18T13:48:52.534178"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T13:48:52.534178"
+            ],
+            [
+              1,
+              "2025-11-18T14:00:14.658640"
+            ],
+            [
+              1,
+              "2025-11-18T14:11:21.855347"
+            ],
+            [
+              1,
+              "2025-11-18T21:49:51.547402"
+            ],
+            [
+              1,
+              "2025-11-18T23:54:36.747224"
+            ],
+            [
+              1,
+              "2025-11-19T01:40:00.463200"
+            ]
+          ],
+          "created_utc": 1762454904.0,
+          "depth": 1,
+          "permalink": "/r/ContentMarketing/comments/1ooxqe7/how_do_you_stop_writing_content_that_doesnt/nngq4mh/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "nn7p7ou",
+      "parent_id": "t3_1ooxqe7",
+      "author": "kavin_kn",
+      "text_history": [
+        [
+          "Most of the time blogs won't convert, landing pages does. Blog helps to move the needle from informational to commercial intent. Blog posting + new landing pages helps. Don't stop posting blogs.",
+          "2025-11-18T13:48:52.534178"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T13:48:52.534178"
+        ],
+        [
+          1,
+          "2025-11-18T14:00:14.658640"
+        ],
+        [
+          1,
+          "2025-11-18T14:11:21.855347"
+        ],
+        [
+          1,
+          "2025-11-18T21:49:51.547402"
+        ],
+        [
+          1,
+          "2025-11-18T23:54:36.747224"
+        ],
+        [
+          1,
+          "2025-11-19T01:40:00.463200"
+        ]
+      ],
+      "created_utc": 1762337234.0,
+      "depth": 0,
+      "permalink": "/r/ContentMarketing/comments/1ooxqe7/how_do_you_stop_writing_content_that_doesnt/nn7p7ou/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nn85tm0",
+      "parent_id": "t3_1ooxqe7",
+      "author": "Federal_Gazelle_4427",
+      "text_history": [
+        [
+          "Check your last 10 wins, see what blog posts they read before buying, then only write that kind of stuff. Everything else? Trash it. Traffic that doesn't close is worthless.",
+          "2025-11-18T13:48:52.534178"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T13:48:52.534178"
+        ],
+        [
+          1,
+          "2025-11-18T14:00:14.658640"
+        ],
+        [
+          1,
+          "2025-11-18T14:11:21.855347"
+        ],
+        [
+          1,
+          "2025-11-18T21:49:51.547402"
+        ],
+        [
+          1,
+          "2025-11-18T23:54:36.747224"
+        ],
+        [
+          1,
+          "2025-11-19T01:40:00.463200"
+        ]
+      ],
+      "created_utc": 1762345582.0,
+      "depth": 0,
+      "permalink": "/r/ContentMarketing/comments/1ooxqe7/how_do_you_stop_writing_content_that_doesnt/nn85tm0/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nn97izs",
+      "parent_id": "t3_1ooxqe7",
+      "author": "ichuloo",
+      "text_history": [
+        [
+          "Shoot to create more content focused on the top 10-15 questions your sales team gets, if you don't have a sales team, then look in social media and your community for these bits. Keep the Tofu content going as you don't know by how much it generates an 'idea' for a future buyer. Also, start tracking engagement rates on your blogs and look to improve them, note the avg time folks spend on your blog and try to add a soft CTA in the content before that time is up. e.g in the first 2-3 paragraphs.   \nJust good traffic may be misleading, look at other metrics as well.",
+          "2025-11-18T13:48:52.534178"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T13:48:52.534178"
+        ],
+        [
+          1,
+          "2025-11-18T14:00:14.658640"
+        ],
+        [
+          1,
+          "2025-11-18T14:11:21.855347"
+        ],
+        [
+          1,
+          "2025-11-18T21:49:51.547402"
+        ],
+        [
+          1,
+          "2025-11-18T23:54:36.747224"
+        ],
+        [
+          1,
+          "2025-11-19T01:40:00.463200"
+        ]
+      ],
+      "created_utc": 1762357965.0,
+      "depth": 0,
+      "permalink": "/r/ContentMarketing/comments/1ooxqe7/how_do_you_stop_writing_content_that_doesnt/nn97izs/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nnc53ug",
+      "parent_id": "t3_1ooxqe7",
+      "author": "Mysterious-Eggz",
+      "text_history": [
+        [
+          "check your support mails and see what's the most fruequently asked question from the custs and wrote the articles around that topic. you could also use image gen AI to create relevant images and it could add visibility and point to your article. I personally like reading blogs with images compared to it being fully texts",
+          "2025-11-18T13:48:52.534178"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T13:48:52.534178"
+        ],
+        [
+          1,
+          "2025-11-18T14:00:14.658640"
+        ],
+        [
+          1,
+          "2025-11-18T14:11:21.855347"
+        ],
+        [
+          1,
+          "2025-11-18T21:49:51.547402"
+        ],
+        [
+          1,
+          "2025-11-18T23:54:36.747224"
+        ],
+        [
+          1,
+          "2025-11-19T01:40:00.463200"
+        ]
+      ],
+      "created_utc": 1762389201.0,
+      "depth": 0,
+      "permalink": "/r/ContentMarketing/comments/1ooxqe7/how_do_you_stop_writing_content_that_doesnt/nnc53ug/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nnclx0z",
+      "parent_id": "t3_1ooxqe7",
+      "author": "laura-growthspurt",
+      "text_history": [
+        [
+          "Consistent content needs to be repurposed for different sales scenarios to see what’s conversion worthy. For example, take your best performing blog article, turn it into a video, and send that in a sales email that highlights its value offer. See if that helps push someone over the edge. If not, try a different format- like DM a short reel from the video. \n\nEvery content asset needs to have a strong value offer, plus strong call to actions that compel someone to act further.",
+          "2025-11-18T13:48:52.534178"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T13:48:52.534178"
+        ],
+        [
+          1,
+          "2025-11-18T14:00:14.658640"
+        ],
+        [
+          1,
+          "2025-11-18T14:11:21.855347"
+        ],
+        [
+          1,
+          "2025-11-18T21:49:51.547402"
+        ],
+        [
+          1,
+          "2025-11-18T23:54:36.747224"
+        ],
+        [
+          1,
+          "2025-11-19T01:40:00.463200"
+        ]
+      ],
+      "created_utc": 1762395209.0,
+      "depth": 0,
+      "permalink": "/r/ContentMarketing/comments/1ooxqe7/how_do_you_stop_writing_content_that_doesnt/nnclx0z/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nnjr1i6",
+      "parent_id": "t3_1ooxqe7",
+      "author": "Honeysyedseo",
+      "text_history": [
+        [
+          "Easy fix, but not simple. Stop writing *about* your product. Start writing *from* your buyer’s problem.\n\nEvery post should make them go, “Holy hell, that’s me.” Then show them one shift, one tool, or one truth that makes their pain go down and curiosity go up.\n\nMost content tries to educate. The stuff that converts agitates the right problem and makes the next step feel obvious.",
+          "2025-11-18T13:48:52.534178"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T13:48:52.534178"
+        ],
+        [
+          1,
+          "2025-11-18T14:00:14.658640"
+        ],
+        [
+          1,
+          "2025-11-18T14:11:21.855347"
+        ],
+        [
+          1,
+          "2025-11-18T21:49:51.547402"
+        ],
+        [
+          1,
+          "2025-11-18T23:54:36.747224"
+        ],
+        [
+          1,
+          "2025-11-19T01:40:00.463200"
+        ]
+      ],
+      "created_utc": 1762491857.0,
+      "depth": 0,
+      "permalink": "/r/ContentMarketing/comments/1ooxqe7/how_do_you_stop_writing_content_that_doesnt/nnjr1i6/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nnkvpi7",
+      "parent_id": "t3_1ooxqe7",
+      "author": "Efficient_Pass7812",
+      "text_history": [
+        [
+          "traffic without revenue means you're getting the wrong visitors or missing conversion steps. stop writing generic how to posts and target bottom funnel stuff like \"x vs y\" or \"best tool for specific problem\", my conversions jumped 3x when i made that switch. add clear next steps in every post like book a demo or grab a template, not just more blog links. check your top 10 traffic posts and see if any actually mention your product, if not that's your problem.",
+          "2025-11-18T13:48:52.534178"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T13:48:52.534178"
+        ],
+        [
+          1,
+          "2025-11-18T14:00:14.658640"
+        ],
+        [
+          1,
+          "2025-11-18T14:11:21.855347"
+        ],
+        [
+          1,
+          "2025-11-18T21:49:51.547402"
+        ],
+        [
+          1,
+          "2025-11-18T23:54:36.747224"
+        ],
+        [
+          1,
+          "2025-11-19T01:40:00.463200"
+        ]
+      ],
+      "created_utc": 1762515186.0,
+      "depth": 0,
+      "permalink": "/r/ContentMarketing/comments/1ooxqe7/how_do_you_stop_writing_content_that_doesnt/nnkvpi7/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T01:40:00.463200",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/ContentMarketing/comments/1ooxqe7/how_do_you_stop_writing_content_that_doesnt/",
+    "total_comments": 10,
+    "top_level_comments": 9,
+    "api_requests": 1,
+    "expected_comments": 10,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 6,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_134852.json",
+      "scrape_002_20251118_140014.json",
+      "scrape_003_20251118_141121.json",
+      "scrape_004_20251118_214951.json",
+      "scrape_005_20251118_235436.json",
+      "scrape_006_20251119_014000.json"
+    ]
+  }
+}

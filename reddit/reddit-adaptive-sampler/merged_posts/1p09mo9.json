@@ -1,0 +1,44 @@
+{
+  "post": {
+    "id": "1p09mo9",
+    "title": "How are you deploying your AI agent?",
+    "author": "Breakertt",
+    "score_history": [
+      [
+        2,
+        "2025-11-19T02:55:48.151118"
+      ],
+      [
+        2,
+        "2025-11-19T03:06:55.608300"
+      ],
+      [
+        2,
+        "2025-11-19T03:16:17.413411"
+      ]
+    ],
+    "created_utc": 1763465761.0,
+    "num_comments": 0,
+    "subreddit": "LangChain",
+    "url": "/r/AI_Agents/comments/1p09mae/how_are_you_deploying_your_ai_agent/",
+    "selftext": "",
+    "permalink": "/r/LangChain/comments/1p09mo9/how_are_you_deploying_your_ai_agent/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:16:17.413411",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/LangChain/comments/1p09mo9/how_are_you_deploying_your_ai_agent/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_025547.json",
+      "scrape_002_20251119_030655.json",
+      "scrape_003_20251119_031617.json"
+    ]
+  }
+}

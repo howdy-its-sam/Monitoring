@@ -18,13 +18,17 @@ from reddit_auth import get_authenticated_session
 from adaptive_scheduler import AdaptiveScheduler, DORMANCY_ZERO_STREAK
 from temperature_scheduler import ScrapeDelta
 from info_gain_analytics import compute_delta_info, collect_nodes
+from intensity_profiles import IntensityProfile, AGGRESSIVE, get_profile
+from author_cache import AuthorCache
+from author_fetcher import batch_fetch_authors
+from author_scoring import calculate_author_interestingness, get_top_authors
 try:
     from bootstrap_scheduler_from_merged import bootstrap_from_merged_data  # type: ignore
 except ModuleNotFoundError:
     bootstrap_from_merged_data = None
 from coverage_allocator import PriorityCoverageAllocator
 from discovery_poller import DiscoveryPoller, DiscoveredPost
-from depth_advisor import DepthAdvisor, SHALLOW, MEDIUM, DEEP
+from depth_advisor import DepthAdvisor
 from telemetry import TelemetryCollector
 from subreddit_priors import SubredditPriors
 from rate_limiter import RateLimiter
@@ -108,7 +112,8 @@ class UnifiedScraper:
                  target_rps: float = 10.0,
                  priorities_file: str = 'subreddit_priorities.txt',
                  temporal_dir: str = 'temporal_test',
-                 skip_bootstrap: bool = False):
+                 skip_bootstrap: bool = False,
+                 intensity_profile: str = 'aggressive'):
         """
         Initialize unified scraper.
         
@@ -121,6 +126,15 @@ class UnifiedScraper:
         self.target_rps = target_rps
         self.temporal_dir = temporal_dir
         self.skip_bootstrap = skip_bootstrap
+
+        # Load intensity profile
+        try:
+            self.intensity_profile = get_profile(intensity_profile)
+            print(f"🎯 Using intensity profile: {self.intensity_profile.name.upper()}")
+        except ValueError as e:
+            print(f"⚠️  {e}")
+            print(f"   Falling back to AGGRESSIVE profile")
+            self.intensity_profile = AGGRESSIVE
         
         # Initialize components
         print("🚀 Initializing Unified Adaptive Scraper...")
@@ -156,9 +170,22 @@ class UnifiedScraper:
         self.poller = DiscoveryPoller(self.allocator, self.session)
         print()
         
-        # 5. Depth advisor
+        # 5. Depth advisor (with intensity profile)
         print("📏 Initializing depth advisor...")
-        self.depth_advisor = DepthAdvisor()
+        self.depth_advisor = DepthAdvisor(profile=self.intensity_profile)
+        print(f"    Profile: {self.intensity_profile.name}")
+        print(f"    Min depth: {self.intensity_profile.min_guaranteed_depth}")
+        print(f"    Score threshold: {self.intensity_profile.score_threshold}")
+        print()
+
+        # 5b. Author cache (for reputation-based depth decisions)
+        print("👥 Initializing author cache...")
+        cache_path = os.path.join(self.temporal_dir, 'author_cache.json')
+        self.author_cache = AuthorCache(cache_file=cache_path, ttl_days=7)
+        stats = self.author_cache.get_stats()
+        if stats['total_profiles'] > 0:
+            print(f"    Loaded {stats['total_profiles']} cached profiles")
+            print(f"    Avg karma: {stats['avg_karma']:.0f}")
         print()
         
         # 6. Telemetry
@@ -171,9 +198,10 @@ class UnifiedScraper:
         self.cost_predictor = CostPredictor(history_size=500)
         print()
         
-        # 8. Rate limiter (FIX #13: Reddit compliance - 540 req/10min for safety)
-        print("⏱️  Initializing rate limiter...")
-        self.rate_limiter = RateLimiter(max_requests=540, window_seconds=600)
+        # 8. Adaptive Rate limiter (auto-discovers Reddit's actual limit from headers)
+        print("⏱️  Initializing adaptive rate limiter...")
+        self.rate_limiter = RateLimiter(max_requests=90, window_seconds=600)
+        print(f"    Starting assumption: 90 req/10min (will auto-adjust from API headers)")
         print()
         
         # 8. Subreddit priors (for new posts)
@@ -331,13 +359,66 @@ class UnifiedScraper:
             
             # Run scheduler control tick
             queue = self.scheduler.control_tick(now, instantaneous_rps=instantaneous_rps)
-            
+
+            # ADAPTIVE COVERAGE: Calculate continuous coverage ratio based on budget
+            available_budget = self.rate_limiter.available_budget()
+            conserve_budget = available_budget < max(50, int(self.rate_limiter.max_requests * 0.2))
+            self.scheduler.set_budget_conservation(conserve_budget)
+
+            # Calculate coverage_ratio (0.1 to 1.0) based on available budget
+            if available_budget >= 100:
+                coverage_ratio = 1.0  # Full coverage
+            elif available_budget <= 10:
+                coverage_ratio = 0.1  # Minimum 10%
+            else:
+                # Linear scale from 10% to 100% as budget goes from 10 to 100
+                coverage_ratio = 0.1 + (available_budget - 10) * 0.9 / 90
+
+            # Scale re-scrape interval inversely (60s at full → 300s at 10%)
+            min_rescrape_interval = int(60 + (1.0 - coverage_ratio) * 240)
+
+            # Log coverage changes (only when it changes significantly)
+            if not hasattr(self, '_last_coverage_ratio'):
+                self._last_coverage_ratio = coverage_ratio
+            if abs(coverage_ratio - self._last_coverage_ratio) > 0.05:  # 5% change threshold
+                print(f"📊 Coverage: {coverage_ratio:.0%} (budget={available_budget}, interval={min_rescrape_interval}s)")
+                self._last_coverage_ratio = coverage_ratio
+
             # FIX #11: Enhanced batch scaling with gain adaptation (10-100 range)
             gain = getattr(self.scheduler.controller, 'g', 1.0)
             batch_size = int(max(10, min(100, self.target_rps * gain * 2.0)))
             ready_count = len([e for e in queue if e.next_time <= now])
             batch_size = min(batch_size, max(1, ready_count))  # Don't request more than available
-            ready_posts = self.scheduler.get_next_posts(limit=batch_size)
+
+            # Apply continuous coverage-based batch size scaling
+            batch_size = max(1, int(batch_size * coverage_ratio))
+
+            # Get ready posts from scheduler
+            ready_posts = self.scheduler.get_next_posts(limit=batch_size * 2)  # Get extra for filtering
+
+            # ADAPTIVE COVERAGE: Filter by temperature based on coverage_ratio
+            if coverage_ratio < 1.0 and len(ready_posts) > 1:
+                # Get temperature for each post
+                posts_with_temp = []
+                for post_id in ready_posts:
+                    post = self.scheduler.posts.get(post_id)
+                    if post:
+                        posts_with_temp.append((post_id, post.temperature))
+
+                if posts_with_temp:
+                    # Sort by temperature (highest first)
+                    posts_with_temp.sort(key=lambda x: x[1], reverse=True)
+
+                    # Keep top coverage_ratio percentage
+                    keep_count = max(1, int(len(posts_with_temp) * coverage_ratio))
+                    ready_posts = [post_id for post_id, _ in posts_with_temp[:keep_count]]
+
+                    if len(posts_with_temp) > keep_count:
+                        dropped = len(posts_with_temp) - keep_count
+                        print(f"   📉 Dropped {dropped} low-priority posts (keeping top {keep_count}, {coverage_ratio:.0%})")
+
+            # Limit to original batch_size
+            ready_posts = ready_posts[:batch_size]
             
             # FIX #4: Opportunistic discovery when idle
             if not ready_posts and instantaneous_rps < self.target_rps:
@@ -413,10 +494,27 @@ class UnifiedScraper:
             posts_scraped_this_loop = 0
             deferrals_this_batch = 0  # FIX 16B: Track deferrals per batch
             
-            # FIX 16D: Budget floor protection with streak-based deep sleep
+            # ADAPTIVE COVERAGE: Manage budget by reducing coverage/frequency, not depth
+            # Keep intensity profile fixed - adjust what/when we scrape instead
             available_budget = self.rate_limiter.available_budget()
             conserve_budget = available_budget < max(50, int(self.rate_limiter.max_requests * 0.2))
             self.scheduler.set_budget_conservation(conserve_budget)
+
+            # Determine coverage level based on budget
+            if available_budget < 20:
+                coverage_mode = 'minimal'  # Critical: Only top 10% by temperature
+                batch_size = max(1, batch_size // 10)
+                min_rescrape_interval = 300  # 5 min between re-scrapes
+                print(f"⚠️  Budget critical ({available_budget}), MINIMAL coverage (top 10%, 5min intervals)")
+            elif available_budget < 50:
+                coverage_mode = 'reduced'  # Low: Top 50% by temperature
+                batch_size = max(1, batch_size // 2)
+                min_rescrape_interval = 120  # 2 min between re-scrapes
+                print(f"⚡ Budget low ({available_budget}), REDUCED coverage (top 50%, 2min intervals)")
+            else:
+                coverage_mode = 'full'  # Normal: All posts
+                min_rescrape_interval = 60  # 1 min between re-scrapes
+                # Note: batch_size unchanged for full coverage
             
             # Track budget drift (Fix 16: Budget drift tracker)
             budget_delta = available_budget - self.last_budget
@@ -429,55 +527,23 @@ class UnifiedScraper:
                 print(f"   Slowing scrape tempo by 25% to prevent collapse...")
                 self.target_rps *= 0.75
             
-            # Critical: Budget completely depleted
+            # Budget monitoring - no orchestration sleeps, let request-level gating handle pacing
             if available_budget == 0:
                 self.zero_budget_streak += 1
                 if self.zero_budget_streak >= 3:
                     print("💤 Hard budget starvation detected (3+ consecutive zeros)")
-                    print("   Full 3-min recovery sleep...")
-                    sleep_start = time.time()
-                    time.sleep(180)
-                    sleep_duration = time.time() - sleep_start
-                    
-                    # Learn refill rate
-                    budget_after = self.rate_limiter.available_budget()
-                    refill_gained = budget_after - available_budget
-                    measured_refill_rate = refill_gained / max(1, sleep_duration)
-                    self.avg_sleep_refill = 0.8 * self.avg_sleep_refill + 0.2 * measured_refill_rate
-                    
-                    print(f"   Refilled {refill_gained} requests in {sleep_duration:.0f}s (rate={measured_refill_rate:.2f}/s)")
+                    print("   Request-level gating will handle refill pacing...")
                     self.zero_budget_streak = 0
                 else:
-                    print(f"🛑 Budget depleted (streak={self.zero_budget_streak}), sleeping 60s...")
-                    sleep_start = time.time()
-                    time.sleep(60)
-                    sleep_duration = time.time() - sleep_start
-                    
-                    # Learn refill rate
-                    budget_after = self.rate_limiter.available_budget()
-                    refill_gained = budget_after - available_budget
-                    measured_refill_rate = refill_gained / max(1, sleep_duration)
-                    self.avg_sleep_refill = 0.8 * self.avg_sleep_refill + 0.2 * measured_refill_rate
-                    
-                    print(f"   Refilled {refill_gained} requests in {sleep_duration:.0f}s (rate={measured_refill_rate:.2f}/s)")
-                continue
+                    print(f"🛑 Budget depleted (streak={self.zero_budget_streak})")
+                    print("   Request-level wait_for_budget() will pace consumption...")
+                # Don't continue - let the loop proceed and wait_for_budget() will handle it
             else:
                 self.zero_budget_streak = 0
-            
-            # Warning: Budget very low
+
+            # Warning: Budget very low - just log, no sleep
             if available_budget < 30:
-                print(f"⚠️  Budget very low ({available_budget}), sleeping 30s to refill...")
-                sleep_start = time.time()
-                time.sleep(30)
-                sleep_duration = time.time() - sleep_start
-                
-                # Learn refill rate
-                budget_after = self.rate_limiter.available_budget()
-                refill_gained = budget_after - available_budget
-                measured_refill_rate = refill_gained / max(1, sleep_duration)
-                self.avg_sleep_refill = 0.8 * self.avg_sleep_refill + 0.2 * measured_refill_rate
-                
-                print(f"   Refilled {refill_gained} requests in {sleep_duration:.0f}s (rate={measured_refill_rate:.2f}/s)")
+                print(f"⚠️  Budget very low ({available_budget}), relying on adaptive interval pacing...")
             
             # Reset deferral tracking for this batch
             self.deferred_count = 0
@@ -495,30 +561,27 @@ class UnifiedScraper:
                 
                 # === SCRAPING PHASE ===
             # FIX #16: Pre-scrape cost estimation and budget validation
-            
+
             # 1. Get post metadata
                 post_metadata = self.scheduler.get_post_metadata(post_id)
                 num_comments = post_metadata.get('num_comments', 0)
-                
-                # 2. Get depth mode (Refinement #6: fallback to medium)
-                depth_mode = self.depth_advisor.get_depth_mode(post_id)
-                if depth_mode is None:
-                    depth_mode = MEDIUM
-                
+
+                # 2. Use intensity profile for cost estimation
+                # New system: profiles define max_requests_per_post instead of fixed depth
+                max_requests_for_post = self.depth_advisor.profile.max_requests_per_post
+
                 # 3. Estimate cost BEFORE scraping
-                estimated_cost = self.cost_predictor.predict(num_comments, depth_mode.name.lower())
+                # Use 'deep' as a proxy since we're using dynamic depth with budget limits
+                estimated_cost = min(num_comments, max_requests_for_post)
                 
             # 4. Check budget availability
             available_budget = self.rate_limiter.available_budget()
             
-            # 5. Soft guard: if almost empty, pause briefly before retrying.
+            # 5. Soft guard: if almost empty, log but let request-level gating handle pacing
             buffer_tokens = max(5, int(self.rate_limiter.max_requests * 0.02))
             if available_budget < buffer_tokens:
-                deficit = buffer_tokens - available_budget
-                wait_seconds = max(1.0, self.rate_limiter.wait_time())
-                print(f"⏸️  Tokens nearly exhausted ({available_budget} remaining, need {buffer_tokens}). Waiting {wait_seconds:.1f}s to refill...")
-                time.sleep(wait_seconds)
-                continue
+                print(f"⏸️  Tokens nearly exhausted ({available_budget} remaining, need {buffer_tokens}). Request-level gating will handle refill...")
+                # Don't sleep - let wait_for_budget() in the API layer handle dynamic waiting
             
             # Track attempts for recovery mode
             self.attempted_count += 1
@@ -529,7 +592,7 @@ class UnifiedScraper:
             
             print(f"[{elapsed_mins:.0f}:{remaining_mins:.0f}] "
                   f"🎯 {post_id} r/{post.subreddit} "
-                  f"(T={post.temperature:.2f}, depth={depth_mode.name})...")
+                  f"(T={post.temperature:.2f}, profile={self.depth_advisor.profile.name})...")
             
             # Prepare output
             post_dir = f'{self.temporal_dir}/{post_id}/raw_scrapes'
@@ -548,9 +611,10 @@ class UnifiedScraper:
                 budget_before = available_budget
                 
                 result = scrape_reddit_post_api(
-                    post.url, 
+                    post.url,
                     output_file,
-                    session=self.session
+                    session=self.session,
+                    rate_limiter=self.rate_limiter
                 )
                 
                 if result and 'error' not in result:
@@ -559,35 +623,16 @@ class UnifiedScraper:
                     actual_cost = new_request_count - current_request_count
                     
                     # FIX #16: Consume actual API requests from rate limiter
+                    # Request-level gating already handled budget, just record consumption
                     if not self.rate_limiter.consume(actual_cost):
-                        deficit = max(0, actual_cost - self.rate_limiter.available_budget())
-                        wait_seconds = max(1.0, self.rate_limiter.wait_time())
-                        print(f"⏸️  Rate limiter empty mid-batch (cost={actual_cost}, deficit≈{deficit}). Waiting {wait_seconds:.1f}s...")
-                        time.sleep(wait_seconds)
-                        # After refill attempt, ensure tokens are available before continuing
-                        if not self.rate_limiter.consume(actual_cost):
-                            # RETRY LOGIC: Poll for refill (Smart Wait)
-                            # Instead of sleeping 10m blindly, check every 60s
-                            max_wait_minutes = 10
-                            success = False
-                            
-                            for m in range(max_wait_minutes):
-                                print(f"⏳ Rate limit exhausted. Waiting 60s to refill ({m+1}/{max_wait_minutes}m)...")
-                                time.sleep(60)
-                                
-                                if self.rate_limiter.consume(actual_cost):
-                                    print(f"✅ Refilled successfully after {m+1} minutes.")
-                                    success = True
-                                    break
-                            
-                            if not success:
-                                print("⚠️  Unable to consume tokens after 10m wait; skipping remaining posts in batch.")
-                                break
-                    
+                        # This should rarely happen since wait_for_budget() gates each request
+                        # But if it does, the rate limiter will handle it on next request
+                        print(f"⚠️  Consumption check failed (cost={actual_cost}), but request-level gating will handle next request...")
+
                     budget_after = self.rate_limiter.available_budget()
                     
                     # FIX #16: Record cost for learning
-                    self.cost_predictor.record(num_comments, depth_mode.name.lower(), actual_cost)
+                    self.cost_predictor.record(num_comments, self.depth_advisor.profile.name.lower(), actual_cost)
                     self.cost_predictor.record_prediction_error(estimated_cost, actual_cost)
                     
                     # Compute delta
@@ -625,7 +670,38 @@ class UnifiedScraper:
                     
                     # Update previous data
                     self.previous_data[post_id] = result
-                    
+
+                    # Author analysis (thread-scoped scoring + optional profile fetching)
+                    try:
+                        author_scores = calculate_author_interestingness(result)
+                        top_authors = sorted(author_scores.items(), key=lambda x: x[1], reverse=True)
+
+                        # Decide how many profiles to fetch based on budget
+                        available_budget = self.rate_limiter.available_budget()
+                        if available_budget > 100:
+                            fetch_limit = 10
+                        elif available_budget > 50:
+                            fetch_limit = 5
+                        else:
+                            fetch_limit = 2
+
+                        # Fetch uncached author profiles
+                        uncached_authors = [
+                            author for author, _ in top_authors[:fetch_limit]
+                            if author not in ['[deleted]', 'AutoModerator'] and self.author_cache.get(author) is None
+                        ]
+
+                        if uncached_authors:
+                            print(f"  👥 Fetching {len(uncached_authors)} author profiles...")
+                            new_profiles = batch_fetch_authors(uncached_authors, self.session, max_fetches=fetch_limit)
+                            for profile in new_profiles.values():
+                                self.author_cache.set(profile)
+                            if new_profiles:
+                                self.author_cache.save()  # Persist to disk
+
+                    except Exception as e:
+                        print(f"  ⚠️  Author analysis failed: {e}")
+
                     # Track for coverage metric
                     self.recent_scrapes.append((now, post_id))
                     
@@ -644,7 +720,7 @@ class UnifiedScraper:
                         "timestamp": datetime.now(timezone.utc).isoformat(),
                         "post_id": post_id,
                         "subreddit": post.subreddit,
-                        "depth": depth_mode.name,
+                        "depth": self.depth_advisor.profile.name,
                         "requests_used": actual_cost,
                         "estimated_cost": estimated_cost,
                         "delta_info": delta_info,
@@ -696,26 +772,9 @@ class UnifiedScraper:
                 # Predictive cooldown based on budget deficit
                 available_budget = self.rate_limiter.available_budget()
                 safe_threshold = 50
-                needed_refill = max(0, safe_threshold - available_budget)
-                
-                # Calculate sleep time using learned refill rate
-                predicted_sleep = needed_refill / max(0.8, self.avg_sleep_refill)
-                cooldown = max(15, min(120, predicted_sleep))  # 15s-120s range
-                
                 print(f"⏳ All {deferrals_this_batch} posts deferred")
-                print(f"   Budget: {available_budget}/{safe_threshold}, cooling down {cooldown:.0f}s (refill rate={self.avg_sleep_refill:.2f}/s)")
-                
-                sleep_start = time.time()
-                time.sleep(cooldown)
-                sleep_duration = time.time() - sleep_start
-                
-                # Learn refill rate from this cooldown
-                budget_after = self.rate_limiter.available_budget()
-                refill_gained = budget_after - available_budget
-                measured_refill_rate = refill_gained / max(1, sleep_duration)
-                self.avg_sleep_refill = 0.8 * self.avg_sleep_refill + 0.2 * measured_refill_rate
-                
-                print(f"   Refilled {refill_gained} requests in {sleep_duration:.0f}s (learned rate={self.avg_sleep_refill:.2f}/s)")
+                print(f"   Budget: {available_budget}, relying on request-level gating for pacing...")
+                # Don't sleep - let wait_for_budget() handle dynamic pacing on next batch
             
             # Log loop telemetry (FIX #8 + FIX #14)
             loop_duration = time.time() - batch_start_time
@@ -873,12 +932,22 @@ class UnifiedScraper:
         
         # Depth advisor metrics
         depth_status = self.depth_advisor.get_status()
-        print(f"Depth Distribution:")
-        print(f"  ├─ Shallow: {depth_status['shallow']}")
-        print(f"  ├─ Medium: {depth_status['medium']}")
-        print(f"  ├─ Deep: {depth_status['deep']}")
+        print(f"Intensity Profile:")
+        print(f"  ├─ Current: {depth_status['current_profile'].upper()}")
+        print(f"  ├─ Total posts: {depth_status['total_posts']}")
         print(f"  └─ Avg efficiency: {depth_status['avg_efficiency']:.3f} ΔInfo/req")
+        if depth_status.get('profile_distribution'):
+            print(f"  Profile usage: {depth_status['profile_distribution']}")
         print()
+
+        # Author cache metrics
+        author_stats = self.author_cache.get_stats()
+        if author_stats['total_profiles'] > 0:
+            print(f"Author Cache:")
+            print(f"  ├─ Cached profiles: {author_stats['total_profiles']}")
+            print(f"  ├─ Avg karma: {author_stats['avg_karma']:.0f}")
+            print(f"  └─ Avg account age: {author_stats['avg_account_age_days']:.0f} days")
+            print()
         
         # Telemetry metrics
         print(f"Telemetry:")
@@ -898,23 +967,30 @@ class UnifiedScraper:
 
 if __name__ == '__main__':
     import sys
-    
+
     # Parse arguments
     duration = int(sys.argv[1]) if len(sys.argv) > 1 else 60
     target_rps = float(sys.argv[2]) if len(sys.argv) > 2 else 10.0
     skip_bootstrap = '--no-bootstrap' in sys.argv
-    
+
     # Check for custom temporal directory
     temporal_dir = 'temporal_test'
     for arg in sys.argv:
         if arg.startswith('--dir='):
             temporal_dir = arg.split('=')[1]
-    
+
+    # Check for intensity profile
+    intensity_profile = 'aggressive'  # Default
+    for arg in sys.argv:
+        if arg.startswith('--intensity='):
+            intensity_profile = arg.split('=')[1]
+
     # Create and run unified scraper
     scraper = UnifiedScraper(
-        target_rps=target_rps, 
+        target_rps=target_rps,
         skip_bootstrap=skip_bootstrap,
-        temporal_dir=temporal_dir
+        temporal_dir=temporal_dir,
+        intensity_profile=intensity_profile
     )
     scraper.run(duration_minutes=duration)
 

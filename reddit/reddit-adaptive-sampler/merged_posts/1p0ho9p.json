@@ -1,0 +1,44 @@
+{
+  "post": {
+    "id": "1p0ho9p",
+    "title": "Avahi DoS vulnerability (CVE-2025-59529): Logic flaw allows unprivileged users to exhaust daemon resources",
+    "author": "anonjohn1212",
+    "score_history": [
+      [
+        1,
+        "2025-11-18T14:23:19.492660"
+      ],
+      [
+        1,
+        "2025-11-18T14:33:14.366937"
+      ],
+      [
+        1,
+        "2025-11-18T14:43:33.557783"
+      ]
+    ],
+    "created_utc": 1763485966.0,
+    "num_comments": 0,
+    "subreddit": "cybersecurity",
+    "url": "https://zeropath.com/blog/avahi-simple-protocol-server-dos-cve-2025-59529",
+    "selftext": "",
+    "permalink": "/r/cybersecurity/comments/1p0ho9p/avahi_dos_vulnerability_cve202559529_logic_flaw/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-18T14:43:33.557783",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/cybersecurity/comments/1p0ho9p/avahi_dos_vulnerability_cve202559529_logic_flaw/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_142319.json",
+      "scrape_002_20251118_143314.json",
+      "scrape_003_20251118_144333.json"
+    ]
+  }
+}

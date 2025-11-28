@@ -1,0 +1,80 @@
+{
+  "post": {
+    "id": "1p0a6gx",
+    "title": "Is it you guys...again ?",
+    "author": "LukasijusLT",
+    "score_history": [
+      [
+        1,
+        "2025-11-19T02:34:56.493996"
+      ],
+      [
+        1,
+        "2025-11-19T02:44:21.809133"
+      ],
+      [
+        1,
+        "2025-11-19T02:48:09.195514"
+      ]
+    ],
+    "created_utc": 1763467537.0,
+    "num_comments": 1,
+    "subreddit": "ChatGPTCoding",
+    "url": "https://www.reddit.com/r/ChatGPTCoding/comments/1p0a6gx/is_it_you_guysagain/",
+    "selftext": "https://preview.redd.it/pmlwep8na02g1.png?width=1313&amp;format=png&amp;auto=webp&amp;s=958d9ce2373d49d55d1201a89a86b24c0a230df8\n\n",
+    "permalink": "/r/ChatGPTCoding/comments/1p0a6gx/is_it_you_guysagain/"
+  },
+  "comments": [
+    {
+      "id": "nplqlg2",
+      "parent_id": "t3_1p0a6gx",
+      "author": "satyamyadav404",
+      "text_history": [
+        [
+          "Yes",
+          "2025-11-19T02:34:56.493996"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:34:56.493996"
+        ],
+        [
+          1,
+          "2025-11-19T02:44:21.809133"
+        ],
+        [
+          1,
+          "2025-11-19T02:48:09.195514"
+        ]
+      ],
+      "created_utc": 1763519305.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTCoding/comments/1p0a6gx/is_it_you_guysagain/nplqlg2/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T02:48:09.195514",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/ChatGPTCoding/comments/1p0a6gx/is_it_you_guysagain/",
+    "total_comments": 1,
+    "top_level_comments": 1,
+    "api_requests": 1,
+    "expected_comments": 1,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_023456.json",
+      "scrape_002_20251119_024421.json",
+      "scrape_003_20251119_024809.json"
+    ]
+  }
+}

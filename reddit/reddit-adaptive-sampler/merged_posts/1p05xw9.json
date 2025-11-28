@@ -1,0 +1,789 @@
+{
+  "post": {
+    "id": "1p05xw9",
+    "title": "Conversational AI Agents are the new UI. Stop designing clicks and drags. and start designing dialogues that understand and fulfill user intent.",
+    "author": "SkirtShort2807",
+    "score_history": [
+      [
+        5,
+        "2025-11-18T13:49:50.157974"
+      ],
+      [
+        4,
+        "2025-11-18T14:00:57.135381"
+      ],
+      [
+        4,
+        "2025-11-18T14:12:13.490059"
+      ],
+      [
+        5,
+        "2025-11-18T14:21:04.298386"
+      ],
+      [
+        5,
+        "2025-11-18T14:22:02.364275"
+      ],
+      [
+        11,
+        "2025-11-18T22:20:28.881686"
+      ],
+      [
+        11,
+        "2025-11-19T00:05:23.669677"
+      ],
+      [
+        12,
+        "2025-11-19T01:51:01.903494"
+      ]
+    ],
+    "created_utc": 1763451799.0,
+    "num_comments": 14,
+    "subreddit": "LangChain",
+    "url": "https://www.reddit.com/r/LangChain/comments/1p05xw9/conversational_ai_agents_are_the_new_ui_stop/",
+    "selftext": "The future isn’t in interfaces you navigate ... it’s in conversations that get things done. ",
+    "permalink": "/r/LangChain/comments/1p05xw9/conversational_ai_agents_are_the_new_ui_stop/"
+  },
+  "comments": [
+    {
+      "id": "npgp8a7",
+      "parent_id": "t3_1p05xw9",
+      "author": "Thick-Protection-458",
+      "text_history": [
+        [
+          "Yeah, sure, why make an always predictable interface when you can make probabilistic model which with *high chance* will understand user intent.\n\n\nThe world definitely does not contain repeatable tasks which can use hardcoded UI, does it?\n\n\nLook, I understand chats can be a good idea when task is not known in advance. They can be a good supplementary way to extract information when it is. But replacement for UI?",
+          "2025-11-18T13:49:50.157974"
+        ]
+      ],
+      "score_history": [
+        [
+          11,
+          "2025-11-18T13:49:50.157974"
+        ],
+        [
+          12,
+          "2025-11-18T14:00:57.135381"
+        ],
+        [
+          11,
+          "2025-11-18T14:12:13.490059"
+        ],
+        [
+          10,
+          "2025-11-18T14:21:04.298386"
+        ],
+        [
+          12,
+          "2025-11-18T14:22:02.364275"
+        ],
+        [
+          12,
+          "2025-11-18T22:20:28.881686"
+        ],
+        [
+          11,
+          "2025-11-19T00:05:23.669677"
+        ],
+        [
+          10,
+          "2025-11-19T01:51:01.903494"
+        ]
+      ],
+      "created_utc": 1763455970.0,
+      "depth": 0,
+      "permalink": "/r/LangChain/comments/1p05xw9/conversational_ai_agents_are_the_new_ui_stop/npgp8a7/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "nphsf67",
+          "parent_id": "t1_npgp8a7",
+          "author": "mtutty",
+          "text_history": [
+            [
+              "Conversational UI has a huge future ahead of it in enterprise apps.  If you've never worked in a large corporation, you might be surprised at the sheer number of apps and screens that average AR, Vendor Mgmt, Finance, Project Mgmt, and other knowledge workers have to navigate (and transliterate between) on a daily basis.\n\nClicking from one field to another, then clicking the right button to take an action, then clicking to the next screen, then switching to another app and making sure to enter the PO number from the first app, then taking the tracking # from that app and sending an email to the shipping dept is a totally normal task - and one that can be boiled down to \"Hey, I just got PO A1131 from Joe Corp, we can ship their product tomorrow\"",
+              "2025-11-18T13:49:50.157974"
+            ]
+          ],
+          "score_history": [
+            [
+              0,
+              "2025-11-18T13:49:50.157974"
+            ],
+            [
+              0,
+              "2025-11-18T14:00:57.135381"
+            ],
+            [
+              0,
+              "2025-11-18T14:12:13.490059"
+            ],
+            [
+              0,
+              "2025-11-18T14:21:04.298386"
+            ],
+            [
+              0,
+              "2025-11-18T14:22:02.364275"
+            ],
+            [
+              1,
+              "2025-11-18T22:20:28.881686"
+            ],
+            [
+              1,
+              "2025-11-19T00:05:23.669677"
+            ],
+            [
+              1,
+              "2025-11-19T01:51:01.903494"
+            ]
+          ],
+          "created_utc": 1763474556.0,
+          "depth": 1,
+          "permalink": "/r/LangChain/comments/1p05xw9/conversational_ai_agents_are_the_new_ui_stop/nphsf67/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        },
+        {
+          "id": "npgr9yy",
+          "parent_id": "t1_npgp8a7",
+          "author": "SkirtShort2807",
+          "text_history": [
+            [
+              "But you’re making it about *you*. And it isn’t.  \nYou like UI because it makes **your** job easier. Meanwhile, people’s brains are fried. No one has the time...or patience...to learn your textboxes, checkboxes, and drag-and-drop widgets unless they’re another nerd like you.\n\nYou’re competing to create something people love and can adopt in under five minutes.  \nFor example, I’ve been using Google Calendar for years, and I probably know 5% of its features...and I’m a senior developer.\n\nThat’s why I realized the only way is through Conversational AI.   \n  \nThus, the only way to build a conversational AI that can handle real, unpredictable human intent is through an **Autonomous Architecture**...which I finally laid out in my research.",
+              "2025-11-18T13:49:50.157974"
+            ]
+          ],
+          "score_history": [
+            [
+              -6,
+              "2025-11-18T13:49:50.157974"
+            ],
+            [
+              -8,
+              "2025-11-18T14:00:57.135381"
+            ],
+            [
+              -7,
+              "2025-11-18T14:12:13.490059"
+            ],
+            [
+              -8,
+              "2025-11-18T14:21:04.298386"
+            ],
+            [
+              -8,
+              "2025-11-18T14:22:02.364275"
+            ],
+            [
+              -8,
+              "2025-11-18T22:20:28.881686"
+            ],
+            [
+              -7,
+              "2025-11-19T00:05:23.669677"
+            ],
+            [
+              -8,
+              "2025-11-19T01:51:01.903494"
+            ]
+          ],
+          "created_utc": 1763457272.0,
+          "depth": 1,
+          "permalink": "/r/LangChain/comments/1p05xw9/conversational_ai_agents_are_the_new_ui_stop/npgr9yy/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "nph9k01",
+              "parent_id": "t1_npgr9yy",
+              "author": "ThanosDidBadMaths",
+              "text_history": [
+                [
+                  "Interesting point, the only issue I see is you’re considering the time and effort of the developer, and the customer (person who is having to learn all the UI components), but what about their end users experience? Surely that’s where satisfaction matters most, for long term adoption of your tool.\n\nIn my view, a simple set of text boxes, multi select etc is much easier to fill out (and predictable in case they fill in forms regularly eg: expenses, or support requests)\nCompared to ChatGPT having to parse the users messages into the tool arguments, potentially misunderstanding, having to ask for more information, creating a back and forth conversation compared to a simple text box where the user can say exactly what they mean.",
+                  "2025-11-18T13:49:50.157974"
+                ]
+              ],
+              "score_history": [
+                [
+                  2,
+                  "2025-11-18T13:49:50.157974"
+                ],
+                [
+                  2,
+                  "2025-11-18T14:00:57.135381"
+                ],
+                [
+                  2,
+                  "2025-11-18T14:12:13.490059"
+                ],
+                [
+                  2,
+                  "2025-11-18T14:21:04.298386"
+                ],
+                [
+                  2,
+                  "2025-11-18T14:22:02.364275"
+                ],
+                [
+                  3,
+                  "2025-11-18T22:20:28.881686"
+                ],
+                [
+                  3,
+                  "2025-11-19T00:05:23.669677"
+                ],
+                [
+                  3,
+                  "2025-11-19T01:51:01.903494"
+                ]
+              ],
+              "created_utc": 1763467610.0,
+              "depth": 2,
+              "permalink": "/r/LangChain/comments/1p05xw9/conversational_ai_agents_are_the_new_ui_stop/nph9k01/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            },
+            {
+              "id": "npj8p0p",
+              "parent_id": "t1_npgr9yy",
+              "author": "Niightstalker",
+              "text_history": [
+                [
+                  "So instead of viewing your calendar, dragging pressed mouse along a free Timeslot and entering a name and maybe click a checkbox to remind you intime, you want to type into a textfield: „When do you I have a free time slot for 30 minutes this week?“ -&gt; get back 4 options. Write again „Add a new appointment for 30 minutes on Tuesday and remind me 40 minutes before the event.“ and then you need to wait again for the response of the model that writes something like „your event was created“. \n\nDid I get this right? A Chat is definitely not always the best possible user interface. It makes 0 sense to not just offer a button for repeating clearly defined actions. If a user needs to write a complete sentence everytime for this action they will be annoyed as fuck and leaves way more room for an error.",
+                  "2025-11-18T13:49:50.157974"
+                ]
+              ],
+              "score_history": [
+                [
+                  2,
+                  "2025-11-18T13:49:50.157974"
+                ],
+                [
+                  2,
+                  "2025-11-18T14:00:57.135381"
+                ],
+                [
+                  2,
+                  "2025-11-18T14:12:13.490059"
+                ],
+                [
+                  2,
+                  "2025-11-18T14:21:04.298386"
+                ],
+                [
+                  2,
+                  "2025-11-18T14:22:02.364275"
+                ],
+                [
+                  3,
+                  "2025-11-18T22:20:28.881686"
+                ],
+                [
+                  3,
+                  "2025-11-19T00:05:23.669677"
+                ],
+                [
+                  3,
+                  "2025-11-19T01:51:01.903494"
+                ]
+              ],
+              "created_utc": 1763490214.0,
+              "depth": 2,
+              "permalink": "/r/LangChain/comments/1p05xw9/conversational_ai_agents_are_the_new_ui_stop/npj8p0p/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": [
+                {
+                  "id": "npkhifz",
+                  "parent_id": "t1_npj8p0p",
+                  "author": "SkirtShort2807",
+                  "text_history": [
+                    [
+                      "True you can mix them both if you want to",
+                      "2025-11-18T14:12:13.490059"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      1,
+                      "2025-11-18T14:12:13.490059"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T14:21:04.298386"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T14:22:02.364275"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T22:20:28.881686"
+                    ],
+                    [
+                      1,
+                      "2025-11-19T00:05:23.669677"
+                    ],
+                    [
+                      1,
+                      "2025-11-19T01:51:01.903494"
+                    ]
+                  ],
+                  "created_utc": 1763503576.0,
+                  "depth": 3,
+                  "permalink": "/r/LangChain/comments/1p05xw9/conversational_ai_agents_are_the_new_ui_stop/npkhifz/",
+                  "is_submitter": true,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "npgtlp4",
+              "parent_id": "t1_npgr9yy",
+              "author": "Thick-Protection-458",
+              "text_history": [
+                [
+                  "&gt; That’s why I realized the only way is through Conversational AI.\n\n\nWell, I did not tell conversational ui have no place for a well-defined tasks.\n\n\nWhat I said is that it is just another way to extract information. A way which exchange predictability of classic ui in favor of conversational interface.\n\n\nSo I think in the end right way may be having both. Textual one with all the confirmations for not fully standard scenarios and cases user do not know his stuff yet, classic for cases user do.",
+                  "2025-11-18T13:49:50.157974"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-18T13:49:50.157974"
+                ],
+                [
+                  1,
+                  "2025-11-18T14:00:57.135381"
+                ],
+                [
+                  1,
+                  "2025-11-18T14:12:13.490059"
+                ],
+                [
+                  1,
+                  "2025-11-18T14:21:04.298386"
+                ],
+                [
+                  1,
+                  "2025-11-18T14:22:02.364275"
+                ],
+                [
+                  1,
+                  "2025-11-18T22:20:28.881686"
+                ],
+                [
+                  1,
+                  "2025-11-19T00:05:23.669677"
+                ],
+                [
+                  1,
+                  "2025-11-19T01:51:01.903494"
+                ]
+              ],
+              "created_utc": 1763458777.0,
+              "depth": 2,
+              "permalink": "/r/LangChain/comments/1p05xw9/conversational_ai_agents_are_the_new_ui_stop/npgtlp4/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": 1763459530.0,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            },
+            {
+              "id": "npho6d4",
+              "parent_id": "t1_npgr9yy",
+              "author": "mtutty",
+              "text_history": [
+                [
+                  "Link to research pls.",
+                  "2025-11-18T13:49:50.157974"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-18T13:49:50.157974"
+                ],
+                [
+                  1,
+                  "2025-11-18T14:00:57.135381"
+                ],
+                [
+                  1,
+                  "2025-11-18T14:12:13.490059"
+                ],
+                [
+                  1,
+                  "2025-11-18T14:21:04.298386"
+                ],
+                [
+                  1,
+                  "2025-11-18T14:22:02.364275"
+                ],
+                [
+                  1,
+                  "2025-11-18T22:20:28.881686"
+                ],
+                [
+                  1,
+                  "2025-11-19T00:05:23.669677"
+                ],
+                [
+                  1,
+                  "2025-11-19T01:51:01.903494"
+                ]
+              ],
+              "created_utc": 1763473196.0,
+              "depth": 2,
+              "permalink": "/r/LangChain/comments/1p05xw9/conversational_ai_agents_are_the_new_ui_stop/npho6d4/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": [
+                {
+                  "id": "nphoftx",
+                  "parent_id": "t1_npho6d4",
+                  "author": "SkirtShort2807",
+                  "text_history": [
+                    [
+                      "[risolto.co.uk/blog/i-think-i-just-solved-a-true-autonomy-meet-ooda-agents/](http://risolto.co.uk/blog/i-think-i-just-solved-a-true-autonomy-meet-ooda-agents/)\n\nCode is there too.",
+                      "2025-11-18T13:49:50.157974"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      1,
+                      "2025-11-18T13:49:50.157974"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T14:00:57.135381"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T14:12:13.490059"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T14:21:04.298386"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T14:22:02.364275"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T22:20:28.881686"
+                    ],
+                    [
+                      1,
+                      "2025-11-19T00:05:23.669677"
+                    ],
+                    [
+                      1,
+                      "2025-11-19T01:51:01.903494"
+                    ]
+                  ],
+                  "created_utc": 1763473280.0,
+                  "depth": 3,
+                  "permalink": "/r/LangChain/comments/1p05xw9/conversational_ai_agents_are_the_new_ui_stop/nphoftx/",
+                  "is_submitter": true,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": [
+                    {
+                      "id": "npm7vlm",
+                      "parent_id": "t1_nphoftx",
+                      "author": "Glittering_Hippo3168",
+                      "text_history": [
+                        [
+                          "Thanks for sharing the link! I’m curious about how your architecture handles edge cases where user intent isn’t clear. Have you done any testing on that?",
+                          "2025-11-18T22:20:28.881686"
+                        ]
+                      ],
+                      "score_history": [
+                        [
+                          1,
+                          "2025-11-18T22:20:28.881686"
+                        ],
+                        [
+                          1,
+                          "2025-11-19T00:05:23.669677"
+                        ],
+                        [
+                          1,
+                          "2025-11-19T01:51:01.903494"
+                        ]
+                      ],
+                      "created_utc": 1763525925.0,
+                      "depth": 4,
+                      "permalink": "/r/LangChain/comments/1p05xw9/conversational_ai_agents_are_the_new_ui_stop/npm7vlm/",
+                      "is_submitter": false,
+                      "controversiality": 0,
+                      "gilded": 0,
+                      "edited": false,
+                      "deleted": false,
+                      "deleted_at": null,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "npiarg2",
+      "parent_id": "t3_1p05xw9",
+      "author": "anotherleftistbot",
+      "text_history": [
+        [
+          "The future is not chat bots and a terminal like UI. The future is context aware software which seamlessly combines UI, Agents, and conversational experiences based on what the user needs at any given moment.",
+          "2025-11-18T13:49:50.157974"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T13:49:50.157974"
+        ],
+        [
+          1,
+          "2025-11-18T14:00:57.135381"
+        ],
+        [
+          1,
+          "2025-11-18T14:12:13.490059"
+        ],
+        [
+          1,
+          "2025-11-18T14:21:04.298386"
+        ],
+        [
+          1,
+          "2025-11-18T14:22:02.364275"
+        ],
+        [
+          3,
+          "2025-11-18T22:20:28.881686"
+        ],
+        [
+          3,
+          "2025-11-19T00:05:23.669677"
+        ],
+        [
+          3,
+          "2025-11-19T01:51:01.903494"
+        ]
+      ],
+      "created_utc": 1763480296.0,
+      "depth": 0,
+      "permalink": "/r/LangChain/comments/1p05xw9/conversational_ai_agents_are_the_new_ui_stop/npiarg2/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nphv94o",
+      "parent_id": "t3_1p05xw9",
+      "author": "bigbarba",
+      "text_history": [
+        [
+          "Imagine if once humanity invented writing they stopped speaking...",
+          "2025-11-18T13:49:50.157974"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-18T13:49:50.157974"
+        ],
+        [
+          2,
+          "2025-11-18T14:00:57.135381"
+        ],
+        [
+          2,
+          "2025-11-18T14:12:13.490059"
+        ],
+        [
+          2,
+          "2025-11-18T14:21:04.298386"
+        ],
+        [
+          2,
+          "2025-11-18T14:22:02.364275"
+        ],
+        [
+          2,
+          "2025-11-18T22:20:28.881686"
+        ],
+        [
+          2,
+          "2025-11-19T00:05:23.669677"
+        ],
+        [
+          2,
+          "2025-11-19T01:51:01.903494"
+        ]
+      ],
+      "created_utc": 1763475462.0,
+      "depth": 0,
+      "permalink": "/r/LangChain/comments/1p05xw9/conversational_ai_agents_are_the_new_ui_stop/nphv94o/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npkh01v",
+      "parent_id": "t3_1p05xw9",
+      "author": "DatBoi247",
+      "text_history": [
+        [
+          "I think AI is going to burst like a bubble and companies will be stuck with a bunch of features nobody wants and the lack of human labor to run efficiently.",
+          "2025-11-18T14:12:13.490059"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:12:13.490059"
+        ],
+        [
+          1,
+          "2025-11-18T14:21:04.298386"
+        ],
+        [
+          1,
+          "2025-11-18T14:22:02.364275"
+        ],
+        [
+          1,
+          "2025-11-18T22:20:28.881686"
+        ],
+        [
+          2,
+          "2025-11-19T00:05:23.669677"
+        ],
+        [
+          2,
+          "2025-11-19T01:51:01.903494"
+        ]
+      ],
+      "created_utc": 1763503416.0,
+      "depth": 0,
+      "permalink": "/r/LangChain/comments/1p05xw9/conversational_ai_agents_are_the_new_ui_stop/npkh01v/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nplvc74",
+      "parent_id": "t3_1p05xw9",
+      "author": "xtof_of_crg",
+      "text_history": [
+        [
+          "Dialogue is only half the battle",
+          "2025-11-18T22:20:28.881686"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T22:20:28.881686"
+        ],
+        [
+          1,
+          "2025-11-19T00:05:23.669677"
+        ],
+        [
+          1,
+          "2025-11-19T01:51:01.903494"
+        ]
+      ],
+      "created_utc": 1763521006.0,
+      "depth": 0,
+      "permalink": "/r/LangChain/comments/1p05xw9/conversational_ai_agents_are_the_new_ui_stop/nplvc74/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T01:51:01.903494",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/LangChain/comments/1p05xw9/conversational_ai_agents_are_the_new_ui_stop/",
+    "total_comments": 14,
+    "top_level_comments": 5,
+    "api_requests": 1,
+    "expected_comments": 14,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 8,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_134949.json",
+      "scrape_002_20251118_140056.json",
+      "scrape_003_20251118_141213.json",
+      "scrape_004_20251118_142103.json",
+      "scrape_005_20251118_142202.json",
+      "scrape_006_20251118_222028.json",
+      "scrape_007_20251119_000523.json",
+      "scrape_008_20251119_015101.json"
+    ]
+  }
+}

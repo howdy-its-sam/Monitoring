@@ -1,0 +1,80 @@
+{
+  "post": {
+    "id": "1ot8siz",
+    "title": "[Open Source] Memori: An Open-Source Memory Engine for LLMs, AI Agents &amp; Multi-Agent Systems",
+    "author": "ai-lover",
+    "score_history": [
+      [
+        18,
+        "2025-11-18T14:23:35.098256"
+      ],
+      [
+        19,
+        "2025-11-18T14:33:15.669224"
+      ],
+      [
+        18,
+        "2025-11-18T14:43:14.333478"
+      ]
+    ],
+    "created_utc": 1762764549.0,
+    "num_comments": 1,
+    "subreddit": "machinelearningnews",
+    "url": "https://pxllnk.co/lzpp4xm",
+    "selftext": "",
+    "permalink": "/r/machinelearningnews/comments/1ot8siz/open_source_memori_an_opensource_memory_engine/"
+  },
+  "comments": [
+    {
+      "id": "no9yalk",
+      "parent_id": "t3_1ot8siz",
+      "author": "Far-Photo4379",
+      "text_history": [
+        [
+          "Hey there, love the project! We are currently building a community surrounding AI Memory here on Reddit. Welcoming every visit in r/AIMemory",
+          "2025-11-18T14:23:35.098256"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:23:35.098256"
+        ],
+        [
+          1,
+          "2025-11-18T14:33:15.669224"
+        ],
+        [
+          1,
+          "2025-11-18T14:43:14.333478"
+        ]
+      ],
+      "created_utc": 1762866993.0,
+      "depth": 0,
+      "permalink": "/r/machinelearningnews/comments/1ot8siz/open_source_memori_an_opensource_memory_engine/no9yalk/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-18T14:43:14.333478",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/machinelearningnews/comments/1ot8siz/open_source_memori_an_opensource_memory_engine/",
+    "total_comments": 1,
+    "top_level_comments": 1,
+    "api_requests": 1,
+    "expected_comments": 1,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_142334.json",
+      "scrape_002_20251118_143315.json",
+      "scrape_003_20251118_144314.json"
+    ]
+  }
+}

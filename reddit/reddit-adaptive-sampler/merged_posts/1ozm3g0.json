@@ -1,0 +1,115 @@
+{
+  "post": {
+    "id": "1ozm3g0",
+    "title": "The “Cognitive Cartographer” Prompt – Turning Mental Overload into Action (1 Example + Why It Works)",
+    "author": "AgileStudent6648",
+    "score_history": [
+      [
+        1,
+        "2025-11-18T14:21:55.466683"
+      ],
+      [
+        1,
+        "2025-11-18T14:31:16.287899"
+      ],
+      [
+        1,
+        "2025-11-18T14:33:43.614557"
+      ]
+    ],
+    "created_utc": 1763399769.0,
+    "num_comments": 2,
+    "subreddit": "ChatGPTPro",
+    "url": "https://www.reddit.com/r/ChatGPTPro/comments/1ozm3g0/the_cognitive_cartographer_prompt_turning_mental/",
+    "selftext": "Over the past few months, I’ve been testing unconventional ChatGPT prompt frameworks that push the model into *structured reflection instead of generic advice.*  \nHere’s one of them — it’s called the **Cognitive Cartographer Prompt**.  \nBelow you’ll see **the full prompt**, a **breakdown of why each part exists**, a **sample output table**, and some **pro tips** from testing. I would love your feedback.\n\n# The Prompt:\n\nAssume the role of a cognitive cartographer — a neural explorer mapping human thought terrain.\n\nTranslate my current mental overload into a 3-column map:  \n1️⃣ Core Thought — the repeating surface statement stuck in my mind.  \n2️⃣ Underlying Cognitive Driver — the likely mental or emotional pattern influencing it (avoid deep psychoanalysis; stay objective).  \n3️⃣ Energy Cost (1–10) — how much focus this thought consumes.\n\nAfter mapping:\n\n* Detect the dominant cognitive pattern.\n* Design one Paradoxical Micro-Decision — a small, counterintuitive action that can reset my mental flow instantly.\n\nOutput instructions:\n\n* Use objective, emotionally-neutral phrasing.\n* Avoid metaphors and therapeutic tone.\n* If the user’s context is vague, ask one clarifying question before mapping.\n* Format your response as a clean table, followed by a concise paragraph of analysis.\n\nContext: \\[Describe your current overthinking loop or mental clutter in 3–4 sentences\\]\n\n(Optional: add /clarity\\_mode=on for ultra-concrete, step-by-step guidance.)\n\n# Example result (from a real run):\n\n|Core Thought|Underlying Cognitive Driver|Energy Cost (1–10)|\n|:-|:-|:-|\n||\n||||\n||||\n|“I need to make progress faster.”|Control bias — equating speed with self-worth.|8|\n|“Everyone else seems more focused.”|Comparison loop triggering low-value narrative.|7|\n|“Maybe I’m not using my time right.”|Productivity anxiety, mislabeling rest as waste.|6|\n\n*(That’s just an example; the real table adapts based on your 3–4 sentence context.)*\n\nDominant Pattern: Overidentification with productivity metrics.  \nParadoxical Micro-Decision: Schedule one intentional hour of doing nothing, log it as “high-value stillness.”\n\n# Why it works well:\n\n* Tone lock keeps ChatGPT analytical, not emotional.\n* “Underlying Cognitive Driver” removes pseudo-psychology.\n* Clarifying question fallback increases accuracy when context is vague.\n* The Paradoxical Micro-Decision reframes control into flow.\n\n# Pro tip:\n\nAdd: **“Output a markdown table first, then a 4–6 sentence analysis.”** → keeps the explanation *after* the table.\n\nIf the table gets messy, include: **“If any column exceeds one sentence, shorten automatically.”**\n\nFor super tangible results, activate `/clarity_mode=on` and request measurable elements (*timers, thresholds, word limits*). \n\nRun this with your daily mental loop and tag the table results. After a few runs, you’ll literally start seeing your thought patterns like system architecture. It’s freaky how visual it feels.\n\n\n\n(We have **developed 15 similar prompts.** If anyone interested or wants to see more, I will leave a link in the comments to keep the post non-promotional.)\n\nAny feedback about the prompt is more than welcome! :)",
+    "permalink": "/r/ChatGPTPro/comments/1ozm3g0/the_cognitive_cartographer_prompt_turning_mental/"
+  },
+  "comments": [
+    {
+      "id": "npcha6v",
+      "parent_id": "t3_1ozm3g0",
+      "author": "qualityvote2",
+      "text_history": [
+        [
+          "Hello u/AgileStudent6648 👋 Welcome to r/ChatGPTPro!  \nThis is a community for advanced ChatGPT, AI tools, and prompt engineering discussions.  \nOther members will now vote on whether your post fits our community guidelines.\n\n\n---\n\nFor other users, does this post fit the subreddit?\n\nIf so, **upvote this comment!**\n\nOtherwise, **downvote this comment!**\n\nAnd if it does break the rules, **downvote this comment and report this post!**",
+          "2025-11-18T14:21:55.466683"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:21:55.466683"
+        ],
+        [
+          1,
+          "2025-11-18T14:31:16.287899"
+        ],
+        [
+          1,
+          "2025-11-18T14:33:43.614557"
+        ]
+      ],
+      "created_utc": 1763399771.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTPro/comments/1ozm3g0/the_cognitive_cartographer_prompt_turning_mental/npcha6v/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npftvpb",
+      "parent_id": "t3_1ozm3g0",
+      "author": "Oldschool728603",
+      "text_history": [
+        [
+          "\"Schedule one intentional hour of doing nothing, log it as 'high-value stillness.'\"\n\nIf I were you, I'd follow this advice. \n\nIn fact, I'd make it two hours.",
+          "2025-11-18T14:21:55.466683"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:21:55.466683"
+        ],
+        [
+          1,
+          "2025-11-18T14:31:16.287899"
+        ],
+        [
+          1,
+          "2025-11-18T14:33:43.614557"
+        ]
+      ],
+      "created_utc": 1763439198.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTPro/comments/1ozm3g0/the_cognitive_cartographer_prompt_turning_mental/npftvpb/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-18T14:33:43.614557",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/ChatGPTPro/comments/1ozm3g0/the_cognitive_cartographer_prompt_turning_mental/",
+    "total_comments": 2,
+    "top_level_comments": 2,
+    "api_requests": 1,
+    "expected_comments": 2,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_142155.json",
+      "scrape_002_20251118_143116.json",
+      "scrape_003_20251118_143343.json"
+    ]
+  }
+}

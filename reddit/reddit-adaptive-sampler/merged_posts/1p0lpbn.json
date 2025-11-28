@@ -1,0 +1,2947 @@
+{
+  "post": {
+    "id": "1p0lpbn",
+    "title": "From the developer experience lead at Deepmind",
+    "author": "Glittering-Neck-2505",
+    "score_history": [
+      [
+        259,
+        "2025-11-18T15:15:01.858104"
+      ],
+      [
+        259,
+        "2025-11-18T15:18:40.528295"
+      ],
+      [
+        535,
+        "2025-11-18T23:03:41.701206"
+      ],
+      [
+        571,
+        "2025-11-19T00:47:45.956640"
+      ],
+      [
+        585,
+        "2025-11-19T02:22:43.992514"
+      ],
+      [
+        594,
+        "2025-11-19T02:33:45.596436"
+      ],
+      [
+        588,
+        "2025-11-19T02:44:05.317993"
+      ]
+    ],
+    "created_utc": 1763494887.0,
+    "num_comments": 65,
+    "subreddit": "singularity",
+    "url": "https://i.redd.it/oghdeagnj22g1.jpeg",
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1p0lpbn/from_the_developer_experience_lead_at_deepmind/"
+  },
+  "comments": [
+    {
+      "id": "npjsdhf",
+      "parent_id": "t3_1p0lpbn",
+      "author": "Formal_Context_9774",
+      "text_history": [
+        [
+          "DeepMind = GigaChad",
+          "2025-11-18T15:15:01.858104"
+        ]
+      ],
+      "score_history": [
+        [
+          30,
+          "2025-11-18T15:15:01.858104"
+        ],
+        [
+          31,
+          "2025-11-18T15:18:40.528295"
+        ],
+        [
+          68,
+          "2025-11-18T23:03:41.701206"
+        ],
+        [
+          77,
+          "2025-11-19T00:47:45.956640"
+        ],
+        [
+          82,
+          "2025-11-19T02:22:43.992514"
+        ],
+        [
+          82,
+          "2025-11-19T02:33:45.596436"
+        ],
+        [
+          83,
+          "2025-11-19T02:44:05.317993"
+        ]
+      ],
+      "created_utc": 1763496001.0,
+      "depth": 0,
+      "permalink": "/r/singularity/comments/1p0lpbn/from_the_developer_experience_lead_at_deepmind/npjsdhf/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npkzw0w",
+          "parent_id": "t1_npjsdhf",
+          "author": "Arcosim",
+          "text_history": [
+            [
+              "I find it funny that people just 10 months ago thought Google was \"the underdog\" in the race when their talent pool and computing resources and infrastructure are nearly endless.",
+              "2025-11-18T23:03:41.701206"
+            ]
+          ],
+          "score_history": [
+            [
+              18,
+              "2025-11-18T23:03:41.701206"
+            ],
+            [
+              21,
+              "2025-11-19T00:47:45.956640"
+            ],
+            [
+              22,
+              "2025-11-19T02:22:43.992514"
+            ],
+            [
+              23,
+              "2025-11-19T02:33:45.596436"
+            ],
+            [
+              23,
+              "2025-11-19T02:44:05.317993"
+            ]
+          ],
+          "created_utc": 1763509806.0,
+          "depth": 1,
+          "permalink": "/r/singularity/comments/1p0lpbn/from_the_developer_experience_lead_at_deepmind/npkzw0w/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npmkla3",
+              "parent_id": "t1_npkzw0w",
+              "author": "Cagnazzo82",
+              "text_history": [
+                [
+                  "They were the underdog 10 months ago.\n\nWorse yet is they had a decade head start and instead let their research team disband after writing pretty much the most consequential research paper of the century (thus far).\n\nBut they pivoted and got back on track, and are now fully utilizing their resources... which is what matters ultimately.\n\nThankfully they have competition that forced them back on their game.",
+                  "2025-11-18T23:03:41.701206"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-18T23:03:41.701206"
+                ],
+                [
+                  3,
+                  "2025-11-19T00:47:45.956640"
+                ],
+                [
+                  5,
+                  "2025-11-19T02:22:43.992514"
+                ],
+                [
+                  8,
+                  "2025-11-19T02:33:45.596436"
+                ],
+                [
+                  7,
+                  "2025-11-19T02:44:05.317993"
+                ]
+              ],
+              "created_utc": 1763531873.0,
+              "depth": 2,
+              "permalink": "/r/singularity/comments/1p0lpbn/from_the_developer_experience_lead_at_deepmind/npmkla3/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": [
+                {
+                  "id": "npn08wv",
+                  "parent_id": "t1_npmkla3",
+                  "author": "Wide_Egg_5814",
+                  "text_history": [
+                    [
+                      "Google was never the underdog they just didnt care enough until they saw there is money in it now they will destroy the competition. OpenAI sole purpose was to not let google monoplise AI and it will create open source models to defeat any monoplisation of AI services now thats what chinese labs do OpenAI lost the plot and they are losing the race also",
+                      "2025-11-19T00:47:45.956640"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      1,
+                      "2025-11-19T00:47:45.956640"
+                    ],
+                    [
+                      1,
+                      "2025-11-19T02:22:43.992514"
+                    ],
+                    [
+                      2,
+                      "2025-11-19T02:33:45.596436"
+                    ],
+                    [
+                      2,
+                      "2025-11-19T02:44:05.317993"
+                    ]
+                  ],
+                  "created_utc": 1763540894.0,
+                  "depth": 3,
+                  "permalink": "/r/singularity/comments/1p0lpbn/from_the_developer_experience_lead_at_deepmind/npn08wv/",
+                  "is_submitter": false,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "nplci56",
+              "parent_id": "t1_npkzw0w",
+              "author": "Tolopono",
+              "text_history": [
+                [
+                  "They only got 10/12 in the icpc while openai got 12/12, which is surprising given google is much larger and has far more data, talent, compute, money, etc",
+                  "2025-11-18T23:03:41.701206"
+                ]
+              ],
+              "score_history": [
+                [
+                  4,
+                  "2025-11-18T23:03:41.701206"
+                ],
+                [
+                  4,
+                  "2025-11-19T00:47:45.956640"
+                ],
+                [
+                  2,
+                  "2025-11-19T02:22:43.992514"
+                ],
+                [
+                  3,
+                  "2025-11-19T02:33:45.596436"
+                ],
+                [
+                  3,
+                  "2025-11-19T02:44:05.317993"
+                ]
+              ],
+              "created_utc": 1763514237.0,
+              "depth": 2,
+              "permalink": "/r/singularity/comments/1p0lpbn/from_the_developer_experience_lead_at_deepmind/nplci56/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "npju3v7",
+          "parent_id": "t1_npjsdhf",
+          "author": "Docs_For_Developers",
+          "text_history": [
+            [
+              "basically haha",
+              "2025-11-18T15:15:01.858104"
+            ]
+          ],
+          "score_history": [
+            [
+              4,
+              "2025-11-18T15:15:01.858104"
+            ],
+            [
+              4,
+              "2025-11-18T15:18:40.528295"
+            ],
+            [
+              5,
+              "2025-11-18T23:03:41.701206"
+            ],
+            [
+              4,
+              "2025-11-19T00:47:45.956640"
+            ],
+            [
+              3,
+              "2025-11-19T02:22:43.992514"
+            ],
+            [
+              4,
+              "2025-11-19T02:33:45.596436"
+            ],
+            [
+              3,
+              "2025-11-19T02:44:05.317993"
+            ]
+          ],
+          "created_utc": 1763496528.0,
+          "depth": 1,
+          "permalink": "/r/singularity/comments/1p0lpbn/from_the_developer_experience_lead_at_deepmind/npju3v7/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npjp5kk",
+      "parent_id": "t3_1p0lpbn",
+      "author": "TFenrir",
+      "text_history": [
+        [
+          "Gonna guess nanao bana 2, Genie 3, and maybe next veo? Although I would be very surprised with veo 4 this week. \n\nBut I imagine Google will pepper the week with announcements",
+          "2025-11-18T15:15:01.858104"
+        ]
+      ],
+      "score_history": [
+        [
+          98,
+          "2025-11-18T15:15:01.858104"
+        ],
+        [
+          100,
+          "2025-11-18T15:18:40.528295"
+        ],
+        [
+          167,
+          "2025-11-18T23:03:41.701206"
+        ],
+        [
+          183,
+          "2025-11-19T00:47:45.956640"
+        ],
+        [
+          192,
+          "2025-11-19T02:22:43.992514"
+        ],
+        [
+          193,
+          "2025-11-19T02:33:45.596436"
+        ],
+        [
+          188,
+          "2025-11-19T02:44:05.317993"
+        ]
+      ],
+      "created_utc": 1763495045.0,
+      "depth": 0,
+      "permalink": "/r/singularity/comments/1p0lpbn/from_the_developer_experience_lead_at_deepmind/npjp5kk/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npjr3md",
+          "parent_id": "t1_npjp5kk",
+          "author": "Snoo26837",
+          "text_history": [
+            [
+              "Imagen 5. 🫠",
+              "2025-11-18T15:15:01.858104"
+            ]
+          ],
+          "score_history": [
+            [
+              20,
+              "2025-11-18T15:15:01.858104"
+            ],
+            [
+              21,
+              "2025-11-18T15:18:40.528295"
+            ],
+            [
+              45,
+              "2025-11-18T23:03:41.701206"
+            ],
+            [
+              44,
+              "2025-11-19T00:47:45.956640"
+            ],
+            [
+              48,
+              "2025-11-19T02:22:43.992514"
+            ],
+            [
+              46,
+              "2025-11-19T02:33:45.596436"
+            ],
+            [
+              48,
+              "2025-11-19T02:44:05.317993"
+            ]
+          ],
+          "created_utc": 1763495623.0,
+          "depth": 1,
+          "permalink": "/r/singularity/comments/1p0lpbn/from_the_developer_experience_lead_at_deepmind/npjr3md/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npm3i76",
+              "parent_id": "t1_npjr3md",
+              "author": "Evening_Archer_2202",
+              "text_history": [
+                [
+                  "no way, it would have leaked by now, theres zero data on it",
+                  "2025-11-18T23:03:41.701206"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-18T23:03:41.701206"
+                ],
+                [
+                  1,
+                  "2025-11-19T00:47:45.956640"
+                ],
+                [
+                  3,
+                  "2025-11-19T02:22:43.992514"
+                ],
+                [
+                  3,
+                  "2025-11-19T02:33:45.596436"
+                ],
+                [
+                  2,
+                  "2025-11-19T02:44:05.317993"
+                ]
+              ],
+              "created_utc": 1763524114.0,
+              "depth": 2,
+              "permalink": "/r/singularity/comments/1p0lpbn/from_the_developer_experience_lead_at_deepmind/npm3i76/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "npk70oj",
+          "parent_id": "t1_npjp5kk",
+          "author": "Drogon__",
+          "text_history": [
+            [
+              "I am most excited to getting finally access to Genie 3. The possibilities are endless.",
+              "2025-11-18T15:15:01.858104"
+            ]
+          ],
+          "score_history": [
+            [
+              5,
+              "2025-11-18T15:15:01.858104"
+            ],
+            [
+              7,
+              "2025-11-18T15:18:40.528295"
+            ],
+            [
+              17,
+              "2025-11-18T23:03:41.701206"
+            ],
+            [
+              19,
+              "2025-11-19T00:47:45.956640"
+            ],
+            [
+              20,
+              "2025-11-19T02:22:43.992514"
+            ],
+            [
+              20,
+              "2025-11-19T02:33:45.596436"
+            ],
+            [
+              19,
+              "2025-11-19T02:44:05.317993"
+            ]
+          ],
+          "created_utc": 1763500420.0,
+          "depth": 1,
+          "permalink": "/r/singularity/comments/1p0lpbn/from_the_developer_experience_lead_at_deepmind/npk70oj/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npkn0vt",
+              "parent_id": "t1_npk70oj",
+              "author": "nayrad",
+              "text_history": [
+                [
+                  "For me it’s the most coolest AI product since gpt3.5 in terms of spectacle. But beyond a toy to fuck around with a few times what other possibilities are there? I’ve always seen genie 3 as more of a stepping tone to actually useful tools like genuinely creating completely personal open world games on your computer almost instantly. But right now it’s just a world explorer that’s not even entirely consistent so I don’t see it as more than something you just play with for an hour max and then get bored of your own imagination.",
+                  "2025-11-18T15:15:01.858104"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-18T15:15:01.858104"
+                ],
+                [
+                  1,
+                  "2025-11-18T15:18:40.528295"
+                ],
+                [
+                  11,
+                  "2025-11-18T23:03:41.701206"
+                ],
+                [
+                  13,
+                  "2025-11-19T00:47:45.956640"
+                ],
+                [
+                  13,
+                  "2025-11-19T02:22:43.992514"
+                ],
+                [
+                  13,
+                  "2025-11-19T02:33:45.596436"
+                ],
+                [
+                  14,
+                  "2025-11-19T02:44:05.317993"
+                ]
+              ],
+              "created_utc": 1763505350.0,
+              "depth": 2,
+              "permalink": "/r/singularity/comments/1p0lpbn/from_the_developer_experience_lead_at_deepmind/npkn0vt/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": [
+                {
+                  "id": "npkpsm4",
+                  "parent_id": "t1_npkn0vt",
+                  "author": "unk0wnw",
+                  "text_history": [
+                    [
+                      "It’s potential to be used to train real world agents is what’s coolest about it to me. You can create infinite real world accurate scenarios of even the most edge case scenarios, the potential is HUGE. Everything from self driving to robotics could benefit from advanced world models.",
+                      "2025-11-18T15:15:01.858104"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      1,
+                      "2025-11-18T15:15:01.858104"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T15:18:40.528295"
+                    ],
+                    [
+                      3,
+                      "2025-11-18T23:03:41.701206"
+                    ],
+                    [
+                      3,
+                      "2025-11-19T00:47:45.956640"
+                    ],
+                    [
+                      5,
+                      "2025-11-19T02:22:43.992514"
+                    ],
+                    [
+                      5,
+                      "2025-11-19T02:33:45.596436"
+                    ],
+                    [
+                      5,
+                      "2025-11-19T02:44:05.317993"
+                    ]
+                  ],
+                  "created_utc": 1763506267.0,
+                  "depth": 3,
+                  "permalink": "/r/singularity/comments/1p0lpbn/from_the_developer_experience_lead_at_deepmind/npkpsm4/",
+                  "is_submitter": false,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": []
+                },
+                {
+                  "id": "npko8vh",
+                  "parent_id": "t1_npkn0vt",
+                  "author": "Serialbedshitter2322",
+                  "text_history": [
+                    [
+                      "Genie 3 has realistic, thinking people, like what you might see in a Sora 2 video. I think those people will be extremely fun to mess with, especially if they’ve integrated audio",
+                      "2025-11-18T15:15:01.858104"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      1,
+                      "2025-11-18T15:15:01.858104"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T15:18:40.528295"
+                    ],
+                    [
+                      4,
+                      "2025-11-18T23:03:41.701206"
+                    ],
+                    [
+                      3,
+                      "2025-11-19T00:47:45.956640"
+                    ],
+                    [
+                      4,
+                      "2025-11-19T02:22:43.992514"
+                    ],
+                    [
+                      5,
+                      "2025-11-19T02:33:45.596436"
+                    ],
+                    [
+                      4,
+                      "2025-11-19T02:44:05.317993"
+                    ]
+                  ],
+                  "created_utc": 1763505752.0,
+                  "depth": 3,
+                  "permalink": "/r/singularity/comments/1p0lpbn/from_the_developer_experience_lead_at_deepmind/npko8vh/",
+                  "is_submitter": false,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": [
+                    {
+                      "id": "npkolc1",
+                      "parent_id": "t1_npko8vh",
+                      "author": "nayrad",
+                      "text_history": [
+                        [
+                          "I don’t recall seeing any demos with thinking characters, if you could link me that would be sick. Cuz yeah if you can actually interact with people in the world in human/reasonable ways that indeed makes it a magnitude or two more fun depending on integration",
+                          "2025-11-18T15:15:01.858104"
+                        ]
+                      ],
+                      "score_history": [
+                        [
+                          1,
+                          "2025-11-18T15:15:01.858104"
+                        ],
+                        [
+                          1,
+                          "2025-11-18T15:18:40.528295"
+                        ],
+                        [
+                          6,
+                          "2025-11-18T23:03:41.701206"
+                        ],
+                        [
+                          6,
+                          "2025-11-19T00:47:45.956640"
+                        ],
+                        [
+                          5,
+                          "2025-11-19T02:22:43.992514"
+                        ],
+                        [
+                          6,
+                          "2025-11-19T02:33:45.596436"
+                        ],
+                        [
+                          5,
+                          "2025-11-19T02:44:05.317993"
+                        ]
+                      ],
+                      "created_utc": 1763505866.0,
+                      "depth": 4,
+                      "permalink": "/r/singularity/comments/1p0lpbn/from_the_developer_experience_lead_at_deepmind/npkolc1/",
+                      "is_submitter": false,
+                      "controversiality": 0,
+                      "gilded": 0,
+                      "edited": false,
+                      "deleted": false,
+                      "deleted_at": null,
+                      "replies": [
+                        {
+                          "id": "npkpety",
+                          "parent_id": "t1_npkolc1",
+                          "author": "Serialbedshitter2322",
+                          "text_history": [
+                            [
+                              "They seemed to have it a bit hidden. It clearly shares the same improvement in physics that Sora has, they’re both distinct from previous models in the same way, that they have native LLM integration like nano banana and GPT-image but for video. \n\nI remember this one specific skiing video, right at the start the camera looked left, and there was a guy there, they smiled at the camera, and pointed down the slope as if to urge you to go down it, which is relatively complex behavior. It’s harder to tell without audio, but if they added it, that would be a game changer",
+                              "2025-11-18T15:15:01.858104"
+                            ]
+                          ],
+                          "score_history": [
+                            [
+                              1,
+                              "2025-11-18T15:15:01.858104"
+                            ],
+                            [
+                              1,
+                              "2025-11-18T15:18:40.528295"
+                            ],
+                            [
+                              0,
+                              "2025-11-18T23:03:41.701206"
+                            ],
+                            [
+                              0,
+                              "2025-11-19T00:47:45.956640"
+                            ],
+                            [
+                              0,
+                              "2025-11-19T02:22:43.992514"
+                            ],
+                            [
+                              0,
+                              "2025-11-19T02:33:45.596436"
+                            ],
+                            [
+                              0,
+                              "2025-11-19T02:44:05.317993"
+                            ]
+                          ],
+                          "created_utc": 1763506139.0,
+                          "depth": 5,
+                          "permalink": "/r/singularity/comments/1p0lpbn/from_the_developer_experience_lead_at_deepmind/npkpety/",
+                          "is_submitter": false,
+                          "controversiality": 0,
+                          "gilded": 0,
+                          "edited": false,
+                          "deleted": false,
+                          "deleted_at": null,
+                          "replies": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "npkxyzx",
+                      "parent_id": "t1_npko8vh",
+                      "author": "yaboyyoungairvent",
+                      "text_history": [
+                        [
+                          "I don't think you can mess with people in genie 3. I haven't seen that functionality. You can probably watch people's behaviors but I don't think you can interact with people like that.",
+                          "2025-11-18T23:03:41.701206"
+                        ]
+                      ],
+                      "score_history": [
+                        [
+                          4,
+                          "2025-11-18T23:03:41.701206"
+                        ],
+                        [
+                          4,
+                          "2025-11-19T00:47:45.956640"
+                        ],
+                        [
+                          3,
+                          "2025-11-19T02:22:43.992514"
+                        ],
+                        [
+                          5,
+                          "2025-11-19T02:33:45.596436"
+                        ],
+                        [
+                          3,
+                          "2025-11-19T02:44:05.317993"
+                        ]
+                      ],
+                      "created_utc": 1763509117.0,
+                      "depth": 4,
+                      "permalink": "/r/singularity/comments/1p0lpbn/from_the_developer_experience_lead_at_deepmind/npkxyzx/",
+                      "is_submitter": false,
+                      "controversiality": 0,
+                      "gilded": 0,
+                      "edited": false,
+                      "deleted": false,
+                      "deleted_at": null,
+                      "replies": [
+                        {
+                          "id": "npkz131",
+                          "parent_id": "t1_npkxyzx",
+                          "author": "Serialbedshitter2322",
+                          "text_history": [
+                            [
+                              "It has the same tech Sora 2 has, that’s why it’s so consistent and has the same sort of physics understanding. You won’t truly be able to interact with them until there’s audio, they’ll still be fun to mess with",
+                              "2025-11-18T23:03:41.701206"
+                            ]
+                          ],
+                          "score_history": [
+                            [
+                              1,
+                              "2025-11-18T23:03:41.701206"
+                            ],
+                            [
+                              1,
+                              "2025-11-19T00:47:45.956640"
+                            ],
+                            [
+                              1,
+                              "2025-11-19T02:22:43.992514"
+                            ],
+                            [
+                              1,
+                              "2025-11-19T02:33:45.596436"
+                            ],
+                            [
+                              1,
+                              "2025-11-19T02:44:05.317993"
+                            ]
+                          ],
+                          "created_utc": 1763509498.0,
+                          "depth": 5,
+                          "permalink": "/r/singularity/comments/1p0lpbn/from_the_developer_experience_lead_at_deepmind/npkz131/",
+                          "is_submitter": false,
+                          "controversiality": 0,
+                          "gilded": 0,
+                          "edited": false,
+                          "deleted": false,
+                          "deleted_at": null,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "nplnrgf",
+                  "parent_id": "t1_npkn0vt",
+                  "author": "yaosio",
+                  "text_history": [
+                    [
+                      "Genie was created as a research tool for training. It allows for an infinite number of physically accurate generated scenes. It's not meant for games, and it can't be used for games due to it's minutes long memory. Of course they also showed it being used for game like scenarios so they must be working in that direction too.\n\nWith that being said it's been 4 months since Genie 3, maybe Genie 3.5 will come out. Or if we are really good Genie 4.",
+                      "2025-11-18T23:03:41.701206"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      1,
+                      "2025-11-18T23:03:41.701206"
+                    ],
+                    [
+                      1,
+                      "2025-11-19T00:47:45.956640"
+                    ],
+                    [
+                      1,
+                      "2025-11-19T02:22:43.992514"
+                    ],
+                    [
+                      1,
+                      "2025-11-19T02:33:45.596436"
+                    ],
+                    [
+                      1,
+                      "2025-11-19T02:44:05.317993"
+                    ]
+                  ],
+                  "created_utc": 1763518282.0,
+                  "depth": 3,
+                  "permalink": "/r/singularity/comments/1p0lpbn/from_the_developer_experience_lead_at_deepmind/nplnrgf/",
+                  "is_submitter": false,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "npl2rkt",
+              "parent_id": "t1_npk70oj",
+              "author": "blueSGL",
+              "text_history": [
+                [
+                  "&gt;Genie 3. \n\nAnyone remember when LeCun said that video was impossible on anything like the current architecture?",
+                  "2025-11-18T23:03:41.701206"
+                ]
+              ],
+              "score_history": [
+                [
+                  3,
+                  "2025-11-18T23:03:41.701206"
+                ],
+                [
+                  3,
+                  "2025-11-19T00:47:45.956640"
+                ],
+                [
+                  3,
+                  "2025-11-19T02:22:43.992514"
+                ],
+                [
+                  5,
+                  "2025-11-19T02:33:45.596436"
+                ],
+                [
+                  4,
+                  "2025-11-19T02:44:05.317993"
+                ]
+              ],
+              "created_utc": 1763510818.0,
+              "depth": 2,
+              "permalink": "/r/singularity/comments/1p0lpbn/from_the_developer_experience_lead_at_deepmind/npl2rkt/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": [
+                {
+                  "id": "nplnwda",
+                  "parent_id": "t1_npl2rkt",
+                  "author": "yaosio",
+                  "text_history": [
+                    [
+                      "He said that days before Sora was announced. Here we are so close to interactive generative video. We might get AI GTA 6 before real GTA 6.",
+                      "2025-11-18T23:03:41.701206"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      2,
+                      "2025-11-18T23:03:41.701206"
+                    ],
+                    [
+                      3,
+                      "2025-11-19T00:47:45.956640"
+                    ],
+                    [
+                      4,
+                      "2025-11-19T02:22:43.992514"
+                    ],
+                    [
+                      3,
+                      "2025-11-19T02:33:45.596436"
+                    ],
+                    [
+                      4,
+                      "2025-11-19T02:44:05.317993"
+                    ]
+                  ],
+                  "created_utc": 1763518330.0,
+                  "depth": 3,
+                  "permalink": "/r/singularity/comments/1p0lpbn/from_the_developer_experience_lead_at_deepmind/nplnwda/",
+                  "is_submitter": false,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "npm0e5j",
+          "parent_id": "t1_npjp5kk",
+          "author": "_sarte",
+          "text_history": [
+            [
+              "I saw they mentioning it's gonna be around gemini and more agentic specified models of gemini 3.0",
+              "2025-11-18T23:03:41.701206"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T23:03:41.701206"
+            ],
+            [
+              1,
+              "2025-11-19T00:47:45.956640"
+            ],
+            [
+              1,
+              "2025-11-19T02:22:43.992514"
+            ],
+            [
+              1,
+              "2025-11-19T02:33:45.596436"
+            ],
+            [
+              1,
+              "2025-11-19T02:44:05.317993"
+            ]
+          ],
+          "created_utc": 1763522883.0,
+          "depth": 1,
+          "permalink": "/r/singularity/comments/1p0lpbn/from_the_developer_experience_lead_at_deepmind/npm0e5j/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npjwbep",
+      "parent_id": "t3_1p0lpbn",
+      "author": "x0y0z0",
+      "text_history": [
+        [
+          "Ja they are releasing Genini 4 tomorrow. God bless thank you google I can't wait.",
+          "2025-11-18T15:15:01.858104"
+        ]
+      ],
+      "score_history": [
+        [
+          57,
+          "2025-11-18T15:15:01.858104"
+        ],
+        [
+          65,
+          "2025-11-18T15:18:40.528295"
+        ],
+        [
+          111,
+          "2025-11-18T23:03:41.701206"
+        ],
+        [
+          114,
+          "2025-11-19T00:47:45.956640"
+        ],
+        [
+          115,
+          "2025-11-19T02:22:43.992514"
+        ],
+        [
+          115,
+          "2025-11-19T02:33:45.596436"
+        ],
+        [
+          112,
+          "2025-11-19T02:44:05.317993"
+        ]
+      ],
+      "created_utc": 1763497203.0,
+      "depth": 0,
+      "permalink": "/r/singularity/comments/1p0lpbn/from_the_developer_experience_lead_at_deepmind/npjwbep/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npjy2lx",
+          "parent_id": "t1_npjwbep",
+          "author": "Giga7777",
+          "text_history": [
+            [
+              "Wait does this mean Gemini 5 Friday?",
+              "2025-11-18T15:15:01.858104"
+            ]
+          ],
+          "score_history": [
+            [
+              18,
+              "2025-11-18T15:15:01.858104"
+            ],
+            [
+              19,
+              "2025-11-18T15:18:40.528295"
+            ],
+            [
+              37,
+              "2025-11-18T23:03:41.701206"
+            ],
+            [
+              37,
+              "2025-11-19T00:47:45.956640"
+            ],
+            [
+              39,
+              "2025-11-19T02:22:43.992514"
+            ],
+            [
+              39,
+              "2025-11-19T02:33:45.596436"
+            ],
+            [
+              39,
+              "2025-11-19T02:44:05.317993"
+            ]
+          ],
+          "created_utc": 1763497740.0,
+          "depth": 1,
+          "permalink": "/r/singularity/comments/1p0lpbn/from_the_developer_experience_lead_at_deepmind/npjy2lx/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npk1aba",
+              "parent_id": "t1_npjy2lx",
+              "author": "GamingDisruptor",
+              "text_history": [
+                [
+                  "No, Thursday. Gemini 6 is Friday",
+                  "2025-11-18T15:15:01.858104"
+                ]
+              ],
+              "score_history": [
+                [
+                  17,
+                  "2025-11-18T15:15:01.858104"
+                ],
+                [
+                  15,
+                  "2025-11-18T15:18:40.528295"
+                ],
+                [
+                  26,
+                  "2025-11-18T23:03:41.701206"
+                ],
+                [
+                  26,
+                  "2025-11-19T00:47:45.956640"
+                ],
+                [
+                  27,
+                  "2025-11-19T02:22:43.992514"
+                ],
+                [
+                  27,
+                  "2025-11-19T02:33:45.596436"
+                ],
+                [
+                  27,
+                  "2025-11-19T02:44:05.317993"
+                ]
+              ],
+              "created_utc": 1763498724.0,
+              "depth": 2,
+              "permalink": "/r/singularity/comments/1p0lpbn/from_the_developer_experience_lead_at_deepmind/npk1aba/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": [
+                {
+                  "id": "npk5jnn",
+                  "parent_id": "t1_npk1aba",
+                  "author": "Rnevermore",
+                  "text_history": [
+                    [
+                      "We got Gemini 6 before GTA6",
+                      "2025-11-18T15:15:01.858104"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      6,
+                      "2025-11-18T15:15:01.858104"
+                    ],
+                    [
+                      6,
+                      "2025-11-18T15:18:40.528295"
+                    ],
+                    [
+                      13,
+                      "2025-11-18T23:03:41.701206"
+                    ],
+                    [
+                      15,
+                      "2025-11-19T00:47:45.956640"
+                    ],
+                    [
+                      16,
+                      "2025-11-19T02:22:43.992514"
+                    ],
+                    [
+                      17,
+                      "2025-11-19T02:33:45.596436"
+                    ],
+                    [
+                      16,
+                      "2025-11-19T02:44:05.317993"
+                    ]
+                  ],
+                  "created_utc": 1763499987.0,
+                  "depth": 3,
+                  "permalink": "/r/singularity/comments/1p0lpbn/from_the_developer_experience_lead_at_deepmind/npk5jnn/",
+                  "is_submitter": false,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": [
+                    {
+                      "id": "nplg6vp",
+                      "parent_id": "t1_npk5jnn",
+                      "author": "Financial_Weather_35",
+                      "text_history": [
+                        [
+                          "You can make GTA7 with Gemini 7",
+                          "2025-11-18T23:03:41.701206"
+                        ]
+                      ],
+                      "score_history": [
+                        [
+                          8,
+                          "2025-11-18T23:03:41.701206"
+                        ],
+                        [
+                          7,
+                          "2025-11-19T00:47:45.956640"
+                        ],
+                        [
+                          9,
+                          "2025-11-19T02:22:43.992514"
+                        ],
+                        [
+                          10,
+                          "2025-11-19T02:33:45.596436"
+                        ],
+                        [
+                          10,
+                          "2025-11-19T02:44:05.317993"
+                        ]
+                      ],
+                      "created_utc": 1763515579.0,
+                      "depth": 4,
+                      "permalink": "/r/singularity/comments/1p0lpbn/from_the_developer_experience_lead_at_deepmind/nplg6vp/",
+                      "is_submitter": false,
+                      "controversiality": 0,
+                      "gilded": 0,
+                      "edited": false,
+                      "deleted": false,
+                      "deleted_at": null,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "nploak5",
+              "parent_id": "t1_npjy2lx",
+              "author": "yaosio",
+              "text_history": [
+                [
+                  "Once LLMs can do research by themselves improvements that fast could be possible. Imagine asking it a question, it seems to get stuck thinking, and a week later it pops back up to tell you it created a new model to answer your question. Just like the computer that needed a planet sized computer to determine what the ultimate question is.",
+                  "2025-11-18T23:03:41.701206"
+                ]
+              ],
+              "score_history": [
+                [
+                  2,
+                  "2025-11-18T23:03:41.701206"
+                ],
+                [
+                  2,
+                  "2025-11-19T00:47:45.956640"
+                ],
+                [
+                  2,
+                  "2025-11-19T02:22:43.992514"
+                ],
+                [
+                  2,
+                  "2025-11-19T02:33:45.596436"
+                ],
+                [
+                  2,
+                  "2025-11-19T02:44:05.317993"
+                ]
+              ],
+              "created_utc": 1763518470.0,
+              "depth": 2,
+              "permalink": "/r/singularity/comments/1p0lpbn/from_the_developer_experience_lead_at_deepmind/nploak5/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "nplut9e",
+          "parent_id": "t1_npjwbep",
+          "author": "EndTimer",
+          "text_history": [
+            [
+              "I know this is obviously not the case,  but can you fuckin imagine that?  If, after breaking through this unexpectedly hard, a company were to turn around the very next day and say \"so we wanted to ease everyone in, and that's what yesterday's release was, but...\" and proceed to break the whole fucking earth?",
+              "2025-11-18T23:03:41.701206"
+            ]
+          ],
+          "score_history": [
+            [
+              3,
+              "2025-11-18T23:03:41.701206"
+            ],
+            [
+              3,
+              "2025-11-19T00:47:45.956640"
+            ],
+            [
+              3,
+              "2025-11-19T02:22:43.992514"
+            ],
+            [
+              3,
+              "2025-11-19T02:33:45.596436"
+            ],
+            [
+              3,
+              "2025-11-19T02:44:05.317993"
+            ]
+          ],
+          "created_utc": 1763520813.0,
+          "depth": 1,
+          "permalink": "/r/singularity/comments/1p0lpbn/from_the_developer_experience_lead_at_deepmind/nplut9e/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npka689",
+      "parent_id": "t3_1p0lpbn",
+      "author": "suamai",
+      "text_history": [
+        [
+          "Gemma? 🥺",
+          "2025-11-18T15:15:01.858104"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T15:15:01.858104"
+        ],
+        [
+          1,
+          "2025-11-18T15:18:40.528295"
+        ],
+        [
+          19,
+          "2025-11-18T23:03:41.701206"
+        ],
+        [
+          22,
+          "2025-11-19T00:47:45.956640"
+        ],
+        [
+          22,
+          "2025-11-19T02:22:43.992514"
+        ],
+        [
+          22,
+          "2025-11-19T02:33:45.596436"
+        ],
+        [
+          23,
+          "2025-11-19T02:44:05.317993"
+        ]
+      ],
+      "created_utc": 1763501354.0,
+      "depth": 0,
+      "permalink": "/r/singularity/comments/1p0lpbn/from_the_developer_experience_lead_at_deepmind/npka689/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npkd9di",
+      "parent_id": "t3_1p0lpbn",
+      "author": "Direct_Turn_1484",
+      "text_history": [
+        [
+          "Please Gemma.",
+          "2025-11-18T15:15:01.858104"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T15:15:01.858104"
+        ],
+        [
+          1,
+          "2025-11-18T15:18:40.528295"
+        ],
+        [
+          16,
+          "2025-11-18T23:03:41.701206"
+        ],
+        [
+          17,
+          "2025-11-19T00:47:45.956640"
+        ],
+        [
+          17,
+          "2025-11-19T02:22:43.992514"
+        ],
+        [
+          17,
+          "2025-11-19T02:33:45.596436"
+        ],
+        [
+          18,
+          "2025-11-19T02:44:05.317993"
+        ]
+      ],
+      "created_utc": 1763502290.0,
+      "depth": 0,
+      "permalink": "/r/singularity/comments/1p0lpbn/from_the_developer_experience_lead_at_deepmind/npkd9di/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npjsjgy",
+      "parent_id": "t3_1p0lpbn",
+      "author": "jaytronica",
+      "text_history": [
+        [
+          "VEO 4",
+          "2025-11-18T15:15:01.858104"
+        ]
+      ],
+      "score_history": [
+        [
+          5,
+          "2025-11-18T15:15:01.858104"
+        ],
+        [
+          5,
+          "2025-11-18T15:18:40.528295"
+        ],
+        [
+          9,
+          "2025-11-18T23:03:41.701206"
+        ],
+        [
+          9,
+          "2025-11-19T00:47:45.956640"
+        ],
+        [
+          8,
+          "2025-11-19T02:22:43.992514"
+        ],
+        [
+          10,
+          "2025-11-19T02:33:45.596436"
+        ],
+        [
+          11,
+          "2025-11-19T02:44:05.317993"
+        ]
+      ],
+      "created_utc": 1763496051.0,
+      "depth": 0,
+      "permalink": "/r/singularity/comments/1p0lpbn/from_the_developer_experience_lead_at_deepmind/npjsjgy/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npknchv",
+          "parent_id": "t1_npjsjgy",
+          "author": "nayrad",
+          "text_history": [
+            [
+              "If veo 4 is significantly better than Sora 2 we’re pretty much on the cusp of perfect video generation",
+              "2025-11-18T15:15:01.858104"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T15:15:01.858104"
+            ],
+            [
+              1,
+              "2025-11-18T15:18:40.528295"
+            ],
+            [
+              5,
+              "2025-11-18T23:03:41.701206"
+            ],
+            [
+              4,
+              "2025-11-19T00:47:45.956640"
+            ],
+            [
+              6,
+              "2025-11-19T02:22:43.992514"
+            ],
+            [
+              5,
+              "2025-11-19T02:33:45.596436"
+            ],
+            [
+              4,
+              "2025-11-19T02:44:05.317993"
+            ]
+          ],
+          "created_utc": 1763505458.0,
+          "depth": 1,
+          "permalink": "/r/singularity/comments/1p0lpbn/from_the_developer_experience_lead_at_deepmind/npknchv/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "nplgd7m",
+      "parent_id": "t3_1p0lpbn",
+      "author": "Financial_Weather_35",
+      "text_history": [
+        [
+          "please be a scientific discovery, we need to turn the corner...",
+          "2025-11-18T23:03:41.701206"
+        ]
+      ],
+      "score_history": [
+        [
+          9,
+          "2025-11-18T23:03:41.701206"
+        ],
+        [
+          9,
+          "2025-11-19T00:47:45.956640"
+        ],
+        [
+          11,
+          "2025-11-19T02:22:43.992514"
+        ],
+        [
+          9,
+          "2025-11-19T02:33:45.596436"
+        ],
+        [
+          10,
+          "2025-11-19T02:44:05.317993"
+        ]
+      ],
+      "created_utc": 1763515644.0,
+      "depth": 0,
+      "permalink": "/r/singularity/comments/1p0lpbn/from_the_developer_experience_lead_at_deepmind/nplgd7m/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npjrhb3",
+      "parent_id": "t3_1p0lpbn",
+      "author": "Snoo26837",
+      "text_history": [
+        [
+          "The promised gemini live they show us in the previous google i/o or just nano banana 2.",
+          "2025-11-18T15:15:01.858104"
+        ]
+      ],
+      "score_history": [
+        [
+          6,
+          "2025-11-18T15:15:01.858104"
+        ],
+        [
+          6,
+          "2025-11-18T15:18:40.528295"
+        ],
+        [
+          8,
+          "2025-11-18T23:03:41.701206"
+        ],
+        [
+          8,
+          "2025-11-19T00:47:45.956640"
+        ],
+        [
+          8,
+          "2025-11-19T02:22:43.992514"
+        ],
+        [
+          8,
+          "2025-11-19T02:33:45.596436"
+        ],
+        [
+          8,
+          "2025-11-19T02:44:05.317993"
+        ]
+      ],
+      "created_utc": 1763495734.0,
+      "depth": 0,
+      "permalink": "/r/singularity/comments/1p0lpbn/from_the_developer_experience_lead_at_deepmind/npjrhb3/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npl4d19",
+          "parent_id": "t1_npjrhb3",
+          "author": "Weary-Willow5126",
+          "text_history": [
+            [
+              "What's the difference between that Gemini live and what we currently have?",
+              "2025-11-18T23:03:41.701206"
+            ]
+          ],
+          "score_history": [
+            [
+              3,
+              "2025-11-18T23:03:41.701206"
+            ],
+            [
+              3,
+              "2025-11-19T00:47:45.956640"
+            ],
+            [
+              3,
+              "2025-11-19T02:22:43.992514"
+            ],
+            [
+              3,
+              "2025-11-19T02:33:45.596436"
+            ],
+            [
+              3,
+              "2025-11-19T02:44:05.317993"
+            ]
+          ],
+          "created_utc": 1763511374.0,
+          "depth": 1,
+          "permalink": "/r/singularity/comments/1p0lpbn/from_the_developer_experience_lead_at_deepmind/npl4d19/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npl8td9",
+      "parent_id": "t3_1p0lpbn",
+      "author": "Fairbanks_BR",
+      "text_history": [
+        [
+          "I hope it is some AI for science project with some major breakthrough, like alphafold, gnome or something like that.   \nthe chatbots kind of maxed out for me. coding it is still getting better, but overall, for my usage, it is at a point where I'd rather have a better interface and being able to get formatted documents reliably from it (for instance, a zip file with all python/html files structured in a \"unzip and use\" kind of way, than more \"IQ capability\".   \nOh, for medical things chatgpt still tops gemini easily from my testing. but that is about all...\n\nTLDR: AI for science is the only area I think more capability from models will be useful. for chatbots, I think, it is now a question of reliability, context size and UI.",
+          "2025-11-18T23:03:41.701206"
+        ]
+      ],
+      "score_history": [
+        [
+          6,
+          "2025-11-18T23:03:41.701206"
+        ],
+        [
+          7,
+          "2025-11-19T00:47:45.956640"
+        ],
+        [
+          7,
+          "2025-11-19T02:22:43.992514"
+        ],
+        [
+          7,
+          "2025-11-19T02:33:45.596436"
+        ],
+        [
+          6,
+          "2025-11-19T02:44:05.317993"
+        ]
+      ],
+      "created_utc": 1763512928.0,
+      "depth": 0,
+      "permalink": "/r/singularity/comments/1p0lpbn/from_the_developer_experience_lead_at_deepmind/npl8td9/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npm86r6",
+      "parent_id": "t3_1p0lpbn",
+      "author": "XtremelyMeta",
+      "text_history": [
+        [
+          "Agent space goes live along with Gem 3?",
+          "2025-11-18T23:03:41.701206"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T23:03:41.701206"
+        ],
+        [
+          1,
+          "2025-11-19T00:47:45.956640"
+        ],
+        [
+          1,
+          "2025-11-19T02:22:43.992514"
+        ],
+        [
+          1,
+          "2025-11-19T02:33:45.596436"
+        ],
+        [
+          1,
+          "2025-11-19T02:44:05.317993"
+        ]
+      ],
+      "created_utc": 1763526058.0,
+      "depth": 0,
+      "permalink": "/r/singularity/comments/1p0lpbn/from_the_developer_experience_lead_at_deepmind/npm86r6/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npmelpd",
+      "parent_id": "t3_1p0lpbn",
+      "author": "applepie2075",
+      "text_history": [
+        [
+          "Gemma 4 would be so interesting, maybe a 60-70B MoE open model from google would be banger, but that sounds like so much copium",
+          "2025-11-18T23:03:41.701206"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T23:03:41.701206"
+        ],
+        [
+          1,
+          "2025-11-19T00:47:45.956640"
+        ],
+        [
+          1,
+          "2025-11-19T02:22:43.992514"
+        ],
+        [
+          1,
+          "2025-11-19T02:33:45.596436"
+        ],
+        [
+          1,
+          "2025-11-19T02:44:05.317993"
+        ]
+      ],
+      "created_utc": 1763528944.0,
+      "depth": 0,
+      "permalink": "/r/singularity/comments/1p0lpbn/from_the_developer_experience_lead_at_deepmind/npmelpd/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npn40eh",
+      "parent_id": "t3_1p0lpbn",
+      "author": "Psychological_Bell48",
+      "text_history": [
+        [
+          "There's more bet keep it up",
+          "2025-11-19T02:22:43.992514"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:22:43.992514"
+        ],
+        [
+          1,
+          "2025-11-19T02:33:45.596436"
+        ],
+        [
+          1,
+          "2025-11-19T02:44:05.317993"
+        ]
+      ],
+      "created_utc": 1763543272.0,
+      "depth": 0,
+      "permalink": "/r/singularity/comments/1p0lpbn/from_the_developer_experience_lead_at_deepmind/npn40eh/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npl1wbg",
+      "parent_id": "t3_1p0lpbn",
+      "author": "Youknowwhyimherexxx",
+      "text_history": [
+        [
+          "Whatever happened to alphaevolve? I feel like they dropped a really cool paradigm based on gemini 2, but haven't mentioned it since gemini 2.5 and now 3.",
+          "2025-11-18T23:03:41.701206"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T23:03:41.701206"
+        ],
+        [
+          1,
+          "2025-11-19T00:47:45.956640"
+        ],
+        [
+          1,
+          "2025-11-19T02:22:43.992514"
+        ],
+        [
+          1,
+          "2025-11-19T02:33:45.596436"
+        ],
+        [
+          1,
+          "2025-11-19T02:44:05.317993"
+        ]
+      ],
+      "created_utc": 1763510512.0,
+      "depth": 0,
+      "permalink": "/r/singularity/comments/1p0lpbn/from_the_developer_experience_lead_at_deepmind/npl1wbg/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "nplerdc",
+          "parent_id": "t1_npl1wbg",
+          "author": "Birthday-Mediocre",
+          "text_history": [
+            [
+              "Alphaevolve is a separate thing, and it’ll continuously improve as the models get better. They’ve probably used gemini 3 to design better algorithms with alpha evolve. So no, it’s not gone anywhere, in fact it probably helped in the training of gemini 3.",
+              "2025-11-18T23:03:41.701206"
+            ]
+          ],
+          "score_history": [
+            [
+              5,
+              "2025-11-18T23:03:41.701206"
+            ],
+            [
+              6,
+              "2025-11-19T00:47:45.956640"
+            ],
+            [
+              7,
+              "2025-11-19T02:22:43.992514"
+            ],
+            [
+              5,
+              "2025-11-19T02:33:45.596436"
+            ],
+            [
+              6,
+              "2025-11-19T02:44:05.317993"
+            ]
+          ],
+          "created_utc": 1763515057.0,
+          "depth": 1,
+          "permalink": "/r/singularity/comments/1p0lpbn/from_the_developer_experience_lead_at_deepmind/nplerdc/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        },
+        {
+          "id": "npmw2ib",
+          "parent_id": "t1_npl1wbg",
+          "author": "Murhie",
+          "text_history": [
+            [
+              "I'd reckon they can switch the code generation agent from gemini 2.5 to 3 (or whatever better stuff they have internally). Point is the LLM part of the system can probably just be swapped with better versions while the evolutionary algo/selection mechanism/other parts stay the same.",
+              "2025-11-19T00:47:45.956640"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-19T00:47:45.956640"
+            ],
+            [
+              1,
+              "2025-11-19T02:22:43.992514"
+            ],
+            [
+              1,
+              "2025-11-19T02:33:45.596436"
+            ],
+            [
+              1,
+              "2025-11-19T02:44:05.317993"
+            ]
+          ],
+          "created_utc": 1763538354.0,
+          "depth": 1,
+          "permalink": "/r/singularity/comments/1p0lpbn/from_the_developer_experience_lead_at_deepmind/npmw2ib/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "nplhp1l",
+      "parent_id": "t3_1p0lpbn",
+      "author": "ogMackBlack",
+      "text_history": [
+        [
+          "![gif](giphy|ukGm72ZLZvYfS)",
+          "2025-11-18T23:03:41.701206"
+        ]
+      ],
+      "score_history": [
+        [
+          0,
+          "2025-11-18T23:03:41.701206"
+        ],
+        [
+          0,
+          "2025-11-19T00:47:45.956640"
+        ],
+        [
+          0,
+          "2025-11-19T02:22:43.992514"
+        ],
+        [
+          0,
+          "2025-11-19T02:33:45.596436"
+        ],
+        [
+          1,
+          "2025-11-19T02:44:05.317993"
+        ]
+      ],
+      "created_utc": 1763516127.0,
+      "depth": 0,
+      "permalink": "/r/singularity/comments/1p0lpbn/from_the_developer_experience_lead_at_deepmind/nplhp1l/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nplob7h",
+      "parent_id": "t3_1p0lpbn",
+      "author": "Rewiu_Park",
+      "text_history": [
+        [
+          "Gemeni 4 ?",
+          "2025-11-18T23:03:41.701206"
+        ]
+      ],
+      "score_history": [
+        [
+          0,
+          "2025-11-18T23:03:41.701206"
+        ],
+        [
+          0,
+          "2025-11-19T00:47:45.956640"
+        ],
+        [
+          0,
+          "2025-11-19T02:22:43.992514"
+        ],
+        [
+          0,
+          "2025-11-19T02:33:45.596436"
+        ],
+        [
+          1,
+          "2025-11-19T02:44:05.317993"
+        ]
+      ],
+      "created_utc": 1763518477.0,
+      "depth": 0,
+      "permalink": "/r/singularity/comments/1p0lpbn/from_the_developer_experience_lead_at_deepmind/nplob7h/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npk185j",
+      "parent_id": "t3_1p0lpbn",
+      "author": "lestat01",
+      "text_history": [
+        [
+          "I wish Gemini would tell them that these constant teases on X are stupid. Maybe then they would stop...",
+          "2025-11-18T15:15:01.858104"
+        ]
+      ],
+      "score_history": [
+        [
+          -5,
+          "2025-11-18T15:15:01.858104"
+        ],
+        [
+          -4,
+          "2025-11-18T15:18:40.528295"
+        ],
+        [
+          -7,
+          "2025-11-18T23:03:41.701206"
+        ],
+        [
+          -8,
+          "2025-11-19T00:47:45.956640"
+        ],
+        [
+          -7,
+          "2025-11-19T02:22:43.992514"
+        ],
+        [
+          -8,
+          "2025-11-19T02:33:45.596436"
+        ],
+        [
+          -7,
+          "2025-11-19T02:44:05.317993"
+        ]
+      ],
+      "created_utc": 1763498706.0,
+      "depth": 0,
+      "permalink": "/r/singularity/comments/1p0lpbn/from_the_developer_experience_lead_at_deepmind/npk185j/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npkh2zt",
+          "parent_id": "t1_npk185j",
+          "author": "Flipslips",
+          "text_history": [
+            [
+              "Honestly I think they deserve to tease based on how much they have been cooking lol",
+              "2025-11-18T15:15:01.858104"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T15:15:01.858104"
+            ],
+            [
+              1,
+              "2025-11-18T15:18:40.528295"
+            ],
+            [
+              11,
+              "2025-11-18T23:03:41.701206"
+            ],
+            [
+              13,
+              "2025-11-19T00:47:45.956640"
+            ],
+            [
+              13,
+              "2025-11-19T02:22:43.992514"
+            ],
+            [
+              12,
+              "2025-11-19T02:33:45.596436"
+            ],
+            [
+              13,
+              "2025-11-19T02:44:05.317993"
+            ]
+          ],
+          "created_utc": 1763503441.0,
+          "depth": 1,
+          "permalink": "/r/singularity/comments/1p0lpbn/from_the_developer_experience_lead_at_deepmind/npkh2zt/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        },
+        {
+          "id": "npkjl0v",
+          "parent_id": "t1_npk185j",
+          "author": "pronetpt",
+          "text_history": [
+            [
+              "Nah, they are actually fun.",
+              "2025-11-18T15:15:01.858104"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T15:15:01.858104"
+            ],
+            [
+              1,
+              "2025-11-18T15:18:40.528295"
+            ],
+            [
+              8,
+              "2025-11-18T23:03:41.701206"
+            ],
+            [
+              9,
+              "2025-11-19T00:47:45.956640"
+            ],
+            [
+              8,
+              "2025-11-19T02:22:43.992514"
+            ],
+            [
+              7,
+              "2025-11-19T02:33:45.596436"
+            ],
+            [
+              8,
+              "2025-11-19T02:44:05.317993"
+            ]
+          ],
+          "created_utc": 1763504231.0,
+          "depth": 1,
+          "permalink": "/r/singularity/comments/1p0lpbn/from_the_developer_experience_lead_at_deepmind/npkjl0v/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        },
+        {
+          "id": "npklhuo",
+          "parent_id": "t1_npk185j",
+          "author": "OmniCrush",
+          "text_history": [
+            [
+              "He's telling us more is coming tomorrow, which I like to know so I can check twitter tomorrow.",
+              "2025-11-18T15:15:01.858104"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T15:15:01.858104"
+            ],
+            [
+              1,
+              "2025-11-18T15:18:40.528295"
+            ],
+            [
+              7,
+              "2025-11-18T23:03:41.701206"
+            ],
+            [
+              7,
+              "2025-11-19T00:47:45.956640"
+            ],
+            [
+              6,
+              "2025-11-19T02:22:43.992514"
+            ],
+            [
+              7,
+              "2025-11-19T02:33:45.596436"
+            ],
+            [
+              6,
+              "2025-11-19T02:44:05.317993"
+            ]
+          ],
+          "created_utc": 1763504847.0,
+          "depth": 1,
+          "permalink": "/r/singularity/comments/1p0lpbn/from_the_developer_experience_lead_at_deepmind/npklhuo/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        },
+        {
+          "id": "npkzt7a",
+          "parent_id": "t1_npk185j",
+          "author": "IBelieveInCoyotes",
+          "text_history": [
+            [
+              "so stupid you that are talking about them and adding to the engagement 🤓",
+              "2025-11-18T23:03:41.701206"
+            ]
+          ],
+          "score_history": [
+            [
+              0,
+              "2025-11-18T23:03:41.701206"
+            ],
+            [
+              0,
+              "2025-11-19T00:47:45.956640"
+            ],
+            [
+              0,
+              "2025-11-19T02:22:43.992514"
+            ],
+            [
+              0,
+              "2025-11-19T02:33:45.596436"
+            ],
+            [
+              0,
+              "2025-11-19T02:44:05.317993"
+            ]
+          ],
+          "created_utc": 1763509779.0,
+          "depth": 1,
+          "permalink": "/r/singularity/comments/1p0lpbn/from_the_developer_experience_lead_at_deepmind/npkzt7a/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npk429i",
+      "parent_id": "t3_1p0lpbn",
+      "author": "erasedhead",
+      "text_history": [
+        [
+          "How are you guys not sick of these constant 'big news coming Thursday!' tweets? \n\nThese guys are worse than local bands.",
+          "2025-11-18T15:15:01.858104"
+        ]
+      ],
+      "score_history": [
+        [
+          -5,
+          "2025-11-18T15:15:01.858104"
+        ],
+        [
+          -4,
+          "2025-11-18T15:18:40.528295"
+        ],
+        [
+          -10,
+          "2025-11-18T23:03:41.701206"
+        ],
+        [
+          -11,
+          "2025-11-19T00:47:45.956640"
+        ],
+        [
+          -9,
+          "2025-11-19T02:22:43.992514"
+        ],
+        [
+          -10,
+          "2025-11-19T02:33:45.596436"
+        ],
+        [
+          -8,
+          "2025-11-19T02:44:05.317993"
+        ]
+      ],
+      "created_utc": 1763499546.0,
+      "depth": 0,
+      "permalink": "/r/singularity/comments/1p0lpbn/from_the_developer_experience_lead_at_deepmind/npk429i/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npkh43n",
+          "parent_id": "t1_npk429i",
+          "author": "94746382926",
+          "text_history": [
+            [
+              "Because they actually release stuff when they do this",
+              "2025-11-18T15:15:01.858104"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T15:15:01.858104"
+            ],
+            [
+              1,
+              "2025-11-18T15:18:40.528295"
+            ],
+            [
+              15,
+              "2025-11-18T23:03:41.701206"
+            ],
+            [
+              15,
+              "2025-11-19T00:47:45.956640"
+            ],
+            [
+              14,
+              "2025-11-19T02:22:43.992514"
+            ],
+            [
+              15,
+              "2025-11-19T02:33:45.596436"
+            ],
+            [
+              16,
+              "2025-11-19T02:44:05.317993"
+            ]
+          ],
+          "created_utc": 1763503451.0,
+          "depth": 1,
+          "permalink": "/r/singularity/comments/1p0lpbn/from_the_developer_experience_lead_at_deepmind/npkh43n/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        },
+        {
+          "id": "nplcpvi",
+          "parent_id": "t1_npk429i",
+          "author": "r2002",
+          "text_history": [
+            [
+              "On a unrelated note: Support your local bands!",
+              "2025-11-18T23:03:41.701206"
+            ]
+          ],
+          "score_history": [
+            [
+              2,
+              "2025-11-18T23:03:41.701206"
+            ],
+            [
+              2,
+              "2025-11-19T00:47:45.956640"
+            ],
+            [
+              2,
+              "2025-11-19T02:22:43.992514"
+            ],
+            [
+              2,
+              "2025-11-19T02:33:45.596436"
+            ],
+            [
+              2,
+              "2025-11-19T02:44:05.317993"
+            ]
+          ],
+          "created_utc": 1763514314.0,
+          "depth": 1,
+          "permalink": "/r/singularity/comments/1p0lpbn/from_the_developer_experience_lead_at_deepmind/nplcpvi/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npkmmt9",
+      "parent_id": "t3_1p0lpbn",
+      "author": "jlharper",
+      "text_history": [
+        [
+          "It makes me a little nervous how young some of these kids in charge are.",
+          "2025-11-18T15:15:01.858104"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T15:15:01.858104"
+        ],
+        [
+          1,
+          "2025-11-18T15:18:40.528295"
+        ],
+        [
+          -8,
+          "2025-11-18T23:03:41.701206"
+        ],
+        [
+          -10,
+          "2025-11-19T00:47:45.956640"
+        ],
+        [
+          -9,
+          "2025-11-19T02:22:43.992514"
+        ],
+        [
+          -9,
+          "2025-11-19T02:33:45.596436"
+        ],
+        [
+          -8,
+          "2025-11-19T02:44:05.317993"
+        ]
+      ],
+      "created_utc": 1763505220.0,
+      "depth": 0,
+      "permalink": "/r/singularity/comments/1p0lpbn/from_the_developer_experience_lead_at_deepmind/npkmmt9/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npkut1m",
+          "parent_id": "t1_npkmmt9",
+          "author": "kevinmise",
+          "text_history": [
+            [
+              "He seems about 33 based on his LinkedIn.. not exactly entry level.",
+              "2025-11-18T23:03:41.701206"
+            ]
+          ],
+          "score_history": [
+            [
+              3,
+              "2025-11-18T23:03:41.701206"
+            ],
+            [
+              2,
+              "2025-11-19T00:47:45.956640"
+            ],
+            [
+              4,
+              "2025-11-19T02:22:43.992514"
+            ],
+            [
+              3,
+              "2025-11-19T02:33:45.596436"
+            ],
+            [
+              4,
+              "2025-11-19T02:44:05.317993"
+            ]
+          ],
+          "created_utc": 1763507988.0,
+          "depth": 1,
+          "permalink": "/r/singularity/comments/1p0lpbn/from_the_developer_experience_lead_at_deepmind/npkut1m/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npkvhuz",
+              "parent_id": "t1_npkut1m",
+              "author": "jlharper",
+              "text_history": [
+                [
+                  "I don’t mean to imply a 33 year old can’t be experienced or knowledgeable, I’m younger than that and have done some pretty significant projects in my time but of course nothing close to Omar’s level.\n\nIt just feels very young for such a senior role. AI is quite different to a lot of other industries in that way.",
+                  "2025-11-18T23:03:41.701206"
+                ]
+              ],
+              "score_history": [
+                [
+                  -6,
+                  "2025-11-18T23:03:41.701206"
+                ],
+                [
+                  -6,
+                  "2025-11-19T00:47:45.956640"
+                ],
+                [
+                  -6,
+                  "2025-11-19T02:22:43.992514"
+                ],
+                [
+                  -6,
+                  "2025-11-19T02:33:45.596436"
+                ],
+                [
+                  -5,
+                  "2025-11-19T02:44:05.317993"
+                ]
+              ],
+              "created_utc": 1763508228.0,
+              "depth": 2,
+              "permalink": "/r/singularity/comments/1p0lpbn/from_the_developer_experience_lead_at_deepmind/npkvhuz/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": [
+                {
+                  "id": "npkydg6",
+                  "parent_id": "t1_npkvhuz",
+                  "author": "MightyPupil69",
+                  "text_history": [
+                    [
+                      "What? I mean, assuming they went to college at 18, that means they have had over 15 years in the field/industry. Seems like plenty of experience to me... even in other fields, that's enough time to become a master electrician, a professor, a lawyer, a police captain, or even a doctor.",
+                      "2025-11-18T23:03:41.701206"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      5,
+                      "2025-11-18T23:03:41.701206"
+                    ],
+                    [
+                      5,
+                      "2025-11-19T00:47:45.956640"
+                    ],
+                    [
+                      5,
+                      "2025-11-19T02:22:43.992514"
+                    ],
+                    [
+                      4,
+                      "2025-11-19T02:33:45.596436"
+                    ],
+                    [
+                      6,
+                      "2025-11-19T02:44:05.317993"
+                    ]
+                  ],
+                  "created_utc": 1763509262.0,
+                  "depth": 3,
+                  "permalink": "/r/singularity/comments/1p0lpbn/from_the_developer_experience_lead_at_deepmind/npkydg6/",
+                  "is_submitter": false,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": [
+                    {
+                      "id": "npl39t3",
+                      "parent_id": "t1_npkydg6",
+                      "author": "FlatulistMaster",
+                      "text_history": [
+                        [
+                          "It’s enough to become a professor, but highly unusual",
+                          "2025-11-18T23:03:41.701206"
+                        ]
+                      ],
+                      "score_history": [
+                        [
+                          2,
+                          "2025-11-18T23:03:41.701206"
+                        ],
+                        [
+                          2,
+                          "2025-11-19T00:47:45.956640"
+                        ],
+                        [
+                          2,
+                          "2025-11-19T02:22:43.992514"
+                        ],
+                        [
+                          2,
+                          "2025-11-19T02:33:45.596436"
+                        ],
+                        [
+                          2,
+                          "2025-11-19T02:44:05.317993"
+                        ]
+                      ],
+                      "created_utc": 1763510995.0,
+                      "depth": 4,
+                      "permalink": "/r/singularity/comments/1p0lpbn/from_the_developer_experience_lead_at_deepmind/npl39t3/",
+                      "is_submitter": false,
+                      "controversiality": 0,
+                      "gilded": 0,
+                      "edited": false,
+                      "deleted": false,
+                      "deleted_at": null,
+                      "replies": [
+                        {
+                          "id": "nplc5io",
+                          "parent_id": "t1_npl39t3",
+                          "author": "LectureOld6879",
+                          "text_history": [
+                            [
+                              "not necessarily if you leave out the fact that these people are actual geniuses in the field. \n\nthe average professor doesnt need to be a genius",
+                              "2025-11-18T23:03:41.701206"
+                            ]
+                          ],
+                          "score_history": [
+                            [
+                              3,
+                              "2025-11-18T23:03:41.701206"
+                            ],
+                            [
+                              3,
+                              "2025-11-19T00:47:45.956640"
+                            ],
+                            [
+                              3,
+                              "2025-11-19T02:22:43.992514"
+                            ],
+                            [
+                              3,
+                              "2025-11-19T02:33:45.596436"
+                            ],
+                            [
+                              3,
+                              "2025-11-19T02:44:05.317993"
+                            ]
+                          ],
+                          "created_utc": 1763514105.0,
+                          "depth": 5,
+                          "permalink": "/r/singularity/comments/1p0lpbn/from_the_developer_experience_lead_at_deepmind/nplc5io/",
+                          "is_submitter": false,
+                          "controversiality": 0,
+                          "gilded": 0,
+                          "edited": false,
+                          "deleted": false,
+                          "deleted_at": null,
+                          "replies": [
+                            {
+                              "id": "npn19ng",
+                              "parent_id": "t1_nplc5io",
+                              "author": "FlatulistMaster",
+                              "text_history": [
+                                [
+                                  "I don’t understand what you mean? At least in my home country less than 5% of professors are under 35",
+                                  "2025-11-19T00:47:45.956640"
+                                ]
+                              ],
+                              "score_history": [
+                                [
+                                  1,
+                                  "2025-11-19T00:47:45.956640"
+                                ],
+                                [
+                                  1,
+                                  "2025-11-19T02:22:43.992514"
+                                ],
+                                [
+                                  1,
+                                  "2025-11-19T02:33:45.596436"
+                                ],
+                                [
+                                  1,
+                                  "2025-11-19T02:44:05.317993"
+                                ]
+                              ],
+                              "created_utc": 1763541541.0,
+                              "depth": 6,
+                              "permalink": "/r/singularity/comments/1p0lpbn/from_the_developer_experience_lead_at_deepmind/npn19ng/",
+                              "is_submitter": false,
+                              "controversiality": 0,
+                              "gilded": 0,
+                              "edited": false,
+                              "deleted": false,
+                              "deleted_at": null,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "npl7o3d",
+                      "parent_id": "t1_npkydg6",
+                      "author": "jlharper",
+                      "text_history": [
+                        [
+                          "False equivalence. \n\nOmar is at the loftiest heights one can reach in a field. The equivalent for an electrician would be to be running the national electrician’s guild with a seat on the council for example, or for a doctor it would include being a nation’s chief medical professional, or recognised as a leading surgeon globally. Rather than a police captain, you would need to be a national head of the police union. Rather than a lawyer, you would need to be the head of an historic and powerful law firm.\n\nI could offer examples for other hypothetical roles but I hope you take my point that all of this would be unusual for someone at 33 years old of course.",
+                          "2025-11-18T23:03:41.701206"
+                        ]
+                      ],
+                      "score_history": [
+                        [
+                          -1,
+                          "2025-11-18T23:03:41.701206"
+                        ],
+                        [
+                          -1,
+                          "2025-11-19T00:47:45.956640"
+                        ],
+                        [
+                          -1,
+                          "2025-11-19T02:22:43.992514"
+                        ],
+                        [
+                          -1,
+                          "2025-11-19T02:33:45.596436"
+                        ],
+                        [
+                          -1,
+                          "2025-11-19T02:44:05.317993"
+                        ]
+                      ],
+                      "created_utc": 1763512534.0,
+                      "depth": 4,
+                      "permalink": "/r/singularity/comments/1p0lpbn/from_the_developer_experience_lead_at_deepmind/npl7o3d/",
+                      "is_submitter": false,
+                      "controversiality": 1,
+                      "gilded": 0,
+                      "edited": false,
+                      "deleted": false,
+                      "deleted_at": null,
+                      "replies": [
+                        {
+                          "id": "nplacma",
+                          "parent_id": "t1_npl7o3d",
+                          "author": "es_crow",
+                          "text_history": [
+                            [
+                              "\"Nikola Tesla was around 26 years old when he invented the AC induction motor in 1882. He invented the Tesla coil when he was about 35 years old in 1891\"\n\nI think your view is tainted by the gerontocracy of modern politics. The positions you mentioned involve a lot of bureaucracy and politicking, but it is very often young guys who have the drive and will to change the world. IMO the top guy being young shows they are actually trying to innovate.",
+                              "2025-11-18T23:03:41.701206"
+                            ]
+                          ],
+                          "score_history": [
+                            [
+                              5,
+                              "2025-11-18T23:03:41.701206"
+                            ],
+                            [
+                              4,
+                              "2025-11-19T00:47:45.956640"
+                            ],
+                            [
+                              4,
+                              "2025-11-19T02:22:43.992514"
+                            ],
+                            [
+                              5,
+                              "2025-11-19T02:33:45.596436"
+                            ],
+                            [
+                              5,
+                              "2025-11-19T02:44:05.317993"
+                            ]
+                          ],
+                          "created_utc": 1763513461.0,
+                          "depth": 5,
+                          "permalink": "/r/singularity/comments/1p0lpbn/from_the_developer_experience_lead_at_deepmind/nplacma/",
+                          "is_submitter": false,
+                          "controversiality": 0,
+                          "gilded": 0,
+                          "edited": false,
+                          "deleted": false,
+                          "deleted_at": null,
+                          "replies": [
+                            {
+                              "id": "nplcbi4",
+                              "parent_id": "t1_nplacma",
+                              "author": "LectureOld6879",
+                              "text_history": [
+                                [
+                                  "we are also talking about the top 1% of the top 1% in terms of genius and from 20-40 these people can dedicate 12-18 hour days 6-7 days a week to this field",
+                                  "2025-11-18T23:03:41.701206"
+                                ]
+                              ],
+                              "score_history": [
+                                [
+                                  1,
+                                  "2025-11-18T23:03:41.701206"
+                                ],
+                                [
+                                  1,
+                                  "2025-11-19T00:47:45.956640"
+                                ],
+                                [
+                                  1,
+                                  "2025-11-19T02:22:43.992514"
+                                ],
+                                [
+                                  1,
+                                  "2025-11-19T02:33:45.596436"
+                                ],
+                                [
+                                  1,
+                                  "2025-11-19T02:44:05.317993"
+                                ]
+                              ],
+                              "created_utc": 1763514168.0,
+                              "depth": 6,
+                              "permalink": "/r/singularity/comments/1p0lpbn/from_the_developer_experience_lead_at_deepmind/nplcbi4/",
+                              "is_submitter": false,
+                              "controversiality": 0,
+                              "gilded": 0,
+                              "edited": false,
+                              "deleted": false,
+                              "deleted_at": null,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T02:44:05.317993",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/singularity/comments/1p0lpbn/from_the_developer_experience_lead_at_deepmind/",
+    "total_comments": 62,
+    "top_level_comments": 18,
+    "api_requests": 1,
+    "expected_comments": 65,
+    "coverage_percent": 95.38,
+    "merged_snapshot_count": 7,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_151501.json",
+      "scrape_002_20251118_151840.json",
+      "scrape_003_20251118_230341.json",
+      "scrape_004_20251119_004745.json",
+      "scrape_005_20251119_022243.json",
+      "scrape_006_20251119_023344.json",
+      "scrape_007_20251119_024404.json"
+    ]
+  }
+}

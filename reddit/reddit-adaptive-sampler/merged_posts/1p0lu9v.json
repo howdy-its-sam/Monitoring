@@ -1,0 +1,44 @@
+{
+  "post": {
+    "id": "1p0lu9v",
+    "title": "Widespread Takeover of FortiWeb Devices through Unauthenticated Admin Account Creation",
+    "author": "r0techa",
+    "score_history": [
+      [
+        0,
+        "2025-11-18T15:16:49.011674"
+      ],
+      [
+        0,
+        "2025-11-18T23:12:41.252024"
+      ],
+      [
+        0,
+        "2025-11-19T01:08:28.320040"
+      ]
+    ],
+    "created_utc": 1763495199.0,
+    "num_comments": 0,
+    "subreddit": "cybersecurity",
+    "url": "https://threatequals.com/story/82e46719-d606-4b85-8f79-8d9d3b7844ef",
+    "selftext": "",
+    "permalink": "/r/cybersecurity/comments/1p0lu9v/widespread_takeover_of_fortiweb_devices_through/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T01:08:28.320040",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/cybersecurity/comments/1p0lu9v/widespread_takeover_of_fortiweb_devices_through/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_151648.json",
+      "scrape_002_20251118_231241.json",
+      "scrape_003_20251119_010828.json"
+    ]
+  }
+}

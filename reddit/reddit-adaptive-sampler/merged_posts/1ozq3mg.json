@@ -1,0 +1,44 @@
+{
+  "post": {
+    "id": "1ozq3mg",
+    "title": "chatgpt 20100",
+    "author": "outgllat",
+    "score_history": [
+      [
+        0,
+        "2025-11-18T14:22:30.587915"
+      ],
+      [
+        0,
+        "2025-11-18T14:32:51.144234"
+      ],
+      [
+        0,
+        "2025-11-18T14:43:14.852657"
+      ]
+    ],
+    "created_utc": 1763408506.0,
+    "num_comments": 0,
+    "subreddit": "ChatGPTCoding",
+    "url": "https://i.redd.it/l8tpil6eev1g1.jpeg",
+    "selftext": "",
+    "permalink": "/r/ChatGPTCoding/comments/1ozq3mg/chatgpt_20100/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-18T14:43:14.852657",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/ChatGPTCoding/comments/1ozq3mg/chatgpt_20100/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_142230.json",
+      "scrape_002_20251118_143250.json",
+      "scrape_003_20251118_144314.json"
+    ]
+  }
+}

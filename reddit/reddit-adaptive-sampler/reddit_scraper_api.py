@@ -49,16 +49,17 @@ def extract_post_id_from_url(url):
         return match.group(1)
     return None
 
-def get_reddit_data_recursive(post_id, max_requests=200, session=None, sort='confidence'):
+def get_reddit_data_recursive(post_id, max_requests=200, session=None, sort='confidence', rate_limiter=None):
     """
     Fetch Reddit post and comments data using recursive API calls
     Gets ALL comments including those hidden in 'more' objects
-    
+
     Args:
         post_id: Reddit post ID
         max_requests: Maximum number of API requests to make
         session: Optional authenticated requests.Session for OAuth (10x rate limit)
         sort: Sort order for comments ('confidence', 'top', 'new', 'controversial', 'old', 'qa')
+        rate_limiter: Optional RateLimiter instance for adaptive limit learning
     """
     link_id = f't3_{post_id}'
     
@@ -119,7 +120,7 @@ def get_reddit_data_recursive(post_id, max_requests=200, session=None, sort='con
     
     try:
         print(f"🌐 Fetching Reddit data recursively for post: {post_id}")
-        
+
         # Step 1: Initial request with retry logic
         max_retries = 3
         for attempt in range(max_retries):
@@ -127,7 +128,11 @@ def get_reddit_data_recursive(post_id, max_requests=200, session=None, sort='con
                 wait_time = 30 * (2 ** attempt)  # Exponential backoff: 30s, 60s, 120s
                 print(f"⏳ Waiting {wait_time} seconds before retry {attempt + 1}/{max_retries}...")
                 time.sleep(wait_time)
-            
+
+            # Wait for rate limit budget before making request
+            if rate_limiter and hasattr(rate_limiter, 'wait_for_budget'):
+                rate_limiter.wait_for_budget(1)
+
             # Use session if provided (OAuth), otherwise use requests directly
             with track_request():
                 params = {'limit': 100, 'sort': sort}
@@ -136,7 +141,14 @@ def get_reddit_data_recursive(post_id, max_requests=200, session=None, sort='con
                 else:
                     response = requests.get(base_url, headers=headers, params=params, timeout=30)
             requests_made += 1
-            
+
+            # Consume budget and update rate limiter from response headers
+            if rate_limiter:
+                if hasattr(rate_limiter, 'consume'):
+                    rate_limiter.consume(1)
+                if hasattr(rate_limiter, 'update_from_headers'):
+                    rate_limiter.update_from_headers(response.headers)
+
             if response.status_code == 200:
                 break
             elif response.status_code == 429:
@@ -189,13 +201,17 @@ def get_reddit_data_recursive(post_id, max_requests=200, session=None, sort='con
                     'limit_children': False
                 }
                 
-                # Global adaptive backoff: wait before request
-                if global_backoff > 0.01:  # Only wait if backoff is significant
-                    time.sleep(global_backoff)
-                
-                # Infinite retry logic with global adaptive backoff
+                # Infinite retry logic with rate-limiter-based pacing
                 while True:  # Infinite retry until success
                     try:
+                        # Wait for rate limit budget before making request (replaces hardcoded sleep)
+                        if rate_limiter and hasattr(rate_limiter, 'wait_for_budget'):
+                            rate_limiter.wait_for_budget(1)
+                        else:
+                            # Fallback to global backoff if no rate limiter
+                            if global_backoff > 0.01:
+                                time.sleep(global_backoff)
+
                         # Use session if provided (OAuth), otherwise use requests directly
                         with track_request():
                             if session:
@@ -205,7 +221,14 @@ def get_reddit_data_recursive(post_id, max_requests=200, session=None, sort='con
                             else:
                                 response = requests.get(morechildren_url, headers=headers, params=params, timeout=10)
                         requests_made += 1
-                        
+
+                        # Consume budget and update rate limiter from response headers
+                        if rate_limiter:
+                            if hasattr(rate_limiter, 'consume'):
+                                rate_limiter.consume(1)
+                            if hasattr(rate_limiter, 'update_from_headers'):
+                                rate_limiter.update_from_headers(response.headers)
+
                         if response.status_code == 200:
                             result = response.json()
                             if 'json' in result and 'data' in result['json']:
@@ -811,17 +834,18 @@ def extract_comments_from_api_data(data):
     print(f"📊 Total comments extracted: {comment_count}")
     return all_comments, post_info
 
-def scrape_reddit_post_api(url, output_file=None, session=None, max_requests=200, sort='confidence'):
+def scrape_reddit_post_api(url, output_file=None, session=None, max_requests=200, sort='confidence', rate_limiter=None):
     """
     Main function to scrape Reddit post using recursive API approach with temporal tracking
     Gets ALL comments including those hidden in 'more' objects and merges with existing data
-    
+
     Args:
         url: Reddit post URL
         output_file: Optional output file path
         session: Optional authenticated requests.Session for OAuth (10x rate limit)
         max_requests: Maximum number of API requests (None for unlimited)
         sort: Sort order for comments ('confidence', 'top', 'new', 'controversial', 'old', 'qa')
+        rate_limiter: Optional RateLimiter instance for adaptive limit learning
     """
     print(f"🚀 Starting recursive API-based Reddit scraping for: {url}")
     
@@ -838,8 +862,8 @@ def scrape_reddit_post_api(url, output_file=None, session=None, max_requests=200
     else:
         print(f"📊 Max requests: {max_requests}")
     
-    # Fetch data via recursive API calls (pass session for OAuth)
-    recursive_data = get_reddit_data_recursive(post_id, max_requests=max_requests, session=session, sort=sort)
+    # Fetch data via recursive API calls (pass session for OAuth and rate_limiter for adaptive learning)
+    recursive_data = get_reddit_data_recursive(post_id, max_requests=max_requests, session=session, sort=sort, rate_limiter=rate_limiter)
     if not recursive_data:
         return None
     
@@ -888,10 +912,11 @@ def scrape_reddit_post_api(url, output_file=None, session=None, max_requests=200
     if output_file:
         # Generate timestamped filenames
         timestamp = datetime.now().strftime('%Y%m%d_%H%M%S')
-        # Extract just the filename from the path
+        # Extract directory and filename from the path
+        output_dir = os.path.dirname(output_file)
         filename = os.path.basename(output_file).replace('.json', '')
-        raw_file = f"raw_posts/{filename}_raw_{timestamp}.json"
-        merged_file = f"raw_posts/{filename}_merged_{timestamp}.json"
+        raw_file = f"{output_dir}/{filename}_raw_{timestamp}.json"
+        merged_file = f"{output_dir}/{filename}_merged_{timestamp}.json"
         
         # Save raw scraped data
         with open(raw_file, 'w', encoding='utf-8') as f:

@@ -1,0 +1,44 @@
+{
+  "post": {
+    "id": "1p0tgfd",
+    "title": "GraphScout picking the best reasoning path inside OrKa UI",
+    "author": "marcosomma-OrKA",
+    "score_history": [
+      [
+        1,
+        "2025-11-19T02:55:48.645241"
+      ],
+      [
+        1,
+        "2025-11-19T03:03:39.830499"
+      ],
+      [
+        1,
+        "2025-11-19T03:06:57.703355"
+      ]
+    ],
+    "created_utc": 1763513477.0,
+    "num_comments": 0,
+    "subreddit": "AgentsOfAI",
+    "url": "https://v.redd.it/ym37pvys242g1",
+    "selftext": "I recorded a short clip of **GraphScout** running inside OrKa UI. The idea is simple:\n\n* you drop a **GraphScout** node into your pool of specialist agents\n* you send in a question\n* behind the scenes it spins up several possible reasoning paths, simulates them, scores them, and only executes the best one\n\nIn the video you can see:\n\n* GraphScout exploring candidate paths in the graph\n* the scoring view that shows which paths were considered\n* the final selected route that actually gets executed\n\nThis is not magic. It is just LLM exploration regulated by **deterministic scoring**, so you keep flexibility without losing control.\n\nIf you want to try the same setup:\n\n* OrKa UI container: [https://hub.docker.com/r/marcosomma/orka-ui](https://hub.docker.com/r/marcosomma/orka-ui)\n* Orka-ui docs: [https://github.com/marcosomma/orka-reasoning/blob/master/docs/orka-ui.md](https://github.com/marcosomma/orka-reasoning/blob/master/docs/orka-ui.md)\n* OrKa reasoning repo: [https://github.com/marcosomma/orka-reasoning]()\n\nCurious what this sub thinks about this style of self discovering path selection for agents.",
+    "permalink": "/r/AgentsOfAI/comments/1p0tgfd/graphscout_picking_the_best_reasoning_path_inside/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:06:57.703355",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/AgentsOfAI/comments/1p0tgfd/graphscout_picking_the_best_reasoning_path_inside/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_025548.json",
+      "scrape_002_20251119_030339.json",
+      "scrape_003_20251119_030657.json"
+    ]
+  }
+}

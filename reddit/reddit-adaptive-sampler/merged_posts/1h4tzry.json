@@ -1,0 +1,44 @@
+{
+  "post": {
+    "id": "1h4tzry",
+    "title": "AI news from last week! 11-25 to 12-1",
+    "author": "Danny-Reid871",
+    "score_history": [
+      [
+        2,
+        "2025-11-19T03:25:41.376104"
+      ],
+      [
+        2,
+        "2025-11-19T03:28:31.431245"
+      ],
+      [
+        2,
+        "2025-11-19T03:30:30.423999"
+      ]
+    ],
+    "created_utc": 1733143028.0,
+    "num_comments": 0,
+    "subreddit": "ainews",
+    "url": "https://www.reddit.com/r/ainews/comments/1h4tzry/ai_news_from_last_week_1125_to_121/",
+    "selftext": "Hey everyone!\n\nThis week in tech has been buzzing with some exciting developments, and here’s what caught my eye:\n\n* Runway ML's \"Frames\": They launched a new tool that allows users to generate and manipulate video content more efficiently, enhancing creative workflows in video production.\n* Anthropic's Model Context Protocol (MCP): This open standard connects AI assistants to data sources, making integrations simpler and improving response relevance.\n* Zoom Rebranding: Zoom is now Zoom Communications Inc., expanding into an AI-first platform with features like AI Companion 2.0 for better collaboration.\n* Startup /dev/agents: Co-founded by ex-Google and Meta leaders, they raised $56 million to create an operating system for AI agents aimed at simplifying development.\n* Allen AI's OLMo 2: They introduced a fully open language model family with versions trained on 5 trillion tokens for improved performance.\n* OpenAI's Sora Tool Suspension: After artists protested about compensation issues, OpenAI suspended access to its Sora text-to-video tool.\n\nI came across these updates in various newsletters like Rundown AI, Linkt.ai, Tech Meme and more. I’ll be sharing my top picks weekly, so see you next Sunday or Monday!\n\nP.S. Drop any other news you find in the comments—let’s discuss!",
+    "permalink": "/r/ainews/comments/1h4tzry/ai_news_from_last_week_1125_to_121/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:30:30.423999",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/ainews/comments/1h4tzry/ai_news_from_last_week_1125_to_121/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_032541.json",
+      "scrape_002_20251119_032830.json",
+      "scrape_003_20251119_033030.json"
+    ]
+  }
+}

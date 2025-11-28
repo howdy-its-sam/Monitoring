@@ -1,0 +1,344 @@
+{
+  "post": {
+    "id": "1p0jowa",
+    "title": "Found a bug/glitch in BigBasket, reported it... now my account is blocked. What should I do?",
+    "author": "East-Car3790",
+    "score_history": [
+      [
+        13,
+        "2025-11-18T13:49:54.571541"
+      ],
+      [
+        14,
+        "2025-11-18T14:00:58.363980"
+      ],
+      [
+        13,
+        "2025-11-18T14:12:14.775182"
+      ],
+      [
+        23,
+        "2025-11-18T21:49:51.988771"
+      ],
+      [
+        24,
+        "2025-11-18T23:34:36.936466"
+      ],
+      [
+        26,
+        "2025-11-19T01:18:44.034709"
+      ]
+    ],
+    "created_utc": 1763490398.0,
+    "num_comments": 4,
+    "subreddit": "cybersecurity",
+    "url": "https://www.reddit.com/r/cybersecurity/comments/1p0jowa/found_a_bugglitch_in_bigbasket_reported_it_now_my/",
+    "selftext": "Hey everyone,\n\nI recently came across what seemed like a serious glitch/bug in BigBasket's system. I didn’t misuse it or anything — I just genuinely thought it was important and decided to inform them by email.\n\nHowever, instead of acknowledging it or even replying, they’ve **blocked my account** without any warning or explanation.  \nNo email, no clarification, nothing. Just locked out.\n\nI’ve been using BigBasket regularly for a long time and had saved items in my cart. Now I can’t even log back in to access it.\n\nHas anyone else faced something like this? What should I do next — contact support again, try reaching out on social media, or just leave it?\n\nFeels pretty bad to be punished for trying to help.\n\nAny suggestions or similar stories would be really appreciated!\n\nThanks!",
+    "permalink": "/r/cybersecurity/comments/1p0jowa/found_a_bugglitch_in_bigbasket_reported_it_now_my/"
+  },
+  "comments": [
+    {
+      "id": "npjmvdj",
+      "parent_id": "t3_1p0jowa",
+      "author": "unsupported",
+      "text_history": [
+        [
+          "Use a secondary and/or temporary email to report bugs, or EFF.",
+          "2025-11-18T13:49:54.571541"
+        ]
+      ],
+      "score_history": [
+        [
+          7,
+          "2025-11-18T13:49:54.571541"
+        ],
+        [
+          8,
+          "2025-11-18T14:00:58.363980"
+        ],
+        [
+          9,
+          "2025-11-18T14:12:14.775182"
+        ],
+        [
+          27,
+          "2025-11-18T21:49:51.988771"
+        ],
+        [
+          30,
+          "2025-11-18T23:34:36.936466"
+        ],
+        [
+          33,
+          "2025-11-19T01:18:44.034709"
+        ]
+      ],
+      "created_utc": 1763494359.0,
+      "depth": 0,
+      "permalink": "/r/cybersecurity/comments/1p0jowa/found_a_bugglitch_in_bigbasket_reported_it_now_my/npjmvdj/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npjcvqi",
+      "parent_id": "t3_1p0jowa",
+      "author": "Looking4Parabatai",
+      "text_history": [
+        [
+          "If anything, it shows that their organization doesn't have a mature cyber security team (if there already is one).\n\nYou could reach out to HackerOne and file your report to them. That way, it will end up with the company through a responsible disclosure process. Then it is up to them to take any action or not. \n\nIf they neglect and are breached as a result, the regulators won't look kindly on it. \n\nGood luck resolving the issue with your account.",
+          "2025-11-18T13:49:54.571541"
+        ]
+      ],
+      "score_history": [
+        [
+          18,
+          "2025-11-18T13:49:54.571541"
+        ],
+        [
+          18,
+          "2025-11-18T14:00:58.363980"
+        ],
+        [
+          19,
+          "2025-11-18T14:12:14.775182"
+        ],
+        [
+          42,
+          "2025-11-18T21:49:51.988771"
+        ],
+        [
+          46,
+          "2025-11-18T23:34:36.936466"
+        ],
+        [
+          44,
+          "2025-11-19T01:18:44.034709"
+        ]
+      ],
+      "created_utc": 1763491411.0,
+      "depth": 0,
+      "permalink": "/r/cybersecurity/comments/1p0jowa/found_a_bugglitch_in_bigbasket_reported_it_now_my/npjcvqi/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npjjnyh",
+      "parent_id": "t3_1p0jowa",
+      "author": "[deleted]",
+      "text_history": [
+        [
+          "[deleted]",
+          "2025-11-18T13:49:54.571541"
+        ]
+      ],
+      "score_history": [
+        [
+          -4,
+          "2025-11-18T13:49:54.571541"
+        ],
+        [
+          -5,
+          "2025-11-18T14:00:58.363980"
+        ],
+        [
+          -6,
+          "2025-11-18T14:12:14.775182"
+        ],
+        [
+          -5,
+          "2025-11-18T21:49:51.988771"
+        ],
+        [
+          -6,
+          "2025-11-18T23:34:36.936466"
+        ],
+        [
+          -4,
+          "2025-11-19T01:18:44.034709"
+        ]
+      ],
+      "created_utc": 1763493398.0,
+      "depth": 0,
+      "permalink": "/r/cybersecurity/comments/1p0jowa/found_a_bugglitch_in_bigbasket_reported_it_now_my/npjjnyh/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npjl83a",
+          "parent_id": "t1_npjjnyh",
+          "author": "Staas",
+          "text_history": [
+            [
+              "OP didn't state what they did to find the \"bug/glitch\" or where they're located, so you have no way of knowing if what they did was illegal. Found an open SSH server and accessed it? Sure. Use inspect element and found sensitive data? Not illegal at all.\n\nAdditionally, the [DOJ has stated](https://www.justice.gov/archives/opa/pr/department-justice-announces-new-policy-charging-cases-under-computer-fraud-and-abuse-act) that \"good faith\" security research is not punishable under the Computer Fraud and Abuse act.",
+              "2025-11-18T13:49:54.571541"
+            ]
+          ],
+          "score_history": [
+            [
+              9,
+              "2025-11-18T13:49:54.571541"
+            ],
+            [
+              10,
+              "2025-11-18T14:00:58.363980"
+            ],
+            [
+              10,
+              "2025-11-18T14:12:14.775182"
+            ],
+            [
+              24,
+              "2025-11-18T21:49:51.988771"
+            ],
+            [
+              23,
+              "2025-11-18T23:34:36.936466"
+            ],
+            [
+              22,
+              "2025-11-19T01:18:44.034709"
+            ]
+          ],
+          "created_utc": 1763493866.0,
+          "depth": 1,
+          "permalink": "/r/cybersecurity/comments/1p0jowa/found_a_bugglitch_in_bigbasket_reported_it_now_my/npjl83a/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npjcs5y",
+      "parent_id": "t3_1p0jowa",
+      "author": "[deleted]",
+      "text_history": [
+        [
+          "[deleted]",
+          "2025-11-18T13:49:54.571541"
+        ]
+      ],
+      "score_history": [
+        [
+          -10,
+          "2025-11-18T13:49:54.571541"
+        ],
+        [
+          -10,
+          "2025-11-18T14:00:58.363980"
+        ],
+        [
+          -10,
+          "2025-11-18T14:12:14.775182"
+        ],
+        [
+          -9,
+          "2025-11-18T21:49:51.988771"
+        ],
+        [
+          -10,
+          "2025-11-18T23:34:36.936466"
+        ],
+        [
+          -9,
+          "2025-11-19T01:18:44.034709"
+        ]
+      ],
+      "created_utc": 1763491382.0,
+      "depth": 0,
+      "permalink": "/r/cybersecurity/comments/1p0jowa/found_a_bugglitch_in_bigbasket_reported_it_now_my/npjcs5y/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": 1763493237.0,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npjhb8x",
+          "parent_id": "t1_npjcs5y",
+          "author": "nielsNLD",
+          "text_history": [
+            [
+              "Well twouldn't that depend on how you happend upon the the bug/glitch/exploit and if your testing would be reasonably be regarded as permitted.\n\nIf he found it good faith and didn't abuse it afterwards he should be fine legally speaking. Since he reported it to the company itself and didn't publicly share the exploit.",
+              "2025-11-18T13:49:54.571541"
+            ]
+          ],
+          "score_history": [
+            [
+              4,
+              "2025-11-18T13:49:54.571541"
+            ],
+            [
+              4,
+              "2025-11-18T14:00:58.363980"
+            ],
+            [
+              4,
+              "2025-11-18T14:12:14.775182"
+            ],
+            [
+              8,
+              "2025-11-18T21:49:51.988771"
+            ],
+            [
+              4,
+              "2025-11-18T23:34:36.936466"
+            ],
+            [
+              6,
+              "2025-11-19T01:18:44.034709"
+            ]
+          ],
+          "created_utc": 1763492699.0,
+          "depth": 1,
+          "permalink": "/r/cybersecurity/comments/1p0jowa/found_a_bugglitch_in_bigbasket_reported_it_now_my/npjhb8x/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T01:18:44.034709",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/cybersecurity/comments/1p0jowa/found_a_bugglitch_in_bigbasket_reported_it_now_my/",
+    "total_comments": 6,
+    "top_level_comments": 4,
+    "api_requests": 1,
+    "expected_comments": 4,
+    "coverage_percent": 150.0,
+    "merged_snapshot_count": 6,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_134951.json",
+      "scrape_002_20251118_140058.json",
+      "scrape_003_20251118_141214.json",
+      "scrape_004_20251118_214951.json",
+      "scrape_005_20251118_233436.json",
+      "scrape_006_20251119_011843.json"
+    ]
+  }
+}

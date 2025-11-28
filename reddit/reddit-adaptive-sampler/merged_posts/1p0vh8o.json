@@ -1,0 +1,44 @@
+{
+  "post": {
+    "id": "1p0vh8o",
+    "title": "A pattern I’ve been using to call Python “tools” from a Node-based agent (manifest + subprocess)",
+    "author": "ZackHine",
+    "score_history": [
+      [
+        0,
+        "2025-11-19T03:41:26.863325"
+      ],
+      [
+        0,
+        "2025-11-19T03:47:25.507544"
+      ],
+      [
+        0,
+        "2025-11-19T03:48:58.946450"
+      ]
+    ],
+    "created_utc": 1763519082.0,
+    "num_comments": 0,
+    "subreddit": "ChatGPTCoding",
+    "url": "https://www.reddit.com/r/ChatGPTCoding/comments/1p0vh8o/a_pattern_ive_been_using_to_call_python_tools/",
+    "selftext": "I’ve been building LLM agents (including Open AI) in my spare time and ran into a common annoyance:\n\nI want most of my agent logic in Node/TypeScript, but a lot of the tools I want (scrapers, ML utilities, etc.) are easier to write in Python.\n\nInstead of constantly rewriting tools in both languages, I’ve been using a simple pattern:\n\n* describe each tool in a manifest\n* implement it in whatever language makes sense (often Python)\n* call it from a Node-based agent host via a subprocess and JSON\n\nIt’s been working pretty well so I figured I’d share in case it’s useful or someone has a better way.\n\n\\---\n\n**The basic pattern**\n\n* Each tool lives in its own folder with:\n   * a manifest (`agent.json`)\n   * an implementation (main.py, index.ts, etc.)\n* The manifest describes:\n   * name, runtime, entrypoint\n   * input/output schema\n* The host (in my case, a Node agent) uses the manifest to:\n   * validate inputs\n   * spawn the subprocess with the right command\n   * send JSON in / read JSON out\n\n\\---\n\n**Example manifest**\n\n    {\n      \"name\": \"web-summarizer\",\n      \"version\": \"0.1.0\",\n      \"description\": \"Fetches a web page and returns a short summary.\",\n      \"entrypoint\": {\n        \"args\": [\n          \"-u\",\n          \"summarizer/main.py\"\n        ],\n        \"command\": \"python\",\n      },\n      \"runtime\": {\n        \"type\": \"python\",\n        \"version\": \"3.11\"\n      }\n      \"inputs\": {\n        \"type\": \"object\",\n        \"required\": [\n          \"url\"\n        ],\n        \"properties\": {\n          \"url\": {\n            \"type\": \"string\",\n            \"description\": \"URL to summarize\"\n          }\n        },\n        \"additionalProperties\": false\n      },\n      \"outputs\": {\n        \"type\": \"object\",\n        \"required\": [\n          \"summary\"\n        ],\n        \"properties\": {\n          \"summary\": {\n            \"type\": \"string\",\n            \"description\": \"Summarized text\"\n          },\n        },\n        \"additionalProperties\": false\n      }\n\n\\---\n\n**Python side (main.py)**\n\nVery simple protocol: read JSON from stdin, write JSON to stdout.\n\n    import sys\n    import json\n    from textwrap import shorten\n    \n    def summarize(text: str, max_words: int = 200) -&gt; str:\n        words = text.split()\n        if len(words) &lt;= max_words:\n            return text\n        return \" \".join(words[:max_words]) + \"...\"\n    \n    def main():\n        raw = sys.stdin.read()\n        payload = json.loads(raw)\n    \n        url = payload[\"url\"]\n        max_words = payload.get(\"max_words\", 200)\n    \n        # ... fetch page, extract text ...\n        text = f\"Fake page content for {url}\"\n        summary = summarize(text, max_words=max_words)\n    \n        result = {\"summary\": summary}\n        sys.stdout.write(json.dumps(result))\n    \n    if __name__ == \"__main__\":\n        main()\n\n\\---\n\n**Node side (host / agent)**\n\nThe Node agent doesn’t care that this is Python. It just knows:\n\n* there’s a manifest\n* it can spawn a subprocess using the command in `entrypoint.command`\n* it should send JSON matching the `inputs` shape, and expect JSON back\n\n&amp;#8203;\n\n    import { spawn } from \"node:child_process\";\n    import { readFileSync } from \"node:fs\";\n    import path from \"node:path\";\n    \n    type ToolManifest = {\n      name: string;\n      runtime: string;\n      entrypoint: { command : string; args: string[] };\n      inputs: Record&lt;string, any&gt;;\n      outputs: Record&lt;string, any&gt;;\n    };\n    \n    async function callTool(toolDir: string, input: unknown): Promise&lt;unknown&gt; {\n      const manifestPath = path.join(toolDir, \"agent.json\");\n      const manifest: ToolManifest = \n    JSON\n    .parse(\n        readFileSync(manifestPath, \"utf8\")\n      );\n    \n    \n    const cmd = manifest.entrypoint.command;\n      const [ ...args] = manifest.entrypoint.args;\n      const child = spawn(cmd, args, { cwd: toolDir });\n    \n      const payload = \n    JSON\n    .stringify(input);\n      child.stdin.write(payload);\n      child.stdin.end();\n    \n      let stdout = \"\";\n      let stderr = \"\";\n    \n      child.stdout.on(\"data\", (chunk) =&gt; (stdout += chunk.toString()));\n      child.stderr.on(\"data\", (chunk) =&gt; (stderr += chunk.toString()));\n    \n      return new Promise((resolve, reject) =&gt; {\n        child.on(\"close\", (code) =&gt; {\n          if (code !== 0) {\n            return reject(new \n    Error\n    (`Tool failed: ${stderr || code}`));\n          }\n    \n          try {\n            const result = \n    JSON\n    .parse(stdout);\n            resolve(result);\n          } catch (e) {\n            reject(new \n    Error\n    (`Failed to parse tool output: ${e}`));\n          }\n        });\n      });\n    }\n    \n    // Somewhere in your agent code:\n    async function example() {\n      const result = await callTool(\"./tools/web-summarizer\", {\n        url: \"https://example.com\",\n        max_words: 100,\n      });\n    \n      \n    console\n    .log(result);\n    }\n\n\\---\n\n**Why I like this pattern**\n\n* I can keep most orchestration in Node/TS (which I prefer for app code)\n* I can still use Python for tools where the ecosystem is better\n* Tools become mostly runtime-agnostic from the agent’s perspective\n* If I want to share tools, I can package the folder + manifest and reuse it elsewhere\n\nUnder the hood, I’m wrapping all of this in a more structured system (CLI + SDK + registry) in a project I’m working on (AgentPM), but even without that, the pattern has been surprisingly handy.\n\n\\---\n\n**Things I’m unsure about / would love feedback on**\n\n* Have you found a cleaner way to manage cross-language tools in your agents?\n* Would you rather:\n   * keep all tools in one language,\n   * or lean into patterns like this to mix ecosystems?\n\nAlso curious if anyone has evolved something like this into a more formal internal standard for their team.",
+    "permalink": "/r/ChatGPTCoding/comments/1p0vh8o/a_pattern_ive_been_using_to_call_python_tools/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:48:58.946450",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/ChatGPTCoding/comments/1p0vh8o/a_pattern_ive_been_using_to_call_python_tools/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_034126.json",
+      "scrape_002_20251119_034725.json",
+      "scrape_003_20251119_034858.json"
+    ]
+  }
+}

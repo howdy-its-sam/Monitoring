@@ -1,0 +1,80 @@
+{
+  "post": {
+    "id": "1p0grsd",
+    "title": "Data Scientist to ML/AI Infra Engineer",
+    "author": "wavelolz",
+    "score_history": [
+      [
+        1,
+        "2025-11-19T03:29:04.260513"
+      ],
+      [
+        1,
+        "2025-11-19T03:36:23.254273"
+      ],
+      [
+        1,
+        "2025-11-19T03:39:36.103908"
+      ]
+    ],
+    "created_utc": 1763483992.0,
+    "num_comments": 1,
+    "subreddit": "learnmachinelearning",
+    "url": "https://www.reddit.com/r/learnmachinelearning/comments/1p0grsd/data_scientist_to_mlai_infra_engineer/",
+    "selftext": "Hi guys as title how do you make a leap from model-focused data scientist to system focus infra engineer? More specifically the role like this  \n[https://www.tesla.com/careers/search/job/machine-learning-infrastructure-simulation-engineer-optimus-252374](https://www.tesla.com/careers/search/job/machine-learning-infrastructure-simulation-engineer-optimus-252374)\n\n  \nI've done my Bachelor in statistics and master in Data Science. Worked as quant and data scientist for a short period and mainly focused on statistical analysis, model training and fine-tuning. But I keep feeling this is not what I want to do. I want to be more like an engineer, to be able to optimize and deploy model in real life. As you can tell from my background I mainly focus on math instead of enginnering. If I want to work on more engineering part of ML/AI how should I get started?",
+    "permalink": "/r/learnmachinelearning/comments/1p0grsd/data_scientist_to_mlai_infra_engineer/"
+  },
+  "comments": [
+    {
+      "id": "npix1p6",
+      "parent_id": "t3_1p0grsd",
+      "author": "nullstillstands",
+      "text_history": [
+        [
+          "interview query recently released a roadmap on how to become an ML engineer - i would suggest looking into that so you get the gist of how to build your educational + technical foundations. i do think your ds background can really help, but you really have to strengthen that through mastering python, ML theory (through books &amp; courses), deployment &amp; ML ops.",
+          "2025-11-19T03:29:04.260513"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T03:29:04.260513"
+        ],
+        [
+          1,
+          "2025-11-19T03:36:23.254273"
+        ],
+        [
+          1,
+          "2025-11-19T03:39:36.103908"
+        ]
+      ],
+      "created_utc": 1763486833.0,
+      "depth": 0,
+      "permalink": "/r/learnmachinelearning/comments/1p0grsd/data_scientist_to_mlai_infra_engineer/npix1p6/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:39:36.103908",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/learnmachinelearning/comments/1p0grsd/data_scientist_to_mlai_infra_engineer/",
+    "total_comments": 1,
+    "top_level_comments": 1,
+    "api_requests": 1,
+    "expected_comments": 1,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_032904.json",
+      "scrape_002_20251119_033623.json",
+      "scrape_003_20251119_033935.json"
+    ]
+  }
+}

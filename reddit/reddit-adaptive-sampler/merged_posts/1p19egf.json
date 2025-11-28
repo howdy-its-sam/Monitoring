@@ -1,0 +1,129 @@
+{
+  "post": {
+    "id": "1p19egf",
+    "title": "Microsoft Copilot just added support for AI-generated Canva designs that are easy to create",
+    "author": "Tiny-Independent273",
+    "score_history": [
+      [
+        1,
+        "2025-11-19T06:41:02.014227"
+      ],
+      [
+        1,
+        "2025-11-19T06:41:02.270208"
+      ],
+      [
+        1,
+        "2025-11-19T06:41:02.507153"
+      ],
+      [
+        1,
+        "2025-11-19T06:41:02.734663"
+      ],
+      [
+        1,
+        "2025-11-19T06:41:02.973137"
+      ],
+      [
+        1,
+        "2025-11-19T06:41:03.194479"
+      ],
+      [
+        1,
+        "2025-11-19T06:41:03.453071"
+      ],
+      [
+        1,
+        "2025-11-19T06:41:03.698662"
+      ],
+      [
+        1,
+        "2025-11-19T06:41:03.943973"
+      ],
+      [
+        1,
+        "2025-11-19T06:41:04.228245"
+      ],
+      [
+        1,
+        "2025-11-19T06:41:04.477127"
+      ],
+      [
+        1,
+        "2025-11-19T06:41:04.744338"
+      ],
+      [
+        1,
+        "2025-11-19T06:41:05.025924"
+      ],
+      [
+        1,
+        "2025-11-19T06:41:05.258882"
+      ],
+      [
+        1,
+        "2025-11-19T06:41:05.524719"
+      ],
+      [
+        1,
+        "2025-11-19T06:41:05.867283"
+      ],
+      [
+        1,
+        "2025-11-19T06:41:06.129444"
+      ],
+      [
+        1,
+        "2025-11-19T06:41:06.352588"
+      ],
+      [
+        1,
+        "2025-11-19T06:41:06.685089"
+      ],
+      [
+        1,
+        "2025-11-19T06:41:06.932574"
+      ]
+    ],
+    "created_utc": 1763563191.0,
+    "num_comments": 0,
+    "subreddit": "artificial",
+    "url": "https://www.pcguide.com/news/microsoft-copilot-just-added-support-for-ai-generated-canva-designs-that-are-easy-to-create/",
+    "selftext": "",
+    "permalink": "/r/artificial/comments/1p19egf/microsoft_copilot_just_added_support_for/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T06:41:06.932574",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/artificial/comments/1p19egf/microsoft_copilot_just_added_support_for/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 20,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_064101.json",
+      "scrape_002_20251119_064102.json",
+      "scrape_003_20251119_064102.json",
+      "scrape_004_20251119_064102.json",
+      "scrape_005_20251119_064102.json",
+      "scrape_006_20251119_064102.json",
+      "scrape_007_20251119_064103.json",
+      "scrape_008_20251119_064103.json",
+      "scrape_009_20251119_064103.json",
+      "scrape_010_20251119_064103.json",
+      "scrape_011_20251119_064104.json",
+      "scrape_012_20251119_064104.json",
+      "scrape_013_20251119_064104.json",
+      "scrape_014_20251119_064105.json",
+      "scrape_015_20251119_064105.json",
+      "scrape_016_20251119_064105.json",
+      "scrape_017_20251119_064105.json",
+      "scrape_018_20251119_064106.json",
+      "scrape_019_20251119_064106.json",
+      "scrape_020_20251119_064106.json"
+    ]
+  }
+}

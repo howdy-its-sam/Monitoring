@@ -1,0 +1,44 @@
+{
+  "post": {
+    "id": "1p0rxqs",
+    "title": "Grad School Question",
+    "author": "Reasonable-Trash-107",
+    "score_history": [
+      [
+        1,
+        "2025-11-19T03:30:54.728916"
+      ],
+      [
+        1,
+        "2025-11-19T03:39:14.999503"
+      ],
+      [
+        1,
+        "2025-11-19T03:41:26.659896"
+      ]
+    ],
+    "created_utc": 1763509477.0,
+    "num_comments": 0,
+    "subreddit": "learnmachinelearning",
+    "url": "https://www.reddit.com/r/learnmachinelearning/comments/1p0rxqs/grad_school_question/",
+    "selftext": "Hey everyone,\n\nI’m a recent Business Analytics grad. Outside of a few basic stats and calc classes (only up to statistical inference and calc ii), I don’t have much of a technical math background.\n\nHowever, I dove deep into ML during the last couple years in undergrad. I took a bunch of classes that go into the technical aspects and I learned a lot of the math on the fly. I realize that’s not the same as having the actual coursework in math, but I know enough to understand what’s going on under the hood. Luckily, I was able to land a data science job at a pretty good company.\n\nMy question is this: is it worth it to get an MCIT-type degree? Some CS or DS degree to maybe teach me things like algorithms/linear algebra/optimization more in-depth. I am already at a company that does a ton of cool stuff, but right now I’m mostly working on smaller problems and data pipeline/quality type things. A lot of that is because it’s my first year, but I do want to progress. Also, if I want to change to a different job down the line, I’m not sure if 4 or howevermany years as a data scientist will hold up without a more technical background.\n\nMy other option is just to continue learning on the fly. I love watching videos and reading up on ML concepts and math. I think I can keep progressing my talents through that and work. I just don’t know if I should go all in and get a masters degree.\n\nAny opinions appreciated",
+    "permalink": "/r/learnmachinelearning/comments/1p0rxqs/grad_school_question/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:41:26.659896",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/learnmachinelearning/comments/1p0rxqs/grad_school_question/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_033054.json",
+      "scrape_002_20251119_033914.json",
+      "scrape_003_20251119_034126.json"
+    ]
+  }
+}

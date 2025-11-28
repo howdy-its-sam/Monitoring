@@ -1,0 +1,233 @@
+{
+  "post": {
+    "id": "1p19k4v",
+    "title": "Diffusion Models Explained Simply: How AI Transforms Random Noise Into Images",
+    "author": "Huge_Tea3259",
+    "score_history": [
+      [
+        1,
+        "2025-11-19T06:46:52.384728"
+      ],
+      [
+        1,
+        "2025-11-19T06:46:52.622737"
+      ],
+      [
+        1,
+        "2025-11-19T06:46:52.881446"
+      ],
+      [
+        1,
+        "2025-11-19T06:46:53.090333"
+      ],
+      [
+        1,
+        "2025-11-19T06:46:53.334446"
+      ],
+      [
+        1,
+        "2025-11-19T06:46:53.544712"
+      ],
+      [
+        1,
+        "2025-11-19T06:46:53.793579"
+      ],
+      [
+        1,
+        "2025-11-19T06:46:54.008269"
+      ],
+      [
+        1,
+        "2025-11-19T06:46:54.248050"
+      ],
+      [
+        1,
+        "2025-11-19T06:46:54.470172"
+      ],
+      [
+        1,
+        "2025-11-19T06:46:54.719973"
+      ],
+      [
+        1,
+        "2025-11-19T06:46:54.915439"
+      ],
+      [
+        1,
+        "2025-11-19T06:46:55.158117"
+      ],
+      [
+        1,
+        "2025-11-19T06:46:55.381741"
+      ],
+      [
+        1,
+        "2025-11-19T06:46:55.617838"
+      ],
+      [
+        1,
+        "2025-11-19T06:46:55.826225"
+      ],
+      [
+        1,
+        "2025-11-19T06:46:56.071915"
+      ],
+      [
+        1,
+        "2025-11-19T06:46:56.300053"
+      ],
+      [
+        1,
+        "2025-11-19T06:46:56.540672"
+      ],
+      [
+        1,
+        "2025-11-19T06:46:56.750540"
+      ]
+    ],
+    "created_utc": 1763563561.0,
+    "num_comments": 2,
+    "subreddit": "AI_Agents",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1p19k4v/diffusion_models_explained_simply_how_ai/",
+    "selftext": "What really happens when you ask an AI to “draw” an image?  \n  \nTurns out, it’s not a spark of digital genius—it’s a slow and patient process, starting with pure random noise, like the fuzz on an old TV. Diffusion models, the tech behind tools like Stable Diffusion and DALL-E, literally reverse that chaos one step at a time. With every pass, a bit more noise gets removed, and the image sharpens—until something brand new emerges, shaped entirely by your prompt.  \n  \nIt blew my mind to realize this isn’t just pattern-matching. These models are actually inventing details—using clever neural networks like U-Net, and compressing complex tasks to make it all even faster.  \n  \nThe Langoedge blog breaks it down with clarity you don’t often see in tech writing. It’s surprisingly fascinating, even if you’re not a developer.",
+    "permalink": "/r/AI_Agents/comments/1p19k4v/diffusion_models_explained_simply_how_ai/"
+  },
+  "comments": [
+    {
+      "id": "npoc3a7",
+      "parent_id": "t3_1p19k4v",
+      "author": "AutoModerator",
+      "text_history": [
+        [
+          "Thank you for your submission, for any questions regarding AI, please check out our wiki at https://www.reddit.com/r/ai_agents/wiki (this is currently in test and we are actively adding to the wiki)\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/AI_Agents) if you have any questions or concerns.*",
+          "2025-11-19T06:46:52.384728"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T06:46:52.384728"
+        ],
+        [
+          1,
+          "2025-11-19T06:46:52.622737"
+        ],
+        [
+          1,
+          "2025-11-19T06:46:52.881446"
+        ],
+        [
+          1,
+          "2025-11-19T06:46:53.090333"
+        ],
+        [
+          1,
+          "2025-11-19T06:46:53.334446"
+        ],
+        [
+          1,
+          "2025-11-19T06:46:53.544712"
+        ],
+        [
+          1,
+          "2025-11-19T06:46:53.793579"
+        ],
+        [
+          1,
+          "2025-11-19T06:46:54.008269"
+        ],
+        [
+          1,
+          "2025-11-19T06:46:54.248050"
+        ],
+        [
+          1,
+          "2025-11-19T06:46:54.470172"
+        ],
+        [
+          1,
+          "2025-11-19T06:46:54.719973"
+        ],
+        [
+          1,
+          "2025-11-19T06:46:54.915439"
+        ],
+        [
+          1,
+          "2025-11-19T06:46:55.158117"
+        ],
+        [
+          1,
+          "2025-11-19T06:46:55.381741"
+        ],
+        [
+          1,
+          "2025-11-19T06:46:55.617838"
+        ],
+        [
+          1,
+          "2025-11-19T06:46:55.826225"
+        ],
+        [
+          1,
+          "2025-11-19T06:46:56.071915"
+        ],
+        [
+          1,
+          "2025-11-19T06:46:56.300053"
+        ],
+        [
+          1,
+          "2025-11-19T06:46:56.540672"
+        ],
+        [
+          1,
+          "2025-11-19T06:46:56.750540"
+        ]
+      ],
+      "created_utc": 1763563561.0,
+      "depth": 0,
+      "permalink": "/r/AI_Agents/comments/1p19k4v/diffusion_models_explained_simply_how_ai/npoc3a7/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T06:46:56.750540",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/AI_Agents/comments/1p19k4v/diffusion_models_explained_simply_how_ai/",
+    "total_comments": 1,
+    "top_level_comments": 1,
+    "api_requests": 1,
+    "expected_comments": 2,
+    "coverage_percent": 50.0,
+    "merged_snapshot_count": 20,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_064652.json",
+      "scrape_002_20251119_064652.json",
+      "scrape_003_20251119_064652.json",
+      "scrape_004_20251119_064652.json",
+      "scrape_005_20251119_064653.json",
+      "scrape_006_20251119_064653.json",
+      "scrape_007_20251119_064653.json",
+      "scrape_008_20251119_064653.json",
+      "scrape_009_20251119_064654.json",
+      "scrape_010_20251119_064654.json",
+      "scrape_011_20251119_064654.json",
+      "scrape_012_20251119_064654.json",
+      "scrape_013_20251119_064654.json",
+      "scrape_014_20251119_064655.json",
+      "scrape_015_20251119_064655.json",
+      "scrape_016_20251119_064655.json",
+      "scrape_017_20251119_064655.json",
+      "scrape_018_20251119_064656.json",
+      "scrape_019_20251119_064656.json",
+      "scrape_020_20251119_064656.json"
+    ]
+  }
+}

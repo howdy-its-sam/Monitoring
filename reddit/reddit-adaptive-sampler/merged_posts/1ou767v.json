@@ -1,0 +1,360 @@
+{
+  "post": {
+    "id": "1ou767v",
+    "title": "how do you stop writing content that doesnt convert?",
+    "author": "Embarrassed-Cod-5140",
+    "score_history": [
+      [
+        3,
+        "2025-11-19T02:55:12.774905"
+      ],
+      [
+        3,
+        "2025-11-19T03:03:40.056293"
+      ],
+      [
+        3,
+        "2025-11-19T03:14:30.904837"
+      ]
+    ],
+    "created_utc": 1762860931.0,
+    "num_comments": 11,
+    "subreddit": "ContentMarketing",
+    "url": "https://www.reddit.com/r/ContentMarketing/comments/1ou767v/how_do_you_stop_writing_content_that_doesnt/",
+    "selftext": "this has been bugging me for months.\n\nim a freelance content marketer working with 2 saas clients. we publish like 2-3 blog posts per week, traffic looks fine (5k visits/month) but it doesnt move revenue. feels like were just creating content to fill a quota.\n\nboss keeps asking “wheres the roi” and honestly i dont have a good answer cause most of our content is top-of-funnel awareness stuff. like “what is \\[category\\]” posts that rank well but dont drive signups.\n\nive tried:\n\n· adding more ctas (didnt help)\n\n· making the content more product focused (hurts seo)\n\n· writing bottom-of-funnel content (nobody searches for it)\n\nstarting to think the problem is were spending too much time on content creation and not enough time on content distribution or conversion optimization.\n\nlike maybe the answer isnt write better content. maybe its write less content but promote it harder? or focus on the pieces that actually drive signups instead of chasing traffic?\n\ncurious how you guys handle this. do you measure content success by traffic or by conversions? and if conversions, how do you attribute them to specific pieces when the buyer journey is so messy?",
+    "permalink": "/r/ContentMarketing/comments/1ou767v/how_do_you_stop_writing_content_that_doesnt/"
+  },
+  "comments": [
+    {
+      "id": "no9npi1",
+      "parent_id": "t3_1ou767v",
+      "author": "OwnRutabaga1702",
+      "text_history": [
+        [
+          "Speaking from the POV of a founder here. Disclaimer first: I wasn't really the one who handled content marketing stuff of our team, I really just built a small team through a staffing agency, then this team was able to distribute the content we needed as well as track which ones actually worked.\n\nFrom what I've heard from my marketing team, what worked for us is to really be strategic about which content had the best potential to drive sign-ups and put energy into pushing that harder.\n\nFrom your example, my advice is to target the exact pain points of users further down the funnel. Say, instead of \"**what is \\[category\\]**\" -- create content around \"**how \\[specific feature\\] solves \\[specific problem\\]**\" and paired it with strong customer success stories and case studies.\n\nBest of luck, OP!",
+          "2025-11-19T02:55:12.774905"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-19T02:55:12.774905"
+        ],
+        [
+          2,
+          "2025-11-19T03:03:40.056293"
+        ],
+        [
+          2,
+          "2025-11-19T03:14:30.904837"
+        ]
+      ],
+      "created_utc": 1762862458.0,
+      "depth": 0,
+      "permalink": "/r/ContentMarketing/comments/1ou767v/how_do_you_stop_writing_content_that_doesnt/no9npi1/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "no9trj8",
+      "parent_id": "t3_1ou767v",
+      "author": "Hopelesz",
+      "text_history": [
+        [
+          "What product are you trying to sell, what content are you writing? Content on its own isnt bringing ROI unless you have ads running and pulling in millions of views.",
+          "2025-11-19T02:55:12.774905"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:55:12.774905"
+        ],
+        [
+          1,
+          "2025-11-19T03:03:40.056293"
+        ],
+        [
+          1,
+          "2025-11-19T03:14:30.904837"
+        ]
+      ],
+      "created_utc": 1762865198.0,
+      "depth": 0,
+      "permalink": "/r/ContentMarketing/comments/1ou767v/how_do_you_stop_writing_content_that_doesnt/no9trj8/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "no9zx91",
+      "parent_id": "t3_1ou767v",
+      "author": "Greedy-Credit-1943",
+      "text_history": [
+        [
+          "One quick thing you can try is linking your BOFU articles in TOFU (such as a callout box) in places where your readers are likely to see them. This way, you're not hurting SEO by over optimizing it with product mentions and also sending readers to those conversion optimized BOFU pieces.",
+          "2025-11-19T02:55:12.774905"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:55:12.774905"
+        ],
+        [
+          1,
+          "2025-11-19T03:03:40.056293"
+        ],
+        [
+          1,
+          "2025-11-19T03:14:30.904837"
+        ]
+      ],
+      "created_utc": 1762867600.0,
+      "depth": 0,
+      "permalink": "/r/ContentMarketing/comments/1ou767v/how_do_you_stop_writing_content_that_doesnt/no9zx91/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "noagi1m",
+      "parent_id": "t3_1ou767v",
+      "author": "espresom",
+      "text_history": [
+        [
+          "The last thing I did converted at 17%\n\n17% \n\n17 out of every 100 people who saw my offer purchased. \n\nNot some $7 ebook. \n\nIt was a $200 front end offer. \n\nYou’re wonder how I did it, or if I’m making this shit up.\n\nHere’s how I did it.\n\nI took my leads (yes leads) on a journey. \n\nI educated them on their problem…\n\nI dispelled common myths they held. \n\nThen promised a better way. \n\nThen I built rapport and triggered bonding, so they trust me. \n\nThen I deliver on my promise, and prove it works.\n\nI give them enough to move the needle A LITTLE so they get *some* results. \n\nThen I stack the social proof. \n\nIntroduce the core offer, then threaten to take it away.",
+          "2025-11-19T02:55:12.774905"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:55:12.774905"
+        ],
+        [
+          1,
+          "2025-11-19T03:03:40.056293"
+        ],
+        [
+          1,
+          "2025-11-19T03:14:30.904837"
+        ]
+      ],
+      "created_utc": 1762873368.0,
+      "depth": 0,
+      "permalink": "/r/ContentMarketing/comments/1ou767v/how_do_you_stop_writing_content_that_doesnt/noagi1m/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nob5kkq",
+      "parent_id": "t3_1ou767v",
+      "author": "ChocolateStatus5505",
+      "text_history": [
+        [
+          "Maybe write more content for the decision phase (case studies etc), also tell the sales they can use content to drive/reduce their sales cycle",
+          "2025-11-19T02:55:12.774905"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:55:12.774905"
+        ],
+        [
+          1,
+          "2025-11-19T03:03:40.056293"
+        ],
+        [
+          1,
+          "2025-11-19T03:14:30.904837"
+        ]
+      ],
+      "created_utc": 1762880802.0,
+      "depth": 0,
+      "permalink": "/r/ContentMarketing/comments/1ou767v/how_do_you_stop_writing_content_that_doesnt/nob5kkq/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nobpb9m",
+      "parent_id": "t3_1ou767v",
+      "author": "FRELNCER",
+      "text_history": [
+        [
+          "Just stop. No writing = no writing content that doesn't convert.",
+          "2025-11-19T02:55:12.774905"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:55:12.774905"
+        ],
+        [
+          1,
+          "2025-11-19T03:03:40.056293"
+        ],
+        [
+          1,
+          "2025-11-19T03:14:30.904837"
+        ]
+      ],
+      "created_utc": 1762886598.0,
+      "depth": 0,
+      "permalink": "/r/ContentMarketing/comments/1ou767v/how_do_you_stop_writing_content_that_doesnt/nobpb9m/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "noe2080",
+      "parent_id": "t3_1ou767v",
+      "author": "redditsportman",
+      "text_history": [
+        [
+          "dude i feel this so hard.\n\nim head of content at a b2b saas (50k arr) and we had the same problem for like a year. tons of traffic, zero conversions. ceo kept asking why were spending 10k/month on content if its not driving revenue.\n\nturns out the problem wasnt the content quality, it was the content mix. we were writing like 80% tofu (top of funnel) and 20% mofu/bofu (middle/bottom). because tofu is easier to rank for and gets more traffic.\n\nbut when we flipped it to 50/50, our signups actually went up even tho traffic went down slightly. because the people we were attracting were closer to buying.\n\nthe other thing that helped was repurposing our best performing content into more formats. like one high converting blog post became:\n\n· a linkedin article\n\n· a twitter thread\n\n· a youtube video script\n\n· an email sequence\n\nso instead of creating 10 mediocre pieces, we created 1 great piece and squeezed it for everything.\n\nfor the repurposing part i use telegram bots cause doing it manually was taking forever. like CRBVideotoCopy\\_bot to turn webinars into blog posts or CFLinkedinPostBot to adapt blogs for linkedin.\n\nnot gonna lie its still hard to attribute conversions to specific content. we use first touch and last touch attribution in hubspot but the data is messy cause people read like 5 pieces before signing up.\n\nthe best proxy ive found is track which content gets shared internally (like forwarded to the team) cause thats usually a buying signal. also track which pieces show up in “closed won” deal timelines.\n\nbut yeah tldr: less volume, more focus on mofu/bofu content + repurpose your winners into multiple formats.",
+          "2025-11-19T02:55:12.774905"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:55:12.774905"
+        ],
+        [
+          1,
+          "2025-11-19T03:03:40.056293"
+        ],
+        [
+          1,
+          "2025-11-19T03:14:30.904837"
+        ]
+      ],
+      "created_utc": 1762914327.0,
+      "depth": 0,
+      "permalink": "/r/ContentMarketing/comments/1ou767v/how_do_you_stop_writing_content_that_doesnt/noe2080/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nogeu4l",
+      "parent_id": "t3_1ou767v",
+      "author": "Sad-Review9121",
+      "text_history": [
+        [
+          "Without real web traffic there's no way you can progress on anything web related...",
+          "2025-11-19T02:55:12.774905"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:55:12.774905"
+        ],
+        [
+          1,
+          "2025-11-19T03:03:40.056293"
+        ],
+        [
+          1,
+          "2025-11-19T03:14:30.904837"
+        ]
+      ],
+      "created_utc": 1762955613.0,
+      "depth": 0,
+      "permalink": "/r/ContentMarketing/comments/1ou767v/how_do_you_stop_writing_content_that_doesnt/nogeu4l/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nomfe8k",
+      "parent_id": "t3_1ou767v",
+      "author": "Chicagoj1563",
+      "text_history": [
+        [
+          "I would consider tracking what you’re doing with analytics. See what is performing well and what is not. Look at content as experiments. Test out different things until you figure out your niche. \n\nBy figure out I mean learn what converts. Learn where your audience is at and how to get in front of them. What is the conversation in their head before they take the action you want them to? It’s a puzzle you are trying to figure out. You need to test , experiment , and track. \n\nDon’t just keep throwing out content without any idea of what actually sells.",
+          "2025-11-19T02:55:12.774905"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:55:12.774905"
+        ],
+        [
+          1,
+          "2025-11-19T03:03:40.056293"
+        ],
+        [
+          1,
+          "2025-11-19T03:14:30.904837"
+        ]
+      ],
+      "created_utc": 1763037597.0,
+      "depth": 0,
+      "permalink": "/r/ContentMarketing/comments/1ou767v/how_do_you_stop_writing_content_that_doesnt/nomfe8k/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:14:30.904837",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/ContentMarketing/comments/1ou767v/how_do_you_stop_writing_content_that_doesnt/",
+    "total_comments": 9,
+    "top_level_comments": 9,
+    "api_requests": 1,
+    "expected_comments": 11,
+    "coverage_percent": 81.82,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_025512.json",
+      "scrape_002_20251119_030339.json",
+      "scrape_003_20251119_031430.json"
+    ]
+  }
+}

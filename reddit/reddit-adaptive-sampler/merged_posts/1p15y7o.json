@@ -1,0 +1,44 @@
+{
+  "post": {
+    "id": "1p15y7o",
+    "title": "Polymarket predicts 67% Gemini 3 &gt; 40% on frontier math(T1-3)",
+    "author": "kaggleqrdl",
+    "score_history": [
+      [
+        1,
+        "2025-11-19T04:10:02.204335"
+      ],
+      [
+        1,
+        "2025-11-19T04:12:34.326109"
+      ],
+      [
+        0,
+        "2025-11-19T04:20:18.083359"
+      ]
+    ],
+    "created_utc": 1763554004.0,
+    "num_comments": 0,
+    "subreddit": "singularity",
+    "url": "https://www.reddit.com/r/singularity/comments/1p15y7o/polymarket_predicts_67_gemini_3_40_on_frontier/",
+    "selftext": "SOTA is 32.4 / GPT5 (better than GPT5.1)  \n\n\nhttps://preview.redd.it/oksoq8x4e72g1.png?width=710&amp;format=png&amp;auto=webp&amp;s=d02bf829e1ae8d08ccd2e0de2c647648433ed3aa\n\nSo far Polymarket has been pretty accurate with regards to Gemini 3.  It nailed HLE and did well on the release date.\n\nUnfortunately the rules don't state \"Gemini 3 DeepThink\" is included but that's poly for you.  My sense is that doubt probably adds another 5-10% to the market.  There is also a minor time issue involved and whether the tests will be done.\n\nIMHO, if Gemini 3 can get &gt; 35% that would be sufficient that things have advanced, though more incrementally. \n\n",
+    "permalink": "/r/singularity/comments/1p15y7o/polymarket_predicts_67_gemini_3_40_on_frontier/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T04:20:18.083359",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/singularity/comments/1p15y7o/polymarket_predicts_67_gemini_3_40_on_frontier/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_041002.json",
+      "scrape_002_20251119_041234.json",
+      "scrape_003_20251119_042017.json"
+    ]
+  }
+}

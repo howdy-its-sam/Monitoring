@@ -1,0 +1,601 @@
+{
+  "post": {
+    "id": "1nhnbn4",
+    "title": "Overwhelmed by the current AI landscape. Can we break down which AI is best for specific tasks?",
+    "author": "SmgOS_",
+    "score_history": [
+      [
+        28,
+        "2025-11-18T15:15:07.022601"
+      ],
+      [
+        28,
+        "2025-11-18T22:42:38.959368"
+      ],
+      [
+        29,
+        "2025-11-19T00:47:45.414063"
+      ],
+      [
+        29,
+        "2025-11-19T02:22:50.849468"
+      ]
+    ],
+    "created_utc": 1757946368.0,
+    "num_comments": 15,
+    "subreddit": "AutoGPT",
+    "url": "https://www.reddit.com/r/AutoGPT/comments/1nhnbn4/overwhelmed_by_the_current_ai_landscape_can_we/",
+    "selftext": "Hey everyone,\n\nI started exploring AI a few years back when the space was simpler (mostly just ChatGPT and Midjourney). Now, it feels like there's a new model every week, and it's gotten overwhelming.\n\nI've noticed that each AI has its own strengths. I'm hoping you can help me map it all out. **Basically, which AI should I use for what?**\n\n**My main questions are:**\n\n1. **Task Specialization:** Which AI is best for creative writing? For coding? For research and summarizing? For image generation?\n2. **Cost:** Which of these offer the best free tiers, and when is it worth paying for a subscription?\n\n**For context:** I've been using Gemini and DeepSeek and find them great for troubleshooting Linux and learning tech concepts. I have also used perprlexity for deep web research. I want to expand beyond that and use AI more effectively in other areas.\n\nI'd really appreciate your personal recommendations or if you could point me to any good, up-to-date review articles or YouTube videos that compare these tools.\n\n",
+    "permalink": "/r/AutoGPT/comments/1nhnbn4/overwhelmed_by_the_current_ai_landscape_can_we/"
+  },
+  "comments": [
+    {
+      "id": "nehfugh",
+      "parent_id": "t3_1nhnbn4",
+      "author": "sonimonish00",
+      "text_history": [
+        [
+          "**Assistant (General Purpose) :** ChatGPT (OpenAI)\n\n**Research :** Gemini (Google) | DeepSeek\n\n**Latest News/Social media :** Grok (Twitter) | Perplexity | Meta (FB)\n\n**Writing/Coding :**  Claude | Cursor | Replit | V0.dev | CoPilot | Bolt.new | Lovable.dev | Tempo.new | StackBlitz",
+          "2025-11-18T15:15:07.022601"
+        ]
+      ],
+      "score_history": [
+        [
+          7,
+          "2025-11-18T15:15:07.022601"
+        ],
+        [
+          7,
+          "2025-11-18T22:42:38.959368"
+        ],
+        [
+          6,
+          "2025-11-19T00:47:45.414063"
+        ],
+        [
+          6,
+          "2025-11-19T02:22:50.849468"
+        ]
+      ],
+      "created_utc": 1758005842.0,
+      "depth": 0,
+      "permalink": "/r/AutoGPT/comments/1nhnbn4/overwhelmed_by_the_current_ai_landscape_can_we/nehfugh/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "nei02lg",
+          "parent_id": "t1_nehfugh",
+          "author": "damonous",
+          "text_history": [
+            [
+              "You’re missing Codex in your list.  That’s the real OP right now.",
+              "2025-11-18T15:15:07.022601"
+            ]
+          ],
+          "score_history": [
+            [
+              3,
+              "2025-11-18T15:15:07.022601"
+            ],
+            [
+              3,
+              "2025-11-18T22:42:38.959368"
+            ],
+            [
+              3,
+              "2025-11-19T00:47:45.414063"
+            ],
+            [
+              3,
+              "2025-11-19T02:22:50.849468"
+            ]
+          ],
+          "created_utc": 1758018047.0,
+          "depth": 1,
+          "permalink": "/r/AutoGPT/comments/1nhnbn4/overwhelmed_by_the_current_ai_landscape_can_we/nei02lg/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        },
+        {
+          "id": "nhy4vs9",
+          "parent_id": "t1_nehfugh",
+          "author": "SmgOS_",
+          "text_history": [
+            [
+              "Thank you very much. Do you use subscription or run it for free?",
+              "2025-11-18T15:15:07.022601"
+            ]
+          ],
+          "score_history": [
+            [
+              2,
+              "2025-11-18T15:15:07.022601"
+            ],
+            [
+              2,
+              "2025-11-18T22:42:38.959368"
+            ],
+            [
+              2,
+              "2025-11-19T00:47:45.414063"
+            ],
+            [
+              2,
+              "2025-11-19T02:22:50.849468"
+            ]
+          ],
+          "created_utc": 1759693875.0,
+          "depth": 1,
+          "permalink": "/r/AutoGPT/comments/1nhnbn4/overwhelmed_by_the_current_ai_landscape_can_we/nhy4vs9/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "ni13ppy",
+              "parent_id": "t1_nhy4vs9",
+              "author": "sonimonish00",
+              "text_history": [
+                [
+                  "Free",
+                  "2025-11-18T15:15:07.022601"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-18T15:15:07.022601"
+                ],
+                [
+                  1,
+                  "2025-11-18T22:42:38.959368"
+                ],
+                [
+                  1,
+                  "2025-11-19T00:47:45.414063"
+                ],
+                [
+                  1,
+                  "2025-11-19T02:22:50.849468"
+                ]
+              ],
+              "created_utc": 1759735010.0,
+              "depth": 2,
+              "permalink": "/r/AutoGPT/comments/1nhnbn4/overwhelmed_by_the_current_ai_landscape_can_we/ni13ppy/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "nesrjuh",
+          "parent_id": "t1_nehfugh",
+          "author": "nemtudod",
+          "text_history": [
+            [
+              "News perplexity? You mean you read news on perplexity?",
+              "2025-11-18T15:15:07.022601"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T15:15:07.022601"
+            ],
+            [
+              1,
+              "2025-11-18T22:42:38.959368"
+            ],
+            [
+              1,
+              "2025-11-19T00:47:45.414063"
+            ],
+            [
+              1,
+              "2025-11-19T02:22:50.849468"
+            ]
+          ],
+          "created_utc": 1758153165.0,
+          "depth": 1,
+          "permalink": "/r/AutoGPT/comments/1nhnbn4/overwhelmed_by_the_current_ai_landscape_can_we/nesrjuh/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        },
+        {
+          "id": "nf63n0l",
+          "parent_id": "t1_nehfugh",
+          "author": "Cat_Psychology",
+          "text_history": [
+            [
+              "What do you mean perplexity for social media? Like in what way?",
+              "2025-11-18T15:15:07.022601"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T15:15:07.022601"
+            ],
+            [
+              1,
+              "2025-11-18T22:42:38.959368"
+            ],
+            [
+              1,
+              "2025-11-19T00:47:45.414063"
+            ],
+            [
+              1,
+              "2025-11-19T02:22:50.849468"
+            ]
+          ],
+          "created_utc": 1758329141.0,
+          "depth": 1,
+          "permalink": "/r/AutoGPT/comments/1nhnbn4/overwhelmed_by_the_current_ai_landscape_can_we/nf63n0l/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "necrgfq",
+      "parent_id": "t3_1nhnbn4",
+      "author": "TikkunCreation",
+      "text_history": [
+        [
+          "I’ve tried everything. I now just use ChatGPT for all use cases.",
+          "2025-11-18T15:15:07.022601"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-18T15:15:07.022601"
+        ],
+        [
+          2,
+          "2025-11-18T22:42:38.959368"
+        ],
+        [
+          2,
+          "2025-11-19T00:47:45.414063"
+        ],
+        [
+          2,
+          "2025-11-19T02:22:50.849468"
+        ]
+      ],
+      "created_utc": 1757947577.0,
+      "depth": 0,
+      "permalink": "/r/AutoGPT/comments/1nhnbn4/overwhelmed_by_the_current_ai_landscape_can_we/necrgfq/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "necu4je",
+          "parent_id": "t1_necrgfq",
+          "author": "SmgOS_",
+          "text_history": [
+            [
+              "Thanks for your input. DO you pay for it?",
+              "2025-11-18T15:15:07.022601"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T15:15:07.022601"
+            ],
+            [
+              1,
+              "2025-11-18T22:42:38.959368"
+            ],
+            [
+              1,
+              "2025-11-19T00:47:45.414063"
+            ],
+            [
+              1,
+              "2025-11-19T02:22:50.849468"
+            ]
+          ],
+          "created_utc": 1757948356.0,
+          "depth": 1,
+          "permalink": "/r/AutoGPT/comments/1nhnbn4/overwhelmed_by_the_current_ai_landscape_can_we/necu4je/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "ned03ye",
+              "parent_id": "t1_necu4je",
+              "author": "TikkunCreation",
+              "text_history": [
+                [
+                  "I do",
+                  "2025-11-18T15:15:07.022601"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-18T15:15:07.022601"
+                ],
+                [
+                  1,
+                  "2025-11-18T22:42:38.959368"
+                ],
+                [
+                  1,
+                  "2025-11-19T00:47:45.414063"
+                ],
+                [
+                  1,
+                  "2025-11-19T02:22:50.849468"
+                ]
+              ],
+              "created_utc": 1757950109.0,
+              "depth": 2,
+              "permalink": "/r/AutoGPT/comments/1nhnbn4/overwhelmed_by_the_current_ai_landscape_can_we/ned03ye/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "nioqqx9",
+          "parent_id": "t1_necrgfq",
+          "author": "Waste-Comparison-114",
+          "text_history": [
+            [
+              "It’s gotten so bad since this time last year.",
+              "2025-11-18T15:15:07.022601"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T15:15:07.022601"
+            ],
+            [
+              1,
+              "2025-11-18T22:42:38.959368"
+            ],
+            [
+              1,
+              "2025-11-19T00:47:45.414063"
+            ],
+            [
+              1,
+              "2025-11-19T02:22:50.849468"
+            ]
+          ],
+          "created_utc": 1760054434.0,
+          "depth": 1,
+          "permalink": "/r/AutoGPT/comments/1nhnbn4/overwhelmed_by_the_current_ai_landscape_can_we/nioqqx9/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "nenj43h",
+      "parent_id": "t3_1nhnbn4",
+      "author": "StaLucy",
+      "text_history": [
+        [
+          "For managing notes, tasks, calendar - [saner.ai](http://saner.ai) works best for me currently",
+          "2025-11-18T15:15:07.022601"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-18T15:15:07.022601"
+        ],
+        [
+          2,
+          "2025-11-18T22:42:38.959368"
+        ],
+        [
+          2,
+          "2025-11-19T00:47:45.414063"
+        ],
+        [
+          2,
+          "2025-11-19T02:22:50.849468"
+        ]
+      ],
+      "created_utc": 1758084621.0,
+      "depth": 0,
+      "permalink": "/r/AutoGPT/comments/1nhnbn4/overwhelmed_by_the_current_ai_landscape_can_we/nenj43h/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nejs6a4",
+      "parent_id": "t3_1nhnbn4",
+      "author": "RossPeili",
+      "text_history": [
+        [
+          "I use chatGPT since beta. It sucks the most. Only iphone/tesla users use it. Gemini by far the best these days for most, especially via API, and it's the lead in creating your digital twin slaves after you die. Extreme personalization and swift adjustments.",
+          "2025-11-18T15:15:07.022601"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T15:15:07.022601"
+        ],
+        [
+          1,
+          "2025-11-18T22:42:38.959368"
+        ],
+        [
+          1,
+          "2025-11-19T00:47:45.414063"
+        ],
+        [
+          1,
+          "2025-11-19T02:22:50.849468"
+        ]
+      ],
+      "created_utc": 1758039969.0,
+      "depth": 0,
+      "permalink": "/r/AutoGPT/comments/1nhnbn4/overwhelmed_by_the_current_ai_landscape_can_we/nejs6a4/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "ngwxgw5",
+      "parent_id": "t3_1nhnbn4",
+      "author": "JaponesaLatina",
+      "text_history": [
+        [
+          "Do you even have problems you want to solve once you identify “the best”? \n\nI highly recommend starting with stating the problems first - then go backwards. Learning how to use “the best” tools without having the problems to solve with, can easily consume your time…\n\nMy two cents :)",
+          "2025-11-18T15:15:07.022601"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T15:15:07.022601"
+        ],
+        [
+          1,
+          "2025-11-18T22:42:38.959368"
+        ],
+        [
+          1,
+          "2025-11-19T00:47:45.414063"
+        ],
+        [
+          1,
+          "2025-11-19T02:22:50.849468"
+        ]
+      ],
+      "created_utc": 1759187305.0,
+      "depth": 0,
+      "permalink": "/r/AutoGPT/comments/1nhnbn4/overwhelmed_by_the_current_ai_landscape_can_we/ngwxgw5/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "nhy4fxe",
+          "parent_id": "t1_ngwxgw5",
+          "author": "SmgOS_",
+          "text_history": [
+            [
+              "**I appreciate the 'start with the problem' advice, but I'm actually already doing that.** I gave examples of how I use Gemini for Linux troubleshooting and Perplexity for research. I'm looking to expand that.\n\nMy **actual problem** now is **information overload and minimizing cost.** I have a ton of issues I want to solve—like advanced coding and specific creative tasks—but I don't want to waste money testing every subscription.\n\nI'm asking the community for **consensus or current benchmarks** (e.g., 'Claude is consistently better than Gemini for pure coding,' or 'Midjourney is still untouchable for image quality'). I need advice on which tool excels where, so I can choose the right subscription for the specific problem at hand.",
+              "2025-11-18T15:15:07.022601"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T15:15:07.022601"
+            ],
+            [
+              1,
+              "2025-11-18T22:42:38.959368"
+            ],
+            [
+              1,
+              "2025-11-19T00:47:45.414063"
+            ],
+            [
+              1,
+              "2025-11-19T02:22:50.849468"
+            ]
+          ],
+          "created_utc": 1759693750.0,
+          "depth": 1,
+          "permalink": "/r/AutoGPT/comments/1nhnbn4/overwhelmed_by_the_current_ai_landscape_can_we/nhy4fxe/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T02:22:50.849468",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/AutoGPT/comments/1nhnbn4/overwhelmed_by_the_current_ai_landscape_can_we/",
+    "total_comments": 14,
+    "top_level_comments": 5,
+    "api_requests": 1,
+    "expected_comments": 15,
+    "coverage_percent": 93.33,
+    "merged_snapshot_count": 4,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_151506.json",
+      "scrape_002_20251118_224238.json",
+      "scrape_003_20251119_004745.json",
+      "scrape_004_20251119_022250.json"
+    ]
+  }
+}

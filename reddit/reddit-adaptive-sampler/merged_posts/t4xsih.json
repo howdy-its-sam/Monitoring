@@ -1,0 +1,80 @@
+{
+  "post": {
+    "id": "t4xsih",
+    "title": "The Artificial Intelligence Powered Healthcare Market",
+    "author": "cognihab",
+    "score_history": [
+      [
+        5,
+        "2025-11-19T02:34:57.074060"
+      ],
+      [
+        5,
+        "2025-11-19T02:44:20.877448"
+      ],
+      [
+        5,
+        "2025-11-19T02:52:19.020517"
+      ]
+    ],
+    "created_utc": 1646219062.0,
+    "num_comments": 2,
+    "subreddit": "HealthAI",
+    "url": "https://www.cognihab.com/blog/artificial-intelligence-healthcare-market/",
+    "selftext": "",
+    "permalink": "/r/HealthAI/comments/t4xsih/the_artificial_intelligence_powered_healthcare/"
+  },
+  "comments": [
+    {
+      "id": "iue092a",
+      "parent_id": "t3_t4xsih",
+      "author": "ITExp",
+      "text_history": [
+        [
+          "The increased implementation of IT in the healthcare sector is due to the growing desire to reduce healthcare costs and provide patients with higher-quality patient care services. Every day, a considerable amount of patient health data is generated, which must be adequately saved and handled. The increased need for customized medicines, as well as the need to keep digital health information, are fueling the artificial intelligence in healthcare industry.\r  \nInnovative technologies such as machine learning and artificial intelligence are now being integrated into healthcare systems, allowing health professionals to detect diseases earlier and provide better care to patients.\r  \nFurthermore, data analytics, deep learning technologies, natural language processing (NLP), predictive modeling, and content analytics aid healthcare workers in early diagnosis and care.",
+          "2025-11-19T02:34:57.074060"
+        ]
+      ],
+      "score_history": [
+        [
+          3,
+          "2025-11-19T02:34:57.074060"
+        ],
+        [
+          3,
+          "2025-11-19T02:44:20.877448"
+        ],
+        [
+          3,
+          "2025-11-19T02:52:19.020517"
+        ]
+      ],
+      "created_utc": 1667148512.0,
+      "depth": 0,
+      "permalink": "/r/HealthAI/comments/t4xsih/the_artificial_intelligence_powered_healthcare/iue092a/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T02:52:19.020517",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/HealthAI/comments/t4xsih/the_artificial_intelligence_powered_healthcare/",
+    "total_comments": 1,
+    "top_level_comments": 1,
+    "api_requests": 1,
+    "expected_comments": 2,
+    "coverage_percent": 50.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_023456.json",
+      "scrape_002_20251119_024420.json",
+      "scrape_003_20251119_025218.json"
+    ]
+  }
+}

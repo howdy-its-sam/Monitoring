@@ -1,0 +1,150 @@
+{
+  "post": {
+    "id": "1p0sr5e",
+    "title": "Reliably know when an agent has finished a task",
+    "author": "MafiaSkafia",
+    "score_history": [
+      [
+        1,
+        "2025-11-19T02:55:54.961508"
+      ],
+      [
+        1,
+        "2025-11-19T03:14:07.118552"
+      ],
+      [
+        1,
+        "2025-11-19T03:17:53.187926"
+      ]
+    ],
+    "created_utc": 1763511597.0,
+    "num_comments": 3,
+    "subreddit": "AI_Agents",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1p0sr5e/reliably_know_when_an_agent_has_finished_a_task/",
+    "selftext": "Hi all, I’m building an agentic workflow using the supervisor pattern. \nLet’s say that the supervisor hands off tasks to sub agents, which have different tools. The sub-agent, if succeed, will add an item to the context available to the supervisor. \n\nI’m having trouble to, reliably, make the agent know when a task from a sub-agent is finalised, so that it doesn’t end up having an infinite conversation between the supervisor asking the same task to the same sub-agent. This problem happens even with a small context size.\n\nI’ve tried some prompt engineering on the supervisor side, as in, asking it to go through the context to see if there is an item that satisfies the current task, before making any subsequent sub-agent calls. But this seems to not work… \n\nI’d like to know if you guys have had any success or strategies in dealing with this seemingly trivial problem😅 Thanks!\n",
+    "permalink": "/r/AI_Agents/comments/1p0sr5e/reliably_know_when_an_agent_has_finished_a_task/"
+  },
+  "comments": [
+    {
+      "id": "npl501u",
+      "parent_id": "t3_1p0sr5e",
+      "author": "AutoModerator",
+      "text_history": [
+        [
+          "Thank you for your submission, for any questions regarding AI, please check out our wiki at https://www.reddit.com/r/ai_agents/wiki (this is currently in test and we are actively adding to the wiki)\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/AI_Agents) if you have any questions or concerns.*",
+          "2025-11-19T02:55:54.961508"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:55:54.961508"
+        ],
+        [
+          1,
+          "2025-11-19T03:14:07.118552"
+        ],
+        [
+          1,
+          "2025-11-19T03:17:53.187926"
+        ]
+      ],
+      "created_utc": 1763511597.0,
+      "depth": 0,
+      "permalink": "/r/AI_Agents/comments/1p0sr5e/reliably_know_when_an_agent_has_finished_a_task/npl501u/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npl6hdn",
+      "parent_id": "t3_1p0sr5e",
+      "author": "ai-agents-qa-bot",
+      "text_history": [
+        [
+          "- To ensure that an agent knows when a task from a sub-agent is finalized, consider implementing a clear decision-making mechanism within your workflow. This can involve:\n  - **State Management**: Use a structured approach to track the status of tasks. Maintain a list of completed tasks and their outcomes, which the supervisor can reference before assigning new tasks.\n  - **Conditional Logic**: Implement conditions that check if a task has been completed based on the context. If the context contains relevant information that satisfies the task, the supervisor should refrain from reassigning it.\n  - **Feedback Loop**: Create a feedback mechanism where sub-agents can explicitly signal task completion back to the supervisor. This could be a simple acknowledgment or a more detailed report on the task's outcome.\n  - **Timeouts or Limits**: Set limits on how many times a task can be reassigned or how long the supervisor should wait for a response before considering it complete or moving on.\n\n- Additionally, refining your prompt engineering can help. Instead of asking the supervisor to check the context, you might:\n  - Directly instruct it to look for specific indicators of task completion in the context.\n  - Use more explicit language in the prompts to clarify what constitutes a completed task.\n\nFor further insights on agent orchestration and decision-making, you might find this resource helpful: [AI agent orchestration with OpenAI Agents SDK](https://tinyurl.com/3axssjh3).",
+          "2025-11-19T02:55:54.961508"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:55:54.961508"
+        ],
+        [
+          1,
+          "2025-11-19T03:14:07.118552"
+        ],
+        [
+          1,
+          "2025-11-19T03:17:53.187926"
+        ]
+      ],
+      "created_utc": 1763512117.0,
+      "depth": 0,
+      "permalink": "/r/AI_Agents/comments/1p0sr5e/reliably_know_when_an_agent_has_finished_a_task/npl6hdn/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npl89aa",
+      "parent_id": "t3_1p0sr5e",
+      "author": "Altruistic_Leek6283",
+      "text_history": [
+        [
+          "This is a recipe for stress, bro. If you want a system that actually works, you need a real pipeline first — with RAG, external state, and deterministic execution. Change the heuristic of your agent. The LLM is not the brain of your pipeline. The LLM decides, it doesn’t orchestrate. The orchestration is your job, not the model’s. Build structure first, then let the agent act inside it.",
+          "2025-11-19T02:55:54.961508"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:55:54.961508"
+        ],
+        [
+          1,
+          "2025-11-19T03:14:07.118552"
+        ],
+        [
+          1,
+          "2025-11-19T03:17:53.187926"
+        ]
+      ],
+      "created_utc": 1763512737.0,
+      "depth": 0,
+      "permalink": "/r/AI_Agents/comments/1p0sr5e/reliably_know_when_an_agent_has_finished_a_task/npl89aa/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:17:53.187926",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/AI_Agents/comments/1p0sr5e/reliably_know_when_an_agent_has_finished_a_task/",
+    "total_comments": 3,
+    "top_level_comments": 3,
+    "api_requests": 1,
+    "expected_comments": 3,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_025554.json",
+      "scrape_002_20251119_031406.json",
+      "scrape_003_20251119_031752.json"
+    ]
+  }
+}

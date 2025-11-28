@@ -1,0 +1,80 @@
+{
+  "post": {
+    "id": "19dunaj",
+    "title": "Thoughts MA in Computational linguistics and Language Technology at UZH?",
+    "author": "Curious-papillon",
+    "score_history": [
+      [
+        2,
+        "2025-11-19T03:18:04.031229"
+      ],
+      [
+        2,
+        "2025-11-19T03:25:39.167740"
+      ],
+      [
+        2,
+        "2025-11-19T03:27:14.980263"
+      ]
+    ],
+    "created_utc": 1706033223.0,
+    "num_comments": 1,
+    "subreddit": "compling",
+    "url": "/r/UZH/comments/19achfm/thoughts_ma_in_computational_linguistics_and/",
+    "selftext": "",
+    "permalink": "/r/compling/comments/19dunaj/thoughts_ma_in_computational_linguistics_and/"
+  },
+  "comments": [
+    {
+      "id": "kjjopw8",
+      "parent_id": "t3_19dunaj",
+      "author": "oja9f9w",
+      "text_history": [
+        [
+          "There is no state in our union with the abbreviation ZH. This is a fake school.",
+          "2025-11-19T03:18:04.031229"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T03:18:04.031229"
+        ],
+        [
+          1,
+          "2025-11-19T03:25:39.167740"
+        ],
+        [
+          1,
+          "2025-11-19T03:27:14.980263"
+        ]
+      ],
+      "created_utc": 1706210662.0,
+      "depth": 0,
+      "permalink": "/r/compling/comments/19dunaj/thoughts_ma_in_computational_linguistics_and/kjjopw8/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:27:14.980263",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/compling/comments/19dunaj/thoughts_ma_in_computational_linguistics_and/",
+    "total_comments": 1,
+    "top_level_comments": 1,
+    "api_requests": 1,
+    "expected_comments": 1,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_031803.json",
+      "scrape_002_20251119_032538.json",
+      "scrape_003_20251119_032714.json"
+    ]
+  }
+}

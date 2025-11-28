@@ -1,0 +1,609 @@
+{
+  "post": {
+    "id": "1p08t33",
+    "title": "You’ve Reached Maximum Length for this Conversation - Do Pro Users get this?",
+    "author": "PracticalProtocol",
+    "score_history": [
+      [
+        3,
+        "2025-11-19T03:19:49.778083"
+      ],
+      [
+        3,
+        "2025-11-19T03:25:40.657401"
+      ],
+      [
+        3,
+        "2025-11-19T03:27:11.328938"
+      ]
+    ],
+    "created_utc": 1763462864.0,
+    "num_comments": 16,
+    "subreddit": "ChatGPTPro",
+    "url": "https://www.reddit.com/r/ChatGPTPro/comments/1p08t33/youve_reached_maximum_length_for_this/",
+    "selftext": "I’m a Plus subscriber right now and I hit the “Maximum Length for this Conversation” alert more often than I should. I try to proactively branch threads to prevent this, but it seems like whenever I plan to do that, something is up with OpenAIs servers and branching is all messed up. I currently have probably 20 fragmented branched threads in my project folder that say “conversation not found” when I try to type in them cos the branch was unsuccessful and I can’t even delete the defunct thread. So that’s fun!\n\nSo I’m wondering, the $200/month users, what perks do you guys get? Do you guys get like unlimited chat length by chance lol. I’m not even sure what my limit is, I usually run 4o and I notice when I generate images in a thread I hit the max chat cap WAY faster than when I don’t. ",
+    "permalink": "/r/ChatGPTPro/comments/1p08t33/youve_reached_maximum_length_for_this/"
+  },
+  "comments": [
+    {
+      "id": "nph0bmz",
+      "parent_id": "t3_1p08t33",
+      "author": "qualityvote2",
+      "text_history": [
+        [
+          "Hello u/PracticalProtocol 👋 Welcome to r/ChatGPTPro!  \nThis is a community for advanced ChatGPT, AI tools, and prompt engineering discussions.  \nOther members will now vote on whether your post fits our community guidelines.\n\n\n---\n\nFor other users, does this post fit the subreddit?\n\nIf so, **upvote this comment!**\n\nOtherwise, **downvote this comment!**\n\nAnd if it does break the rules, **downvote this comment and report this post!**",
+          "2025-11-19T03:19:49.778083"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T03:19:49.778083"
+        ],
+        [
+          1,
+          "2025-11-19T03:25:40.657401"
+        ],
+        [
+          1,
+          "2025-11-19T03:27:11.328938"
+        ]
+      ],
+      "created_utc": 1763462866.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTPro/comments/1p08t33/youve_reached_maximum_length_for_this/nph0bmz/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nph1olz",
+      "parent_id": "t3_1p08t33",
+      "author": "Ok-Calendar8486",
+      "text_history": [
+        [
+          "Back when I had pro I would hit the Max limit a few times I was doing extensive writing I ended up getting to know the signs of nearing length like slower response the model forgetting things or going funny.\nThreads have a limit on all the teirs\n\nGranted though I saw reports last week I think when openai was playing around that people would hit Max on threads extremely early so a big or something, unsure if that's fixed though as I use API mainly now",
+          "2025-11-19T03:19:49.778083"
+        ]
+      ],
+      "score_history": [
+        [
+          3,
+          "2025-11-19T03:19:49.778083"
+        ],
+        [
+          3,
+          "2025-11-19T03:25:40.657401"
+        ],
+        [
+          3,
+          "2025-11-19T03:27:11.328938"
+        ]
+      ],
+      "created_utc": 1763463645.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTPro/comments/1p08t33/youve_reached_maximum_length_for_this/nph1olz/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "nph236e",
+          "parent_id": "t1_nph1olz",
+          "author": "PracticalProtocol",
+          "text_history": [
+            [
+              "Oh yeah last week was nuts. I branched a thread cos branching was actually working and i got one message in and hit the Maximum Length Chat, happened on 3 branched threads within 2-3 messages. I’m glad that glitch got sorted out but now the branching is effed again. Can’t win. \n\nI was just curious if anyone knew the exact limits you get Plus vs Pro for chart length/tokens.",
+              "2025-11-19T03:19:49.778083"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-19T03:19:49.778083"
+            ],
+            [
+              1,
+              "2025-11-19T03:25:40.657401"
+            ],
+            [
+              1,
+              "2025-11-19T03:27:11.328938"
+            ]
+          ],
+          "created_utc": 1763463877.0,
+          "depth": 1,
+          "permalink": "/r/ChatGPTPro/comments/1p08t33/youve_reached_maximum_length_for_this/nph236e/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "nph2ark",
+              "parent_id": "t1_nph236e",
+              "author": "Ok-Calendar8486",
+              "text_history": [
+                [
+                  "I don't know on message number itself but token limits are 8k free, 16k on go, 32k on plus and 128k on pro",
+                  "2025-11-19T03:19:49.778083"
+                ]
+              ],
+              "score_history": [
+                [
+                  2,
+                  "2025-11-19T03:19:49.778083"
+                ],
+                [
+                  2,
+                  "2025-11-19T03:25:40.657401"
+                ],
+                [
+                  2,
+                  "2025-11-19T03:27:11.328938"
+                ]
+              ],
+              "created_utc": 1763463998.0,
+              "depth": 2,
+              "permalink": "/r/ChatGPTPro/comments/1p08t33/youve_reached_maximum_length_for_this/nph2ark/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            },
+            {
+              "id": "nph2h42",
+              "parent_id": "t1_nph236e",
+              "author": "PartialLobectomy",
+              "text_history": [
+                [
+                  "Yeah, the branching can be really hit or miss. The limits seem to vary based on usage, but it’s frustrating when you’re trying to keep a flow and get hit with those max alerts. Have you tried breaking your threads into smaller topics? Sometimes that helps bypass the limit issues.",
+                  "2025-11-19T03:19:49.778083"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-19T03:19:49.778083"
+                ],
+                [
+                  1,
+                  "2025-11-19T03:25:40.657401"
+                ],
+                [
+                  1,
+                  "2025-11-19T03:27:11.328938"
+                ]
+              ],
+              "created_utc": 1763464098.0,
+              "depth": 2,
+              "permalink": "/r/ChatGPTPro/comments/1p08t33/youve_reached_maximum_length_for_this/nph2h42/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": [
+                {
+                  "id": "nph2zwq",
+                  "parent_id": "t1_nph2h42",
+                  "author": "PracticalProtocol",
+                  "text_history": [
+                    [
+                      "Yeah I try to do that whenever I’m generating images I’ll just open a whole new thread just for that or if I have a one off question. But I have a long standing project I’ve been working on so I’ve branched over time and that’s been helpful but I’m just getting itchy cos I know this thread is starting to get longer not seeing the warning signs yet but I’m having zero luck branching and I’m getting worried about it locking me out. I’ve heard that gpt can’t even access from threads once they’re locked even if they’re in a project folder.",
+                      "2025-11-19T03:19:49.778083"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      1,
+                      "2025-11-19T03:19:49.778083"
+                    ],
+                    [
+                      1,
+                      "2025-11-19T03:25:40.657401"
+                    ],
+                    [
+                      1,
+                      "2025-11-19T03:27:11.328938"
+                    ]
+                  ],
+                  "created_utc": 1763464391.0,
+                  "depth": 3,
+                  "permalink": "/r/ChatGPTPro/comments/1p08t33/youve_reached_maximum_length_for_this/nph2zwq/",
+                  "is_submitter": true,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "nph0krs",
+      "parent_id": "t3_1p08t33",
+      "author": "AdDry7344",
+      "text_history": [
+        [
+          "You just open a new chat, that’s normal in every tier.",
+          "2025-11-19T03:19:49.778083"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T03:19:49.778083"
+        ],
+        [
+          1,
+          "2025-11-19T03:25:40.657401"
+        ],
+        [
+          1,
+          "2025-11-19T03:27:11.328938"
+        ]
+      ],
+      "created_utc": 1763463010.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTPro/comments/1p08t33/youve_reached_maximum_length_for_this/nph0krs/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nphbptz",
+      "parent_id": "t3_1p08t33",
+      "author": "etherd0t",
+      "text_history": [
+        [
+          "yes, it does - keep folder/projects an have memory enabled. There is no subscription tier with “unlimited conversation length”.\n\nmoreover, images explode the internal token footprint of a thread; even branching itself was reported buggy as of late 2025;",
+          "2025-11-19T03:19:49.778083"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T03:19:49.778083"
+        ],
+        [
+          1,
+          "2025-11-19T03:25:40.657401"
+        ],
+        [
+          1,
+          "2025-11-19T03:27:11.328938"
+        ]
+      ],
+      "created_utc": 1763468548.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTPro/comments/1p08t33/youve_reached_maximum_length_for_this/nphbptz/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npihkdp",
+      "parent_id": "t3_1p08t33",
+      "author": "Hawk-432",
+      "text_history": [
+        [
+          "Yes we do. Edit: but it might be the our conversation is longer before this. I don’t know.",
+          "2025-11-19T03:19:49.778083"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T03:19:49.778083"
+        ],
+        [
+          1,
+          "2025-11-19T03:25:40.657401"
+        ],
+        [
+          1,
+          "2025-11-19T03:27:11.328938"
+        ]
+      ],
+      "created_utc": 1763482295.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTPro/comments/1p08t33/youve_reached_maximum_length_for_this/npihkdp/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npk4l1v",
+      "parent_id": "t3_1p08t33",
+      "author": "BrokerGuy10",
+      "text_history": [
+        [
+          "Yes. All the time.",
+          "2025-11-19T03:19:49.778083"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T03:19:49.778083"
+        ],
+        [
+          1,
+          "2025-11-19T03:25:40.657401"
+        ],
+        [
+          1,
+          "2025-11-19T03:27:11.328938"
+        ]
+      ],
+      "created_utc": 1763499701.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTPro/comments/1p08t33/youve_reached_maximum_length_for_this/npk4l1v/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npk4nzf",
+          "parent_id": "t1_npk4l1v",
+          "author": "BrokerGuy10",
+          "text_history": [
+            [
+              "Yes I pay $200/month",
+              "2025-11-19T03:19:49.778083"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-19T03:19:49.778083"
+            ],
+            [
+              1,
+              "2025-11-19T03:25:40.657401"
+            ],
+            [
+              1,
+              "2025-11-19T03:27:11.328938"
+            ]
+          ],
+          "created_utc": 1763499725.0,
+          "depth": 1,
+          "permalink": "/r/ChatGPTPro/comments/1p08t33/youve_reached_maximum_length_for_this/npk4nzf/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npk56oh",
+      "parent_id": "t3_1p08t33",
+      "author": "BrokerGuy10",
+      "text_history": [
+        [
+          "Perks, let’s see. We hear that line once every four days instead of twice a day. We can have gpt attack us, agree with us on everything, sarcastically crack jokes about our young children (under the age of 7) and worse. However, we pay it our robotics we’d be freed up",
+          "2025-11-19T03:19:49.778083"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T03:19:49.778083"
+        ],
+        [
+          1,
+          "2025-11-19T03:25:40.657401"
+        ],
+        [
+          1,
+          "2025-11-19T03:27:11.328938"
+        ]
+      ],
+      "created_utc": 1763499880.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTPro/comments/1p08t33/youve_reached_maximum_length_for_this/npk56oh/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npkgddr",
+      "parent_id": "t3_1p08t33",
+      "author": "FreshRadish2957",
+      "text_history": [
+        [
+          "Branching actually copies the entire conversation history, token footprint and all. So if the thread is already heavy, branching just drags all that weight into a “new” chat and people hit the cap instantly. A lot of users branch because they think ChatGPT will forget everything unless they keep everything inside one project thread.\n\nBut with 5.1’s memory you don’t need to micromanage it like that. I barely branch anymore unless I’m testing something separate, because memory already carries over what matters. Keeping prompts clean and threads focused ends up being way more efficient. That’s probably why I don’t run into the token limits people talk about.",
+          "2025-11-19T03:19:49.778083"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T03:19:49.778083"
+        ],
+        [
+          1,
+          "2025-11-19T03:25:40.657401"
+        ],
+        [
+          1,
+          "2025-11-19T03:27:11.328938"
+        ]
+      ],
+      "created_utc": 1763503220.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTPro/comments/1p08t33/youve_reached_maximum_length_for_this/npkgddr/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npkgm9d",
+      "parent_id": "t3_1p08t33",
+      "author": "FreshRadish2957",
+      "text_history": [
+        [
+          "Branching isn’t a fresh chat. It copies the entire thread, so you carry all the old token weight with you. If you want a real reset, start a new chat.",
+          "2025-11-19T03:19:49.778083"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T03:19:49.778083"
+        ],
+        [
+          1,
+          "2025-11-19T03:25:40.657401"
+        ],
+        [
+          1,
+          "2025-11-19T03:27:11.328938"
+        ]
+      ],
+      "created_utc": 1763503297.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTPro/comments/1p08t33/youve_reached_maximum_length_for_this/npkgm9d/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npmevca",
+      "parent_id": "t3_1p08t33",
+      "author": "RenegadeMaster111",
+      "text_history": [
+        [
+          "Yes, pro users get this, but they’re token limitation is much much more so conversation lengths are much longer before you get that message",
+          "2025-11-19T03:19:49.778083"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T03:19:49.778083"
+        ],
+        [
+          1,
+          "2025-11-19T03:25:40.657401"
+        ],
+        [
+          1,
+          "2025-11-19T03:27:11.328938"
+        ]
+      ],
+      "created_utc": 1763529069.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTPro/comments/1p08t33/youve_reached_maximum_length_for_this/npmevca/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npmwwcj",
+      "parent_id": "t3_1p08t33",
+      "author": "stockpreacher",
+      "text_history": [
+        [
+          "Business not pro but no.",
+          "2025-11-19T03:19:49.778083"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T03:19:49.778083"
+        ],
+        [
+          1,
+          "2025-11-19T03:25:40.657401"
+        ],
+        [
+          1,
+          "2025-11-19T03:27:11.328938"
+        ]
+      ],
+      "created_utc": 1763538850.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTPro/comments/1p08t33/youve_reached_maximum_length_for_this/npmwwcj/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:27:11.328938",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/ChatGPTPro/comments/1p08t33/youve_reached_maximum_length_for_this/",
+    "total_comments": 16,
+    "top_level_comments": 11,
+    "api_requests": 1,
+    "expected_comments": 16,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_031949.json",
+      "scrape_002_20251119_032540.json",
+      "scrape_003_20251119_032711.json"
+    ]
+  }
+}

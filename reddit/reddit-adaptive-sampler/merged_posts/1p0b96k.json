@@ -1,0 +1,207 @@
+{
+  "post": {
+    "id": "1p0b96k",
+    "title": "[P] PapersWithCode's new open-source alternative: OpenCodePapers",
+    "author": "kepoinerse",
+    "score_history": [
+      [
+        51,
+        "2025-11-18T13:04:06.371052"
+      ],
+      [
+        53,
+        "2025-11-18T13:48:33.047657"
+      ],
+      [
+        55,
+        "2025-11-18T13:59:51.012197"
+      ],
+      [
+        55,
+        "2025-11-18T14:10:55.820079"
+      ]
+    ],
+    "created_utc": 1763470717.0,
+    "num_comments": 6,
+    "subreddit": "MachineLearning",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1p0b96k/p_paperswithcodes_new_opensource_alternative/",
+    "selftext": "Since the original website is down for a while now, and it was really useful for my work, I decided to re-implement it.  \nBut this time, completely as open-source project.\n\nI have focused on the core functionality (benchmarks with paper-code-links), and took over most of the original data.  \nBut to keep the benchmarks up to date, help from the community is required.  \nTherefore I've focused on making the addition/updates of entries almost as simple as in *PwC*.\n\nYou currently can find the website here: [https://opencodepapers-b7572d.gitlab.io/](https://opencodepapers-b7572d.gitlab.io/)  \nAnd the corresponding source-code here: [https://gitlab.com/OpenCodePapers/OpenCodePapers](https://gitlab.com/OpenCodePapers/OpenCodePapers)\n\nI now would like to invite you to contribute to this project, by adding new results or improving the codebase.",
+    "permalink": "/r/MachineLearning/comments/1p0b96k/p_paperswithcodes_new_opensource_alternative/"
+  },
+  "comments": [
+    {
+      "id": "nphx2s0",
+      "parent_id": "t3_1p0b96k",
+      "author": "wild_thunder",
+      "text_history": [
+        [
+          "I like it! Id suggest that you get a proper domain for it.",
+          "2025-11-18T13:04:06.371052"
+        ]
+      ],
+      "score_history": [
+        [
+          6,
+          "2025-11-18T13:04:06.371052"
+        ],
+        [
+          6,
+          "2025-11-18T13:48:33.047657"
+        ],
+        [
+          5,
+          "2025-11-18T13:59:51.012197"
+        ],
+        [
+          7,
+          "2025-11-18T14:10:55.820079"
+        ]
+      ],
+      "created_utc": 1763476032.0,
+      "depth": 0,
+      "permalink": "/r/MachineLearning/comments/1p0b96k/p_paperswithcodes_new_opensource_alternative/nphx2s0/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nphhh37",
+      "parent_id": "t3_1p0b96k",
+      "author": "kepoinerse",
+      "text_history": [
+        [
+          "I already tried to post this here a few weeks ago, but at that time it was autoremoved...",
+          "2025-11-18T13:04:06.371052"
+        ]
+      ],
+      "score_history": [
+        [
+          4,
+          "2025-11-18T13:04:06.371052"
+        ],
+        [
+          4,
+          "2025-11-18T13:48:33.047657"
+        ],
+        [
+          4,
+          "2025-11-18T13:59:51.012197"
+        ],
+        [
+          5,
+          "2025-11-18T14:10:55.820079"
+        ]
+      ],
+      "created_utc": 1763470887.0,
+      "depth": 0,
+      "permalink": "/r/MachineLearning/comments/1p0b96k/p_paperswithcodes_new_opensource_alternative/nphhh37/",
+      "is_submitter": true,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "nphhtjs",
+          "parent_id": "t1_nphhh37",
+          "author": "kepoinerse",
+          "text_history": [
+            [
+              "It seems, now that the r/computervision community liked the project, I'm allowed to post it here for the rest of the ML community as well...",
+              "2025-11-18T13:04:06.371052"
+            ]
+          ],
+          "score_history": [
+            [
+              7,
+              "2025-11-18T13:04:06.371052"
+            ],
+            [
+              6,
+              "2025-11-18T13:48:33.047657"
+            ],
+            [
+              5,
+              "2025-11-18T13:59:51.012197"
+            ],
+            [
+              5,
+              "2025-11-18T14:10:55.820079"
+            ]
+          ],
+          "created_utc": 1763471021.0,
+          "depth": 1,
+          "permalink": "/r/MachineLearning/comments/1p0b96k/p_paperswithcodes_new_opensource_alternative/nphhtjs/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npjcwoh",
+      "parent_id": "t3_1p0b96k",
+      "author": "HansDelbrook",
+      "text_history": [
+        [
+          "This might not be the feedback you were expecting - but I love the way that all tasks are just an open list of folders. The old PapersWithCode had a sorting system that was nonsense at times.",
+          "2025-11-18T13:04:06.371052"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T13:04:06.371052"
+        ],
+        [
+          2,
+          "2025-11-18T13:48:33.047657"
+        ],
+        [
+          2,
+          "2025-11-18T13:59:51.012197"
+        ],
+        [
+          2,
+          "2025-11-18T14:10:55.820079"
+        ]
+      ],
+      "created_utc": 1763491418.0,
+      "depth": 0,
+      "permalink": "/r/MachineLearning/comments/1p0b96k/p_paperswithcodes_new_opensource_alternative/npjcwoh/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-18T14:10:55.820079",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/MachineLearning/comments/1p0b96k/p_paperswithcodes_new_opensource_alternative/",
+    "total_comments": 4,
+    "top_level_comments": 3,
+    "api_requests": 1,
+    "expected_comments": 6,
+    "coverage_percent": 66.67,
+    "merged_snapshot_count": 4,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_130405.json",
+      "scrape_002_20251118_134832.json",
+      "scrape_003_20251118_135950.json",
+      "scrape_004_20251118_141055.json"
+    ]
+  }
+}

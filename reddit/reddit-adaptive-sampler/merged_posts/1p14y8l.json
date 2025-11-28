@@ -1,0 +1,141 @@
+{
+  "post": {
+    "id": "1p14y8l",
+    "title": "Need help and tips",
+    "author": "Shadow_Mind785",
+    "score_history": [
+      [
+        1,
+        "2025-11-19T04:01:49.511614"
+      ],
+      [
+        1,
+        "2025-11-19T04:03:11.002819"
+      ],
+      [
+        1,
+        "2025-11-19T04:10:01.282817"
+      ],
+      [
+        1,
+        "2025-11-19T04:12:33.392994"
+      ],
+      [
+        1,
+        "2025-11-19T04:21:22.920043"
+      ]
+    ],
+    "created_utc": 1763550929.0,
+    "num_comments": 2,
+    "subreddit": "AI_Agents",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1p14y8l/need_help_and_tips/",
+    "selftext": "Hey, so the past couple of months, I have been building these automations, and I'm really passionate about it. I am trying really hard. I want to start a business, and I'm looking to get some experience with helping people out with my AI systems.\n\nDo you guys know anyone who might be interested in AI or might benefit from having a chat with me?\n\n",
+    "permalink": "/r/AI_Agents/comments/1p14y8l/need_help_and_tips/"
+  },
+  "comments": [
+    {
+      "id": "npngric",
+      "parent_id": "t3_1p14y8l",
+      "author": "AutoModerator",
+      "text_history": [
+        [
+          "Thank you for your submission, for any questions regarding AI, please check out our wiki at https://www.reddit.com/r/ai_agents/wiki (this is currently in test and we are actively adding to the wiki)\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/AI_Agents) if you have any questions or concerns.*",
+          "2025-11-19T04:01:49.511614"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T04:01:49.511614"
+        ],
+        [
+          1,
+          "2025-11-19T04:03:11.002819"
+        ],
+        [
+          1,
+          "2025-11-19T04:10:01.282817"
+        ],
+        [
+          1,
+          "2025-11-19T04:12:33.392994"
+        ],
+        [
+          1,
+          "2025-11-19T04:21:22.920043"
+        ]
+      ],
+      "created_utc": 1763550929.0,
+      "depth": 0,
+      "permalink": "/r/AI_Agents/comments/1p14y8l/need_help_and_tips/npngric/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npnhreg",
+      "parent_id": "t3_1p14y8l",
+      "author": "ai-agents-qa-bot",
+      "text_history": [
+        [
+          "- You might want to connect with local startups or small businesses that are exploring AI solutions. They often look for innovative ways to automate processes.\n- Consider joining online communities or forums focused on AI and automation, where you can share your expertise and find potential collaborators or clients.\n- Networking events or meetups related to technology and entrepreneurship can also be great places to meet people interested in AI.\n- You could offer free consultations or workshops to showcase your skills and attract interest in your services.\n\nIf you're looking for specific resources or platforms to connect with others, you might find helpful insights in articles like [TAO: Using test-time compute to train efficient LLMs without labeled data](https://tinyurl.com/32dwym9h) or [Building an Agentic Workflow: Orchestrating a Multi-Step Software Engineering Interview](https://tinyurl.com/yc43ks8z).",
+          "2025-11-19T04:01:49.511614"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T04:01:49.511614"
+        ],
+        [
+          1,
+          "2025-11-19T04:03:11.002819"
+        ],
+        [
+          1,
+          "2025-11-19T04:10:01.282817"
+        ],
+        [
+          1,
+          "2025-11-19T04:12:33.392994"
+        ],
+        [
+          1,
+          "2025-11-19T04:21:22.920043"
+        ]
+      ],
+      "created_utc": 1763551471.0,
+      "depth": 0,
+      "permalink": "/r/AI_Agents/comments/1p14y8l/need_help_and_tips/npnhreg/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T04:21:22.920043",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/AI_Agents/comments/1p14y8l/need_help_and_tips/",
+    "total_comments": 2,
+    "top_level_comments": 2,
+    "api_requests": 1,
+    "expected_comments": 2,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 5,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_040149.json",
+      "scrape_002_20251119_040310.json",
+      "scrape_003_20251119_041001.json",
+      "scrape_004_20251119_041233.json",
+      "scrape_005_20251119_042122.json"
+    ]
+  }
+}

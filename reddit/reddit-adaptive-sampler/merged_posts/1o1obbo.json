@@ -1,0 +1,202 @@
+{
+  "post": {
+    "id": "1o1obbo",
+    "title": "What’s the outlook for AutoGPT as a platform?",
+    "author": "sensitivehack",
+    "score_history": [
+      [
+        1,
+        "2025-11-18T13:49:45.720122"
+      ],
+      [
+        1,
+        "2025-11-18T14:00:44.435632"
+      ],
+      [
+        1,
+        "2025-11-18T14:12:13.718950"
+      ],
+      [
+        1,
+        "2025-11-18T21:49:50.221786"
+      ],
+      [
+        1,
+        "2025-11-18T23:54:49.619367"
+      ],
+      [
+        1,
+        "2025-11-19T01:40:01.244554"
+      ]
+    ],
+    "created_utc": 1759959886.0,
+    "num_comments": 3,
+    "subreddit": "AutoGPT",
+    "url": "https://www.reddit.com/r/AutoGPT/comments/1o1obbo/whats_the_outlook_for_autogpt_as_a_platform/",
+    "selftext": "I’m just getting my feet wet exploring AI agents and I came across AutoGPT. I’m on the waitlist but in the meantime I tried to get it set up running locally. I’ve run into a couple gotchas, including a command that seems to be outdated in the documentation and suddenly I’m wondering… is this actually kind of a dying project? Are people moving to other platforms? Or is it the opposite, and I’m just a little early and  they’re still figuring stuff out? (And maybe I’m just getting snagged on dumb stuff because my skills aren’t deep enough?)",
+    "permalink": "/r/AutoGPT/comments/1o1obbo/whats_the_outlook_for_autogpt_as_a_platform/"
+  },
+  "comments": [
+    {
+      "id": "nii6yfc",
+      "parent_id": "t3_1o1obbo",
+      "author": "StrikeLines",
+      "text_history": [
+        [
+          "Dying.",
+          "2025-11-18T13:49:45.720122"
+        ]
+      ],
+      "score_history": [
+        [
+          3,
+          "2025-11-18T13:49:45.720122"
+        ],
+        [
+          3,
+          "2025-11-18T14:00:44.435632"
+        ],
+        [
+          3,
+          "2025-11-18T14:12:13.718950"
+        ],
+        [
+          3,
+          "2025-11-18T21:49:50.221786"
+        ],
+        [
+          3,
+          "2025-11-18T23:54:49.619367"
+        ],
+        [
+          3,
+          "2025-11-19T01:40:01.244554"
+        ]
+      ],
+      "created_utc": 1759964079.0,
+      "depth": 0,
+      "permalink": "/r/AutoGPT/comments/1o1obbo/whats_the_outlook_for_autogpt_as_a_platform/nii6yfc/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nl1d83j",
+      "parent_id": "t3_1o1obbo",
+      "author": "ntindle",
+      "text_history": [
+        [
+          "We aren’t dying! What command did you run into issues with? We’re a small team and sometimes miss updating things.",
+          "2025-11-18T13:49:45.720122"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T13:49:45.720122"
+        ],
+        [
+          1,
+          "2025-11-18T14:00:44.435632"
+        ],
+        [
+          1,
+          "2025-11-18T14:12:13.718950"
+        ],
+        [
+          1,
+          "2025-11-18T21:49:50.221786"
+        ],
+        [
+          1,
+          "2025-11-18T23:54:49.619367"
+        ],
+        [
+          1,
+          "2025-11-19T01:40:01.244554"
+        ]
+      ],
+      "created_utc": 1761258428.0,
+      "depth": 0,
+      "permalink": "/r/AutoGPT/comments/1o1obbo/whats_the_outlook_for_autogpt_as_a_platform/nl1d83j/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "nluiuev",
+          "parent_id": "t1_nl1d83j",
+          "author": "sensitivehack",
+          "text_history": [
+            [
+              "No worries, totally get it!\n\nI don't remember the exact command... possibly \\`pnpm generate:api\\`... Whatever it was, I figured it out, I think the command name was just slightly off. \n\nI was walking through this set up tutorial: [https://docs.agpt.co/platform/getting-started/#development](https://docs.agpt.co/platform/getting-started/#development)\n\nFor context, I was using Ubuntu through Windows subsystem.",
+              "2025-11-18T13:49:45.720122"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T13:49:45.720122"
+            ],
+            [
+              1,
+              "2025-11-18T14:00:44.435632"
+            ],
+            [
+              1,
+              "2025-11-18T14:12:13.718950"
+            ],
+            [
+              1,
+              "2025-11-18T21:49:50.221786"
+            ],
+            [
+              1,
+              "2025-11-18T23:54:49.619367"
+            ],
+            [
+              1,
+              "2025-11-19T01:40:01.244554"
+            ]
+          ],
+          "created_utc": 1761666959.0,
+          "depth": 1,
+          "permalink": "/r/AutoGPT/comments/1o1obbo/whats_the_outlook_for_autogpt_as_a_platform/nluiuev/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T01:40:01.244554",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/AutoGPT/comments/1o1obbo/whats_the_outlook_for_autogpt_as_a_platform/",
+    "total_comments": 3,
+    "top_level_comments": 2,
+    "api_requests": 1,
+    "expected_comments": 3,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 6,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_134945.json",
+      "scrape_002_20251118_140044.json",
+      "scrape_003_20251118_141213.json",
+      "scrape_004_20251118_214949.json",
+      "scrape_005_20251118_235449.json",
+      "scrape_006_20251119_014001.json"
+    ]
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "post": {
+    "id": "1p0lqqk",
+    "title": "What real problems are you running into with AI this week",
+    "author": "FreshRadish2957",
+    "score_history": [
+      [
+        1,
+        "2025-11-18T13:49:01.147412"
+      ],
+      [
+        1,
+        "2025-11-18T14:00:13.726534"
+      ],
+      [
+        1,
+        "2025-11-18T14:12:04.900137"
+      ],
+      [
+        2,
+        "2025-11-18T21:49:54.947183"
+      ],
+      [
+        2,
+        "2025-11-18T23:33:17.140411"
+      ],
+      [
+        2,
+        "2025-11-19T01:18:43.059362"
+      ],
+      [
+        2,
+        "2025-11-19T02:22:48.641697"
+      ],
+      [
+        2,
+        "2025-11-19T02:34:21.585344"
+      ]
+    ],
+    "created_utc": 1763494977.0,
+    "num_comments": 2,
+    "subreddit": "PromptEngineering",
+    "url": "https://www.reddit.com/r/PromptEngineering/comments/1p0lqqk/what_real_problems_are_you_running_into_with_ai/",
+    "selftext": "I’ve been helping a few people fix messy prompts and broken outputs lately and it reminded me how many issues are the same under the surface. Thought it would be useful to run a quick community check.\n\nIf you keep running into a specific problem, drop it in the comments.\nDrift, wrong tone, bad summaries, fragile instructions, whatever it is.\n\nI’ll reply with a clear fix or a small prompt adjustment that solves it.\nNo bs. Just straight answers that make your outputs cleaner.\n\nIf enough people find this useful I’ll turn the common problems into a compact guide so others can use it too.",
+    "permalink": "/r/PromptEngineering/comments/1p0lqqk/what_real_problems_are_you_running_into_with_ai/"
+  },
+  "comments": [
+    {
+      "id": "npn1cgu",
+      "parent_id": "t3_1p0lqqk",
+      "author": "Tall-Region8329",
+      "text_history": [
+        [
+          "Thanks man. But mine’s already good😭🙏🏻",
+          "2025-11-19T01:18:43.059362"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T01:18:43.059362"
+        ],
+        [
+          2,
+          "2025-11-19T02:22:48.641697"
+        ],
+        [
+          2,
+          "2025-11-19T02:34:21.585344"
+        ]
+      ],
+      "created_utc": 1763541590.0,
+      "depth": 0,
+      "permalink": "/r/PromptEngineering/comments/1p0lqqk/what_real_problems_are_you_running_into_with_ai/npn1cgu/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nplgp6d",
+      "parent_id": "t3_1p0lqqk",
+      "author": "TheOdbball",
+      "text_history": [
+        [
+          "Proving my folder infrastructure is stronger than 80% of what’s on the market. Tough cookies.",
+          "2025-11-18T21:49:54.947183"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T21:49:54.947183"
+        ],
+        [
+          1,
+          "2025-11-18T23:33:17.140411"
+        ],
+        [
+          1,
+          "2025-11-19T01:18:43.059362"
+        ],
+        [
+          1,
+          "2025-11-19T02:22:48.641697"
+        ],
+        [
+          1,
+          "2025-11-19T02:34:21.585344"
+        ]
+      ],
+      "created_utc": 1763515765.0,
+      "depth": 0,
+      "permalink": "/r/PromptEngineering/comments/1p0lqqk/what_real_problems_are_you_running_into_with_ai/nplgp6d/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T02:34:21.585344",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/PromptEngineering/comments/1p0lqqk/what_real_problems_are_you_running_into_with_ai/",
+    "total_comments": 2,
+    "top_level_comments": 2,
+    "api_requests": 1,
+    "expected_comments": 2,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 8,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_134900.json",
+      "scrape_002_20251118_140013.json",
+      "scrape_003_20251118_141204.json",
+      "scrape_004_20251118_214954.json",
+      "scrape_005_20251118_233316.json",
+      "scrape_006_20251119_011842.json",
+      "scrape_007_20251119_022248.json",
+      "scrape_008_20251119_023421.json"
+    ]
+  }
+}

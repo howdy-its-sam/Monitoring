@@ -1,0 +1,141 @@
+{
+  "post": {
+    "id": "1byq3ct",
+    "title": "Georgetown grad decisions?",
+    "author": "goodkarma97",
+    "score_history": [
+      [
+        5,
+        "2025-11-18T13:04:01.388113"
+      ],
+      [
+        5,
+        "2025-11-18T13:15:53.624689"
+      ],
+      [
+        3,
+        "2025-11-18T13:48:28.996950"
+      ],
+      [
+        3,
+        "2025-11-18T13:59:38.683895"
+      ],
+      [
+        4,
+        "2025-11-18T14:10:55.513730"
+      ]
+    ],
+    "created_utc": 1712554487.0,
+    "num_comments": 2,
+    "subreddit": "compling",
+    "url": "https://www.reddit.com/r/compling/comments/1byq3ct/georgetown_grad_decisions/",
+    "selftext": "Hey y’all - I applied for a masters in comp Ling at Georgetown for fall 2024- application due date was Jan 15, and I still haven’t heard back (as of April 8). Has anyone else heard back/ gotten in already?",
+    "permalink": "/r/compling/comments/1byq3ct/georgetown_grad_decisions/"
+  },
+  "comments": [
+    {
+      "id": "kzdqrlg",
+      "parent_id": "t3_1byq3ct",
+      "author": "goodkarma97",
+      "text_history": [
+        [
+          "help its 4/13, still haven't heard back!! deadline for accepting decisions is 4/15 wtf",
+          "2025-11-18T13:04:01.388113"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-18T13:04:01.388113"
+        ],
+        [
+          2,
+          "2025-11-18T13:15:53.624689"
+        ],
+        [
+          2,
+          "2025-11-18T13:48:28.996950"
+        ],
+        [
+          2,
+          "2025-11-18T13:59:38.683895"
+        ],
+        [
+          2,
+          "2025-11-18T14:10:55.513730"
+        ]
+      ],
+      "created_utc": 1713015508.0,
+      "depth": 0,
+      "permalink": "/r/compling/comments/1byq3ct/georgetown_grad_decisions/kzdqrlg/",
+      "is_submitter": true,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "ml50ikz",
+      "parent_id": "t3_1byq3ct",
+      "author": "LokWunduniik",
+      "text_history": [
+        [
+          "May I ask if you received an email notification at the end? I am facing the same problem this year :(",
+          "2025-11-18T13:04:01.388113"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-18T13:04:01.388113"
+        ],
+        [
+          2,
+          "2025-11-18T13:15:53.624689"
+        ],
+        [
+          2,
+          "2025-11-18T13:48:28.996950"
+        ],
+        [
+          2,
+          "2025-11-18T13:59:38.683895"
+        ],
+        [
+          2,
+          "2025-11-18T14:10:55.513730"
+        ]
+      ],
+      "created_utc": 1743648823.0,
+      "depth": 0,
+      "permalink": "/r/compling/comments/1byq3ct/georgetown_grad_decisions/ml50ikz/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-18T14:10:55.513730",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/compling/comments/1byq3ct/georgetown_grad_decisions/",
+    "total_comments": 2,
+    "top_level_comments": 2,
+    "api_requests": 1,
+    "expected_comments": 2,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 5,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_130401.json",
+      "scrape_002_20251118_131553.json",
+      "scrape_003_20251118_134828.json",
+      "scrape_004_20251118_135938.json",
+      "scrape_005_20251118_141055.json"
+    ]
+  }
+}

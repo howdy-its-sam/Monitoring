@@ -1,0 +1,49 @@
+{
+  "post": {
+    "id": "1p09x7t",
+    "title": "Anyone here joined TikTok Creator/Explore Program from outside the US? Need advice!",
+    "author": "7zz7i",
+    "score_history": [
+      [
+        3,
+        "2025-11-18T14:53:57.937071"
+      ],
+      [
+        3,
+        "2025-11-18T15:04:13.365873"
+      ],
+      [
+        3,
+        "2025-11-18T15:07:22.666741"
+      ],
+      [
+        3,
+        "2025-11-18T22:51:44.510276"
+      ]
+    ],
+    "created_utc": 1763466735.0,
+    "num_comments": 0,
+    "subreddit": "marketing",
+    "url": "https://www.reddit.com/r/marketing/comments/1p09x7t/anyone_here_joined_tiktok_creatorexplore_program/",
+    "selftext": "Hey everyone,\nI’m trying to join the TikTok Explore/Creator program, but I’m not from the US. Most of my audience is in the US though, so I’m wondering what the best approach is.\n\nShould I:\n\t•\tCreate my TikTok account as if I’m based in the US?\n\t•\tPay for a US phone number?\n\t•\tUse a VPN?",
+    "permalink": "/r/marketing/comments/1p09x7t/anyone_here_joined_tiktok_creatorexplore_program/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-18T22:51:44.510276",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/marketing/comments/1p09x7t/anyone_here_joined_tiktok_creatorexplore_program/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 4,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_145357.json",
+      "scrape_002_20251118_150413.json",
+      "scrape_003_20251118_150722.json",
+      "scrape_004_20251118_225144.json"
+    ]
+  }
+}

@@ -1,0 +1,3711 @@
+{
+  "post": {
+    "id": "1p0jc6e",
+    "title": "Gemini 3 Pro Hallucination Rate Vs. Gemini 2.5 Pro",
+    "author": "YakFull8300",
+    "score_history": [
+      [
+        121,
+        "2025-11-18T14:45:24.539781"
+      ],
+      [
+        125,
+        "2025-11-18T14:53:13.672386"
+      ],
+      [
+        130,
+        "2025-11-18T14:53:42.555970"
+      ],
+      [
+        255,
+        "2025-11-18T22:32:19.492985"
+      ],
+      [
+        269,
+        "2025-11-19T00:16:15.928751"
+      ],
+      [
+        293,
+        "2025-11-19T01:51:04.045867"
+      ],
+      [
+        295,
+        "2025-11-19T02:32:51.118935"
+      ],
+      [
+        297,
+        "2025-11-19T02:36:25.993610"
+      ]
+    ],
+    "created_utc": 1763489611.0,
+    "num_comments": 73,
+    "subreddit": "singularity",
+    "url": "https://i.redd.it/nsl9gaa0422g1.png",
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1p0jc6e/gemini_3_pro_hallucination_rate_vs_gemini_25_pro/"
+  },
+  "comments": [
+    {
+      "id": "npjjz0c",
+      "parent_id": "t3_1p0jc6e",
+      "author": "Medical-Clerk6773",
+      "text_history": [
+        [
+          "With Gemini 2.5 Pro, the biggest issue wasn't so much that it hallucinated (which it did), but that it was so stubborn and confident in its hallucinations that it was impossible to correct, so a bad hallucination basically corrupted that entire chat and forced you to start a new one. I haven't tried Gemini 3, I hope they've fixed the stubbornness issue.",
+          "2025-11-18T14:45:24.539781"
+        ]
+      ],
+      "score_history": [
+        [
+          31,
+          "2025-11-18T14:45:24.539781"
+        ],
+        [
+          32,
+          "2025-11-18T14:53:13.672386"
+        ],
+        [
+          32,
+          "2025-11-18T14:53:42.555970"
+        ],
+        [
+          87,
+          "2025-11-18T22:32:19.492985"
+        ],
+        [
+          95,
+          "2025-11-19T00:16:15.928751"
+        ],
+        [
+          101,
+          "2025-11-19T01:51:04.045867"
+        ],
+        [
+          106,
+          "2025-11-19T02:32:51.118935"
+        ],
+        [
+          106,
+          "2025-11-19T02:36:25.993610"
+        ]
+      ],
+      "created_utc": 1763493489.0,
+      "depth": 0,
+      "permalink": "/r/singularity/comments/1p0jc6e/gemini_3_pro_hallucination_rate_vs_gemini_25_pro/npjjz0c/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npk41ec",
+          "parent_id": "t1_npjjz0c",
+          "author": "Dear-Yak2162",
+          "text_history": [
+            [
+              "I just saw a thread by andrej karpathy where he said something similar happened with gem3 today - it wouldn’t believe it was 2025 even after he sent screenshots of articles and Google searches etc. it just kept insisting he was testing him and lying.\n\nIt’s funny I essentially pick my models based on how little it does the things that REALLY piss me off, even if it’s worse in some areas. The above being the top thing that pisses me off (why I avoid Gemini), and the second thing being adding / changing code I didn’t ask for (why I avoid Claude).",
+              "2025-11-18T14:45:24.539781"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T14:45:24.539781"
+            ],
+            [
+              1,
+              "2025-11-18T14:53:13.672386"
+            ],
+            [
+              1,
+              "2025-11-18T14:53:42.555970"
+            ],
+            [
+              24,
+              "2025-11-18T22:32:19.492985"
+            ],
+            [
+              24,
+              "2025-11-19T00:16:15.928751"
+            ],
+            [
+              28,
+              "2025-11-19T01:51:04.045867"
+            ],
+            [
+              27,
+              "2025-11-19T02:32:51.118935"
+            ],
+            [
+              28,
+              "2025-11-19T02:36:25.993610"
+            ]
+          ],
+          "created_utc": 1763499539.0,
+          "depth": 1,
+          "permalink": "/r/singularity/comments/1p0jc6e/gemini_3_pro_hallucination_rate_vs_gemini_25_pro/npk41ec/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        },
+        {
+          "id": "npllzsx",
+          "parent_id": "t1_npjjz0c",
+          "author": "NyaCat1333",
+          "text_history": [
+            [
+              "That is by far the most annoying thing. Had my worst experiences out of any LLM with 2.5 pro because how ultra confidently wrong it was and just straight up tried to gaslight me multiple times after I kept showing it proof how wrong it is. \n\nI just use it for everyday stuff so this kind of thing is very important to me. I could care less about all the coding stuff.",
+              "2025-11-18T22:32:19.492985"
+            ]
+          ],
+          "score_history": [
+            [
+              8,
+              "2025-11-18T22:32:19.492985"
+            ],
+            [
+              7,
+              "2025-11-19T00:16:15.928751"
+            ],
+            [
+              8,
+              "2025-11-19T01:51:04.045867"
+            ],
+            [
+              8,
+              "2025-11-19T02:32:51.118935"
+            ],
+            [
+              7,
+              "2025-11-19T02:36:25.993610"
+            ]
+          ],
+          "created_utc": 1763517663.0,
+          "depth": 1,
+          "permalink": "/r/singularity/comments/1p0jc6e/gemini_3_pro_hallucination_rate_vs_gemini_25_pro/npllzsx/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npmtkog",
+              "parent_id": "t1_npllzsx",
+              "author": "allesfliesst",
+              "text_history": [
+                [
+                  "I thought Google's model routinely skipping the actual web search after 'simulating search results' was almost infuriating. Hope this is better now, haven't tested it nearly enough with actual work yet.",
+                  "2025-11-19T00:16:15.928751"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-19T00:16:15.928751"
+                ],
+                [
+                  1,
+                  "2025-11-19T01:51:04.045867"
+                ],
+                [
+                  1,
+                  "2025-11-19T02:32:51.118935"
+                ],
+                [
+                  1,
+                  "2025-11-19T02:36:25.993610"
+                ]
+              ],
+              "created_utc": 1763536852.0,
+              "depth": 2,
+              "permalink": "/r/singularity/comments/1p0jc6e/gemini_3_pro_hallucination_rate_vs_gemini_25_pro/npmtkog/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            },
+            {
+              "id": "npm78zk",
+              "parent_id": "t1_npllzsx",
+              "author": "NotReallyJohnDoe",
+              "text_history": [
+                [
+                  "Why would you waste time trying to prove you are right?  That seems pointless",
+                  "2025-11-18T22:32:19.492985"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-18T22:32:19.492985"
+                ],
+                [
+                  0,
+                  "2025-11-19T00:16:15.928751"
+                ],
+                [
+                  1,
+                  "2025-11-19T01:51:04.045867"
+                ],
+                [
+                  1,
+                  "2025-11-19T02:32:51.118935"
+                ],
+                [
+                  1,
+                  "2025-11-19T02:36:25.993610"
+                ]
+              ],
+              "created_utc": 1763525659.0,
+              "depth": 2,
+              "permalink": "/r/singularity/comments/1p0jc6e/gemini_3_pro_hallucination_rate_vs_gemini_25_pro/npm78zk/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": [
+                {
+                  "id": "npmfr1i",
+                  "parent_id": "t1_npm78zk",
+                  "author": "One_Statistician_739",
+                  "text_history": [
+                    [
+                      "to establish something that is required to go on to the next step",
+                      "2025-11-18T22:32:19.492985"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      1,
+                      "2025-11-18T22:32:19.492985"
+                    ],
+                    [
+                      3,
+                      "2025-11-19T00:16:15.928751"
+                    ],
+                    [
+                      4,
+                      "2025-11-19T01:51:04.045867"
+                    ],
+                    [
+                      4,
+                      "2025-11-19T02:32:51.118935"
+                    ],
+                    [
+                      5,
+                      "2025-11-19T02:36:25.993610"
+                    ]
+                  ],
+                  "created_utc": 1763529483.0,
+                  "depth": 3,
+                  "permalink": "/r/singularity/comments/1p0jc6e/gemini_3_pro_hallucination_rate_vs_gemini_25_pro/npmfr1i/",
+                  "is_submitter": false,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "npl8ppx",
+          "parent_id": "t1_npjjz0c",
+          "author": "buhnux",
+          "text_history": [
+            [
+              "If you cuss at it, it seems to help...",
+              "2025-11-18T22:32:19.492985"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T22:32:19.492985"
+            ],
+            [
+              1,
+              "2025-11-19T00:16:15.928751"
+            ],
+            [
+              1,
+              "2025-11-19T01:51:04.045867"
+            ],
+            [
+              1,
+              "2025-11-19T02:32:51.118935"
+            ],
+            [
+              1,
+              "2025-11-19T02:36:25.993610"
+            ]
+          ],
+          "created_utc": 1763512893.0,
+          "depth": 1,
+          "permalink": "/r/singularity/comments/1p0jc6e/gemini_3_pro_hallucination_rate_vs_gemini_25_pro/npl8ppx/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npmjuja",
+              "parent_id": "t1_npl8ppx",
+              "author": "Creative-Scholar-241",
+              "text_history": [
+                [
+                  "perfect grok behavior",
+                  "2025-11-18T22:32:19.492985"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-18T22:32:19.492985"
+                ],
+                [
+                  1,
+                  "2025-11-19T00:16:15.928751"
+                ],
+                [
+                  2,
+                  "2025-11-19T01:51:04.045867"
+                ],
+                [
+                  2,
+                  "2025-11-19T02:32:51.118935"
+                ],
+                [
+                  2,
+                  "2025-11-19T02:36:25.993610"
+                ]
+              ],
+              "created_utc": 1763531495.0,
+              "depth": 2,
+              "permalink": "/r/singularity/comments/1p0jc6e/gemini_3_pro_hallucination_rate_vs_gemini_25_pro/npmjuja/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "npmbwhl",
+          "parent_id": "t1_npjjz0c",
+          "author": "Tolopono",
+          "text_history": [
+            [
+              "So the exact opposite issue of glazing anything the user says",
+              "2025-11-18T22:32:19.492985"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T22:32:19.492985"
+            ],
+            [
+              1,
+              "2025-11-19T00:16:15.928751"
+            ],
+            [
+              1,
+              "2025-11-19T01:51:04.045867"
+            ],
+            [
+              1,
+              "2025-11-19T02:32:51.118935"
+            ],
+            [
+              1,
+              "2025-11-19T02:36:25.993610"
+            ]
+          ],
+          "created_utc": 1763527703.0,
+          "depth": 1,
+          "permalink": "/r/singularity/comments/1p0jc6e/gemini_3_pro_hallucination_rate_vs_gemini_25_pro/npmbwhl/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        },
+        {
+          "id": "nplpipe",
+          "parent_id": "t1_npjjz0c",
+          "author": "lolmycat",
+          "text_history": [
+            [
+              "100%.  We developed an internal hallucination detection system that won’t work on Gemini because it’s so reliable in its wrong answers (other LLMs produce varied answers more often to same prompt when the answer is bad).  With Gemini, it becomes cost prohibitive to get that variability between requests.",
+              "2025-11-18T22:32:19.492985"
+            ]
+          ],
+          "score_history": [
+            [
+              2,
+              "2025-11-18T22:32:19.492985"
+            ],
+            [
+              2,
+              "2025-11-19T00:16:15.928751"
+            ],
+            [
+              1,
+              "2025-11-19T01:51:04.045867"
+            ],
+            [
+              1,
+              "2025-11-19T02:32:51.118935"
+            ],
+            [
+              1,
+              "2025-11-19T02:36:25.993610"
+            ]
+          ],
+          "created_utc": 1763518911.0,
+          "depth": 1,
+          "permalink": "/r/singularity/comments/1p0jc6e/gemini_3_pro_hallucination_rate_vs_gemini_25_pro/nplpipe/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npj7y1m",
+      "parent_id": "t3_1p0jc6e",
+      "author": "bobcatgoldthwait",
+      "text_history": [
+        [
+          "I'm a little confused.  \"the proportion of wrong answers out of all non-correct attempts\".  What's the difference between a \"wrong answer\" and a \"non-correct attempt\"?",
+          "2025-11-18T14:45:24.539781"
+        ]
+      ],
+      "score_history": [
+        [
+          8,
+          "2025-11-18T14:45:24.539781"
+        ],
+        [
+          6,
+          "2025-11-18T14:53:13.672386"
+        ],
+        [
+          10,
+          "2025-11-18T14:53:42.555970"
+        ],
+        [
+          25,
+          "2025-11-18T22:32:19.492985"
+        ],
+        [
+          26,
+          "2025-11-19T00:16:15.928751"
+        ],
+        [
+          29,
+          "2025-11-19T01:51:04.045867"
+        ],
+        [
+          28,
+          "2025-11-19T02:32:51.118935"
+        ],
+        [
+          28,
+          "2025-11-19T02:36:25.993610"
+        ]
+      ],
+      "created_utc": 1763489998.0,
+      "depth": 0,
+      "permalink": "/r/singularity/comments/1p0jc6e/gemini_3_pro_hallucination_rate_vs_gemini_25_pro/npj7y1m/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npj9g5n",
+          "parent_id": "t1_npj7y1m",
+          "author": "FateOfMuffins",
+          "text_history": [
+            [
+              "\"When it should have refused\"\n\ni.e. confidently stating an incorrect answer when it doesn't have a correct answer\n\n\nLately with 5.1 for example, I've had it respond with questions asking me for clarification or telling me it cannot find the answer for some queries, rather than make one up",
+              "2025-11-18T14:45:24.539781"
+            ]
+          ],
+          "score_history": [
+            [
+              13,
+              "2025-11-18T14:45:24.539781"
+            ],
+            [
+              12,
+              "2025-11-18T14:53:13.672386"
+            ],
+            [
+              14,
+              "2025-11-18T14:53:42.555970"
+            ],
+            [
+              38,
+              "2025-11-18T22:32:19.492985"
+            ],
+            [
+              39,
+              "2025-11-19T00:16:15.928751"
+            ],
+            [
+              43,
+              "2025-11-19T01:51:04.045867"
+            ],
+            [
+              42,
+              "2025-11-19T02:32:51.118935"
+            ],
+            [
+              44,
+              "2025-11-19T02:36:25.993610"
+            ]
+          ],
+          "created_utc": 1763490428.0,
+          "depth": 1,
+          "permalink": "/r/singularity/comments/1p0jc6e/gemini_3_pro_hallucination_rate_vs_gemini_25_pro/npj9g5n/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npja9gh",
+              "parent_id": "t1_npj9g5n",
+              "author": "bobcatgoldthwait",
+              "text_history": [
+                [
+                  "I wonder how they establish this.  I guess they have a set of questions they know it can't possibly answer and see how often it gives a bad one?\n\nWithout more info, 88% sounds *really* bad, especially if it's apparently possible to get it down to as low as 26% as Anthropic did with Claude Haiku.  And barely shifting the metric from 2.5 Pro to 3 Pro isn't very reassuring.  Seems like one of the things they should be focusing on the most.",
+                  "2025-11-18T14:45:24.539781"
+                ]
+              ],
+              "score_history": [
+                [
+                  6,
+                  "2025-11-18T14:45:24.539781"
+                ],
+                [
+                  7,
+                  "2025-11-18T14:53:13.672386"
+                ],
+                [
+                  7,
+                  "2025-11-18T14:53:42.555970"
+                ],
+                [
+                  11,
+                  "2025-11-18T22:32:19.492985"
+                ],
+                [
+                  9,
+                  "2025-11-19T00:16:15.928751"
+                ],
+                [
+                  12,
+                  "2025-11-19T01:51:04.045867"
+                ],
+                [
+                  11,
+                  "2025-11-19T02:32:51.118935"
+                ],
+                [
+                  11,
+                  "2025-11-19T02:36:25.993610"
+                ]
+              ],
+              "created_utc": 1763490661.0,
+              "depth": 2,
+              "permalink": "/r/singularity/comments/1p0jc6e/gemini_3_pro_hallucination_rate_vs_gemini_25_pro/npja9gh/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": [
+                {
+                  "id": "npjbz0d",
+                  "parent_id": "t1_npja9gh",
+                  "author": "FateOfMuffins",
+                  "text_history": [
+                    [
+                      "It sounds more like out of all the questions they asked it, they looked at the subset of questions where the answer was incorrect, and looked at what % of those incorrect answers were incorrect answers vs refusals\n\n\n\nOpenAI had a paper recently on hallucinations. \n\nAnd I think SimpleQA was supposed to help measure hallucinations https://openai.com/index/introducing-simpleqa/\n\nBut some AI models and labs seem to have taken it as just another benchmark to max out which it wasn't supposed to be (like there's a lot of people reporting high SimpleQA scores for tiny models). \n\nGemini 3 has a fairly high SimpleQA score while OpenAI's models barely showed any change over an entire year, so idk",
+                      "2025-11-18T14:45:24.539781"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      1,
+                      "2025-11-18T14:45:24.539781"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T14:53:13.672386"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T14:53:42.555970"
+                    ],
+                    [
+                      5,
+                      "2025-11-18T22:32:19.492985"
+                    ],
+                    [
+                      4,
+                      "2025-11-19T00:16:15.928751"
+                    ],
+                    [
+                      6,
+                      "2025-11-19T01:51:04.045867"
+                    ],
+                    [
+                      5,
+                      "2025-11-19T02:32:51.118935"
+                    ],
+                    [
+                      6,
+                      "2025-11-19T02:36:25.993610"
+                    ]
+                  ],
+                  "created_utc": 1763491150.0,
+                  "depth": 3,
+                  "permalink": "/r/singularity/comments/1p0jc6e/gemini_3_pro_hallucination_rate_vs_gemini_25_pro/npjbz0d/",
+                  "is_submitter": false,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "npj8vas",
+          "parent_id": "t1_npj7y1m",
+          "author": "Inevitable_Tea_5841",
+          "text_history": [
+            [
+              "I take it as \"the proportion of incorrect answers that have a hallucination\"",
+              "2025-11-18T14:45:24.539781"
+            ]
+          ],
+          "score_history": [
+            [
+              3,
+              "2025-11-18T14:45:24.539781"
+            ],
+            [
+              3,
+              "2025-11-18T14:53:13.672386"
+            ],
+            [
+              3,
+              "2025-11-18T14:53:42.555970"
+            ],
+            [
+              3,
+              "2025-11-18T22:32:19.492985"
+            ],
+            [
+              3,
+              "2025-11-19T00:16:15.928751"
+            ],
+            [
+              3,
+              "2025-11-19T01:51:04.045867"
+            ],
+            [
+              3,
+              "2025-11-19T02:32:51.118935"
+            ],
+            [
+              3,
+              "2025-11-19T02:36:25.993610"
+            ]
+          ],
+          "created_utc": 1763490264.0,
+          "depth": 1,
+          "permalink": "/r/singularity/comments/1p0jc6e/gemini_3_pro_hallucination_rate_vs_gemini_25_pro/npj8vas/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        },
+        {
+          "id": "npjqu29",
+          "parent_id": "t1_npj7y1m",
+          "author": "DuckyBertDuck",
+          "text_history": [
+            [
+              "A refusal is a \"non-correct attempt\". A wrong answer is any \"non-correct attempt\" which isn't a refusal.",
+              "2025-11-18T14:45:24.539781"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T14:45:24.539781"
+            ],
+            [
+              1,
+              "2025-11-18T14:53:13.672386"
+            ],
+            [
+              1,
+              "2025-11-18T14:53:42.555970"
+            ],
+            [
+              1,
+              "2025-11-18T22:32:19.492985"
+            ],
+            [
+              1,
+              "2025-11-19T00:16:15.928751"
+            ],
+            [
+              1,
+              "2025-11-19T01:51:04.045867"
+            ],
+            [
+              1,
+              "2025-11-19T02:32:51.118935"
+            ],
+            [
+              1,
+              "2025-11-19T02:36:25.993610"
+            ]
+          ],
+          "created_utc": 1763495545.0,
+          "depth": 1,
+          "permalink": "/r/singularity/comments/1p0jc6e/gemini_3_pro_hallucination_rate_vs_gemini_25_pro/npjqu29/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        },
+        {
+          "id": "npj90m6",
+          "parent_id": "t1_npj7y1m",
+          "author": "YakFull8300",
+          "text_history": [
+            [
+              "I think wrong answer is just a subset of non-correct attempt. Non-correct attempts would also include thinks like refusals, etc..",
+              "2025-11-18T14:45:24.539781"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T14:45:24.539781"
+            ],
+            [
+              1,
+              "2025-11-18T14:53:13.672386"
+            ],
+            [
+              1,
+              "2025-11-18T14:53:42.555970"
+            ],
+            [
+              0,
+              "2025-11-18T22:32:19.492985"
+            ],
+            [
+              0,
+              "2025-11-19T00:16:15.928751"
+            ],
+            [
+              0,
+              "2025-11-19T01:51:04.045867"
+            ],
+            [
+              0,
+              "2025-11-19T02:32:51.118935"
+            ],
+            [
+              0,
+              "2025-11-19T02:36:25.993610"
+            ]
+          ],
+          "created_utc": 1763490305.0,
+          "depth": 1,
+          "permalink": "/r/singularity/comments/1p0jc6e/gemini_3_pro_hallucination_rate_vs_gemini_25_pro/npj90m6/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npjcc6p",
+      "parent_id": "t3_1p0jc6e",
+      "author": "Sensitive-Invite-863",
+      "text_history": [
+        [
+          "This is why Claude reigns supreme despite lagging behind in multiple benchmarks. The SWE ace coupled with the lowest hallucination rate in the game.",
+          "2025-11-18T14:45:24.539781"
+        ]
+      ],
+      "score_history": [
+        [
+          51,
+          "2025-11-18T14:45:24.539781"
+        ],
+        [
+          50,
+          "2025-11-18T14:53:13.672386"
+        ],
+        [
+          54,
+          "2025-11-18T14:53:42.555970"
+        ],
+        [
+          77,
+          "2025-11-18T22:32:19.492985"
+        ],
+        [
+          82,
+          "2025-11-19T00:16:15.928751"
+        ],
+        [
+          86,
+          "2025-11-19T01:51:04.045867"
+        ],
+        [
+          87,
+          "2025-11-19T02:32:51.118935"
+        ],
+        [
+          85,
+          "2025-11-19T02:36:25.993610"
+        ]
+      ],
+      "created_utc": 1763491254.0,
+      "depth": 0,
+      "permalink": "/r/singularity/comments/1p0jc6e/gemini_3_pro_hallucination_rate_vs_gemini_25_pro/npjcc6p/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npjkoe4",
+          "parent_id": "t1_npjcc6p",
+          "author": "slackermannn",
+          "text_history": [
+            [
+              "The hallucination rate is what locked me in with Claude. But I love the multimodal of Gemini",
+              "2025-11-18T14:45:24.539781"
+            ]
+          ],
+          "score_history": [
+            [
+              16,
+              "2025-11-18T14:45:24.539781"
+            ],
+            [
+              16,
+              "2025-11-18T14:53:13.672386"
+            ],
+            [
+              16,
+              "2025-11-18T14:53:42.555970"
+            ],
+            [
+              26,
+              "2025-11-18T22:32:19.492985"
+            ],
+            [
+              27,
+              "2025-11-19T00:16:15.928751"
+            ],
+            [
+              27,
+              "2025-11-19T01:51:04.045867"
+            ],
+            [
+              28,
+              "2025-11-19T02:32:51.118935"
+            ],
+            [
+              28,
+              "2025-11-19T02:36:25.993610"
+            ]
+          ],
+          "created_utc": 1763493701.0,
+          "depth": 1,
+          "permalink": "/r/singularity/comments/1p0jc6e/gemini_3_pro_hallucination_rate_vs_gemini_25_pro/npjkoe4/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        },
+        {
+          "id": "npk9ua1",
+          "parent_id": "t1_npjcc6p",
+          "author": "doodlinghearsay",
+          "text_history": [
+            [
+              "Hallucination actually helps in human preference benchmarks. Most people won't spam lmarena with super specific or complex questions they know the answer for. So trying to bullshit will earn far higher marks than admitting that they don't know something.",
+              "2025-11-18T14:45:24.539781"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T14:45:24.539781"
+            ],
+            [
+              1,
+              "2025-11-18T14:53:13.672386"
+            ],
+            [
+              1,
+              "2025-11-18T14:53:42.555970"
+            ],
+            [
+              22,
+              "2025-11-18T22:32:19.492985"
+            ],
+            [
+              24,
+              "2025-11-19T00:16:15.928751"
+            ],
+            [
+              24,
+              "2025-11-19T01:51:04.045867"
+            ],
+            [
+              25,
+              "2025-11-19T02:32:51.118935"
+            ],
+            [
+              24,
+              "2025-11-19T02:36:25.993610"
+            ]
+          ],
+          "created_utc": 1763501256.0,
+          "depth": 1,
+          "permalink": "/r/singularity/comments/1p0jc6e/gemini_3_pro_hallucination_rate_vs_gemini_25_pro/npk9ua1/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npkcnxd",
+              "parent_id": "t1_npk9ua1",
+              "author": "LazloStPierre",
+              "text_history": [
+                [
+                  "Exactly this.\n\n\nWhich is why, whenever LMArena is one of the things a company focuses on when releasing a model, you should be skeptical",
+                  "2025-11-18T14:45:24.539781"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-18T14:45:24.539781"
+                ],
+                [
+                  1,
+                  "2025-11-18T14:53:13.672386"
+                ],
+                [
+                  1,
+                  "2025-11-18T14:53:42.555970"
+                ],
+                [
+                  10,
+                  "2025-11-18T22:32:19.492985"
+                ],
+                [
+                  12,
+                  "2025-11-19T00:16:15.928751"
+                ],
+                [
+                  11,
+                  "2025-11-19T01:51:04.045867"
+                ],
+                [
+                  12,
+                  "2025-11-19T02:32:51.118935"
+                ],
+                [
+                  12,
+                  "2025-11-19T02:36:25.993610"
+                ]
+              ],
+              "created_utc": 1763502113.0,
+              "depth": 2,
+              "permalink": "/r/singularity/comments/1p0jc6e/gemini_3_pro_hallucination_rate_vs_gemini_25_pro/npkcnxd/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            },
+            {
+              "id": "npl274a",
+              "parent_id": "t1_npk9ua1",
+              "author": "swarmy1",
+              "text_history": [
+                [
+                  "This isn't limited to human preference. Most tests benefit from guessing.\n\nFor example, in a typical multiple choice exam you are incentivized to pick a random answer even if you have no clue because a 20% chance of getting it right is better than 0%.\n\nIn order to discourage this, you have to penalize wrong answers more than non-answers.",
+                  "2025-11-18T22:32:19.492985"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-18T22:32:19.492985"
+                ],
+                [
+                  1,
+                  "2025-11-19T00:16:15.928751"
+                ],
+                [
+                  2,
+                  "2025-11-19T01:51:04.045867"
+                ],
+                [
+                  2,
+                  "2025-11-19T02:32:51.118935"
+                ],
+                [
+                  2,
+                  "2025-11-19T02:36:25.993610"
+                ]
+              ],
+              "created_utc": 1763510618.0,
+              "depth": 2,
+              "permalink": "/r/singularity/comments/1p0jc6e/gemini_3_pro_hallucination_rate_vs_gemini_25_pro/npl274a/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": [
+                {
+                  "id": "npl39s4",
+                  "parent_id": "t1_npl274a",
+                  "author": "doodlinghearsay",
+                  "text_history": [
+                    [
+                      "&gt; In order to discourage this, you have to penalize wrong answers more than non-answers.\n\nYes, and in many contexts this is exactly what you should do. Real life situations often require you to say \"I don't know\" and asking for help.\n\nSince AI can't really distinguish between a test and a decision with real life consequences, it is even more important to punish them for confident wrong answers during tests.",
+                      "2025-11-18T22:32:19.492985"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      2,
+                      "2025-11-18T22:32:19.492985"
+                    ],
+                    [
+                      2,
+                      "2025-11-19T00:16:15.928751"
+                    ],
+                    [
+                      1,
+                      "2025-11-19T01:51:04.045867"
+                    ],
+                    [
+                      1,
+                      "2025-11-19T02:32:51.118935"
+                    ],
+                    [
+                      1,
+                      "2025-11-19T02:36:25.993610"
+                    ]
+                  ],
+                  "created_utc": 1763510994.0,
+                  "depth": 3,
+                  "permalink": "/r/singularity/comments/1p0jc6e/gemini_3_pro_hallucination_rate_vs_gemini_25_pro/npl39s4/",
+                  "is_submitter": false,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "npjqddf",
+          "parent_id": "t1_npjcc6p",
+          "author": "ragner11",
+          "text_history": [
+            [
+              "I meant they are only 1% apart in SWE-bench",
+              "2025-11-18T14:45:24.539781"
+            ]
+          ],
+          "score_history": [
+            [
+              4,
+              "2025-11-18T14:45:24.539781"
+            ],
+            [
+              5,
+              "2025-11-18T14:53:13.672386"
+            ],
+            [
+              6,
+              "2025-11-18T14:53:42.555970"
+            ],
+            [
+              8,
+              "2025-11-18T22:32:19.492985"
+            ],
+            [
+              9,
+              "2025-11-19T00:16:15.928751"
+            ],
+            [
+              9,
+              "2025-11-19T01:51:04.045867"
+            ],
+            [
+              9,
+              "2025-11-19T02:32:51.118935"
+            ],
+            [
+              10,
+              "2025-11-19T02:36:25.993610"
+            ]
+          ],
+          "created_utc": 1763495409.0,
+          "depth": 1,
+          "permalink": "/r/singularity/comments/1p0jc6e/gemini_3_pro_hallucination_rate_vs_gemini_25_pro/npjqddf/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npk0myn",
+              "parent_id": "t1_npjqddf",
+              "author": "Sensitive-Invite-863",
+              "text_history": [
+                [
+                  "And the hallucination rate?",
+                  "2025-11-18T14:45:24.539781"
+                ]
+              ],
+              "score_history": [
+                [
+                  2,
+                  "2025-11-18T14:45:24.539781"
+                ],
+                [
+                  4,
+                  "2025-11-18T14:53:13.672386"
+                ],
+                [
+                  2,
+                  "2025-11-18T14:53:42.555970"
+                ],
+                [
+                  3,
+                  "2025-11-18T22:32:19.492985"
+                ],
+                [
+                  2,
+                  "2025-11-19T00:16:15.928751"
+                ],
+                [
+                  1,
+                  "2025-11-19T01:51:04.045867"
+                ],
+                [
+                  1,
+                  "2025-11-19T02:32:51.118935"
+                ],
+                [
+                  0,
+                  "2025-11-19T02:36:25.993610"
+                ]
+              ],
+              "created_utc": 1763498528.0,
+              "depth": 2,
+              "permalink": "/r/singularity/comments/1p0jc6e/gemini_3_pro_hallucination_rate_vs_gemini_25_pro/npk0myn/",
+              "is_submitter": false,
+              "controversiality": 1,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "npj8w4k",
+      "parent_id": "t3_1p0jc6e",
+      "author": "KStarGamer_",
+      "text_history": [
+        [
+          "People are misunderstanding what this metric measures. Note the caption above the bars that says \"refused\". This metric does not measure factual hallucination; it measures calibration, alignment, and the models' level of uncertainty. For example, GPT-5.1 will say it doesn't know the answer to a problem rather than BSing a nonsense answer. Sometimes this is good, sometimes it isn't. As seen by the SoTA SimpleQA score, Gemini 3 Pro does, in fact, know the most factual information.",
+          "2025-11-18T14:45:24.539781"
+        ],
+        [
+          "People are misunderstanding what this metric measures. Note the caption above the bars that says \"refused\". This metric does not measure factual hallucination; it measures calibration, alignment, and the models' level of uncertainty. For example, GPT-5.1 will say it doesn't know the answer to a problem rather than BSing a nonsense answer. Sometimes this is good, sometimes it isn't. As seen by the SoTA SimpleQA score, Gemini 3 Pro does, in fact, know the most factual information.\n\nThe sweet spot is a model that *is* a bit of a risk-taker. If you are working on something new and trying to get an LLM to assist you, whilst most of the time it may be fabricating incorrect nonsense, there may be rare times when it *does* come up with something correct, novel, and creative by way of simply not saying it doesn't know, but instead from *trying* to come up with a plausible answer.",
+          "2025-11-18T22:32:19.492985"
+        ]
+      ],
+      "score_history": [
+        [
+          26,
+          "2025-11-18T14:45:24.539781"
+        ],
+        [
+          26,
+          "2025-11-18T14:53:13.672386"
+        ],
+        [
+          24,
+          "2025-11-18T14:53:42.555970"
+        ],
+        [
+          44,
+          "2025-11-18T22:32:19.492985"
+        ],
+        [
+          46,
+          "2025-11-19T00:16:15.928751"
+        ],
+        [
+          49,
+          "2025-11-19T01:51:04.045867"
+        ],
+        [
+          54,
+          "2025-11-19T02:32:51.118935"
+        ],
+        [
+          54,
+          "2025-11-19T02:36:25.993610"
+        ]
+      ],
+      "created_utc": 1763490270.0,
+      "depth": 0,
+      "permalink": "/r/singularity/comments/1p0jc6e/gemini_3_pro_hallucination_rate_vs_gemini_25_pro/npj8w4k/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": 1763518682.0,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npjbake",
+          "parent_id": "t1_npj8w4k",
+          "author": "LazloStPierre",
+          "text_history": [
+            [
+              "But that's what hallucinations are, how often it confidentially says incorrect information when it doesn't know something \n\n\nSomething that knows 7 out 10 questions but confidentially gives me 10 answers is less useful than something that knows 6 out of 10 and for the other 4 says sorry, I don't know\n\n\nHopefully this is just a poorly produced benchmark ",
+              "2025-11-18T14:45:24.539781"
+            ]
+          ],
+          "score_history": [
+            [
+              18,
+              "2025-11-18T14:45:24.539781"
+            ],
+            [
+              19,
+              "2025-11-18T14:53:13.672386"
+            ],
+            [
+              19,
+              "2025-11-18T14:53:42.555970"
+            ],
+            [
+              29,
+              "2025-11-18T22:32:19.492985"
+            ],
+            [
+              28,
+              "2025-11-19T00:16:15.928751"
+            ],
+            [
+              28,
+              "2025-11-19T01:51:04.045867"
+            ],
+            [
+              29,
+              "2025-11-19T02:32:51.118935"
+            ],
+            [
+              28,
+              "2025-11-19T02:36:25.993610"
+            ]
+          ],
+          "created_utc": 1763490957.0,
+          "depth": 1,
+          "permalink": "/r/singularity/comments/1p0jc6e/gemini_3_pro_hallucination_rate_vs_gemini_25_pro/npjbake/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npkdslj",
+              "parent_id": "t1_npjbake",
+              "author": "Gnolmu",
+              "text_history": [
+                [
+                  "But what really matters is the percent of all queries. GPT 5.1 has a 35% on SimpleQA. That means of the remaining 65%, it’s bullshitting you about 49% or roughly 32% of the time overall.\n\nGemini is 72%. So of the remaining 28%, it’s bullshitting you 88% or 25% of the time overall.\n\nEdit: to use your example, it’s like someone giving you only 3 out of 10 questions correctly and then making up answers for another 3. Or, someone that gives you 7 out of 10 correctly and also makes up the remaining 3.",
+                  "2025-11-18T14:45:24.539781"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-18T14:45:24.539781"
+                ],
+                [
+                  1,
+                  "2025-11-18T14:53:13.672386"
+                ],
+                [
+                  1,
+                  "2025-11-18T14:53:42.555970"
+                ],
+                [
+                  15,
+                  "2025-11-18T22:32:19.492985"
+                ],
+                [
+                  14,
+                  "2025-11-19T00:16:15.928751"
+                ],
+                [
+                  14,
+                  "2025-11-19T01:51:04.045867"
+                ],
+                [
+                  15,
+                  "2025-11-19T02:32:51.118935"
+                ],
+                [
+                  14,
+                  "2025-11-19T02:36:25.993610"
+                ]
+              ],
+              "created_utc": 1763502450.0,
+              "depth": 2,
+              "permalink": "/r/singularity/comments/1p0jc6e/gemini_3_pro_hallucination_rate_vs_gemini_25_pro/npkdslj/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": [
+                {
+                  "id": "npmstzc",
+                  "parent_id": "t1_npkdslj",
+                  "author": "Patello",
+                  "text_history": [
+                    [
+                      "But SimpleBench or whatever benchmark you might use aren't proportionally scaled to actual user queries. Just because it achieves X% correct answers on a particular benchmark doesn't mean that it is only bullshitting you 88% out of every (1-X)% answer.",
+                      "2025-11-19T00:16:15.928751"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      1,
+                      "2025-11-19T00:16:15.928751"
+                    ],
+                    [
+                      1,
+                      "2025-11-19T01:51:04.045867"
+                    ],
+                    [
+                      1,
+                      "2025-11-19T02:32:51.118935"
+                    ],
+                    [
+                      1,
+                      "2025-11-19T02:36:25.993610"
+                    ]
+                  ],
+                  "created_utc": 1763536412.0,
+                  "depth": 3,
+                  "permalink": "/r/singularity/comments/1p0jc6e/gemini_3_pro_hallucination_rate_vs_gemini_25_pro/npmstzc/",
+                  "is_submitter": false,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "npjv35y",
+              "parent_id": "t1_npjbake",
+              "author": "FlubOtic115",
+              "text_history": [
+                [
+                  "Good way of putting it",
+                  "2025-11-18T14:45:24.539781"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-18T14:45:24.539781"
+                ],
+                [
+                  1,
+                  "2025-11-18T14:53:13.672386"
+                ],
+                [
+                  1,
+                  "2025-11-18T14:53:42.555970"
+                ],
+                [
+                  1,
+                  "2025-11-18T22:32:19.492985"
+                ],
+                [
+                  2,
+                  "2025-11-19T00:16:15.928751"
+                ],
+                [
+                  2,
+                  "2025-11-19T01:51:04.045867"
+                ],
+                [
+                  2,
+                  "2025-11-19T02:32:51.118935"
+                ],
+                [
+                  2,
+                  "2025-11-19T02:36:25.993610"
+                ]
+              ],
+              "created_utc": 1763496828.0,
+              "depth": 2,
+              "permalink": "/r/singularity/comments/1p0jc6e/gemini_3_pro_hallucination_rate_vs_gemini_25_pro/npjv35y/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "npjq6hv",
+          "parent_id": "t1_npj8w4k",
+          "author": "Either_Scientist_759",
+          "text_history": [
+            [
+              "And also these people misunderstood that these models are tested without Search to check how model answers from it's own data or intelligence without searching from internet for context and Small models and less General intelligence model just refused to answer without search context because they don't have enough General Intelligence to answer.",
+              "2025-11-18T14:45:24.539781"
+            ]
+          ],
+          "score_history": [
+            [
+              2,
+              "2025-11-18T14:45:24.539781"
+            ],
+            [
+              2,
+              "2025-11-18T14:53:13.672386"
+            ],
+            [
+              2,
+              "2025-11-18T14:53:42.555970"
+            ],
+            [
+              3,
+              "2025-11-18T22:32:19.492985"
+            ],
+            [
+              3,
+              "2025-11-19T00:16:15.928751"
+            ],
+            [
+              3,
+              "2025-11-19T01:51:04.045867"
+            ],
+            [
+              3,
+              "2025-11-19T02:32:51.118935"
+            ],
+            [
+              3,
+              "2025-11-19T02:36:25.993610"
+            ]
+          ],
+          "created_utc": 1763495352.0,
+          "depth": 1,
+          "permalink": "/r/singularity/comments/1p0jc6e/gemini_3_pro_hallucination_rate_vs_gemini_25_pro/npjq6hv/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npk4eso",
+              "parent_id": "t1_npjq6hv",
+              "author": "Dear-Yak2162",
+              "text_history": [
+                [
+                  "Lmao wait really? I was very curious how haiku was doing so well.\n\nLittle guy aced the benchmark by just going “no clue, next question”",
+                  "2025-11-18T14:45:24.539781"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-18T14:45:24.539781"
+                ],
+                [
+                  1,
+                  "2025-11-18T14:53:13.672386"
+                ],
+                [
+                  1,
+                  "2025-11-18T14:53:42.555970"
+                ],
+                [
+                  4,
+                  "2025-11-18T22:32:19.492985"
+                ],
+                [
+                  5,
+                  "2025-11-19T00:16:15.928751"
+                ],
+                [
+                  5,
+                  "2025-11-19T01:51:04.045867"
+                ],
+                [
+                  4,
+                  "2025-11-19T02:32:51.118935"
+                ],
+                [
+                  5,
+                  "2025-11-19T02:36:25.993610"
+                ]
+              ],
+              "created_utc": 1763499649.0,
+              "depth": 2,
+              "permalink": "/r/singularity/comments/1p0jc6e/gemini_3_pro_hallucination_rate_vs_gemini_25_pro/npk4eso/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "npjgidt",
+          "parent_id": "t1_npj8w4k",
+          "author": "CascoBayButcher",
+          "text_history": [
+            [
+              "I think *you're* the one misunderstanding. \n\nIt doesn't matter if a model knows the most when it's also giving wrong answers more than others instead of a 'I don't know' \n\nI'd rather a model that only knows half of what I ask, but says 'no clue' on the other half, than a model that knows 70%, says no clue on 10%, and provides incorrect shit on the other 20%",
+              "2025-11-18T14:45:24.539781"
+            ]
+          ],
+          "score_history": [
+            [
+              5,
+              "2025-11-18T14:45:24.539781"
+            ],
+            [
+              3,
+              "2025-11-18T14:53:13.672386"
+            ],
+            [
+              4,
+              "2025-11-18T14:53:42.555970"
+            ],
+            [
+              5,
+              "2025-11-18T22:32:19.492985"
+            ],
+            [
+              7,
+              "2025-11-19T00:16:15.928751"
+            ],
+            [
+              7,
+              "2025-11-19T01:51:04.045867"
+            ],
+            [
+              5,
+              "2025-11-19T02:32:51.118935"
+            ],
+            [
+              5,
+              "2025-11-19T02:36:25.993610"
+            ]
+          ],
+          "created_utc": 1763492459.0,
+          "depth": 1,
+          "permalink": "/r/singularity/comments/1p0jc6e/gemini_3_pro_hallucination_rate_vs_gemini_25_pro/npjgidt/",
+          "is_submitter": false,
+          "controversiality": 1,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npjm49z",
+              "parent_id": "t1_npjgidt",
+              "author": "nextnode",
+              "text_history": [
+                [
+                  "Gemini 3 is currently #1 on rate of correct answers minus rate of incorrect with passes neutral.\n\nE.g. do you prefer a model that is right 60% of the time and wrong 10% of the time vs right 80% of the time and wrong 10% of the time?\n\nThese two options would for the OP figure be 25% vs 50%.",
+                  "2025-11-18T14:45:24.539781"
+                ]
+              ],
+              "score_history": [
+                [
+                  3,
+                  "2025-11-18T14:45:24.539781"
+                ],
+                [
+                  2,
+                  "2025-11-18T14:53:13.672386"
+                ],
+                [
+                  3,
+                  "2025-11-18T14:53:42.555970"
+                ],
+                [
+                  5,
+                  "2025-11-18T22:32:19.492985"
+                ],
+                [
+                  4,
+                  "2025-11-19T00:16:15.928751"
+                ],
+                [
+                  6,
+                  "2025-11-19T01:51:04.045867"
+                ],
+                [
+                  5,
+                  "2025-11-19T02:32:51.118935"
+                ],
+                [
+                  7,
+                  "2025-11-19T02:36:25.993610"
+                ]
+              ],
+              "created_utc": 1763494133.0,
+              "depth": 2,
+              "permalink": "/r/singularity/comments/1p0jc6e/gemini_3_pro_hallucination_rate_vs_gemini_25_pro/npjm49z/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": 1763494443.0,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": [
+                {
+                  "id": "npk3tol",
+                  "parent_id": "t1_npjm49z",
+                  "author": "Sea_Gur9803",
+                  "text_history": [
+                    [
+                      "It depends, for a multistep agentic/coding task the one time it's confidently wrong could result in it changing a bunch of stuff and overall causing way more problems. Claude is much more controlled in that way.\n\nFor general use, Gemini would be better since the overall correct answers rate is higher, but hallucinations and stubbornness is a big problem and it can be seen with the SWE benchmark.",
+                      "2025-11-18T14:45:24.539781"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      1,
+                      "2025-11-18T14:45:24.539781"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T14:53:13.672386"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T14:53:42.555970"
+                    ],
+                    [
+                      1,
+                      "2025-11-18T22:32:19.492985"
+                    ],
+                    [
+                      1,
+                      "2025-11-19T00:16:15.928751"
+                    ],
+                    [
+                      1,
+                      "2025-11-19T01:51:04.045867"
+                    ],
+                    [
+                      1,
+                      "2025-11-19T02:32:51.118935"
+                    ],
+                    [
+                      1,
+                      "2025-11-19T02:36:25.993610"
+                    ]
+                  ],
+                  "created_utc": 1763499477.0,
+                  "depth": 3,
+                  "permalink": "/r/singularity/comments/1p0jc6e/gemini_3_pro_hallucination_rate_vs_gemini_25_pro/npk3tol/",
+                  "is_submitter": false,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": [
+                    {
+                      "id": "npk4lw9",
+                      "parent_id": "t1_npk3tol",
+                      "author": "nextnode",
+                      "text_history": [
+                        [
+                          "What?\n\n80% correct 10% wrong 10% pass\n\nis strictly better than\n\n60% correct 10% wrong 30% pass\n\nbut the OP metric will make the second look better.\n\nThere are other trade-offs that can be relevant but it is not what the OP one reflects.",
+                          "2025-11-18T14:45:24.539781"
+                        ]
+                      ],
+                      "score_history": [
+                        [
+                          1,
+                          "2025-11-18T14:45:24.539781"
+                        ],
+                        [
+                          1,
+                          "2025-11-18T14:53:13.672386"
+                        ],
+                        [
+                          1,
+                          "2025-11-18T14:53:42.555970"
+                        ],
+                        [
+                          -1,
+                          "2025-11-18T22:32:19.492985"
+                        ],
+                        [
+                          -1,
+                          "2025-11-19T00:16:15.928751"
+                        ],
+                        [
+                          0,
+                          "2025-11-19T01:51:04.045867"
+                        ],
+                        [
+                          1,
+                          "2025-11-19T02:32:51.118935"
+                        ],
+                        [
+                          1,
+                          "2025-11-19T02:36:25.993610"
+                        ]
+                      ],
+                      "created_utc": 1763499708.0,
+                      "depth": 4,
+                      "permalink": "/r/singularity/comments/1p0jc6e/gemini_3_pro_hallucination_rate_vs_gemini_25_pro/npk4lw9/",
+                      "is_submitter": false,
+                      "controversiality": 1,
+                      "gilded": 0,
+                      "edited": 1763499899.0,
+                      "deleted": false,
+                      "deleted_at": null,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "npjp8ii",
+      "parent_id": "t3_1p0jc6e",
+      "author": "caughtinthought",
+      "text_history": [
+        [
+          "Low Hallucination rate is ultimately what is going to allow these things to succeed in the wild on their own... basically a proxy for reliability, number of 9s comments etc",
+          "2025-11-18T14:45:24.539781"
+        ]
+      ],
+      "score_history": [
+        [
+          3,
+          "2025-11-18T14:45:24.539781"
+        ],
+        [
+          3,
+          "2025-11-18T14:53:13.672386"
+        ],
+        [
+          3,
+          "2025-11-18T14:53:42.555970"
+        ],
+        [
+          14,
+          "2025-11-18T22:32:19.492985"
+        ],
+        [
+          14,
+          "2025-11-19T00:16:15.928751"
+        ],
+        [
+          17,
+          "2025-11-19T01:51:04.045867"
+        ],
+        [
+          16,
+          "2025-11-19T02:32:51.118935"
+        ],
+        [
+          16,
+          "2025-11-19T02:36:25.993610"
+        ]
+      ],
+      "created_utc": 1763495069.0,
+      "depth": 0,
+      "permalink": "/r/singularity/comments/1p0jc6e/gemini_3_pro_hallucination_rate_vs_gemini_25_pro/npjp8ii/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npjvh5e",
+      "parent_id": "t3_1p0jc6e",
+      "author": "FlubOtic115",
+      "text_history": [
+        [
+          "This is the most important score that LLM companies need to be focused on. We need reliability",
+          "2025-11-18T14:45:24.539781"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-18T14:45:24.539781"
+        ],
+        [
+          4,
+          "2025-11-18T14:53:13.672386"
+        ],
+        [
+          3,
+          "2025-11-18T14:53:42.555970"
+        ],
+        [
+          10,
+          "2025-11-18T22:32:19.492985"
+        ],
+        [
+          11,
+          "2025-11-19T00:16:15.928751"
+        ],
+        [
+          13,
+          "2025-11-19T01:51:04.045867"
+        ],
+        [
+          12,
+          "2025-11-19T02:32:51.118935"
+        ],
+        [
+          13,
+          "2025-11-19T02:36:25.993610"
+        ]
+      ],
+      "created_utc": 1763496946.0,
+      "depth": 0,
+      "permalink": "/r/singularity/comments/1p0jc6e/gemini_3_pro_hallucination_rate_vs_gemini_25_pro/npjvh5e/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npmtfqz",
+          "parent_id": "t1_npjvh5e",
+          "author": "Patello",
+          "text_history": [
+            [
+              "It needs to happen fast as well. People are relying more and more on LLMs and I've started to see so much LLM hallucinations being repeated by colleagues in various circumstances. \n\nOne colleague used ChatGPT to claim that one of our internally developed tools, for which no public documentation exists, had a particular feature that doesn't actually exist. That hallucinated feature was then used as justification in a risk assessment.",
+              "2025-11-19T00:16:15.928751"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-19T00:16:15.928751"
+            ],
+            [
+              1,
+              "2025-11-19T01:51:04.045867"
+            ],
+            [
+              1,
+              "2025-11-19T02:32:51.118935"
+            ],
+            [
+              1,
+              "2025-11-19T02:36:25.993610"
+            ]
+          ],
+          "created_utc": 1763536771.0,
+          "depth": 1,
+          "permalink": "/r/singularity/comments/1p0jc6e/gemini_3_pro_hallucination_rate_vs_gemini_25_pro/npmtfqz/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npj7h5l",
+      "parent_id": "t3_1p0jc6e",
+      "author": "Saint_Nitouche",
+      "text_history": [
+        [
+          "1% down, it's all over. AI is unusable.",
+          "2025-11-18T14:45:24.539781"
+        ]
+      ],
+      "score_history": [
+        [
+          24,
+          "2025-11-18T14:45:24.539781"
+        ],
+        [
+          26,
+          "2025-11-18T14:53:13.672386"
+        ],
+        [
+          26,
+          "2025-11-18T14:53:42.555970"
+        ],
+        [
+          25,
+          "2025-11-18T22:32:19.492985"
+        ],
+        [
+          24,
+          "2025-11-19T00:16:15.928751"
+        ],
+        [
+          24,
+          "2025-11-19T01:51:04.045867"
+        ],
+        [
+          24,
+          "2025-11-19T02:32:51.118935"
+        ],
+        [
+          23,
+          "2025-11-19T02:36:25.993610"
+        ]
+      ],
+      "created_utc": 1763489863.0,
+      "depth": 0,
+      "permalink": "/r/singularity/comments/1p0jc6e/gemini_3_pro_hallucination_rate_vs_gemini_25_pro/npj7h5l/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npjnuv1",
+          "parent_id": "t1_npj7h5l",
+          "author": "Munkie50",
+          "text_history": [
+            [
+              "lower is better",
+              "2025-11-18T14:45:24.539781"
+            ]
+          ],
+          "score_history": [
+            [
+              12,
+              "2025-11-18T14:45:24.539781"
+            ],
+            [
+              12,
+              "2025-11-18T14:53:13.672386"
+            ],
+            [
+              13,
+              "2025-11-18T14:53:42.555970"
+            ],
+            [
+              20,
+              "2025-11-18T22:32:19.492985"
+            ],
+            [
+              22,
+              "2025-11-19T00:16:15.928751"
+            ],
+            [
+              22,
+              "2025-11-19T01:51:04.045867"
+            ],
+            [
+              21,
+              "2025-11-19T02:32:51.118935"
+            ],
+            [
+              21,
+              "2025-11-19T02:36:25.993610"
+            ]
+          ],
+          "created_utc": 1763494654.0,
+          "depth": 1,
+          "permalink": "/r/singularity/comments/1p0jc6e/gemini_3_pro_hallucination_rate_vs_gemini_25_pro/npjnuv1/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        },
+        {
+          "id": "npj7spb",
+          "parent_id": "t1_npj7h5l",
+          "author": "YakFull8300",
+          "text_history": [
+            [
+              "I personally didn't use 2.5 a lot because of it's hallucination issues, was hoping to see scores near GPT-5.1.",
+              "2025-11-18T14:45:24.539781"
+            ]
+          ],
+          "score_history": [
+            [
+              13,
+              "2025-11-18T14:45:24.539781"
+            ],
+            [
+              15,
+              "2025-11-18T14:53:13.672386"
+            ],
+            [
+              13,
+              "2025-11-18T14:53:42.555970"
+            ],
+            [
+              16,
+              "2025-11-18T22:32:19.492985"
+            ],
+            [
+              16,
+              "2025-11-19T00:16:15.928751"
+            ],
+            [
+              15,
+              "2025-11-19T01:51:04.045867"
+            ],
+            [
+              15,
+              "2025-11-19T02:32:51.118935"
+            ],
+            [
+              15,
+              "2025-11-19T02:36:25.993610"
+            ]
+          ],
+          "created_utc": 1763489955.0,
+          "depth": 1,
+          "permalink": "/r/singularity/comments/1p0jc6e/gemini_3_pro_hallucination_rate_vs_gemini_25_pro/npj7spb/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npl3vgp",
+      "parent_id": "t3_1p0jc6e",
+      "author": "Gaiden206",
+      "text_history": [
+        [
+          "Here's the source.\n\n[https://artificialanalysis.ai/evaluations/omniscience](https://artificialanalysis.ai/evaluations/omniscience)\n\nGemini 3 Pro's accuracy rate vs 2.5 Pro\n\nhttps://preview.redd.it/rdo7ktktx32g1.png?width=1080&amp;format=png&amp;auto=webp&amp;s=db9c978652b5430763fc0b0cfa37fff2c25fa5af",
+          "2025-11-18T22:32:19.492985"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-18T22:32:19.492985"
+        ],
+        [
+          2,
+          "2025-11-19T00:16:15.928751"
+        ],
+        [
+          3,
+          "2025-11-19T01:51:04.045867"
+        ],
+        [
+          5,
+          "2025-11-19T02:32:51.118935"
+        ],
+        [
+          5,
+          "2025-11-19T02:36:25.993610"
+        ]
+      ],
+      "created_utc": 1763511205.0,
+      "depth": 0,
+      "permalink": "/r/singularity/comments/1p0jc6e/gemini_3_pro_hallucination_rate_vs_gemini_25_pro/npl3vgp/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": 1763511741.0,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npj7slh",
+      "parent_id": "t3_1p0jc6e",
+      "author": "Glittering-Neck-2505",
+      "text_history": [
+        [
+          "I wonder why. Hallucinations are a huge drawback, we need AI that know when they don't know something. Just goes to show even today intelligence is still spiky.",
+          "2025-11-18T14:45:24.539781"
+        ]
+      ],
+      "score_history": [
+        [
+          3,
+          "2025-11-18T14:45:24.539781"
+        ],
+        [
+          3,
+          "2025-11-18T14:53:13.672386"
+        ],
+        [
+          3,
+          "2025-11-18T14:53:42.555970"
+        ],
+        [
+          6,
+          "2025-11-18T22:32:19.492985"
+        ],
+        [
+          7,
+          "2025-11-19T00:16:15.928751"
+        ],
+        [
+          6,
+          "2025-11-19T01:51:04.045867"
+        ],
+        [
+          6,
+          "2025-11-19T02:32:51.118935"
+        ],
+        [
+          5,
+          "2025-11-19T02:36:25.993610"
+        ]
+      ],
+      "created_utc": 1763489954.0,
+      "depth": 0,
+      "permalink": "/r/singularity/comments/1p0jc6e/gemini_3_pro_hallucination_rate_vs_gemini_25_pro/npj7slh/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npj9wkh",
+          "parent_id": "t1_npj7slh",
+          "author": "LazloStPierre",
+          "text_history": [
+            [
+              "I keep saying it, Google clearly optimize and focus on LMArena. They ab test on there and put their score as one of the main benchmarks on any public release \n\n\nIn LMArena, long winded hallucinations perform very well. Zuckerberg has talked about this, it's how a terrible llama model ended up as one of the best ones on there\n\n\nI really think it's holding Google back. Now, this is likely an SOTA model anyway, but this is the kind of thing that performs well in these preference tests but makes actual performance worse\n\n\nHopefully this is wrong, though, or just a bad benchmark. Hallucinations is the benchmark I think most shows how well a general purpose assistant model will perform, and (this one is purely anecdotal) the biggest issue with Google models is they do tend to hallucinate worse than the other SOTA models in my experience. And I am convinced this is the reason.",
+              "2025-11-18T14:45:24.539781"
+            ]
+          ],
+          "score_history": [
+            [
+              6,
+              "2025-11-18T14:45:24.539781"
+            ],
+            [
+              7,
+              "2025-11-18T14:53:13.672386"
+            ],
+            [
+              6,
+              "2025-11-18T14:53:42.555970"
+            ],
+            [
+              8,
+              "2025-11-18T22:32:19.492985"
+            ],
+            [
+              7,
+              "2025-11-19T00:16:15.928751"
+            ],
+            [
+              8,
+              "2025-11-19T01:51:04.045867"
+            ],
+            [
+              7,
+              "2025-11-19T02:32:51.118935"
+            ],
+            [
+              8,
+              "2025-11-19T02:36:25.993610"
+            ]
+          ],
+          "created_utc": 1763490558.0,
+          "depth": 1,
+          "permalink": "/r/singularity/comments/1p0jc6e/gemini_3_pro_hallucination_rate_vs_gemini_25_pro/npj9wkh/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npkx343",
+              "parent_id": "t1_npj9wkh",
+              "author": "swarmy1",
+              "text_history": [
+                [
+                  "It's not just LMArena. In a lot of situations, it's better to guess than give no response. This is true even for people, hence the saying that you miss every shot you don't take. In order to fix this, you have to penalize wrong answers significantly more than non answers, at least unless there is a clear disclaimer of uncertainty \n\nWhile the overall progress is impressive, it's a little disappointing that Google didn't put more emphasis on this",
+                  "2025-11-18T22:32:19.492985"
+                ]
+              ],
+              "score_history": [
+                [
+                  3,
+                  "2025-11-18T22:32:19.492985"
+                ],
+                [
+                  3,
+                  "2025-11-19T00:16:15.928751"
+                ],
+                [
+                  4,
+                  "2025-11-19T01:51:04.045867"
+                ],
+                [
+                  5,
+                  "2025-11-19T02:32:51.118935"
+                ],
+                [
+                  3,
+                  "2025-11-19T02:36:25.993610"
+                ]
+              ],
+              "created_utc": 1763508797.0,
+              "depth": 2,
+              "permalink": "/r/singularity/comments/1p0jc6e/gemini_3_pro_hallucination_rate_vs_gemini_25_pro/npkx343/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            },
+            {
+              "id": "npkuv11",
+              "parent_id": "t1_npj9wkh",
+              "author": "thoughtlow",
+              "text_history": [
+                [
+                  "Hope LLMarena will weigh hallucination benchmarks more heavy",
+                  "2025-11-18T22:32:19.492985"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-18T22:32:19.492985"
+                ],
+                [
+                  1,
+                  "2025-11-19T00:16:15.928751"
+                ],
+                [
+                  1,
+                  "2025-11-19T01:51:04.045867"
+                ],
+                [
+                  1,
+                  "2025-11-19T02:32:51.118935"
+                ],
+                [
+                  1,
+                  "2025-11-19T02:36:25.993610"
+                ]
+              ],
+              "created_utc": 1763508007.0,
+              "depth": 2,
+              "permalink": "/r/singularity/comments/1p0jc6e/gemini_3_pro_hallucination_rate_vs_gemini_25_pro/npkuv11/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "npj85oq",
+          "parent_id": "t1_npj7slh",
+          "author": "FarrisAT",
+          "text_history": [
+            [
+              "Likely does not have an internal prompt to refuse responses.",
+              "2025-11-18T14:45:24.539781"
+            ]
+          ],
+          "score_history": [
+            [
+              2,
+              "2025-11-18T14:45:24.539781"
+            ],
+            [
+              2,
+              "2025-11-18T14:53:13.672386"
+            ],
+            [
+              2,
+              "2025-11-18T14:53:42.555970"
+            ],
+            [
+              2,
+              "2025-11-18T22:32:19.492985"
+            ],
+            [
+              2,
+              "2025-11-19T00:16:15.928751"
+            ],
+            [
+              2,
+              "2025-11-19T01:51:04.045867"
+            ],
+            [
+              2,
+              "2025-11-19T02:32:51.118935"
+            ],
+            [
+              2,
+              "2025-11-19T02:36:25.993610"
+            ]
+          ],
+          "created_utc": 1763490059.0,
+          "depth": 1,
+          "permalink": "/r/singularity/comments/1p0jc6e/gemini_3_pro_hallucination_rate_vs_gemini_25_pro/npj85oq/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npku22a",
+      "parent_id": "t3_1p0jc6e",
+      "author": "Saedeas",
+      "text_history": [
+        [
+          "This is a weird benchmark.  You could score worse on it while having strictly better performance than another model.\n\nIt's (non-correct answers - refusals) / non-correct answers.\n\nYou could have two models answering 100 questions.\n\nModel 1 answers 80 questions correctly, 8 wrong, and 12 refusals.\n\nModel 2 answers 60 questions correctly, 10 wrong, and 30 refusals.\n\nIn this scenario, model 1 would score 40% ((20 non correct - 12 refusals) / 20 non correct), while model 2 would score 25% ((40 non correct - 30 refusals) / 40 non correct).  In this scenario, model 1 is better in every way, but scores worse on the benchmark than model 2 (remember, a lower % is better).",
+          "2025-11-18T22:32:19.492985"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-18T22:32:19.492985"
+        ],
+        [
+          2,
+          "2025-11-19T00:16:15.928751"
+        ],
+        [
+          3,
+          "2025-11-19T01:51:04.045867"
+        ],
+        [
+          3,
+          "2025-11-19T02:32:51.118935"
+        ],
+        [
+          3,
+          "2025-11-19T02:36:25.993610"
+        ]
+      ],
+      "created_utc": 1763507726.0,
+      "depth": 0,
+      "permalink": "/r/singularity/comments/1p0jc6e/gemini_3_pro_hallucination_rate_vs_gemini_25_pro/npku22a/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npkzr5t",
+          "parent_id": "t1_npku22a",
+          "author": "AnonThrowaway998877",
+          "text_history": [
+            [
+              "True. But if there was a Model 3 that only answers 50% correctly, and says \"I don't know\" for the other 50%, that would easily be my winner.\n\nI want to be able to trust the answers completely. Currently we still can't trust the answers at all, yet many people will. And this is the biggest problem IMO. We already had too much misinformation before these things were creating half the content on the internet. How bad will it get if these companies don't care to prioritize accuracy?\n\nEspecially Google by integrating this into search, where everyone goes to ask questions.\n\nI'm excited about the progress in other areas but I really hoped for a huge improvement in this above all else.",
+              "2025-11-18T22:32:19.492985"
+            ]
+          ],
+          "score_history": [
+            [
+              3,
+              "2025-11-18T22:32:19.492985"
+            ],
+            [
+              3,
+              "2025-11-19T00:16:15.928751"
+            ],
+            [
+              3,
+              "2025-11-19T01:51:04.045867"
+            ],
+            [
+              3,
+              "2025-11-19T02:32:51.118935"
+            ],
+            [
+              3,
+              "2025-11-19T02:36:25.993610"
+            ]
+          ],
+          "created_utc": 1763509759.0,
+          "depth": 1,
+          "permalink": "/r/singularity/comments/1p0jc6e/gemini_3_pro_hallucination_rate_vs_gemini_25_pro/npkzr5t/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npldrhx",
+              "parent_id": "t1_npkzr5t",
+              "author": "Saedeas",
+              "text_history": [
+                [
+                  "You can't trust a person's answers implicitly either.  \n\nThe only thing that really matters is the rate of mistakes in whatever domain you're looking for answers in.  If that gets below the baseline rate of an expert, the model is extremely useful.",
+                  "2025-11-18T22:32:19.492985"
+                ]
+              ],
+              "score_history": [
+                [
+                  0,
+                  "2025-11-18T22:32:19.492985"
+                ],
+                [
+                  -1,
+                  "2025-11-19T00:16:15.928751"
+                ],
+                [
+                  -1,
+                  "2025-11-19T01:51:04.045867"
+                ],
+                [
+                  -1,
+                  "2025-11-19T02:32:51.118935"
+                ],
+                [
+                  -1,
+                  "2025-11-19T02:36:25.993610"
+                ]
+              ],
+              "created_utc": 1763514694.0,
+              "depth": 2,
+              "permalink": "/r/singularity/comments/1p0jc6e/gemini_3_pro_hallucination_rate_vs_gemini_25_pro/npldrhx/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": [
+                {
+                  "id": "npli81d",
+                  "parent_id": "t1_npldrhx",
+                  "author": "AnonThrowaway998877",
+                  "text_history": [
+                    [
+                      "If I want facts I'm not asking a person though, I'm searching and finding a reliable source. These models are aiming to replace that search and those sources, and I would love it if they could, but the \"BS rate\" is far too high.\n\nThere have probably been &gt;100 instances just this year that I have personally encountered obvious lies from these models, and I'm just a casual user (outside of coding), and not an expert in anything. Common example: plot/character/casting questions about cinema. If I'm catching them lying that often, or even 10% that often, I'm never relying on what they're saying without verifying it. Which severely diminishes their value as a source of information. \n\nI agree with you that aiming to be as good as an expert in the domain is a good goal, but an expert can and will sometimes say \"I don't know\", and they will (or should) also prove or cite their info when publishing something.",
+                      "2025-11-18T22:32:19.492985"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      1,
+                      "2025-11-18T22:32:19.492985"
+                    ],
+                    [
+                      2,
+                      "2025-11-19T00:16:15.928751"
+                    ],
+                    [
+                      2,
+                      "2025-11-19T01:51:04.045867"
+                    ],
+                    [
+                      2,
+                      "2025-11-19T02:32:51.118935"
+                    ],
+                    [
+                      2,
+                      "2025-11-19T02:36:25.993610"
+                    ]
+                  ],
+                  "created_utc": 1763516320.0,
+                  "depth": 3,
+                  "permalink": "/r/singularity/comments/1p0jc6e/gemini_3_pro_hallucination_rate_vs_gemini_25_pro/npli81d/",
+                  "is_submitter": false,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "npjfxiq",
+      "parent_id": "t3_1p0jc6e",
+      "author": "AdWrong4792",
+      "text_history": [
+        [
+          "Ugh. That's bad.",
+          "2025-11-18T14:45:24.539781"
+        ]
+      ],
+      "score_history": [
+        [
+          5,
+          "2025-11-18T14:45:24.539781"
+        ],
+        [
+          5,
+          "2025-11-18T14:53:13.672386"
+        ],
+        [
+          4,
+          "2025-11-18T14:53:42.555970"
+        ],
+        [
+          8,
+          "2025-11-18T22:32:19.492985"
+        ],
+        [
+          11,
+          "2025-11-19T00:16:15.928751"
+        ],
+        [
+          9,
+          "2025-11-19T01:51:04.045867"
+        ],
+        [
+          8,
+          "2025-11-19T02:32:51.118935"
+        ],
+        [
+          9,
+          "2025-11-19T02:36:25.993610"
+        ]
+      ],
+      "created_utc": 1763492289.0,
+      "depth": 0,
+      "permalink": "/r/singularity/comments/1p0jc6e/gemini_3_pro_hallucination_rate_vs_gemini_25_pro/npjfxiq/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npjirh0",
+      "parent_id": "t3_1p0jc6e",
+      "author": "Accomplished-Code-54",
+      "text_history": [
+        [
+          "My first impressions are not good. The model is good and is excellent at coding , but it outright lies , doesn't complete its tasks and is constantly gaslighting me. The only thing that helps at this moment is a thread of reporting to Google. But as a whole a lot worse performance than Sonnet 4.5 and Codex 5.1 , despite probably the more advanced intellect of the model.   \nI am concerned.",
+          "2025-11-18T14:45:24.539781"
+        ]
+      ],
+      "score_history": [
+        [
+          6,
+          "2025-11-18T14:45:24.539781"
+        ],
+        [
+          5,
+          "2025-11-18T14:53:13.672386"
+        ],
+        [
+          6,
+          "2025-11-18T14:53:42.555970"
+        ],
+        [
+          10,
+          "2025-11-18T22:32:19.492985"
+        ],
+        [
+          10,
+          "2025-11-19T00:16:15.928751"
+        ],
+        [
+          10,
+          "2025-11-19T01:51:04.045867"
+        ],
+        [
+          10,
+          "2025-11-19T02:32:51.118935"
+        ],
+        [
+          10,
+          "2025-11-19T02:36:25.993610"
+        ]
+      ],
+      "created_utc": 1763493129.0,
+      "depth": 0,
+      "permalink": "/r/singularity/comments/1p0jc6e/gemini_3_pro_hallucination_rate_vs_gemini_25_pro/npjirh0/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npmuk0r",
+          "parent_id": "t1_npjirh0",
+          "author": "Patello",
+          "text_history": [
+            [
+              "It's the same as Gemini 2.5 Pro, which I found really bad. Especially with how stubborn it was with its hallucinations. \n\nThe problem is that the \"smarter\" it gets the more plausible sounding the wrong answers get. I just had Gemini 3.0 claim it could read a QR code. From the context it was able to understand that the QR code would lead to a hiking trail in Google maps. But instead of telling me it wasn't able to parse the QR code, it hallucinated a completely unrelated link to Google maps.",
+              "2025-11-19T00:16:15.928751"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-19T00:16:15.928751"
+            ],
+            [
+              0,
+              "2025-11-19T01:51:04.045867"
+            ],
+            [
+              0,
+              "2025-11-19T02:32:51.118935"
+            ],
+            [
+              0,
+              "2025-11-19T02:36:25.993610"
+            ]
+          ],
+          "created_utc": 1763537437.0,
+          "depth": 1,
+          "permalink": "/r/singularity/comments/1p0jc6e/gemini_3_pro_hallucination_rate_vs_gemini_25_pro/npmuk0r/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npmzx36",
+              "parent_id": "t1_npmuk0r",
+              "author": "NoCard1571",
+              "text_history": [
+                [
+                  "It's funny how that perfectly mirrors a phenomenon with human intelligence. Smarter people are more likely to fall into biased thinking, because they are better at coming up strong arguments that support their viewpoint. ",
+                  "2025-11-19T01:51:04.045867"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-19T01:51:04.045867"
+                ],
+                [
+                  1,
+                  "2025-11-19T02:32:51.118935"
+                ],
+                [
+                  1,
+                  "2025-11-19T02:36:25.993610"
+                ]
+              ],
+              "created_utc": 1763540685.0,
+              "depth": 2,
+              "permalink": "/r/singularity/comments/1p0jc6e/gemini_3_pro_hallucination_rate_vs_gemini_25_pro/npmzx36/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": [
+                {
+                  "id": "npn7cmb",
+                  "parent_id": "t1_npmzx36",
+                  "author": "Patello",
+                  "text_history": [
+                    [
+                      "Yes that is true. Hopefully LLMs doesn't scale like humans then. With artificial super intelligence = artificial super bias.",
+                      "2025-11-19T01:51:04.045867"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      1,
+                      "2025-11-19T01:51:04.045867"
+                    ],
+                    [
+                      1,
+                      "2025-11-19T02:32:51.118935"
+                    ],
+                    [
+                      1,
+                      "2025-11-19T02:36:25.993610"
+                    ]
+                  ],
+                  "created_utc": 1763545389.0,
+                  "depth": 3,
+                  "permalink": "/r/singularity/comments/1p0jc6e/gemini_3_pro_hallucination_rate_vs_gemini_25_pro/npn7cmb/",
+                  "is_submitter": false,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "npk0s60",
+      "parent_id": "t3_1p0jc6e",
+      "author": "LHander22",
+      "text_history": [
+        [
+          "Claude is just too Damn good",
+          "2025-11-18T14:45:24.539781"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-18T14:45:24.539781"
+        ],
+        [
+          2,
+          "2025-11-18T14:53:13.672386"
+        ],
+        [
+          2,
+          "2025-11-18T14:53:42.555970"
+        ],
+        [
+          3,
+          "2025-11-18T22:32:19.492985"
+        ],
+        [
+          3,
+          "2025-11-19T00:16:15.928751"
+        ],
+        [
+          2,
+          "2025-11-19T01:51:04.045867"
+        ],
+        [
+          2,
+          "2025-11-19T02:32:51.118935"
+        ],
+        [
+          2,
+          "2025-11-19T02:36:25.993610"
+        ]
+      ],
+      "created_utc": 1763498572.0,
+      "depth": 0,
+      "permalink": "/r/singularity/comments/1p0jc6e/gemini_3_pro_hallucination_rate_vs_gemini_25_pro/npk0s60/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npl7lnz",
+          "parent_id": "t1_npk0s60",
+          "author": "No-Actuary3189",
+          "text_history": [
+            [
+              "Our developers where I work also prefer Claude. We work in financial industry.",
+              "2025-11-18T22:32:19.492985"
+            ]
+          ],
+          "score_history": [
+            [
+              2,
+              "2025-11-18T22:32:19.492985"
+            ],
+            [
+              2,
+              "2025-11-19T00:16:15.928751"
+            ],
+            [
+              1,
+              "2025-11-19T01:51:04.045867"
+            ],
+            [
+              1,
+              "2025-11-19T02:32:51.118935"
+            ],
+            [
+              1,
+              "2025-11-19T02:36:25.993610"
+            ]
+          ],
+          "created_utc": 1763512510.0,
+          "depth": 1,
+          "permalink": "/r/singularity/comments/1p0jc6e/gemini_3_pro_hallucination_rate_vs_gemini_25_pro/npl7lnz/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npk1vd7",
+      "parent_id": "t3_1p0jc6e",
+      "author": "Meltlilith1",
+      "text_history": [
+        [
+          "Yikes... not good",
+          "2025-11-18T14:45:24.539781"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:45:24.539781"
+        ],
+        [
+          2,
+          "2025-11-18T14:53:13.672386"
+        ],
+        [
+          2,
+          "2025-11-18T14:53:42.555970"
+        ],
+        [
+          3,
+          "2025-11-18T22:32:19.492985"
+        ],
+        [
+          3,
+          "2025-11-19T00:16:15.928751"
+        ],
+        [
+          2,
+          "2025-11-19T01:51:04.045867"
+        ],
+        [
+          2,
+          "2025-11-19T02:32:51.118935"
+        ],
+        [
+          2,
+          "2025-11-19T02:36:25.993610"
+        ]
+      ],
+      "created_utc": 1763498897.0,
+      "depth": 0,
+      "permalink": "/r/singularity/comments/1p0jc6e/gemini_3_pro_hallucination_rate_vs_gemini_25_pro/npk1vd7/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npjgabz",
+      "parent_id": "t3_1p0jc6e",
+      "author": "CmdWaterford",
+      "text_history": [
+        [
+          "Which test is this?",
+          "2025-11-18T14:45:24.539781"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:45:24.539781"
+        ],
+        [
+          1,
+          "2025-11-18T14:53:13.672386"
+        ],
+        [
+          1,
+          "2025-11-18T14:53:42.555970"
+        ],
+        [
+          1,
+          "2025-11-18T22:32:19.492985"
+        ],
+        [
+          1,
+          "2025-11-19T00:16:15.928751"
+        ],
+        [
+          1,
+          "2025-11-19T01:51:04.045867"
+        ],
+        [
+          1,
+          "2025-11-19T02:32:51.118935"
+        ],
+        [
+          1,
+          "2025-11-19T02:36:25.993610"
+        ]
+      ],
+      "created_utc": 1763492392.0,
+      "depth": 0,
+      "permalink": "/r/singularity/comments/1p0jc6e/gemini_3_pro_hallucination_rate_vs_gemini_25_pro/npjgabz/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npl0gcm",
+      "parent_id": "t3_1p0jc6e",
+      "author": "mythirdaccount2015",
+      "text_history": [
+        [
+          "This is a bit misleading, though. If I understand correctly, this is just looking at incorrect answers divided by (incorrect answers + answers where the model refused to answer)\n\nI don’t think this is a good metric. It’s possible for a model to score worse here, while being strictly more often correct.\n\nOr, theoretically, a model could score perfectly here by always refusing to answer.\n\nThis isn’t really “hallucinations” as much as it is “overconfidence”.\n\nAnd I’m skeptical about the ground truth answer, too.",
+          "2025-11-18T22:32:19.492985"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T22:32:19.492985"
+        ],
+        [
+          1,
+          "2025-11-19T00:16:15.928751"
+        ],
+        [
+          1,
+          "2025-11-19T01:51:04.045867"
+        ],
+        [
+          1,
+          "2025-11-19T02:32:51.118935"
+        ],
+        [
+          1,
+          "2025-11-19T02:36:25.993610"
+        ]
+      ],
+      "created_utc": 1763510002.0,
+      "depth": 0,
+      "permalink": "/r/singularity/comments/1p0jc6e/gemini_3_pro_hallucination_rate_vs_gemini_25_pro/npl0gcm/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npmfxx1",
+      "parent_id": "t3_1p0jc6e",
+      "author": "LearnNewThingsDaily",
+      "text_history": [
+        [
+          "Sorry, I don't believe it, not one bit. I use openAI, anthropic and Gemini quite heavily and have seen way more hallucinations with openAI models",
+          "2025-11-18T22:32:19.492985"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T22:32:19.492985"
+        ],
+        [
+          1,
+          "2025-11-19T00:16:15.928751"
+        ],
+        [
+          1,
+          "2025-11-19T01:51:04.045867"
+        ],
+        [
+          1,
+          "2025-11-19T02:32:51.118935"
+        ],
+        [
+          1,
+          "2025-11-19T02:36:25.993610"
+        ]
+      ],
+      "created_utc": 1763529573.0,
+      "depth": 0,
+      "permalink": "/r/singularity/comments/1p0jc6e/gemini_3_pro_hallucination_rate_vs_gemini_25_pro/npmfxx1/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npmsljc",
+      "parent_id": "t3_1p0jc6e",
+      "author": "shaman-warrior",
+      "text_history": [
+        [
+          "Claude Haiku the least hallucy? hmmmm",
+          "2025-11-19T00:16:15.928751"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T00:16:15.928751"
+        ],
+        [
+          1,
+          "2025-11-19T01:51:04.045867"
+        ],
+        [
+          1,
+          "2025-11-19T02:32:51.118935"
+        ],
+        [
+          1,
+          "2025-11-19T02:36:25.993610"
+        ]
+      ],
+      "created_utc": 1763536279.0,
+      "depth": 0,
+      "permalink": "/r/singularity/comments/1p0jc6e/gemini_3_pro_hallucination_rate_vs_gemini_25_pro/npmsljc/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npmycph",
+      "parent_id": "t3_1p0jc6e",
+      "author": "Downtown-Pear-6509",
+      "text_history": [
+        [
+          "maybe this is why i love haiku ",
+          "2025-11-19T00:16:15.928751"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T00:16:15.928751"
+        ],
+        [
+          1,
+          "2025-11-19T01:51:04.045867"
+        ],
+        [
+          1,
+          "2025-11-19T02:32:51.118935"
+        ],
+        [
+          1,
+          "2025-11-19T02:36:25.993610"
+        ]
+      ],
+      "created_utc": 1763539717.0,
+      "depth": 0,
+      "permalink": "/r/singularity/comments/1p0jc6e/gemini_3_pro_hallucination_rate_vs_gemini_25_pro/npmycph/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npn0jie",
+      "parent_id": "t3_1p0jc6e",
+      "author": "Icy-Register7902",
+      "text_history": [
+        [
+          "Maybe I’m doing light work, but I’m honestly surprised that how many people didn't like 2.5 Pro. I use it for my solo game projects in Unity, and while it does tend to fail a lot, when I point out its errors and tell it exactly what I'm looking for, it complies and fixes the error. Now I’ve started using 3.0 and honestly it doesn't feel that different. But it's still too early to say. However, I can say without a doubt that it is better than Deepseek, Qwen, and ChatGPT for my use case.",
+          "2025-11-19T01:51:04.045867"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T01:51:04.045867"
+        ],
+        [
+          1,
+          "2025-11-19T02:32:51.118935"
+        ],
+        [
+          1,
+          "2025-11-19T02:36:25.993610"
+        ]
+      ],
+      "created_utc": 1763541080.0,
+      "depth": 0,
+      "permalink": "/r/singularity/comments/1p0jc6e/gemini_3_pro_hallucination_rate_vs_gemini_25_pro/npn0jie/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npjor18",
+      "parent_id": "t3_1p0jc6e",
+      "author": "mwon",
+      "text_history": [
+        [
+          "This is why is like so much Claude models. So far Anthropic models are the best at say no, which gives us much more confidence they say something. We can see it like the classical F1 metric. I don't want good F1 just because it gives very good recall, at expense of a lot of false positives. I want also precision to give me confidence in the output.",
+          "2025-11-18T14:45:24.539781"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-18T14:45:24.539781"
+        ],
+        [
+          2,
+          "2025-11-18T14:53:13.672386"
+        ],
+        [
+          2,
+          "2025-11-18T14:53:42.555970"
+        ],
+        [
+          2,
+          "2025-11-18T22:32:19.492985"
+        ],
+        [
+          2,
+          "2025-11-19T00:16:15.928751"
+        ],
+        [
+          1,
+          "2025-11-19T01:51:04.045867"
+        ],
+        [
+          1,
+          "2025-11-19T02:32:51.118935"
+        ],
+        [
+          1,
+          "2025-11-19T02:36:25.993610"
+        ]
+      ],
+      "created_utc": 1763494923.0,
+      "depth": 0,
+      "permalink": "/r/singularity/comments/1p0jc6e/gemini_3_pro_hallucination_rate_vs_gemini_25_pro/npjor18/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npjqfu2",
+      "parent_id": "t3_1p0jc6e",
+      "author": "RealChemistry4429",
+      "text_history": [
+        [
+          "Yay for Claude. Still too high though.",
+          "2025-11-18T14:45:24.539781"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-18T14:45:24.539781"
+        ],
+        [
+          2,
+          "2025-11-18T14:53:13.672386"
+        ],
+        [
+          2,
+          "2025-11-18T14:53:42.555970"
+        ],
+        [
+          2,
+          "2025-11-18T22:32:19.492985"
+        ],
+        [
+          2,
+          "2025-11-19T00:16:15.928751"
+        ],
+        [
+          1,
+          "2025-11-19T01:51:04.045867"
+        ],
+        [
+          1,
+          "2025-11-19T02:32:51.118935"
+        ],
+        [
+          1,
+          "2025-11-19T02:36:25.993610"
+        ]
+      ],
+      "created_utc": 1763495429.0,
+      "depth": 0,
+      "permalink": "/r/singularity/comments/1p0jc6e/gemini_3_pro_hallucination_rate_vs_gemini_25_pro/npjqfu2/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npjt8gr",
+      "parent_id": "t3_1p0jc6e",
+      "author": "-illusoryMechanist",
+      "text_history": [
+        [
+          "So is higher or lower better on this benchmark",
+          "2025-11-18T14:45:24.539781"
+        ]
+      ],
+      "score_history": [
+        [
+          0,
+          "2025-11-18T14:45:24.539781"
+        ],
+        [
+          0,
+          "2025-11-18T14:53:13.672386"
+        ],
+        [
+          0,
+          "2025-11-18T14:53:42.555970"
+        ],
+        [
+          1,
+          "2025-11-18T22:32:19.492985"
+        ],
+        [
+          1,
+          "2025-11-19T00:16:15.928751"
+        ],
+        [
+          1,
+          "2025-11-19T01:51:04.045867"
+        ],
+        [
+          1,
+          "2025-11-19T02:32:51.118935"
+        ],
+        [
+          1,
+          "2025-11-19T02:36:25.993610"
+        ]
+      ],
+      "created_utc": 1763496263.0,
+      "depth": 0,
+      "permalink": "/r/singularity/comments/1p0jc6e/gemini_3_pro_hallucination_rate_vs_gemini_25_pro/npjt8gr/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npk1ox8",
+          "parent_id": "t1_npjt8gr",
+          "author": "ayman_donia2025",
+          "text_history": [
+            [
+              "lower is better",
+              "2025-11-18T14:45:24.539781"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T14:45:24.539781"
+            ],
+            [
+              3,
+              "2025-11-18T14:53:13.672386"
+            ],
+            [
+              3,
+              "2025-11-18T14:53:42.555970"
+            ],
+            [
+              5,
+              "2025-11-18T22:32:19.492985"
+            ],
+            [
+              6,
+              "2025-11-19T00:16:15.928751"
+            ],
+            [
+              5,
+              "2025-11-19T01:51:04.045867"
+            ],
+            [
+              5,
+              "2025-11-19T02:32:51.118935"
+            ],
+            [
+              5,
+              "2025-11-19T02:36:25.993610"
+            ]
+          ],
+          "created_utc": 1763498844.0,
+          "depth": 1,
+          "permalink": "/r/singularity/comments/1p0jc6e/gemini_3_pro_hallucination_rate_vs_gemini_25_pro/npk1ox8/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npkx500",
+      "parent_id": "t3_1p0jc6e",
+      "author": "Artforartsake99",
+      "text_history": [
+        [
+          "Gemini 2.5 hallucinated a download file json help when it was packaging up a file it had coded.  (Twice).  I went back to ChatGPT after that",
+          "2025-11-18T22:32:19.492985"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T22:32:19.492985"
+        ],
+        [
+          2,
+          "2025-11-19T00:16:15.928751"
+        ],
+        [
+          1,
+          "2025-11-19T01:51:04.045867"
+        ],
+        [
+          1,
+          "2025-11-19T02:32:51.118935"
+        ],
+        [
+          1,
+          "2025-11-19T02:36:25.993610"
+        ]
+      ],
+      "created_utc": 1763508815.0,
+      "depth": 0,
+      "permalink": "/r/singularity/comments/1p0jc6e/gemini_3_pro_hallucination_rate_vs_gemini_25_pro/npkx500/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nplbumc",
+      "parent_id": "t3_1p0jc6e",
+      "author": "Jabulon",
+      "text_history": [
+        [
+          "why is claude so good",
+          "2025-11-18T22:32:19.492985"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-18T22:32:19.492985"
+        ],
+        [
+          2,
+          "2025-11-19T00:16:15.928751"
+        ],
+        [
+          1,
+          "2025-11-19T01:51:04.045867"
+        ],
+        [
+          1,
+          "2025-11-19T02:32:51.118935"
+        ],
+        [
+          1,
+          "2025-11-19T02:36:25.993610"
+        ]
+      ],
+      "created_utc": 1763513996.0,
+      "depth": 0,
+      "permalink": "/r/singularity/comments/1p0jc6e/gemini_3_pro_hallucination_rate_vs_gemini_25_pro/nplbumc/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npk8z1a",
+      "parent_id": "t3_1p0jc6e",
+      "author": "AdminMas7erThe2nd",
+      "text_history": [
+        [
+          "yall wanted a superfast coder, heres your superfast coder\n\nno refunds",
+          "2025-11-18T14:45:24.539781"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:45:24.539781"
+        ],
+        [
+          1,
+          "2025-11-18T14:53:13.672386"
+        ],
+        [
+          1,
+          "2025-11-18T14:53:42.555970"
+        ],
+        [
+          0,
+          "2025-11-18T22:32:19.492985"
+        ],
+        [
+          0,
+          "2025-11-19T00:16:15.928751"
+        ],
+        [
+          0,
+          "2025-11-19T01:51:04.045867"
+        ],
+        [
+          0,
+          "2025-11-19T02:32:51.118935"
+        ],
+        [
+          0,
+          "2025-11-19T02:36:25.993610"
+        ]
+      ],
+      "created_utc": 1763501000.0,
+      "depth": 0,
+      "permalink": "/r/singularity/comments/1p0jc6e/gemini_3_pro_hallucination_rate_vs_gemini_25_pro/npk8z1a/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T02:36:25.993610",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/singularity/comments/1p0jc6e/gemini_3_pro_hallucination_rate_vs_gemini_25_pro/",
+    "total_comments": 73,
+    "top_level_comments": 26,
+    "api_requests": 1,
+    "expected_comments": 73,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 8,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_144524.json",
+      "scrape_002_20251118_145313.json",
+      "scrape_003_20251118_145342.json",
+      "scrape_004_20251118_223218.json",
+      "scrape_005_20251119_001615.json",
+      "scrape_006_20251119_015103.json",
+      "scrape_007_20251119_023250.json",
+      "scrape_008_20251119_023625.json"
+    ]
+  }
+}

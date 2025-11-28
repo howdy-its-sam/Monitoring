@@ -1,0 +1,241 @@
+{
+  "post": {
+    "id": "1p13kan",
+    "title": "which AI detector do you trust when using ChatGPT?",
+    "author": "wprimly",
+    "score_history": [
+      [
+        3,
+        "2025-11-19T02:55:55.872452"
+      ],
+      [
+        3,
+        "2025-11-19T03:08:51.258282"
+      ],
+      [
+        3,
+        "2025-11-19T03:17:35.451247"
+      ],
+      [
+        3,
+        "2025-11-19T03:19:39.862016"
+      ]
+    ],
+    "created_utc": 1763546288.0,
+    "num_comments": 6,
+    "subreddit": "ChatGPTPro",
+    "url": "https://www.reddit.com/r/ChatGPTPro/comments/1p13kan/which_ai_detector_do_you_trust_when_using_chatgpt/",
+    "selftext": "I’ve been using ChatGPT Pro for drafts, and lately I’m concerned about how writing might be flagged by detectors. I tested a few tools (GPTZero, ZeroGPT, and Originality AI). the last one gave the most reasonable feedback: flagged only a few lines and gave context. what detectors do you use, and how often do you check your output before sharing or submitting?",
+    "permalink": "/r/ChatGPTPro/comments/1p13kan/which_ai_detector_do_you_trust_when_using_chatgpt/"
+  },
+  "comments": [
+    {
+      "id": "npn8ti5",
+      "parent_id": "t3_1p13kan",
+      "author": "qualityvote2",
+      "text_history": [
+        [
+          "Hello u/wprimly 👋 Welcome to r/ChatGPTPro!  \nThis is a community for advanced ChatGPT, AI tools, and prompt engineering discussions.  \nOther members will now vote on whether your post fits our community guidelines.\n\n\n---\n\nFor other users, does this post fit the subreddit?\n\nIf so, **upvote this comment!**\n\nOtherwise, **downvote this comment!**\n\nAnd if it does break the rules, **downvote this comment and report this post!**",
+          "2025-11-19T02:55:55.872452"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:55:55.872452"
+        ],
+        [
+          1,
+          "2025-11-19T03:08:51.258282"
+        ],
+        [
+          1,
+          "2025-11-19T03:17:35.451247"
+        ],
+        [
+          1,
+          "2025-11-19T03:19:39.862016"
+        ]
+      ],
+      "created_utc": 1763546290.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTPro/comments/1p13kan/which_ai_detector_do_you_trust_when_using_chatgpt/npn8ti5/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npn9m2v",
+      "parent_id": "t3_1p13kan",
+      "author": "weespat",
+      "text_history": [
+        [
+          "GPT 5 Pro doesn't trigger GPT Zero? ",
+          "2025-11-19T02:55:55.872452"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:55:55.872452"
+        ],
+        [
+          1,
+          "2025-11-19T03:08:51.258282"
+        ],
+        [
+          1,
+          "2025-11-19T03:17:35.451247"
+        ],
+        [
+          1,
+          "2025-11-19T03:19:39.862016"
+        ]
+      ],
+      "created_utc": 1763546778.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTPro/comments/1p13kan/which_ai_detector_do_you_trust_when_using_chatgpt/npn9m2v/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npn9r81",
+      "parent_id": "t3_1p13kan",
+      "author": "AdDry7344",
+      "text_history": [
+        [
+          "None. They don’t work.",
+          "2025-11-19T02:55:55.872452"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:55:55.872452"
+        ],
+        [
+          1,
+          "2025-11-19T03:08:51.258282"
+        ],
+        [
+          1,
+          "2025-11-19T03:17:35.451247"
+        ],
+        [
+          1,
+          "2025-11-19T03:19:39.862016"
+        ]
+      ],
+      "created_utc": 1763546864.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTPro/comments/1p13kan/which_ai_detector_do_you_trust_when_using_chatgpt/npn9r81/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npnbuvz",
+      "parent_id": "t3_1p13kan",
+      "author": "Old-Air-5614",
+      "text_history": [
+        [
+          "i tested the same Pro output across a few tools. GPTZero flagged most of it, but Originality only highlighted a few robotic patterns.",
+          "2025-11-19T02:55:55.872452"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:55:55.872452"
+        ],
+        [
+          1,
+          "2025-11-19T03:08:51.258282"
+        ],
+        [
+          1,
+          "2025-11-19T03:17:35.451247"
+        ],
+        [
+          1,
+          "2025-11-19T03:19:39.862016"
+        ]
+      ],
+      "created_utc": 1763548133.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTPro/comments/1p13kan/which_ai_detector_do_you_trust_when_using_chatgpt/npnbuvz/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npnfzde",
+      "parent_id": "t3_1p13kan",
+      "author": "ResidentHovercraft68",
+      "text_history": [
+        [
+          "I mostly stick to GPTZero and Turnitin when I need to double-check stuff – but results are so random, it's honestly a mess trying to figure out which detector actually 'gets' your writing. Originality AI is definitely decent for the line-by-line breakdown, but sometimes I need a deeper look, like which paragraphs pop up as suspicious, not just surface scores.\n\nI've recently mixed in AIDetectPlus alongside the usual suspects (Copyleaks, Quillbot), just to get a bit more context. Some of their detailed analysis made me rethink how original my drafts really are. Still, it's mostly about staying ahead of the feedback loop and catching weird red flags before they pile up.\n\nHow do you decide how many times to check before you're ready to submit? I've had weeks where I overchecked and started doubting everything, and other times just went with my gut. Especially interested if anyone shares a schedule or workflow – mine's kind of chaos right now.",
+          "2025-11-19T03:08:51.258282"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T03:08:51.258282"
+        ],
+        [
+          1,
+          "2025-11-19T03:17:35.451247"
+        ],
+        [
+          1,
+          "2025-11-19T03:19:39.862016"
+        ]
+      ],
+      "created_utc": 1763550505.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTPro/comments/1p13kan/which_ai_detector_do_you_trust_when_using_chatgpt/npnfzde/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:19:39.862016",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/ChatGPTPro/comments/1p13kan/which_ai_detector_do_you_trust_when_using_chatgpt/",
+    "total_comments": 5,
+    "top_level_comments": 5,
+    "api_requests": 1,
+    "expected_comments": 6,
+    "coverage_percent": 83.33,
+    "merged_snapshot_count": 4,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_025555.json",
+      "scrape_002_20251119_030851.json",
+      "scrape_003_20251119_031735.json",
+      "scrape_004_20251119_031939.json"
+    ]
+  }
+}

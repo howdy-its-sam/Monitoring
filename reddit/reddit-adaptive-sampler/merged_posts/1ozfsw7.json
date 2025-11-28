@@ -1,0 +1,1123 @@
+{
+  "post": {
+    "id": "1ozfsw7",
+    "title": "Is anyone here actually using Toon?",
+    "author": "Ooodv",
+    "score_history": [
+      [
+        8,
+        "2025-11-18T14:43:38.293258"
+      ],
+      [
+        9,
+        "2025-11-18T14:53:11.914831"
+      ],
+      [
+        10,
+        "2025-11-18T14:53:54.949686"
+      ],
+      [
+        9,
+        "2025-11-18T22:21:54.416554"
+      ],
+      [
+        10,
+        "2025-11-19T00:15:33.264364"
+      ],
+      [
+        9,
+        "2025-11-19T02:01:17.415264"
+      ]
+    ],
+    "created_utc": 1763384862.0,
+    "num_comments": 23,
+    "subreddit": "Rag",
+    "url": "https://www.reddit.com/r/Rag/comments/1ozfsw7/is_anyone_here_actually_using_toon/",
+    "selftext": "Lowkey thought it was a joke when I saw it but I’ve really only seen it on here(Reddit) in passing, it doesn’t seem that groundbreaking in fact it seems like it might be worse than just using a summarized version of the information you’re pulling, but like I said idk much about it\n\nThe conclusion also seems overly trivial to me, if you remove most of the supporting info from a given set, ofc it’ll be smaller, but non-essential doesn’t necessarily mean worthless\n\nI get that every token counts but it doesn’t seem like the loss of information would be worth it, I mean assuming you already converted some real world data into JSON why would you include any unnecessary information in the first place\n\nAlso not really a major point but I thought JSON was already human readable\n\nIf you have used it how is it treating you, am I completely wrong, is it just about the same as anything else, or is it truly as awesome as they’d have me believe?",
+    "permalink": "/r/Rag/comments/1ozfsw7/is_anyone_here_actually_using_toon/"
+  },
+  "comments": [
+    {
+      "id": "npb7iyk",
+      "parent_id": "t3_1ozfsw7",
+      "author": "Mission_Biscotti3962",
+      "text_history": [
+        [
+          "I don't trust formats that weren't present in the training data to outperform formats actually present in the training data.  \nLow token formats might become interesting if the models are trained on them",
+          "2025-11-18T14:43:38.293258"
+        ]
+      ],
+      "score_history": [
+        [
+          24,
+          "2025-11-18T14:43:38.293258"
+        ],
+        [
+          25,
+          "2025-11-18T14:53:11.914831"
+        ],
+        [
+          24,
+          "2025-11-18T14:53:54.949686"
+        ],
+        [
+          25,
+          "2025-11-18T22:21:54.416554"
+        ],
+        [
+          24,
+          "2025-11-19T00:15:33.264364"
+        ],
+        [
+          23,
+          "2025-11-19T02:01:17.415264"
+        ]
+      ],
+      "created_utc": 1763385150.0,
+      "depth": 0,
+      "permalink": "/r/Rag/comments/1ozfsw7/is_anyone_here_actually_using_toon/npb7iyk/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npdxk80",
+          "parent_id": "t1_npb7iyk",
+          "author": "TrustGraph",
+          "text_history": [
+            [
+              "Exactly. Trying to \"teach\" LLMs new formats is very unreliable. TOON is just CSV with a bit more stuff. We've always found CSV is not a particularly reliable format for LLMs. Any format that relies on newline breaks, tabs, or spaces for the actual format - while more human readable - leads to more formatting errors.\n\nXML is still the most reliable format. Then JSON. After that? It really drops off. XML is an incredibly mature and robust data exchange format. It's only fault is that it's an eyesore. But LLMs don't care about that.",
+              "2025-11-18T14:43:38.293258"
+            ]
+          ],
+          "score_history": [
+            [
+              4,
+              "2025-11-18T14:43:38.293258"
+            ],
+            [
+              5,
+              "2025-11-18T14:53:11.914831"
+            ],
+            [
+              4,
+              "2025-11-18T14:53:54.949686"
+            ],
+            [
+              4,
+              "2025-11-18T22:21:54.416554"
+            ],
+            [
+              3,
+              "2025-11-19T00:15:33.264364"
+            ],
+            [
+              4,
+              "2025-11-19T02:01:17.415264"
+            ]
+          ],
+          "created_utc": 1763415307.0,
+          "depth": 1,
+          "permalink": "/r/Rag/comments/1ozfsw7/is_anyone_here_actually_using_toon/npdxk80/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npbf7cl",
+      "parent_id": "t3_1ozfsw7",
+      "author": "TeeRKee",
+      "text_history": [
+        [
+          "This toon stuff is an astroturfing campaign.",
+          "2025-11-18T14:43:38.293258"
+        ]
+      ],
+      "score_history": [
+        [
+          11,
+          "2025-11-18T14:43:38.293258"
+        ],
+        [
+          14,
+          "2025-11-18T14:53:11.914831"
+        ],
+        [
+          13,
+          "2025-11-18T14:53:54.949686"
+        ],
+        [
+          13,
+          "2025-11-18T22:21:54.416554"
+        ],
+        [
+          11,
+          "2025-11-19T00:15:33.264364"
+        ],
+        [
+          13,
+          "2025-11-19T02:01:17.415264"
+        ]
+      ],
+      "created_utc": 1763387950.0,
+      "depth": 0,
+      "permalink": "/r/Rag/comments/1ozfsw7/is_anyone_here_actually_using_toon/npbf7cl/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npbfuaq",
+      "parent_id": "t3_1ozfsw7",
+      "author": "gus_the_polar_bear",
+      "text_history": [
+        [
+          "Anyone excited about TOON has never actually built anything serious with LLMs",
+          "2025-11-18T14:43:38.293258"
+        ]
+      ],
+      "score_history": [
+        [
+          10,
+          "2025-11-18T14:43:38.293258"
+        ],
+        [
+          10,
+          "2025-11-18T14:53:11.914831"
+        ],
+        [
+          10,
+          "2025-11-18T14:53:54.949686"
+        ],
+        [
+          11,
+          "2025-11-18T22:21:54.416554"
+        ],
+        [
+          9,
+          "2025-11-19T00:15:33.264364"
+        ],
+        [
+          9,
+          "2025-11-19T02:01:17.415264"
+        ]
+      ],
+      "created_utc": 1763388177.0,
+      "depth": 0,
+      "permalink": "/r/Rag/comments/1ozfsw7/is_anyone_here_actually_using_toon/npbfuaq/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npbcyjj",
+      "parent_id": "t3_1ozfsw7",
+      "author": "pokemonplayer2001",
+      "text_history": [
+        [
+          "Seems like an optimization that is not worth the effort.\n\nI also find it less readable than JSON, so 🤷.",
+          "2025-11-18T14:43:38.293258"
+        ]
+      ],
+      "score_history": [
+        [
+          9,
+          "2025-11-18T14:43:38.293258"
+        ],
+        [
+          7,
+          "2025-11-18T14:53:11.914831"
+        ],
+        [
+          7,
+          "2025-11-18T14:53:54.949686"
+        ],
+        [
+          9,
+          "2025-11-18T22:21:54.416554"
+        ],
+        [
+          8,
+          "2025-11-19T00:15:33.264364"
+        ],
+        [
+          7,
+          "2025-11-19T02:01:17.415264"
+        ]
+      ],
+      "created_utc": 1763387160.0,
+      "depth": 0,
+      "permalink": "/r/Rag/comments/1ozfsw7/is_anyone_here_actually_using_toon/npbcyjj/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npbcruz",
+      "parent_id": "t3_1ozfsw7",
+      "author": "mtutty",
+      "text_history": [
+        [
+          "It's not a groundswell of support.  It's a marketing move.",
+          "2025-11-18T14:43:38.293258"
+        ]
+      ],
+      "score_history": [
+        [
+          8,
+          "2025-11-18T14:43:38.293258"
+        ],
+        [
+          7,
+          "2025-11-18T14:53:11.914831"
+        ],
+        [
+          7,
+          "2025-11-18T14:53:54.949686"
+        ],
+        [
+          8,
+          "2025-11-18T22:21:54.416554"
+        ],
+        [
+          6,
+          "2025-11-19T00:15:33.264364"
+        ],
+        [
+          8,
+          "2025-11-19T02:01:17.415264"
+        ]
+      ],
+      "created_utc": 1763387095.0,
+      "depth": 0,
+      "permalink": "/r/Rag/comments/1ozfsw7/is_anyone_here_actually_using_toon/npbcruz/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npcdfmg",
+      "parent_id": "t3_1ozfsw7",
+      "author": "Sausagemcmuffinhead",
+      "text_history": [
+        [
+          "it's a csv with novel syntax the LLMs have never seen. Are there any serious benchmarks? My instinct is that it will perform poorly against JSON with a non trivial dataset. The labels will be very far from the values",
+          "2025-11-18T14:43:38.293258"
+        ]
+      ],
+      "score_history": [
+        [
+          3,
+          "2025-11-18T14:43:38.293258"
+        ],
+        [
+          3,
+          "2025-11-18T14:53:11.914831"
+        ],
+        [
+          3,
+          "2025-11-18T14:53:54.949686"
+        ],
+        [
+          3,
+          "2025-11-18T22:21:54.416554"
+        ],
+        [
+          3,
+          "2025-11-19T00:15:33.264364"
+        ],
+        [
+          4,
+          "2025-11-19T02:01:17.415264"
+        ]
+      ],
+      "created_utc": 1763398627.0,
+      "depth": 0,
+      "permalink": "/r/Rag/comments/1ozfsw7/is_anyone_here_actually_using_toon/npcdfmg/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npl4ic3",
+          "parent_id": "t1_npcdfmg",
+          "author": "Meaveready",
+          "text_history": [
+            [
+              "Kinda weird to think this is a good move knowing that the most common issue we tie to LLMs for any prompt with a reasonably big context is the lost-in-the-middle.",
+              "2025-11-18T22:21:54.416554"
+            ]
+          ],
+          "score_history": [
+            [
+              2,
+              "2025-11-18T22:21:54.416554"
+            ],
+            [
+              2,
+              "2025-11-19T00:15:33.264364"
+            ],
+            [
+              2,
+              "2025-11-19T02:01:17.415264"
+            ]
+          ],
+          "created_utc": 1763511426.0,
+          "depth": 1,
+          "permalink": "/r/Rag/comments/1ozfsw7/is_anyone_here_actually_using_toon/npl4ic3/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npbw3sy",
+      "parent_id": "t3_1ozfsw7",
+      "author": "Neither-Love6541",
+      "text_history": [
+        [
+          "No it is trash. Anything you see hyped up on linkedin will be mostly trash. It could be useful in certain scenarios but is definitely no silver bullet",
+          "2025-11-18T14:43:38.293258"
+        ]
+      ],
+      "score_history": [
+        [
+          3,
+          "2025-11-18T14:43:38.293258"
+        ],
+        [
+          3,
+          "2025-11-18T14:53:11.914831"
+        ],
+        [
+          3,
+          "2025-11-18T14:53:54.949686"
+        ],
+        [
+          3,
+          "2025-11-18T22:21:54.416554"
+        ],
+        [
+          3,
+          "2025-11-19T00:15:33.264364"
+        ],
+        [
+          3,
+          "2025-11-19T02:01:17.415264"
+        ]
+      ],
+      "created_utc": 1763393500.0,
+      "depth": 0,
+      "permalink": "/r/Rag/comments/1ozfsw7/is_anyone_here_actually_using_toon/npbw3sy/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npl31os",
+          "parent_id": "t1_npbw3sy",
+          "author": "Meaveready",
+          "text_history": [
+            [
+              "That stuff is actually getting hyped? With all the groundbreaking, daily-life-shattering innovations we see 6 days of the week, someone just decided to rename CSV into a funky name and they are making hype? I guess there's still hope for the laymen!",
+              "2025-11-18T22:21:54.416554"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T22:21:54.416554"
+            ],
+            [
+              1,
+              "2025-11-19T00:15:33.264364"
+            ],
+            [
+              1,
+              "2025-11-19T02:01:17.415264"
+            ]
+          ],
+          "created_utc": 1763510916.0,
+          "depth": 1,
+          "permalink": "/r/Rag/comments/1ozfsw7/is_anyone_here_actually_using_toon/npl31os/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npcjupt",
+      "parent_id": "t3_1ozfsw7",
+      "author": "vogut",
+      "text_history": [
+        [
+          "It's bs",
+          "2025-11-18T14:43:38.293258"
+        ]
+      ],
+      "score_history": [
+        [
+          3,
+          "2025-11-18T14:43:38.293258"
+        ],
+        [
+          3,
+          "2025-11-18T14:53:11.914831"
+        ],
+        [
+          3,
+          "2025-11-18T14:53:54.949686"
+        ],
+        [
+          3,
+          "2025-11-18T22:21:54.416554"
+        ],
+        [
+          3,
+          "2025-11-19T00:15:33.264364"
+        ],
+        [
+          3,
+          "2025-11-19T02:01:17.415264"
+        ]
+      ],
+      "created_utc": 1763400531.0,
+      "depth": 0,
+      "permalink": "/r/Rag/comments/1ozfsw7/is_anyone_here_actually_using_toon/npcjupt/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npg27qc",
+          "parent_id": "t1_npcjupt",
+          "author": "Unfair_Word4006",
+          "text_history": [
+            [
+              "Yeah, a lot of folks feel that way. It definitely doesn't seem to bring anything revolutionary to the table, and simplifying info can sometimes lose context. Just stick to what works for you!",
+              "2025-11-18T14:43:38.293258"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T14:43:38.293258"
+            ],
+            [
+              1,
+              "2025-11-18T14:53:11.914831"
+            ],
+            [
+              1,
+              "2025-11-18T14:53:54.949686"
+            ],
+            [
+              1,
+              "2025-11-18T22:21:54.416554"
+            ],
+            [
+              1,
+              "2025-11-19T00:15:33.264364"
+            ],
+            [
+              1,
+              "2025-11-19T02:01:17.415264"
+            ]
+          ],
+          "created_utc": 1763442940.0,
+          "depth": 1,
+          "permalink": "/r/Rag/comments/1ozfsw7/is_anyone_here_actually_using_toon/npg27qc/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npbqrxa",
+      "parent_id": "t3_1ozfsw7",
+      "author": "rshah4",
+      "text_history": [
+        [
+          "I love influencers posting about how groundbreaking toon is, quick way to sort out the pretenders.",
+          "2025-11-18T14:43:38.293258"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-18T14:43:38.293258"
+        ],
+        [
+          2,
+          "2025-11-18T14:53:11.914831"
+        ],
+        [
+          2,
+          "2025-11-18T14:53:54.949686"
+        ],
+        [
+          2,
+          "2025-11-18T22:21:54.416554"
+        ],
+        [
+          2,
+          "2025-11-19T00:15:33.264364"
+        ],
+        [
+          2,
+          "2025-11-19T02:01:17.415264"
+        ]
+      ],
+      "created_utc": 1763391852.0,
+      "depth": 0,
+      "permalink": "/r/Rag/comments/1ozfsw7/is_anyone_here_actually_using_toon/npbqrxa/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npbsp29",
+      "parent_id": "t3_1ozfsw7",
+      "author": "ToX__82",
+      "text_history": [
+        [
+          "I don't use Toon yet, but I honestly can't wait to have some LLMs trained to use it properly and respond with structured toon output.\n\nI'm mostly interested in the output format btw, input is not a big deal for my use cases as it's mainly text/markdown. Having faster responses and less token consumption would be great.",
+          "2025-11-18T14:43:38.293258"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-18T14:43:38.293258"
+        ],
+        [
+          2,
+          "2025-11-18T14:53:11.914831"
+        ],
+        [
+          2,
+          "2025-11-18T14:53:54.949686"
+        ],
+        [
+          2,
+          "2025-11-18T22:21:54.416554"
+        ],
+        [
+          2,
+          "2025-11-19T00:15:33.264364"
+        ],
+        [
+          2,
+          "2025-11-19T02:01:17.415264"
+        ]
+      ],
+      "created_utc": 1763392455.0,
+      "depth": 0,
+      "permalink": "/r/Rag/comments/1ozfsw7/is_anyone_here_actually_using_toon/npbsp29/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npci9o7",
+      "parent_id": "t3_1ozfsw7",
+      "author": "dash_bro",
+      "text_history": [
+        [
+          "It's all bs as far as I'm concerned. If an LLM's training data was in this format then it should make sense for you to reformat your JSONs that way, yes. Otherwise why the hell would it matter. Markdown and JSON are far superior for this because the models are actually trained on this type of representations.\n\nIf you're concerned about costs you're better off removing double quotes, removing tabs and spaces as well as collapsing your json to be super compact, and adding it either as a response format or part of your system prompt (not recommended but it'll be cheaper if the system prompt is cached). You'll save a lot on tokens.\nLLMs are good at decoding information, you don't need to worry about pretty-printing your json when you dump it into the LLM context window.\n\nMy personal rules of thumb:\n\n- guidelines, rules and unstructured data goes in markdown format, always\n\n- data schemas are compressed JSONs with no spaces and no double quotes\n\n- few shot examples are dynamically pulled from a bank of known examples to ensure quality and consistency\n\n- unless I run the model locally I'm always trying to improve **system prompt caching** to get better outputs on lower costs.",
+          "2025-11-18T14:43:38.293258"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:43:38.293258"
+        ],
+        [
+          1,
+          "2025-11-18T14:53:11.914831"
+        ],
+        [
+          1,
+          "2025-11-18T14:53:54.949686"
+        ],
+        [
+          1,
+          "2025-11-18T22:21:54.416554"
+        ],
+        [
+          1,
+          "2025-11-19T00:15:33.264364"
+        ],
+        [
+          1,
+          "2025-11-19T02:01:17.415264"
+        ]
+      ],
+      "created_utc": 1763400063.0,
+      "depth": 0,
+      "permalink": "/r/Rag/comments/1ozfsw7/is_anyone_here_actually_using_toon/npci9o7/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npd7rqj",
+      "parent_id": "t3_1ozfsw7",
+      "author": "ag0x00",
+      "text_history": [
+        [
+          "I'm having YAML vs JSON holy war flashbacks.",
+          "2025-11-18T14:43:38.293258"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:43:38.293258"
+        ],
+        [
+          1,
+          "2025-11-18T14:53:11.914831"
+        ],
+        [
+          1,
+          "2025-11-18T14:53:54.949686"
+        ],
+        [
+          1,
+          "2025-11-18T22:21:54.416554"
+        ],
+        [
+          1,
+          "2025-11-19T00:15:33.264364"
+        ],
+        [
+          1,
+          "2025-11-19T02:01:17.415264"
+        ]
+      ],
+      "created_utc": 1763407500.0,
+      "depth": 0,
+      "permalink": "/r/Rag/comments/1ozfsw7/is_anyone_here_actually_using_toon/npd7rqj/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npdroof",
+      "parent_id": "t3_1ozfsw7",
+      "author": "xtrimprv",
+      "text_history": [
+        [
+          "Llms hace trouble making sense of larger CSVs. Why would Ig do better on toon?",
+          "2025-11-18T14:43:38.293258"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:43:38.293258"
+        ],
+        [
+          1,
+          "2025-11-18T14:53:11.914831"
+        ],
+        [
+          1,
+          "2025-11-18T14:53:54.949686"
+        ],
+        [
+          1,
+          "2025-11-18T22:21:54.416554"
+        ],
+        [
+          1,
+          "2025-11-19T00:15:33.264364"
+        ],
+        [
+          1,
+          "2025-11-19T02:01:17.415264"
+        ]
+      ],
+      "created_utc": 1763413533.0,
+      "depth": 0,
+      "permalink": "/r/Rag/comments/1ozfsw7/is_anyone_here_actually_using_toon/npdroof/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npetwp7",
+      "parent_id": "t3_1ozfsw7",
+      "author": "trollsmurf",
+      "text_history": [
+        [
+          "You are missing the point of Toon. It doesn't remove information per se, it removes syntax sugar.",
+          "2025-11-18T14:43:38.293258"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:43:38.293258"
+        ],
+        [
+          1,
+          "2025-11-18T14:53:11.914831"
+        ],
+        [
+          1,
+          "2025-11-18T14:53:54.949686"
+        ],
+        [
+          1,
+          "2025-11-18T22:21:54.416554"
+        ],
+        [
+          1,
+          "2025-11-19T00:15:33.264364"
+        ],
+        [
+          1,
+          "2025-11-19T02:01:17.415264"
+        ]
+      ],
+      "created_utc": 1763426056.0,
+      "depth": 0,
+      "permalink": "/r/Rag/comments/1ozfsw7/is_anyone_here_actually_using_toon/npetwp7/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npfn12b",
+      "parent_id": "t3_1ozfsw7",
+      "author": "Lyuseefur",
+      "text_history": [
+        [
+          "Oh good lord you folks. Try it. Tell your coder to always output to toon format the .md files. Saves tokens. JFC.",
+          "2025-11-18T14:43:38.293258"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:43:38.293258"
+        ],
+        [
+          1,
+          "2025-11-18T14:53:11.914831"
+        ],
+        [
+          1,
+          "2025-11-18T14:53:54.949686"
+        ],
+        [
+          1,
+          "2025-11-18T22:21:54.416554"
+        ],
+        [
+          1,
+          "2025-11-19T00:15:33.264364"
+        ],
+        [
+          1,
+          "2025-11-19T02:01:17.415264"
+        ]
+      ],
+      "created_utc": 1763436473.0,
+      "depth": 0,
+      "permalink": "/r/Rag/comments/1ozfsw7/is_anyone_here_actually_using_toon/npfn12b/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npguj9p",
+      "parent_id": "t3_1ozfsw7",
+      "author": "LifeTea9244",
+      "text_history": [
+        [
+          "I don’t know it feels like a worse version of a csv. hard to justify it when jsonl exists even.",
+          "2025-11-18T14:43:38.293258"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:43:38.293258"
+        ],
+        [
+          1,
+          "2025-11-18T14:53:11.914831"
+        ],
+        [
+          1,
+          "2025-11-18T14:53:54.949686"
+        ],
+        [
+          1,
+          "2025-11-18T22:21:54.416554"
+        ],
+        [
+          1,
+          "2025-11-19T00:15:33.264364"
+        ],
+        [
+          1,
+          "2025-11-19T02:01:17.415264"
+        ]
+      ],
+      "created_utc": 1763459368.0,
+      "depth": 0,
+      "permalink": "/r/Rag/comments/1ozfsw7/is_anyone_here_actually_using_toon/npguj9p/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npbi14p",
+      "parent_id": "t3_1ozfsw7",
+      "author": "Ok-Adhesiveness-4141",
+      "text_history": [
+        [
+          "Yes, I know someone using Toon, works for a big bank.",
+          "2025-11-18T14:43:38.293258"
+        ]
+      ],
+      "score_history": [
+        [
+          0,
+          "2025-11-18T14:43:38.293258"
+        ],
+        [
+          0,
+          "2025-11-18T14:53:11.914831"
+        ],
+        [
+          0,
+          "2025-11-18T14:53:54.949686"
+        ],
+        [
+          0,
+          "2025-11-18T22:21:54.416554"
+        ],
+        [
+          0,
+          "2025-11-19T00:15:33.264364"
+        ],
+        [
+          0,
+          "2025-11-19T02:01:17.415264"
+        ]
+      ],
+      "created_utc": 1763388947.0,
+      "depth": 0,
+      "permalink": "/r/Rag/comments/1ozfsw7/is_anyone_here_actually_using_toon/npbi14p/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npbqdtn",
+          "parent_id": "t1_npbi14p",
+          "author": "Ooodv",
+          "text_history": [
+            [
+              "Are they a programmer and how are they feeling about it?",
+              "2025-11-18T14:43:38.293258"
+            ]
+          ],
+          "score_history": [
+            [
+              2,
+              "2025-11-18T14:43:38.293258"
+            ],
+            [
+              2,
+              "2025-11-18T14:53:11.914831"
+            ],
+            [
+              2,
+              "2025-11-18T14:53:54.949686"
+            ],
+            [
+              2,
+              "2025-11-18T22:21:54.416554"
+            ],
+            [
+              2,
+              "2025-11-19T00:15:33.264364"
+            ],
+            [
+              2,
+              "2025-11-19T02:01:17.415264"
+            ]
+          ],
+          "created_utc": 1763391725.0,
+          "depth": 1,
+          "permalink": "/r/Rag/comments/1ozfsw7/is_anyone_here_actually_using_toon/npbqdtn/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npbxm4q",
+              "parent_id": "t1_npbqdtn",
+              "author": "Ok-Adhesiveness-4141",
+              "text_history": [
+                [
+                  "They are saying it is amazing, but beyond token size reduction I don't really see the benefit. They are also the kind that likes to try out all new technologies.\n\nThey are a senior software architect with 25 years of experience.",
+                  "2025-11-18T14:43:38.293258"
+                ]
+              ],
+              "score_history": [
+                [
+                  2,
+                  "2025-11-18T14:43:38.293258"
+                ],
+                [
+                  2,
+                  "2025-11-18T14:53:11.914831"
+                ],
+                [
+                  2,
+                  "2025-11-18T14:53:54.949686"
+                ],
+                [
+                  2,
+                  "2025-11-18T22:21:54.416554"
+                ],
+                [
+                  2,
+                  "2025-11-19T00:15:33.264364"
+                ],
+                [
+                  2,
+                  "2025-11-19T02:01:17.415264"
+                ]
+              ],
+              "created_utc": 1763393958.0,
+              "depth": 2,
+              "permalink": "/r/Rag/comments/1ozfsw7/is_anyone_here_actually_using_toon/npbxm4q/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T02:01:17.415264",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/Rag/comments/1ozfsw7/is_anyone_here_actually_using_toon/",
+    "total_comments": 23,
+    "top_level_comments": 17,
+    "api_requests": 1,
+    "expected_comments": 23,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 6,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_144338.json",
+      "scrape_002_20251118_145311.json",
+      "scrape_003_20251118_145354.json",
+      "scrape_004_20251118_222154.json",
+      "scrape_005_20251119_001532.json",
+      "scrape_006_20251119_020117.json"
+    ]
+  }
+}

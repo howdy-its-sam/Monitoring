@@ -1,0 +1,683 @@
+{
+  "post": {
+    "id": "1ozft7h",
+    "title": "Introducing the Wasp Glider – A Conceptual Innovation in Missile Interception",
+    "author": "AdIllustrious8213",
+    "score_history": [
+      [
+        0,
+        "2025-11-18T13:49:49.135464"
+      ],
+      [
+        0,
+        "2025-11-18T14:00:52.763666"
+      ],
+      [
+        0,
+        "2025-11-18T14:12:14.054448"
+      ],
+      [
+        0,
+        "2025-11-18T21:49:54.045327"
+      ],
+      [
+        0,
+        "2025-11-18T23:54:48.609173"
+      ],
+      [
+        0,
+        "2025-11-19T01:50:09.336776"
+      ]
+    ],
+    "created_utc": 1763384885.0,
+    "num_comments": 18,
+    "subreddit": "robotics",
+    "url": "https://www.reddit.com/r/robotics/comments/1ozft7h/introducing_the_wasp_glider_a_conceptual/",
+    "selftext": "Hello r/robotics and fellow innovators,  \n\nI'm currently working on a conceptual defense system project called the *Wasp Glider*—a high-speed, autonomous missile interception glider designed to detect, track, and neutralize aerial threats with minimal collateral risk.  \n\nWhile still in its developmental and prototyping stage, the Wasp Glider combines principles of real-time AI navigation, adaptive flight control, and non-explosive neutralization tactics to offer a potential alternative in modern threat interception.\n\nThe goal of this post is to connect with like-minded developers, engineers, and researchers for insights, constructive feedback, or potential collaboration. I’m keeping full design specifics and identity private for now, but would love to engage with people who are curious about forward-thinking autonomous defense solutions.\n\nFeel free to reach out if this interests you. Let's build something impactful.",
+    "permalink": "/r/robotics/comments/1ozft7h/introducing_the_wasp_glider_a_conceptual/"
+  },
+  "comments": [
+    {
+      "id": "npb77m2",
+      "parent_id": "t3_1ozft7h",
+      "author": "binaryhellstorm",
+      "text_history": [
+        [
+          "What does this bring to the table that a solution like RoadRunner does not?\n\nAlso per the comment you added then deleted about this offering a \"non-destructive re-direct\" I would ask the following\n\n*Given the velocity you'd need to go from ground to aerial intercept with a vector and velocity match, how are you imagining a \"non-destructive redirect\" would work?  If you give it a gentle nudge the agent is just going to course correct.*\n\n*Also what is the advantage of allowing an enemy guided missile to stay intact rather than destructively intercepting at altitude?*",
+          "2025-11-18T13:49:49.135464"
+        ]
+      ],
+      "score_history": [
+        [
+          10,
+          "2025-11-18T13:49:49.135464"
+        ],
+        [
+          9,
+          "2025-11-18T14:00:52.763666"
+        ],
+        [
+          9,
+          "2025-11-18T14:12:14.054448"
+        ],
+        [
+          9,
+          "2025-11-18T21:49:54.045327"
+        ],
+        [
+          9,
+          "2025-11-18T23:54:48.609173"
+        ],
+        [
+          9,
+          "2025-11-19T01:50:09.336776"
+        ]
+      ],
+      "created_utc": 1763385029.0,
+      "depth": 0,
+      "permalink": "/r/robotics/comments/1ozft7h/introducing_the_wasp_glider_a_conceptual/npb77m2/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": 1763385827.0,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npba02q",
+          "parent_id": "t1_npb77m2",
+          "author": "rough93",
+          "text_history": [
+            [
+              "To add on to this, how is an unpowered glider able to intercept a highly maneuverable powered vehicle? The kinds of maneuvers required by interceptors for modern missiles all but precludes unpowered interception",
+              "2025-11-18T13:49:49.135464"
+            ]
+          ],
+          "score_history": [
+            [
+              8,
+              "2025-11-18T13:49:49.135464"
+            ],
+            [
+              7,
+              "2025-11-18T14:00:52.763666"
+            ],
+            [
+              7,
+              "2025-11-18T14:12:14.054448"
+            ],
+            [
+              8,
+              "2025-11-18T21:49:54.045327"
+            ],
+            [
+              8,
+              "2025-11-18T23:54:48.609173"
+            ],
+            [
+              8,
+              "2025-11-19T01:50:09.336776"
+            ]
+          ],
+          "created_utc": 1763386089.0,
+          "depth": 1,
+          "permalink": "/r/robotics/comments/1ozft7h/introducing_the_wasp_glider_a_conceptual/npba02q/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npboj3r",
+              "parent_id": "t1_npba02q",
+              "author": "Extension_Peace_5642",
+              "text_history": [
+                [
+                  "My job in the Air Force was to call in airstrikes (TACP/ALO) and this idea makes absolutely no sense. Even the part about intercepting it early in the trajectory with an unpowered glider is impossible because the glider would have to already be circling in enemy airspace, where it will be shot down.",
+                  "2025-11-18T13:49:49.135464"
+                ]
+              ],
+              "score_history": [
+                [
+                  2,
+                  "2025-11-18T13:49:49.135464"
+                ],
+                [
+                  2,
+                  "2025-11-18T14:00:52.763666"
+                ],
+                [
+                  2,
+                  "2025-11-18T14:12:14.054448"
+                ],
+                [
+                  2,
+                  "2025-11-18T21:49:54.045327"
+                ],
+                [
+                  2,
+                  "2025-11-18T23:54:48.609173"
+                ],
+                [
+                  2,
+                  "2025-11-19T01:50:09.336776"
+                ]
+              ],
+              "created_utc": 1763391127.0,
+              "depth": 2,
+              "permalink": "/r/robotics/comments/1ozft7h/introducing_the_wasp_glider_a_conceptual/npboj3r/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": 1763395325.0,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": [
+                {
+                  "id": "npbur06",
+                  "parent_id": "t1_npboj3r",
+                  "author": "binaryhellstorm",
+                  "text_history": [
+                    [
+                      "Well no, it's simple you just have the gliders already in the air near the missile launch site. If someone tries to launch a missile without telling you first so you can set up your gliders then they go to jail. /s",
+                      "2025-11-18T13:49:49.135464"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      3,
+                      "2025-11-18T13:49:49.135464"
+                    ],
+                    [
+                      3,
+                      "2025-11-18T14:00:52.763666"
+                    ],
+                    [
+                      3,
+                      "2025-11-18T14:12:14.054448"
+                    ],
+                    [
+                      3,
+                      "2025-11-18T21:49:54.045327"
+                    ],
+                    [
+                      3,
+                      "2025-11-18T23:54:48.609173"
+                    ],
+                    [
+                      3,
+                      "2025-11-19T01:50:09.336776"
+                    ]
+                  ],
+                  "created_utc": 1763393087.0,
+                  "depth": 3,
+                  "permalink": "/r/robotics/comments/1ozft7h/introducing_the_wasp_glider_a_conceptual/npbur06/",
+                  "is_submitter": false,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "npbmaw5",
+          "parent_id": "t1_npb77m2",
+          "author": "binaryhellstorm",
+          "text_history": [
+            [
+              "So in reply to you comment that you AGAIN DELETED, allow me to reply. \n\nhttps://preview.redd.it/qo76rrftwt1g1.png?width=638&amp;format=png&amp;auto=webp&amp;s=3bc98c0b8cb0119767000fece5ebb05e768a348a\n\nSo your solution to avoid missile pieces raining down on a sensitive area is to have a fully intact vehicle+warhead+unspent fuel crash down in one big chunk on the same area?",
+              "2025-11-18T13:49:49.135464"
+            ]
+          ],
+          "score_history": [
+            [
+              5,
+              "2025-11-18T13:49:49.135464"
+            ],
+            [
+              4,
+              "2025-11-18T14:00:52.763666"
+            ],
+            [
+              4,
+              "2025-11-18T14:12:14.054448"
+            ],
+            [
+              3,
+              "2025-11-18T21:49:54.045327"
+            ],
+            [
+              3,
+              "2025-11-18T23:54:48.609173"
+            ],
+            [
+              4,
+              "2025-11-19T01:50:09.336776"
+            ]
+          ],
+          "created_utc": 1763390397.0,
+          "depth": 1,
+          "permalink": "/r/robotics/comments/1ozft7h/introducing_the_wasp_glider_a_conceptual/npbmaw5/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npbrj2n",
+              "parent_id": "t1_npbmaw5",
+              "author": "AdIllustrious8213",
+              "text_history": [
+                [
+                  "\"Not exactly. The WASP Glider’s goal is to divert or intercept threats 'before' they reach sensitive zones. If non-destructive redirection is impossible or fails, the fallback isn't crashing locally — it’s to safely tow, redirect, or self-destruct at a safer altitude or predefined remote zone. The aim is controlled deflection, not just contact. It's not perfect — but it's designed to minimize uncontrolled fallout compared to a mid-air detonation or failed intercept.\"",
+                  "2025-11-18T13:49:49.135464"
+                ]
+              ],
+              "score_history": [
+                [
+                  1,
+                  "2025-11-18T13:49:49.135464"
+                ],
+                [
+                  1,
+                  "2025-11-18T14:00:52.763666"
+                ],
+                [
+                  1,
+                  "2025-11-18T14:12:14.054448"
+                ],
+                [
+                  1,
+                  "2025-11-18T21:49:54.045327"
+                ],
+                [
+                  1,
+                  "2025-11-18T23:54:48.609173"
+                ],
+                [
+                  1,
+                  "2025-11-19T01:50:09.336776"
+                ]
+              ],
+              "created_utc": 1763392091.0,
+              "depth": 2,
+              "permalink": "/r/robotics/comments/1ozft7h/introducing_the_wasp_glider_a_conceptual/npbrj2n/",
+              "is_submitter": true,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": [
+                {
+                  "id": "npbs79n",
+                  "parent_id": "t1_npbrj2n",
+                  "author": "binaryhellstorm",
+                  "text_history": [
+                    [
+                      "Ok so what is the advantage to then if you're over a non-sensitive area?",
+                      "2025-11-18T13:49:49.135464"
+                    ]
+                  ],
+                  "score_history": [
+                    [
+                      2,
+                      "2025-11-18T13:49:49.135464"
+                    ],
+                    [
+                      2,
+                      "2025-11-18T14:00:52.763666"
+                    ],
+                    [
+                      2,
+                      "2025-11-18T14:12:14.054448"
+                    ],
+                    [
+                      2,
+                      "2025-11-18T21:49:54.045327"
+                    ],
+                    [
+                      2,
+                      "2025-11-18T23:54:48.609173"
+                    ],
+                    [
+                      2,
+                      "2025-11-19T01:50:09.336776"
+                    ]
+                  ],
+                  "created_utc": 1763392302.0,
+                  "depth": 3,
+                  "permalink": "/r/robotics/comments/1ozft7h/introducing_the_wasp_glider_a_conceptual/npbs79n/",
+                  "is_submitter": false,
+                  "controversiality": 0,
+                  "gilded": 0,
+                  "edited": false,
+                  "deleted": false,
+                  "deleted_at": null,
+                  "replies": [
+                    {
+                      "id": "npbssqo",
+                      "parent_id": "t1_npbs79n",
+                      "author": "AdIllustrious8213",
+                      "text_history": [
+                        [
+                          "Advantage in non-sensitive areas:\nIf the interception happens over a non-sensitive area, the *non-destructive redirect* becomes strategically useful because it allows the glider to:\n\n1. *Safely divert* the missile away from populated zones without causing a mid-air explosion.\n2. *Guide it to a controlled crash site*—minimizing debris scatter and secondary damage.\n3. *Enable potential capture or analysis* if the missile lands mostly intact (ideal for intelligence purposes).\n4. *Reduce environmental and civilian risk* by avoiding detonation of payloads or fuel mid-air.\n\nThis approach prioritizes *precision, control, and minimal collateral damage*, especially in regions where traditional explosive intercepts are too risky.",
+                          "2025-11-18T13:49:49.135464"
+                        ]
+                      ],
+                      "score_history": [
+                        [
+                          0,
+                          "2025-11-18T13:49:49.135464"
+                        ],
+                        [
+                          0,
+                          "2025-11-18T14:00:52.763666"
+                        ],
+                        [
+                          0,
+                          "2025-11-18T14:12:14.054448"
+                        ],
+                        [
+                          0,
+                          "2025-11-18T21:49:54.045327"
+                        ],
+                        [
+                          0,
+                          "2025-11-18T23:54:48.609173"
+                        ],
+                        [
+                          0,
+                          "2025-11-19T01:50:09.336776"
+                        ]
+                      ],
+                      "created_utc": 1763392488.0,
+                      "depth": 4,
+                      "permalink": "/r/robotics/comments/1ozft7h/introducing_the_wasp_glider_a_conceptual/npbssqo/",
+                      "is_submitter": true,
+                      "controversiality": 0,
+                      "gilded": 0,
+                      "edited": false,
+                      "deleted": false,
+                      "deleted_at": null,
+                      "replies": [
+                        {
+                          "id": "npbxnix",
+                          "parent_id": "t1_npbssqo",
+                          "author": "ladz",
+                          "text_history": [
+                            [
+                              "ok chatgpt. you go make that glider!",
+                              "2025-11-18T13:49:49.135464"
+                            ]
+                          ],
+                          "score_history": [
+                            [
+                              7,
+                              "2025-11-18T13:49:49.135464"
+                            ],
+                            [
+                              8,
+                              "2025-11-18T14:00:52.763666"
+                            ],
+                            [
+                              8,
+                              "2025-11-18T14:12:14.054448"
+                            ],
+                            [
+                              8,
+                              "2025-11-18T21:49:54.045327"
+                            ],
+                            [
+                              8,
+                              "2025-11-18T23:54:48.609173"
+                            ],
+                            [
+                              9,
+                              "2025-11-19T01:50:09.336776"
+                            ]
+                          ],
+                          "created_utc": 1763393970.0,
+                          "depth": 5,
+                          "permalink": "/r/robotics/comments/1ozft7h/introducing_the_wasp_glider_a_conceptual/npbxnix/",
+                          "is_submitter": false,
+                          "controversiality": 0,
+                          "gilded": 0,
+                          "edited": false,
+                          "deleted": false,
+                          "deleted_at": null,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "npc1ymh",
+      "parent_id": "t3_1ozft7h",
+      "author": "OldGreyMuscle",
+      "text_history": [
+        [
+          "Everyone needs to stop engaging with obvious ChatGPT slop posts and just downvote and report this crap",
+          "2025-11-18T13:49:49.135464"
+        ]
+      ],
+      "score_history": [
+        [
+          7,
+          "2025-11-18T13:49:49.135464"
+        ],
+        [
+          7,
+          "2025-11-18T14:00:52.763666"
+        ],
+        [
+          6,
+          "2025-11-18T14:12:14.054448"
+        ],
+        [
+          7,
+          "2025-11-18T21:49:54.045327"
+        ],
+        [
+          8,
+          "2025-11-18T23:54:48.609173"
+        ],
+        [
+          8,
+          "2025-11-19T01:50:09.336776"
+        ]
+      ],
+      "created_utc": 1763395252.0,
+      "depth": 0,
+      "permalink": "/r/robotics/comments/1ozft7h/introducing_the_wasp_glider_a_conceptual/npc1ymh/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npbnwgq",
+      "parent_id": "t3_1ozft7h",
+      "author": "DocMorningstar",
+      "text_history": [
+        [
+          "I don't see how it would be possible for any sort of unpowered interceptor to have a non-destructive intercept with a powered missile. \n\nI suppose you could fire the interceptor in a chase mode, and then brake to match velocity, but that would require a 'shitload' of intital velocity to actually reach the target. \n\nMaybe some sort of tangl system? Instead of a kill vehicle, it has a fouling system to ruin the flight characteristics of the target? \n\nStill, requires an almost perfect intercept to work\n\nMaybe he's thinking steerable darts fired from a conventional gun system?; a steerable 30mm 'dart' could  be interesting, if you could make the power/sensor/intelligence unit small enough",
+          "2025-11-18T13:49:49.135464"
+        ],
+        [
+          "rinse aromatic march cough bag automatic chief hobbies bike hurry\n\n *This post was mass deleted and anonymized with [Redact](https://redact.dev/home)*",
+          "2025-11-19T01:50:09.336776"
+        ]
+      ],
+      "score_history": [
+        [
+          5,
+          "2025-11-18T13:49:49.135464"
+        ],
+        [
+          6,
+          "2025-11-18T14:00:52.763666"
+        ],
+        [
+          5,
+          "2025-11-18T14:12:14.054448"
+        ],
+        [
+          5,
+          "2025-11-18T21:49:54.045327"
+        ],
+        [
+          5,
+          "2025-11-18T23:54:48.609173"
+        ],
+        [
+          5,
+          "2025-11-19T01:50:09.336776"
+        ]
+      ],
+      "created_utc": 1763390925.0,
+      "depth": 0,
+      "permalink": "/r/robotics/comments/1ozft7h/introducing_the_wasp_glider_a_conceptual/npbnwgq/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": 1763540681.0,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npbp5f6",
+          "parent_id": "t1_npbnwgq",
+          "author": "AdIllustrious8213",
+          "text_history": [
+            [
+              "You're absolutely right to highlight the difficulty of non-destructive interception, especially against modern guided missiles. The Wasp Glider concept explores a hybrid approach—not purely unpowered—but optimized for stealth, speed, and minimal onboard propulsion. It launches with an initial boost phase (powered), then glides in controlled, guided descent, using micro-thrust vectoring and airbrake systems to match target velocity just before contact.\n\nThe idea of a tangling or fouling system is closer to part of the concept’s attachment mechanism—it's not meant to nudge but to lock and control. Once attached, the glider could attempt a redirection or neutralization by interfering with guidance or physically altering trajectory—either to detonate safely away from critical areas or disable mid-air.\n\nIt’s still experimental, but definitely inspired by ideas like steerable kinetic darts or AI-guided counter-projectiles. The tech challenges (miniaturized sensors, timing, and interception accuracy) are huge—but that’s the field we’re trying to explore.",
+              "2025-11-18T13:49:49.135464"
+            ]
+          ],
+          "score_history": [
+            [
+              -1,
+              "2025-11-18T13:49:49.135464"
+            ],
+            [
+              -1,
+              "2025-11-18T14:00:52.763666"
+            ],
+            [
+              -1,
+              "2025-11-18T14:12:14.054448"
+            ],
+            [
+              -1,
+              "2025-11-18T21:49:54.045327"
+            ],
+            [
+              -1,
+              "2025-11-18T23:54:48.609173"
+            ],
+            [
+              -1,
+              "2025-11-19T01:50:09.336776"
+            ]
+          ],
+          "created_utc": 1763391326.0,
+          "depth": 1,
+          "permalink": "/r/robotics/comments/1ozft7h/introducing_the_wasp_glider_a_conceptual/npbp5f6/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npjyhbo",
+      "parent_id": "t3_1ozft7h",
+      "author": "blimpyway",
+      "text_history": [
+        [
+          "About the assumption a glider is entirely inappropriate for aerial defense there is a WWII exception - the ME163 - yes it needed rocket engine to reach altitude but the usual combat tactics were to  spot the enemy aircraft from above, cut off the engine and perform a quick glide/dive towards the target.   \nIn gliding/attack mode it reached high subsonic speeds.\n\nIn drone times it could have a high altitude, long endurance carrier drone which provides sensory/targeting capacity from above the defended airspace and also releases the glider drone when carrier's sensors locked on a target. \n\nIt can be argued whether an air to air missile isn't more appropriate but that's a different topic.  There are some advantages of a glider - like cost, reusability - specially against slower moving long range attack drones",
+          "2025-11-18T13:49:49.135464"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T13:49:49.135464"
+        ],
+        [
+          1,
+          "2025-11-18T14:00:52.763666"
+        ],
+        [
+          1,
+          "2025-11-18T14:12:14.054448"
+        ],
+        [
+          1,
+          "2025-11-18T21:49:54.045327"
+        ],
+        [
+          1,
+          "2025-11-18T23:54:48.609173"
+        ],
+        [
+          1,
+          "2025-11-19T01:50:09.336776"
+        ]
+      ],
+      "created_utc": 1763497866.0,
+      "depth": 0,
+      "permalink": "/r/robotics/comments/1ozft7h/introducing_the_wasp_glider_a_conceptual/npjyhbo/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T01:50:09.336776",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/robotics/comments/1ozft7h/introducing_the_wasp_glider_a_conceptual/",
+    "total_comments": 13,
+    "top_level_comments": 4,
+    "api_requests": 1,
+    "expected_comments": 18,
+    "coverage_percent": 72.22,
+    "merged_snapshot_count": 6,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_134948.json",
+      "scrape_002_20251118_140052.json",
+      "scrape_003_20251118_141213.json",
+      "scrape_004_20251118_214953.json",
+      "scrape_005_20251118_235448.json",
+      "scrape_006_20251119_015009.json"
+    ]
+  }
+}

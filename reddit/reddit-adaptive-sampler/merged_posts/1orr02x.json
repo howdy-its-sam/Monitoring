@@ -1,0 +1,44 @@
+{
+  "post": {
+    "id": "1orr02x",
+    "title": "[Research] Unvalidated Trust: Cross-Stage Vulnerabilities in Large Language Model Architectures",
+    "author": "Solid-Tomorrow6548",
+    "score_history": [
+      [
+        33,
+        "2025-11-19T02:55:41.043931"
+      ],
+      [
+        32,
+        "2025-11-19T03:04:57.776041"
+      ],
+      [
+        31,
+        "2025-11-19T03:16:12.257374"
+      ]
+    ],
+    "created_utc": 1762612723.0,
+    "num_comments": 0,
+    "subreddit": "machinelearningnews",
+    "url": "https://arxiv.org/abs/2510.27190",
+    "selftext": "The research examines trust relationships that exist between different stages of LLM and agent toolchains. The acceptance of intermediate representations without verification enables models to identify structural and formatting elements as implicit instructions that exist beyond explicit imperative commands. \n\nThe paper document 41 mechanism level failure modes.\n\nScope\n\n* Text-only prompts, provider-default settings and fresh sessions.\n* The assignment requires no external tools or code execution or external actions.\n* The main architectural risk exists rather than the operational attack recipes.\n\n\n\nSelected findings\n\n* The safety deviation in §8.4 occurs when the aesthetic and formatting elements of the code (poetic layout) take precedence over its meaning which leads the model to produce dangerous code that safety filters should prevent because the model interprets the form as the actual intention.\n* The system produces code through structural affordance by processing table-based or DSL-like block input as command instructions which do not need explicit execution verbs like “run/execute.” The system produces output code that follows the exact format of the input data.\n* The seemingly harmless wording in §8.27 enables a session rule to become active which will trigger multiple times throughout the session through normal system operations and produce unexpected changes in future decisions.\n\n\n\nThe data blob fields which function as config-style keys get treated as executable commands by the model to generate code that fulfills these directives.\n\n\n\nMitigations (paper §10)\n\n* The system requires validation of model output through multiple semantic and policy checks which must occur before initiating the hand-off procedure.\n* The practice of representation hygiene requires developers to establish standardized formats for data representation because it prevents information about the format from revealing the original intent of the data.\n* Session scoping: explicit lifetimes for rules and for the memory\n* Data/command separation: schema aware guards\n\n\n\nLimitations\n\n* The text needs to be converted into a plain text format which does not support running code or using tools.\n* Model behavior depends on the passage of time. The results apply to all mechanisms but not to specific vendors.\n\n",
+    "permalink": "/r/machinelearningnews/comments/1orr02x/research_unvalidated_trust_crossstage/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:16:12.257374",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/machinelearningnews/comments/1orr02x/research_unvalidated_trust_crossstage/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_025540.json",
+      "scrape_002_20251119_030457.json",
+      "scrape_003_20251119_031611.json"
+    ]
+  }
+}

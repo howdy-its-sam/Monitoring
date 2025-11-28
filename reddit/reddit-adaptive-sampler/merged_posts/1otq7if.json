@@ -1,0 +1,202 @@
+{
+  "post": {
+    "id": "1otq7if",
+    "title": "Compression-Aware Intelligence (CAI) makes the compression process inside reasoning systems explicit so that we can detect where loss, conflict, and hallucination emerge",
+    "author": "Shot-Negotiation6979",
+    "score_history": [
+      [
+        5,
+        "2025-11-18T15:07:44.631308"
+      ],
+      [
+        4,
+        "2025-11-18T15:14:40.461359"
+      ],
+      [
+        3,
+        "2025-11-18T15:16:22.462416"
+      ],
+      [
+        5,
+        "2025-11-18T23:34:42.056358"
+      ],
+      [
+        4,
+        "2025-11-19T01:18:38.622528"
+      ],
+      [
+        6,
+        "2025-11-19T02:33:28.388990"
+      ]
+    ],
+    "created_utc": 1762809235.0,
+    "num_comments": 3,
+    "subreddit": "AI_developers",
+    "url": "/r/deeplearning/comments/1otq75k/compressionaware_intelligence_cai_makes_the/",
+    "selftext": "",
+    "permalink": "/r/AI_developers/comments/1otq7if/compressionaware_intelligence_cai_makes_the/"
+  },
+  "comments": [
+    {
+      "id": "no6o9s1",
+      "parent_id": "t3_1otq7if",
+      "author": "robogame_dev",
+      "text_history": [
+        [
+          "I looked into it, and my take is it’s not a very useful lens to look at the system from, nor is it the best lens to tackle errors from. It’s over-generalizing what should be one relatively narrow perspective into a holistic theory where it doesn’t fit, seemingly more concerned with renaming things “compressions” than with what utility this actually gives you as an analyst and an implementer.\n\nIf you think it’s useful, can you explain why? Can you give an example of a type of error that is difficult to figure out without applying this perspective to a project?\n\nThe website makes it look more like a business play cynically wrapping itself in pseudo-academic language than an actual engineering insight being operationalized and shared.",
+          "2025-11-18T15:07:44.631308"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T15:07:44.631308"
+        ],
+        [
+          1,
+          "2025-11-18T15:14:40.461359"
+        ],
+        [
+          1,
+          "2025-11-18T15:16:22.462416"
+        ],
+        [
+          1,
+          "2025-11-18T23:34:42.056358"
+        ],
+        [
+          1,
+          "2025-11-19T01:18:38.622528"
+        ],
+        [
+          1,
+          "2025-11-19T02:33:28.388990"
+        ]
+      ],
+      "created_utc": 1762813949.0,
+      "depth": 0,
+      "permalink": "/r/AI_developers/comments/1otq7if/compressionaware_intelligence_cai_makes_the/no6o9s1/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "no6riqn",
+          "parent_id": "t1_no6o9s1",
+          "author": "Shot-Negotiation6979",
+          "text_history": [
+            [
+              "it’s useful bc it treats hallucinations, identity drift, and reasoning collapse not as output errors but as structural consequences of compression strain within intermediate representations. it provides instrumentation to detect where representations are conflicting, and routing strategies that stabilize reasoning rather than patch outputs\n\nthat is a fundamentally different design layer than prompting or RAG",
+              "2025-11-18T15:07:44.631308"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T15:07:44.631308"
+            ],
+            [
+              1,
+              "2025-11-18T15:14:40.461359"
+            ],
+            [
+              1,
+              "2025-11-18T15:16:22.462416"
+            ],
+            [
+              1,
+              "2025-11-18T23:34:42.056358"
+            ],
+            [
+              1,
+              "2025-11-19T01:18:38.622528"
+            ],
+            [
+              1,
+              "2025-11-19T02:33:28.388990"
+            ]
+          ],
+          "created_utc": 1762815033.0,
+          "depth": 1,
+          "permalink": "/r/AI_developers/comments/1otq7if/compressionaware_intelligence_cai_makes_the/no6riqn/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        },
+        {
+          "id": "no74un6",
+          "parent_id": "t1_no6o9s1",
+          "author": "Ok-Worth8297",
+          "text_history": [
+            [
+              "OP should clarify only one team at meta is using CAI but yea basically it gives proof that hallucinations are just compression artifacts arising from unresolved contradictions in training data. they can be predicted by measuring instability across equivalent inputs and comparing the compression tension score",
+              "2025-11-18T15:07:44.631308"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T15:07:44.631308"
+            ],
+            [
+              1,
+              "2025-11-18T15:14:40.461359"
+            ],
+            [
+              1,
+              "2025-11-18T15:16:22.462416"
+            ],
+            [
+              1,
+              "2025-11-18T23:34:42.056358"
+            ],
+            [
+              1,
+              "2025-11-19T01:18:38.622528"
+            ],
+            [
+              1,
+              "2025-11-19T02:33:28.388990"
+            ]
+          ],
+          "created_utc": 1762819761.0,
+          "depth": 1,
+          "permalink": "/r/AI_developers/comments/1otq7if/compressionaware_intelligence_cai_makes_the/no74un6/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T02:33:28.388990",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/AI_developers/comments/1otq7if/compressionaware_intelligence_cai_makes_the/",
+    "total_comments": 3,
+    "top_level_comments": 1,
+    "api_requests": 1,
+    "expected_comments": 3,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 6,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_150744.json",
+      "scrape_002_20251118_151440.json",
+      "scrape_003_20251118_151622.json",
+      "scrape_004_20251118_233441.json",
+      "scrape_005_20251119_011838.json",
+      "scrape_006_20251119_023328.json"
+    ]
+  }
+}

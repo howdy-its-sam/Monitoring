@@ -1,0 +1,249 @@
+{
+  "post": {
+    "id": "1p07ttj",
+    "title": "FFmpeg installation using N8N instance",
+    "author": "kalladaacademy",
+    "score_history": [
+      [
+        51,
+        "2025-11-18T12:51:34.670131"
+      ],
+      [
+        49,
+        "2025-11-18T13:03:56.369629"
+      ],
+      [
+        47,
+        "2025-11-18T13:15:49.737969"
+      ],
+      [
+        47,
+        "2025-11-18T13:48:11.108057"
+      ],
+      [
+        51,
+        "2025-11-18T13:59:27.300444"
+      ],
+      [
+        48,
+        "2025-11-18T14:10:44.230870"
+      ]
+    ],
+    "created_utc": 1763459194.0,
+    "num_comments": 5,
+    "subreddit": "AI_Agents",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1p07ttj/ffmpeg_installation_using_n8n_instance/",
+    "selftext": "A lot of people keep running into issues while trying to use FFmpeg inside n8n, specially when running n8n on a VPS with Docker. I was facing the same problem on Hostinger VPS, so I recorded a full step by step tutorial on how I got FFmpeg installed inside the Docker container and made it work smoothly with n8n.\n\nIf you are trying to do video processing, audio conversion, or any media automation in n8n, this will help you a lot. I also showed how to test if FFmpeg is actually installed and running properly.   \n  \nVideo tutorial link in the first comment.",
+    "permalink": "/r/AI_Agents/comments/1p07ttj/ffmpeg_installation_using_n8n_instance/"
+  },
+  "comments": [
+    {
+      "id": "npgu99a",
+      "parent_id": "t3_1p07ttj",
+      "author": "AutoModerator",
+      "text_history": [
+        [
+          "Thank you for your submission, for any questions regarding AI, please check out our wiki at https://www.reddit.com/r/ai_agents/wiki (this is currently in test and we are actively adding to the wiki)\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/AI_Agents) if you have any questions or concerns.*",
+          "2025-11-18T12:51:34.670131"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T12:51:34.670131"
+        ],
+        [
+          1,
+          "2025-11-18T13:03:56.369629"
+        ],
+        [
+          1,
+          "2025-11-18T13:15:49.737969"
+        ],
+        [
+          1,
+          "2025-11-18T13:48:11.108057"
+        ],
+        [
+          1,
+          "2025-11-18T13:59:27.300444"
+        ],
+        [
+          1,
+          "2025-11-18T14:10:44.230870"
+        ]
+      ],
+      "created_utc": 1763459195.0,
+      "depth": 0,
+      "permalink": "/r/AI_Agents/comments/1p07ttj/ffmpeg_installation_using_n8n_instance/npgu99a/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npguce7",
+      "parent_id": "t3_1p07ttj",
+      "author": "kalladaacademy",
+      "text_history": [
+        [
+          "Sharing the link here in case it helps someone else:  \n[https://youtu.be/GaoKGFpVLuM](https://youtu.be/GaoKGFpVLuM)",
+          "2025-11-18T12:51:34.670131"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T12:51:34.670131"
+        ],
+        [
+          1,
+          "2025-11-18T13:03:56.369629"
+        ],
+        [
+          1,
+          "2025-11-18T13:15:49.737969"
+        ],
+        [
+          1,
+          "2025-11-18T13:48:11.108057"
+        ],
+        [
+          1,
+          "2025-11-18T13:59:27.300444"
+        ],
+        [
+          1,
+          "2025-11-18T14:10:44.230870"
+        ]
+      ],
+      "created_utc": 1763459249.0,
+      "depth": 0,
+      "permalink": "/r/AI_Agents/comments/1p07ttj/ffmpeg_installation_using_n8n_instance/npguce7/",
+      "is_submitter": true,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npj0cug",
+          "parent_id": "t1_npguce7",
+          "author": "micseydel",
+          "text_history": [
+            [
+              "Is there a text version?",
+              "2025-11-18T12:51:34.670131"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T12:51:34.670131"
+            ],
+            [
+              1,
+              "2025-11-18T13:03:56.369629"
+            ],
+            [
+              1,
+              "2025-11-18T13:15:49.737969"
+            ],
+            [
+              1,
+              "2025-11-18T13:48:11.108057"
+            ],
+            [
+              1,
+              "2025-11-18T13:59:27.300444"
+            ],
+            [
+              1,
+              "2025-11-18T14:10:44.230870"
+            ]
+          ],
+          "created_utc": 1763487815.0,
+          "depth": 1,
+          "permalink": "/r/AI_Agents/comments/1p07ttj/ffmpeg_installation_using_n8n_instance/npj0cug/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npjkbog",
+      "parent_id": "t3_1p07ttj",
+      "author": "Pristine_Box_5",
+      "text_history": [
+        [
+          "A lot of people struggle with FFmpeg inside n8n, especially on VPS or Docker setups, so a clear step-by-step guide is great. Testing if FFmpeg actually works is something many forget. Thanks for breaking it down and sharing the video link too.",
+          "2025-11-18T12:51:34.670131"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T12:51:34.670131"
+        ],
+        [
+          1,
+          "2025-11-18T13:03:56.369629"
+        ],
+        [
+          1,
+          "2025-11-18T13:15:49.737969"
+        ],
+        [
+          1,
+          "2025-11-18T13:48:11.108057"
+        ],
+        [
+          1,
+          "2025-11-18T13:59:27.300444"
+        ],
+        [
+          1,
+          "2025-11-18T14:10:44.230870"
+        ]
+      ],
+      "created_utc": 1763493596.0,
+      "depth": 0,
+      "permalink": "/r/AI_Agents/comments/1p07ttj/ffmpeg_installation_using_n8n_instance/npjkbog/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-18T14:10:44.230870",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/AI_Agents/comments/1p07ttj/ffmpeg_installation_using_n8n_instance/",
+    "total_comments": 4,
+    "top_level_comments": 3,
+    "api_requests": 1,
+    "expected_comments": 5,
+    "coverage_percent": 80.0,
+    "merged_snapshot_count": 6,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_125134.json",
+      "scrape_002_20251118_130356.json",
+      "scrape_003_20251118_131549.json",
+      "scrape_004_20251118_134810.json",
+      "scrape_005_20251118_135927.json",
+      "scrape_006_20251118_141044.json"
+    ]
+  }
+}

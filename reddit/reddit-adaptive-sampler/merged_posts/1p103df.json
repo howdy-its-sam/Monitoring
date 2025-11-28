@@ -1,0 +1,292 @@
+{
+  "post": {
+    "id": "1p103df",
+    "title": "Setting Up RAG on a 30-Year, 1GB Corpus: Will It Scale and Stay Unbiased?",
+    "author": "Worried_Laugh_6581",
+    "score_history": [
+      [
+        3,
+        "2025-11-19T03:50:28.510887"
+      ],
+      [
+        3,
+        "2025-11-19T03:59:40.406715"
+      ],
+      [
+        3,
+        "2025-11-19T04:01:43.656382"
+      ]
+    ],
+    "created_utc": 1763533365.0,
+    "num_comments": 7,
+    "subreddit": "Rag",
+    "url": "https://www.reddit.com/r/Rag/comments/1p103df/setting_up_rag_on_a_30year_1gb_corpus_will_it/",
+    "selftext": "I’m working with a text corpus collected over \\~30 years. In total it’s probably around 1 GB of text or less.\n\nI want to set up a chatbot that can answer questions based on this corpus using something like RAG. One key requirement is that every month we’ll be adding new documents. I’d like this to be incremental (i.e., only process the new docs each month, not rebuild everything from scratch).\n\nA few questions:\n\n1. Is RAG a good fit for a corpus of this size?\n2. If I use a vector database and just increase the number of retrieved results (top-K), is that “enough” to get good coverage? Or is there a risk that answers will be biased toward documents that were embedded earlier, if the vector search stops once it has found K results?\n3. For those who have built chatbots over large corpora, what challenges did you run into (e.g., retrieval quality, update workflows, performance, cost), and how did you handle them?\n\nI’m especially interested in practical lessons from people who’ve done this in production: what worked, what didn’t, and what you wish you’d known earlier.",
+    "permalink": "/r/Rag/comments/1p103df/setting_up_rag_on_a_30year_1gb_corpus_will_it/"
+  },
+  "comments": [
+    {
+      "id": "npmr8qj",
+      "parent_id": "t3_1p103df",
+      "author": "ai_hedge_fund",
+      "text_history": [
+        [
+          "Focus your attention on sitting down with the humans who will use the application and develop a representative set of typical questions and the correct answers\n\nBuy people lunch\n\nAdjust it and add to it\n\nCalibrate your pipeline against the QA set\n\nThat is your north star as to whether anything else adds or destroys value\n\nRAG sounds fine and you shouldn’t end up with something biased towards older chunks\n\nMost of the rest of your post gets into nuances and tradeoffs that are hard to advise on without understanding the makeup of the corpus, use case, etc\n\nSounds fun",
+          "2025-11-19T03:50:28.510887"
+        ]
+      ],
+      "score_history": [
+        [
+          3,
+          "2025-11-19T03:50:28.510887"
+        ],
+        [
+          3,
+          "2025-11-19T03:59:40.406715"
+        ],
+        [
+          3,
+          "2025-11-19T04:01:43.656382"
+        ]
+      ],
+      "created_utc": 1763535505.0,
+      "depth": 0,
+      "permalink": "/r/Rag/comments/1p103df/setting_up_rag_on_a_30year_1gb_corpus_will_it/npmr8qj/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npn92em",
+          "parent_id": "t1_npmr8qj",
+          "author": "Worried_Laugh_6581",
+          "text_history": [
+            [
+              "When you say: \"Calibrate your pipeline against the QA set\" what do you mean - I am using the OpenAI vector store.",
+              "2025-11-19T03:50:28.510887"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-19T03:50:28.510887"
+            ],
+            [
+              1,
+              "2025-11-19T03:59:40.406715"
+            ],
+            [
+              1,
+              "2025-11-19T04:01:43.656382"
+            ]
+          ],
+          "created_utc": 1763546441.0,
+          "depth": 1,
+          "permalink": "/r/Rag/comments/1p103df/setting_up_rag_on_a_30year_1gb_corpus_will_it/npn92em/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        },
+        {
+          "id": "npnct3l",
+          "parent_id": "t1_npmr8qj",
+          "author": "East-Tie-8002",
+          "text_history": [
+            [
+              "I have a script that runs against my chunks that develops the question and answer set. Then another script that runs the test question and checks the response against the expected response. It helps me with calibrating chunking strategies and retrieval pipelines. It grades everything, gives me stats in a nice ui. I vibe coded it with cursor so it was pretty easy to do.",
+              "2025-11-19T03:50:28.510887"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-19T03:50:28.510887"
+            ],
+            [
+              1,
+              "2025-11-19T03:59:40.406715"
+            ],
+            [
+              1,
+              "2025-11-19T04:01:43.656382"
+            ]
+          ],
+          "created_utc": 1763548704.0,
+          "depth": 1,
+          "permalink": "/r/Rag/comments/1p103df/setting_up_rag_on_a_30year_1gb_corpus_will_it/npnct3l/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npnd6ig",
+      "parent_id": "t3_1p103df",
+      "author": "Ecstatic_Heron_7944",
+      "text_history": [
+        [
+          "I think in this scenario, RAG would work well but you'd likely need to consider the time dimension for relevancy. Things like rules, regulations, laws, planning, geography, roles, people, society etc can repeat yet change quite drastically over 30 years that pulling similarly phased or meaning topics might not be enough.\n\nExample being 30 years ago, people still bought encyclopaedias if they needed to fact-check anything ;-)  \n  \nIn your RAG build, metadata filtering is going to be really important as part of your retrieval strategy.",
+          "2025-11-19T03:50:28.510887"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-19T03:50:28.510887"
+        ],
+        [
+          2,
+          "2025-11-19T03:59:40.406715"
+        ],
+        [
+          2,
+          "2025-11-19T04:01:43.656382"
+        ]
+      ],
+      "created_utc": 1763548923.0,
+      "depth": 0,
+      "permalink": "/r/Rag/comments/1p103df/setting_up_rag_on_a_30year_1gb_corpus_will_it/npnd6ig/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npne19q",
+          "parent_id": "t1_npnd6ig",
+          "author": "jai-js",
+          "text_history": [
+            [
+              "Why do you say metadata filtering will be important here?",
+              "2025-11-19T03:50:28.510887"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-19T03:50:28.510887"
+            ],
+            [
+              1,
+              "2025-11-19T03:59:40.406715"
+            ],
+            [
+              1,
+              "2025-11-19T04:01:43.656382"
+            ]
+          ],
+          "created_utc": 1763549409.0,
+          "depth": 1,
+          "permalink": "/r/Rag/comments/1p103df/setting_up_rag_on_a_30year_1gb_corpus_will_it/npne19q/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": 1763550226.0,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npn358f",
+      "parent_id": "t3_1p103df",
+      "author": "Infamous_Ad5702",
+      "text_history": [
+        [
+          "I find vector just gives “similar” responses and works in straight lines. I put a very large corpus into a little tool I made which builds an index first and then I query it. Each time it makes a new knowledge graph so it’s fresh.\n\nI can add data without ontology challenges. I don’t need weviate or neo4j.\n\nGot tired of chunk, embed, validate. Rinse and repeat.\n\nNeeded low gpu, no token charge, no hallucination and fast for my client. Also needed it air gapped.\n\nCan show anyone who’s keen?",
+          "2025-11-19T03:50:28.510887"
+        ]
+      ],
+      "score_history": [
+        [
+          0,
+          "2025-11-19T03:50:28.510887"
+        ],
+        [
+          0,
+          "2025-11-19T03:59:40.406715"
+        ],
+        [
+          0,
+          "2025-11-19T04:01:43.656382"
+        ]
+      ],
+      "created_utc": 1763542715.0,
+      "depth": 0,
+      "permalink": "/r/Rag/comments/1p103df/setting_up_rag_on_a_30year_1gb_corpus_will_it/npn358f/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npn3c1a",
+      "parent_id": "t3_1p103df",
+      "author": "Infamous_Ad5702",
+      "text_history": [
+        [
+          "Challenges: chunk lengthy and the sliding chunk…found a way to solve it…",
+          "2025-11-19T03:50:28.510887"
+        ]
+      ],
+      "score_history": [
+        [
+          0,
+          "2025-11-19T03:50:28.510887"
+        ],
+        [
+          0,
+          "2025-11-19T03:59:40.406715"
+        ],
+        [
+          0,
+          "2025-11-19T04:01:43.656382"
+        ]
+      ],
+      "created_utc": 1763542834.0,
+      "depth": 0,
+      "permalink": "/r/Rag/comments/1p103df/setting_up_rag_on_a_30year_1gb_corpus_will_it/npn3c1a/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T04:01:43.656382",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/Rag/comments/1p103df/setting_up_rag_on_a_30year_1gb_corpus_will_it/",
+    "total_comments": 7,
+    "top_level_comments": 4,
+    "api_requests": 1,
+    "expected_comments": 7,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_035028.json",
+      "scrape_002_20251119_035940.json",
+      "scrape_003_20251119_040143.json"
+    ]
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "post": {
+    "id": "1p16twh",
+    "title": "Question for you all",
+    "author": "MadDabbed",
+    "score_history": [
+      [
+        1,
+        "2025-11-19T04:51:17.705087"
+      ],
+      [
+        1,
+        "2025-11-19T04:51:17.914164"
+      ],
+      [
+        1,
+        "2025-11-19T04:51:18.152501"
+      ],
+      [
+        1,
+        "2025-11-19T04:51:18.371965"
+      ],
+      [
+        1,
+        "2025-11-19T04:51:18.612196"
+      ],
+      [
+        1,
+        "2025-11-19T04:51:18.819588"
+      ],
+      [
+        1,
+        "2025-11-19T04:51:19.054158"
+      ],
+      [
+        1,
+        "2025-11-19T04:51:19.285409"
+      ],
+      [
+        1,
+        "2025-11-19T04:51:19.506102"
+      ],
+      [
+        1,
+        "2025-11-19T04:51:19.706934"
+      ],
+      [
+        1,
+        "2025-11-19T04:51:19.943904"
+      ],
+      [
+        1,
+        "2025-11-19T04:51:20.158228"
+      ],
+      [
+        1,
+        "2025-11-19T04:51:20.380551"
+      ],
+      [
+        1,
+        "2025-11-19T04:51:20.597012"
+      ],
+      [
+        1,
+        "2025-11-19T04:51:20.852215"
+      ],
+      [
+        1,
+        "2025-11-19T04:51:21.042554"
+      ],
+      [
+        1,
+        "2025-11-19T04:51:21.303010"
+      ],
+      [
+        1,
+        "2025-11-19T04:51:21.523525"
+      ],
+      [
+        1,
+        "2025-11-19T04:51:21.757181"
+      ],
+      [
+        1,
+        "2025-11-19T04:51:21.957741"
+      ]
+    ],
+    "created_utc": 1763556582.0,
+    "num_comments": 0,
+    "subreddit": "singularity",
+    "url": "https://www.reddit.com/r/singularity/comments/1p16twh/question_for_you_all/",
+    "selftext": "Are we all in agreement that eventually AI will become so powerful that all of our thoughts and experiences and sentience will just be food/data for what will eventually be the most powerful AI known as the singularity? I’ve always thought that was the end game and then I found this sub today. And I’m like nahhhhh fuck off rn. All roads of evolution lead to the singularity. Maybe that’s all we are even as we speak. ",
+    "permalink": "/r/singularity/comments/1p16twh/question_for_you_all/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T04:51:21.957741",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/singularity/comments/1p16twh/question_for_you_all/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 20,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_045117.json",
+      "scrape_002_20251119_045117.json",
+      "scrape_003_20251119_045117.json",
+      "scrape_004_20251119_045118.json",
+      "scrape_005_20251119_045118.json",
+      "scrape_006_20251119_045118.json",
+      "scrape_007_20251119_045118.json",
+      "scrape_008_20251119_045119.json",
+      "scrape_009_20251119_045119.json",
+      "scrape_010_20251119_045119.json",
+      "scrape_011_20251119_045119.json",
+      "scrape_012_20251119_045119.json",
+      "scrape_013_20251119_045120.json",
+      "scrape_014_20251119_045120.json",
+      "scrape_015_20251119_045120.json",
+      "scrape_016_20251119_045120.json",
+      "scrape_017_20251119_045121.json",
+      "scrape_018_20251119_045121.json",
+      "scrape_019_20251119_045121.json",
+      "scrape_020_20251119_045121.json"
+    ]
+  }
+}

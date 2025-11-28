@@ -1,0 +1,202 @@
+{
+  "post": {
+    "id": "1oqibr4",
+    "title": "Already have an AI agent? Start monitoring it instantly with SudoDog",
+    "author": "QuirkyCharity9739",
+    "score_history": [
+      [
+        4,
+        "2025-11-18T14:45:22.932981"
+      ],
+      [
+        4,
+        "2025-11-18T14:53:14.702447"
+      ],
+      [
+        4,
+        "2025-11-18T14:54:20.649978"
+      ],
+      [
+        4,
+        "2025-11-18T22:32:14.282760"
+      ],
+      [
+        4,
+        "2025-11-19T00:15:41.506573"
+      ],
+      [
+        5,
+        "2025-11-19T02:01:18.260521"
+      ]
+    ],
+    "created_utc": 1762481860.0,
+    "num_comments": 3,
+    "subreddit": "AutoGPT",
+    "url": "/r/SudoDog/comments/1oqibf1/already_have_an_ai_agent_start_monitoring_it/",
+    "selftext": "",
+    "permalink": "/r/AutoGPT/comments/1oqibr4/already_have_an_ai_agent_start_monitoring_it/"
+  },
+  "comments": [
+    {
+      "id": "no9f3r6",
+      "parent_id": "t3_1oqibr4",
+      "author": "Asif_ibrahim_",
+      "text_history": [
+        [
+          "🙂",
+          "2025-11-18T14:45:22.932981"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:45:22.932981"
+        ],
+        [
+          1,
+          "2025-11-18T14:53:14.702447"
+        ],
+        [
+          1,
+          "2025-11-18T14:54:20.649978"
+        ],
+        [
+          1,
+          "2025-11-18T22:32:14.282760"
+        ],
+        [
+          1,
+          "2025-11-19T00:15:41.506573"
+        ],
+        [
+          1,
+          "2025-11-19T02:01:18.260521"
+        ]
+      ],
+      "created_utc": 1762857793.0,
+      "depth": 0,
+      "permalink": "/r/AutoGPT/comments/1oqibr4/already_have_an_ai_agent_start_monitoring_it/no9f3r6/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "noaags2",
+      "parent_id": "t3_1oqibr4",
+      "author": "lionheart8211",
+      "text_history": [
+        [
+          "What is Sudodog?",
+          "2025-11-18T14:45:22.932981"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:45:22.932981"
+        ],
+        [
+          1,
+          "2025-11-18T14:53:14.702447"
+        ],
+        [
+          1,
+          "2025-11-18T14:54:20.649978"
+        ],
+        [
+          1,
+          "2025-11-18T22:32:14.282760"
+        ],
+        [
+          1,
+          "2025-11-19T00:15:41.506573"
+        ],
+        [
+          1,
+          "2025-11-19T02:01:18.260521"
+        ]
+      ],
+      "created_utc": 1762871357.0,
+      "depth": 0,
+      "permalink": "/r/AutoGPT/comments/1oqibr4/already_have_an_ai_agent_start_monitoring_it/noaags2/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "nobct00",
+          "parent_id": "t1_noaags2",
+          "author": "QuirkyCharity9739",
+          "text_history": [
+            [
+              "Visibility tools for you AI agent. See what its really doing, track/see/protect. [sudodog.com](http://sudodog.com)",
+              "2025-11-18T14:45:22.932981"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T14:45:22.932981"
+            ],
+            [
+              1,
+              "2025-11-18T14:53:14.702447"
+            ],
+            [
+              1,
+              "2025-11-18T14:54:20.649978"
+            ],
+            [
+              1,
+              "2025-11-18T22:32:14.282760"
+            ],
+            [
+              1,
+              "2025-11-19T00:15:41.506573"
+            ],
+            [
+              1,
+              "2025-11-19T02:01:18.260521"
+            ]
+          ],
+          "created_utc": 1762882969.0,
+          "depth": 1,
+          "permalink": "/r/AutoGPT/comments/1oqibr4/already_have_an_ai_agent_start_monitoring_it/nobct00/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T02:01:18.260521",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/AutoGPT/comments/1oqibr4/already_have_an_ai_agent_start_monitoring_it/",
+    "total_comments": 3,
+    "top_level_comments": 2,
+    "api_requests": 1,
+    "expected_comments": 3,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 6,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_144522.json",
+      "scrape_002_20251118_145314.json",
+      "scrape_003_20251118_145420.json",
+      "scrape_004_20251118_223214.json",
+      "scrape_005_20251119_001541.json",
+      "scrape_006_20251119_020118.json"
+    ]
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "post": {
+    "id": "1oq9wxa",
+    "title": "Microsoft’s AI Scientist",
+    "author": "Ok-Breakfast-4676",
+    "score_history": [
+      [
+        35,
+        "2025-11-18T14:56:20.839704"
+      ],
+      [
+        37,
+        "2025-11-18T15:04:32.063496"
+      ],
+      [
+        33,
+        "2025-11-18T15:05:50.742054"
+      ],
+      [
+        36,
+        "2025-11-18T22:51:44.046522"
+      ],
+      [
+        33,
+        "2025-11-19T00:36:48.474256"
+      ],
+      [
+        34,
+        "2025-11-19T02:11:54.596343"
+      ]
+    ],
+    "created_utc": 1762460786.0,
+    "num_comments": 1,
+    "subreddit": "machinelearningnews",
+    "url": "https://i.redd.it/jbv9rmub4pzf1.jpeg",
+    "selftext": "",
+    "permalink": "/r/machinelearningnews/comments/1oq9wxa/microsofts_ai_scientist/"
+  },
+  "comments": [
+    {
+      "id": "nnhm7nr",
+      "parent_id": "t3_1oq9wxa",
+      "author": "Ainudor",
+      "text_history": [
+        [
+          "you know, I'm something of a scientist myself",
+          "2025-11-18T14:56:20.839704"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:56:20.839704"
+        ],
+        [
+          1,
+          "2025-11-18T15:04:32.063496"
+        ],
+        [
+          1,
+          "2025-11-18T15:05:50.742054"
+        ],
+        [
+          1,
+          "2025-11-18T22:51:44.046522"
+        ],
+        [
+          1,
+          "2025-11-19T00:36:48.474256"
+        ],
+        [
+          1,
+          "2025-11-19T02:11:54.596343"
+        ]
+      ],
+      "created_utc": 1762464346.0,
+      "depth": 0,
+      "permalink": "/r/machinelearningnews/comments/1oq9wxa/microsofts_ai_scientist/nnhm7nr/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T02:11:54.596343",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/machinelearningnews/comments/1oq9wxa/microsofts_ai_scientist/",
+    "total_comments": 1,
+    "top_level_comments": 1,
+    "api_requests": 1,
+    "expected_comments": 1,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 6,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_145620.json",
+      "scrape_002_20251118_150431.json",
+      "scrape_003_20251118_150550.json",
+      "scrape_004_20251118_225143.json",
+      "scrape_005_20251119_003648.json",
+      "scrape_006_20251119_021154.json"
+    ]
+  }
+}

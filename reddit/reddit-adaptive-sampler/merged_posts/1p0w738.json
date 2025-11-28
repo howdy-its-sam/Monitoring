@@ -1,0 +1,44 @@
+{
+  "post": {
+    "id": "1p0w738",
+    "title": "Cyber Skillbridge",
+    "author": "Feeling-Cap1781",
+    "score_history": [
+      [
+        1,
+        "2025-11-19T03:50:19.906874"
+      ],
+      [
+        1,
+        "2025-11-19T03:58:26.716844"
+      ],
+      [
+        1,
+        "2025-11-19T04:01:45.623467"
+      ]
+    ],
+    "created_utc": 1763521112.0,
+    "num_comments": 0,
+    "subreddit": "cybersecurity",
+    "url": "https://www.reddit.com/r/cybersecurity/comments/1p0w738/cyber_skillbridge/",
+    "selftext": "I know everyone is saying the job market is tough right now, however, has anyone taken the skill bridge option and had luck to land a cyber job or internship whether it be entry-level or not? Your feedback is appreciated.",
+    "permalink": "/r/cybersecurity/comments/1p0w738/cyber_skillbridge/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T04:01:45.623467",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/cybersecurity/comments/1p0w738/cyber_skillbridge/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_035019.json",
+      "scrape_002_20251119_035826.json",
+      "scrape_003_20251119_040145.json"
+    ]
+  }
+}

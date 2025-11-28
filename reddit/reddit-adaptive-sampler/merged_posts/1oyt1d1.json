@@ -1,0 +1,44 @@
+{
+  "post": {
+    "id": "1oyt1d1",
+    "title": "Free vibe coding",
+    "author": "Leonardo5489",
+    "score_history": [
+      [
+        0,
+        "2025-11-19T02:57:31.205711"
+      ],
+      [
+        0,
+        "2025-11-19T03:05:50.251212"
+      ],
+      [
+        0,
+        "2025-11-19T03:14:31.112017"
+      ]
+    ],
+    "created_utc": 1763317456.0,
+    "num_comments": 0,
+    "subreddit": "LangChain",
+    "url": "https://www.reddit.com/r/LangChain/comments/1oyt1d1/free_vibe_coding/",
+    "selftext": "Could I use langchain code cli then downloaded an open-source model instead of using other vibe coding platforms? And this will be free",
+    "permalink": "/r/LangChain/comments/1oyt1d1/free_vibe_coding/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:14:31.112017",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/LangChain/comments/1oyt1d1/free_vibe_coding/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_025730.json",
+      "scrape_002_20251119_030550.json",
+      "scrape_003_20251119_031430.json"
+    ]
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "post": {
+    "id": "1ji3okf",
+    "title": "ReferWell: Helping doctors with specialist referrals",
+    "author": "drfloydpepper",
+    "score_history": [
+      [
+        6,
+        "2025-11-18T14:22:12.985309"
+      ],
+      [
+        6,
+        "2025-11-18T14:32:04.571335"
+      ],
+      [
+        6,
+        "2025-11-18T14:33:29.452605"
+      ]
+    ],
+    "created_utc": 1742748593.0,
+    "num_comments": 7,
+    "subreddit": "HealthAI",
+    "url": "https://www.reddit.com/r/HealthAI/comments/1ji3okf/referwell_helping_doctors_with_specialist/",
+    "selftext": "I just finished a bootcamp in building multi-agent AI applications. I work in healthcare so focused on doctor's referring to specialists. I thought I'd share on this subreddit for feedback.\n\nDemo video: [https://www.youtube.com/watch?v=f30TH-g13vs](https://www.youtube.com/watch?v=f30TH-g13vs)  \nHere's the medium article: [https://medium.com/@micklynch\\_6905/referwell-improving-specialist-referrals-using-ai-agents-b37f5a6458da](https://medium.com/@micklynch_6905/referwell-improving-specialist-referrals-using-ai-agents-b37f5a6458da)\n\n  \nHere's an overview of the process we implemented:\n\nhttps://i.redd.it/xeik8y5bygqe1.gif\n\n",
+    "permalink": "/r/HealthAI/comments/1ji3okf/referwell_helping_doctors_with_specialist/"
+  },
+  "comments": [
+    {
+      "id": "no9mzlu",
+      "parent_id": "t3_1ji3okf",
+      "author": "IduScore",
+      "text_history": [
+        [
+          "How do you select which specialists to show when?",
+          "2025-11-18T14:22:12.985309"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-18T14:22:12.985309"
+        ],
+        [
+          2,
+          "2025-11-18T14:32:04.571335"
+        ],
+        [
+          2,
+          "2025-11-18T14:33:29.452605"
+        ]
+      ],
+      "created_utc": 1762862109.0,
+      "depth": 0,
+      "permalink": "/r/HealthAI/comments/1ji3okf/referwell_helping_doctors_with_specialist/no9mzlu/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "no9ny5q",
+          "parent_id": "t1_no9mzlu",
+          "author": "drfloydpepper",
+          "text_history": [
+            [
+              "We gave the model a taxonomy of specialist types with a definition of the conditions that they care for. It's available here:\nhttps://taxonomy.nucc.org/",
+              "2025-11-18T14:22:12.985309"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T14:22:12.985309"
+            ],
+            [
+              1,
+              "2025-11-18T14:32:04.571335"
+            ],
+            [
+              1,
+              "2025-11-18T14:33:29.452605"
+            ]
+          ],
+          "created_utc": 1762862574.0,
+          "depth": 1,
+          "permalink": "/r/HealthAI/comments/1ji3okf/referwell_helping_doctors_with_specialist/no9ny5q/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "nor9y7u",
+      "parent_id": "t3_1ji3okf",
+      "author": "Ok-Cucumber-7318",
+      "text_history": [
+        [
+          "Great work! This is something that I am interested in learning.",
+          "2025-11-18T14:22:12.985309"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-18T14:22:12.985309"
+        ],
+        [
+          2,
+          "2025-11-18T14:32:04.571335"
+        ],
+        [
+          2,
+          "2025-11-18T14:33:29.452605"
+        ]
+      ],
+      "created_utc": 1763094686.0,
+      "depth": 0,
+      "permalink": "/r/HealthAI/comments/1ji3okf/referwell_helping_doctors_with_specialist/nor9y7u/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "mpo3cz4",
+      "parent_id": "t3_1ji3okf",
+      "author": "Healthcare_Integrate",
+      "text_history": [
+        [
+          "If you're looking for deeper integration or implementation support, feel free to contact us at Healthcare Integrations 👉 [https://healthcareintegrations.com](https://healthcareintegrations.com) We specialize in building custom EHR, LIS, HL7, and FHIR solutions tailored to your needs.",
+          "2025-11-18T14:22:12.985309"
+        ]
+      ],
+      "score_history": [
+        [
+          0,
+          "2025-11-18T14:22:12.985309"
+        ],
+        [
+          0,
+          "2025-11-18T14:32:04.571335"
+        ],
+        [
+          0,
+          "2025-11-18T14:33:29.452605"
+        ]
+      ],
+      "created_utc": 1745938462.0,
+      "depth": 0,
+      "permalink": "/r/HealthAI/comments/1ji3okf/referwell_helping_doctors_with_specialist/mpo3cz4/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-18T14:33:29.452605",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/HealthAI/comments/1ji3okf/referwell_helping_doctors_with_specialist/",
+    "total_comments": 4,
+    "top_level_comments": 3,
+    "api_requests": 1,
+    "expected_comments": 7,
+    "coverage_percent": 57.14,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_142212.json",
+      "scrape_002_20251118_143204.json",
+      "scrape_003_20251118_143329.json"
+    ]
+  }
+}

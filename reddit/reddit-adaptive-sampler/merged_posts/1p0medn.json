@@ -1,0 +1,44 @@
+{
+  "post": {
+    "id": "1p0medn",
+    "title": "Image gen - ChatGPT vs Gemini strengths &amp; weaknesses",
+    "author": "rt2828",
+    "score_history": [
+      [
+        1,
+        "2025-11-18T14:23:19.137627"
+      ],
+      [
+        1,
+        "2025-11-18T14:33:11.348540"
+      ],
+      [
+        1,
+        "2025-11-18T14:43:24.422173"
+      ]
+    ],
+    "created_utc": 1763496445.0,
+    "num_comments": 0,
+    "subreddit": "PromptEngineering",
+    "url": "https://www.reddit.com/r/PromptEngineering/comments/1p0medn/image_gen_chatgpt_vs_gemini_strengths_weaknesses/",
+    "selftext": "What I've learned through trial and error in recent attempts (as of Nov 2025):\n\nChatGPT\n• Can generate exact size per pixel definition\n• SlOW\n• Weak character consistency\n• Understands water level differences\n\nGemini\n• Standard size image only\n• Fast\n• Strong character consistency\n• Draws the same water level even when asked for different\n\nWill continue to experiment. Would love to learn what others are seeing. Thanks!",
+    "permalink": "/r/PromptEngineering/comments/1p0medn/image_gen_chatgpt_vs_gemini_strengths_weaknesses/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-18T14:43:24.422173",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/PromptEngineering/comments/1p0medn/image_gen_chatgpt_vs_gemini_strengths_weaknesses/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_142318.json",
+      "scrape_002_20251118_143311.json",
+      "scrape_003_20251118_144324.json"
+    ]
+  }
+}

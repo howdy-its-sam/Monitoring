@@ -1,0 +1,107 @@
+{
+  "post": {
+    "id": "1njm0uu",
+    "title": "Need help with port mapping",
+    "author": "x_MASE_x",
+    "score_history": [
+      [
+        4,
+        "2025-11-18T13:49:40.015200"
+      ],
+      [
+        3,
+        "2025-11-18T14:00:43.726886"
+      ],
+      [
+        4,
+        "2025-11-18T14:12:12.581148"
+      ],
+      [
+        3,
+        "2025-11-18T21:49:48.014114"
+      ],
+      [
+        3,
+        "2025-11-18T23:54:47.366225"
+      ],
+      [
+        5,
+        "2025-11-19T01:40:00.727872"
+      ]
+    ],
+    "created_utc": 1758135570.0,
+    "num_comments": 1,
+    "subreddit": "AutoGPT",
+    "url": "https://www.reddit.com/r/AutoGPT/comments/1njm0uu/need_help_with_port_mapping/",
+    "selftext": "Hello,\nI'm trying to get autogpt to work with a vps and a subdomain for cloud usage and I've managed to sort all of the problem but now facing some problems with mapping the ports since I'm using Nginx Proxy Manager. \n\nCan someone let me know which port connect to which sub-folder/path? \n\nAnd should I use localhost or kong for everything with port 8000?\n\nI've tried many combinations but can't get them to work properly.\n\nSince most of the tutorial are outdated as well. \n\nThanks \n",
+    "permalink": "/r/AutoGPT/comments/1njm0uu/need_help_with_port_mapping/"
+  },
+  "comments": [
+    {
+      "id": "netad0z",
+      "parent_id": "t3_1njm0uu",
+      "author": "ntindle",
+      "text_history": [
+        [
+          "The best place to check for all the port mapping is the two (I know why two) docker compose files. There’s all the Supabase ones and then the backends and frontend. Most of the backend stuff only need to be able to access each other while the ws and rest services need to be accessible to the frontend + clients trying to access it.",
+          "2025-11-18T13:49:40.015200"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T13:49:40.015200"
+        ],
+        [
+          1,
+          "2025-11-18T14:00:43.726886"
+        ],
+        [
+          1,
+          "2025-11-18T14:12:12.581148"
+        ],
+        [
+          1,
+          "2025-11-18T21:49:48.014114"
+        ],
+        [
+          1,
+          "2025-11-18T23:54:47.366225"
+        ],
+        [
+          1,
+          "2025-11-19T01:40:00.727872"
+        ]
+      ],
+      "created_utc": 1758159688.0,
+      "depth": 0,
+      "permalink": "/r/AutoGPT/comments/1njm0uu/need_help_with_port_mapping/netad0z/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T01:40:00.727872",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/AutoGPT/comments/1njm0uu/need_help_with_port_mapping/",
+    "total_comments": 1,
+    "top_level_comments": 1,
+    "api_requests": 1,
+    "expected_comments": 1,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 6,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_134939.json",
+      "scrape_002_20251118_140043.json",
+      "scrape_003_20251118_141212.json",
+      "scrape_004_20251118_214947.json",
+      "scrape_005_20251118_235447.json",
+      "scrape_006_20251119_014000.json"
+    ]
+  }
+}

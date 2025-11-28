@@ -1,0 +1,116 @@
+{
+  "post": {
+    "id": "1ozpeix",
+    "title": "Turning Reachy Mini into a star gazing buddy",
+    "author": "dlouapre",
+    "score_history": [
+      [
+        5,
+        "2025-11-18T14:21:53.459378"
+      ],
+      [
+        5,
+        "2025-11-18T14:31:16.023903"
+      ],
+      [
+        5,
+        "2025-11-18T14:33:43.855410"
+      ]
+    ],
+    "created_utc": 1763406941.0,
+    "num_comments": 2,
+    "subreddit": "robotics",
+    "url": "https://v.redd.it/g7oghbb29v1g1",
+    "selftext": "I'm the lucky owner of one of the first few Reachy Mini ! So I decided to turn it into an astronomer buddy for some star gazing.   \nIts camera is not yet good enough to actually show you the sky, but it knows the coordinates of many stars and galaxies, and all the stories behind !  \nA cool example showing how, even with a few movements allowed, a small robot can give you more than a cell phone or a home assistant.\n\nAbout the tech behind : I use a local catalog of astronomical objects and their common names, a fuzzy matching that allows the LLM to call for instance for either \"M31\" or \"Andromeda Galaxy\" or \"Messier 31\", then retrieve the absolute coordinates. Then computation of local angular coordinates taking into account location and time of the day.",
+    "permalink": "/r/robotics/comments/1ozpeix/turning_reachy_mini_into_a_star_gazing_buddy/"
+  },
+  "comments": [
+    {
+      "id": "npf1owd",
+      "parent_id": "t3_1ozpeix",
+      "author": "ahobbes",
+      "text_history": [
+        [
+          "That’s awesome! Any plans to share/document your code or process? Is the camera meant to be easily upgraded?  \n\nI’ve been trying to come up with a useful purpose for a robot. A point and talk astronomy buddy is a great idea. I thought for a moment it would be cool to attach an astronomy laser pointer but that might be risky to eyeballs and airplanes.",
+          "2025-11-18T14:21:53.459378"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:21:53.459378"
+        ],
+        [
+          1,
+          "2025-11-18T14:31:16.023903"
+        ],
+        [
+          1,
+          "2025-11-18T14:33:43.855410"
+        ]
+      ],
+      "created_utc": 1763428830.0,
+      "depth": 0,
+      "permalink": "/r/robotics/comments/1ozpeix/turning_reachy_mini_into_a_star_gazing_buddy/npf1owd/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npg7mku",
+          "parent_id": "t1_npf1owd",
+          "author": "dlouapre",
+          "text_history": [
+            [
+              "Yeah I was tempted to attach my laser pointer to it as well ! (but same concern as you for safety...) Code will be pushed today I guess, I just need to do some cleaning\n\nThe camera is built into the robot, but as you construct the robot by yourself, you should be able to see how to upgrade it if needed. Or attached a better one to its head ? (I don't have the Rasperry Pi4 version of RM but it should support this I guess)",
+              "2025-11-18T14:21:53.459378"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T14:21:53.459378"
+            ],
+            [
+              1,
+              "2025-11-18T14:31:16.023903"
+            ],
+            [
+              1,
+              "2025-11-18T14:33:43.855410"
+            ]
+          ],
+          "created_utc": 1763445686.0,
+          "depth": 1,
+          "permalink": "/r/robotics/comments/1ozpeix/turning_reachy_mini_into_a_star_gazing_buddy/npg7mku/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-18T14:33:43.855410",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/robotics/comments/1ozpeix/turning_reachy_mini_into_a_star_gazing_buddy/",
+    "total_comments": 2,
+    "top_level_comments": 1,
+    "api_requests": 1,
+    "expected_comments": 2,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_142153.json",
+      "scrape_002_20251118_143115.json",
+      "scrape_003_20251118_143343.json"
+    ]
+  }
+}

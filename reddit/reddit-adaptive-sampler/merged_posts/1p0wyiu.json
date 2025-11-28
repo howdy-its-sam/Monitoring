@@ -1,0 +1,219 @@
+{
+  "post": {
+    "id": "1p0wyiu",
+    "title": "Google Just Introduced Antigravity, Powered by Gemini 3 Pro",
+    "author": "sibraan_",
+    "score_history": [
+      [
+        38,
+        "2025-11-19T02:55:47.587134"
+      ],
+      [
+        37,
+        "2025-11-19T03:07:00.049214"
+      ],
+      [
+        39,
+        "2025-11-19T03:17:24.953917"
+      ],
+      [
+        38,
+        "2025-11-19T03:18:04.511534"
+      ],
+      [
+        38,
+        "2025-11-19T03:19:48.512028"
+      ]
+    ],
+    "created_utc": 1763523276.0,
+    "num_comments": 4,
+    "subreddit": "AgentsOfAI",
+    "url": "https://v.redd.it/bx7441jpv42g1",
+    "selftext": "",
+    "permalink": "/r/AgentsOfAI/comments/1p0wyiu/google_just_introduced_antigravity_powered_by/"
+  },
+  "comments": [
+    {
+      "id": "npn9xr7",
+      "parent_id": "t3_1p0wyiu",
+      "author": "shaman-warrior",
+      "text_history": [
+        [
+          "Yeah and we can’t even use it without exceeding quota and limits in 20 mins",
+          "2025-11-19T02:55:47.587134"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:55:47.587134"
+        ],
+        [
+          1,
+          "2025-11-19T03:07:00.049214"
+        ],
+        [
+          2,
+          "2025-11-19T03:17:24.953917"
+        ],
+        [
+          2,
+          "2025-11-19T03:18:04.511534"
+        ],
+        [
+          2,
+          "2025-11-19T03:19:48.512028"
+        ]
+      ],
+      "created_utc": 1763546975.0,
+      "depth": 0,
+      "permalink": "/r/AgentsOfAI/comments/1p0wyiu/google_just_introduced_antigravity_powered_by/npn9xr7/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npmp9hj",
+      "parent_id": "t3_1p0wyiu",
+      "author": "AudienceWatching",
+      "text_history": [
+        [
+          "Another fork with built in agent workflows, groundbreaking 🤣",
+          "2025-11-19T02:55:47.587134"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:55:47.587134"
+        ],
+        [
+          1,
+          "2025-11-19T03:07:00.049214"
+        ],
+        [
+          1,
+          "2025-11-19T03:17:24.953917"
+        ],
+        [
+          1,
+          "2025-11-19T03:18:04.511534"
+        ],
+        [
+          1,
+          "2025-11-19T03:19:48.512028"
+        ]
+      ],
+      "created_utc": 1763534398.0,
+      "depth": 0,
+      "permalink": "/r/AgentsOfAI/comments/1p0wyiu/google_just_introduced_antigravity_powered_by/npmp9hj/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npn9c9d",
+      "parent_id": "t3_1p0wyiu",
+      "author": "ByEthanFox",
+      "text_history": [
+        [
+          "Can we now have Anti-Anti-Gravity, i.e. an option to turn off the AI slop tools in Google that doesn't \"helpfully\" later turn them back on?",
+          "2025-11-19T02:55:47.587134"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:55:47.587134"
+        ],
+        [
+          1,
+          "2025-11-19T03:07:00.049214"
+        ],
+        [
+          1,
+          "2025-11-19T03:17:24.953917"
+        ],
+        [
+          1,
+          "2025-11-19T03:18:04.511534"
+        ],
+        [
+          1,
+          "2025-11-19T03:19:48.512028"
+        ]
+      ],
+      "created_utc": 1763546611.0,
+      "depth": 0,
+      "permalink": "/r/AgentsOfAI/comments/1p0wyiu/google_just_introduced_antigravity_powered_by/npn9c9d/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npng6zl",
+      "parent_id": "t3_1p0wyiu",
+      "author": "SnooSongs5410",
+      "text_history": [
+        [
+          "Your quota is exceeded.",
+          "2025-11-19T03:17:24.953917"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T03:17:24.953917"
+        ],
+        [
+          1,
+          "2025-11-19T03:18:04.511534"
+        ],
+        [
+          1,
+          "2025-11-19T03:19:48.512028"
+        ]
+      ],
+      "created_utc": 1763550619.0,
+      "depth": 0,
+      "permalink": "/r/AgentsOfAI/comments/1p0wyiu/google_just_introduced_antigravity_powered_by/npng6zl/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:19:48.512028",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/AgentsOfAI/comments/1p0wyiu/google_just_introduced_antigravity_powered_by/",
+    "total_comments": 4,
+    "top_level_comments": 4,
+    "api_requests": 1,
+    "expected_comments": 4,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 5,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_025547.json",
+      "scrape_002_20251119_030659.json",
+      "scrape_003_20251119_031724.json",
+      "scrape_004_20251119_031804.json",
+      "scrape_005_20251119_031948.json"
+    ]
+  }
+}

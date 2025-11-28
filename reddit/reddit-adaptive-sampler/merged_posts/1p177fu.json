@@ -1,0 +1,143 @@
+{
+  "post": {
+    "id": "1p177fu",
+    "title": "After shipping 2 agent platforms, I'm convinced you don't need a god agent",
+    "author": "JFerzt",
+    "score_history": [
+      [
+        1,
+        "2025-11-19T05:09:03.457126"
+      ],
+      [
+        1,
+        "2025-11-19T05:09:03.925735"
+      ],
+      [
+        1,
+        "2025-11-19T05:09:04.388170"
+      ],
+      [
+        1,
+        "2025-11-19T05:09:04.826101"
+      ],
+      [
+        1,
+        "2025-11-19T05:09:05.268855"
+      ],
+      [
+        1,
+        "2025-11-19T05:09:05.780981"
+      ],
+      [
+        1,
+        "2025-11-19T05:09:06.238209"
+      ],
+      [
+        1,
+        "2025-11-19T05:09:06.695038"
+      ],
+      [
+        1,
+        "2025-11-19T05:09:07.195739"
+      ],
+      [
+        1,
+        "2025-11-19T05:09:07.640570"
+      ]
+    ],
+    "created_utc": 1763557637.0,
+    "num_comments": 1,
+    "subreddit": "AI_Agents",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1p177fu/after_shipping_2_agent_platforms_im_convinced_you/",
+    "selftext": "Everyone keeps wiring up \"smart\" god agents that try to do product, architecture, coding, QA and ops in one bloated prompt, then wonders why it quietly derails at scale.​\n\nAfter shipping Kairos Creative and Kairos WP, I'm convinced the only sane way is Henry Ford style - one agent, one job, with strict handoffs.​\n\nSo I open sourced on GitHub \"/JavierBaal/KairosFlow\" the multi agent framework I use in production where each role talks through a standard JSON artifact instead of random blobs of text.​\n\nThe orchestrator decides exactly what context each agent actually needs, which killed most of the token bloat, hallucinated dependencies and \"who changed what\" debugging hell.​\n\nUnder the hood it is model agnostic, ships a GranularArtifactStandard spec for inputs/outputs, and has run everything from marketing pipelines to full WordPress plugin dev.​\n\nI've seen 70-80% prompt size reduction in real projects just by forcing agents to speak the same language and cutting their context diet.​\n\nCurious what this sub thinks ...are you still wiring agents manually with LangChain style graphs, or are you also moving toward opinionated orchestrators?",
+    "permalink": "/r/AI_Agents/comments/1p177fu/after_shipping_2_agent_platforms_im_convinced_you/"
+  },
+  "comments": [
+    {
+      "id": "npnvc4k",
+      "parent_id": "t3_1p177fu",
+      "author": "AutoModerator",
+      "text_history": [
+        [
+          "Thank you for your submission, for any questions regarding AI, please check out our wiki at https://www.reddit.com/r/ai_agents/wiki (this is currently in test and we are actively adding to the wiki)\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/AI_Agents) if you have any questions or concerns.*",
+          "2025-11-19T05:09:03.457126"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T05:09:03.457126"
+        ],
+        [
+          1,
+          "2025-11-19T05:09:03.925735"
+        ],
+        [
+          1,
+          "2025-11-19T05:09:04.388170"
+        ],
+        [
+          1,
+          "2025-11-19T05:09:04.826101"
+        ],
+        [
+          1,
+          "2025-11-19T05:09:05.268855"
+        ],
+        [
+          1,
+          "2025-11-19T05:09:05.780981"
+        ],
+        [
+          1,
+          "2025-11-19T05:09:06.238209"
+        ],
+        [
+          1,
+          "2025-11-19T05:09:06.695038"
+        ],
+        [
+          1,
+          "2025-11-19T05:09:07.195739"
+        ],
+        [
+          1,
+          "2025-11-19T05:09:07.640570"
+        ]
+      ],
+      "created_utc": 1763557637.0,
+      "depth": 0,
+      "permalink": "/r/AI_Agents/comments/1p177fu/after_shipping_2_agent_platforms_im_convinced_you/npnvc4k/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T05:09:07.640570",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/AI_Agents/comments/1p177fu/after_shipping_2_agent_platforms_im_convinced_you/",
+    "total_comments": 1,
+    "top_level_comments": 1,
+    "api_requests": 1,
+    "expected_comments": 1,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 10,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_050903.json",
+      "scrape_002_20251119_050903.json",
+      "scrape_003_20251119_050904.json",
+      "scrape_004_20251119_050904.json",
+      "scrape_005_20251119_050905.json",
+      "scrape_006_20251119_050905.json",
+      "scrape_007_20251119_050906.json",
+      "scrape_008_20251119_050906.json",
+      "scrape_009_20251119_050906.json",
+      "scrape_010_20251119_050907.json"
+    ]
+  }
+}

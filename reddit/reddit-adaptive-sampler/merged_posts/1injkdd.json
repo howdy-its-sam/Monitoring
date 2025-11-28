@@ -1,0 +1,44 @@
+{
+  "post": {
+    "id": "1injkdd",
+    "title": "Building a Gen AI Unicorn with Global Resources, Innovation, and Efficiency: The AKOOL Way | TechCrunch",
+    "author": "Few_Tomatillo8346",
+    "score_history": [
+      [
+        1,
+        "2025-11-19T03:18:10.316721"
+      ],
+      [
+        1,
+        "2025-11-19T03:28:56.344994"
+      ],
+      [
+        1,
+        "2025-11-19T03:30:32.168493"
+      ]
+    ],
+    "created_utc": 1739337327.0,
+    "num_comments": 0,
+    "subreddit": "ainews",
+    "url": "https://techcrunch.com/sponsor/akool/building-a-gen-ai-unicorn-with-global-resources-innovation-and-efficiency-the-akool-way/",
+    "selftext": "",
+    "permalink": "/r/ainews/comments/1injkdd/building_a_gen_ai_unicorn_with_global_resources/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:30:32.168493",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/ainews/comments/1injkdd/building_a_gen_ai_unicorn_with_global_resources/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_031810.json",
+      "scrape_002_20251119_032856.json",
+      "scrape_003_20251119_033031.json"
+    ]
+  }
+}

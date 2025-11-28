@@ -1,0 +1,116 @@
+{
+  "post": {
+    "id": "1oyzr8u",
+    "title": "LLM vs. CNIA(theoretical）",
+    "author": "Hefty_Document_9466",
+    "score_history": [
+      [
+        0,
+        "2025-11-18T14:22:05.432448"
+      ],
+      [
+        0,
+        "2025-11-18T14:32:13.488336"
+      ],
+      [
+        0,
+        "2025-11-18T14:35:08.149916"
+      ]
+    ],
+    "created_utc": 1763333480.0,
+    "num_comments": 2,
+    "subreddit": "machinelearningnews",
+    "url": "https://i.redd.it/9q197krc7p1g1.jpeg",
+    "selftext": "",
+    "permalink": "/r/machinelearningnews/comments/1oyzr8u/llm_vs_cniatheoretical/"
+  },
+  "comments": [
+    {
+      "id": "np8istu",
+      "parent_id": "t3_1oyzr8u",
+      "author": "JacketHistorical2321",
+      "text_history": [
+        [
+          "Wtf is this low effort post??",
+          "2025-11-18T14:22:05.432448"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-18T14:22:05.432448"
+        ],
+        [
+          2,
+          "2025-11-18T14:32:13.488336"
+        ],
+        [
+          2,
+          "2025-11-18T14:35:08.149916"
+        ]
+      ],
+      "created_utc": 1763339235.0,
+      "depth": 0,
+      "permalink": "/r/machinelearningnews/comments/1oyzr8u/llm_vs_cniatheoretical/np8istu/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "np8mnff",
+          "parent_id": "t1_np8istu",
+          "author": "Hefty_Document_9466",
+          "text_history": [
+            [
+              "Effort is in my recent posts — just click my profile and you’ll see it. 🤝☕️",
+              "2025-11-18T14:22:05.432448"
+            ]
+          ],
+          "score_history": [
+            [
+              -1,
+              "2025-11-18T14:22:05.432448"
+            ],
+            [
+              -1,
+              "2025-11-18T14:32:13.488336"
+            ],
+            [
+              -1,
+              "2025-11-18T14:35:08.149916"
+            ]
+          ],
+          "created_utc": 1763340534.0,
+          "depth": 1,
+          "permalink": "/r/machinelearningnews/comments/1oyzr8u/llm_vs_cniatheoretical/np8mnff/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-18T14:35:08.149916",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/machinelearningnews/comments/1oyzr8u/llm_vs_cniatheoretical/",
+    "total_comments": 2,
+    "top_level_comments": 1,
+    "api_requests": 1,
+    "expected_comments": 2,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_142205.json",
+      "scrape_002_20251118_143213.json",
+      "scrape_003_20251118_143507.json"
+    ]
+  }
+}

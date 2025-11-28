@@ -1,0 +1,129 @@
+{
+  "post": {
+    "id": "1p185rk",
+    "title": "AralingBench",
+    "author": "LowChance4561",
+    "score_history": [
+      [
+        1,
+        "2025-11-19T05:50:47.254517"
+      ],
+      [
+        1,
+        "2025-11-19T05:50:47.497480"
+      ],
+      [
+        1,
+        "2025-11-19T05:50:47.726095"
+      ],
+      [
+        1,
+        "2025-11-19T05:50:47.934618"
+      ],
+      [
+        1,
+        "2025-11-19T05:50:48.210328"
+      ],
+      [
+        1,
+        "2025-11-19T05:50:48.417962"
+      ],
+      [
+        1,
+        "2025-11-19T05:50:48.659012"
+      ],
+      [
+        1,
+        "2025-11-19T05:50:48.860701"
+      ],
+      [
+        1,
+        "2025-11-19T05:50:49.100689"
+      ],
+      [
+        1,
+        "2025-11-19T05:50:49.320733"
+      ],
+      [
+        1,
+        "2025-11-19T05:50:49.569474"
+      ],
+      [
+        1,
+        "2025-11-19T05:50:49.777024"
+      ],
+      [
+        1,
+        "2025-11-19T05:50:50.014196"
+      ],
+      [
+        1,
+        "2025-11-19T05:50:50.233604"
+      ],
+      [
+        1,
+        "2025-11-19T05:50:50.475335"
+      ],
+      [
+        1,
+        "2025-11-19T05:50:50.704890"
+      ],
+      [
+        1,
+        "2025-11-19T05:50:50.950625"
+      ],
+      [
+        1,
+        "2025-11-19T05:50:51.173685"
+      ],
+      [
+        1,
+        "2025-11-19T05:50:51.402633"
+      ],
+      [
+        1,
+        "2025-11-19T05:50:51.619326"
+      ]
+    ],
+    "created_utc": 1763560142.0,
+    "num_comments": 0,
+    "subreddit": "AgentsOfAI",
+    "url": "https://www.reddit.com/r/AgentsOfAI/comments/1p185rk/aralingbench/",
+    "selftext": "Check out our latest work at kaust ! A new benchmark for evaluating Arabic linguistic capabilities of large language models …\n\nBeing good at solving math problems in Arabic doesn’t mean you’re good at Arabic !  \nSupport with an upvote: [https://huggingface.co/papers/2511.14295](https://huggingface.co/papers/2511.14295)",
+    "permalink": "/r/AgentsOfAI/comments/1p185rk/aralingbench/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T05:50:51.619326",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/AgentsOfAI/comments/1p185rk/aralingbench/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 20,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_055047.json",
+      "scrape_002_20251119_055047.json",
+      "scrape_003_20251119_055047.json",
+      "scrape_004_20251119_055047.json",
+      "scrape_005_20251119_055047.json",
+      "scrape_006_20251119_055048.json",
+      "scrape_007_20251119_055048.json",
+      "scrape_008_20251119_055048.json",
+      "scrape_009_20251119_055048.json",
+      "scrape_010_20251119_055049.json",
+      "scrape_011_20251119_055049.json",
+      "scrape_012_20251119_055049.json",
+      "scrape_013_20251119_055049.json",
+      "scrape_014_20251119_055050.json",
+      "scrape_015_20251119_055050.json",
+      "scrape_016_20251119_055050.json",
+      "scrape_017_20251119_055050.json",
+      "scrape_018_20251119_055050.json",
+      "scrape_019_20251119_055051.json",
+      "scrape_020_20251119_055051.json"
+    ]
+  }
+}

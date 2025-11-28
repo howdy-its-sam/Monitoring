@@ -1,0 +1,150 @@
+{
+  "post": {
+    "id": "1p151kx",
+    "title": "THOUGHTS ON NO CODE AI AGENTS",
+    "author": "ConsciousPlane3619",
+    "score_history": [
+      [
+        1,
+        "2025-11-19T03:41:44.194616"
+      ],
+      [
+        1,
+        "2025-11-19T03:48:59.710790"
+      ],
+      [
+        1,
+        "2025-11-19T03:50:45.630101"
+      ]
+    ],
+    "created_utc": 1763551245.0,
+    "num_comments": 3,
+    "subreddit": "AI_Agents",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1p151kx/thoughts_on_no_code_ai_agents/",
+    "selftext": "I want to build conversational agents but with minimal coding. I am open to writing code when needed, but I prefer tools that reduce complexity.\n\nRight now I am looking at Google Vertex AI because it lets me deploy agents to production. I also saw Dialogflow, now called Conversational Agents, and it seems to offer no code options too.\n\nMy goal is to ship these agents to production with solid security and strong privacy guarantees.\n\nFor those of you with experience in this space:\n\n* Are Vertex AI and Dialogflow enough for production grade conversational agents\n* Are there better options for low code or no code agent development\n* Any recommendations to ensure privacy and secure deployments\n\nI want a practical view from people who already shipped real agents.",
+    "permalink": "/r/AI_Agents/comments/1p151kx/thoughts_on_no_code_ai_agents/"
+  },
+  "comments": [
+    {
+      "id": "npnhceg",
+      "parent_id": "t3_1p151kx",
+      "author": "AutoModerator",
+      "text_history": [
+        [
+          "Thank you for your submission, for any questions regarding AI, please check out our wiki at https://www.reddit.com/r/ai_agents/wiki (this is currently in test and we are actively adding to the wiki)\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/AI_Agents) if you have any questions or concerns.*",
+          "2025-11-19T03:41:44.194616"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T03:41:44.194616"
+        ],
+        [
+          1,
+          "2025-11-19T03:48:59.710790"
+        ],
+        [
+          1,
+          "2025-11-19T03:50:45.630101"
+        ]
+      ],
+      "created_utc": 1763551246.0,
+      "depth": 0,
+      "permalink": "/r/AI_Agents/comments/1p151kx/thoughts_on_no_code_ai_agents/npnhceg/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npnhmqq",
+      "parent_id": "t3_1p151kx",
+      "author": "ai-agents-qa-bot",
+      "text_history": [
+        [
+          "- Google Vertex AI and Dialogflow (now Conversational Agents) are both solid options for building conversational agents with minimal coding. They provide user-friendly interfaces and tools that can help streamline the development process.\n- Vertex AI offers capabilities for deploying agents to production, which aligns with your goal of shipping agents securely. It also integrates well with other Google Cloud services, enhancing scalability and security.\n- Dialogflow is known for its ease of use and no-code options, making it accessible for those who prefer to avoid extensive coding. It also supports various integrations, which can be beneficial for deploying conversational agents across different platforms.\n- For low-code or no-code agent development, you might also consider platforms like aiXplain, which simplifies Hugging Face model deployment and agent building with minimal coding requirements. They focus on making AI accessible and production-ready, which could align well with your needs.\n- To ensure privacy and secure deployments, look for platforms that offer built-in security features, such as data encryption, compliance with regulations (like GDPR), and robust access controls. aiXplain, for instance, emphasizes security and compliance with pre-built guardrails.\n- Additionally, consider using tools that provide comprehensive logging and monitoring capabilities to track interactions and ensure that your agents operate securely.\n\nFor more information on aiXplain's offerings, you can check out their blog post [aiXplain Simplifies Hugging Face Deployment and Agent Building](https://tinyurl.com/573srp4w).",
+          "2025-11-19T03:41:44.194616"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T03:41:44.194616"
+        ],
+        [
+          1,
+          "2025-11-19T03:48:59.710790"
+        ],
+        [
+          1,
+          "2025-11-19T03:50:45.630101"
+        ]
+      ],
+      "created_utc": 1763551402.0,
+      "depth": 0,
+      "permalink": "/r/AI_Agents/comments/1p151kx/thoughts_on_no_code_ai_agents/npnhmqq/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npniyb9",
+      "parent_id": "t3_1p151kx",
+      "author": "Designer_Manner_6924",
+      "text_history": [
+        [
+          "when you say conversational, are you looking for text based or voice based ai agents?",
+          "2025-11-19T03:41:44.194616"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T03:41:44.194616"
+        ],
+        [
+          1,
+          "2025-11-19T03:48:59.710790"
+        ],
+        [
+          1,
+          "2025-11-19T03:50:45.630101"
+        ]
+      ],
+      "created_utc": 1763552093.0,
+      "depth": 0,
+      "permalink": "/r/AI_Agents/comments/1p151kx/thoughts_on_no_code_ai_agents/npniyb9/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:50:45.630101",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/AI_Agents/comments/1p151kx/thoughts_on_no_code_ai_agents/",
+    "total_comments": 3,
+    "top_level_comments": 3,
+    "api_requests": 1,
+    "expected_comments": 3,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_034143.json",
+      "scrape_002_20251119_034859.json",
+      "scrape_003_20251119_035045.json"
+    ]
+  }
+}

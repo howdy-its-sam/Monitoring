@@ -1,0 +1,54 @@
+{
+  "post": {
+    "id": "1k9zydn",
+    "title": "Apple’s AI Team is Breaking Up",
+    "author": "Signals_AI",
+    "score_history": [
+      [
+        4,
+        "2025-11-18T13:49:02.772989"
+      ],
+      [
+        4,
+        "2025-11-18T14:00:40.572283"
+      ],
+      [
+        4,
+        "2025-11-18T14:12:17.872802"
+      ],
+      [
+        3,
+        "2025-11-18T21:49:55.650265"
+      ],
+      [
+        5,
+        "2025-11-19T07:12:21.625271"
+      ]
+    ],
+    "created_utc": 1745858026.0,
+    "num_comments": 3,
+    "subreddit": "ainews",
+    "url": "https://www.reddit.com/r/ainews/comments/1k9zydn/apples_ai_team_is_breaking_up/",
+    "selftext": "Just came across an intriguing piece on Bloomberg about Apple's recent shake-up in their AI division. It appears that Apple is dismantling its centralized AI and machine learning group, redistributing teams like Siri and robotics to other parts of the company.\n\nSeems that the revamped Siri, which was supposed to be a significant leap forward, has been postponed due to bugs and performance issues . Additionally, leadership changes are underway, with Mike Rockwell, previously leading the Vision Pro project, now taking charge of Siri.​\n\nIt's fascinating seeing how Apple is restructuring  AI efforts. Integration into hardware, like the Vision Pro, might be a good move to enhance user experience directly through devices. But compared to OpenAI and Google, Apple seems to be playing catch-up in the AI race.​\n\n  \nSource: [https://www.bloomberg.com/news/newsletters/2025-04-27/what-is-happening-with-apple-s-ai-team-siri-and-robotics-shifts-mark-a-breakup](https://www.bloomberg.com/news/newsletters/2025-04-27/what-is-happening-with-apple-s-ai-team-siri-and-robotics-shifts-mark-a-breakup)",
+    "permalink": "/r/ainews/comments/1k9zydn/apples_ai_team_is_breaking_up/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T07:12:21.625271",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/ainews/comments/1k9zydn/apples_ai_team_is_breaking_up/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 3,
+    "coverage_percent": 0.0,
+    "merged_snapshot_count": 5,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_134902.json",
+      "scrape_002_20251118_140040.json",
+      "scrape_003_20251118_141217.json",
+      "scrape_004_20251118_214955.json",
+      "scrape_005_20251119_071221.json"
+    ]
+  }
+}

@@ -1,0 +1,329 @@
+{
+  "post": {
+    "id": "1p0t0sh",
+    "title": "I’m Doing Free Prompt Surgery. Which of Your Creations Needs Life Support?",
+    "author": "og_hays",
+    "score_history": [
+      [
+        1,
+        "2025-11-19T02:55:54.237246"
+      ],
+      [
+        1,
+        "2025-11-19T03:03:40.923639"
+      ],
+      [
+        1,
+        "2025-11-19T03:06:55.391279"
+      ]
+    ],
+    "created_utc": 1763512325.0,
+    "num_comments": 9,
+    "subreddit": "PromptEngineering",
+    "url": "https://www.reddit.com/r/PromptEngineering/comments/1p0t0sh/im_doing_free_prompt_surgery_which_of_your/",
+    "selftext": "Lately I’ve been building out a text-only AI overlay framework I call **Alpha Omega Engine (AOE)** – basically a way of turning “normal” prompts into more structured systems that cut down on drift, repetition, and wasted tokens.\n\nInstead of guessing what people *might* want, I’d rather ask directly:\n\n**What kinds of prompts or prompt-systems are you looking for right now that would actually move your projects forward?**\n\nI’m especially interested in building things that are *reusable* and *battle-tested*, not just one-off chat replies. So if you’re up for it, drop a comment with:\n\n* **What you’re working on** (project, niche, or use case)\n* **Which model / tools you’re using** (ChatGPT, Claude, Perplexity Labs, etc.)\n* **Where your current prompts are breaking down**\n   * Too vague?\n   * Too expensive in tokens?\n   * Too much hallucination / drift?\n   * Hard to reuse or adapt?\n* **What “good” would look like for you**\n   * e.g. “I want a prompt that consistently produces X,”\n   * or “I need a framework I can hand off to my team,”\n   * or “I want something that helps me think instead of just spitting fluff.”\n\nI’ll pick interesting use cases from the comments, build AOE-style prompts/frameworks around them, and post them back so others can use and adapt them too.\n\nIf you’ve ever thought, *“I know what I want from AI, I just don’t know how to make the prompt do it consistently,”* this is exactly the kind of thing I want to help with.",
+    "permalink": "/r/PromptEngineering/comments/1p0t0sh/im_doing_free_prompt_surgery_which_of_your/"
+  },
+  "comments": [
+    {
+      "id": "npltsdt",
+      "parent_id": "t3_1p0t0sh",
+      "author": "FreshRadish2957",
+      "text_history": [
+        [
+          "Looks like a solid idea. People definitely underestimate how far you can get with a clean structure instead of loose prompts. If you want good answers from models, you need a system for consistency, not one more clever line.\n\nSomething I’ve noticed while building my own overlays is that most prompt problems come from weak boundaries around roles, logic, and interpretation. Once you tighten those, token waste and drift drop fast.\n\nCurious to see what use cases people bring you. Good thread.",
+          "2025-11-19T02:55:54.237246"
+        ]
+      ],
+      "score_history": [
+        [
+          3,
+          "2025-11-19T02:55:54.237246"
+        ],
+        [
+          3,
+          "2025-11-19T03:03:40.923639"
+        ],
+        [
+          3,
+          "2025-11-19T03:06:55.391279"
+        ]
+      ],
+      "created_utc": 1763520452.0,
+      "depth": 0,
+      "permalink": "/r/PromptEngineering/comments/1p0t0sh/im_doing_free_prompt_surgery_which_of_your/npltsdt/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "nplgbp0",
+      "parent_id": "t3_1p0t0sh",
+      "author": "TheOdbball",
+      "text_history": [
+        [
+          "I need a telegram interface that takes advantage of of cli use cases but maintains everything via VPS and telegram",
+          "2025-11-19T02:55:54.237246"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-19T02:55:54.237246"
+        ],
+        [
+          2,
+          "2025-11-19T03:03:40.923639"
+        ],
+        [
+          2,
+          "2025-11-19T03:06:55.391279"
+        ]
+      ],
+      "created_utc": 1763515629.0,
+      "depth": 0,
+      "permalink": "/r/PromptEngineering/comments/1p0t0sh/im_doing_free_prompt_surgery_which_of_your/nplgbp0/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "nplroqy",
+          "parent_id": "t1_nplgbp0",
+          "author": "og_hays",
+          "text_history": [
+            [
+              "Hey, that’s a really solid idea and very doable.\n\nJust so I’m tracking you correctly: you want a Telegram interface that talks to your VPS, lets you trigger specific CLI-style actions (status checks, scripts, restarts, etc.), and keeps everything running on your VPS with Telegram as the control surface — no extra SaaS in the middle. Correct?\n\nAt a high level, this usually looks like:\n\n* A Telegram bot running on your VPS\n* The bot only listens to approved Telegram users\n* Each Telegram command maps to a **whitelisted** script or CLI command on the VPS\n* The bot runs the command, trims the output, and sends it back into Telegram\n\nIf you’re up for it, I can do the heavy lifting on the design side and send you a concrete blueprint, not just vague advice.\n\nAll I’d need from you to tailor it properly is:\n\n1. What OS / distro your VPS is running (e.g. Ubuntu 22.04, Debian, etc.)\n2. Preferred language (Python or Node are easiest here)\n3. 3–5 real commands or use cases you care about (e.g. “check disk + CPU”, “tail last 100 lines of X log”, “restart service Y”, “run deploy script Z”)\n4. Whether this is just for you or for a small trusted group\n\nOnce I have that, I can outline:\n\n* The architecture,\n* Step-by-step setup on the VPS, and\n* A starter bot script you can tweak and run.\n\nDoes that match what you had in mind?",
+              "2025-11-19T02:55:54.237246"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-19T02:55:54.237246"
+            ],
+            [
+              1,
+              "2025-11-19T03:03:40.923639"
+            ],
+            [
+              1,
+              "2025-11-19T03:06:55.391279"
+            ]
+          ],
+          "created_utc": 1763519698.0,
+          "depth": 1,
+          "permalink": "/r/PromptEngineering/comments/1p0t0sh/im_doing_free_prompt_surgery_which_of_your/nplroqy/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "nplglhs",
+      "parent_id": "t3_1p0t0sh",
+      "author": "Bitflight",
+      "text_history": [
+        [
+          "Figure out how to make it stop saying that it’s code changes are ‘production ready’ to my juniors in an authoritative manner.",
+          "2025-11-19T02:55:54.237246"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-19T02:55:54.237246"
+        ],
+        [
+          2,
+          "2025-11-19T03:03:40.923639"
+        ],
+        [
+          2,
+          "2025-11-19T03:06:55.391279"
+        ]
+      ],
+      "created_utc": 1763515729.0,
+      "depth": 0,
+      "permalink": "/r/PromptEngineering/comments/1p0t0sh/im_doing_free_prompt_surgery_which_of_your/nplglhs/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npn70w6",
+          "parent_id": "t1_nplglhs",
+          "author": "og_hays",
+          "text_history": [
+            [
+              "One simple fix is to wrap the model in a “safety overlay” so it never talks to your juniors like it’s the final authority or that its code is “production ready.” Below(link) is a prompt you can use as a system message (or at the top of each chat) whenever your juniors use the model for coding.  \n  \nIt forces the AI to:  \nTreat everything it outputs as draft / starting point, not final.  \nExplicitly warn that a senior review + tests are required.  \nNever claim “production-ready”, “safe”, or “correct” code.  \nUse a more collaborative, mentor tone instead of acting like The Truth.  \nYou can tweak the wording for your stack/team, but this is a solid base:\n\n[https://txt.fyi/ef3db61da0cfe014](https://txt.fyi/ef3db61da0cfe014)",
+              "2025-11-19T02:55:54.237246"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-19T02:55:54.237246"
+            ],
+            [
+              1,
+              "2025-11-19T03:03:40.923639"
+            ],
+            [
+              1,
+              "2025-11-19T03:06:55.391279"
+            ]
+          ],
+          "created_utc": 1763545188.0,
+          "depth": 1,
+          "permalink": "/r/PromptEngineering/comments/1p0t0sh/im_doing_free_prompt_surgery_which_of_your/npn70w6/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npm84gk",
+      "parent_id": "t3_1p0t0sh",
+      "author": "akrasiak",
+      "text_history": [
+        [
+          "https://www.reddit.com/r/AI_Agents/s/FDVvJDbnQv",
+          "2025-11-19T02:55:54.237246"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T02:55:54.237246"
+        ],
+        [
+          1,
+          "2025-11-19T03:03:40.923639"
+        ],
+        [
+          1,
+          "2025-11-19T03:06:55.391279"
+        ]
+      ],
+      "created_utc": 1763526030.0,
+      "depth": 0,
+      "permalink": "/r/PromptEngineering/comments/1p0t0sh/im_doing_free_prompt_surgery_which_of_your/npm84gk/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npmrab9",
+          "parent_id": "t1_npm84gk",
+          "author": "og_hays",
+          "text_history": [
+            [
+              "Hey, this is a really good use case, and you explained it clearly.\n\nWhat you’re describing is basically an “AI story editor” that does two jobs:\n\n1. Reads your project materials (reports, decks, emails) and pulls out **real intelligence**: tech decisions, failed attempts, unconventional solution, and business impact.\n2. Turns that into a **standardized story + slide deck outline** that matches your usual PPT format and storyline.\n\nInstead of asking the model to “write a PPT,” you want it to:\n\n* Sort raw information into your fixed story spine\n* Flag what’s missing\n* Then output a slide-by-slide structure you can drop into Canva\n\nOn the confidentiality side: the safest version is to run this inside whatever environment your company already approves (e.g. enterprise ChatGPT / internal deployment) and/or anonymize client names, numbers, and sensitive details before sending anything to a public model.\n\nIf you want to experiment right away, you can paste the prompt below into your AI tool of choice, upload one *sanitized* project report, and it will walk you through: extracting the story, structuring it, and giving you a ready-to-build PPT outline in your format.\n\n[https://txt.fyi/3b09d22e55924dd6](https://txt.fyi/3b09d22e55924dd6) &lt;- Prompt",
+              "2025-11-19T02:55:54.237246"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-19T02:55:54.237246"
+            ],
+            [
+              1,
+              "2025-11-19T03:03:40.923639"
+            ],
+            [
+              1,
+              "2025-11-19T03:06:55.391279"
+            ]
+          ],
+          "created_utc": 1763535530.0,
+          "depth": 1,
+          "permalink": "/r/PromptEngineering/comments/1p0t0sh/im_doing_free_prompt_surgery_which_of_your/npmrab9/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": [
+            {
+              "id": "npmrsox",
+              "parent_id": "t1_npmrab9",
+              "author": "akrasiak",
+              "text_history": [
+                [
+                  "Thank you so much!! Will use this as a headstart and let you know",
+                  "2025-11-19T02:55:54.237246"
+                ]
+              ],
+              "score_history": [
+                [
+                  2,
+                  "2025-11-19T02:55:54.237246"
+                ],
+                [
+                  2,
+                  "2025-11-19T03:03:40.923639"
+                ],
+                [
+                  2,
+                  "2025-11-19T03:06:55.391279"
+                ]
+              ],
+              "created_utc": 1763535818.0,
+              "depth": 2,
+              "permalink": "/r/PromptEngineering/comments/1p0t0sh/im_doing_free_prompt_surgery_which_of_your/npmrsox/",
+              "is_submitter": false,
+              "controversiality": 0,
+              "gilded": 0,
+              "edited": false,
+              "deleted": false,
+              "deleted_at": null,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:06:55.391279",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/PromptEngineering/comments/1p0t0sh/im_doing_free_prompt_surgery_which_of_your/",
+    "total_comments": 8,
+    "top_level_comments": 4,
+    "api_requests": 1,
+    "expected_comments": 9,
+    "coverage_percent": 88.89,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_025553.json",
+      "scrape_002_20251119_030340.json",
+      "scrape_003_20251119_030655.json"
+    ]
+  }
+}

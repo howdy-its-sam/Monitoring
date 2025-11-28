@@ -1,0 +1,124 @@
+{
+  "post": {
+    "id": "1p0bc1c",
+    "title": "Anyone found a solution to slow ChatGPT on the web?",
+    "author": "ThinForever270",
+    "score_history": [
+      [
+        2,
+        "2025-11-18T14:22:13.525529"
+      ],
+      [
+        2,
+        "2025-11-18T14:32:06.207223"
+      ],
+      [
+        2,
+        "2025-11-18T14:34:58.525653"
+      ],
+      [
+        2,
+        "2025-11-18T14:43:28.508810"
+      ]
+    ],
+    "created_utc": 1763470933.0,
+    "num_comments": 2,
+    "subreddit": "ChatGPTPro",
+    "url": "https://www.reddit.com/r/ChatGPTPro/comments/1p0bc1c/anyone_found_a_solution_to_slow_chatgpt_on_the_web/",
+    "selftext": "ChatGPT is notoriously slow in long chats on the web (chrome, firefox, etc) compared to the same long chat if you used it on your phone/tablet.\n\n  \nHas anyone found a workaround yet? Much appreciated! ",
+    "permalink": "/r/ChatGPTPro/comments/1p0bc1c/anyone_found_a_solution_to_slow_chatgpt_on_the_web/"
+  },
+  "comments": [
+    {
+      "id": "nphhlgd",
+      "parent_id": "t3_1p0bc1c",
+      "author": "qualityvote2",
+      "text_history": [
+        [
+          "Hello u/ThinForever270 👋 Welcome to r/ChatGPTPro!  \nThis is a community for advanced ChatGPT, AI tools, and prompt engineering discussions.  \nOther members will now vote on whether your post fits our community guidelines.\n\n\n---\n\nFor other users, does this post fit the subreddit?\n\nIf so, **upvote this comment!**\n\nOtherwise, **downvote this comment!**\n\nAnd if it does break the rules, **downvote this comment and report this post!**",
+          "2025-11-18T14:22:13.525529"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:22:13.525529"
+        ],
+        [
+          1,
+          "2025-11-18T14:32:06.207223"
+        ],
+        [
+          1,
+          "2025-11-18T14:34:58.525653"
+        ],
+        [
+          1,
+          "2025-11-18T14:43:28.508810"
+        ]
+      ],
+      "created_utc": 1763470934.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTPro/comments/1p0bc1c/anyone_found_a_solution_to_slow_chatgpt_on_the_web/nphhlgd/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npklpyf",
+      "parent_id": "t3_1p0bc1c",
+      "author": "FreshRadish2957",
+      "text_history": [
+        [
+          "A lot of people run into this. The slowdown is not your internet or your laptop. It is the browser version of ChatGPT struggling with long thread histories.\n\nHere are the workarounds that consistently fix it:\n\n1. Use the mobile app for long chats\nThe app runs a lighter interface and a more aggressive cache.\nSame model, faster responses, less freezing.\n\n2. Split the chat\nWhen a thread gets too heavy, tell ChatGPT:\n“Write a short recap of everything important.”\nStart a new chat, paste the recap in, and continue from there.\nKeeps performance tight without losing context.\n\n3. Disable browser extensions\nAnything that touches the DOM slows the site down.\nAdblock, script blockers, even password managers can cause extra lag.\n\n4. Try an alternative browser\nSafari and the mobile app are the smoothest.\nChrome tends to lag the worst with heavy chats.\n\n5. Use Projects if you want long term continuity\nProjects load faster than giant chat logs and handle context better.\n\nIf you want, tell me what browser you’re using and I can narrow it down further.",
+          "2025-11-18T14:32:06.207223"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T14:32:06.207223"
+        ],
+        [
+          1,
+          "2025-11-18T14:34:58.525653"
+        ],
+        [
+          1,
+          "2025-11-18T14:43:28.508810"
+        ]
+      ],
+      "created_utc": 1763504919.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTPro/comments/1p0bc1c/anyone_found_a_solution_to_slow_chatgpt_on_the_web/npklpyf/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-18T14:43:28.508810",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/ChatGPTPro/comments/1p0bc1c/anyone_found_a_solution_to_slow_chatgpt_on_the_web/",
+    "total_comments": 2,
+    "top_level_comments": 2,
+    "api_requests": 1,
+    "expected_comments": 2,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 4,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_142213.json",
+      "scrape_002_20251118_143205.json",
+      "scrape_003_20251118_143458.json",
+      "scrape_004_20251118_144328.json"
+    ]
+  }
+}

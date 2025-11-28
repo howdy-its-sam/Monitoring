@@ -1,0 +1,210 @@
+{
+  "post": {
+    "id": "1p15e9z",
+    "title": "Training artificial intelligence with PDF",
+    "author": "International_Cap365",
+    "score_history": [
+      [
+        2,
+        "2025-11-19T03:50:46.690108"
+      ],
+      [
+        2,
+        "2025-11-19T03:59:43.831361"
+      ],
+      [
+        2,
+        "2025-11-19T04:01:46.727337"
+      ],
+      [
+        2,
+        "2025-11-19T04:03:02.402570"
+      ],
+      [
+        2,
+        "2025-11-19T04:10:00.195177"
+      ],
+      [
+        2,
+        "2025-11-19T04:12:32.679992"
+      ],
+      [
+        2,
+        "2025-11-19T04:21:22.200608"
+      ]
+    ],
+    "created_utc": 1763552354.0,
+    "num_comments": 3,
+    "subreddit": "AI_Agents",
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1p15e9z/training_artificial_intelligence_with_pdf/",
+    "selftext": "I have 18 text-based, information-rich PDF files totaling approximately 3,000 pages. How can I train an AI tool using these files? Or, if I purchase a Pro/Plus subscription on platforms like ChatGPT, Gemini, or Grok, would this process become easier? Because the free versions start giving errors after a certain point. What is the most reasonable method for this?",
+    "permalink": "/r/AI_Agents/comments/1p15e9z/training_artificial_intelligence_with_pdf/"
+  },
+  "comments": [
+    {
+      "id": "npnjgpv",
+      "parent_id": "t3_1p15e9z",
+      "author": "AutoModerator",
+      "text_history": [
+        [
+          "Thank you for your submission, for any questions regarding AI, please check out our wiki at https://www.reddit.com/r/ai_agents/wiki (this is currently in test and we are actively adding to the wiki)\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/AI_Agents) if you have any questions or concerns.*",
+          "2025-11-19T03:50:46.690108"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T03:50:46.690108"
+        ],
+        [
+          1,
+          "2025-11-19T03:59:43.831361"
+        ],
+        [
+          1,
+          "2025-11-19T04:01:46.727337"
+        ],
+        [
+          1,
+          "2025-11-19T04:03:02.402570"
+        ],
+        [
+          1,
+          "2025-11-19T04:10:00.195177"
+        ],
+        [
+          1,
+          "2025-11-19T04:12:32.679992"
+        ],
+        [
+          1,
+          "2025-11-19T04:21:22.200608"
+        ]
+      ],
+      "created_utc": 1763552355.0,
+      "depth": 0,
+      "permalink": "/r/AI_Agents/comments/1p15e9z/training_artificial_intelligence_with_pdf/npnjgpv/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npnkabb",
+      "parent_id": "t3_1p15e9z",
+      "author": "ai-agents-qa-bot",
+      "text_history": [
+        [
+          "To train an AI tool using your 18 text-based PDF files, you can follow these steps:\n\n- **Extract Text from PDFs**: Use tools or libraries that can extract text from PDF files. Libraries like PyPDF2 or PDFMiner in Python can help you retrieve the text content from your PDFs.\n\n- **Preprocess the Data**: Clean and preprocess the extracted text. This may involve removing unnecessary formatting, correcting errors, and structuring the data in a way that is suitable for training.\n\n- **Choose an AI Model**: Depending on your needs, select an appropriate AI model. If you're looking to use large language models (LLMs), consider platforms that offer access to these models.\n\n- **Fine-tuning**: If you have access to a model that allows fine-tuning, you can use your preprocessed data to train the model further. This typically requires a good understanding of machine learning and may involve using frameworks like TensorFlow or PyTorch.\n\n- **Using Subscription Services**: Purchasing a Pro/Plus subscription on platforms like ChatGPT, Gemini, or Grok may provide you with enhanced capabilities, such as better handling of larger inputs and more robust performance. These subscriptions often come with additional features that can simplify the training process.\n\n- **Considerations for Errors**: If you're encountering errors with free versions, upgrading to a paid plan can help mitigate these issues, especially if you need to process large amounts of data or require more advanced features.\n\nIn summary, extracting and preprocessing your PDF data, selecting the right model, and considering subscription options for better performance are key steps in training an AI tool effectively.",
+          "2025-11-19T03:50:46.690108"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T03:50:46.690108"
+        ],
+        [
+          1,
+          "2025-11-19T03:59:43.831361"
+        ],
+        [
+          1,
+          "2025-11-19T04:01:46.727337"
+        ],
+        [
+          1,
+          "2025-11-19T04:03:02.402570"
+        ],
+        [
+          1,
+          "2025-11-19T04:10:00.195177"
+        ],
+        [
+          1,
+          "2025-11-19T04:12:32.679992"
+        ],
+        [
+          1,
+          "2025-11-19T04:21:22.200608"
+        ]
+      ],
+      "created_utc": 1763552771.0,
+      "depth": 0,
+      "permalink": "/r/AI_Agents/comments/1p15e9z/training_artificial_intelligence_with_pdf/npnkabb/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npnm1js",
+      "parent_id": "t3_1p15e9z",
+      "author": "AffectionateGuest275",
+      "text_history": [
+        [
+          "Have you tried Google’s NotebookLM?",
+          "2025-11-19T04:01:46.727337"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T04:01:46.727337"
+        ],
+        [
+          1,
+          "2025-11-19T04:03:02.402570"
+        ],
+        [
+          1,
+          "2025-11-19T04:10:00.195177"
+        ],
+        [
+          1,
+          "2025-11-19T04:12:32.679992"
+        ],
+        [
+          1,
+          "2025-11-19T04:21:22.200608"
+        ]
+      ],
+      "created_utc": 1763553612.0,
+      "depth": 0,
+      "permalink": "/r/AI_Agents/comments/1p15e9z/training_artificial_intelligence_with_pdf/npnm1js/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T04:21:22.200608",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/AI_Agents/comments/1p15e9z/training_artificial_intelligence_with_pdf/",
+    "total_comments": 3,
+    "top_level_comments": 3,
+    "api_requests": 1,
+    "expected_comments": 3,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 7,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_035046.json",
+      "scrape_002_20251119_035943.json",
+      "scrape_003_20251119_040146.json",
+      "scrape_004_20251119_040302.json",
+      "scrape_005_20251119_040959.json",
+      "scrape_006_20251119_041232.json",
+      "scrape_007_20251119_042121.json"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "post": {
+    "id": "1p16gdr",
+    "title": "Hosting a deep-dive on agentic orchestration for customer-facing AI",
+    "author": "Chozee22",
+    "score_history": [
+      [
+        1,
+        "2025-11-19T04:32:28.312827"
+      ],
+      [
+        1,
+        "2025-11-19T04:32:49.554650"
+      ],
+      [
+        1,
+        "2025-11-19T04:33:10.993342"
+      ]
+    ],
+    "created_utc": 1763555505.0,
+    "num_comments": 0,
+    "subreddit": "LangChain",
+    "url": "https://i.redd.it/a3smiwmuj72g1.png",
+    "selftext": "Hey everyone, we (Parlant open-source) are hosting a live webinar on Compliant Agentic Orchestration next week.\n\nWe’ll walk through:  \n• A reliability-first approach  \n• Accuracy optimization strategies  \n• Real-life lessons\n\nIf you’re building or experimenting with customer-facing agents, this might be up your alley.\n\nAdding the link in the first comment.\n\nHope to see a few of you there, we’ll have time for live Q&amp;A too.  \nThanks!",
+    "permalink": "/r/LangChain/comments/1p16gdr/hosting_a_deepdive_on_agentic_orchestration_for/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T04:33:10.993342",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/LangChain/comments/1p16gdr/hosting_a_deepdive_on_agentic_orchestration_for/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_043227.json",
+      "scrape_002_20251119_043249.json",
+      "scrape_003_20251119_043310.json"
+    ]
+  }
+}

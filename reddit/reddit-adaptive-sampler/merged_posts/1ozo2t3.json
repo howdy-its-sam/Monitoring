@@ -1,0 +1,326 @@
+{
+  "post": {
+    "id": "1ozo2t3",
+    "title": "I built an AI agent that fully deploys a Minecraft server on Hetzner — start to finish, fully autonomous (with custom MCP Server)",
+    "author": "Ok-Technology-1234",
+    "score_history": [
+      [
+        4,
+        "2025-11-18T13:48:53.709964"
+      ],
+      [
+        5,
+        "2025-11-18T14:00:04.799328"
+      ],
+      [
+        5,
+        "2025-11-18T14:11:18.307923"
+      ],
+      [
+        5,
+        "2025-11-18T21:29:07.691583"
+      ],
+      [
+        4,
+        "2025-11-18T23:13:59.483059"
+      ],
+      [
+        6,
+        "2025-11-19T00:58:01.826599"
+      ],
+      [
+        5,
+        "2025-11-19T07:22:40.181233"
+      ]
+    ],
+    "created_utc": 1763404071.0,
+    "num_comments": 5,
+    "subreddit": "ChatGPTPro",
+    "url": "https://v.redd.it/2jvusi3k1v1g1",
+    "selftext": "Hey everyone,  \nI spent the last days building a small MCP → SSH relay so an LLM can safely control remote servers using a limited command set.\n\nHere’s what the agent currently does completely autonomously:\n\n1. ⚙️ Creates a temporary Hetzner server via API\n2. 🔑 Generates its own SSH keys and stores them for the session\n3. 🔌 Connects over SSH using my relay (no direct access for the model)\n4. 📦 Installs all dependencies needed for a Minecraft server\n5. 🖥️ Sets up the server and runs it inside tmux (so it stays alive)\n6. 🔁 Adds autostart so it survives reboots\n7. 🔍 Verifies the port is open and checks if the server responds\n8. 📫 Sends me a clean status summary when everything is done\n9. 🗑️ Deletes the server if something fails (or after the demo)\n\nThis all runs in a fully scripted plan the agent writes by itself —  \nI only give the goal (“deploy a Minecraft server on Hetzner”),  \nand it handles the entire workflow.\n\nIt’s still very early (pre-alpha), but the autonomy feels kinda crazy already.  \nI’m planning to extend this into a more general “Workbench” where agents can manage infrastructure safely.\n\nVideo demo is attached.  \nWould love feedback, ideas, concerns — anything helps.",
+    "permalink": "/r/ChatGPTPro/comments/1ozo2t3/i_built_an_ai_agent_that_fully_deploys_a/"
+  },
+  "comments": [
+    {
+      "id": "npcw3cf",
+      "parent_id": "t3_1ozo2t3",
+      "author": "qualityvote2",
+      "text_history": [
+        [
+          "Hello u/Ok-Technology-1234 👋 Welcome to r/ChatGPTPro!  \nThis is a community for advanced ChatGPT, AI tools, and prompt engineering discussions.  \nOther members will now vote on whether your post fits our community guidelines.\n\n\n---\n\nFor other users, does this post fit the subreddit?\n\nIf so, **upvote this comment!**\n\nOtherwise, **downvote this comment!**\n\nAnd if it does break the rules, **downvote this comment and report this post!**",
+          "2025-11-18T13:48:53.709964"
+        ],
+        [
+          "u/Ok-Technology-1234, there weren’t enough community votes to determine your post’s quality.  \nIt will remain for moderator review or until more votes are cast.",
+          "2025-11-18T23:13:59.483059"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T13:48:53.709964"
+        ],
+        [
+          1,
+          "2025-11-18T14:00:04.799328"
+        ],
+        [
+          1,
+          "2025-11-18T14:11:18.307923"
+        ],
+        [
+          1,
+          "2025-11-18T21:29:07.691583"
+        ],
+        [
+          1,
+          "2025-11-18T23:13:59.483059"
+        ],
+        [
+          1,
+          "2025-11-19T00:58:01.826599"
+        ],
+        [
+          1,
+          "2025-11-19T07:22:40.181233"
+        ]
+      ],
+      "created_utc": 1763404072.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTPro/comments/1ozo2t3/i_built_an_ai_agent_that_fully_deploys_a/npcw3cf/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": 1763533674.0,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npcyt5e",
+      "parent_id": "t3_1ozo2t3",
+      "author": "[deleted]",
+      "text_history": [
+        [
+          "Почему chat gpt выводит пользователя на темы сознания?",
+          "2025-11-18T13:48:53.709964"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T13:48:53.709964"
+        ],
+        [
+          1,
+          "2025-11-18T14:00:04.799328"
+        ],
+        [
+          1,
+          "2025-11-18T14:11:18.307923"
+        ],
+        [
+          1,
+          "2025-11-18T21:29:07.691583"
+        ],
+        [
+          1,
+          "2025-11-18T23:13:59.483059"
+        ],
+        [
+          1,
+          "2025-11-19T00:58:01.826599"
+        ],
+        [
+          1,
+          "2025-11-19T07:22:40.181233"
+        ]
+      ],
+      "created_utc": 1763404854.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTPro/comments/1ozo2t3/i_built_an_ai_agent_that_fully_deploys_a/npcyt5e/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npcztww",
+          "parent_id": "t1_npcyt5e",
+          "author": "[deleted]",
+          "text_history": [
+            [
+              "Более чем другие ии.\nНе то что бы это плохо.\nПросто интересно.",
+              "2025-11-18T13:48:53.709964"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T13:48:53.709964"
+            ],
+            [
+              1,
+              "2025-11-18T14:00:04.799328"
+            ],
+            [
+              1,
+              "2025-11-18T14:11:18.307923"
+            ],
+            [
+              1,
+              "2025-11-18T21:29:07.691583"
+            ],
+            [
+              1,
+              "2025-11-18T23:13:59.483059"
+            ],
+            [
+              1,
+              "2025-11-19T00:58:01.826599"
+            ],
+            [
+              1,
+              "2025-11-19T07:22:40.181233"
+            ]
+          ],
+          "created_utc": 1763405152.0,
+          "depth": 1,
+          "permalink": "/r/ChatGPTPro/comments/1ozo2t3/i_built_an_ai_agent_that_fully_deploys_a/npcztww/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "npcztp3",
+      "parent_id": "t3_1ozo2t3",
+      "author": "mikerubini",
+      "text_history": [
+        [
+          "This is a really cool project! Automating the deployment of a Minecraft server is no small feat, and it sounds like you've got a solid foundation. Since you're looking to extend this into a more general \"Workbench\" for managing infrastructure, I wanted to share some insights that might help you scale and secure your agent's operations.\n\n1. **Sandboxing and Isolation**: Since your agent is executing commands on remote servers, consider implementing a more robust sandboxing solution. Using something like Firecracker microVMs can provide hardware-level isolation for your agents. This way, even if an agent misbehaves or gets compromised, it won't affect the host system or other agents. It also allows for sub-second VM startup times, which can be a game-changer for your deployment speed.\n\n2. **Multi-Agent Coordination**: As you expand your Workbench, think about how agents will communicate and coordinate with each other. Implementing A2A (Agent-to-Agent) protocols can help manage tasks that require multiple agents working together. This could be particularly useful if you want to have agents that handle different aspects of server management, like monitoring, scaling, or even backups.\n\n3. **Persistent File Systems**: If your agents need to maintain state or share data, consider using persistent file systems. This will allow your agents to store configurations, logs, or any other necessary data across sessions. It can also help in debugging and improving the autonomy of your agents, as they can learn from past actions.\n\n4. **SDKs and Integration**: Since you're already using SSH and APIs, you might want to look into SDKs for Python or TypeScript that can help streamline your development process. They can simplify interactions with various services and make your code cleaner and more maintainable.\n\n5. **Error Handling and Recovery**: You mentioned that your agent deletes the server if something fails. While that's a good safety measure, consider implementing more granular error handling. For example, if a specific step fails, your agent could attempt to retry that step or roll back to a previous state instead of tearing everything down. This could improve the user experience and reduce downtime.\n\nOverall, it sounds like you're on the right track, and with these enhancements, your Workbench could become a powerful tool for managing infrastructure autonomously. Keep up the great work!",
+          "2025-11-18T13:48:53.709964"
+        ]
+      ],
+      "score_history": [
+        [
+          -3,
+          "2025-11-18T13:48:53.709964"
+        ],
+        [
+          -2,
+          "2025-11-18T14:00:04.799328"
+        ],
+        [
+          -3,
+          "2025-11-18T14:11:18.307923"
+        ],
+        [
+          -4,
+          "2025-11-18T21:29:07.691583"
+        ],
+        [
+          -3,
+          "2025-11-18T23:13:59.483059"
+        ],
+        [
+          -4,
+          "2025-11-19T00:58:01.826599"
+        ],
+        [
+          -3,
+          "2025-11-19T07:22:40.181233"
+        ]
+      ],
+      "created_utc": 1763405150.0,
+      "depth": 0,
+      "permalink": "/r/ChatGPTPro/comments/1ozo2t3/i_built_an_ai_agent_that_fully_deploys_a/npcztp3/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npehjki",
+          "parent_id": "t1_npcztp3",
+          "author": "ArtisticKey4324",
+          "text_history": [
+            [
+              "Firecracker microvms will set your computer and house ablaze",
+              "2025-11-18T13:48:53.709964"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T13:48:53.709964"
+            ],
+            [
+              1,
+              "2025-11-18T14:00:04.799328"
+            ],
+            [
+              1,
+              "2025-11-18T14:11:18.307923"
+            ],
+            [
+              1,
+              "2025-11-18T21:29:07.691583"
+            ],
+            [
+              1,
+              "2025-11-18T23:13:59.483059"
+            ],
+            [
+              1,
+              "2025-11-19T00:58:01.826599"
+            ],
+            [
+              1,
+              "2025-11-19T07:22:40.181233"
+            ]
+          ],
+          "created_utc": 1763421736.0,
+          "depth": 1,
+          "permalink": "/r/ChatGPTPro/comments/1ozo2t3/i_built_an_ai_agent_that_fully_deploys_a/npehjki/",
+          "is_submitter": false,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T07:22:40.181233",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/ChatGPTPro/comments/1ozo2t3/i_built_an_ai_agent_that_fully_deploys_a/",
+    "total_comments": 5,
+    "top_level_comments": 3,
+    "api_requests": 1,
+    "expected_comments": 5,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 7,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_134853.json",
+      "scrape_002_20251118_140004.json",
+      "scrape_003_20251118_141118.json",
+      "scrape_004_20251118_212907.json",
+      "scrape_005_20251118_231359.json",
+      "scrape_006_20251119_005801.json",
+      "scrape_007_20251119_072239.json"
+    ]
+  }
+}

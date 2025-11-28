@@ -1,0 +1,44 @@
+{
+  "post": {
+    "id": "1p07upg",
+    "title": "Besoin de votre aide pour une étude qui compte vraiment pour moi",
+    "author": "BusinessQuick1683",
+    "score_history": [
+      [
+        2,
+        "2025-11-19T03:18:08.221972"
+      ],
+      [
+        2,
+        "2025-11-19T03:29:04.970873"
+      ],
+      [
+        2,
+        "2025-11-19T03:30:36.557266"
+      ]
+    ],
+    "created_utc": 1763459290.0,
+    "num_comments": 0,
+    "subreddit": "PromptEngineering",
+    "url": "https://www.reddit.com/r/PromptEngineering/comments/1p07upg/besoin_de_votre_aide_pour_une_étude_qui_compte/",
+    "selftext": "Je me permets de revenir vers vous car j’ai vraiment besoin de votre soutien. J’ai publié il y a quelques jours un questionnaire pour mon étude en master sur les communautés de RomptEngeneeing , et même si beaucoup l’ont vu, très peu ont répondu…\n\nChaque réponse compte énormément pour moi et peut vraiment faire la différence dans mon travail. Cela ne prend que10 minutes, mais votre contribution m’aidera à avancer et à rendre cette étude plus complète et représentative.\n\nSi vous pouvez prendre un petit moment pour remplir mon questionnaire, je vous en serai infiniment reconnaissant  \nVoici le lien : En français [https://form.dragnsurvey.com/survey/r/17b2e778](https://form.dragnsurvey.com/survey/r/17b2e778)\n\n[https://form.dragnsurvey.com/survey/r/7a68a99b](https://form.dragnsurvey.com/survey/r/7a68a99b) EN ANGLAIS",
+    "permalink": "/r/PromptEngineering/comments/1p07upg/besoin_de_votre_aide_pour_une_étude_qui_compte/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:30:36.557266",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/PromptEngineering/comments/1p07upg/besoin_de_votre_aide_pour_une_étude_qui_compte/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_031808.json",
+      "scrape_002_20251119_032904.json",
+      "scrape_003_20251119_033036.json"
+    ]
+  }
+}

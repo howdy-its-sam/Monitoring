@@ -1,0 +1,79 @@
+{
+  "post": {
+    "id": "1p17q03",
+    "title": "Quantum physicists have shrunk and “de-censored” DeepSeek R1",
+    "author": "donutloop",
+    "score_history": [
+      [
+        1,
+        "2025-11-19T05:31:17.080941"
+      ],
+      [
+        1,
+        "2025-11-19T05:31:17.569830"
+      ],
+      [
+        1,
+        "2025-11-19T05:31:18.095968"
+      ],
+      [
+        1,
+        "2025-11-19T05:31:18.651265"
+      ],
+      [
+        1,
+        "2025-11-19T05:31:19.126339"
+      ],
+      [
+        1,
+        "2025-11-19T05:31:19.605030"
+      ],
+      [
+        1,
+        "2025-11-19T05:31:20.145097"
+      ],
+      [
+        1,
+        "2025-11-19T05:31:20.698034"
+      ],
+      [
+        1,
+        "2025-11-19T05:31:21.174229"
+      ],
+      [
+        1,
+        "2025-11-19T05:31:21.658173"
+      ]
+    ],
+    "created_utc": 1763559010.0,
+    "num_comments": 0,
+    "subreddit": "singularity",
+    "url": "https://www.technologyreview.com/2025/11/19/1128119/quantum-physicists-compress-and-deconsor-deepseekr1/",
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1p17q03/quantum_physicists_have_shrunk_and_decensored/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T05:31:21.658173",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/singularity/comments/1p17q03/quantum_physicists_have_shrunk_and_decensored/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 10,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_053116.json",
+      "scrape_002_20251119_053117.json",
+      "scrape_003_20251119_053117.json",
+      "scrape_004_20251119_053118.json",
+      "scrape_005_20251119_053118.json",
+      "scrape_006_20251119_053119.json",
+      "scrape_007_20251119_053119.json",
+      "scrape_008_20251119_053120.json",
+      "scrape_009_20251119_053120.json",
+      "scrape_010_20251119_053121.json"
+    ]
+  }
+}

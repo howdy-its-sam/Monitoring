@@ -1,0 +1,54 @@
+{
+  "post": {
+    "id": "1ospive",
+    "title": "StepFun AI Releases Step-Audio-EditX: A New Open-Source 3B LLM-Grade Audio Editing Model Excelling at Expressive and Iterative Audio Editing",
+    "author": "ai-lover",
+    "score_history": [
+      [
+        13,
+        "2025-11-18T13:48:59.990097"
+      ],
+      [
+        14,
+        "2025-11-18T14:00:14.361466"
+      ],
+      [
+        14,
+        "2025-11-18T14:12:12.316812"
+      ],
+      [
+        14,
+        "2025-11-18T22:00:00.618195"
+      ],
+      [
+        13,
+        "2025-11-19T07:12:23.059045"
+      ]
+    ],
+    "created_utc": 1762710087.0,
+    "num_comments": 0,
+    "subreddit": "machinelearningnews",
+    "url": "https://www.marktechpost.com/2025/11/09/stepfun-ai-releases-step-audio-editx-a-new-open-source-3b-llm-grade-audio-editing-model-excelling-at-expressive-and-iterative-audio-editing/",
+    "selftext": "",
+    "permalink": "/r/machinelearningnews/comments/1ospive/stepfun_ai_releases_stepaudioeditx_a_new/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T07:12:23.059045",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/machinelearningnews/comments/1ospive/stepfun_ai_releases_stepaudioeditx_a_new/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 5,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_134859.json",
+      "scrape_002_20251118_140013.json",
+      "scrape_003_20251118_141212.json",
+      "scrape_004_20251118_220000.json",
+      "scrape_005_20251119_071222.json"
+    ]
+  }
+}

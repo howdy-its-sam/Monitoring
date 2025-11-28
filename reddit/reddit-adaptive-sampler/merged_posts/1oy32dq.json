@@ -1,0 +1,54 @@
+{
+  "post": {
+    "id": "1oy32dq",
+    "title": "Arch-Router, a 1.5B model that follows your natural language policies to choose the best model to route each request.",
+    "author": "robogame_dev",
+    "score_history": [
+      [
+        2,
+        "2025-11-18T14:45:24.156264"
+      ],
+      [
+        2,
+        "2025-11-18T14:53:20.296759"
+      ],
+      [
+        2,
+        "2025-11-18T14:55:54.353056"
+      ],
+      [
+        2,
+        "2025-11-18T22:32:16.112121"
+      ],
+      [
+        2,
+        "2025-11-19T00:26:20.903724"
+      ]
+    ],
+    "created_utc": 1763241149.0,
+    "num_comments": 0,
+    "subreddit": "AI_developers",
+    "url": "https://i.redd.it/oh9bfdfbxc1g1.png",
+    "selftext": "",
+    "permalink": "/r/AI_developers/comments/1oy32dq/archrouter_a_15b_model_that_follows_your_natural/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T00:26:20.903724",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/AI_developers/comments/1oy32dq/archrouter_a_15b_model_that_follows_your_natural/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 5,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_144523.json",
+      "scrape_002_20251118_145320.json",
+      "scrape_003_20251118_145552.json",
+      "scrape_004_20251118_223215.json",
+      "scrape_005_20251119_002620.json"
+    ]
+  }
+}

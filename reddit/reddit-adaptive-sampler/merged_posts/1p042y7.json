@@ -1,0 +1,194 @@
+{
+  "post": {
+    "id": "1p042y7",
+    "title": "Building a “Vibe Coding” Platform: Lessons from the Frontlines",
+    "author": "nav398",
+    "score_history": [
+      [
+        1,
+        "2025-11-18T12:51:39.701472"
+      ],
+      [
+        1,
+        "2025-11-18T13:03:59.688858"
+      ],
+      [
+        1,
+        "2025-11-18T13:15:52.910069"
+      ],
+      [
+        1,
+        "2025-11-18T13:48:24.860258"
+      ],
+      [
+        1,
+        "2025-11-18T13:59:55.727162"
+      ],
+      [
+        1,
+        "2025-11-18T14:11:16.119971"
+      ],
+      [
+        1,
+        "2025-11-18T21:39:15.906231"
+      ],
+      [
+        1,
+        "2025-11-18T23:22:55.533654"
+      ],
+      [
+        1,
+        "2025-11-19T01:08:32.961531"
+      ]
+    ],
+    "created_utc": 1763445004.0,
+    "num_comments": 2,
+    "subreddit": "AgentsOfAI",
+    "url": "https://www.reddit.com/r/AgentsOfAI/comments/1p042y7/building_a_vibe_coding_platform_lessons_from_the/",
+    "selftext": "Building AI agents is supposed to be “easy,” right? Spoiler: it isn’t. Between system prompts that hit 600 lines, context windows that forget everything, and agents that think they’re microservice architects, I learned a few things. Mostly: keep it simple, keep it short, and sometimes just gently parent your AI.\n\n[LinkedIn article](https://www.linkedin.com/pulse/building-vibe-coding-platform-lessons-from-frontlines-naveen-raj-1qiwc/?trackingId=E%2BaC8odEQJuK1AuLEcqCow%3D%3D)",
+    "permalink": "/r/AgentsOfAI/comments/1p042y7/building_a_vibe_coding_platform_lessons_from_the/"
+  },
+  "comments": [
+    {
+      "id": "npga882",
+      "parent_id": "t3_1p042y7",
+      "author": "Moist_Explanation895",
+      "text_history": [
+        [
+          "interesting, I wonder if there's any open source project for vibe coding agents, would cool to build one otherwise. I see more and more people in need of a vibecoding agent",
+          "2025-11-18T12:51:39.701472"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T12:51:39.701472"
+        ],
+        [
+          1,
+          "2025-11-18T13:03:59.688858"
+        ],
+        [
+          1,
+          "2025-11-18T13:15:52.910069"
+        ],
+        [
+          1,
+          "2025-11-18T13:48:24.860258"
+        ],
+        [
+          1,
+          "2025-11-18T13:59:55.727162"
+        ],
+        [
+          1,
+          "2025-11-18T14:11:16.119971"
+        ],
+        [
+          1,
+          "2025-11-18T21:39:15.906231"
+        ],
+        [
+          1,
+          "2025-11-18T23:22:55.533654"
+        ],
+        [
+          1,
+          "2025-11-19T01:08:32.961531"
+        ]
+      ],
+      "created_utc": 1763447085.0,
+      "depth": 0,
+      "permalink": "/r/AgentsOfAI/comments/1p042y7/building_a_vibe_coding_platform_lessons_from_the/npga882/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": [
+        {
+          "id": "npgbg19",
+          "parent_id": "t1_npga882",
+          "author": "nav398",
+          "text_history": [
+            [
+              "There are but what I've understood is they can be inconsistent a lot. Knowledge cut off would be a big issue. I faced so many issues these are some of them.",
+              "2025-11-18T12:51:39.701472"
+            ]
+          ],
+          "score_history": [
+            [
+              1,
+              "2025-11-18T12:51:39.701472"
+            ],
+            [
+              1,
+              "2025-11-18T13:03:59.688858"
+            ],
+            [
+              1,
+              "2025-11-18T13:15:52.910069"
+            ],
+            [
+              1,
+              "2025-11-18T13:48:24.860258"
+            ],
+            [
+              1,
+              "2025-11-18T13:59:55.727162"
+            ],
+            [
+              1,
+              "2025-11-18T14:11:16.119971"
+            ],
+            [
+              1,
+              "2025-11-18T21:39:15.906231"
+            ],
+            [
+              1,
+              "2025-11-18T23:22:55.533654"
+            ],
+            [
+              1,
+              "2025-11-19T01:08:32.961531"
+            ]
+          ],
+          "created_utc": 1763447746.0,
+          "depth": 1,
+          "permalink": "/r/AgentsOfAI/comments/1p042y7/building_a_vibe_coding_platform_lessons_from_the/npgbg19/",
+          "is_submitter": true,
+          "controversiality": 0,
+          "gilded": 0,
+          "edited": false,
+          "deleted": false,
+          "deleted_at": null,
+          "replies": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T01:08:32.961531",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/AgentsOfAI/comments/1p042y7/building_a_vibe_coding_platform_lessons_from_the/",
+    "total_comments": 2,
+    "top_level_comments": 1,
+    "api_requests": 1,
+    "expected_comments": 2,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 9,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_125139.json",
+      "scrape_002_20251118_130359.json",
+      "scrape_003_20251118_131552.json",
+      "scrape_004_20251118_134824.json",
+      "scrape_005_20251118_135955.json",
+      "scrape_006_20251118_141115.json",
+      "scrape_007_20251118_213915.json",
+      "scrape_008_20251118_232255.json",
+      "scrape_009_20251119_010832.json"
+    ]
+  }
+}

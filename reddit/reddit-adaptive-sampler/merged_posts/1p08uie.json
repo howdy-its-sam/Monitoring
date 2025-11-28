@@ -1,0 +1,44 @@
+{
+  "post": {
+    "id": "1p08uie",
+    "title": "What Will Happen To Windsurf’s Security/Privacy Under Cognition AI?",
+    "author": "pale-blue-dotter",
+    "score_history": [
+      [
+        1,
+        "2025-11-19T02:56:11.229912"
+      ],
+      [
+        1,
+        "2025-11-19T03:05:45.874709"
+      ],
+      [
+        1,
+        "2025-11-19T03:14:35.000581"
+      ]
+    ],
+    "created_utc": 1763463011.0,
+    "num_comments": 0,
+    "subreddit": "ChatGPTCoding",
+    "url": "/r/windsurf/comments/1p02vkw/what_will_happen_to_windsurfs_securityprivacy/",
+    "selftext": "",
+    "permalink": "/r/ChatGPTCoding/comments/1p08uie/what_will_happen_to_windsurfs_securityprivacy/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-19T03:14:35.000581",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/ChatGPTCoding/comments/1p08uie/what_will_happen_to_windsurfs_securityprivacy/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_025610.json",
+      "scrape_002_20251119_030545.json",
+      "scrape_003_20251119_031434.json"
+    ]
+  }
+}

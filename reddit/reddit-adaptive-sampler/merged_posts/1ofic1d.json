@@ -1,0 +1,44 @@
+{
+  "post": {
+    "id": "1ofic1d",
+    "title": "Is anyone actually handling API calls from AI agents cleanly? Because I’m losing my mind.",
+    "author": "AdVivid5763",
+    "score_history": [
+      [
+        1,
+        "2025-11-18T14:23:54.940623"
+      ],
+      [
+        1,
+        "2025-11-18T14:33:41.858068"
+      ],
+      [
+        1,
+        "2025-11-18T14:43:22.704530"
+      ]
+    ],
+    "created_utc": 1761366040.0,
+    "num_comments": 0,
+    "subreddit": "AutoGPT",
+    "url": "/r/AI_Agents/comments/1ofi0or/is_anyone_actually_handling_api_calls_from_ai/",
+    "selftext": "",
+    "permalink": "/r/AutoGPT/comments/1ofic1d/is_anyone_actually_handling_api_calls_from_ai/"
+  },
+  "comments": [],
+  "metadata": {
+    "scraped_at": "2025-11-18T14:43:22.704530",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/AutoGPT/comments/1ofic1d/is_anyone_actually_handling_api_calls_from_ai/",
+    "total_comments": 0,
+    "top_level_comments": 0,
+    "api_requests": 1,
+    "expected_comments": 0,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 3,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_142354.json",
+      "scrape_002_20251118_143341.json",
+      "scrape_003_20251118_144322.json"
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "post": {
+    "id": "1p0wcrs",
+    "title": "Are SASEs getting slower?",
+    "author": "testosteronedealer97",
+    "score_history": [
+      [
+        0,
+        "2025-11-19T03:49:00.215315"
+      ],
+      [
+        0,
+        "2025-11-19T03:52:31.363750"
+      ],
+      [
+        0,
+        "2025-11-19T03:59:43.546479"
+      ],
+      [
+        0,
+        "2025-11-19T07:22:42.892841"
+      ]
+    ],
+    "created_utc": 1763521564.0,
+    "num_comments": 2,
+    "subreddit": "cybersecurity",
+    "url": "https://www.reddit.com/r/cybersecurity/comments/1p0wcrs/are_sases_getting_slower/",
+    "selftext": "Feel like there is an outage everyday and applications we are experiencing more and more latency lately.\n\nI have theory they can’t scale to handle all this AI throughput embedded in the internet is what’s slowing it down but they had problems before as well.\n\nThey all seem to have similar issues. Has anyone else noticed this?",
+    "permalink": "/r/cybersecurity/comments/1p0wcrs/are_sases_getting_slower/"
+  },
+  "comments": [
+    {
+      "id": "nply17r",
+      "parent_id": "t3_1p0wcrs",
+      "author": "Efficient-Mec",
+      "text_history": [
+        [
+          "Thats not how it works. Its not how anything works. ",
+          "2025-11-19T03:49:00.215315"
+        ]
+      ],
+      "score_history": [
+        [
+          2,
+          "2025-11-19T03:49:00.215315"
+        ],
+        [
+          2,
+          "2025-11-19T03:52:31.363750"
+        ],
+        [
+          2,
+          "2025-11-19T03:59:43.546479"
+        ],
+        [
+          2,
+          "2025-11-19T07:22:42.892841"
+        ]
+      ],
+      "created_utc": 1763521986.0,
+      "depth": 0,
+      "permalink": "/r/cybersecurity/comments/1p0wcrs/are_sases_getting_slower/nply17r/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npm0ria",
+      "parent_id": "t3_1p0wcrs",
+      "author": "Better-Sundae-8429",
+      "text_history": [
+        [
+          "SASE platforms can get hit with weird bursts of traffic that slow things down but not in the way you're describing. SASE isn't the same thing as a CDN.",
+          "2025-11-19T03:49:00.215315"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-19T03:49:00.215315"
+        ],
+        [
+          1,
+          "2025-11-19T03:52:31.363750"
+        ],
+        [
+          1,
+          "2025-11-19T03:59:43.546479"
+        ],
+        [
+          1,
+          "2025-11-19T07:22:42.892841"
+        ]
+      ],
+      "created_utc": 1763523028.0,
+      "depth": 0,
+      "permalink": "/r/cybersecurity/comments/1p0wcrs/are_sases_getting_slower/npm0ria/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-19T07:22:42.892841",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/cybersecurity/comments/1p0wcrs/are_sases_getting_slower/",
+    "total_comments": 2,
+    "top_level_comments": 2,
+    "api_requests": 1,
+    "expected_comments": 2,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 4,
+    "merged_snapshot_files": [
+      "scrape_001_20251119_034859.json",
+      "scrape_002_20251119_035231.json",
+      "scrape_003_20251119_035943.json",
+      "scrape_004_20251119_072242.json"
+    ]
+  }
+}

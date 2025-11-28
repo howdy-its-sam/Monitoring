@@ -1,0 +1,128 @@
+{
+  "post": {
+    "id": "1p0ihuh",
+    "title": "Ten people. Ten million dollars. Months, not years.",
+    "author": "Cultural-Delay-7671",
+    "score_history": [
+      [
+        1,
+        "2025-11-18T13:04:06.690547"
+      ],
+      [
+        1,
+        "2025-11-18T13:48:14.112537"
+      ],
+      [
+        1,
+        "2025-11-18T13:59:25.306530"
+      ],
+      [
+        1,
+        "2025-11-18T14:10:51.370178"
+      ]
+    ],
+    "created_utc": 1763487772.0,
+    "num_comments": 2,
+    "subreddit": "DigitalMarketing",
+    "url": "/r/AIProductBuilders/comments/1p0ieni/ten_people_ten_million_dollars_months_not_years/",
+    "selftext": "",
+    "permalink": "/r/DigitalMarketing/comments/1p0ihuh/ten_people_ten_million_dollars_months_not_years/"
+  },
+  "comments": [
+    {
+      "id": "npj07j2",
+      "parent_id": "t3_1p0ihuh",
+      "author": "AutoModerator",
+      "text_history": [
+        [
+          "[If this post doesn't follow the rules report it to the mods](https://www.reddit.com/r/DigitalMarketing/about/rules/). Have more questions? [Join our community Discord!](https://discord.gg/looking-for-marketing-discussion-811236647760298024)\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/DigitalMarketing) if you have any questions or concerns.*",
+          "2025-11-18T13:04:06.690547"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T13:04:06.690547"
+        ],
+        [
+          1,
+          "2025-11-18T13:48:14.112537"
+        ],
+        [
+          1,
+          "2025-11-18T13:59:25.306530"
+        ],
+        [
+          1,
+          "2025-11-18T14:10:51.370178"
+        ]
+      ],
+      "created_utc": 1763487773.0,
+      "depth": 0,
+      "permalink": "/r/DigitalMarketing/comments/1p0ihuh/ten_people_ten_million_dollars_months_not_years/npj07j2/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    },
+    {
+      "id": "npj07n0",
+      "parent_id": "t3_1p0ihuh",
+      "author": "AutoModerator",
+      "text_history": [
+        [
+          "Are you a marketing professional and have 15 minutes to share your insights? [Take our 2025 State of Marketing Survey](https://lookingformarketing.com/survey?utm_source=reddit&amp;utm_medium=social&amp;utm_campaign=survey&amp;utm_content=r_digitalmarketing).\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/DigitalMarketing) if you have any questions or concerns.*",
+          "2025-11-18T13:04:06.690547"
+        ]
+      ],
+      "score_history": [
+        [
+          1,
+          "2025-11-18T13:04:06.690547"
+        ],
+        [
+          1,
+          "2025-11-18T13:48:14.112537"
+        ],
+        [
+          1,
+          "2025-11-18T13:59:25.306530"
+        ],
+        [
+          1,
+          "2025-11-18T14:10:51.370178"
+        ]
+      ],
+      "created_utc": 1763487774.0,
+      "depth": 0,
+      "permalink": "/r/DigitalMarketing/comments/1p0ihuh/ten_people_ten_million_dollars_months_not_years/npj07n0/",
+      "is_submitter": false,
+      "controversiality": 0,
+      "gilded": 0,
+      "edited": false,
+      "deleted": false,
+      "deleted_at": null,
+      "replies": []
+    }
+  ],
+  "metadata": {
+    "scraped_at": "2025-11-18T14:10:51.370178",
+    "scraper_version": "api_recursive_temporal_v1",
+    "source_url": "https://www.reddit.com/r/DigitalMarketing/comments/1p0ihuh/ten_people_ten_million_dollars_months_not_years/",
+    "total_comments": 2,
+    "top_level_comments": 2,
+    "api_requests": 1,
+    "expected_comments": 2,
+    "coverage_percent": 100.0,
+    "merged_snapshot_count": 4,
+    "merged_snapshot_files": [
+      "scrape_001_20251118_130406.json",
+      "scrape_002_20251118_134813.json",
+      "scrape_003_20251118_135925.json",
+      "scrape_004_20251118_141051.json"
+    ]
+  }
+}
