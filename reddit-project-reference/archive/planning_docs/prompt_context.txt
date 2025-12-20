@@ -1,0 +1,146 @@
+[
+  {
+    "id": "npquc4h",
+    "author": "FourEightNineOneOne",
+    "score": 645,
+    "eng": 0,
+    "imp": "322.71",
+    "text": "Is Linux Mint still the go-to for people familiar with Windows and zero experience with Linux?\n\nEdit: Welp, I tried both Mint and Zorin. I can't get any sound to play out of my speakers on either. Did a bunch of googling and still nothing. So yeah...  This is unfortunately why Linux is still not ready for the mainstream crowd.",
+    "parent": "t3_1p1lh0z"
+  },
+  {
+    "id": "npqso30",
+    "author": "encrypted-signals",
+    "score": 439,
+    "eng": 0,
+    "imp": "219.55",
+    "text": "Linux finally getting this type of article on a well-known site is so heartening. Hopefully this spurs a lot of adoption.",
+    "parent": "t3_1p1lh0z"
+  },
+  {
+    "id": "npr4613",
+    "author": "Kind_Buffalo7459",
+    "score": 438,
+    "eng": 0,
+    "imp": "219.11",
+    "text": "Just put ubuntu on a 2012 macbook air and run it as an entertainment/media center and I couldn’t be happier. No bloat, no Ai assistant good god it’s been so nice.",
+    "parent": "t3_1p1lh0z"
+  },
+  {
+    "id": "npqvty9",
+    "author": "MetaphoricDragon",
+    "score": 110,
+    "eng": 0,
+    "imp": "55.01",
+    "text": "I feel this sentiment, but basically every time a new Linux related article is posted, someone is hyping up a different version than the last one, makes it real confusing to try and start.",
+    "parent": "t3_1p1lh0z"
+  },
+  {
+    "id": "npquo6e",
+    "author": "Papapa_555",
+    "score": 109,
+    "eng": 0,
+    "imp": "54.51",
+    "text": "You mean 2026 is the year?",
+    "parent": "t3_1p1lh0z"
+  },
+  {
+    "id": "npr2h6d",
+    "author": "Odur29",
+    "score": 92,
+    "eng": 0,
+    "imp": "46.02",
+    "text": "I've considered it, windows becomes more of a steaming pile of anti consumer bullpucky every day it feels like. If Companies fully supported it, I'd be willing maybe even eager.",
+    "parent": "t3_1p1lh0z"
+  },
+  {
+    "id": "npqz4n0",
+    "author": "SyrupyMolassesMMM",
+    "score": 81,
+    "eng": 0,
+    "imp": "40.51",
+    "text": "Ive been considering this for a while.\n\nPros:\n- i do NOT want a bar of windows 11, fuck. That. Shit.\n- my job is technology adjacent, i could do with more linux experience\n- i already run an unraid server, but im mostly a gui monkey\n- i dont really care if i cant play some games\n\nCons:\n- im really fucking lazy and I HATE troubleshooting and get frustrated pretty quickly\n- i dont have a backup box to test on, and im reluctant to taint an existing box with dual boot as i tend to fuck things up easily\n\nIm actually hoping this gains steam and a few more linux morons try it out over the next little while so i get a bit more data to compare before i dive in.\n\nBut i suspect approaching windows 10 deprecation is when im gonna make the switch and never look back.",
+    "parent": "t3_1p1lh0z"
+  },
+  {
+    "id": "npqw1jp",
+    "author": "EclecticDreck",
+    "score": 21,
+    "eng": 0,
+    "imp": "10.50",
+    "text": "I was pleasantly surprised at how well it actually worked - and entirely unsurprised when I quickly discovered a really obnoxious, difficult to solve problem.  (Soft locking seemingly due to issues figuring out which video card to use in any given moment.)  If I could solve the really obnoxious problem, I think my only remaining concern is modding.  Not that you can't, only that the manual option is seemingly the most appealing option.  But that's not a *real* concern.  Most games I just play as is anyhow, so really this concern was basically \"but maybe I'll play Skyrim/Fallout for the trillionth time\".  (And if I'm honest, the part where I cram mods and launch the game and then tweak mod lists until it's on the cusp of breaking is the experience of playing Skyrim these days.  I mean, yeah, there's a game to play at the other side of all the modding, but once you get things just so, usually the itch to scream at dragons is well and truly scratched!)",
+    "parent": "t3_1p1lh0z"
+  },
+  {
+    "id": "npra05r",
+    "author": "SamhainHighwind",
+    "score": 3,
+    "eng": 0,
+    "imp": "1.51",
+    "text": "I installed Bazzite a few days ago. Runs great!",
+    "parent": "t3_1p1lh0z"
+  },
+  {
+    "id": "nprgybx",
+    "author": "joeblow133",
+    "score": 3,
+    "eng": 0,
+    "imp": "1.51",
+    "text": "I'm using Windows but have been considering switching. My darn laptop seems increasingly slow even though the specs are good. I'm getting tired if all the windows updates.",
+    "parent": "t3_1p1lh0z"
+  },
+  {
+    "id": "nprktod",
+    "author": "Oxeda",
+    "score": 2,
+    "eng": 0,
+    "imp": "1.01",
+    "text": "I would love to completely switch to Linux but chemdraw just doesn't work under wine, and I use that software a lot. \n\nI have a stem deck and tried there numerous times to have chemdraw running, it just always fails one day and that's it, I even tried having an individual prefix for it (all my games and other apps shared s prefix) not shared with anything else and still after days or weeks one day it's gonna crash and never work again.",
+    "parent": "t3_1p1lh0z"
+  },
+  {
+    "id": "nprpvww",
+    "author": "antifa-pewpew",
+    "score": 1,
+    "eng": 0,
+    "imp": "0.50",
+    "text": "Linux has always been the car designed for people who like to get under the hood.\n\n\nDespite the corporatization of mainstream distros, I'd be sad to know that the year of desktop Linux comes at the sacrifice of it being a hobbyist OS.\n\n\n\" Do you mean you're not supposed to spend as much or more time tweaking your system as you are actually computing with it?\"\n\nDistros don't really matter much after a bare install gets  transformed by what's in /usr/local and /opt\n\nGranted, this is coming from a Gray beard that started off with SLS before most of the people reading this were born. Now take your bags on the side and get off my lawn...",
+    "parent": "t3_1p1lh0z"
+  },
+  {
+    "id": "nptjgnu",
+    "author": "justthegrimm",
+    "score": 1,
+    "eng": 0,
+    "imp": "0.50",
+    "text": "Haven't looked back, put it on an old laptop from 2016 and it flies. Actually been using my old laptop over the new one purely for the speed and simplicity, it's like having XP  back with a better UI. No pop-up crap no distractions just an OS doing what it's supposed to do and operate.",
+    "parent": "t3_1p1lh0z"
+  },
+  {
+    "id": "nprpw8b",
+    "author": "lycao",
+    "score": 0,
+    "eng": 0,
+    "imp": "0.00",
+    "text": "Reason #1 I don't use Linux: I want an OS, not a project. \n\nNo, it does not \"Just work\" out of the box. It **will** need tweaking to get everything you run on windows working on it (Assuming that's even possible). Anyone trying to say otherwise is either so used to playing around with settings and adjusting things that they don't think it's a big deal, or deliberately lying to try and act as a cheerleader making it seem better than it is.\n\nReason #2 I don't use Linux: I don't give a shit if the games I play work on it, because the art programs I need for work don't (No, saying \"There's alternatives\" is not a valid counter. I **need** these ones, not the alternatives).\n\nContrary to what most Linux users in this comment section seem to think, most people don't actually give a shit if video games work on it or not. The number of PC's used for gaming is a fraction of the PC's used for anything else but gaming. So saying \"Most games work on it now!\" as a highlight, is not a highlight at all. If anything getting games working on it is the last thing they should be focusing on if they want wide spread adoption.\n\nThat said, I do hope it gets to a point where it does work out of the box like windows. I would love nothing more than to finally be rid of windows/Microsoft.",
+    "parent": "t3_1p1lh0z"
+  },
+  {
+    "id": "nps7sbp",
+    "author": "etamatulg",
+    "score": 0,
+    "eng": 0,
+    "imp": "0.00",
+    "text": "People have insufficient awareness of LTSC.\n\nI am on Win11. I do not have to deal with:\n\n- AI bullshit\n- Cortana\n- Store page/adverts\n\nI installed Windhawk, a UI mod tool. It looks and works just like Win7 or Win10 where I want it to.\n\nAll my games work.",
+    "parent": "t3_1p1lh0z"
+  },
+  {
+    "id": "npr5638",
+    "author": "HanzJWermhat",
+    "score": -2,
+    "eng": 0,
+    "imp": "-1.00",
+    "text": "I finally installed Linux yesterday via EndeavorOS. Fairly easy especially with chatGPT as your install guide. \n\nReally the only thing stopping me from going full hog is that EA doesn’t support anti cheat on Linux even if the games run fine so can’t play BF6. And that doesn’t sound like it’s gonna be fixed soon. \n\nLinux is so much nicer than windows to use. No bullshit",
+    "parent": "t3_1p1lh0z"
+  }
+]

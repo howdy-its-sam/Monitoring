@@ -1,0 +1,119 @@
+# Subreddit Priority List
+# ============================================================================
+# PASTE YOUR PRIORITIZED SUBREDDIT LIST BELOW (one per line, highest first)
+# ============================================================================
+
+# --- TIER 1: PROMPT ENGINEERING (Core & Optimization) ---
+r/PromptEngineering
+r/PromptDesign
+r/PromptCreation
+r/PromptSharing
+r/PromptWorkshop
+r/PromptCritique
+r/AIprompts
+r/ChatGPTprompts
+# r/MachineLearningPrompts - removed (404)
+r/UsefulAIprompts
+r/PromptTrading
+
+# --- TIER 2: AGENTS, WORKFLOWS & ARCHITECTURE ---
+r/AI_Agents
+r/AgentsOfAI
+r/AutoGPT
+r/LangChain
+r/LangGraph
+r/RAG
+r/AIWorkflow
+r/AutomationAI
+r/BuildingAI
+r/AGIaspirants
+
+# --- TIER 3: LOCAL LLMs & RUNTIMES ---
+r/LocalLLaMA
+r/Ollama
+r/LocalAIServers
+r/LLaMA
+r/Llama2
+# r/Llama3 - removed (404)
+r/KoboldAI
+r/SillyTavernAI
+
+# --- TIER 4: CODING & DEV (Prompt-Heavy) ---
+r/ChatGPTCoding
+r/ChatGPTCodingHelp
+r/aidev
+r/AIProgramming
+r/LLM_Development
+r/ProgrammingWithAI
+r/MLEng
+r/LLMDevs
+
+# --- TIER 5: MODEL SPECIFIC COMMUNITIES ---
+r/OpenAI
+r/OpenAIAPI
+r/ChatGPT
+r/ChatGPTPro
+r/GPT3
+# r/GPT4 - removed (403 private)
+r/GPTAssistants
+r/ClaudeAI
+r/Anthropic
+r/GoogleGemini
+r/GoogleAI
+r/GeminiAI
+r/Bard
+r/Bing
+
+# --- TIER 6: RESEARCH & ACADEMIC ML ---
+r/MachineLearning
+r/DeepLearning
+r/ReinforcementLearning
+r/ComputerVision
+r/NLP
+r/LanguageTechnology
+r/LargeLanguageModels
+r/LLMpapers
+r/AIResearch
+r/MachineLearningNews
+r/MLQuestions
+r/learnmachinelearning
+r/compling
+r/ArtificialInteligence
+r/AI_developers
+
+# --- TIER 7: GENERATIVE ART & VIDEO ---
+r/GenerativeAI
+r/Midjourney
+r/MidjourneyPrompts
+r/StableDiffusion
+r/StableDiffusionAI
+r/StableDiffusionHelp
+r/aiArt
+r/AIArtPrompts
+r/GenAIArt
+r/runwayml
+r/PikaLabs
+r/VideoAI
+
+# --- TIER 8: INDUSTRY, DATA & OPS ---
+r/DataScience
+r/DataEngineering
+r/MLOps
+r/marketing
+r/DigitalMarketing
+r/ContentMarketing
+r/TechNews
+r/CyberSecurity
+r/Robotics
+
+# --- TIER 9: SOCIETY, ETHICS & FUTURISM ---
+r/HumanAIDiscourse
+r/AIethics
+r/Futurology
+r/singularity
+r/Transhuman
+r/AInews
+r/HealthAI
+r/artificial
+r/technology
+r/AskTechnology
